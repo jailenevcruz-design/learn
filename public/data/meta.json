@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-16T16:28:47.295Z",
+  "lastUpdated": "2026-07-26T19:11:49.558Z",
   "topStory": {
-    "categoryKey": "business",
+    "categoryKey": "tech",
     "article": {
-      "headline": "Mid-cap earnings beat expectations across nearly every sector",
-      "summary": "Roughly 80% of mid-cap companies have now reported, with average earnings coming in above analyst estimates. Guidance for next quarter stayed conservative.",
-      "publisher": "CNBC",
-      "url": "https://www.cnbc.com",
+      "headline": "The US is charging an American citizen for wiping his phone at the border",
+      "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitati…",
+      "publisher": "The Verge",
+      "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
       "image_url": null,
-      "published_at": "2026-07-16T16:15:55.977178+00:00"
+      "published_at": "2026-07-26T18:45:50.000Z"
     }
   }
 }

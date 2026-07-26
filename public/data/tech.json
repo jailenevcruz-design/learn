@@ -1,5 +1,245 @@
 [
   {
+    "headline": "The US is charging an American citizen for wiping his phone at the border",
+    "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitati…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+    "image_url": null,
+    "published_at": "2026-07-26T18:45:50.000Z"
+  },
+  {
+    "headline": "Inside one London founder house rewriting the founder-house rules",
+    "summary": "How one founder house is betting work-life balance can beat burnout .",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+    "image_url": null,
+    "published_at": "2026-07-26T17:03:19.000Z"
+  },
+  {
+    "headline": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "image_url": null,
+    "published_at": "2026-07-26T16:33:13.000Z"
+  },
+  {
+    "headline": "TechCrunch Mobility: Uber bets on its former CEO",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+    "image_url": null,
+    "published_at": "2026-07-26T16:03:00.000Z"
+  },
+  {
+    "headline": "Carrie is just trying to make a friend in the new trailer",
+    "summary": "The latest adaptation debuts October 7th. | Image: Amazon Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. If you're familiar with Carrie at all, it…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
+    "image_url": null,
+    "published_at": "2026-07-26T15:33:27.000Z"
+  },
+  {
+    "headline": "You can get three months of Xbox Game Pass Ultimate for almost half off",
+    "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba that costs $39.01 at the time of publicatio…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+    "image_url": null,
+    "published_at": "2026-07-26T15:00:00.000Z"
+  },
+  {
+    "headline": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
+    "summary": "Ryan Gosling on stage at Comic-Con | Image: Marvel Studios While perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was certainly the announcement that Ryan Gosling would be joining the MCU as Ghost Rider, with the Shawn Levy-directed (Deadpool…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
+    "image_url": null,
+    "published_at": "2026-07-26T14:51:33.000Z"
+  },
+  {
+    "headline": "The vertical video takeover is here",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started For a while, every social and media platform had…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+    "image_url": null,
+    "published_at": "2026-07-26T12:00:00.000Z"
+  },
+  {
+    "headline": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "image_url": null,
+    "published_at": "2026-07-26T01:30:00.000Z"
+  },
+  {
+    "headline": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+    "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+    "image_url": null,
+    "published_at": "2026-07-25T20:55:11.000Z"
+  },
+  {
+    "headline": "The hacker who humiliated spyware makers and was never caught",
+    "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+    "image_url": null,
+    "published_at": "2026-07-25T20:24:14.000Z"
+  },
+  {
+    "headline": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+    "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+    "image_url": null,
+    "published_at": "2026-07-25T19:23:32.000Z"
+  },
+  {
+    "headline": "Google basically confirms the Pixel 11 is getting a price hike",
+    "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+    "image_url": null,
+    "published_at": "2026-07-25T18:13:36.000Z"
+  },
+  {
+    "headline": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+    "summary": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+    "image_url": null,
+    "published_at": "2026-07-25T16:46:46.000Z"
+  },
+  {
+    "headline": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "image_url": null,
+    "published_at": "2026-07-25T16:00:00.000Z"
+  },
+  {
+    "headline": "Synth historian Oli Freke will spend big on a good bicycle",
+    "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+    "image_url": null,
+    "published_at": "2026-07-25T15:15:00.000Z"
+  },
+  {
+    "headline": "Teenage Engineering’s unique music machines are 30 percent off",
+    "summary": "Teenage Engineering’s OP-XY has a huge number of functions. | Photo by Terrence O’Brien / The Verge With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+    "image_url": null,
+    "published_at": "2026-07-25T15:00:00.000Z"
+  },
+  {
+    "headline": "Warner Bros. is suing Amazon for poaching employees",
+    "summary": "Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that \"Amazon has chosen to ride on the coattails of other well-established Hollywood mainstays,\" and that it engaged in a \"lawl…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+    "image_url": null,
+    "published_at": "2026-07-25T14:05:12.000Z"
+  },
+  {
+    "headline": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "image_url": null,
+    "published_at": "2026-07-25T13:05:00.000Z"
+  },
+  {
+    "headline": "Is this e-reader case a gun?",
+    "summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically atop the plastic gun's slide, with a cutout on the side to access its buttons. T…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+    "image_url": null,
+    "published_at": "2026-07-25T13:00:00.000Z"
+  },
+  {
+    "headline": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "image_url": null,
+    "published_at": "2026-07-25T00:23:11.000Z"
+  },
+  {
+    "headline": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+    "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+    "image_url": null,
+    "published_at": "2026-07-24T23:25:47.000Z"
+  },
+  {
+    "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "image_url": null,
+    "published_at": "2026-07-24T22:25:58.000Z"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+    "summary": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+    "image_url": null,
+    "published_at": "2026-07-24T22:10:00.000Z"
+  },
+  {
+    "headline": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+    "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+    "image_url": null,
+    "published_at": "2026-07-24T21:15:00.000Z"
+  },
+  {
+    "headline": "Waymo reportedly mulling a breakup with Uber",
+    "summary": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+    "image_url": null,
+    "published_at": "2026-07-24T20:43:35.000Z"
+  },
+  {
+    "headline": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+    "summary": "The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
+    "image_url": null,
+    "published_at": "2026-07-24T19:56:23.000Z"
+  },
+  {
+    "headline": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+    "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+    "image_url": null,
+    "published_at": "2026-07-24T18:07:32.000Z"
+  },
+  {
+    "headline": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
+    "summary": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
+    "image_url": null,
+    "published_at": "2026-07-24T17:53:30.000Z"
+  },
+  {
+    "headline": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
+    "summary": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
+    "image_url": null,
+    "published_at": "2026-07-24T17:33:19.000Z"
+  },
+  {
     "headline": "Chipmaker unveils next-gen processor aimed at on-device AI",
     "summary": "The new chip promises faster on-device model inference while cutting power draw, according to benchmarks shared ahead of launch.",
     "publisher": "The Verge",
