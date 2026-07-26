@@ -120,3 +120,14 @@ async function main() {
 
   const meta = {
     lastUpdated: new Date().toISOString(),
+    topStory,
+  };
+  await writeFile(path.join(DATA_DIR, 'meta.json'), JSON.stringify(meta, null, 2));
+
+  console.log('Done. Wrote', Object.keys(results).length, 'category files + meta.json');
+}
+
+main().catch((err) => {
+  console.error('Fatal error in fetch-news.mjs:', err);
+  process.exit(1);
+});
