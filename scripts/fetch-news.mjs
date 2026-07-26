@@ -54,27 +54,29 @@ async function loadExisting(categoryKey) {
 }
 
 async function fetchCategory(category) {
-  const fetched = [];
+  const feedResults = await Promise.allSettled(
+    category.feeds.map((feed) => parser.parseURL(feed.url))
+  );
 
-  for (const feed of category.feeds) {
-    try {
-      const parsed = await parser.parseURL(feed.url);
-      for (const item of parsed.items ?? []) {
-        if (!item.link || !item.title) continue;
-        fetched.push({
-          headline: item.title.trim(),
-          summary: cleanSummary(item),
-          publisher: feed.name,
-          url: item.link,
-          image_url: extractImage(item),
-          published_at: toPublishedAt(item),
-        });
-      }
-    } catch (err) {
-      console.warn(`[${category.key}] Failed to fetch ${feed.name} (${feed.url}): ${err.message}`);
-      // One broken feed shouldn't take down the whole category or run.
+  const fetched = [];
+  category.feeds.forEach((feed, i) => {
+    const result = feedResults[i];
+    if (result.status === 'rejected') {
+      console.warn(`[${category.key}] Failed to fetch ${feed.name} (${feed.url}): ${result.reason?.message}`);
+      return; // one broken feed shouldn't take down the whole category or run
     }
-  }
+    for (const item of result.value.items ?? []) {
+      if (!item.link || !item.title) continue;
+      fetched.push({
+        headline: item.title.trim(),
+        summary: cleanSummary(item),
+        publisher: feed.name,
+        url: item.link,
+        image_url: extractImage(item),
+        published_at: toPublishedAt(item),
+      });
+    }
+  });
 
   const existing = await loadExisting(category.key);
   const seenUrls = new Set();
@@ -94,10 +96,13 @@ async function fetchCategory(category) {
 async function main() {
   await mkdir(DATA_DIR, { recursive: true });
 
+  console.log(`Fetching ${CATEGORIES.length} categories in parallel...`);
   const results = {};
-  for (const category of CATEGORIES) {
-    console.log(`Fetching ${category.label}...`);
-    results[category.key] = await fetchCategory(category);
+  const categoryResults = await Promise.all(
+    CATEGORIES.map(async (category) => [category.key, await fetchCategory(category)])
+  );
+  for (const [key, articles] of categoryResults) {
+    results[key] = articles;
   }
 
   for (const [key, articles] of Object.entries(results)) {
@@ -115,14 +120,3 @@ async function main() {
 
   const meta = {
     lastUpdated: new Date().toISOString(),
-    topStory,
-  };
-  await writeFile(path.join(DATA_DIR, 'meta.json'), JSON.stringify(meta, null, 2));
-
-  console.log('Done. Wrote', Object.keys(results).length, 'category files + meta.json');
-}
-
-main().catch((err) => {
-  console.error('Fatal error in fetch-news.mjs:', err);
-  process.exit(1);
-});
