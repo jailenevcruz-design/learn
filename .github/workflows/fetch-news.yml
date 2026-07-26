@@ -2,8 +2,10 @@ name: Fetch news
 
 on:
   schedule:
+    # Runs at the top of every hour. GitHub's schedule can drift a few
+    # minutes under load -- that's normal and fine for this use case.
     - cron: '0 * * * *'
-  workflow_dispatch: {}
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
 
 permissions:
   contents: write
@@ -11,6 +13,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
