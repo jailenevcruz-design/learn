@@ -1,11 +1,107 @@
 [
   {
+    "headline": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
+    "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+    "image_url": null,
+    "published_at": "2026-07-27T21:29:50.000Z"
+  },
+  {
+    "headline": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
+    "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+    "image_url": null,
+    "published_at": "2026-07-27T21:29:40.000Z"
+  },
+  {
+    "headline": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+    "summary": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+    "image_url": null,
+    "published_at": "2026-07-27T21:26:03.000Z"
+  },
+  {
+    "headline": "Apple ends day as world's most valuable company, passing Nvidia",
+    "summary": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+    "image_url": null,
+    "published_at": "2026-07-27T21:12:26.000Z"
+  },
+  {
+    "headline": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chairman Kevin Warsh will say this week",
+    "summary": "Kalshi traders are predicting Warsh will mention last week's supply shock at this week's Federal Reserve press conference.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
+    "image_url": null,
+    "published_at": "2026-07-27T20:52:29.000Z"
+  },
+  {
+    "headline": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
+    "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+    "image_url": null,
+    "published_at": "2026-07-27T20:52:29.000Z"
+  },
+  {
+    "headline": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
+    "summary": "President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
+    "image_url": null,
+    "published_at": "2026-07-27T20:51:08.000Z"
+  },
+  {
+    "headline": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+    "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+    "image_url": null,
+    "published_at": "2026-07-27T20:10:27.000Z"
+  },
+  {
+    "headline": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
+    "summary": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
+    "image_url": null,
+    "published_at": "2026-07-27T20:10:03.000Z"
+  },
+  {
     "headline": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
     "summary": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
     "image_url": null,
-    "published_at": "2026-07-27T17:19:29.000Z"
+    "published_at": "2026-07-27T19:48:30.000Z"
+  },
+  {
+    "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
+    "summary": "This is yet another sign that investors need to look beyond AI stocks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
+    "image_url": null,
+    "published_at": "2026-07-27T19:46:20.000Z"
+  },
+  {
+    "headline": "Op-ed: Over 2,000 proposals aim to govern AI. Not a single one addresses a long-term regulatory framework",
+    "summary": "AI can't be regulated by the invisible hand of the market. We need a comprehensive future-focused regulatory framework.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/ai-industry-risk-future-regulation.html",
+    "image_url": null,
+    "published_at": "2026-07-27T19:22:12.000Z"
+  },
+  {
+    "headline": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
+    "summary": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and capital rotated away from chip and AI infrastructure names.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
+    "image_url": null,
+    "published_at": "2026-07-27T19:14:30.000Z"
   },
   {
     "headline": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
@@ -13,7 +109,55 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html",
     "image_url": null,
-    "published_at": "2026-07-27T17:17:23.000Z"
+    "published_at": "2026-07-27T19:08:10.000Z"
+  },
+  {
+    "headline": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
+    "summary": "President Trump Monday voiced support for Federal Reserve Chairman Kevin Warsh while insisting that the U.S. should have the lowest interest rates in the world.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/trump-warsh-interest-rates.html",
+    "image_url": null,
+    "published_at": "2026-07-27T18:15:18.000Z"
+  },
+  {
+    "headline": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+    "summary": "CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+    "image_url": null,
+    "published_at": "2026-07-27T18:06:35.000Z"
+  },
+  {
+    "headline": "U.S. and Iran pause fighting, Trump dismisses concerns of dwindling stockpiles",
+    "summary": "A temporary pause to the U.S.-Iran conflict appeared to hold on Monday, after negotiations over a lasting peace faced fresh hurdles over the weekend.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-07-27T17:43:48.000Z"
+  },
+  {
+    "headline": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
+    "summary": "The proposed network will partly rely on assets from Globalstar, which Amazon announced plans to acquire in April for roughly $11.6 billion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
+    "image_url": null,
+    "published_at": "2026-07-27T17:42:47.000Z"
+  },
+  {
+    "headline": "Comey asks judge to dismiss Trump 'seashells' case citing lack of 'true threat'",
+    "summary": "Ex-FBI Director James Comey is charged with threatening to kill President Donald Trump by posting an Instagram photo of seashells forming the message \"8647.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/james-comey-trump-seashells-threat.html",
+    "image_url": null,
+    "published_at": "2026-07-27T17:39:33.000Z"
+  },
+  {
+    "headline": "Netflix woes setting up for a Hollywood ending, says trader Mike Khouw",
+    "summary": "Netflix's stock price may have lost the plot, but its fundamental narrative remains intact.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/netflix-woes-setting-up-for-a-hollywood-ending-says-trader-mike-khouw.html",
+    "image_url": null,
+    "published_at": "2026-07-27T17:25:45.000Z"
   },
   {
     "headline": "Trump Account signups reach 7 million — Bessent says it's 'the most successful launch in government history'",
@@ -40,68 +184,12 @@
     "published_at": "2026-07-27T17:13:36.000Z"
   },
   {
-    "headline": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
-    "summary": "President Trump Monday voiced support for Federal Reserve Chairman Kevin Warsh while insisting that the U.S. should have the lowest interest rates in the world.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/trump-warsh-interest-rates.html",
-    "image_url": null,
-    "published_at": "2026-07-27T17:13:35.000Z"
-  },
-  {
-    "headline": "Comey asks judge to dismiss Trump 'seashells' case citing lack of 'true threat'",
-    "summary": "Ex-FBI Director James Comey is charged with threatening to kill President Donald Trump by posting an Instagram photo of seashells forming the message \"8647.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/james-comey-trump-seashells-threat.html",
-    "image_url": null,
-    "published_at": "2026-07-27T16:54:29.000Z"
-  },
-  {
     "headline": "Why Boeing and Corning are moving in opposite directions and what to expect next",
     "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/27/why-boeing-corning-are-moving-in-opposite-directions-and-whats-next.html",
     "image_url": null,
     "published_at": "2026-07-27T16:09:09.000Z"
-  },
-  {
-    "headline": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
-    "summary": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
-    "image_url": null,
-    "published_at": "2026-07-27T15:54:52.000Z"
-  },
-  {
-    "headline": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
-    "summary": "The proposed network will partly rely on assets from Globalstar, which Amazon announced plans to acquire in April for roughly $11.6 billion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
-    "image_url": null,
-    "published_at": "2026-07-27T15:53:18.000Z"
-  },
-  {
-    "headline": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
-    "summary": "CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
-    "image_url": null,
-    "published_at": "2026-07-27T15:50:20.000Z"
-  },
-  {
-    "headline": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
-    "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
-    "image_url": null,
-    "published_at": "2026-07-27T15:27:45.000Z"
-  },
-  {
-    "headline": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-    "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-    "image_url": null,
-    "published_at": "2026-07-27T15:24:16.000Z"
   },
   {
     "headline": "Europe wildfire in pictures: Gigantic fire cloud engulfing France, Spain regions",
@@ -118,14 +206,6 @@
     "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
     "image_url": null,
     "published_at": "2026-07-27T14:19:43.000Z"
-  },
-  {
-    "headline": "U.S. and Iran pause fighting to give peace talks 'space.' Here's where negotiations stand",
-    "summary": "A temporary pause to the U.S.-Iran conflict appeared to hold on Monday, after negotiations over a lasting peace faced fresh hurdles over the weekend.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-07-27T14:14:38.000Z"
   },
   {
     "headline": "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting",
