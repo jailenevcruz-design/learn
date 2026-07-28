@@ -1,5 +1,245 @@
 [
   {
+    "headline": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+    "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as \"John Doe 1 and John Does 2 through 100.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+    "image_url": null,
+    "published_at": "2026-07-28T21:48:50.000Z"
+  },
+  {
+    "headline": "Bot-detection startup Spur nabs $200M from Insight",
+    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "image_url": null,
+    "published_at": "2026-07-28T21:29:34.000Z"
+  },
+  {
+    "headline": "The union drive at the Wikimedia Foundation is expanding",
+    "summary": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intentions to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the nonprofit have declined to voluntarily recognize their union. \"While the Wikimedia Foundation touts…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
+    "image_url": null,
+    "published_at": "2026-07-28T21:11:11.000Z"
+  },
+  {
+    "headline": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+    "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+    "image_url": null,
+    "published_at": "2026-07-28T21:11:11.000Z"
+  },
+  {
+    "headline": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "image_url": null,
+    "published_at": "2026-07-28T20:45:12.000Z"
+  },
+  {
+    "headline": "Sam Altman is ready to decelerate",
+    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "image_url": null,
+    "published_at": "2026-07-28T20:17:08.000Z"
+  },
+  {
+    "headline": "AI leaders sign statement asking the government to do something about automated AI",
+    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could he…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "image_url": null,
+    "published_at": "2026-07-28T19:46:43.000Z"
+  },
+  {
+    "headline": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
+    "summary": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others who have had their devices searched at airports: He was an activist. Unlike others who have had their phones seized with no explanation, Tunic…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
+    "image_url": null,
+    "published_at": "2026-07-28T19:35:00.000Z"
+  },
+  {
+    "headline": "AI’s finally expensive enough to make Wall Street nervous",
+    "summary": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new p…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+    "image_url": null,
+    "published_at": "2026-07-28T19:33:03.000Z"
+  },
+  {
+    "headline": "This comfy gaming headset that can play audio from two sources is $25",
+    "summary": "The Hybrid adds Bluetooth functionality to the wired H3, seen here. | Photo by Cameron Faulkner / The Verge While most gaming headsets have moved towards low-latency wireless connections, there’s something to be said for a budget-friendly, capable wired headset. The EPOS H3 Hybrid is on sale for just $24.99 at Woot, a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
+    "image_url": null,
+    "published_at": "2026-07-28T19:18:15.000Z"
+  },
+  {
+    "headline": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
+    "summary": "In June, Nintendo announced a new version of the Switch 2 that should let you easily replace its battery pack - but only for Europe. Logitech will do much the same. User-replaceable batteries will be the law in Europe in February 2027, but instead of bringing them to the rest of the world, Logitech plans to ship one ve…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
+    "image_url": null,
+    "published_at": "2026-07-28T19:12:48.000Z"
+  },
+  {
+    "headline": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
+    "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+    "image_url": null,
+    "published_at": "2026-07-28T19:09:18.000Z"
+  },
+  {
+    "headline": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+    "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+    "image_url": null,
+    "published_at": "2026-07-28T19:07:31.000Z"
+  },
+  {
+    "headline": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+    "summary": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+    "image_url": null,
+    "published_at": "2026-07-28T19:06:33.000Z"
+  },
+  {
+    "headline": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
+    "summary": "Apple says it won't limit the capabilities of devices leased through its new Upgrade program if you miss a payment. In an emailed statement to The Verge, Apple spokesperson Brian Bumbery says, \"There will be no restricted mode and/or there will be no limitations put on device functionality due to missed payments or def…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
+    "image_url": null,
+    "published_at": "2026-07-28T18:43:57.000Z"
+  },
+  {
+    "headline": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
+    "summary": "Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
+    "image_url": null,
+    "published_at": "2026-07-28T18:35:29.000Z"
+  },
+  {
+    "headline": "These App Store hidden gems prove there’s still room for great software in the AI era",
+    "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+    "image_url": null,
+    "published_at": "2026-07-28T18:16:39.000Z"
+  },
+  {
+    "headline": "New Yorkers will soon need to verify their age to access algorithmic feeds",
+    "summary": "New Yorkers who want to see their Instagram or TikTok feed curated by an algorithm, or receive notification after midnight, will soon have to verify their ages to access those features. New York Attorney General Letitia James (D) released a set of final rules on how to implement the SAFE for Kids Act, signed into law b…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/972007/new-york-safe-for-kids-act-age-verification",
+    "image_url": null,
+    "published_at": "2026-07-28T18:09:32.000Z"
+  },
+  {
+    "headline": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
+    "summary": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
+    "image_url": null,
+    "published_at": "2026-07-28T17:57:57.000Z"
+  },
+  {
+    "headline": "Saudi prince buys 5% stake in Lucid Motors",
+    "summary": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
+    "image_url": null,
+    "published_at": "2026-07-28T17:33:51.000Z"
+  },
+  {
+    "headline": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+    "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+    "image_url": null,
+    "published_at": "2026-07-28T15:42:26.000Z"
+  },
+  {
+    "headline": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+    "summary": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+    "image_url": null,
+    "published_at": "2026-07-28T15:10:10.000Z"
+  },
+  {
+    "headline": "Elon Musk’s X Money app is rolling out in the US",
+    "summary": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+    "image_url": null,
+    "published_at": "2026-07-28T14:57:12.000Z"
+  },
+  {
+    "headline": "WhatsApp now lets you make calls using its web app",
+    "summary": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+    "image_url": null,
+    "published_at": "2026-07-28T14:53:22.000Z"
+  },
+  {
+    "headline": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "image_url": null,
+    "published_at": "2026-07-28T14:00:00.000Z"
+  },
+  {
+    "headline": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+    "summary": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+    "image_url": null,
+    "published_at": "2026-07-28T13:50:27.000Z"
+  },
+  {
+    "headline": "Recursive Superintelligence signs $410M compute deal with Amazon",
+    "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "image_url": null,
+    "published_at": "2026-07-28T13:19:17.000Z"
+  },
+  {
+    "headline": "Granola launches an Apple Watch app",
+    "summary": "AI note-taking app Granola is launching an app for the Apple Watch in hopes that its users will want to record meetings and take notes without using their smartphones.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+    "image_url": null,
+    "published_at": "2026-07-28T13:00:00.000Z"
+  },
+  {
+    "headline": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+    "summary": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+    "image_url": null,
+    "published_at": "2026-07-28T08:00:00.000Z"
+  },
+  {
+    "headline": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "image_url": null,
+    "published_at": "2026-07-28T04:30:00.000Z"
+  },
+  {
     "headline": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
     "summary": "The Razer Huntsman V3 Pro features doubleshot PBT keycaps. Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing adjustable optical switches that are more…",
     "publisher": "The Verge",

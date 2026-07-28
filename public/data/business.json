@@ -1,5 +1,261 @@
 [
   {
+    "headline": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
+    "summary": "Ford cited operational improvements, resilient vehicle pricing and a high sales mix of profitable products for its performance and the improved guidance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-07-28T21:44:31.000Z"
+  },
+  {
+    "headline": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
+    "summary": "\"America won the first Space Race, and we can do it again — but only if we get government red tape out of the way,\" Transportation Secretary Sean Duffy said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
+    "image_url": null,
+    "published_at": "2026-07-28T21:14:31.000Z"
+  },
+  {
+    "headline": "Senate set to vote on Trump's pick for spy chief, ending Bill Pulte's brief tenure",
+    "summary": "The Senate on Tuesday is expected to vote on Jay Clayton, President Donald Trump's nominee to become the director of national intelligence.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
+    "image_url": null,
+    "published_at": "2026-07-28T21:05:36.000Z"
+  },
+  {
+    "headline": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
+    "summary": "Record high housing costs have pushed the wealth gap between renters and owners wider than ever. It's been a boon for owners even as many others are priced out.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
+    "image_url": null,
+    "published_at": "2026-07-28T20:14:20.000Z"
+  },
+  {
+    "headline": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
+    "summary": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-28T20:01:06.000Z"
+  },
+  {
+    "headline": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+    "summary": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+    "image_url": null,
+    "published_at": "2026-07-28T19:45:10.000Z"
+  },
+  {
+    "headline": "Analysis: Kevin Warsh has three reasons to hold off on a Fed rate hike this week",
+    "summary": "At the Fed’s July meeting, the new chairman will reveal how he weighs energy shocks, AI-driven price pressure, the task forces and pressure from Trump.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/warsh-fed-rate-decision-trump-powell-analysis.html",
+    "image_url": null,
+    "published_at": "2026-07-28T19:25:29.000Z"
+  },
+  {
+    "headline": "The Dow jumps as the AI trade wobbles. Plus, a portfolio name goes on the M&A hunt",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/the-dow-jumps-as-the-ai-trade-wobbles-plus-a-portfolio-name-goes-on-the-ma-hunt.html",
+    "image_url": null,
+    "published_at": "2026-07-28T19:15:15.000Z"
+  },
+  {
+    "headline": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
+    "summary": "McConnell’s prolonged absence could complicate the GOP’s narrow Senate majority and trigger an untested Kentucky vacancy process.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html",
+    "image_url": null,
+    "published_at": "2026-07-28T19:03:40.000Z"
+  },
+  {
+    "headline": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
+    "summary": "It's been a rough month for Elon Musk, if there is such a thing for the world's richest man.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
+    "image_url": null,
+    "published_at": "2026-07-28T18:56:34.000Z"
+  },
+  {
+    "headline": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure",
+    "summary": "The reserve has an authorized storage capacity of 714 million barrels, according to the Department of Energy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/us-strategic-petroleum-reserve-spr-iran-oil-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-07-28T18:49:34.000Z"
+  },
+  {
+    "headline": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+    "summary": "The letter is part of the commission’s public comment period for the first draft of its proposed rule on regulating prediction markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
+    "image_url": null,
+    "published_at": "2026-07-28T18:27:43.000Z"
+  },
+  {
+    "headline": "Senate to set up key vote on Russia sanctions",
+    "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
+    "image_url": null,
+    "published_at": "2026-07-28T18:17:55.000Z"
+  },
+  {
+    "headline": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
+    "summary": "The Facebook and Instagram owner is set to report earnings after the market close on Wednesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
+    "image_url": null,
+    "published_at": "2026-07-28T17:40:03.000Z"
+  },
+  {
+    "headline": "Shein says it's under investigation by the Federal Trade Commission as it prepares for Hong Kong IPO",
+    "summary": "Shein disclosed the FTC is investigating its U.S. business, but the nature of the probe is unclear.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
+    "image_url": null,
+    "published_at": "2026-07-28T17:12:52.000Z"
+  },
+  {
+    "headline": "Trump: New tariffs 'doing the same thing' as the ones struck down by Supreme Court",
+    "summary": "President Trump dismissed fears his tariffs could hurt the economy — especially as affordability concerns have become a key issue of the 2026 midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/trump-usmca-canada-mexico-trade-deal.html",
+    "image_url": null,
+    "published_at": "2026-07-28T16:51:11.000Z"
+  },
+  {
+    "headline": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
+    "summary": "Ina and David Steiner run a popular ecommerce blog that had angered eBay executives due to its critical coverage.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
+    "image_url": null,
+    "published_at": "2026-07-28T16:42:45.000Z"
+  },
+  {
+    "headline": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+    "summary": "Brokerages, startups and even retail investors are building AI agents that can help oversee portfolios and automate investing tasks once handled by humans.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+    "image_url": null,
+    "published_at": "2026-07-28T16:16:25.000Z"
+  },
+  {
+    "headline": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
+    "summary": "Trump and Zelenskyy meet as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
+    "image_url": null,
+    "published_at": "2026-07-28T15:59:04.000Z"
+  },
+  {
+    "headline": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
+    "summary": "Talks over the Strait of Hormuz continue as Iran's Foreign Ministry discussed the strategically vital maritime passage with Saudi and Omani counterparts.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-07-28T15:40:32.000Z"
+  },
+  {
+    "headline": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+    "summary": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+    "image_url": null,
+    "published_at": "2026-07-28T15:38:04.000Z"
+  },
+  {
+    "headline": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+    "summary": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+    "image_url": null,
+    "published_at": "2026-07-28T15:35:48.000Z"
+  },
+  {
+    "headline": "New Republican ads slam Democrats opposed to Trump's tariffs",
+    "summary": "As the 2026 midterm elections approach, the National Republican Congressional Committee is knocking Democrats who have opposed President Donald Trump's tariffs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/trump-tariffs-trade-election-advertising.html",
+    "image_url": null,
+    "published_at": "2026-07-28T14:48:13.000Z"
+  },
+  {
+    "headline": "Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands",
+    "summary": "Coca-Cola said demand for its drinks rose in every market in the second quarter, helped in part by the World Cup.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-28T14:42:59.000Z"
+  },
+  {
+    "headline": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
+    "summary": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-28T13:56:52.000Z"
+  },
+  {
+    "headline": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
+    "summary": "President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
+    "image_url": null,
+    "published_at": "2026-07-28T12:39:13.000Z"
+  },
+  {
+    "headline": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
+    "summary": "Apple is announcing an iPhone lease option weeks after raising iPad and Mac prices due to the global memory shortage.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
+    "image_url": null,
+    "published_at": "2026-07-28T12:38:50.000Z"
+  },
+  {
+    "headline": "Lawmakers renew push to axe a lucrative tax loophole for crypto investors",
+    "summary": "Crypto investors have largely been exempt from the \"wash sale\" rules that apply to stocks and other traditional assets. Congress is trying to clamp down.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/congress-renews-push-to-end-crypto-wash-sale-tax-loophole.html",
+    "image_url": null,
+    "published_at": "2026-07-28T12:15:01.000Z"
+  },
+  {
+    "headline": "SpaceX stock-purchasing by Congress members fuels conflict concerns",
+    "summary": "Five of the Congress members serve on committees whose work touches SpaceX's federal contracts, defense programs, AI, telecommunications or securities markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
+    "image_url": null,
+    "published_at": "2026-07-28T10:30:01.000Z"
+  },
+  {
+    "headline": "AI tokens could become the kilowatt-hour of the AI age",
+    "summary": "AI companies use tokens to track usage and bill customers. Now economists are using them to track the spread of AI through the economy.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
+    "image_url": null,
+    "published_at": "2026-07-28T10:30:00.000Z"
+  },
+  {
+    "headline": "Yes, it's possible to save money while paying off credit card debt. Here's how",
+    "summary": "In fact, experts recommend it because it can keep you off the hamster wheel of debt. Here's how to find the money in your budget to put toward savings and credit card payments.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/28/nx-s1-5866642/yes-its-possible-to-save-money-while-paying-off-credit-card-debt-heres-how",
+    "image_url": null,
+    "published_at": "2026-07-28T09:02:00.000Z"
+  },
+  {
+    "headline": "Supreme Court approval hits record low as Republicans' support declines",
+    "summary": "The Trump administration saw some big losses at the Supreme Court in 2026 on issues involving tariffs, birthright citizenship and the Federal Reserve.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/supreme-court-approval-poll-gallup-republicans-trump.html",
+    "image_url": null,
+    "published_at": "2026-07-28T08:00:01.000Z"
+  },
+  {
     "headline": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
     "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
     "publisher": "CNBC",
@@ -14,14 +270,6 @@
     "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
     "image_url": null,
     "published_at": "2026-07-27T21:29:40.000Z"
-  },
-  {
-    "headline": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
-    "summary": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
-    "image_url": null,
-    "published_at": "2026-07-27T21:26:03.000Z"
   },
   {
     "headline": "Apple ends day as world's most valuable company, passing Nvidia",
@@ -46,14 +294,6 @@
     "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
     "image_url": null,
     "published_at": "2026-07-27T20:52:29.000Z"
-  },
-  {
-    "headline": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
-    "summary": "President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
-    "image_url": null,
-    "published_at": "2026-07-27T20:51:08.000Z"
   },
   {
     "headline": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
