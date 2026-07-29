@@ -1,11 +1,75 @@
 [
   {
+    "headline": "Google brings its age-assurance technology to Android developers worldwide",
+    "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
+    "image_url": null,
+    "published_at": "2026-07-29T17:00:00.000Z"
+  },
+  {
+    "headline": "Full school day cell phone bans are more popular than ever",
+    "summary": "As schools across the country continue to implement cell phone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cell phones in middle and high school classes, and 48 percent support banning them for the entire school day. That's the first tim…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
+    "image_url": null,
+    "published_at": "2026-07-29T16:42:44.000Z"
+  },
+  {
+    "headline": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+    "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+    "image_url": null,
+    "published_at": "2026-07-29T15:36:48.000Z"
+  },
+  {
+    "headline": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "image_url": null,
+    "published_at": "2026-07-29T15:35:09.000Z"
+  },
+  {
+    "headline": "The Ferrari Luce has at least 500 fans",
+    "summary": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly earnings on Thursday, the Financial Times reports that Ferrari was aiming to sell \"just under 500\" Luce units this year,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
+    "image_url": null,
+    "published_at": "2026-07-29T15:28:50.000Z"
+  },
+  {
+    "headline": "Remarkable’s refurbished bundle is an awesome deal that’s over $350 off",
+    "summary": "The Remarkable Paper Pro bundle comes with a stylus and a folio cover. A lot of us here at The Verge are fans of Remarkable’s digital note-taking tablets, and right now one of its higher-end options is much cheaper than usual. The Remarkable Paper Pro normally sells for $629 on its own, but Woot is currently offering a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale",
+    "image_url": null,
+    "published_at": "2026-07-29T15:09:24.000Z"
+  },
+  {
+    "headline": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+    "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+    "image_url": null,
+    "published_at": "2026-07-29T15:00:00.000Z"
+  },
+  {
     "headline": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "summary": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
     "image_url": null,
     "published_at": "2026-07-29T14:41:06.000Z"
+  },
+  {
+    "headline": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
+    "summary": "With the Light Phone, Kaiwei Tang and Joe Hollier have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a growing wave of “attention activists” pushing back a…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
+    "image_url": null,
+    "published_at": "2026-07-29T14:00:00.000Z"
   },
   {
     "headline": "DoorDash is going airborne with new drone delivery division",
