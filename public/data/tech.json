@@ -1,5 +1,69 @@
 [
   {
+    "headline": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "image_url": null,
+    "published_at": "2026-07-29T19:44:49.000Z"
+  },
+  {
+    "headline": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "image_url": null,
+    "published_at": "2026-07-29T18:45:27.000Z"
+  },
+  {
+    "headline": "What’s the catch with the Apple Upgrade program?",
+    "summary": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the device over the course of the one- to three-year lease, and in some cases, you'll pay hundreds of dollar…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+    "image_url": null,
+    "published_at": "2026-07-29T18:40:06.000Z"
+  },
+  {
+    "headline": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+    "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+    "image_url": null,
+    "published_at": "2026-07-29T18:15:02.000Z"
+  },
+  {
+    "headline": "The US government just banned Roombas",
+    "summary": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacuum cleaners too, FCC media relations dir…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+    "image_url": null,
+    "published_at": "2026-07-29T18:13:09.000Z"
+  },
+  {
+    "headline": "Sorry, haters. Ferrari’s first EV is doing just fine",
+    "summary": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
+    "image_url": null,
+    "published_at": "2026-07-29T17:57:45.000Z"
+  },
+  {
+    "headline": "Waymo robotaxis are starting to return to freeways",
+    "summary": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+    "image_url": null,
+    "published_at": "2026-07-29T17:50:57.000Z"
+  },
+  {
+    "headline": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+    "summary": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+    "image_url": null,
+    "published_at": "2026-07-29T17:41:09.000Z"
+  },
+  {
     "headline": "Google brings its age-assurance technology to Android developers worldwide",
     "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
     "publisher": "TechCrunch",
@@ -8,8 +72,8 @@
     "published_at": "2026-07-29T17:00:00.000Z"
   },
   {
-    "headline": "Full school day cell phone bans are more popular than ever",
-    "summary": "As schools across the country continue to implement cell phone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cell phones in middle and high school classes, and 48 percent support banning them for the entire school day. That's the first tim…",
+    "headline": "Full school day cellphone bans are more popular than ever",
+    "summary": "As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cellphones in middle and high school classes, and 48 percent support banning them for the entire school day. That's the first time…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
     "image_url": null,
@@ -128,18 +192,18 @@
     "published_at": "2026-07-29T11:54:29.000Z"
   },
   {
-    "headline": "We’re running out of reasons to ignore AI safety",
-    "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-    "image_url": null,
-    "published_at": "2026-07-29T11:00:00.000Z"
-  },
-  {
     "headline": "As AI content floods the internet, Pangram raises $9M to detect it",
     "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "image_url": null,
+    "published_at": "2026-07-29T11:00:00.000Z"
+  },
+  {
+    "headline": "We’re running out of reasons to ignore AI safety",
+    "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
     "image_url": null,
     "published_at": "2026-07-29T11:00:00.000Z"
   },

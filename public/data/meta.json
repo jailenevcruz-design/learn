@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-29T17:00:26.964Z",
+  "lastUpdated": "2026-07-29T20:05:05.912Z",
   "topStory": {
-    "categoryKey": "tech",
+    "categoryKey": "business",
     "article": {
-      "headline": "Google brings its age-assurance technology to Android developers worldwide",
-      "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
-      "publisher": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
+      "headline": "Meta earnings are out – here are the numbers",
+      "summary": "Meta reported earnings after the bell.",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
       "image_url": null,
-      "published_at": "2026-07-29T17:00:00.000Z"
+      "published_at": "2026-07-29T20:03:07.000Z"
     }
   }
 }
