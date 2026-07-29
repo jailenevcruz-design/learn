@@ -1,5 +1,117 @@
 [
   {
+    "headline": "Oil prices jump more than 6% after Trump says U.S. will hit Iran hard",
+    "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-07-29T12:51:37.000Z"
+  },
+  {
+    "headline": "Tim Cook’s last earnings call comes at momentous time for Apple with stock at record",
+    "summary": "Apple just hit a $5 trillion market cap for the first time, but CEO Tim Cook still has plenty of concerns to address on his final earnings call at the helm.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/tim-cooks-last-earnings-call-comes-at-momentous-time-for-apple-.html",
+    "image_url": null,
+    "published_at": "2026-07-29T12:18:44.000Z"
+  },
+  {
+    "headline": "YES Network, MSG Networks to exit Gotham app for DAZN streaming service",
+    "summary": "The regional sports networks that air games for local New York and New Jersey teams, including MLB's Yankees and NHL's Rangers, will have a new streaming home.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/yes-network-msg-networks-dazn-streaming.html",
+    "image_url": null,
+    "published_at": "2026-07-29T12:04:03.000Z"
+  },
+  {
+    "headline": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
+    "summary": "China was once Nike's fastest-growing region but the company has lost relevance among young consumers and ceded market share to smaller, domestic brands.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
+    "image_url": null,
+    "published_at": "2026-07-29T11:46:44.000Z"
+  },
+  {
+    "headline": "Inside the financial network managing Trump's $858 million investment portfolio",
+    "summary": "JPMorgan, Schwab, UBS and Stephens Inc. are among the firms that have managed Trump's fortune in accounts worth at least $858 million, a CNBC analysis found.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
+    "image_url": null,
+    "published_at": "2026-07-29T11:43:35.000Z"
+  },
+  {
+    "headline": "Procter & Gamble revenue misses estimates as volume stays unchanged",
+    "summary": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-29T11:35:27.000Z"
+  },
+  {
+    "headline": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
+    "summary": "Nvidia, SK Hynix and Samsung Electronics have led the selloff since market close on Friday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+    "image_url": null,
+    "published_at": "2026-07-29T11:25:02.000Z"
+  },
+  {
+    "headline": "Cyclospora outbreak tied to Taco Bell will steal the spotlight from Yum Brands' earnings",
+    "summary": "Wall Street is projecting a strong second quarter for Yum Brands, but investors' focus will be on updates related to the cyclospora outbreak tied to Taco Bell.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/cyclospora-outbreak-taco-bell-yum-brands-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-29T11:00:01.000Z"
+  },
+  {
+    "headline": "Ukraine has found a new pressure point in Russia’s wartime economy",
+    "summary": "Ukraine's drone attacks on Russia's biggest online retailer Wildberries have ratcheted up the pressure on Moscow's wartime economy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
+    "image_url": null,
+    "published_at": "2026-07-29T10:33:29.000Z"
+  },
+  {
+    "headline": "Warren probes Pentagon program to hire highly paid private sector workers",
+    "summary": "Sen. Elizabeth Warren, D-Mass., said she is concerned about a Pentagon program to pay high salaries to Wall Street recruits.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/warren-probes-pentagon-program-to-hire-highly-paid-private-sector-workers.html",
+    "image_url": null,
+    "published_at": "2026-07-29T10:30:01.000Z"
+  },
+  {
+    "headline": "UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch",
+    "summary": "The Swiss banking gian reported pre-tax profits of $3.6 billion for the quarter, as CEO Sergio Ermotti warned of geopolitical volatility ahead.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
+    "image_url": null,
+    "published_at": "2026-07-29T09:40:12.000Z"
+  },
+  {
+    "headline": "The Federal Reserve faces a critical decision on interest rates",
+    "summary": "Policymakers at the Federal Reserve are meeting to discuss interest rates Wednesday. They're expected to hold rates steady, but there's a chance they could raise rates to combat stubborn inflation.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+    "image_url": null,
+    "published_at": "2026-07-29T09:00:00.000Z"
+  },
+  {
+    "headline": "More Americans are going bankrupt. What does that mean?",
+    "summary": "The bankruptcy rate has risen about 48% between 2022 and 2025, although it's still below pre-pandemic levels.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
+    "image_url": null,
+    "published_at": "2026-07-29T09:00:00.000Z"
+  },
+  {
+    "headline": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+    "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+    "image_url": null,
+    "published_at": "2026-07-29T08:43:13.000Z"
+  },
+  {
     "headline": "BTS' concerts have been so successful, it’s now bad for its own agency’s shares",
     "summary": "Shares of Hybe tanked 16.09% on Tuesday, marking its worst day since June 2022. It then extended losses to tumble as much as 16.31% on Wednesday.",
     "publisher": "CNBC",
@@ -8,36 +120,12 @@
     "published_at": "2026-07-29T07:26:43.000Z"
   },
   {
-    "headline": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-    "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-    "image_url": null,
-    "published_at": "2026-07-29T07:06:46.000Z"
-  },
-  {
-    "headline": "Asian technology stocks extend sell-off with SoftBank down 10% as AI plays take a hit",
-    "summary": "Chinese internet stocks listed in Hong Kong bucked the broader regional weakness with Tencent, Meituan, Baidu and Kuaishou all trading higher.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-    "image_url": null,
-    "published_at": "2026-07-29T07:03:30.000Z"
-  },
-  {
     "headline": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
     "summary": "Korean retail investors have racked up heavy losses from leveraged bets on stocks, following rule changes earlier this year.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html",
     "image_url": null,
     "published_at": "2026-07-29T07:01:28.000Z"
-  },
-  {
-    "headline": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
-    "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-07-29T06:15:59.000Z"
   },
   {
     "headline": "Why America's super rich have embraced the appeal of British soccer teams",
@@ -62,6 +150,14 @@
     "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
     "image_url": null,
     "published_at": "2026-07-29T02:06:49.000Z"
+  },
+  {
+    "headline": "Audi continues U.S. product push with three-row Q9 SUV",
+    "summary": "Audi sales have struggled in the U.S. over the last several quarters. The brand has been hit by tariffs and a market shift away from EVs. New product may help.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/audi-q9-suv.html",
+    "image_url": null,
+    "published_at": "2026-07-29T01:56:52.000Z"
   },
   {
     "headline": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll",
@@ -110,6 +206,14 @@
     "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
     "image_url": null,
     "published_at": "2026-07-28T22:49:50.000Z"
+  },
+  {
+    "headline": "Corning plunges despite strong quarterly results — here's our plan for the stock",
+    "summary": "Corning is a broken and hated stock, despite its solid performance and growth prospects.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/corning-plunges-despite-strong-results-heres-our-plan-for-the-stock.html",
+    "image_url": null,
+    "published_at": "2026-07-28T20:47:48.000Z"
   },
   {
     "headline": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
