@@ -1,19 +1,11 @@
 [
   {
-    "headline": "Meta earnings are out – here are the numbers",
-    "summary": "Meta reported earnings after the bell.",
+    "headline": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
+    "summary": "Microsoft's backlog sat 8% taller than the previous quarter, mainly thanks to contributions from customers other than large artificial intelligence companies.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+    "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
     "image_url": null,
-    "published_at": "2026-07-29T20:03:07.000Z"
-  },
-  {
-    "headline": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
-    "summary": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
-    "image_url": null,
-    "published_at": "2026-07-29T20:02:38.000Z"
+    "published_at": "2026-07-29T21:34:32.000Z"
   },
   {
     "headline": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
@@ -21,7 +13,55 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
     "image_url": null,
-    "published_at": "2026-07-29T19:45:54.000Z"
+    "published_at": "2026-07-29T21:27:13.000Z"
+  },
+  {
+    "headline": "Meta's stock plunges almost 10% on disappointing guidance, dwindling free cash flow",
+    "summary": "Meta issued a weaker-than-expected revenue forecast and narrowed its capex range for the year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+    "image_url": null,
+    "published_at": "2026-07-29T21:26:17.000Z"
+  },
+  {
+    "headline": "Starbucks stock jumps as coffee giant raises full-year outlook",
+    "summary": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-29T21:22:20.000Z"
+  },
+  {
+    "headline": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
+    "summary": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
+    "image_url": null,
+    "published_at": "2026-07-29T21:19:52.000Z"
+  },
+  {
+    "headline": "Carvana stock falls 15% as auto retailer's 2026 earnings guidance misses Wall Street's expectations",
+    "summary": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-07-29T21:08:27.000Z"
+  },
+  {
+    "headline": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+    "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+    "image_url": null,
+    "published_at": "2026-07-29T20:58:06.000Z"
+  },
+  {
+    "headline": "Here are the five big takeaways from this week's Fed meeting",
+    "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+    "image_url": null,
+    "published_at": "2026-07-29T20:42:50.000Z"
   },
   {
     "headline": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
@@ -29,7 +69,23 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
     "image_url": null,
-    "published_at": "2026-07-29T19:31:58.000Z"
+    "published_at": "2026-07-29T20:33:41.000Z"
+  },
+  {
+    "headline": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
+    "summary": "The FTC sued Hims and Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
+    "image_url": null,
+    "published_at": "2026-07-29T20:30:15.000Z"
+  },
+  {
+    "headline": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
+    "summary": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-29T20:19:31.000Z"
   },
   {
     "headline": "Secret Service 'illegally' surveilled Comey in Trump ‘8647’ threat case: Court filing",
@@ -38,14 +94,6 @@
     "url": "https://www.cnbc.com/2026/07/29/james-comey-trump-8647-seashells-threat-secret-service.html",
     "image_url": null,
     "published_at": "2026-07-29T19:31:36.000Z"
-  },
-  {
-    "headline": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",
-    "summary": "Investors are looking to see if Microsoft follows Alphabet in raising its capital spending plans",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
-    "image_url": null,
-    "published_at": "2026-07-29T19:29:30.000Z"
   },
   {
     "headline": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
@@ -70,14 +118,6 @@
     "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
     "image_url": null,
     "published_at": "2026-07-29T18:58:16.000Z"
-  },
-  {
-    "headline": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
-    "summary": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
-    "image_url": null,
-    "published_at": "2026-07-29T18:24:09.000Z"
   },
   {
     "headline": "Does the 4% retirement rule still work? New research points to another strategy to maximize income",

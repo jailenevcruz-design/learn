@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Qualcomm is raising phone chip prices starting September 1st",
+    "summary": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the company's products starting on September 1st, CNBC reports. The price hikes were rumored last week to b…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
+    "image_url": null,
+    "published_at": "2026-07-29T21:41:56.000Z"
+  },
+  {
+    "headline": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-07-29T21:16:39.000Z"
+  },
+  {
+    "headline": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "image_url": null,
+    "published_at": "2026-07-29T21:07:48.000Z"
+  },
+  {
+    "headline": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+    "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, v…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+    "image_url": null,
+    "published_at": "2026-07-29T21:06:52.000Z"
+  },
+  {
+    "headline": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
+    "summary": "CyberPunk 2077’s world is vibrant and dangerous. | Image: CD Projekt Red Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game has gone from a source for funny, glitch-fueled vi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
+    "image_url": null,
+    "published_at": "2026-07-29T21:02:50.000Z"
+  },
+  {
+    "headline": "Winamp aims for a comeback with a new music player powered by Deezer",
+    "summary": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+    "image_url": null,
+    "published_at": "2026-07-29T21:02:12.000Z"
+  },
+  {
+    "headline": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+    "summary": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 13 percent, according to Microsoft's fourth-quarter earnings report released on Wednesday. The news comes just weeks a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+    "image_url": null,
+    "published_at": "2026-07-29T20:26:48.000Z"
+  },
+  {
     "headline": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
     "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
     "publisher": "TechCrunch",
@@ -49,7 +105,7 @@
   },
   {
     "headline": "Waymo robotaxis are starting to return to freeways",
-    "summary": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.",
+    "summary": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
     "image_url": null,
@@ -136,18 +192,18 @@
     "published_at": "2026-07-29T14:00:00.000Z"
   },
   {
-    "headline": "DoorDash is going airborne with new drone delivery division",
-    "summary": "A Wing drone carrying a DoorDash delivery. The food delivery app company says it will build its own drones going forward. | Image: Google DoorDash is launching a new drone delivery program called DoorDash Air. The largest food delivery app in the US said that it has approval from the Federal Aviation Administration tha…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa",
-    "image_url": null,
-    "published_at": "2026-07-29T13:00:00.000Z"
-  },
-  {
     "headline": "DoorDash is building its own drone delivery business",
     "summary": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+    "image_url": null,
+    "published_at": "2026-07-29T13:00:00.000Z"
+  },
+  {
+    "headline": "DoorDash is going airborne with new drone delivery division",
+    "summary": "A Wing drone carrying a DoorDash delivery. The food delivery app company says it will build its own drones going forward. | Image: Google DoorDash is launching a new drone delivery program called DoorDash Air. The largest food delivery app in the US said that it has approval from the Federal Aviation Administration tha…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa",
     "image_url": null,
     "published_at": "2026-07-29T13:00:00.000Z"
   },
@@ -168,18 +224,18 @@
     "published_at": "2026-07-29T12:22:03.000Z"
   },
   {
-    "headline": "Artists are lawyering up against AI slop, and some are even winning",
-    "summary": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-    "image_url": null,
-    "published_at": "2026-07-29T12:00:00.000Z"
-  },
-  {
     "headline": "Fast Metals is treating waste with more waste to extract critical minerals",
     "summary": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+    "image_url": null,
+    "published_at": "2026-07-29T12:00:00.000Z"
+  },
+  {
+    "headline": "Artists are lawyering up against AI slop, and some are even winning",
+    "summary": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
     "image_url": null,
     "published_at": "2026-07-29T12:00:00.000Z"
   },
