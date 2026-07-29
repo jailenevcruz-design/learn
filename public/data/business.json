@@ -1,11 +1,91 @@
 [
   {
-    "headline": "Oil prices jump more than 6% after Trump says U.S. will hit Iran hard",
+    "headline": "Why shareholders are suing Novo Nordisk over next-generation weight-loss drug",
+    "summary": "Investors claim Novo Nordisk misled the market about CagriSema's tolerability, after disappointing clinical trial results wiped billions off its market cap.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/novo-nordisk-lawsuit-cagrisema-weight-loss-drug.html",
+    "image_url": null,
+    "published_at": "2026-07-29T14:59:01.000Z"
+  },
+  {
+    "headline": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
+    "summary": "Humana maintained its 2026 adjusted profit outlook of at least $9 per share, which some analysts called a \"disappointment\" amid high expectations for insurers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-07-29T14:57:11.000Z"
+  },
+  {
+    "headline": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
+    "summary": "UEFA – European soccer's governing body – accused FIFA of \"crossing a line\" and said the tournament is not its to sell.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/world-cup-fifa-stake-sales-uefa-soccer.html",
+    "image_url": null,
+    "published_at": "2026-07-29T14:54:57.000Z"
+  },
+  {
+    "headline": "Procter & Gamble revenue misses estimates as volume stays unchanged",
+    "summary": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-29T14:53:03.000Z"
+  },
+  {
+    "headline": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
+    "summary": "China was once Nike's fastest-growing region but the company has lost relevance among young consumers and ceded market share to smaller, domestic brands.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
+    "image_url": null,
+    "published_at": "2026-07-29T14:49:45.000Z"
+  },
+  {
+    "headline": "Oil prices jump more than 7% after Trump says U.S. will hit Iran hard",
     "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
     "image_url": null,
-    "published_at": "2026-07-29T12:51:37.000Z"
+    "published_at": "2026-07-29T14:44:00.000Z"
+  },
+  {
+    "headline": "Secret Service 'illegally' surveilled Comey in Trump '8647' threat case: court filing",
+    "summary": "Ex-FBI Director James Comey says he's the subject of vindictive prosecution for posting on Instagram of a photo of seashells forming the numbers \"8647.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/james-comey-trump-8647-seashells-threat-secret-service.html",
+    "image_url": null,
+    "published_at": "2026-07-29T14:38:03.000Z"
+  },
+  {
+    "headline": "Trump says U.S. will give Iran a 'beating' after surprise attack",
+    "summary": "Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+    "image_url": null,
+    "published_at": "2026-07-29T14:18:42.000Z"
+  },
+  {
+    "headline": "JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio",
+    "summary": "JPMorgan, Schwab, UBS and Stephens Inc. are among the firms that have managed Trump's fortune in accounts worth at least $858 million, a CNBC analysis found.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
+    "image_url": null,
+    "published_at": "2026-07-29T14:03:23.000Z"
+  },
+  {
+    "headline": "Ukraine has found a new pressure point in Russia’s wartime economy",
+    "summary": "Ukraine's drone attacks on Russia's biggest online retailer, Wildberries, have ratcheted up the pressure on Moscow's wartime economy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
+    "image_url": null,
+    "published_at": "2026-07-29T13:59:54.000Z"
+  },
+  {
+    "headline": "Does the 4% retirement rule still work? New research points to another strategy to maximize income",
+    "summary": "When it comes to retirement income, diversifying with partial annuities may help make nest eggs last, new research finds.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/retirement-income-4percent-rule.html",
+    "image_url": null,
+    "published_at": "2026-07-29T13:35:10.000Z"
   },
   {
     "headline": "Tim Cook’s last earnings call comes at momentous time for Apple with stock at record",
@@ -24,30 +104,6 @@
     "published_at": "2026-07-29T12:04:03.000Z"
   },
   {
-    "headline": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
-    "summary": "China was once Nike's fastest-growing region but the company has lost relevance among young consumers and ceded market share to smaller, domestic brands.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
-    "image_url": null,
-    "published_at": "2026-07-29T11:46:44.000Z"
-  },
-  {
-    "headline": "Inside the financial network managing Trump's $858 million investment portfolio",
-    "summary": "JPMorgan, Schwab, UBS and Stephens Inc. are among the firms that have managed Trump's fortune in accounts worth at least $858 million, a CNBC analysis found.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
-    "image_url": null,
-    "published_at": "2026-07-29T11:43:35.000Z"
-  },
-  {
-    "headline": "Procter & Gamble revenue misses estimates as volume stays unchanged",
-    "summary": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-07-29T11:35:27.000Z"
-  },
-  {
     "headline": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
     "summary": "Nvidia, SK Hynix and Samsung Electronics have led the selloff since market close on Friday.",
     "publisher": "CNBC",
@@ -62,14 +118,6 @@
     "url": "https://www.cnbc.com/2026/07/29/cyclospora-outbreak-taco-bell-yum-brands-earnings.html",
     "image_url": null,
     "published_at": "2026-07-29T11:00:01.000Z"
-  },
-  {
-    "headline": "Ukraine has found a new pressure point in Russia’s wartime economy",
-    "summary": "Ukraine's drone attacks on Russia's biggest online retailer Wildberries have ratcheted up the pressure on Moscow's wartime economy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
-    "image_url": null,
-    "published_at": "2026-07-29T10:33:29.000Z"
   },
   {
     "headline": "Warren probes Pentagon program to hire highly paid private sector workers",
@@ -142,14 +190,6 @@
     "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
     "image_url": null,
     "published_at": "2026-07-29T02:27:03.000Z"
-  },
-  {
-    "headline": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
-    "summary": "Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
-    "image_url": null,
-    "published_at": "2026-07-29T02:06:49.000Z"
   },
   {
     "headline": "Audi continues U.S. product push with three-row Q9 SUV",
