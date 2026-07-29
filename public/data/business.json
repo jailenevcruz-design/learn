@@ -1,11 +1,43 @@
 [
   {
+    "headline": "Asian technology stocks extend sell-off with SoftBank down 10% as AI plays take a hit",
+    "summary": "Chinese internet stocks listed in Hong Kong bucked the broader regional weakness with Tencent, Meituan, Baidu and Kuaishou all trading higher.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+    "image_url": null,
+    "published_at": "2026-07-29T04:12:30.000Z"
+  },
+  {
+    "headline": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+    "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+    "image_url": null,
+    "published_at": "2026-07-29T04:10:27.000Z"
+  },
+  {
+    "headline": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
+    "summary": "Elon Musk's xAI, now owned by SpaceX, is challenging a law that would ban so-called nudify apps in Minnesota",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+    "image_url": null,
+    "published_at": "2026-07-29T02:27:03.000Z"
+  },
+  {
     "headline": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
     "summary": "Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
     "image_url": null,
-    "published_at": "2026-07-29T00:59:08.000Z"
+    "published_at": "2026-07-29T02:06:49.000Z"
+  },
+  {
+    "headline": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll",
+    "summary": "The Supreme Court recently rejected President Donald Trump's bid to hear his appeal of another $5 million verdict in favor of Carroll.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html",
+    "image_url": null,
+    "published_at": "2026-07-29T01:17:13.000Z"
   },
   {
     "headline": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
@@ -32,36 +64,12 @@
     "published_at": "2026-07-29T00:03:14.000Z"
   },
   {
-    "headline": "SK Hynix second-quarter revenue more than triples — but misses estimates",
-    "summary": "SK Hynix announced second quarter earnings on Wednesday, with profit reaching a record but still missing estimates. Revenue more than tripled year over year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-    "image_url": null,
-    "published_at": "2026-07-29T00:00:33.000Z"
-  },
-  {
     "headline": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
     "summary": "\"America won the first Space Race, and we can do it again — but only if we get government red tape out of the way,\" Transportation Secretary Sean Duffy said.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
     "image_url": null,
     "published_at": "2026-07-28T23:49:14.000Z"
-  },
-  {
-    "headline": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
-    "summary": "Elon Musk's xAI, now owned by SpaceX, is challenging a law that would ban so-called nudify apps in Minnesota",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
-    "image_url": null,
-    "published_at": "2026-07-28T23:47:37.000Z"
-  },
-  {
-    "headline": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll",
-    "summary": "The Supreme Court recently rejected President Donald Trump's bid to hear his appeal of another $5 million verdict in favor of Carroll.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html",
-    "image_url": null,
-    "published_at": "2026-07-28T23:15:55.000Z"
   },
   {
     "headline": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
@@ -310,6 +318,14 @@
     "url": "https://www.cnbc.com/2026/07/28/supreme-court-approval-poll-gallup-republicans-trump.html",
     "image_url": null,
     "published_at": "2026-07-28T08:00:01.000Z"
+  },
+  {
+    "headline": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
+    "summary": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+    "image_url": null,
+    "published_at": "2026-07-28T01:34:28.000Z"
   },
   {
     "headline": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
