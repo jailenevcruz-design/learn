@@ -1,19 +1,67 @@
 [
   {
+    "headline": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+    "summary": "Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+    "image_url": null,
+    "published_at": "2026-07-29T00:59:08.000Z"
+  },
+  {
+    "headline": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
+    "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-07-29T00:52:49.000Z"
+  },
+  {
     "headline": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
     "summary": "Bill Pulte had been serving for months as DNI after Tulsi Gabbard resigned the post.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
     "image_url": null,
-    "published_at": "2026-07-28T23:44:00.000Z"
+    "published_at": "2026-07-29T00:04:25.000Z"
   },
   {
-    "headline": "SK Hynix second-quarter profit surges to a new high — but misses estimates",
+    "headline": "Senate sets up votes to sanction Russia for Ukraine war",
+    "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
+    "image_url": null,
+    "published_at": "2026-07-29T00:03:14.000Z"
+  },
+  {
+    "headline": "SK Hynix second-quarter revenue more than triples — but misses estimates",
     "summary": "SK Hynix announced second quarter earnings on Wednesday, with profit reaching a record but still missing estimates. Revenue more than tripled year over year.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
     "image_url": null,
-    "published_at": "2026-07-28T23:25:26.000Z"
+    "published_at": "2026-07-29T00:00:33.000Z"
+  },
+  {
+    "headline": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
+    "summary": "\"America won the first Space Race, and we can do it again — but only if we get government red tape out of the way,\" Transportation Secretary Sean Duffy said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
+    "image_url": null,
+    "published_at": "2026-07-28T23:49:14.000Z"
+  },
+  {
+    "headline": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
+    "summary": "Elon Musk's xAI, now owned by SpaceX, is challenging a law that would ban so-called nudify apps in Minnesota",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+    "image_url": null,
+    "published_at": "2026-07-28T23:47:37.000Z"
+  },
+  {
+    "headline": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll",
+    "summary": "The Supreme Court recently rejected President Donald Trump's bid to hear his appeal of another $5 million verdict in favor of Carroll.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html",
+    "image_url": null,
+    "published_at": "2026-07-28T23:15:55.000Z"
   },
   {
     "headline": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
@@ -32,20 +80,20 @@
     "published_at": "2026-07-28T22:49:50.000Z"
   },
   {
-    "headline": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
-    "summary": "\"America won the first Space Race, and we can do it again — but only if we get government red tape out of the way,\" Transportation Secretary Sean Duffy said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
-    "image_url": null,
-    "published_at": "2026-07-28T21:14:31.000Z"
-  },
-  {
     "headline": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
     "summary": "Record high housing costs have pushed the wealth gap between renters and owners wider than ever. It's been a boon for owners even as many others are priced out.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
     "image_url": null,
     "published_at": "2026-07-28T20:14:20.000Z"
+  },
+  {
+    "headline": "Apple touches $5 trillion market cap for first time",
+    "summary": "The jockeying between Apple and Nvidia reflects a debate about the future of AI that has preoccupied investors this summer.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
+    "image_url": null,
+    "published_at": "2026-07-28T20:02:50.000Z"
   },
   {
     "headline": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
@@ -110,14 +158,6 @@
     "url": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
     "image_url": null,
     "published_at": "2026-07-28T18:27:43.000Z"
-  },
-  {
-    "headline": "Senate to set up key vote on Russia sanctions",
-    "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
-    "image_url": null,
-    "published_at": "2026-07-28T18:17:55.000Z"
   },
   {
     "headline": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
