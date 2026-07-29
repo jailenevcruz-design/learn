@@ -1,27 +1,91 @@
 [
   {
-    "headline": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
-    "summary": "Microsoft's backlog sat 8% taller than the previous quarter, mainly thanks to contributions from customers other than large artificial intelligence companies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
-    "image_url": null,
-    "published_at": "2026-07-29T21:34:32.000Z"
-  },
-  {
-    "headline": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
-    "summary": "Sen. John Cornyn says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
-    "image_url": null,
-    "published_at": "2026-07-29T21:27:13.000Z"
-  },
-  {
-    "headline": "Meta's stock plunges almost 10% on disappointing guidance, dwindling free cash flow",
+    "headline": "Meta's stock drops on disappointing guidance, dwindling free cash flow",
     "summary": "Meta issued a weaker-than-expected revenue forecast and narrowed its capex range for the year.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
     "image_url": null,
-    "published_at": "2026-07-29T21:26:17.000Z"
+    "published_at": "2026-07-29T23:42:17.000Z"
+  },
+  {
+    "headline": "What a divided Fed means for investors",
+    "summary": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+    "image_url": null,
+    "published_at": "2026-07-29T23:36:34.000Z"
+  },
+  {
+    "headline": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+    "summary": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+    "image_url": null,
+    "published_at": "2026-07-29T23:10:46.000Z"
+  },
+  {
+    "headline": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
+    "summary": "OpenAI is trying to reassure employees that the business is healthy as competition emerges from Anthropic as well as a host of open-source players.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
+    "image_url": null,
+    "published_at": "2026-07-29T23:09:42.000Z"
+  },
+  {
+    "headline": "Here are the five big takeaways from this week's Fed meeting",
+    "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+    "image_url": null,
+    "published_at": "2026-07-29T22:54:09.000Z"
+  },
+  {
+    "headline": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
+    "summary": "Sen. John Cornyn, R-Texas, says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
+    "image_url": null,
+    "published_at": "2026-07-29T22:46:23.000Z"
+  },
+  {
+    "headline": "Microsoft jumps 7% as it boosts capital spending plans, citing demand",
+    "summary": "Microsoft sees positive free cash flow for the new fiscal year as it changes accounting for data centers and office buildings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+    "image_url": null,
+    "published_at": "2026-07-29T22:26:25.000Z"
+  },
+  {
+    "headline": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+    "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+    "image_url": null,
+    "published_at": "2026-07-29T22:20:18.000Z"
+  },
+  {
+    "headline": "Chipotle hikes same-store sales forecast, says cyclospora fears hit sales in late July",
+    "summary": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-29T21:52:41.000Z"
+  },
+  {
+    "headline": "Carvana stock falls as auto retailer’s 2026 earnings guidance misses Wall Street’s expectations",
+    "summary": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-07-29T21:47:28.000Z"
+  },
+  {
+    "headline": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+    "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+    "image_url": null,
+    "published_at": "2026-07-29T21:43:50.000Z"
   },
   {
     "headline": "Starbucks stock jumps as coffee giant raises full-year outlook",
@@ -40,30 +104,6 @@
     "published_at": "2026-07-29T21:19:52.000Z"
   },
   {
-    "headline": "Carvana stock falls 15% as auto retailer's 2026 earnings guidance misses Wall Street's expectations",
-    "summary": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-07-29T21:08:27.000Z"
-  },
-  {
-    "headline": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-    "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
-    "image_url": null,
-    "published_at": "2026-07-29T20:58:06.000Z"
-  },
-  {
-    "headline": "Here are the five big takeaways from this week's Fed meeting",
-    "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-    "image_url": null,
-    "published_at": "2026-07-29T20:42:50.000Z"
-  },
-  {
     "headline": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
     "summary": "OpenAI CEO Sam Altman is meeting with a range of senior Trump administration officials, lawmakers and economists.",
     "publisher": "CNBC",
@@ -78,14 +118,6 @@
     "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
     "image_url": null,
     "published_at": "2026-07-29T20:30:15.000Z"
-  },
-  {
-    "headline": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
-    "summary": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-07-29T20:19:31.000Z"
   },
   {
     "headline": "Secret Service 'illegally' surveilled Comey in Trump ‘8647’ threat case: Court filing",
