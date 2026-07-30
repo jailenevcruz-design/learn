@@ -1,11 +1,43 @@
 [
   {
+    "headline": "Fast-fashion retailer Shein’s 3-year IPO odyssey cost it the ‘golden time’ to go public",
+    "summary": "Investors are questioning whether Beijing's blessing can carry a $40-billion-plus valuation for a clothing retailer whose growth engine is stalling.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
+    "image_url": null,
+    "published_at": "2026-07-30T23:30:34.000Z"
+  },
+  {
+    "headline": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+    "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+    "image_url": null,
+    "published_at": "2026-07-30T23:27:36.000Z"
+  },
+  {
+    "headline": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
+    "summary": "Amazon jumped about 10% to $258 in after-hours trading, putting shares at their highest level since early June.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html",
+    "image_url": null,
+    "published_at": "2026-07-30T23:27:04.000Z"
+  },
+  {
     "headline": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
     "summary": "Microsoft's gaming unit wants to invest in its Minecraft franchise and expand through partnerships, including in China.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
     "image_url": null,
     "published_at": "2026-07-30T22:48:30.000Z"
+  },
+  {
+    "headline": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
+    "summary": "CNBC's Jim Cramer said the forced unwind of Situational Awareness shows how borrowing money can quickly magnify losses and trigger forced selling.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
+    "image_url": null,
+    "published_at": "2026-07-30T22:37:02.000Z"
   },
   {
     "headline": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
     "image_url": null,
     "published_at": "2026-07-25T12:00:02.000Z"
-  },
-  {
-    "headline": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-    "summary": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-    "image_url": null,
-    "published_at": "2026-07-25T12:00:02.000Z"
-  },
-  {
-    "headline": "Trump is hellbent on tariffs. Here are 5 implications",
-    "summary": "Trump's determination to find new legal justifications for his tariffs threatens to prolong the uncertainty facing the U.S. and global economies.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
-    "image_url": null,
-    "published_at": "2026-07-25T09:00:00.000Z"
-  },
-  {
-    "headline": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-    "summary": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-    "image_url": null,
-    "published_at": "2026-07-25T08:49:00.000Z"
-  },
-  {
-    "headline": "SpaceX launches massive Starship rocket in first test flight since IPO",
-    "summary": "Elon Musk's rocket maker is conducting the first test fight for its massive Starship rocket since the company's IPO last month.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
-    "image_url": null,
-    "published_at": "2026-07-25T02:17:11.000Z"
   }
 ]
