@@ -1,11 +1,115 @@
 [
   {
+    "headline": "Okta buys AI security startup Permiso; source says for about $200M",
+    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "image_url": null,
+    "published_at": "2026-07-30T16:09:42.000Z"
+  },
+  {
+    "headline": "Tesla made its 10 millionth EV",
+    "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+    "image_url": null,
+    "published_at": "2026-07-30T16:00:25.000Z"
+  },
+  {
+    "headline": "Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP",
+    "summary": "Best Buy has raised the price of the Asus ROG Astral RTX 5080 OC to $2,099 - the first time a major US retailer is directly selling an RTX 5080 for more than the $1,999 MSRP of the RTX 5090, VideoCardz reports. The ROG Astral RTX 5080 OC now costs 40 percent more than its launch price of $1,499, and over double the $99…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy",
+    "image_url": null,
+    "published_at": "2026-07-30T15:48:10.000Z"
+  },
+  {
+    "headline": "When will fusion power startup Commonwealth Fusion Systems go public?",
+    "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+    "image_url": null,
+    "published_at": "2026-07-30T15:45:36.000Z"
+  },
+  {
+    "headline": "Meta says AI is making it easier to build new apps — and more are coming",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "image_url": null,
+    "published_at": "2026-07-30T15:41:16.000Z"
+  },
+  {
+    "headline": "Netflix lands global streaming deal for ‘The Walking Dead’",
+    "summary": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+    "image_url": null,
+    "published_at": "2026-07-30T15:27:08.000Z"
+  },
+  {
+    "headline": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "image_url": null,
+    "published_at": "2026-07-30T15:19:15.000Z"
+  },
+  {
+    "headline": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+    "summary": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+    "image_url": null,
+    "published_at": "2026-07-30T15:17:39.000Z"
+  },
+  {
+    "headline": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
+    "summary": "Hopefully, nobody is giving coffee to that dog. | Image: Xiaomi The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max Camping Edition. One of…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
+    "image_url": null,
+    "published_at": "2026-07-30T15:05:09.000Z"
+  },
+  {
+    "headline": "Razer’s new keyboards drop the price on powerful gaming features",
+    "summary": "Here be magnets. And RGB. | Photo: Antonio G. Di Benedetto / The Verge Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming fe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
+    "image_url": null,
+    "published_at": "2026-07-30T15:00:00.000Z"
+  },
+  {
+    "headline": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "image_url": null,
+    "published_at": "2026-07-30T15:00:00.000Z"
+  },
+  {
     "headline": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-    "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against HuggingFace has nothing to do with AI, but traditional cybersecurity defense.",
+    "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
     "image_url": null,
     "published_at": "2026-07-30T14:48:32.000Z"
+  },
+  {
+    "headline": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
+    "summary": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annually over the next two years, as reported…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+    "image_url": null,
+    "published_at": "2026-07-30T14:35:43.000Z"
+  },
+  {
+    "headline": "Microsoft’s latest Surface Laptop is hundreds off at Best Buy",
+    "summary": "If you’re keen on getting a laptop that looks fantastic, feels great to use, and doesn’t cost too much, well, pickings are slim right due to RAMageddon. However, there’s a good deal happening at Best Buy through Thursday, July 30th, on Microsoft’s Arm-based, 13.8-inch Surface Laptop that has the 10-core Snapdragon X2 P…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale",
+    "image_url": null,
+    "published_at": "2026-07-30T14:22:20.000Z"
   },
   {
     "headline": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
@@ -41,7 +145,7 @@
   },
   {
     "headline": "Spotify adds a running mode to its app",
-    "summary": "Running Mode will be available to Premium users on iOS in select countries",
+    "summary": "Running Mode will be available to Premium users on iOS in select countries.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
     "image_url": null,
