@@ -1,6 +1,126 @@
 [
   {
-    "headline": "Okta buys AI security startup Permiso; source says for about $200M",
+    "headline": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "image_url": null,
+    "published_at": "2026-07-30T19:44:16.000Z"
+  },
+  {
+    "headline": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
+    "summary": "Samsung’s upcoming Galaxy Watch 9. | Photo: Dominic Preston / The Verge The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
+    "image_url": null,
+    "published_at": "2026-07-30T19:00:00.000Z"
+  },
+  {
+    "headline": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "image_url": null,
+    "published_at": "2026-07-30T18:57:58.000Z"
+  },
+  {
+    "headline": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\" The new feature is part of a bro…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "image_url": null,
+    "published_at": "2026-07-30T18:43:26.000Z"
+  },
+  {
+    "headline": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+    "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+    "image_url": null,
+    "published_at": "2026-07-30T18:38:12.000Z"
+  },
+  {
+    "headline": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "image_url": null,
+    "published_at": "2026-07-30T18:05:21.000Z"
+  },
+  {
+    "headline": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
+    "summary": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $59 ($21 off) at Amazon. That’s just $4 shy of the all-time low set during Prime Day, and the smart l…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
+    "image_url": null,
+    "published_at": "2026-07-30T18:01:26.000Z"
+  },
+  {
+    "headline": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+    "summary": "Add another member to the fast-and-furious AI unicorn club: Simile.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+    "image_url": null,
+    "published_at": "2026-07-30T17:50:11.000Z"
+  },
+  {
+    "headline": "Spotify launches ‘User Notes’ to let users add memories to songs",
+    "summary": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
+    "image_url": null,
+    "published_at": "2026-07-30T17:41:25.000Z"
+  },
+  {
+    "headline": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
+    "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but NASA says it's previousl…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
+    "image_url": null,
+    "published_at": "2026-07-30T17:20:06.000Z"
+  },
+  {
+    "headline": "Google DeepMind’s new AI model can control a robot’s entire body",
+    "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motion…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "image_url": null,
+    "published_at": "2026-07-30T17:18:45.000Z"
+  },
+  {
+    "headline": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
+    "summary": "ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the speech of broadcasters across the country. In a new filing with the FCC, ABC charges that the agency's willingness to pursue th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
+    "image_url": null,
+    "published_at": "2026-07-30T17:08:14.000Z"
+  },
+  {
+    "headline": "Google is working on Chrome updates that don’t require restarts",
+    "summary": "Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of AI, while noting that it's trying to make updates less disruptive by \"investing in 'dynamic patching' that will eliminate the need for a full b…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
+    "image_url": null,
+    "published_at": "2026-07-30T17:00:00.000Z"
+  },
+  {
+    "headline": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
+    "summary": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Substack. The renders, if accurate, show that the new foldable will look fairly similar to last year's model - it has a tall outer screen inste…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+    "image_url": null,
+    "published_at": "2026-07-30T16:57:39.000Z"
+  },
+  {
+    "headline": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+    "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This morning, Friend launch…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+    "image_url": null,
+    "published_at": "2026-07-30T16:33:32.000Z"
+  },
+  {
+    "headline": "Okta buys AI security startup Permiso — source says for about $200M",
     "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
@@ -33,7 +153,7 @@
   },
   {
     "headline": "Meta says AI is making it easier to build new apps — and more are coming",
-    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
     "image_url": null,
@@ -72,18 +192,18 @@
     "published_at": "2026-07-30T15:05:09.000Z"
   },
   {
-    "headline": "Razer’s new keyboards drop the price on powerful gaming features",
-    "summary": "Here be magnets. And RGB. | Photo: Antonio G. Di Benedetto / The Verge Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming fe…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
-    "image_url": null,
-    "published_at": "2026-07-30T15:00:00.000Z"
-  },
-  {
     "headline": "Forward-deployed engineers are the AI industry’s latest talent obsession",
     "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "image_url": null,
+    "published_at": "2026-07-30T15:00:00.000Z"
+  },
+  {
+    "headline": "Razer’s new keyboards drop the price on powerful gaming features",
+    "summary": "Here be magnets. And RGB. | Photo: Antonio G. Di Benedetto / The Verge Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming fe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
     "image_url": null,
     "published_at": "2026-07-30T15:00:00.000Z"
   },
@@ -136,14 +256,6 @@
     "published_at": "2026-07-30T13:09:03.000Z"
   },
   {
-    "headline": "Spotify Running Mode helps match tunes to tempo",
-    "summary": "An easier way to find the right beats for your BPM. | Image: Spotify Spotify has introduced a new Running Mode feature that makes it easier to curate playlists around your workout goals, music tastes, and desired beats per minute (BPM). The aim is to help you \"spend less time hunting for the right music and more time m…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
-    "image_url": null,
-    "published_at": "2026-07-30T13:00:00.000Z"
-  },
-  {
     "headline": "Spotify adds a running mode to its app",
     "summary": "Running Mode will be available to Premium users on iOS in select countries.",
     "publisher": "TechCrunch",
@@ -156,6 +268,14 @@
     "summary": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+    "image_url": null,
+    "published_at": "2026-07-30T13:00:00.000Z"
+  },
+  {
+    "headline": "Spotify Running Mode helps match tunes to tempo",
+    "summary": "An easier way to find the right beats for your BPM. | Image: Spotify Spotify has introduced a new Running Mode feature that makes it easier to curate playlists around your workout goals, music tastes, and desired beats per minute (BPM). The aim is to help you \"spend less time hunting for the right music and more time m…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
     "image_url": null,
     "published_at": "2026-07-30T13:00:00.000Z"
   },
