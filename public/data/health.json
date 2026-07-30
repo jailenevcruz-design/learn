@@ -1,17 +1,41 @@
 [
   {
-    "headline": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
-    "summary": "The Trump administration's upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their own.",
+    "headline": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
+    "summary": "The accusations against Dr. Anthony Fauci, once the nation's leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
+    "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
     "image_url": null,
-    "published_at": "2026-07-30T09:00:00.000Z"
+    "published_at": "2026-07-30T20:37:48.000Z"
+  },
+  {
+    "headline": "How cyclospora's biology has created the perfect infectious storm",
+    "summary": "Cyclospora, the parasite that's been wreaking havoc in people's digestive systems over the past month, starts with a single cell. The parasite passes through human intestines to reproduce. Their complex biology contributes to why it's so hard to kick, leading to infections that can last for weeks or months.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/30/nx-s1-5909644/how-cyclosporas-biology-has-created-the-perfect-infectious-storm",
+    "image_url": null,
+    "published_at": "2026-07-30T20:30:32.000Z"
+  },
+  {
+    "headline": "An infertility doctor secretly fathered dozens of children: how strangers became family. Part 2",
+    "summary": "Dozens of people who grew up around Philadelphia learned decades later they shared the same biological father, a pioneering infertility doctor. Many bonded, created a family and hold reunions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/30/nx-s1-5903829/an-infertility-doctor-secretly-fathered-dozens-of-children-how-strangers-became-family-part-2",
+    "image_url": null,
+    "published_at": "2026-07-30T20:30:31.000Z"
   },
   {
     "headline": "The Lumbee Tribe of N.C. wants better healthcare, but plans to fund it are in limbo",
     "summary": "Robeson County, N.C., where most of the Lumbee Tribe's citizens live, ranks as one of the worst counties in the U.S. for health. The tribe can access the Indian Health Service now, but it's not likely to be sufficient to improve the health of the community.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/07/30/nx-s1-5906740/lumbee-tribe-indian-health-service-gambling-north-carolina",
+    "image_url": null,
+    "published_at": "2026-07-30T09:00:00.000Z"
+  },
+  {
+    "headline": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
+    "summary": "The Trump administration's upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their own.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
     "image_url": null,
     "published_at": "2026-07-30T09:00:00.000Z"
   },

@@ -1,11 +1,107 @@
 [
   {
-    "headline": "Amazon earnings are out – here are the numbers",
-    "summary": "Amazon projected its 2026 capex will reach $200 billion, and some analysts believe the total could rise in the face of surging artificial intelligence demand.",
+    "headline": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+    "summary": "Microsoft's gaming unit wants to invest in its Minecraft franchise and expand through partnerships, including in China.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
+    "image_url": null,
+    "published_at": "2026-07-30T22:48:30.000Z"
+  },
+  {
+    "headline": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+    "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-30T22:28:58.000Z"
+  },
+  {
+    "headline": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
+    "summary": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
+    "image_url": null,
+    "published_at": "2026-07-30T22:28:38.000Z"
+  },
+  {
+    "headline": "Coinbase shares fall after crypto exchange posts disappointing second-quarter results",
+    "summary": "Coinbase's Thursday report marked its third straight quarter missing Wall Street's forecasts for revenue and earnings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-07-30T21:53:07.000Z"
+  },
+  {
+    "headline": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
+    "summary": "Morgan Stanley is the lead banker engaging in advanced talks to lend $15 billion to Nexus Data Centers, CNBC confirmed.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
+    "image_url": null,
+    "published_at": "2026-07-30T21:50:17.000Z"
+  },
+  {
+    "headline": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
+    "summary": "AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
     "image_url": null,
-    "published_at": "2026-07-30T20:08:25.000Z"
+    "published_at": "2026-07-30T21:31:31.000Z"
+  },
+  {
+    "headline": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+    "summary": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+    "image_url": null,
+    "published_at": "2026-07-30T21:29:19.000Z"
+  },
+  {
+    "headline": "Rivian reduces 2026 spending plans, narrows earnings guidance",
+    "summary": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecast losses this year as the company reported second-quarter results.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-30T21:19:16.000Z"
+  },
+  {
+    "headline": "'The Odyssey' extends stay in 70 mm Imax theaters as shows sell out weeks in advance",
+    "summary": "Universal and Imax have extended the availability of 70 mm screenings of Christopher Nolan's retelling of Homer's epic into mid-September.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+    "image_url": null,
+    "published_at": "2026-07-30T20:51:02.000Z"
+  },
+  {
+    "headline": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
+    "summary": "Trump said he'd \"like to see tariffs on Iran\" added to a bill that would impose economic sanctions on Russia and those supporting its war against Ukraine.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
+    "image_url": null,
+    "published_at": "2026-07-30T20:38:18.000Z"
+  },
+  {
+    "headline": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
+    "summary": "The 30-year fixed-rate mortgage reached 6.66% on average Thursday.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
+    "image_url": null,
+    "published_at": "2026-07-30T20:37:59.000Z"
+  },
+  {
+    "headline": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says",
+    "summary": "The restaurant company provided no update on the cyclospora outbreak tied to Taco Bell restaurants is affecting its business.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-30T20:32:45.000Z"
+  },
+  {
+    "headline": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
+    "summary": "Jersey Mike's priced its initial public offering at $23 per share.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+    "image_url": null,
+    "published_at": "2026-07-30T20:13:00.000Z"
   },
   {
     "headline": "Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale'",
@@ -16,28 +112,12 @@
     "published_at": "2026-07-30T20:08:13.000Z"
   },
   {
-    "headline": "Rivian reduces 2026 spending plans, narrows earnings guidance",
-    "summary": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecasted losses this year as the company reported second-quarter results.",
+    "headline": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher",
+    "summary": "Strong earnings from Lam Research, Microsoft and Arm boosted hard-hit semiconductor stocks.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
+    "url": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
     "image_url": null,
-    "published_at": "2026-07-30T20:06:59.000Z"
-  },
-  {
-    "headline": "'The Odyssey' extends stay in 70mm IMAX theaters as shows sell out weeks in advance",
-    "summary": "Universal and IMAX have extended the availability of 70mm screenings of Christopher Nolan's retelling of Homer's epic into mid-September.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
-    "image_url": null,
-    "published_at": "2026-07-30T20:02:57.000Z"
-  },
-  {
-    "headline": "Jersey Mike's stock falls 7% in public market debut after pricing shares at $23",
-    "summary": "Jersey Mike's priced its initial public offering at $23 per share.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-    "image_url": null,
-    "published_at": "2026-07-30T20:00:47.000Z"
+    "published_at": "2026-07-30T20:04:13.000Z"
   },
   {
     "headline": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
@@ -48,28 +128,12 @@
     "published_at": "2026-07-30T19:59:12.000Z"
   },
   {
-    "headline": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-    "summary": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-    "image_url": null,
-    "published_at": "2026-07-30T19:49:05.000Z"
-  },
-  {
     "headline": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
     "summary": "The Senate Judiciary Committee, which includes Sens. John Cornyn and Thom Tillis, postponed a vote on advancing Todd Blanche's AG nomination.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html",
     "image_url": null,
     "published_at": "2026-07-30T19:40:11.000Z"
-  },
-  {
-    "headline": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-    "summary": "Trump said he'd \"like to see tariffs on Iran\" added to a bill that would impose economic sanctions on Russia and those supporting its war against Ukraine.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
-    "image_url": null,
-    "published_at": "2026-07-30T19:21:01.000Z"
   },
   {
     "headline": "AI stocks rebound, and why J&J's earnings guidance cut is not cause for concern",
@@ -216,14 +280,6 @@
     "published_at": "2026-07-30T14:47:23.000Z"
   },
   {
-    "headline": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
-    "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-    "image_url": null,
-    "published_at": "2026-07-30T14:45:24.000Z"
-  },
-  {
     "headline": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
     "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.",
     "publisher": "CNBC",
@@ -262,14 +318,6 @@
     "url": "https://www.cnbc.com/2026/07/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
     "image_url": null,
     "published_at": "2026-07-30T13:07:12.000Z"
-  },
-  {
-    "headline": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says",
-    "summary": "The restaurant company provided no update on the cyclospora outbreak tied to Taco Bell restaurants is affecting its business.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-07-30T13:06:54.000Z"
   },
   {
     "headline": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
@@ -1550,53 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
     "image_url": null,
     "published_at": "2026-07-25T02:17:11.000Z"
-  },
-  {
-    "headline": "Paramount says it will pause its Warner acquisition while legal challenges play out",
-    "summary": "A dozen states and the Writers Guild of America had challenged the merger.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
-    "image_url": null,
-    "published_at": "2026-07-24T22:26:21.000Z"
-  },
-  {
-    "headline": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
-    "summary": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
-    "image_url": null,
-    "published_at": "2026-07-24T21:57:01.000Z"
-  },
-  {
-    "headline": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
-    "summary": "In Atlanta and Austin, Texas, Waymo driverless rides will be available on platforms other than Uber starting in 2028.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
-    "image_url": null,
-    "published_at": "2026-07-24T21:48:45.000Z"
-  },
-  {
-    "headline": "Why bond investors are pushing up some of your interest rates",
-    "summary": "Many types of consumer loans such as mortgages peg their interest rate to the yield on 10-year Treasury bonds, which has been moving higher.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
-    "image_url": null,
-    "published_at": "2026-07-24T21:09:24.000Z"
-  },
-  {
-    "headline": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
-    "summary": "The DOJ is investigating the leak to The New York Times of security concerns about President Donald Trump's new Air Force One plane, donated by Qatar.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
-    "image_url": null,
-    "published_at": "2026-07-24T20:23:12.000Z"
-  },
-  {
-    "headline": "CDC says massive cyclospora outbreak is now in nine states",
-    "summary": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-    "image_url": null,
-    "published_at": "2026-07-24T19:53:01.000Z"
   }
 ]
