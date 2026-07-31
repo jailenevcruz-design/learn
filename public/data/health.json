@@ -1,6 +1,30 @@
 [
   {
-    "headline": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+    "headline": "What's it like to be on the frontlines of the Cyclosporiasis outbreak?",
+    "summary": "What it's like on the on the frontlines of the public health investigation into cyclosporiasis, in Washtenaw County, Michigan, which just finished with a measles outbreak?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/31/nx-s1-5910699/whats-it-like-to-be-on-the-frontlines-of-the-cyclosporiasis-outbreak",
+    "image_url": null,
+    "published_at": "2026-07-31T20:20:20.000Z"
+  },
+  {
+    "headline": "Keeping cool without AC: Our readers share their tips",
+    "summary": "We asked our readers to tell us how they've fended off heat without the refrigerant blasts of an air conditioner. Here's what they shared.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
+    "image_url": null,
+    "published_at": "2026-07-31T14:44:47.000Z"
+  },
+  {
+    "headline": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
+    "summary": "Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
+    "image_url": null,
+    "published_at": "2026-07-31T13:22:40.000Z"
+  },
+  {
+    "headline": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
     "summary": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
@@ -32,18 +56,18 @@
     "published_at": "2026-07-30T20:30:31.000Z"
   },
   {
-    "headline": "The Lumbee Tribe of N.C. wants better healthcare, but plans to fund it are in limbo",
-    "summary": "Robeson County, N.C., where most of the Lumbee Tribe's citizens live, ranks as one of the worst counties in the U.S. for health. The tribe can access the Indian Health Service now, but it's not likely to be sufficient to improve the health of the community.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5906740/lumbee-tribe-indian-health-service-gambling-north-carolina",
-    "image_url": null,
-    "published_at": "2026-07-30T09:00:00.000Z"
-  },
-  {
     "headline": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
     "summary": "The Trump administration's upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their own.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
+    "image_url": null,
+    "published_at": "2026-07-30T09:00:00.000Z"
+  },
+  {
+    "headline": "The Lumbee Tribe of N.C. wants better healthcare, but plans to fund it are in limbo",
+    "summary": "Robeson County, N.C., where most of the Lumbee Tribe's citizens live, ranks as one of the worst counties in the U.S. for health. The tribe can access the Indian Health Service now, but it's not likely to be sufficient to improve the health of the community.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/30/nx-s1-5906740/lumbee-tribe-indian-health-service-gambling-north-carolina",
     "image_url": null,
     "published_at": "2026-07-30T09:00:00.000Z"
   },

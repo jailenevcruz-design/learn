@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Drone delivery helps in Rwanda, but only so much",
+    "summary": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can't overcome a weak health care infrastructure.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+    "image_url": null,
+    "published_at": "2026-07-31T20:28:41.000Z"
+  },
+  {
+    "headline": "Tens of thousands of migrants crossed into Spanish territory from Morocco this week",
+    "summary": "Many of the migrants have now returned. Spanish authorities reported that at least 57 died, among them those who drowned as they attempted to swim to Ceuta, a Spanish autonomous city.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/31/nx-s1-5914657/tens-of-thousands-of-migrants-crossed-into-spanish-territory-from-morocco-this-week",
+    "image_url": null,
+    "published_at": "2026-07-31T20:22:54.000Z"
+  },
+  {
+    "headline": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+    "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
+    "image_url": null,
+    "published_at": "2026-07-31T11:30:26.000Z"
+  },
+  {
+    "headline": "Thousands in France allowed to return home as Europe tackles wildfires and heatwave",
+    "summary": "Firefighters in the Gironde region of France said the situation had \"stabilized\", after a week of wildfires caused by a major heatwave across Europe.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/31/nx-s1-5913353/france-wildfires-bordeaux-europe-heatwave",
+    "image_url": null,
+    "published_at": "2026-07-31T08:45:07.000Z"
+  },
+  {
     "headline": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
     "summary": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight.",
     "publisher": "NPR",
@@ -16,8 +48,8 @@
     "published_at": "2026-07-31T05:40:16.000Z"
   },
   {
-    "headline": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
-    "summary": "President Trump says a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza. But many hurdles, conditions and long timelines remain to wind down the war in the Palestinian territory.",
+    "headline": "Trump announces deal for Hamas to disarm, militants demand Israel withdraws from Gaza first",
+    "summary": "President Trump announced that his Board of Peace has reached a deal with Hamas to completely disarm, calling it a \"historic breakthrough.\" But a senior Hamas official says Israel must withdraw first.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
     "image_url": null,
