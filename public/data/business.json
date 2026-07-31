@@ -1,11 +1,123 @@
 [
   {
-    "headline": "Fast-fashion retailer Shein’s 3-year IPO odyssey cost it the ‘golden time’ to go public",
+    "headline": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
+    "summary": "ExxonMobil and Chevron on Friday reported second-quarter profits that surged on rising oil prices due to the Iran war.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
+    "image_url": null,
+    "published_at": "2026-07-31T11:12:52.000Z"
+  },
+  {
+    "headline": "The Tech Download: Anduril CEO Brian Schimpf talks AI in warfare and manufacturing push",
+    "summary": "CNBC's Arjun Kharpal sits down on The Tech Download podcast with the defense company chief.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/the-tech-download-anduril-ceo-brian-schimpf.html",
+    "image_url": null,
+    "published_at": "2026-07-31T11:11:29.000Z"
+  },
+  {
+    "headline": "New Medicaid work rules could cause patients to lose coverage, rare disease advocates warn",
+    "summary": "New Medicaid work requirements could put rare disease patients’ coverage at risk. NORD CEO Pamela Gavin explains how families can prepare.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/new-medicaid-work-rules-insurance-coverage-rare-disease-patients.html",
+    "image_url": null,
+    "published_at": "2026-07-31T11:00:01.000Z"
+  },
+  {
+    "headline": "Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments",
+    "summary": "Hamas says it will only disarm after Israel meets previous ceasefire commitments, despite President Donald Trump's announcement of a breakthrough U.S.-brokered agreement.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html",
+    "image_url": null,
+    "published_at": "2026-07-31T10:46:49.000Z"
+  },
+  {
+    "headline": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
+    "summary": "Iran's army said it launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-07-31T10:32:14.000Z"
+  },
+  {
+    "headline": "Coinbase shares fall after crypto exchange posts disappointing second-quarter results",
+    "summary": "Coinbase's Thursday report marked its third straight quarter missing Wall Street's forecasts for revenue and earnings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-07-31T09:50:16.000Z"
+  },
+  {
+    "headline": "A portfolio manager says investors are looking overseas as Magnificent Seven worries grow. Here are the stocks and sectors he favors",
+    "summary": "Janus Henderson’s Julian McManus says investors are looking overseas as Magnificent Seven concentration worries revive diversification.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/janus-henderson-overseas-stocks.html",
+    "image_url": null,
+    "published_at": "2026-07-31T09:37:53.000Z"
+  },
+  {
+    "headline": "Apple drops 7%, Amazon surges 12% as investors pick AI winners after earnings",
+    "summary": "Shares of Amazon jumped sharply in premarket trading on Friday while Apple dropped as investors digest earnings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+    "image_url": null,
+    "published_at": "2026-07-31T08:50:14.000Z"
+  },
+  {
+    "headline": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
+    "summary": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+    "image_url": null,
+    "published_at": "2026-07-31T07:41:35.000Z"
+  },
+  {
+    "headline": "Deadly storms and a global supply squeeze are sending copper prices soaring",
+    "summary": "Deadly storms in Chile have disrupted mining operations, further straining supply and potentially driving prices higher, strategists say.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/copper-prices-chile-storms-mines-ai.html",
+    "image_url": null,
+    "published_at": "2026-07-31T07:13:23.000Z"
+  },
+  {
+    "headline": "Fast-fashion retailer Shein’s 3-year IPO odyssey may have cost it the ‘golden time’ to go public",
     "summary": "Investors are questioning whether Beijing's blessing can carry a $40-billion-plus valuation for a clothing retailer whose growth engine is stalling.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
     "image_url": null,
-    "published_at": "2026-07-30T23:30:34.000Z"
+    "published_at": "2026-07-31T06:33:30.000Z"
+  },
+  {
+    "headline": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
+    "summary": "The company faces a challenge as it does not have access to the latest extreme ultraviolet, or EUV, lithography machines, essential for manufacturing advanced chips.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
+    "image_url": null,
+    "published_at": "2026-07-31T06:20:14.000Z"
+  },
+  {
+    "headline": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
+    "summary": "The decision comes as speculation continues to swirl around whether the Bank of Japan will hike rates at a faster pace.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
+    "image_url": null,
+    "published_at": "2026-07-31T06:05:22.000Z"
+  },
+  {
+    "headline": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
+    "summary": "China's factory activity unexpectedly contracted in July, as the export rush that powered a second-quarter rebound began to unwind.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
+    "image_url": null,
+    "published_at": "2026-07-31T03:49:55.000Z"
+  },
+  {
+    "headline": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
+    "summary": "South Korea's stock market staged its sharpest reversal on record on Friday, capping a month of wild swings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/south-korea-kospi-samsung-sk-hynix-meltdown-record-rebound.html",
+    "image_url": null,
+    "published_at": "2026-07-31T03:47:31.000Z"
   },
   {
     "headline": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
@@ -13,7 +125,23 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
     "image_url": null,
-    "published_at": "2026-07-30T23:27:36.000Z"
+    "published_at": "2026-07-31T01:11:49.000Z"
+  },
+  {
+    "headline": "We're raising our Apple price target, seeing plenty of good despite the memory crunch knocks",
+    "summary": "It was a good but not great quarter as Apple worked to mitigate the memory shortage, which impacted the reported quarter and guidance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/were-raising-our-apple-price-target-seeing-plenty-of-good-despite-memory-crunch.html",
+    "image_url": null,
+    "published_at": "2026-07-31T00:59:35.000Z"
+  },
+  {
+    "headline": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+    "summary": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+    "image_url": null,
+    "published_at": "2026-07-31T00:23:53.000Z"
   },
   {
     "headline": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
@@ -24,12 +152,36 @@
     "published_at": "2026-07-30T23:27:04.000Z"
   },
   {
+    "headline": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic",
+    "summary": "Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html",
+    "image_url": null,
+    "published_at": "2026-07-30T22:53:05.000Z"
+  },
+  {
     "headline": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
     "summary": "Microsoft's gaming unit wants to invest in its Minecraft franchise and expand through partnerships, including in China.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
     "image_url": null,
     "published_at": "2026-07-30T22:48:30.000Z"
+  },
+  {
+    "headline": "Amazon got $600 million in Trump tariff refunds and will pass return along to some customers",
+    "summary": "The company previously hadn't disclosed whether it would recoup tariff costs after the Supreme Court ruled many of President Donald Trump's levies were illegal.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/amazon-trump-tariff-refunds.html",
+    "image_url": null,
+    "published_at": "2026-07-30T22:46:47.000Z"
+  },
+  {
+    "headline": "IBM CEO says quantum computing will have a 'measurable impact' on earnings by 2028 or 2029",
+    "summary": "IBM CEO Arvind Krishna said the company's investments in quantum computing should begin to have \"a measurable impact\" on revenue and earnings by 2028 or 2029.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/30/ibm-ceo-quantum-computing-measurable-impact-earnings-2028-2029.html",
+    "image_url": null,
+    "published_at": "2026-07-30T22:46:32.000Z"
   },
   {
     "headline": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
@@ -56,12 +208,12 @@
     "published_at": "2026-07-30T22:28:38.000Z"
   },
   {
-    "headline": "Coinbase shares fall after crypto exchange posts disappointing second-quarter results",
-    "summary": "Coinbase's Thursday report marked its third straight quarter missing Wall Street's forecasts for revenue and earnings.",
+    "headline": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
+    "summary": "The latest China Beige Book study found factory activity decelerated in July.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
+    "url": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
     "image_url": null,
-    "published_at": "2026-07-30T21:53:07.000Z"
+    "published_at": "2026-07-30T22:01:01.000Z"
   },
   {
     "headline": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
@@ -201,7 +353,7 @@
   },
   {
     "headline": "European soccer leaders to boycott  the World Cup in an unprecedented step",
-    "summary": "In an unprecedented step, European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
+    "summary": "European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
     "image_url": null,
@@ -1446,157 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
     "image_url": null,
     "published_at": "2026-07-26T20:50:54.000Z"
-  },
-  {
-    "headline": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
-    "summary": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-    "image_url": null,
-    "published_at": "2026-07-26T17:11:36.000Z"
-  },
-  {
-    "headline": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement",
-    "summary": "Many Americans in the 50-55 age range have 10 to 15 work years left, extending 401(k), IRA growth investing, but they can't afford an ill-timed market crash.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/26/gen-x-investors-dotcom-bubble-retirement-portfolio.html",
-    "image_url": null,
-    "published_at": "2026-07-26T14:44:29.000Z"
-  },
-  {
-    "headline": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
-    "summary": "The industrials sector of the stock market is benefitting from the AI infrastructure boom with its P/E ratio up close to tech levels and investor flows strong.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
-    "image_url": null,
-    "published_at": "2026-07-26T14:12:20.000Z"
-  },
-  {
-    "headline": "How AI wealth could be distributed to all Americans",
-    "summary": "AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
-    "image_url": null,
-    "published_at": "2026-07-26T14:06:53.000Z"
-  },
-  {
-    "headline": "Some high-earning investors will soon owe taxes on years of deferred capital gains",
-    "summary": "A key incentive in place for current Opportunity Zone investors — deferring taxation of reinvested capital gains — will end on Dec. 31.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html",
-    "image_url": null,
-    "published_at": "2026-07-26T13:30:02.000Z"
-  },
-  {
-    "headline": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-    "summary": "CNBC Make It asked notable voices in politics, finance and relationships on what it takes to achieve happiness and success in America today.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/26/how-different-generations-are-rewriting-the-american-dream-today.html",
-    "image_url": null,
-    "published_at": "2026-07-26T13:30:02.000Z"
-  },
-  {
-    "headline": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
-    "summary": "Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
-    "image_url": null,
-    "published_at": "2026-07-26T12:00:01.000Z"
-  },
-  {
-    "headline": "Oil prices are climbing again. Here's why this time could be different",
-    "summary": "Oil prices surpassed $100 a barrel last week. NPR's Ayesha Rascoe speaks to Bob McNally, founder of the research firm Rapidan Energy Group, about how the Iran war is disrupting oil supplies.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/26/nx-s1-5905738/oil-prices-are-climbing-again-heres-why-this-time-could-be-different",
-    "image_url": null,
-    "published_at": "2026-07-26T11:58:31.000Z"
-  },
-  {
-    "headline": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
-    "summary": "Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
-    "image_url": null,
-    "published_at": "2026-07-26T11:33:11.000Z"
-  },
-  {
-    "headline": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
-    "summary": "A year after President Trump signed a law ending six decades of federal funding of public media, it's a time of reinvention, innovation and clear anxiety at public tv and radio stations nationwide.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
-    "image_url": null,
-    "published_at": "2026-07-26T10:00:00.000Z"
-  },
-  {
-    "headline": "President Trump just implemented new tariffs. How are small businesses coping?",
-    "summary": "An NPR business correspondent explains how to cover the complex story of how small businesses are coping with tariffs.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/25/nx-s1-5900891/president-trump-just-implemented-new-tariffs-how-are-small-businesses-coping",
-    "image_url": null,
-    "published_at": "2026-07-25T21:04:02.000Z"
-  },
-  {
-    "headline": "Here are 4 forces that drove a tough week for stocks",
-    "summary": "Investors navigated everything from escalating tensions in the Middle East to key tech earnings reports to healthcare developments.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
-    "image_url": null,
-    "published_at": "2026-07-25T19:56:55.000Z"
-  },
-  {
-    "headline": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
-    "summary": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
-    "image_url": null,
-    "published_at": "2026-07-25T16:26:11.000Z"
-  },
-  {
-    "headline": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
-    "summary": "Being a beekeeper is harder than ever, but David Bradshaw is determined to protect his hives.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
-    "image_url": null,
-    "published_at": "2026-07-25T14:48:15.000Z"
-  },
-  {
-    "headline": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
-    "summary": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
-    "image_url": null,
-    "published_at": "2026-07-25T14:23:53.000Z"
-  },
-  {
-    "headline": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-    "summary": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-    "image_url": null,
-    "published_at": "2026-07-25T14:03:03.000Z"
-  },
-  {
-    "headline": "Does crypto make your portfolio less risky? Only if you do it right, experts say",
-    "summary": "There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html",
-    "image_url": null,
-    "published_at": "2026-07-25T13:30:01.000Z"
-  },
-  {
-    "headline": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
-    "summary": "Warren Buffett believes he and other very wealthy Americans are under-taxed but by giving his fortune to charity, he won't be paying billions in potential levies to the government.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
-    "image_url": null,
-    "published_at": "2026-07-25T12:28:33.000Z"
-  },
-  {
-    "headline": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
-    "summary": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
-    "image_url": null,
-    "published_at": "2026-07-25T12:00:02.000Z"
   }
 ]
