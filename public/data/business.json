@@ -1,17 +1,73 @@
 [
   {
-    "headline": "For sale: early access to Trump's Truth Social posts",
-    "summary": "The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+    "headline": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
+    "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
     "image_url": null,
-    "published_at": "2026-08-01T09:00:00.000Z"
+    "published_at": "2026-08-01T13:44:04.000Z"
+  },
+  {
+    "headline": "Buying a condo with a mortgage may soon get more complicated. Here's why",
+    "summary": "New policies that apply to mortgages for condos take effect Aug. 3, and some experts are sounding the alarm that buyers may see delays or denials.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/condo-buyers-mortgage-rules-fannie-mae-freddie-mac.html",
+    "image_url": null,
+    "published_at": "2026-08-01T13:30:01.000Z"
+  },
+  {
+    "headline": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
+    "summary": "As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
+    "image_url": null,
+    "published_at": "2026-08-01T12:30:01.000Z"
+  },
+  {
+    "headline": "From a Fed decision to Big Tech earnings: What drove last week's volatile market",
+    "summary": "Wall Street got back to its winning ways last week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html",
+    "image_url": null,
+    "published_at": "2026-08-01T12:16:13.000Z"
+  },
+  {
+    "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+    "summary": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+    "image_url": null,
+    "published_at": "2026-08-01T12:00:01.000Z"
+  },
+  {
+    "headline": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+    "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+    "image_url": null,
+    "published_at": "2026-08-01T12:00:01.000Z"
+  },
+  {
+    "headline": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
+    "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+    "image_url": null,
+    "published_at": "2026-08-01T10:56:11.000Z"
   },
   {
     "headline": "Why did OpenAI's and Anthropic's AI models hack other companies?",
     "summary": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+    "image_url": null,
+    "published_at": "2026-08-01T09:00:00.000Z"
+  },
+  {
+    "headline": "For sale: early access to Trump's Truth Social posts",
+    "summary": "The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
     "image_url": null,
     "published_at": "2026-08-01T09:00:00.000Z"
   },
@@ -86,6 +142,14 @@
     "url": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
     "image_url": null,
     "published_at": "2026-07-31T20:40:51.000Z"
+  },
+  {
+    "headline": "Oil companies report sky-high profits thanks to wartime crude prices",
+    "summary": "Chevron reported its highest quarterly earnings ever. Shell had its second-biggest quarter, and ExxonMobil doubled its earnings compared with the same time last year.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
+    "image_url": null,
+    "published_at": "2026-07-31T20:28:38.000Z"
   },
   {
     "headline": "Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/28/supreme-court-approval-poll-gallup-republicans-trump.html",
     "image_url": null,
     "published_at": "2026-07-28T08:00:01.000Z"
-  },
-  {
-    "headline": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
-    "summary": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
-    "image_url": null,
-    "published_at": "2026-07-28T01:34:28.000Z"
-  },
-  {
-    "headline": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-    "summary": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-    "image_url": null,
-    "published_at": "2026-07-27T21:29:50.000Z"
-  },
-  {
-    "headline": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
-    "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-    "image_url": null,
-    "published_at": "2026-07-27T21:29:40.000Z"
-  },
-  {
-    "headline": "Apple ends day as world's most valuable company, passing Nvidia",
-    "summary": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
-    "image_url": null,
-    "published_at": "2026-07-27T21:12:26.000Z"
-  },
-  {
-    "headline": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chairman Kevin Warsh will say this week",
-    "summary": "Kalshi traders are predicting Warsh will mention last week's supply shock at this week's Federal Reserve press conference.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
-    "image_url": null,
-    "published_at": "2026-07-27T20:52:29.000Z"
-  },
-  {
-    "headline": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
-    "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
-    "image_url": null,
-    "published_at": "2026-07-27T20:52:29.000Z"
-  },
-  {
-    "headline": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
-    "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
-    "image_url": null,
-    "published_at": "2026-07-27T20:10:27.000Z"
-  },
-  {
-    "headline": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
-    "summary": "Beginning in early 2027, YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
-    "image_url": null,
-    "published_at": "2026-07-27T20:10:03.000Z"
   }
 ]
