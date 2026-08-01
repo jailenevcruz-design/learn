@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+    "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+    "image_url": null,
+    "published_at": "2026-08-01T23:19:46.000Z"
+  },
+  {
+    "headline": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
+    "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+    "image_url": null,
+    "published_at": "2026-08-01T22:48:05.000Z"
+  },
+  {
+    "headline": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+    "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+    "image_url": null,
+    "published_at": "2026-08-01T20:22:15.000Z"
+  },
+  {
     "headline": "Berkshire Hathaway shares hit eight-month high",
     "summary": "The conglomerate that Warren Buffett built rallied to an eight-month high this week. There could be more gains ahead if they play catch up with the S&P 500.",
     "publisher": "CNBC",
@@ -72,14 +96,6 @@
     "published_at": "2026-08-01T12:00:01.000Z"
   },
   {
-    "headline": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-    "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-    "image_url": null,
-    "published_at": "2026-08-01T10:56:11.000Z"
-  },
-  {
     "headline": "Why did OpenAI's and Anthropic's AI models hack other companies?",
     "summary": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
     "publisher": "NPR",
@@ -118,14 +134,6 @@
     "url": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
     "image_url": null,
     "published_at": "2026-08-01T02:08:51.000Z"
-  },
-  {
-    "headline": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
-    "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
-    "image_url": null,
-    "published_at": "2026-07-31T23:19:16.000Z"
   },
   {
     "headline": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/28/congress-renews-push-to-end-crypto-wash-sale-tax-loophole.html",
     "image_url": null,
     "published_at": "2026-07-28T12:15:01.000Z"
-  },
-  {
-    "headline": "SpaceX stock-purchasing by Congress members fuels conflict concerns",
-    "summary": "Five of the Congress members serve on committees whose work touches SpaceX's federal contracts, defense programs, AI, telecommunications or securities markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
-    "image_url": null,
-    "published_at": "2026-07-28T10:30:01.000Z"
   }
 ]
