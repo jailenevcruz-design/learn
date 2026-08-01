@@ -1,5 +1,29 @@
 [
   {
+    "headline": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+    "summary": "FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
+    "image_url": null,
+    "published_at": "2026-08-01T02:08:51.000Z"
+  },
+  {
+    "headline": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+    "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+    "image_url": null,
+    "published_at": "2026-07-31T23:19:16.000Z"
+  },
+  {
+    "headline": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
+    "summary": "Trump had sued the IRS for $10 billion over the leak of his tax information by an agency contractor.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
+    "image_url": null,
+    "published_at": "2026-07-31T22:04:03.000Z"
+  },
+  {
     "headline": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
     "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
     "publisher": "CNBC",
@@ -14,14 +38,6 @@
     "url": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
     "image_url": null,
     "published_at": "2026-07-31T21:46:32.000Z"
-  },
-  {
-    "headline": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
-    "summary": "Trump had sued the IRS for $10 billion over the leak of his tax information by an agency contractor.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
-    "image_url": null,
-    "published_at": "2026-07-31T21:07:05.000Z"
   },
   {
     "headline": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
     "image_url": null,
     "published_at": "2026-07-27T19:14:30.000Z"
-  },
-  {
-    "headline": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
-    "summary": "The funeral for Sen. Lindsey Graham is bringing world leaders to Washington at a time when many are eager to meet with President Donald Trump amid wars.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html",
-    "image_url": null,
-    "published_at": "2026-07-27T19:08:10.000Z"
-  },
-  {
-    "headline": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
-    "summary": "President Trump Monday voiced support for Federal Reserve Chairman Kevin Warsh while insisting that the U.S. should have the lowest interest rates in the world.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/trump-warsh-interest-rates.html",
-    "image_url": null,
-    "published_at": "2026-07-27T18:15:18.000Z"
   }
 ]
