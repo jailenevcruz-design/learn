@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Berkshire Hathaway shares hit eight-month high",
+    "summary": "The conglomerate that Warren Buffett built rallied to an eight-month high this week. There could be more gains ahead if they play catch up with the S&P 500.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
+    "image_url": null,
+    "published_at": "2026-08-01T14:41:54.000Z"
+  },
+  {
+    "headline": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts",
+    "summary": "Trump Media and Technology Group's new paid data service launched Aug. 1, selling faster access to top Truth Social posts from President Donald Trump and more.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html",
+    "image_url": null,
+    "published_at": "2026-08-01T14:17:57.000Z"
+  },
+  {
+    "headline": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
+    "summary": "Uber and Waymo are increasingly at odds about the autonomous future, including in a labor battle over mass AV deployment in Washington, D.C.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
+    "image_url": null,
+    "published_at": "2026-08-01T14:10:03.000Z"
+  },
+  {
     "headline": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
     "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
     "publisher": "CNBC",
@@ -56,18 +80,18 @@
     "published_at": "2026-08-01T10:56:11.000Z"
   },
   {
-    "headline": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-    "summary": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-    "image_url": null,
-    "published_at": "2026-08-01T09:00:00.000Z"
-  },
-  {
     "headline": "For sale: early access to Trump's Truth Social posts",
     "summary": "The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+    "image_url": null,
+    "published_at": "2026-08-01T09:00:00.000Z"
+  },
+  {
+    "headline": "Why did OpenAI's and Anthropic's AI models hack other companies?",
+    "summary": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
     "image_url": null,
     "published_at": "2026-08-01T09:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
     "image_url": null,
     "published_at": "2026-07-28T10:30:01.000Z"
-  },
-  {
-    "headline": "AI tokens could become the kilowatt-hour of the AI age",
-    "summary": "AI companies use tokens to track usage and bill customers. Now economists are using them to track the spread of AI through the economy.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
-    "image_url": null,
-    "published_at": "2026-07-28T10:30:00.000Z"
-  },
-  {
-    "headline": "Yes, it's possible to save money while paying off credit card debt. Here's how",
-    "summary": "In fact, experts recommend it because it can keep you off the hamster wheel of debt. Here's how to find the money in your budget to put toward savings and credit card payments.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/28/nx-s1-5866642/yes-its-possible-to-save-money-while-paying-off-credit-card-debt-heres-how",
-    "image_url": null,
-    "published_at": "2026-07-28T09:02:00.000Z"
-  },
-  {
-    "headline": "Supreme Court approval hits record low as Republicans' support declines",
-    "summary": "The Trump administration saw some big losses at the Supreme Court in 2026 on issues involving tariffs, birthright citizenship and the Federal Reserve.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/supreme-court-approval-poll-gallup-republicans-trump.html",
-    "image_url": null,
-    "published_at": "2026-07-28T08:00:01.000Z"
   }
 ]
