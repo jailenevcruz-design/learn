@@ -1,5 +1,21 @@
 [
   {
+    "headline": "For sale: early access to Trump's Truth Social posts",
+    "summary": "The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+    "image_url": null,
+    "published_at": "2026-08-01T09:00:00.000Z"
+  },
+  {
+    "headline": "Why did OpenAI's and Anthropic's AI models hack other companies?",
+    "summary": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+    "image_url": null,
+    "published_at": "2026-08-01T09:00:00.000Z"
+  },
+  {
     "headline": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’",
     "summary": "A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.",
     "publisher": "CNBC",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
     "image_url": null,
     "published_at": "2026-07-27T20:10:03.000Z"
-  },
-  {
-    "headline": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
-    "summary": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
-    "image_url": null,
-    "published_at": "2026-07-27T19:48:30.000Z"
-  },
-  {
-    "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
-    "summary": "This is yet another sign that investors need to look beyond AI stocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
-    "image_url": null,
-    "published_at": "2026-07-27T19:46:20.000Z"
   }
 ]
