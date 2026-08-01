@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’",
+    "summary": "A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html",
+    "image_url": null,
+    "published_at": "2026-08-01T06:58:41.000Z"
+  },
+  {
+    "headline": "Iran's overlapping power centers make ending the war more complicated",
+    "summary": "Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
+    "image_url": null,
+    "published_at": "2026-08-01T06:52:42.000Z"
+  },
+  {
     "headline": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
     "summary": "FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations.",
     "publisher": "NPR",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
     "image_url": null,
     "published_at": "2026-07-27T19:46:20.000Z"
-  },
-  {
-    "headline": "Op-ed: Over 2,000 proposals aim to govern AI. Not a single one addresses a long-term regulatory framework",
-    "summary": "AI can't be regulated by the invisible hand of the market. We need a comprehensive future-focused regulatory framework.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/ai-industry-risk-future-regulation.html",
-    "image_url": null,
-    "published_at": "2026-07-27T19:22:12.000Z"
-  },
-  {
-    "headline": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
-    "summary": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and capital rotated away from chip and AI infrastructure names.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
-    "image_url": null,
-    "published_at": "2026-07-27T19:14:30.000Z"
   }
 ]
