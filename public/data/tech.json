@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Xbox prices are increasing by up to €200 or £170",
+    "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to €200 or £170. The 1TB Xbox Series X with a disc drive is going up by over 30 percent from…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+    "image_url": null,
+    "published_at": "2026-08-02T16:14:20.000Z"
+  },
+  {
+    "headline": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+    "image_url": null,
+    "published_at": "2026-08-02T16:05:00.000Z"
+  },
+  {
     "headline": "These App Store hidden gems prove there’s still room for great software in the AI era",
     "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
     "publisher": "TechCrunch",
@@ -136,18 +152,18 @@
     "published_at": "2026-08-01T15:05:00.000Z"
   },
   {
-    "headline": "The Verge’s 2026 back-to-school shopping guide",
-    "summary": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shopping guide that's a mi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
-    "image_url": null,
-    "published_at": "2026-08-01T14:00:00.000Z"
-  },
-  {
     "headline": "Apps that help you break free from doomscrolling and get active",
     "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+    "image_url": null,
+    "published_at": "2026-08-01T14:00:00.000Z"
+  },
+  {
+    "headline": "The Verge’s 2026 back-to-school shopping guide",
+    "summary": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shopping guide that's a mi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
     "image_url": null,
     "published_at": "2026-08-01T14:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
     "image_url": null,
     "published_at": "2026-07-27T15:00:00.000Z"
-  },
-  {
-    "headline": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-    "summary": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon. Finding a good QD-OLED monitor under $500 these days is pret…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-    "image_url": null,
-    "published_at": "2026-07-27T14:56:38.000Z"
-  },
-  {
-    "headline": "SDCC 2026’s best trailers are heavy on cyberpunk and sci-fi",
-    "summary": "San Diego Comic-Con took place over the weekend, and as per usual it was full of tidbits of news across film, TV, and gaming. Marvel revealed the next Ghost Rider (Ryan Gosling) and Black Panther (David Jonsson), while we also got release dates for God of War: Laufey (February 16th) and the fourth and final season of S…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie",
-    "image_url": null,
-    "published_at": "2026-07-27T14:38:43.000Z"
   }
 ]
