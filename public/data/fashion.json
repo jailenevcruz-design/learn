@@ -1,11 +1,35 @@
 [
   {
+    "headline": "The Benefits of Vitamin B6",
+    "summary": "Vitamin B6 supports energy metabolism, brain health, mood, and sleep. Here, a look at the benefits, food sources, and signs of deficiency.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/vitamin-b6",
+    "image_url": null,
+    "published_at": "2026-08-02T19:30:00.000Z"
+  },
+  {
+    "headline": "Kate Middleton Styles Her Staples for a Rare All-Family Outing to the Commonwealth Games",
+    "summary": "The Wales family made their first official public appearance as a fivesome in Scotland for the Commonwealth Games—Kate Middleton stuck to her familiar fashions.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/kate-middleton-staple-outfit-commonwealth-games",
+    "image_url": null,
+    "published_at": "2026-08-02T18:47:27.000Z"
+  },
+  {
     "headline": "Mary Katrantzou Resort 2027",
     "summary": "",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/resort-2027/mary-katrantzou",
     "image_url": null,
     "published_at": "2026-08-02T18:46:28.000Z"
+  },
+  {
+    "headline": "Jennie Mixes Feathers, Leather and Biker Boots at Lollapalooza",
+    "summary": "Fresh off the release of “Less Than a Lover,” the Blackpink member wore an Ann Demeulemeester look for her first Lollapalooza performance.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/jennie-ann-demeulemeester-outfit-lollapalooza-2026-1239090862/",
+    "image_url": null,
+    "published_at": "2026-08-02T18:36:37.000Z"
   },
   {
     "headline": "Nike’s Classic Air Force 1 Got Covered in a New Floral Print and It’s Available Right Now",
@@ -1574,29 +1598,5 @@
     "url": "https://wwd.com/shop/shop-fashion/kendra-scott-dallas-cowboys-new-jewelry-earrings-collection-1239086414/",
     "image_url": null,
     "published_at": "2026-07-29T16:57:45.000Z"
-  },
-  {
-    "headline": "Anya Taylor-Joy Has Stayed Loyal to These Luxury Shoes Over the Years",
-    "summary": "See her go-to shoe designers, from Jimmy Choo to Giuseppe Zanotti.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/anya-taylor-joy-favorite-shoe-brands-1239086157/",
-    "image_url": null,
-    "published_at": "2026-07-29T16:48:05.000Z"
-  },
-  {
-    "headline": "Quince Surpasses $2 Billion in Sales",
-    "summary": "The factory-direct luxury essentials player closed on a $500 million series E funding round in March, valuing the company at $10.1 billion.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/quince-surpasses-2-billion-sales-1239086650/",
-    "image_url": null,
-    "published_at": "2026-07-29T16:43:23.000Z"
-  },
-  {
-    "headline": "Boutique Shopping Is Bouncing Back",
-    "summary": "There’s an anti-online sentiment bubbling in retail—customers want in-person curation, and most important, they want the feeling of a fashion hunt.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/boutique-shopping-is-bouncing-back",
-    "image_url": null,
-    "published_at": "2026-07-29T16:41:43.000Z"
   }
 ]
