@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+    "summary": "The bank is asking a judge to permanently dismiss a lawsuit from Trump-affiliated businesses, arguing a monthslong internal review — not the Jan. 6 riot — explains why hundreds of accounts were shut down in 2021.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+    "image_url": null,
+    "published_at": "2026-08-02T18:31:34.000Z"
+  },
+  {
+    "headline": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
+    "summary": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+    "image_url": null,
+    "published_at": "2026-08-02T18:23:03.000Z"
+  },
+  {
+    "headline": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
+    "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
+    "image_url": null,
+    "published_at": "2026-08-02T16:54:18.000Z"
+  },
+  {
     "headline": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
     "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" snared $355 million in estimated domestic box office on its opening weekend, the second-highest debut of all time.",
     "publisher": "CNBC",
@@ -46,14 +70,6 @@
     "url": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
     "image_url": null,
     "published_at": "2026-08-02T13:00:01.000Z"
-  },
-  {
-    "headline": "Op-ed: The U.S. lead over China in AI is all but gone",
-    "summary": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
-    "image_url": null,
-    "published_at": "2026-08-02T12:30:01.000Z"
   },
   {
     "headline": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
@@ -126,14 +142,6 @@
     "url": "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
     "image_url": null,
     "published_at": "2026-08-01T14:10:03.000Z"
-  },
-  {
-    "headline": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
-    "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
-    "image_url": null,
-    "published_at": "2026-08-01T13:44:04.000Z"
   },
   {
     "headline": "Buying a condo with a mortgage may soon get more complicated. Here's why",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
     "image_url": null,
     "published_at": "2026-07-28T16:42:45.000Z"
-  },
-  {
-    "headline": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-    "summary": "Brokerages, startups and even retail investors are building AI agents that can help oversee portfolios and automate investing tasks once handled by humans.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-    "image_url": null,
-    "published_at": "2026-07-28T16:16:25.000Z"
   }
 ]
