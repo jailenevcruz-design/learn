@@ -1,5 +1,45 @@
 [
   {
+    "headline": "These App Store hidden gems prove there’s still room for great software in the AI era",
+    "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+    "image_url": null,
+    "published_at": "2026-08-02T15:23:19.000Z"
+  },
+  {
+    "headline": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
+    "summary": "The 15-inch Skylight Calendar 2 can stand on a table or mounted to the wall. | Image: Skylight The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It’s easy for things to slip through the cracks, but…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-02T15:00:00.000Z"
+  },
+  {
+    "headline": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
+    "summary": "Tough sell. | Photo: Antonio G. Di Benedetto / The Verge The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little upgrades over…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+    "image_url": null,
+    "published_at": "2026-08-02T14:00:00.000Z"
+  },
+  {
+    "headline": "Is paying artists enough to convince them to embrace AI?",
+    "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "image_url": null,
+    "published_at": "2026-08-02T13:00:00.000Z"
+  },
+  {
+    "headline": "Foldables are sort of boring now — and that’s great news for Apple",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Believe it or not, it didn't all start with Sam…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+    "image_url": null,
+    "published_at": "2026-08-02T12:00:00.000Z"
+  },
+  {
     "headline": "Pixel 11 specs and price leak with no surprises",
     "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB of storage instead of…",
     "publisher": "The Verge",
@@ -1558,45 +1598,5 @@
     "url": "https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie",
     "image_url": null,
     "published_at": "2026-07-27T14:38:43.000Z"
-  },
-  {
-    "headline": "Chinese RAM company CXMT makes a $484 billion stock market debut",
-    "summary": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy boosted CXMT's valuation to $484 billion, making it the most valuable Chinese compa…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
-    "image_url": null,
-    "published_at": "2026-07-27T14:27:16.000Z"
-  },
-  {
-    "headline": "Snapchat now lets you share what you’re listening to in real time",
-    "summary": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
-    "image_url": null,
-    "published_at": "2026-07-27T13:00:00.000Z"
-  },
-  {
-    "headline": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-    "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "image_url": null,
-    "published_at": "2026-07-27T13:00:00.000Z"
-  },
-  {
-    "headline": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-    "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting conc…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-    "image_url": null,
-    "published_at": "2026-07-27T12:06:22.000Z"
-  },
-  {
-    "headline": "Meta is royally screwing up its smart glasses rollout",
-    "summary": "We’re leaning in with the playing card metaphor. Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another transposes the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
-    "image_url": null,
-    "published_at": "2026-07-27T12:00:00.000Z"
   }
 ]
