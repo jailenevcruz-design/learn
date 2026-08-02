@@ -1,11 +1,27 @@
 [
   {
+    "headline": "Oil drops over 4% after Trump calls off planned strike on Iran",
+    "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+    "image_url": null,
+    "published_at": "2026-08-02T23:33:07.000Z"
+  },
+  {
     "headline": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
     "summary": "U.K. pharmaceutical giant AstraZeneca is considering a deal to merge with its U.S. rival Bristol Myers Squibb.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
     "image_url": null,
-    "published_at": "2026-08-02T20:12:41.000Z"
+    "published_at": "2026-08-02T22:17:47.000Z"
+  },
+  {
+    "headline": "Here's my power rankings for the big 4 hyperscalers after this earnings season",
+    "summary": "In his Sunday column, Jim Cramer explains why Amazon is his favorite hyperscaler after second-quarter earnings season.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
+    "image_url": null,
+    "published_at": "2026-08-02T20:27:44.000Z"
   },
   {
     "headline": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
     "image_url": null,
     "published_at": "2026-07-28T18:27:43.000Z"
-  },
-  {
-    "headline": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
-    "summary": "The Facebook and Instagram owner is set to report earnings after the market close on Wednesday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-    "image_url": null,
-    "published_at": "2026-07-28T17:40:03.000Z"
-  },
-  {
-    "headline": "Shein says it's under investigation by the Federal Trade Commission as it prepares for Hong Kong IPO",
-    "summary": "Shein disclosed the FTC is investigating its U.S. business, but the nature of the probe is unclear.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
-    "image_url": null,
-    "published_at": "2026-07-28T17:12:52.000Z"
   }
 ]
