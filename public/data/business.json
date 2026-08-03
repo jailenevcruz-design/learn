@@ -1,19 +1,139 @@
 [
   {
-    "headline": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
-    "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
+    "headline": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+    "summary": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
+    "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
     "image_url": null,
-    "published_at": "2026-08-03T05:00:01.000Z"
+    "published_at": "2026-08-03T17:28:17.000Z"
   },
   {
-    "headline": "Trump says Iran talks to resume Monday after calling off planned strikes",
-    "summary": "The latest peace proposal calls for warring parties to return to negotiations and continue working out some of the thorny issues that derailed diplomatic efforts.",
+    "headline": "FAA clears smallest Boeing 737 Max to fly after years of delays",
+    "summary": "Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+    "image_url": null,
+    "published_at": "2026-08-03T17:27:34.000Z"
+  },
+  {
+    "headline": "Michigan confirms first two deaths in cyclospora outbreak",
+    "summary": "The Michigan Health Department said that both individuals had underlying health conditions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
+    "image_url": null,
+    "published_at": "2026-08-03T17:18:06.000Z"
+  },
+  {
+    "headline": "'The Odyssey' fuels Imax stock to all-time high. CEO calls momentum a 'flywheel'",
+    "summary": "Imax shares hit an all-time high Monday as the company continues to haul in box office receipts for Christopher Nolan's \"The Odyssey.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/imax-stock-the-odyssey.html",
+    "image_url": null,
+    "published_at": "2026-08-03T17:16:52.000Z"
+  },
+  {
+    "headline": "Jim Cramer wants to 'replenish' our position in this data center play",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/jim-cramer-wants-to-replenish-our-position-in-this-data-center-play.html",
+    "image_url": null,
+    "published_at": "2026-08-03T17:12:31.000Z"
+  },
+  {
+    "headline": "More tech millionaires are using donor-advised funds for tax savings and giving",
+    "summary": "DAFs are gaining in popularity as private firms like Anthropic and OpenAI skyrocket in value and more companies stay private for longer.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
+    "image_url": null,
+    "published_at": "2026-08-03T17:04:57.000Z"
+  },
+  {
+    "headline": "Are Americans ready to embrace tiny 'cars'? These companies think so",
+    "summary": "Electric low-speed vehicles, or LSVs, are a step above a traditional golf cart but below a typical light-duty car or truck sold in the U.S.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
+    "image_url": null,
+    "published_at": "2026-08-03T16:57:42.000Z"
+  },
+  {
+    "headline": "White House to host AI companies Tuesday to review new model-testing framework",
+    "summary": "President Donald Trump’s June executive order directed officials to develop a process to evaluate the cybersecurity capabilities of advanced AI models.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+    "image_url": null,
+    "published_at": "2026-08-03T16:56:52.000Z"
+  },
+  {
+    "headline": "Kalshi traders are not expecting a U.S. and Iran nuclear deal soon",
+    "summary": "As of early Sunday morning, Kalshi traders saw a 29% likelihood of a nuclear deal between the U.S. and Iran before January 2027.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-are-not-expecting-a-us-and-iran-nuclear-deal-soon.html",
+    "image_url": null,
+    "published_at": "2026-08-03T16:51:19.000Z"
+  },
+  {
+    "headline": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+    "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+    "image_url": null,
+    "published_at": "2026-08-03T16:44:25.000Z"
+  },
+  {
+    "headline": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
+    "summary": "Trump on Truth Social accused Iran's leaders of lying about peace talks, which he said are underway \"whether Iran wants to admit it or not.\"",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
     "image_url": null,
-    "published_at": "2026-08-03T04:44:30.000Z"
+    "published_at": "2026-08-03T16:39:37.000Z"
+  },
+  {
+    "headline": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
+    "summary": "President Donald Trump's attorneys continue to fight in court against a judicial order that said the settlement deal is legally baseless.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
+    "image_url": null,
+    "published_at": "2026-08-03T16:21:44.000Z"
+  },
+  {
+    "headline": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
+    "summary": "Speculators on the platform place just under 50-50 odds that employers added more than 80,000 jobs in July.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
+    "image_url": null,
+    "published_at": "2026-08-03T15:59:04.000Z"
+  },
+  {
+    "headline": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+    "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-03T15:50:20.000Z"
+  },
+  {
+    "headline": "Oil prices tumble after Trump calls off attack on Iran",
+    "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+    "image_url": null,
+    "published_at": "2026-08-03T15:47:24.000Z"
+  },
+  {
+    "headline": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
+    "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
+    "image_url": null,
+    "published_at": "2026-08-03T15:46:27.000Z"
+  },
+  {
+    "headline": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+    "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+    "image_url": null,
+    "published_at": "2026-08-03T15:27:52.000Z"
   },
   {
     "headline": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
@@ -21,15 +141,71 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
     "image_url": null,
-    "published_at": "2026-08-03T04:36:53.000Z"
+    "published_at": "2026-08-03T13:49:17.000Z"
   },
   {
-    "headline": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
-    "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+    "headline": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+    "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+    "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
     "image_url": null,
-    "published_at": "2026-08-03T04:35:13.000Z"
+    "published_at": "2026-08-03T13:45:02.000Z"
+  },
+  {
+    "headline": "What the market is saying about the U.S. intervention to prop up the yen",
+    "summary": "Following the joint involvement the yen now sits at 157 to the dollar, down from just above 163, which represented its lowest level in four decades.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
+    "image_url": null,
+    "published_at": "2026-08-03T13:43:55.000Z"
+  },
+  {
+    "headline": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
+    "summary": "Alibaba unveiled its latest and 'most powerful' AI model Qwen3.8-Max on Monday as Chinese companies race to close the AI gap with the U.S.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+    "image_url": null,
+    "published_at": "2026-08-03T13:38:33.000Z"
+  },
+  {
+    "headline": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed'",
+    "summary": "The companies have discussed a potential merger over several months, reports say.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
+    "image_url": null,
+    "published_at": "2026-08-03T11:35:03.000Z"
+  },
+  {
+    "headline": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
+    "summary": "At least 70 House offices used identifiable AI tools in early 2026, with Democrats leading visible spending and broader use likely undercounted.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
+    "image_url": null,
+    "published_at": "2026-08-03T11:00:01.000Z"
+  },
+  {
+    "headline": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
+    "summary": "China’s domestic tourism is underperforming, with hotel revenues falling as soft demand pressures room rates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html",
+    "image_url": null,
+    "published_at": "2026-08-03T10:32:09.000Z"
+  },
+  {
+    "headline": "For those with criminal records, AI is breaking down barriers to employment",
+    "summary": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
+    "image_url": null,
+    "published_at": "2026-08-03T09:42:28.000Z"
+  },
+  {
+    "headline": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+    "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
+    "image_url": null,
+    "published_at": "2026-08-03T05:00:01.000Z"
   },
   {
     "headline": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
@@ -232,18 +408,18 @@
     "published_at": "2026-08-01T12:16:13.000Z"
   },
   {
-    "headline": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
-    "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
-    "image_url": null,
-    "published_at": "2026-08-01T12:00:01.000Z"
-  },
-  {
     "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
     "summary": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+    "image_url": null,
+    "published_at": "2026-08-01T12:00:01.000Z"
+  },
+  {
+    "headline": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+    "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
     "image_url": null,
     "published_at": "2026-08-01T12:00:01.000Z"
   },
@@ -1422,181 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
     "image_url": null,
     "published_at": "2026-07-29T11:25:02.000Z"
-  },
-  {
-    "headline": "Cyclospora outbreak tied to Taco Bell will steal the spotlight from Yum Brands' earnings",
-    "summary": "Wall Street is projecting a strong second quarter for Yum Brands, but investors' focus will be on updates related to the cyclospora outbreak tied to Taco Bell.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/cyclospora-outbreak-taco-bell-yum-brands-earnings.html",
-    "image_url": null,
-    "published_at": "2026-07-29T11:00:01.000Z"
-  },
-  {
-    "headline": "UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch",
-    "summary": "The Swiss banking gian reported pre-tax profits of $3.6 billion for the quarter, as CEO Sergio Ermotti warned of geopolitical volatility ahead.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
-    "image_url": null,
-    "published_at": "2026-07-29T09:40:12.000Z"
-  },
-  {
-    "headline": "A divided Federal Reserve holds interest rates steady despite high inflation",
-    "summary": "The Federal Reserve left its benchmark interest rate unchanged Wednesday. Fed policymakers say they remain committed to curbing stubborn inflation.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
-    "image_url": null,
-    "published_at": "2026-07-29T09:00:00.000Z"
-  },
-  {
-    "headline": "More Americans are going bankrupt. What does that mean?",
-    "summary": "The bankruptcy rate has risen about 48% between 2022 and 2025, although it's still below pre-pandemic levels.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
-    "image_url": null,
-    "published_at": "2026-07-29T09:00:00.000Z"
-  },
-  {
-    "headline": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-    "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-    "image_url": null,
-    "published_at": "2026-07-29T08:43:13.000Z"
-  },
-  {
-    "headline": "BTS' concerts have been so successful, it’s now bad for its own agency’s shares",
-    "summary": "Shares of Hybe tanked 16.09% on Tuesday, marking its worst day since June 2022. It then extended losses to tumble as much as 16.31% on Wednesday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html",
-    "image_url": null,
-    "published_at": "2026-07-29T07:26:43.000Z"
-  },
-  {
-    "headline": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
-    "summary": "Korean retail investors have racked up heavy losses from leveraged bets on stocks, following rule changes earlier this year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html",
-    "image_url": null,
-    "published_at": "2026-07-29T07:01:28.000Z"
-  },
-  {
-    "headline": "Why America's super rich have embraced the appeal of British soccer teams",
-    "summary": "American investors now control more than half the Premier League. CNBC examines why U.K. soccer clubs have become attractive long-term assets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/why-america-super-rich-love-football-clubs-british.html",
-    "image_url": null,
-    "published_at": "2026-07-29T05:00:02.000Z"
-  },
-  {
-    "headline": "Audi continues U.S. product push with three-row Q9 SUV",
-    "summary": "Audi sales have struggled in the U.S. over the last several quarters. The brand has been hit by tariffs and a market shift away from EVs. New product may help.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/audi-q9-suv.html",
-    "image_url": null,
-    "published_at": "2026-07-29T01:56:52.000Z"
-  },
-  {
-    "headline": "Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll",
-    "summary": "The Supreme Court recently rejected President Donald Trump's bid to hear his appeal of another $5 million verdict in favor of Carroll.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html",
-    "image_url": null,
-    "published_at": "2026-07-29T01:17:13.000Z"
-  },
-  {
-    "headline": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
-    "summary": "Bill Pulte had been serving for months as DNI after Tulsi Gabbard resigned the post.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
-    "image_url": null,
-    "published_at": "2026-07-29T00:04:25.000Z"
-  },
-  {
-    "headline": "Senate sets up votes to sanction Russia for Ukraine war",
-    "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
-    "image_url": null,
-    "published_at": "2026-07-29T00:03:14.000Z"
-  },
-  {
-    "headline": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
-    "summary": "\"America won the first Space Race, and we can do it again — but only if we get government red tape out of the way,\" Transportation Secretary Sean Duffy said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
-    "image_url": null,
-    "published_at": "2026-07-28T23:49:14.000Z"
-  },
-  {
-    "headline": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
-    "summary": "FIFA has a complex plan to sell chunks of its commercial rights to the World Cup to minority investors, including a firm run by Joshua Kushner, the brother of Jared Kushner.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
-    "image_url": null,
-    "published_at": "2026-07-28T23:04:59.000Z"
-  },
-  {
-    "headline": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
-    "summary": "Ford cited operational improvements, resilient vehicle pricing and a high sales mix of profitable products for its performance and the improved guidance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-07-28T22:49:50.000Z"
-  },
-  {
-    "headline": "Corning plunges despite strong quarterly results — here's our plan for the stock",
-    "summary": "Corning is a broken and hated stock, despite its solid performance and growth prospects.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/corning-plunges-despite-strong-results-heres-our-plan-for-the-stock.html",
-    "image_url": null,
-    "published_at": "2026-07-28T20:47:48.000Z"
-  },
-  {
-    "headline": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
-    "summary": "Record high housing costs have pushed the wealth gap between renters and owners wider than ever. It's been a boon for owners even as many others are priced out.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
-    "image_url": null,
-    "published_at": "2026-07-28T20:14:20.000Z"
-  },
-  {
-    "headline": "Apple touches $5 trillion market cap for first time",
-    "summary": "The jockeying between Apple and Nvidia reflects a debate about the future of AI that has preoccupied investors this summer.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
-    "image_url": null,
-    "published_at": "2026-07-28T20:02:50.000Z"
-  },
-  {
-    "headline": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
-    "summary": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-07-28T20:01:06.000Z"
-  },
-  {
-    "headline": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
-    "summary": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
-    "image_url": null,
-    "published_at": "2026-07-28T19:45:10.000Z"
-  },
-  {
-    "headline": "Analysis: Kevin Warsh has three reasons to hold off on a Fed rate hike this week",
-    "summary": "At the Fed’s July meeting, the new chairman will reveal how he weighs energy shocks, AI-driven price pressure, the task forces and pressure from Trump.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/warsh-fed-rate-decision-trump-powell-analysis.html",
-    "image_url": null,
-    "published_at": "2026-07-28T19:25:29.000Z"
-  },
-  {
-    "headline": "The Dow jumps as the AI trade wobbles. Plus, a portfolio name goes on the M&A hunt",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/the-dow-jumps-as-the-ai-trade-wobbles-plus-a-portfolio-name-goes-on-the-ma-hunt.html",
-    "image_url": null,
-    "published_at": "2026-07-28T19:15:15.000Z"
   }
 ]
