@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+    "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+    "image_url": null,
+    "published_at": "2026-08-03T22:10:58.000Z"
+  },
+  {
     "headline": "Your Fitbit data can now connect directly to Apple Health",
     "summary": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile icon, select \"Partner apps,\" and choose Apple Health to link your data directly. Prev…",
     "publisher": "The Verge",
@@ -17,7 +25,7 @@
   },
   {
     "headline": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+    "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
     "image_url": null,
@@ -1590,13 +1598,5 @@
     "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
     "image_url": null,
     "published_at": "2026-07-28T17:57:57.000Z"
-  },
-  {
-    "headline": "Saudi prince buys 5% stake in Lucid Motors",
-    "summary": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
-    "image_url": null,
-    "published_at": "2026-07-28T17:33:51.000Z"
   }
 ]
