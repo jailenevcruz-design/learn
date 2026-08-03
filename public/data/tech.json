@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "image_url": null,
+    "published_at": "2026-08-03T19:09:56.000Z"
+  },
+  {
+    "headline": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+    "summary": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+    "image_url": null,
+    "published_at": "2026-08-03T18:54:09.000Z"
+  },
+  {
+    "headline": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it arrives at a moment…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "image_url": null,
+    "published_at": "2026-08-03T18:43:43.000Z"
+  },
+  {
+    "headline": "Outernet turns your saved posts into real-world adventures",
+    "summary": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+    "image_url": null,
+    "published_at": "2026-08-03T18:00:24.000Z"
+  },
+  {
+    "headline": "WhatsApp says it is is fixing an issue that disabled several accounts",
+    "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+    "image_url": null,
+    "published_at": "2026-08-03T17:46:01.000Z"
+  },
+  {
+    "headline": "Europe’s AI labeling and transparency rules are now in effect",
+    "summary": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's lan…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "image_url": null,
+    "published_at": "2026-08-03T17:38:45.000Z"
+  },
+  {
     "headline": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
     "summary": "The Scribe comes with a Premium Pen, which includes a built-in eraser. | Photo by Amelia Holowaty Krales / The Verge The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through Au…",
     "publisher": "The Verge",
@@ -1550,53 +1598,5 @@
     "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
     "image_url": null,
     "published_at": "2026-07-28T14:00:00.000Z"
-  },
-  {
-    "headline": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
-    "summary": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-    "image_url": null,
-    "published_at": "2026-07-28T13:50:27.000Z"
-  },
-  {
-    "headline": "Recursive Superintelligence signs $410M compute deal with Amazon",
-    "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "image_url": null,
-    "published_at": "2026-07-28T13:19:17.000Z"
-  },
-  {
-    "headline": "Granola launches an Apple Watch app",
-    "summary": "AI note-taking app Granola is launching an app for the Apple Watch in hopes that its users will want to record meetings and take notes without using their smartphones.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
-    "image_url": null,
-    "published_at": "2026-07-28T13:00:00.000Z"
-  },
-  {
-    "headline": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
-    "summary": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
-    "image_url": null,
-    "published_at": "2026-07-28T08:00:00.000Z"
-  },
-  {
-    "headline": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "image_url": null,
-    "published_at": "2026-07-28T04:30:00.000Z"
-  },
-  {
-    "headline": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
-    "summary": "The Razer Huntsman V3 Pro features doubleshot PBT keycaps. Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing adjustable optical switches that are more…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
-    "image_url": null,
-    "published_at": "2026-07-27T21:29:22.000Z"
   }
 ]

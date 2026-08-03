@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
+    "summary": "",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
+    "image_url": null,
+    "published_at": "2026-08-03T19:06:44.000Z"
+  },
+  {
+    "headline": "More tech millionaires are using donor-advised funds for tax savings and giving",
+    "summary": "DAFs are gaining in popularity as private firms like Anthropic and OpenAI skyrocket in value and more companies stay private for longer.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
+    "image_url": null,
+    "published_at": "2026-08-03T18:56:51.000Z"
+  },
+  {
+    "headline": "FAA clears smallest Boeing 737 Max to fly after years of delays",
+    "summary": "Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+    "image_url": null,
+    "published_at": "2026-08-03T18:56:28.000Z"
+  },
+  {
+    "headline": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
+    "summary": "President Donald Trump's attorneys continue to fight in court against a judicial order that said the settlement deal is legally baseless.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
+    "image_url": null,
+    "published_at": "2026-08-03T18:35:15.000Z"
+  },
+  {
+    "headline": "Can Palantir pull off a Microsoft-style comeback? Here's what options say",
+    "summary": "Hopes are running high that high-profile software provider Palantir can shake off its nine-month bear market and rally after earnings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/can-palantir-pull-off-a-microsoft-style-comeback-heres-what-options-say.html",
+    "image_url": null,
+    "published_at": "2026-08-03T18:34:52.000Z"
+  },
+  {
+    "headline": "Michigan confirms first two deaths in cyclospora outbreak",
+    "summary": "The Michigan Health Department said that both individuals had underlying health conditions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
+    "image_url": null,
+    "published_at": "2026-08-03T18:32:42.000Z"
+  },
+  {
+    "headline": "'The Odyssey' fuels Imax stock to all-time high. CEO calls momentum a 'flywheel'",
+    "summary": "Imax shares hit an all-time high Monday as the company continues to haul in box office receipts for Christopher Nolan's \"The Odyssey.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/imax-stock-the-odyssey.html",
+    "image_url": null,
+    "published_at": "2026-08-03T18:16:41.000Z"
+  },
+  {
     "headline": "Hugging Face CEO says China is winning the AI race and dominating on open models",
     "summary": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
     "publisher": "CNBC",
@@ -8,44 +64,12 @@
     "published_at": "2026-08-03T17:28:17.000Z"
   },
   {
-    "headline": "FAA clears smallest Boeing 737 Max to fly after years of delays",
-    "summary": "Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
-    "image_url": null,
-    "published_at": "2026-08-03T17:27:34.000Z"
-  },
-  {
-    "headline": "Michigan confirms first two deaths in cyclospora outbreak",
-    "summary": "The Michigan Health Department said that both individuals had underlying health conditions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
-    "image_url": null,
-    "published_at": "2026-08-03T17:18:06.000Z"
-  },
-  {
-    "headline": "'The Odyssey' fuels Imax stock to all-time high. CEO calls momentum a 'flywheel'",
-    "summary": "Imax shares hit an all-time high Monday as the company continues to haul in box office receipts for Christopher Nolan's \"The Odyssey.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/imax-stock-the-odyssey.html",
-    "image_url": null,
-    "published_at": "2026-08-03T17:16:52.000Z"
-  },
-  {
     "headline": "Jim Cramer wants to 'replenish' our position in this data center play",
     "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/03/jim-cramer-wants-to-replenish-our-position-in-this-data-center-play.html",
     "image_url": null,
     "published_at": "2026-08-03T17:12:31.000Z"
-  },
-  {
-    "headline": "More tech millionaires are using donor-advised funds for tax savings and giving",
-    "summary": "DAFs are gaining in popularity as private firms like Anthropic and OpenAI skyrocket in value and more companies stay private for longer.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
-    "image_url": null,
-    "published_at": "2026-08-03T17:04:57.000Z"
   },
   {
     "headline": "Are Americans ready to embrace tiny 'cars'? These companies think so",
@@ -62,6 +86,14 @@
     "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
     "image_url": null,
     "published_at": "2026-08-03T16:56:52.000Z"
+  },
+  {
+    "headline": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+    "summary": "The commentary pointed to a highly volatile environment in which purchasing managers were struggling to stay ahead",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+    "image_url": null,
+    "published_at": "2026-08-03T16:54:19.000Z"
   },
   {
     "headline": "Kalshi traders are not expecting a U.S. and Iran nuclear deal soon",
@@ -86,14 +118,6 @@
     "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
     "image_url": null,
     "published_at": "2026-08-03T16:39:37.000Z"
-  },
-  {
-    "headline": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
-    "summary": "President Donald Trump's attorneys continue to fight in court against a judicial order that said the settlement deal is legally baseless.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
-    "image_url": null,
-    "published_at": "2026-08-03T16:21:44.000Z"
   },
   {
     "headline": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
     "image_url": null,
     "published_at": "2026-07-29T14:03:23.000Z"
-  },
-  {
-    "headline": "Ukraine has found a new pressure point in Russia’s wartime economy",
-    "summary": "Ukraine's drone attacks on Russia's biggest online retailer, Wildberries, have ratcheted up the pressure on Moscow's wartime economy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
-    "image_url": null,
-    "published_at": "2026-07-29T13:59:54.000Z"
-  },
-  {
-    "headline": "Tim Cook’s last earnings call comes at momentous time for Apple with stock at record",
-    "summary": "Apple just hit a $5 trillion market cap for the first time, but CEO Tim Cook still has plenty of concerns to address on his final earnings call at the helm.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/tim-cooks-last-earnings-call-comes-at-momentous-time-for-apple-.html",
-    "image_url": null,
-    "published_at": "2026-07-29T12:18:44.000Z"
-  },
-  {
-    "headline": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
-    "summary": "Nvidia, SK Hynix and Samsung Electronics have led the selloff since market close on Friday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-    "image_url": null,
-    "published_at": "2026-07-29T11:25:02.000Z"
   }
 ]

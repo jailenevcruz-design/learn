@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/freya-dalsjo",
     "image_url": null,
-    "published_at": "2026-08-03T17:31:35.000Z"
+    "published_at": "2026-08-03T19:08:36.000Z"
   },
   {
     "headline": "Self-Portrait Resort 2027",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/resort-2027/self-portrait",
     "image_url": null,
-    "published_at": "2026-08-03T17:31:35.000Z"
+    "published_at": "2026-08-03T19:08:36.000Z"
   },
   {
     "headline": "Anne Sofie Madsen Copenhagen Spring 2027",
@@ -21,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/anne-sofie-madsen",
     "image_url": null,
-    "published_at": "2026-08-03T17:31:35.000Z"
+    "published_at": "2026-08-03T19:08:36.000Z"
   },
   {
     "headline": "Sportmax Resort 2027",
@@ -29,7 +29,71 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/resort-2027/sportmax",
     "image_url": null,
-    "published_at": "2026-08-03T17:31:35.000Z"
+    "published_at": "2026-08-03T19:08:36.000Z"
+  },
+  {
+    "headline": "Beyond FedEx, UPS and DHL: Tariff Refunds Get Murkier for International Carriers",
+    "summary": "FlavorCloud CEO Rathna Sharad says recovering IEEPA tariff payments becomes far more complicated for importers using smaller global carriers.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/trade/ieepa-tariff-refunds-international-carriers-flavorcloud-importers-cross-border-1239091925/",
+    "image_url": null,
+    "published_at": "2026-08-03T19:00:52.000Z"
+  },
+  {
+    "headline": "The Best Street Style Photos From the Spring 2027 Show in Copenhagen",
+    "summary": "Acielle Tanbetova is on the ground in Copenhagen photographing the best dressed guests at the spring 2027 shows.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/copenhagen-fashion-week-street-style-spring-2027",
+    "image_url": null,
+    "published_at": "2026-08-03T18:57:57.000Z"
+  },
+  {
+    "headline": "Salvatore Ferragamo Returns to Net Profit in 1H Amid Challenging Market",
+    "summary": "The Florence-based company said that, despite falling sales in Europe and Asia, profitability and cash generation was driven by direct-to-consumer growth, cost control and optimization measures.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/alvatore-ferragamo-profit-1h-2026-market-challenges-1239091582/",
+    "image_url": null,
+    "published_at": "2026-08-03T18:52:38.000Z"
+  },
+  {
+    "headline": "Nordstrom Hopes to Give 50,000 Kids New Sneakers in 16th Annual Shoes That Fit Campaign",
+    "summary": "The retailer said it will be hosting 20 shoe delivery events across 17 markets.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/nordstrom-shoes-that-fit-campaign-goal-details-2026-1239091910/",
+    "image_url": null,
+    "published_at": "2026-08-03T18:32:28.000Z"
+  },
+  {
+    "headline": "FedEx Scales Autonomous Trailer Loading Beyond Pilot, Growing Robotics Push",
+    "summary": "In February, FedEx said it wanted to deploy automated trailer unloading and loading technology across “thousands” of dock doors in over 20 U.S. hubs.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/logistics/fedex-dexterity-robotics-autonomous-trailer-loading-physical-ai-pilot-1239091771/",
+    "image_url": null,
+    "published_at": "2026-08-03T18:00:49.000Z"
+  },
+  {
+    "headline": "Save the Date: SJ Fall Summit, Sept. 29",
+    "summary": "The event convenes industry leaders, policymakers and supply chain experts.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/save-the-date-sourcing-journal-fall-summit-sept-29-1239091381/",
+    "image_url": null,
+    "published_at": "2026-08-03T17:56:38.000Z"
+  },
+  {
+    "headline": "Paris Hilton Pays Homage to the British Flag With Thigh-high Boots at Brighton Pride",
+    "summary": "The boots were designed by Los Angeles-based brand Shoeber.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-trends/paris-hilton-union-jack-boots-brighton-pride-1239091262/",
+    "image_url": null,
+    "published_at": "2026-08-03T17:37:07.000Z"
+  },
+  {
+    "headline": "Nike Joins the Hyrox Craze",
+    "summary": "As popularity of the popular fitness race soars, Nike's Hybrid Fly and Hybrid RN are the newest shoes entering the fray.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-hybrid-shoes-training-racing-hyrox-1239091568/",
+    "image_url": null,
+    "published_at": "2026-08-03T17:35:04.000Z"
   },
   {
     "headline": "Ferragamo Hits Growth in the Second Quarter",
@@ -273,7 +337,7 @@
   },
   {
     "headline": "Hailey Bieber Endorses Summer’s Coolest Nail Trend",
-    "summary": "Charli xcx was spotted with a flash of this shade, too.",
+    "summary": "Charli XCX was spotted with a flash of this shade too.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/hailey-bieber-charli-xcx-summer-manicure",
     "image_url": null,
@@ -1534,69 +1598,5 @@
     "url": "https://www.vogue.com/article/inside-ubrique-the-small-spanish-town-dominating-luxury-leather",
     "image_url": null,
     "published_at": "2026-07-30T09:30:00.000Z"
-  },
-  {
-    "headline": "Adidas Announces ‘Unbelievably Strong’ Q2, Raises Guidance",
-    "summary": "The German sportswear giant notched up 14 percent growth in sales and the highest quarterly net sales ever.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/https-wwd-com-business-news-financial-adidas-q2-earnings-2026-record-breaking-14-percent-guidance-up-1239086563/",
-    "image_url": null,
-    "published_at": "2026-07-30T07:41:06.000Z"
-  },
-  {
-    "headline": "NYC Marathon Winner Hellen Obiri Stars in On’s New Campaign Aimed at Showcasing the ‘Emotional’ Side of Running",
-    "summary": "The campaign follows Obiri during her daily training routes in Boulder, Colo.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/on-running-hellen-obiri-campaign-cloudboom-strike-2-1239087598/",
-    "image_url": null,
-    "published_at": "2026-07-30T07:00:00.000Z"
-  },
-  {
-    "headline": "Keen Ruffalo Comes Into His Own in ‘Sterling Point’",
-    "summary": "In the first TV show from actor-turned-filmmaker Megan Park, Ruffalo moves into breakout territory in a coming-of-age story set against the wild beauty of Muskoka.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/eye/people/keen-ruffalo-sterling-point-prime-video-1239086280/",
-    "image_url": null,
-    "published_at": "2026-07-30T05:00:00.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Epoch Biodesign Acquires Factory to Scale Recycled Nylon Production",
-    "summary": "The Lululemon- and Inditex-backed company will be able to produce recycled nylon at industrial scale, helping brands meet growing recycled-content and non-destruction rules.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sustainability/business/epoch-biodesign-recycled-nylon-production-expansion-1239086899/",
-    "image_url": null,
-    "published_at": "2026-07-30T05:00:00.000Z"
-  },
-  {
-    "headline": "The Vogue Business TikTok Trend Tracker",
-    "summary": "Vogue Business brings you weekly exclusive data from TikTok, unpacking the latest creators and biggest trends sweeping its Gen Z user base.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
-    "image_url": null,
-    "published_at": "2026-07-30T04:30:00.000Z"
-  },
-  {
-    "headline": "A First Look Inside Atlanta’s New Jeffrey Boutique",
-    "summary": "The 4,000-square-foot retail space in Buckhead Village is a homecoming for owner Jeffrey Kalinsky, whose former stores closed in 2020.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/a-first-look-inside-atlantas-new-jeffrey-boutique",
-    "image_url": null,
-    "published_at": "2026-07-30T04:30:00.000Z"
-  },
-  {
-    "headline": "What Does New UK PM Andy Burnham Mean for Fashion?",
-    "summary": "As “Andycore” hits the fashion press, retail and industry leaders up and down the country line up to see if the new Prime Minister’s agenda on decentralization, technical skills and high street regeneration can revitalize British fashion.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/what-does-new-uk-pm-andy-burnham-mean-for-fashion",
-    "image_url": null,
-    "published_at": "2026-07-30T04:30:00.000Z"
-  },
-  {
-    "headline": "Sam’s Club Taps Singer Maren Morris for Fall Collection",
-    "summary": "The collaboration is part of the membership club's ongoing Edited fashion series tapping celebrities and influencers as the company seeks to elevate its apparel assortment.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/sams-club-singer-maren-morris-collab-brand-additions-1239082886/",
-    "image_url": null,
-    "published_at": "2026-07-30T04:01:00.000Z"
   }
 ]
