@@ -1,27 +1,131 @@
 [
   {
+    "headline": "TikTok users are sharing the items they say are always worth the money—here's what financial planners say",
+    "summary": "Financial planners weigh in on a recent trend on TikTok that has users sharing the items they swear are always worth the money.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/worth-the-money-financial-planners.html",
+    "image_url": null,
+    "published_at": "2026-08-04T19:00:01.000Z"
+  },
+  {
+    "headline": "Oil prices tumble after Bessent says Strait of Hormuz deal may come this week",
+    "summary": "Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz would allow freedom of navigation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html",
+    "image_url": null,
+    "published_at": "2026-08-04T18:54:56.000Z"
+  },
+  {
+    "headline": "An overlooked player in data center buildout delivers once again",
+    "summary": "Not only did results outpace expectations on both the top and bottom lines, but we also got a boost to full-year guidance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/an-overlooked-player-in-data-center-buildout-delivers-once-again-.html",
+    "image_url": null,
+    "published_at": "2026-08-04T18:31:49.000Z"
+  },
+  {
+    "headline": "Palantir jumps 30% on 'otherworldly' commercial revenue — here's what's driving the demand",
+    "summary": "\"Our customers have declined to become vassal states of the language labs,\" Palantir's co-founder and CEO Alex Karp said after blowout second-quarter earnings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
+    "image_url": null,
+    "published_at": "2026-08-04T18:24:49.000Z"
+  },
+  {
+    "headline": "Bessent says U.S. backed Japan’s yen intervention to help stabilize Asia",
+    "summary": "Treasury Secretary Scott Bessent said the U.S. bought yen alongside Japan to curb currency volatility and reduce risks to Asian markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/bessent-us-japan-yen-currency-intervention.html",
+    "image_url": null,
+    "published_at": "2026-08-04T18:24:47.000Z"
+  },
+  {
+    "headline": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
+    "summary": "\"We are in talks with the Iranians,\" the Treasury secretary told CNBC's \"Squawk Box.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
+    "image_url": null,
+    "published_at": "2026-08-04T17:59:19.000Z"
+  },
+  {
+    "headline": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
+    "summary": "Paulson said voting with the majority last week wasn't a tough decision.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
+    "image_url": null,
+    "published_at": "2026-08-04T17:49:24.000Z"
+  },
+  {
+    "headline": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
+    "summary": "Attorney General nominee Todd Blanche will still need to receive 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
+    "image_url": null,
+    "published_at": "2026-08-04T17:25:45.000Z"
+  },
+  {
+    "headline": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
+    "summary": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-04T17:09:37.000Z"
+  },
+  {
+    "headline": "Abdul El-Sayed, Haley Stevens square off Tuesday in Michigan Democratic primary",
+    "summary": "Michigan's Senate Democratic primary between Abdul El-Sayed and Rep. Haley Stevens is one of the most closely watched races of the midterm election.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
+    "image_url": null,
+    "published_at": "2026-08-04T17:02:31.000Z"
+  },
+  {
+    "headline": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
+    "summary": "P&G CEO Shailesh Jejurikar said the acquisition is a play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+    "image_url": null,
+    "published_at": "2026-08-04T17:02:05.000Z"
+  },
+  {
+    "headline": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors",
+    "summary": "The complaint alleges Amazon's third-party delivery model leads to lower wages, unfair working conditions and a lack of competition.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html",
+    "image_url": null,
+    "published_at": "2026-08-04T16:34:05.000Z"
+  },
+  {
+    "headline": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
+    "summary": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
+    "image_url": null,
+    "published_at": "2026-08-04T16:17:23.000Z"
+  },
+  {
     "headline": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
     "summary": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
     "image_url": null,
-    "published_at": "2026-08-04T15:09:11.000Z"
-  },
-  {
-    "headline": "Palantir jumps 27% on 'otherworldly' commercial revenue — here's what's driving the demand",
-    "summary": "\"Our customers have declined to become vassal states of the language labs,\" Palantir's co-founder and CEO Alex Karp said after blowout second-quarter earnings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
-    "image_url": null,
-    "published_at": "2026-08-04T14:47:13.000Z"
+    "published_at": "2026-08-04T16:14:49.000Z"
   },
   {
     "headline": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
-    "summary": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared to 2025.",
+    "summary": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared with 2025.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
     "image_url": null,
-    "published_at": "2026-08-04T14:45:37.000Z"
+    "published_at": "2026-08-04T16:04:43.000Z"
+  },
+  {
+    "headline": "Wayfair stock jumps more than 25% as retailer posts strongest U.S. growth since 2020",
+    "summary": "Wayfair, a pandemic darling that's seen sales slow since lockdown orders were lifted, posted its strongest U.S. growth since 2020 during its second quarter.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-04T15:36:45.000Z"
   },
   {
     "headline": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
@@ -30,22 +134,6 @@
     "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
     "image_url": null,
     "published_at": "2026-08-04T14:42:39.000Z"
-  },
-  {
-    "headline": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
-    "summary": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
-    "image_url": null,
-    "published_at": "2026-08-04T14:40:24.000Z"
-  },
-  {
-    "headline": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
-    "summary": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-04T14:36:44.000Z"
   },
   {
     "headline": "McDonald's names company veteran Skye Anderson as its U.S. president as growth in its largest market slows",
@@ -64,28 +152,12 @@
     "published_at": "2026-08-04T14:16:25.000Z"
   },
   {
-    "headline": "Wayfair stock jumps more than 25% as retailer posts strongest U.S. growth since 2020",
-    "summary": "Wayfair, a pandemic darling that's seen sales slow since lockdown orders were lifted, posted its strongest U.S. growth since 2020 during its second quarter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-04T14:07:48.000Z"
-  },
-  {
     "headline": "Someone on Wall Street thinks SpaceX could triple this week",
     "summary": "SpaceX reports its first earnings results since its June IPO Tuesday after the bell.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/04/someone-on-wall-street-thinks-spacex-could-triple-this-week.html",
     "image_url": null,
     "published_at": "2026-08-04T14:05:01.000Z"
-  },
-  {
-    "headline": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
-    "summary": "\"We are in talks with the Iranians,\" the Treasury secretary told CNBC's \"Squawk Box.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
-    "image_url": null,
-    "published_at": "2026-08-04T14:00:55.000Z"
   },
   {
     "headline": "AMD earnings are a key test for chips and momentum stocks. Here's what the options market is saying",
@@ -120,14 +192,6 @@
     "published_at": "2026-08-04T13:31:19.000Z"
   },
   {
-    "headline": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
-    "summary": "Paulson said voting with the majority last week wasn't a tough decision.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
-    "image_url": null,
-    "published_at": "2026-08-04T13:18:15.000Z"
-  },
-  {
     "headline": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense",
     "summary": "Treasury Secretary Scott Bessent wants to defend the yen without selling Treasurys into a sensitive U.S. bond market. The Federal Reserve could help.",
     "publisher": "CNBC",
@@ -158,14 +222,6 @@
     "url": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
     "image_url": null,
     "published_at": "2026-08-04T12:41:16.000Z"
-  },
-  {
-    "headline": "Bessent says U.S. backed Japan’s yen intervention to help stabilize Asia",
-    "summary": "Treasury Secretary Scott Bessent said the U.S. bought yen alongside Japan to curb currency volatility and reduce risks to Asian markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/bessent-us-japan-yen-currency-intervention.html",
-    "image_url": null,
-    "published_at": "2026-08-04T12:39:52.000Z"
   },
   {
     "headline": "Can your tax preparer use AI without telling you? Some experts say IRS rules aren't clear",
@@ -201,7 +257,7 @@
   },
   {
     "headline": "Why Texas is betting 'Y'all Street' can take on Wall Street",
-    "summary": "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?",
+    "summary": "Dallas' financial industry is growing amid a larger Texas business boom. But can it really steal New York's crown?",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
     "image_url": null,
@@ -1542,61 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
     "image_url": null,
     "published_at": "2026-07-30T13:07:12.000Z"
-  },
-  {
-    "headline": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
-    "summary": "The unclaimed attack comes as Iran, its Houthi alllies in Yemen and Iraqi militias have widened strikes on energy infrastructure across the region.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/egypt-drone-gas-ship-damietta-port-iran-war.html",
-    "image_url": null,
-    "published_at": "2026-07-30T12:45:54.000Z"
-  },
-  {
-    "headline": "Ferrari raises 2026 guidance after Q2 earnings beat",
-    "summary": "Ferrari is bumping up its 2026 guidance after beating Wall Street's second quarter expectations amid \"healthy\" demand for its products.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/ferrari-race-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-07-30T12:08:23.000Z"
-  },
-  {
-    "headline": "Rolls-Royce CEO says major hyperscaler nuclear deal is imminent as data center demand soars",
-    "summary": "Rolls-Royce is riding two of the biggest investment themes in global markets: the defense boom and the AI buildout.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/rolls-royce-earnings-q2-stock-defense-ai.html",
-    "image_url": null,
-    "published_at": "2026-07-30T12:01:08.000Z"
-  },
-  {
-    "headline": "Iran says it will 'punish the aggressor today' after 'heavy wave' of U.S. strikes",
-    "summary": "Iran's Revolutionary Guard threatened further escalation on Thursday after a wave of retaliatory U.S. strikes on the country overnight.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
-    "image_url": null,
-    "published_at": "2026-07-30T11:47:40.000Z"
-  },
-  {
-    "headline": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
-    "summary": "President Donald Trump has promised a \"golden age\" for agriculture, but farmers in Iowa and elsewhere are struggling with tariffs and the Iran war.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
-    "image_url": null,
-    "published_at": "2026-07-30T10:45:01.000Z"
-  },
-  {
-    "headline": "Samsung says chip crunch will last until 2028 as quarterly profit soars",
-    "summary": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-    "image_url": null,
-    "published_at": "2026-07-30T09:10:14.000Z"
-  },
-  {
-    "headline": "The renter-owner wealth gap is wider than ever, as many are priced out of buying",
-    "summary": "Housing has long been the largest source of wealth for middle income families. But many renters cannot afford to buy as housing prices soar, which could fuel a generational divide.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5910711/renter-owner-wealth-gap",
-    "image_url": null,
-    "published_at": "2026-07-30T09:00:00.000Z"
   }
 ]
