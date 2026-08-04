@@ -1,5 +1,61 @@
 [
   {
+    "headline": "BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’",
+    "summary": "The result come after U.S. President Donald Trump lashed out at Big Oil for making \"too much money\" off higher fuel prices amid the Iran war.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
+    "image_url": null,
+    "published_at": "2026-08-04T07:16:57.000Z"
+  },
+  {
+    "headline": "Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations",
+    "summary": "President Donald Trump has warned that the latest round of negotiations with Iran are the \"last chance\" to bring an end to the five-month conflict.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-04T07:04:07.000Z"
+  },
+  {
+    "headline": "CNBC Daily Open: A U.S. yen intervention dressed in euros",
+    "summary": "Reports suggest that Washington sold euros to fund its intervention to avoid impacting the sensitive U.S Treasury market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/cnbc-daily-open-yen-intervention-dollar-euro-fx.html",
+    "image_url": null,
+    "published_at": "2026-08-04T07:01:46.000Z"
+  },
+  {
+    "headline": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
+    "summary": "The results come as oil supermajors have reported blowout quarterly profits, benefitting from higher fossil fuel prices amid the Iran war.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
+    "image_url": null,
+    "published_at": "2026-08-04T05:56:25.000Z"
+  },
+  {
+    "headline": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
+    "summary": "Grab reported second-quarter results on Tuesday and raised its full-year outlook.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
+    "image_url": null,
+    "published_at": "2026-08-04T05:47:49.000Z"
+  },
+  {
+    "headline": "HSBC pretax profit beats estimates, boosted by higher net interest income and fees",
+    "summary": "",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/hsbc-profit-beats-estimates-higher-net-interest-income-fees.html",
+    "image_url": null,
+    "published_at": "2026-08-04T04:50:05.000Z"
+  },
+  {
+    "headline": "India to raise up to $3.3 billion by selling stake in country’s largest life insurer at 10% discount",
+    "summary": "Indian government plans to raise up to $3.3 billion by selling its stake in the country's top life insurance company.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/india-lic-stake-sale-discount.html",
+    "image_url": null,
+    "published_at": "2026-08-04T03:00:01.000Z"
+  },
+  {
     "headline": "Analysis: Federal Reserve may be pulled into Bessent’s effort to support Japan’s yen",
     "summary": "Treasury Secretary Scott Bessent wants to defend the yen without selling Treasurys into a sensitive U.S. bond market. The Federal Reserve could help.",
     "publisher": "CNBC",
@@ -1542,61 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
     "image_url": null,
     "published_at": "2026-07-29T19:11:58.000Z"
-  },
-  {
-    "headline": "Brent oil jumps back above $90 after Trump threatens to hit Iran hard",
-    "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-07-29T19:05:55.000Z"
-  },
-  {
-    "headline": "Divided Fed holds interest rates steady, but three members voted to hike",
-    "summary": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
-    "image_url": null,
-    "published_at": "2026-07-29T18:58:16.000Z"
-  },
-  {
-    "headline": "Does the 4% retirement rule still work? New research points to another strategy to maximize income",
-    "summary": "When it comes to retirement income, diversifying with partial annuities may help make nest eggs last, new research finds.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/retirement-income-4percent-rule.html",
-    "image_url": null,
-    "published_at": "2026-07-29T17:48:55.000Z"
-  },
-  {
-    "headline": "Apple shares just hit a record. Here's how trader Mike Khouw is playing the move",
-    "summary": "Even as broader tech names and momentum plays have faltered, Apple has hit new all-time highs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/apple-shares-just-hit-a-record-heres-how-trader-mike-khouw-is-playing-the-move.html",
-    "image_url": null,
-    "published_at": "2026-07-29T17:48:00.000Z"
-  },
-  {
-    "headline": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
-    "summary": "Elon Musk's xAI, now owned by SpaceX, is challenging a law that would ban so-called nudify apps in Minnesota",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
-    "image_url": null,
-    "published_at": "2026-07-29T16:48:42.000Z"
-  },
-  {
-    "headline": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
-    "summary": "Humana maintained its 2026 adjusted profit outlook of at least $9 per share, which some analysts called a \"disappointment\" amid high expectations for insurers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-07-29T16:18:04.000Z"
-  },
-  {
-    "headline": "Jim Cramer sees opportunity to snap up more shares of this chipmaker",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/jim-cramer-sees-opportunity-to-snap-up-more-shares-of-this-chipmaker-.html",
-    "image_url": null,
-    "published_at": "2026-07-29T16:14:35.000Z"
   }
 ]

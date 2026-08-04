@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/freya-dalsjo",
     "image_url": null,
-    "published_at": "2026-08-04T01:19:31.000Z"
+    "published_at": "2026-08-04T07:27:38.000Z"
   },
   {
     "headline": "Self-Portrait Resort 2027",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/resort-2027/self-portrait",
     "image_url": null,
-    "published_at": "2026-08-04T01:19:31.000Z"
+    "published_at": "2026-08-04T07:27:38.000Z"
   },
   {
     "headline": "Anne Sofie Madsen Copenhagen Spring 2027",
@@ -21,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/anne-sofie-madsen",
     "image_url": null,
-    "published_at": "2026-08-04T01:19:31.000Z"
+    "published_at": "2026-08-04T07:27:38.000Z"
   },
   {
     "headline": "Sportmax Resort 2027",
@@ -29,7 +29,119 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/resort-2027/sportmax",
     "image_url": null,
-    "published_at": "2026-08-04T01:19:31.000Z"
+    "published_at": "2026-08-04T07:27:38.000Z"
+  },
+  {
+    "headline": "Zalando Reports Strong Q2 Growth But Lowers Outlook",
+    "summary": "The German fashion platform’s revenue jumped 20.8 percent in the second quarter, boosted mostly by its acquisition of its former rival About You.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/zalando-q2-growth-about-you-acquisition-impact-1239092450/",
+    "image_url": null,
+    "published_at": "2026-08-04T07:26:46.000Z"
+  },
+  {
+    "headline": "Napapijri Makes Inroads Into Mexico, Taps ‘Stranger Things’ Actor Jamie Campbell Bower for Ad Campaign",
+    "summary": "The Italian outdoor brand is opening monobrand stores and shops-in-shop in partnership with El Palacio de Hierro.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/napapijri-enters-mexico-jamie-campbell-bower-ad-campaign-1239091125/",
+    "image_url": null,
+    "published_at": "2026-08-04T05:00:00.000Z"
+  },
+  {
+    "headline": "Tod’s Names Thai Star Becky Armstrong Brand Ambassador",
+    "summary": "The actress, singer and model is to attend Tod’s spring 2027 fashion show in Milan on Sept. 25.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/becky-armstrong-tods-brand-ambassador-1239091232/",
+    "image_url": null,
+    "published_at": "2026-08-04T05:00:00.000Z"
+  },
+  {
+    "headline": "Key Takeaways From Luxury’s Q2 Earnings",
+    "summary": "Analysts unpack luxury’s quarterly results and weigh in on what lies ahead.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/key-takeaways-from-luxurys-q2-earnings",
+    "image_url": null,
+    "published_at": "2026-08-04T04:30:00.000Z"
+  },
+  {
+    "headline": "Alo International CEO Benedetta Petruzzo on the Brand’s Big Euro Summer",
+    "summary": "Alo has invested heavily in major European activations this summer, from its mega-yacht to resorts in Bodrum and Saint-Tropez. Petruzzo unpacks the strategy and how she measures ROI.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/alo-international-ceo-benedetta-petruzzo-on-the-brands-big-euro-summer",
+    "image_url": null,
+    "published_at": "2026-08-04T04:30:00.000Z"
+  },
+  {
+    "headline": "How Skall Studio Is Preserving Danish Wool",
+    "summary": "With its Danish wool program, Copenhagen Fashion Week favorite Skall Studio is working to protect a local supply chain before it disappears for good.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-skall-studio-is-preserving-danish-wool",
+    "image_url": null,
+    "published_at": "2026-08-04T04:30:00.000Z"
+  },
+  {
+    "headline": "The Beauty of New York on a Summer Friday",
+    "summary": "On a recent summer evening, WWD captured the beauty of New Yorkers across neighborhoods — and asked about their favorite products, too.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/new-york-summer-street-style-beauty-makeup-fragrance-1239088848/",
+    "image_url": null,
+    "published_at": "2026-08-04T04:01:00.000Z"
+  },
+  {
+    "headline": "Dr. Diamond’s Metacine Expands Contour Collection With LipLift",
+    "summary": "Celebrity plastic surgeon Jason Diamond introduces LipLift, a $120 volumizing treatment addressing lip aging, following the April launch of EyeLift Bioremodeling Peptide Multiplex in The Contour Collection.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/skin-care/dr-diamond-metacine-expands-contour-collection-liplift-1239088959/",
+    "image_url": null,
+    "published_at": "2026-08-04T04:01:00.000Z"
+  },
+  {
+    "headline": "The Hair Care Brands That Dominate AI Search",
+    "summary": "The top five brands capture roughly 50 percent of total hair care visibility on ChatGPT, findings from Avenue Z show.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/hair/top-hair-care-brands-ai-chatgpt-search-styling-repair-1239089158/",
+    "image_url": null,
+    "published_at": "2026-08-04T04:01:00.000Z"
+  },
+  {
+    "headline": "Boots, Marks & Spencer Set Ambitious Plans in a Ferocious U.K. Beauty Market",
+    "summary": "“The gloves are off,” said Michelle Feeney, the longtime beauty executive and founder of Floral Street fragrances, of retailers’ rush to build market share in a competitive landscape.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/boots-marks-spencer-ambitious-plans-beauty-uk-market-1239090166/",
+    "image_url": null,
+    "published_at": "2026-08-04T04:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Burberry Heads Back to the City for Fall Campaign",
+    "summary": "Building on Daniel Lee’s trench-led fall show, the campaign follows stylish London rush hour commuters through shifting weather.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/burberry-fall-2026-campaign-ludicrously-capacious-bag-1239091083/",
+    "image_url": null,
+    "published_at": "2026-08-04T04:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Manolo Blahnik Looks to a Stronger 2026 After a Tough Year for Luxury",
+    "summary": "The brand is relying less on wholesale, and has been investing in its own store network worldwide, especially in high-growth markets such as China.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/manolo-blahnik-stronger-2026-tough-year-saks-global-dollar-1239091419/",
+    "image_url": null,
+    "published_at": "2026-08-04T04:01:00.000Z"
+  },
+  {
+    "headline": "Alana Hadid Shows Her Love for Copenhagen Through New Arkk Sneaker Collab",
+    "summary": "Only 120 pairs were made, each with Hadid’s signature on the insole.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/sneaker-news/alana-hadid-arkk-copenhagen-sneaker-release-info-1239092162/",
+    "image_url": null,
+    "published_at": "2026-08-04T04:01:00.000Z"
+  },
+  {
+    "headline": "From Snail Mucin to PDRN, 10 Ingredients That Define K-Beauty",
+    "summary": "Korean skincare is not only known for cool, innovative textures, but also for its advanced ingredients with proven results. Here, the ingredients powering K-beauty’s most effective formulas.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/korean-skin-care-ingredients",
+    "image_url": null,
+    "published_at": "2026-08-04T01:28:42.000Z"
   },
   {
     "headline": "25 States Sue Trump Over Section 301 Duties",
@@ -126,6 +238,14 @@
     "url": "https://www.vogue.com/article/presley-oldham-engagement-ring",
     "image_url": null,
     "published_at": "2026-08-03T20:19:59.000Z"
+  },
+  {
+    "headline": "Kendall Jenner Helped Devon Lee Carlson Celebrate Her Frankies Bikinis Collaboration",
+    "summary": "For their first collaboration, which launches today, SoCal natives and longtime friends Devon Lee Carlson and Frankies Bikinis founder Francesca Aiello have teamed up on a joy-filled collection called Sunshine Girls.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/devon-lee-carson-frankies-bikinis-collaboration",
+    "image_url": null,
+    "published_at": "2026-08-03T20:17:31.000Z"
   },
   {
     "headline": "Has Miu Miu Found Its Next Big Sneaker to Follow Up Its New Balance Collaboration?",
@@ -1478,125 +1598,5 @@
     "url": "https://wwd.com/footwear-news/shoe-trends/zoe-saldana-aquazzura-mesh-heels-lioness-premiere-1239087764/",
     "image_url": null,
     "published_at": "2026-07-30T15:16:28.000Z"
-  },
-  {
-    "headline": "Better Cotton, Uzbekistan Collaborate to Strengthen Cotton Standards",
-    "summary": "Better Cotton signed a Memorandum of Understanding with the Uzbek Agency for Technical Regulation.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/better-cotton-uzbekistan-strengthen-cotton-standards-1239087458/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:08:36.000Z"
-  },
-  {
-    "headline": "Prada Group Grows 7% in Q2 as Prada Outpaces Miu Miu",
-    "summary": "Prada Group’s growth streak continues across the first half of fiscal 2026, driven by the Americas, Japan and Asia-Pacific.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/prada-group-grows-7-in-q2-as-prada-outpaces-miu-miu",
-    "image_url": null,
-    "published_at": "2026-07-30T15:05:57.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Margaret Mitchell Joins Kiko Milano",
-    "summary": "The former Space NK chief commercial officer will cover the role of EVP for North and Central Europe & global commercial strategy, effective next month.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/beauty-industry-news/beauty-features/kiko-milano-beauty-margaret-mitchell-space-nk-1239087887/",
-    "image_url": null,
-    "published_at": "2026-07-30T14:55:51.000Z"
-  },
-  {
-    "headline": "Gen Z: Financially Cautious, Weekend Homebodies?",
-    "summary": "Gen Z’s weekend habits are reshaping fashion, wellness and socializing.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/harris-poll-gen-z-financially-cautious-weekend-homebodies-1239087853/",
-    "image_url": null,
-    "published_at": "2026-07-30T14:48:31.000Z"
-  },
-  {
-    "headline": "7 Effective Lymphatic Drainage Methods That Aren’t Massage",
-    "summary": "From swimming to walking, Chloe Burcham reveals the simple ways to fire up your body’s lymphatic system.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/lymphatic-drainage-methods",
-    "image_url": null,
-    "published_at": "2026-07-30T14:46:58.000Z"
-  },
-  {
-    "headline": "Adidas and Puma’s Viral Ballet Sneakers Are Back in Stock (and on Sale) at Nordstrom",
-    "summary": "The Adidas Taekwondo Mei Ballet Flat and the Puma Speedcat Ballet Suede Sneaker are among summer's most sought-after shoes. Now, both are back in stock and on sale at Nordstrom.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-shoes/puma-speedcat-adidas-taekwondo-mei-ballet-sneakers-sale-buy-1239087508/",
-    "image_url": null,
-    "published_at": "2026-07-30T14:42:03.000Z"
-  },
-  {
-    "headline": "Nicole Kidman and Zoe Saldaña Deliver a Study in Contrasts at ‘Lioness’ Premiere",
-    "summary": "The two Oscar winners delivered contrasting looks from Fendi and Balmain on Wednesday's New York City red carpet.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/nicole-kidman-zoe-saldana-fendi-balmain-lioness-premiere-1239087831/",
-    "image_url": null,
-    "published_at": "2026-07-30T14:32:39.000Z"
-  },
-  {
-    "headline": "Florence Pugh Brings Tamara Ralph’s Origami-inspired Couture to ‘Spider-Man’ London Premiere",
-    "summary": "The actress made a surprise appearance in a structural silver dress with Bulgari emeralds and Jimmy Choo sandals.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/florence-pugh-tamara-ralph-couture-dress-spider-man-london-1239087778/",
-    "image_url": null,
-    "published_at": "2026-07-30T14:28:03.000Z"
-  },
-  {
-    "headline": "Mary Beth Barone Is Ready to Piss off the Right People",
-    "summary": "As she releases her Netflix comedy special “Galaxy Brain,” Mary Beth Barone discusses dating, delusions, and discourse.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/mary-beth-barone-galaxy-brain-interview",
-    "image_url": null,
-    "published_at": "2026-07-30T14:17:52.000Z"
-  },
-  {
-    "headline": "Nike Introducing Studio Fleece Collection",
-    "summary": "The line, targeted primarily to women, offers updated versions of sportswear staples.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/sportswear/nike-studio-fleece-alysa-liu-campaign-1239084884/",
-    "image_url": null,
-    "published_at": "2026-07-30T14:00:00.000Z"
-  },
-  {
-    "headline": "Maurice Reznik, Visionary Intimate Apparel CEO, Dies at 72",
-    "summary": "A former CEO of Maidenform, Reznik was previously CEO of the women's intimate apparel division in the U.S. and Great Britain for Delta Galil Industries, and former president of Delta Galil USA.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/business-features/maurice-reznik-leading-intimate-apparel-executive-dies-at-72-1239086768/",
-    "image_url": null,
-    "published_at": "2026-07-30T14:00:00.000Z"
-  },
-  {
-    "headline": "Iconic Summer Looks from Fashion Muses To Recreate",
-    "summary": "Need a bit of inspiration this summer? Look to these muses for inspiration.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/summer-style-muses",
-    "image_url": null,
-    "published_at": "2026-07-30T13:41:30.000Z"
-  },
-  {
-    "headline": "Goodbye Pucci Summer, Hello What? 5 NYC Vintage Stores Name the Season’s Top Trends",
-    "summary": "Vogue asked five New York City vintage stores for their on-the-ground opinions of the summer’s top trends.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/what-5-nyc-vintage-stores-name-the-seasons-top-trends",
-    "image_url": null,
-    "published_at": "2026-07-30T13:00:00.000Z"
-  },
-  {
-    "headline": "J.Crew and the American Museum of Natural History Partner on Limited-edition Collection",
-    "summary": "The capsule includes collectible pieces for the whole family.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/j-crew-american-museum-natural-history-limited-edition-capsule-collection-1239085835/",
-    "image_url": null,
-    "published_at": "2026-07-30T13:00:00.000Z"
-  },
-  {
-    "headline": "Farm Rio Is Working With An AI-Powered Supply Chain Platform To Digitize Its Operations",
-    "summary": "Inspectorio said it will support Farm Rio's international expansion by digitizing its supply chain operations.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/inspectorio-farm-rio-digitization-supply-chain-1239087586/",
-    "image_url": null,
-    "published_at": "2026-07-30T13:00:00.000Z"
   }
 ]
