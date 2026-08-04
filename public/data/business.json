@@ -1,11 +1,35 @@
 [
   {
     "headline": "Analysis: Federal Reserve may be pulled into Bessent’s effort to support Japan’s yen",
-    "summary": "Treasury Secretary Scott Bessent wants to defend the yen without selling Treasuries into a sensitive U.S. bond market. The Federal Reserve could help.",
+    "summary": "Treasury Secretary Scott Bessent wants to defend the yen without selling Treasurys into a sensitive U.S. bond market. The Federal Reserve could help.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/03/bessent-fed-japan-yen-fima-repo-facility.html",
     "image_url": null,
-    "published_at": "2026-08-03T22:40:32.000Z"
+    "published_at": "2026-08-03T23:20:54.000Z"
+  },
+  {
+    "headline": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
+    "summary": "From a surprise yuan devaluation in 2015 to crackdowns in recent years, many of Beijing's policy moves appear abrupt to outsiders.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html",
+    "image_url": null,
+    "published_at": "2026-08-03T23:00:01.000Z"
+  },
+  {
+    "headline": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+    "summary": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-03T22:48:18.000Z"
+  },
+  {
+    "headline": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+    "summary": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-03T22:47:54.000Z"
   },
   {
     "headline": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
@@ -30,22 +54,6 @@
     "url": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
     "image_url": null,
     "published_at": "2026-08-03T22:03:52.000Z"
-  },
-  {
-    "headline": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
-    "summary": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-03T21:57:34.000Z"
-  },
-  {
-    "headline": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
-    "summary": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-03T21:34:43.000Z"
   },
   {
     "headline": "Twenty five states sue Trump administration over latest global tariffs",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/29/jim-cramer-sees-opportunity-to-snap-up-more-shares-of-this-chipmaker-.html",
     "image_url": null,
     "published_at": "2026-07-29T16:14:35.000Z"
-  },
-  {
-    "headline": "How a 40-year-old father launched a $1.6 billion-a-year meat snacks empire from a bankrupt Wisconsin business",
-    "summary": "Jack Link turned a bankruptcy into an opportunity to build a beef jerky empire. Four decades later, Link Snacks brings in more than $1 billion in annual sales.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/29/how-link-snacks-grew-from-jack-links-beef-jerky-to-meat-snacks-empire.html",
-    "image_url": null,
-    "published_at": "2026-07-29T16:03:25.000Z"
   }
 ]
