@@ -1,5 +1,125 @@
 [
   {
+    "headline": "Don’t screw this up, Marvel",
+    "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a deal to br…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
+    "image_url": null,
+    "published_at": "2026-08-04T23:20:56.000Z"
+  },
+  {
+    "headline": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+    "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+    "image_url": null,
+    "published_at": "2026-08-04T22:30:58.000Z"
+  },
+  {
+    "headline": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+    "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+    "image_url": null,
+    "published_at": "2026-08-04T22:24:00.000Z"
+  },
+  {
+    "headline": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+    "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-08-04T22:18:30.000Z"
+  },
+  {
+    "headline": "Now you can securely link multiple phones to one Signal account",
+    "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether or no…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
+    "image_url": null,
+    "published_at": "2026-08-04T22:02:46.000Z"
+  },
+  {
+    "headline": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "image_url": null,
+    "published_at": "2026-08-04T21:07:26.000Z"
+  },
+  {
+    "headline": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+    "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "image_url": null,
+    "published_at": "2026-08-04T20:57:49.000Z"
+  },
+  {
+    "headline": "SpaceX made more revenue as an AI company than a space company",
+    "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its value…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "image_url": null,
+    "published_at": "2026-08-04T20:47:55.000Z"
+  },
+  {
+    "headline": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+    "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+    "image_url": null,
+    "published_at": "2026-08-04T20:36:30.000Z"
+  },
+  {
+    "headline": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+    "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+    "image_url": null,
+    "published_at": "2026-08-04T20:26:53.000Z"
+  },
+  {
+    "headline": "EA is now a private company",
+    "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF wil…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
+    "image_url": null,
+    "published_at": "2026-08-04T20:18:14.000Z"
+  },
+  {
+    "headline": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "image_url": null,
+    "published_at": "2026-08-04T20:05:26.000Z"
+  },
+  {
+    "headline": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "image_url": null,
+    "published_at": "2026-08-04T19:48:40.000Z"
+  },
+  {
+    "headline": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "image_url": null,
+    "published_at": "2026-08-04T19:34:34.000Z"
+  },
+  {
+    "headline": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "image_url": null,
+    "published_at": "2026-08-04T19:28:49.000Z"
+  },
+  {
     "headline": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
     "summary": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the App Store before contacting us,\" Durov says in a post on X. \"This creates a potential systemic risk…",
     "publisher": "The Verge",
@@ -129,7 +249,7 @@
   },
   {
     "headline": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+    "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
     "image_url": null,
@@ -1478,125 +1598,5 @@
     "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
     "image_url": null,
     "published_at": "2026-07-29T21:02:12.000Z"
-  },
-  {
-    "headline": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
-    "summary": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 13 percent, according to Microsoft's fourth-quarter earnings report released on Wednesday. The news comes just weeks a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
-    "image_url": null,
-    "published_at": "2026-07-29T20:26:48.000Z"
-  },
-  {
-    "headline": "The Hugging Face break-in explained",
-    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "image_url": null,
-    "published_at": "2026-07-29T19:44:49.000Z"
-  },
-  {
-    "headline": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "image_url": null,
-    "published_at": "2026-07-29T18:45:27.000Z"
-  },
-  {
-    "headline": "What’s the catch with the Apple Upgrade program?",
-    "summary": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the device over the course of the one- to three-year lease, and in some cases, you'll pay hundreds of dollar…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
-    "image_url": null,
-    "published_at": "2026-07-29T18:40:06.000Z"
-  },
-  {
-    "headline": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-    "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-    "image_url": null,
-    "published_at": "2026-07-29T18:15:02.000Z"
-  },
-  {
-    "headline": "The US government just banned Roombas",
-    "summary": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacuum cleaners too, FCC media relations dir…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-    "image_url": null,
-    "published_at": "2026-07-29T18:13:09.000Z"
-  },
-  {
-    "headline": "Sorry, haters. Ferrari’s first EV is doing just fine",
-    "summary": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
-    "image_url": null,
-    "published_at": "2026-07-29T17:57:45.000Z"
-  },
-  {
-    "headline": "Waymo robotaxis are starting to return to freeways",
-    "summary": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-    "image_url": null,
-    "published_at": "2026-07-29T17:50:57.000Z"
-  },
-  {
-    "headline": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-    "summary": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-    "image_url": null,
-    "published_at": "2026-07-29T17:41:09.000Z"
-  },
-  {
-    "headline": "Google brings its age-assurance technology to Android developers worldwide",
-    "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
-    "image_url": null,
-    "published_at": "2026-07-29T17:00:00.000Z"
-  },
-  {
-    "headline": "Full school day cellphone bans are more popular than ever",
-    "summary": "As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cellphones in middle and high school classes, and 48 percent support banning them for the entire school day. That's the first time…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
-    "image_url": null,
-    "published_at": "2026-07-29T16:42:44.000Z"
-  },
-  {
-    "headline": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
-    "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
-    "image_url": null,
-    "published_at": "2026-07-29T15:36:48.000Z"
-  },
-  {
-    "headline": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "image_url": null,
-    "published_at": "2026-07-29T15:35:09.000Z"
-  },
-  {
-    "headline": "The Ferrari Luce has at least 500 fans",
-    "summary": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly earnings on Thursday, the Financial Times reports that Ferrari was aiming to sell \"just under 500\" Luce units this year,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
-    "image_url": null,
-    "published_at": "2026-07-29T15:28:50.000Z"
-  },
-  {
-    "headline": "Remarkable’s refurbished bundle is an awesome deal that’s over $350 off",
-    "summary": "The Remarkable Paper Pro bundle comes with a stylus and a folio cover. A lot of us here at The Verge are fans of Remarkable’s digital note-taking tablets, and right now one of its higher-end options is much cheaper than usual. The Remarkable Paper Pro normally sells for $629 on its own, but Woot is currently offering a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale",
-    "image_url": null,
-    "published_at": "2026-07-29T15:09:24.000Z"
   }
 ]
