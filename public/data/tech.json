@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+    "summary": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+    "image_url": null,
+    "published_at": "2026-08-04T15:00:00.000Z"
+  },
+  {
+    "headline": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "image_url": null,
+    "published_at": "2026-08-04T14:03:01.000Z"
+  },
+  {
+    "headline": "We’re giving away a back-to-school bag filled with over $800 of free tech",
+    "summary": "The Nomatic Messenger Bag can fit quite a bit, but it’s no match for the boxes we stuffed inside. It’s time for yet another giveaway. We raided The Verge’s closet full of tech in New York City to stuff as much can fit into a Nomatic Messenger Bag. It’s overstuffed, to say the least, and if you’re chosen as the winner o…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/972547/back-to-school-giveaway-sweepstakes",
+    "image_url": null,
+    "published_at": "2026-08-04T14:00:00.000Z"
+  },
+  {
+    "headline": "Our favorite memories at the movies",
+    "summary": "It's a great time to go back to theaters! The Odyssey is currently making believers in IMAX. And combined with the power of Spider-Man, it's also breaking box-office records. After Verge senior reviewer David Imel reported back on his latest 70MM IMAX adventure, it got most of the staff talking in Slack about our favor…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/974920/verge-favorite-movie-memories",
+    "image_url": null,
+    "published_at": "2026-08-04T14:00:00.000Z"
+  },
+  {
+    "headline": "Spotify now has over 300M subscribers",
+    "summary": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
+    "image_url": null,
+    "published_at": "2026-08-04T13:52:58.000Z"
+  },
+  {
+    "headline": "India moves to give its instant payments network a business model",
+    "summary": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+    "image_url": null,
+    "published_at": "2026-08-04T13:31:17.000Z"
+  },
+  {
+    "headline": "Peak Design’s latest bags have clever integrated hooks",
+    "summary": "Peak Design’s BagLev hook tucks away inside a pocket when not in use. | Image: Peak Design Peak Design's new City Line collection includes six lightweight bags designed for everyday carry. There's a 15-liter and 22L City Backpack, 15L City Tote, 6L and 12L City Crescent crossbody bags, and 2L City Sling. All are availa…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/973624/peak-design-city-line-details-price",
+    "image_url": null,
+    "published_at": "2026-08-04T13:00:00.000Z"
+  },
+  {
+    "headline": "Nothing CMF is launching its first open earbuds",
+    "summary": "You get three color options to choose from, each with a coordinating charging case. | Image: Nothing Open earbuds are having a bit of a moment right now, and Nothing is the latest company jumping on the trend. Its budget sub-brand has introduced the CMF Clip Pro, CMF's first open earbuds that are designed to provide co…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/974933/nothing-cmf-clip-pro-open-ear-buds-price-launch",
+    "image_url": null,
+    "published_at": "2026-08-04T13:00:00.000Z"
+  },
+  {
+    "headline": "Is the future of data centers portable? Runware builds a pod to find out",
+    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "image_url": null,
+    "published_at": "2026-08-04T13:00:00.000Z"
+  },
+  {
+    "headline": "Apple briefly yanked Telegram from the App Store over CSAM violations",
+    "summary": "Telegram is back on the App Store after Apple briefly removed it on Monday night over concerns about child sexual abuse material (CSAM). In a statement to Bloomberg's Mark Gurman, Apple says a review found that Telegram \"violates our strict guidelines prohibiting child sexual abuse material,\" adding that it restored th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/974951/telegram-apple-app-store-removed",
+    "image_url": null,
+    "published_at": "2026-08-04T12:57:43.000Z"
+  },
+  {
     "headline": "EON wants to move the data superhighway from ocean fiber to space lasers",
     "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
     "publisher": "TechCrunch",
@@ -1518,85 +1598,5 @@
     "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
     "image_url": null,
     "published_at": "2026-07-28T21:29:34.000Z"
-  },
-  {
-    "headline": "The union drive at the Wikimedia Foundation is expanding",
-    "summary": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intention to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the nonprofit has declined to voluntarily recognize their union. \"While the Wikimedia Foundation touts t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
-    "image_url": null,
-    "published_at": "2026-07-28T21:11:11.000Z"
-  },
-  {
-    "headline": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
-    "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
-    "image_url": null,
-    "published_at": "2026-07-28T21:11:11.000Z"
-  },
-  {
-    "headline": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "image_url": null,
-    "published_at": "2026-07-28T20:45:12.000Z"
-  },
-  {
-    "headline": "Sam Altman is ready to decelerate",
-    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "image_url": null,
-    "published_at": "2026-07-28T20:17:08.000Z"
-  },
-  {
-    "headline": "AI leaders sign a statement asking the government to do something about automated AI",
-    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could he…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-    "image_url": null,
-    "published_at": "2026-07-28T19:46:43.000Z"
-  },
-  {
-    "headline": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
-    "summary": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others who have had their devices searched at airports: He was an activist. Unlike others who have had their phones seized with no explanation, Tunic…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
-    "image_url": null,
-    "published_at": "2026-07-28T19:35:00.000Z"
-  },
-  {
-    "headline": "AI’s finally expensive enough to make Wall Street nervous",
-    "summary": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new p…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-    "image_url": null,
-    "published_at": "2026-07-28T19:33:03.000Z"
-  },
-  {
-    "headline": "This comfy gaming headset that can play audio from two sources is $25",
-    "summary": "The Hybrid adds Bluetooth functionality to the wired H3, seen here. | Photo by Cameron Faulkner / The Verge While most gaming headsets have moved towards low-latency wireless connections, there’s something to be said for a budget-friendly, capable wired headset. The EPOS H3 Hybrid is on sale for just $24.99 at Woot, a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
-    "image_url": null,
-    "published_at": "2026-07-28T19:18:15.000Z"
-  },
-  {
-    "headline": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
-    "summary": "In June, Nintendo announced a new version of the Switch 2 that should let you easily replace its battery pack - but only for Europe. Logitech will do much the same. User-replaceable batteries will be the law in Europe in February 2027, but instead of bringing them to the rest of the world, Logitech plans to ship one ve…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
-    "image_url": null,
-    "published_at": "2026-07-28T19:12:48.000Z"
-  },
-  {
-    "headline": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
-    "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-    "image_url": null,
-    "published_at": "2026-07-28T19:09:18.000Z"
   }
 ]
