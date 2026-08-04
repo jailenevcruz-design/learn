@@ -1,11 +1,19 @@
 [
   {
+    "headline": "Skall Studio Copenhagen Spring 2027",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/skall-studio",
+    "image_url": null,
+    "published_at": "2026-08-04T12:50:31.000Z"
+  },
+  {
     "headline": "Freya Dalsjø Copenhagen Spring 2027",
     "summary": "",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/freya-dalsjo",
     "image_url": null,
-    "published_at": "2026-08-04T07:27:38.000Z"
+    "published_at": "2026-08-04T12:50:31.000Z"
   },
   {
     "headline": "Self-Portrait Resort 2027",
@@ -13,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/resort-2027/self-portrait",
     "image_url": null,
-    "published_at": "2026-08-04T07:27:38.000Z"
+    "published_at": "2026-08-04T12:50:31.000Z"
   },
   {
     "headline": "Anne Sofie Madsen Copenhagen Spring 2027",
@@ -21,7 +29,87 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/anne-sofie-madsen",
     "image_url": null,
-    "published_at": "2026-08-04T07:27:38.000Z"
+    "published_at": "2026-08-04T12:50:31.000Z"
+  },
+  {
+    "headline": "Inventory Stockpiling Drives 19% Revenue Surge at CMA CGM",
+    "summary": "Higher freight rates and a rebound in trans-Pacific volumes lifted the ocean carrier's second quarter results as importers rushed to rebuild inventories ahead of tariffs and rising fuel costs.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/logistics/cma-cgm-inventory-stockpiling-revenue-surge-q2-1239092365/",
+    "image_url": null,
+    "published_at": "2026-08-04T12:30:00.000Z"
+  },
+  {
+    "headline": "Valeria Luiselli Knows the Best Place to Get Tacos in Mexico City",
+    "summary": "The New York City Booker Prize nominee—whose new novel is out this month—recommends her favorite places in Mexico’s capital.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/valeria-luiselli-guide-to-mexico-city",
+    "image_url": null,
+    "published_at": "2026-08-04T12:00:00.000Z"
+  },
+  {
+    "headline": "Which Countries Are Best at Circularity? New Study Highlights Textile Recycling Leaders",
+    "summary": "The study also looked at the secondhand clothing market.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/arka-study-which-countries-are-best-at-circularity-1239090329/",
+    "image_url": null,
+    "published_at": "2026-08-04T12:00:00.000Z"
+  },
+  {
+    "headline": "The Profoundly Simple Pleasures of a Girls Trip",
+    "summary": "For one author, an annual long weeekend with her five oldest friends has become akin to a sacred ritual.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/traveling-with-oldest-friends",
+    "image_url": null,
+    "published_at": "2026-08-04T11:00:00.000Z"
+  },
+  {
+    "headline": "The 11 Best Hotels in the Hamptons",
+    "summary": "From East Hampton, to Shelter Island, to Montauk, here are the best hotels in the Hamptons for your next weekend getaway.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-best-hotels-in-the-hamptons",
+    "image_url": null,
+    "published_at": "2026-08-04T10:00:00.000Z"
+  },
+  {
+    "headline": "7 Newport Airbnbs for a Last-Minute East Coast Summer Getaway",
+    "summary": "Seafood, history, and the occasional celeb sighting awaits—book a Newport Airbnb and let your Rhode Island holiday officially kick off.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/newport-airbnbs-rhode-island",
+    "image_url": null,
+    "published_at": "2026-08-04T10:00:00.000Z"
+  },
+  {
+    "headline": "The Best Fall Fragrances Leave an Intoxicating Trail of Musk, Amber, and Leather",
+    "summary": "It’s time for spicy, gourmand, and powerhouse floral notes to come to the fore. The best fall fragrances by Maison Margiela, Tom Ford, Guerlain, and more match the depth of the season.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/fall-fragrances",
+    "image_url": null,
+    "published_at": "2026-08-04T10:00:00.000Z"
+  },
+  {
+    "headline": "The Vogue Business AI Tracker",
+    "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+    "image_url": null,
+    "published_at": "2026-08-04T09:30:00.000Z"
+  },
+  {
+    "headline": "You Can't Be Messy Online Anymore. Where To Next?",
+    "summary": "Mainstream social platforms have become too commercial for culture to flourish. As creativity migrates to smaller platforms built on participation rather than performance, brands must rethink not just how they show up, but whether they even should.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/you-cant-be-messy-on-social-media-anymore-where-to-next",
+    "image_url": null,
+    "published_at": "2026-08-04T08:30:00.000Z"
+  },
+  {
+    "headline": "Hugo Boss Sales Decline Continues in Q2",
+    "summary": "The German menswear specialist expects its sales slump to continue for the rest of the year as it undergoes a strategic reset and faces a takeover bid.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/https-wwd-com-business-news-financial-hugo-boss-q2-h1-earnings-2026-sales-decline-10-percent-1239092037/",
+    "image_url": null,
+    "published_at": "2026-08-04T07:38:20.000Z"
   },
   {
     "headline": "Sportmax Resort 2027",
@@ -32,8 +120,8 @@
     "published_at": "2026-08-04T07:27:38.000Z"
   },
   {
-    "headline": "Zalando Reports Strong Q2 Growth But Lowers Outlook",
-    "summary": "The German fashion platform’s revenue jumped 20.8 percent in the second quarter, boosted mostly by its acquisition of its former rival About You.",
+    "headline": "Zalando Lowers Outlook as Underlying Growth Slows in Q2",
+    "summary": "The German fashion platform’s revenue jumped 20.8 percent in the second quarter, boosted mostly by its acquisition of its former rival About You, while masking a lower 1.1 pro forma rate.",
     "publisher": "WWD",
     "url": "https://wwd.com/business-news/financial/zalando-q2-growth-about-you-acquisition-impact-1239092450/",
     "image_url": null,
@@ -1510,93 +1598,5 @@
     "url": "https://www.vogue.com/slideshow/alexandra-oneill-and-brent-leo-smith-wedding",
     "image_url": null,
     "published_at": "2026-07-30T16:47:22.000Z"
-  },
-  {
-    "headline": "Sadie Sink’s Givenchy Exaggerated Bow Sandals Defy the Minimalism Shoe Trend",
-    "summary": "Sink has a head-to-toe Givenchy moment on \"Fallon.\"",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/sadie-sink-givenchy-boudoir-bow-sandals-fallon-1239087804/",
-    "image_url": null,
-    "published_at": "2026-07-30T16:04:34.000Z"
-  },
-  {
-    "headline": "Demystifying TikTok’s Viral ‘Homemade Botox’ Trend: What’s Real and What’s Hooey?",
-    "summary": "Experts weigh in on the flax seed-water masks, fruit gelatin snacks and collagen supplements that claim to keep the skin smooth and supple.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/culture-news/tiktok-homemade-botox-trend-explained-1239086465/",
-    "image_url": null,
-    "published_at": "2026-07-30T16:00:51.000Z"
-  },
-  {
-    "headline": "From Dubai to California and Brazil, Inside On’s Big Retail Plans",
-    "summary": "The Swiss firm plans to open four stores in California over the next three months and its first three Brazil locations this year.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/on-running-san-francisco-store-chestnut-street-details-1239088227/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:59:09.000Z"
-  },
-  {
-    "headline": "Brunello Cucinelli Sees Strong H1 and Nudges Up Its Annual Sales Guidance",
-    "summary": "The Solomeo, Italy-based company said is brand new e-commerce site built on its Callimacus platform has already delivered promising early results.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/financial/brunello-cucinelli-h1-2026-results-2027-growth-forecas-1239087881/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:59:08.000Z"
-  },
-  {
-    "headline": "New Balance Opens Its First West Coast Flagship in Los Angeles",
-    "summary": "Featuring 4,400 square feet over two floors.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/new-balance-los-angeles-flagship-store-opening-1239088010/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:56:23.000Z"
-  },
-  {
-    "headline": "Nike’s Foamposite Football Cleats Just Got Restocked and Released in New Colors",
-    "summary": "There are three Vaporposite Pro styles to choose from.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/nike-vaporposite-pro-pearl-white-game-royal-university-red-1239087986/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:53:37.000Z"
-  },
-  {
-    "headline": "Adidas Hits Record Sales in Q2, Despite Profit Miss",
-    "summary": "Adidas shares fell as Spain’s World Cup win failed to sufficiently boost the company’s profit margin.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/adidas-hits-record-sales-in-q2-despite-profit-miss",
-    "image_url": null,
-    "published_at": "2026-07-30T15:35:33.000Z"
-  },
-  {
-    "headline": "How Design Miami Founder Craig Robins Sees City Evolving",
-    "summary": "The founder and CEO of development firm Dacra discusses how the French hospitality brand Fouquet’s will enhance the Design District, and South Beach’s comeback in propelling the city as a global cultural capital.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/home-design/architecture/craig-robins-miami-design-district-evolution-1239086429/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:28:12.000Z"
-  },
-  {
-    "headline": "Icebreakers with Keen Ruffalo",
-    "summary": "",
-    "publisher": "WWD",
-    "url": "https://wwd.com/video/icebreakers-with-keen-ruffalo/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:27:45.000Z"
-  },
-  {
-    "headline": "Maria Spadoni Battistoni",
-    "summary": "Maria Spadoni Battistoni is Visual Editor of Global PhotoVogue",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/maria-spadoni-battistoni",
-    "image_url": null,
-    "published_at": "2026-07-30T15:18:35.000Z"
-  },
-  {
-    "headline": "Zoe Saldaña’s Aquazzura Moment at the ‘Lioness’ Premiere Proves Mesh Is the Quiet Answer to the Clear Shoes Trend",
-    "summary": "Saldaña paired her mesh pumps with a Balmain fall 2026 dress for the Season Three premiere of \"Lioness\" in New York City.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/zoe-saldana-aquazzura-mesh-heels-lioness-premiere-1239087764/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:16:28.000Z"
   }
 ]

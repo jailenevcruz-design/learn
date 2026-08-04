@@ -1,5 +1,45 @@
 [
   {
+    "headline": "EON wants to move the data superhighway from ocean fiber to space lasers",
+    "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+    "image_url": null,
+    "published_at": "2026-08-04T12:00:00.000Z"
+  },
+  {
+    "headline": "Bending Spoons to buy Airtable for $1.28B",
+    "summary": "At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+    "image_url": null,
+    "published_at": "2026-08-04T11:30:56.000Z"
+  },
+  {
+    "headline": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+    "summary": "OpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple i…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+    "image_url": null,
+    "published_at": "2026-08-04T11:27:55.000Z"
+  },
+  {
+    "headline": "The next Xbox could play every Xbox game ever made",
+    "summary": "The next Xbox, Project Helix, could theoretically have the largest library of any home console. Not only will it play PC games, but we now know, courtesy of a leaked memo obtained by The Verge's Tom Warren, that it will run games from every generation of Xbox: the original 2001 Xbox, the 2005 Xbox 360, the 2013 Xbox On…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
+    "image_url": null,
+    "published_at": "2026-08-04T11:00:00.000Z"
+  },
+  {
+    "headline": "Can Reddit fend off a new wave of AI SEO spam?",
+    "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that b…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "image_url": null,
+    "published_at": "2026-08-04T10:00:00.000Z"
+  },
+  {
     "headline": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
     "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title about a militarized elephant or turning horse races into a card game, showing that i…",
     "publisher": "The Verge",
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
     "image_url": null,
     "published_at": "2026-07-28T19:09:18.000Z"
-  },
-  {
-    "headline": "The robot NASA hired to lift a orbital telescope tumbled out of control",
-    "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-    "image_url": null,
-    "published_at": "2026-07-28T19:07:31.000Z"
-  },
-  {
-    "headline": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-    "summary": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-    "image_url": null,
-    "published_at": "2026-07-28T19:06:33.000Z"
-  },
-  {
-    "headline": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
-    "summary": "Apple says it won't limit the capabilities of devices leased through its new Upgrade program if you miss a payment. In an emailed statement to The Verge, Apple spokesperson Brian Bumbery says, \"There will be no restricted mode and/or there will be no limitations put on device functionality due to missed payments or def…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
-    "image_url": null,
-    "published_at": "2026-07-28T18:43:57.000Z"
-  },
-  {
-    "headline": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
-    "summary": "Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
-    "image_url": null,
-    "published_at": "2026-07-28T18:35:29.000Z"
-  },
-  {
-    "headline": "These App Store hidden gems prove there’s still room for great software in the AI era",
-    "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-    "image_url": null,
-    "published_at": "2026-07-28T18:16:39.000Z"
   }
 ]
