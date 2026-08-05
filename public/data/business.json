@@ -1,11 +1,19 @@
 [
   {
-    "headline": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
-    "summary": "Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.",
+    "headline": "Novo Nordisk stock falls after raised forecast fails to change the debate over its obesity business",
+    "summary": "Wall Street isn't convinced the Ozempic maker has a promising path back to sustainable growth as competition from Eli Lilly intensifies.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+    "url": "https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
     "image_url": null,
-    "published_at": "2026-08-05T00:57:15.000Z"
+    "published_at": "2026-08-05T07:23:34.000Z"
+  },
+  {
+    "headline": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+    "summary": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+    "image_url": null,
+    "published_at": "2026-08-05T07:15:17.000Z"
   },
   {
     "headline": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
@@ -13,7 +21,47 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/05/wealthy-chinese-race-for-tax-advice-as-beijing-targets-offshore-trusts.html",
     "image_url": null,
-    "published_at": "2026-08-05T00:32:29.000Z"
+    "published_at": "2026-08-05T06:33:47.000Z"
+  },
+  {
+    "headline": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
+    "summary": "The Reserve Bank of India has kept interest rates unchanged amid creeping inflation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/india-rbi-interest-rate-inflation-iran-war.html",
+    "image_url": null,
+    "published_at": "2026-08-05T05:50:04.000Z"
+  },
+  {
+    "headline": "U.S. says Strait of Hormuz is 'free and open' as Bessent signals deal with Iran is close",
+    "summary": "U.S. Central Command said the \"southern route of the Strait of Hormuz remains free and open\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+    "image_url": null,
+    "published_at": "2026-08-05T04:39:09.000Z"
+  },
+  {
+    "headline": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+    "summary": "GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.S. markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
+    "image_url": null,
+    "published_at": "2026-08-05T02:30:01.000Z"
+  },
+  {
+    "headline": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff",
+    "summary": "In addressing Wall Street for the first time since SpaceX's IPO, executives tried to make the case that hefty AI investments are paying off within a year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
+    "image_url": null,
+    "published_at": "2026-08-05T01:43:06.000Z"
+  },
+  {
+    "headline": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
+    "summary": "Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+    "image_url": null,
+    "published_at": "2026-08-05T01:27:06.000Z"
   },
   {
     "headline": "Europe's heatwave isn't cooling Asian travelers' holiday plans for the continent",
@@ -1550,53 +1598,5 @@
     "url": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
     "image_url": null,
     "published_at": "2026-07-30T17:38:38.000Z"
-  },
-  {
-    "headline": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-    "summary": "The company is facing pressure to cater to a more cost-sensitive customer base.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
-    "image_url": null,
-    "published_at": "2026-07-30T17:27:49.000Z"
-  },
-  {
-    "headline": "How NBCUniversal's deal with YouTube could jump-start the next chapter of the streaming wars",
-    "summary": "The next iteration of the streaming wars is likely to be about aggregating content on the biggest existing platforms.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
-    "image_url": null,
-    "published_at": "2026-07-30T17:05:28.000Z"
-  },
-  {
-    "headline": "Cramer sees a 'sure signal to buy' stocks. Plus what we want from Amazon's results",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/cramer-sees-signal-to-buy-stocks-previews-reports-amzn-aapl.html",
-    "image_url": null,
-    "published_at": "2026-07-30T16:17:11.000Z"
-  },
-  {
-    "headline": "The real story at Apple is the memory crunch — and there's little room for error",
-    "summary": "It's a high-stakes quarter for the iPhone maker. Apple needs to show Wall Street exactly how it plans to mitigate the risks of rising memory costs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/the-real-story-at-apple-is-memory-and-theres-little-room-for-error.html",
-    "image_url": null,
-    "published_at": "2026-07-30T15:59:58.000Z"
-  },
-  {
-    "headline": "Ferrari CEO says he 'would not change anything' about polarizing Luce EV debut",
-    "summary": "Ferrari is pleased with the launch of the Luce all-electric vehicle despite significant criticism upon the car's spring debut, according to CEO Benedetto Vigna.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/ferrari-ceo-luce-ev-debut.html",
-    "image_url": null,
-    "published_at": "2026-07-30T15:56:08.000Z"
-  },
-  {
-    "headline": "Amazon's Zoox to begin charging for rides in Las Vegas after clearing NHTSA hurdle",
-    "summary": "The exemption allows Zoox to operate up to 2,500 vehicles annually for two years, subject to \"enhanced, adaptable\" oversight conditions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/amazon-zoox-robotaxi-rides-las-vegas.html",
-    "image_url": null,
-    "published_at": "2026-07-30T15:51:00.000Z"
   }
 ]
