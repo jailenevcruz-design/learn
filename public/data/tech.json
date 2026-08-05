@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+    "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easier for legitimate newcomers to participate.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+    "image_url": null,
+    "published_at": "2026-08-05T18:00:40.000Z"
+  },
+  {
+    "headline": "Lucid Motors just delayed its affordable EV. Now what?",
+    "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+    "image_url": null,
+    "published_at": "2026-08-05T17:57:45.000Z"
+  },
+  {
+    "headline": "Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual",
+    "summary": "Both the battery-powered and wired models are over $50 off. | Image: Ring Ring’s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand’s most well-rounded video doorbells, whether you’re looking for a hardwired model or one that runs on a battery. Right now, its Wired Doorbell Pro is down to $199 ($50 off)…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-05T17:53:43.000Z"
+  },
+  {
+    "headline": "Uber CEO brushes off reports of a Waymo break-up",
+    "summary": "After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrowshahi said today. The two companies are committed to continue working together in Atlanta and Austin, and the partnership…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
+    "image_url": null,
+    "published_at": "2026-08-05T17:34:48.000Z"
+  },
+  {
     "headline": "Meet the eight startups pitching at Startup Battlefield Australia",
     "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
     "publisher": "TechCrunch",
@@ -1566,37 +1598,5 @@
     "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
     "image_url": null,
     "published_at": "2026-07-30T16:09:42.000Z"
-  },
-  {
-    "headline": "Tesla made its 10 millionth EV",
-    "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
-    "image_url": null,
-    "published_at": "2026-07-30T16:00:25.000Z"
-  },
-  {
-    "headline": "Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP",
-    "summary": "Best Buy has raised the price of the Asus ROG Astral RTX 5080 OC to $2,099 - the first time a major US retailer is directly selling an RTX 5080 for more than the $1,999 MSRP of the RTX 5090, VideoCardz reports. The ROG Astral RTX 5080 OC now costs 40 percent more than its launch price of $1,499, and over double the $99…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy",
-    "image_url": null,
-    "published_at": "2026-07-30T15:48:10.000Z"
-  },
-  {
-    "headline": "When will fusion power startup Commonwealth Fusion Systems go public?",
-    "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:45:36.000Z"
-  },
-  {
-    "headline": "Meta says AI is making it easier to build new apps — and more are coming",
-    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:41:16.000Z"
   }
 ]
