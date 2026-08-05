@@ -1,5 +1,21 @@
 [
   {
+    "headline": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
+    "summary": "Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+    "image_url": null,
+    "published_at": "2026-08-05T00:57:15.000Z"
+  },
+  {
+    "headline": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
+    "summary": "Beijing's move to tax offshore trusts, long used by China's ultra-rich to hold money, has set off a rush to lawyers and a scramble for cash.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/wealthy-chinese-race-for-tax-advice-as-beijing-targets-offshore-trusts.html",
+    "image_url": null,
+    "published_at": "2026-08-05T00:32:29.000Z"
+  },
+  {
     "headline": "Europe's heatwave isn't cooling Asian travelers' holiday plans for the continent",
     "summary": "Asian travelers' appetite for Europe remains resilient despite record-breaking heat, with spending in Northern Europe projected to increase.",
     "publisher": "CNBC",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/30/amazon-zoox-robotaxi-rides-las-vegas.html",
     "image_url": null,
     "published_at": "2026-07-30T15:51:00.000Z"
-  },
-  {
-    "headline": "NYSE CEO Sprecher, SBA head Loeffler's husband, has ties to Trump Jr.-backed private club",
-    "summary": "The Executive Branch club, where members include Trump administration officials, investors and business leaders, charges a $500,000 entry fee.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/kelly-loeffler-husband-jeffrey-sprecher-executive-branch-club-donald-trump-jr.html",
-    "image_url": null,
-    "published_at": "2026-07-30T15:29:23.000Z"
-  },
-  {
-    "headline": "Bank of England holds UK interest rate steady at 3.75% — but policymakers see upside inflation risk",
-    "summary": "The Bank of England on Thursday held U.K. interest rates steady at 3.75%, in line with economists' expectations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/interest-rates-inflation-bank-of-england.html",
-    "image_url": null,
-    "published_at": "2026-07-30T15:07:29.000Z"
   }
 ]
