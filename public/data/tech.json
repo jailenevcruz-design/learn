@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Meet the eight startups pitching at Startup Battlefield Australia",
+    "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
+    "image_url": null,
+    "published_at": "2026-08-05T17:02:00.000Z"
+  },
+  {
+    "headline": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+    "summary": "Apple’s MacBook Neo comes in four different colors. | Image: The Verge Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-05T16:59:23.000Z"
+  },
+  {
+    "headline": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "summary": "And you thought we were done with this one… | Image: Fenix Flexin We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-sou…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "image_url": null,
+    "published_at": "2026-08-05T16:57:25.000Z"
+  },
+  {
+    "headline": "PSA: Apple’s Private Relay can leak your real IP address",
+    "summary": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
+    "image_url": null,
+    "published_at": "2026-08-05T16:52:29.000Z"
+  },
+  {
+    "headline": "Google just announced a major shakeup of its top AI leadership",
+    "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which ai…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "image_url": null,
+    "published_at": "2026-08-05T16:47:23.000Z"
+  },
+  {
+    "headline": "SpaceX is barely Space and mostly X",
+    "summary": "Privatize the profit, socialize the losses? | Image: Cath Virginia / The Verge, Getty Images Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is pri…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+    "image_url": null,
+    "published_at": "2026-08-05T16:35:56.000Z"
+  },
+  {
+    "headline": "Reddit is introducing a new moderator: AI",
+    "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite of…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+    "image_url": null,
+    "published_at": "2026-08-05T16:00:00.000Z"
+  },
+  {
+    "headline": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "image_url": null,
+    "published_at": "2026-08-05T15:56:14.000Z"
+  },
+  {
+    "headline": "Hark previews its browser use agent for completing tasks",
+    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "image_url": null,
+    "published_at": "2026-08-05T15:46:27.000Z"
+  },
+  {
+    "headline": "Rogue AI agents created fake online identities in another hacking attempt",
+    "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a repo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+    "image_url": null,
+    "published_at": "2026-08-05T15:14:57.000Z"
+  },
+  {
+    "headline": "Zoox to start charging for robotaxi rides in Las Vegas",
+    "summary": "This marks the official launch of Zoox's commercial operations.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+    "image_url": null,
+    "published_at": "2026-08-05T15:06:42.000Z"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "image_url": null,
+    "published_at": "2026-08-05T15:05:00.000Z"
+  },
+  {
     "headline": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
     "summary": "Tinder is expanding its in-person events feature from an initial Los Angeles test to 26 cities worldwide by the end of September.",
     "publisher": "TechCrunch",
@@ -17,7 +113,7 @@
   },
   {
     "headline": "Anthropic is hiring an AI chip design team",
-    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
     "image_url": null,
@@ -113,7 +209,7 @@
   },
   {
     "headline": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-    "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+    "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
     "image_url": null,
@@ -1502,101 +1598,5 @@
     "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
     "image_url": null,
     "published_at": "2026-07-30T15:41:16.000Z"
-  },
-  {
-    "headline": "Netflix lands global streaming deal for ‘The Walking Dead’",
-    "summary": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:27:08.000Z"
-  },
-  {
-    "headline": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:19:15.000Z"
-  },
-  {
-    "headline": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
-    "summary": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:17:39.000Z"
-  },
-  {
-    "headline": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
-    "summary": "Hopefully, nobody is giving coffee to that dog. | Image: Xiaomi The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max Camping Edition. One of…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
-    "image_url": null,
-    "published_at": "2026-07-30T15:05:09.000Z"
-  },
-  {
-    "headline": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "image_url": null,
-    "published_at": "2026-07-30T15:00:00.000Z"
-  },
-  {
-    "headline": "Razer’s new keyboards drop the price on powerful gaming features",
-    "summary": "Here be magnets. And RGB. | Photo: Antonio G. Di Benedetto / The Verge Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming fe…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
-    "image_url": null,
-    "published_at": "2026-07-30T15:00:00.000Z"
-  },
-  {
-    "headline": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-    "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-    "image_url": null,
-    "published_at": "2026-07-30T14:48:32.000Z"
-  },
-  {
-    "headline": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
-    "summary": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annually over the next two years, as reported…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
-    "image_url": null,
-    "published_at": "2026-07-30T14:35:43.000Z"
-  },
-  {
-    "headline": "Microsoft’s latest Surface Laptop is hundreds off at Best Buy",
-    "summary": "If you’re keen on getting a laptop that looks fantastic, feels great to use, and doesn’t cost too much, well, pickings are slim right due to RAMageddon. However, there’s a good deal happening at Best Buy through Thursday, July 30th, on Microsoft’s Arm-based, 13.8-inch Surface Laptop that has the 10-core Snapdragon X2 P…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale",
-    "image_url": null,
-    "published_at": "2026-07-30T14:22:20.000Z"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-    "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-    "image_url": null,
-    "published_at": "2026-07-30T14:00:00.000Z"
-  },
-  {
-    "headline": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
-    "summary": "The U.S. federal consumer watchdog said Hims & Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-    "image_url": null,
-    "published_at": "2026-07-30T13:30:52.000Z"
-  },
-  {
-    "headline": "Zoox clears final federal hurdle to launch paid robotaxi service",
-    "summary": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-    "image_url": null,
-    "published_at": "2026-07-30T13:09:03.000Z"
   }
 ]
