@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Marc Benioff gets a new operating chief, as Salesforce promotes Miguel Milano",
+    "summary": "Salesforce promoted revenue head and former Oracle executive Miguel Milano to role of operating chief.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/marc-benioff-gets-a-new-coo-as-salesforce-promotes-miguel-milano-.html",
+    "image_url": null,
+    "published_at": "2026-08-05T20:48:20.000Z"
+  },
+  {
+    "headline": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
+    "summary": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+    "image_url": null,
+    "published_at": "2026-08-05T20:36:16.000Z"
+  },
+  {
+    "headline": "Etsy laying off 12% of staff in bid to streamline business, position for growth",
+    "summary": "Etsy announced the layoffs along with second-quarter earnings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-05T20:31:13.000Z"
+  },
+  {
+    "headline": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
+    "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-05T20:08:59.000Z"
+  },
+  {
+    "headline": "E.l.f. Beauty sees $50 million windfall in tariff refunds as profits surge 100%",
+    "summary": "E.l.f. Beauty received $50 million in tariff refunds during its fiscal first quarter, leading profits to nearly double.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/elf-beauty-elf-q1-2027-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-05T20:06:00.000Z"
+  },
+  {
+    "headline": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
+    "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
+    "image_url": null,
+    "published_at": "2026-08-05T20:02:56.000Z"
+  },
+  {
+    "headline": "SpaceX stock falls 13% as AI spending surge rattles investors and massive share unlock looms",
+    "summary": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-05T20:02:03.000Z"
+  },
+  {
+    "headline": "Trump admin refunds $100 billion in 'liberation day' tariffs",
+    "summary": "The Trump administration has taken steps to effectively re-create the IEEPA tariff regime using other legal authorities. They already face court challenges.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
+    "image_url": null,
+    "published_at": "2026-08-05T19:31:26.000Z"
+  },
+  {
+    "headline": "We're increasing our Eli Lilly price target after another beat-and-raise quarter",
+    "summary": "The strength of its GLP-1 business suggests the stock still has more room to run.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/were-increasing-our-eli-lilly-price-target-after-another-beat-and-raise-quarter.html",
+    "image_url": null,
+    "published_at": "2026-08-05T19:28:32.000Z"
+  },
+  {
+    "headline": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+    "summary": "Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+    "image_url": null,
+    "published_at": "2026-08-05T19:21:24.000Z"
+  },
+  {
+    "headline": "Wall Street's 'fear gauge' is doing something unusual as stocks hit record highs",
+    "summary": "Stocks and the Cboe Volatility Index move together only about 20% of the time.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/wall-streets-fear-gauge-is-doing-something-unusual-as-stocks-hit-record-highs.html",
+    "image_url": null,
+    "published_at": "2026-08-05T19:18:31.000Z"
+  },
+  {
+    "headline": "How Disney parks are bucking a travel slowdown",
+    "summary": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
+    "image_url": null,
+    "published_at": "2026-08-05T19:07:30.000Z"
+  },
+  {
     "headline": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
     "summary": "Google's AI divisions are getting reshuffled, the search giant announced on Wednesday.",
     "publisher": "CNBC",
@@ -24,6 +120,14 @@
     "published_at": "2026-08-05T18:41:51.000Z"
   },
   {
+    "headline": "Affordability is a 'defining challenge' for Americans, with food costs leading the way, report finds",
+    "summary": "Many consumers rely on credit cards to pay for everyday expenses, such as groceries, but some can't make the minimum payment, according to a new report.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/affordability-grocery-prices.html",
+    "image_url": null,
+    "published_at": "2026-08-05T18:28:06.000Z"
+  },
+  {
     "headline": "Oil prices little changed on negotiations to manage ship traffic in Strait of Hormuz",
     "summary": "President Donald Trump told Fox News late Tuesday that the negotations went all day long. \"It looks like things are very good,\" Trump said.",
     "publisher": "CNBC",
@@ -32,28 +136,20 @@
     "published_at": "2026-08-05T18:26:34.000Z"
   },
   {
+    "headline": "Flutter shares plummet on earnings miss and another key leadership change",
+    "summary": "FanDuel, Flutter's most important business, has been losing its dominance in market share in the United States.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html",
+    "image_url": null,
+    "published_at": "2026-08-05T18:20:31.000Z"
+  },
+  {
     "headline": "Kids Online Safety Act social media safety bill advances in Senate",
     "summary": "The Kids Online Safety Act, a measure aimed at protecting children on social media, advanced to the Senate floor after it stalled in the last Congress.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/05/kosa-privacy-social-media-senate.html",
     "image_url": null,
     "published_at": "2026-08-05T18:19:09.000Z"
-  },
-  {
-    "headline": "SpaceX stock falls 12% as AI spending surge rattles investors and massive share unlock looms",
-    "summary": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-05T18:16:18.000Z"
-  },
-  {
-    "headline": "Lucid stock plunges as EV maker begins 'operational reset,' delays midsize vehicle",
-    "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-05T17:55:41.000Z"
   },
   {
     "headline": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
@@ -70,14 +166,6 @@
     "url": "https://www.cnbc.com/2026/08/05/chip-stocks-ai-investments-memory-dram.html",
     "image_url": null,
     "published_at": "2026-08-05T16:56:32.000Z"
-  },
-  {
-    "headline": "Trump admin refunds $100 billion in 'liberation day' tariffs",
-    "summary": "The Trump administration has taken steps to effectively re-create the IEEPA tariff regime using other legal authorities. They already face court challenges.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
-    "image_url": null,
-    "published_at": "2026-08-05T16:47:52.000Z"
   },
   {
     "headline": "Uber stock sinks 7% after weak guidance despite revenue growth",
@@ -112,14 +200,6 @@
     "published_at": "2026-08-05T16:17:35.000Z"
   },
   {
-    "headline": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
-    "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
-    "image_url": null,
-    "published_at": "2026-08-05T16:00:55.000Z"
-  },
-  {
     "headline": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
     "summary": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
     "publisher": "CNBC",
@@ -142,14 +222,6 @@
     "url": "https://www.cnbc.com/2026/08/05/tanger-ceo-world-cup-traffic-sales.html",
     "image_url": null,
     "published_at": "2026-08-05T15:48:39.000Z"
-  },
-  {
-    "headline": "How Disney parks are bucking a travel slowdown",
-    "summary": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
-    "image_url": null,
-    "published_at": "2026-08-05T15:44:55.000Z"
   },
   {
     "headline": "Disney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots",
@@ -1526,77 +1598,5 @@
     "url": "https://www.cnbc.com/2026/07/31/the-tech-download-anduril-ceo-brian-schimpf.html",
     "image_url": null,
     "published_at": "2026-07-31T11:11:29.000Z"
-  },
-  {
-    "headline": "New Medicaid work rules could cause patients to lose coverage, rare disease advocates warn",
-    "summary": "New Medicaid work requirements could put rare disease patients’ coverage at risk. NORD CEO Pamela Gavin explains how families can prepare.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/new-medicaid-work-rules-insurance-coverage-rare-disease-patients.html",
-    "image_url": null,
-    "published_at": "2026-07-31T11:00:01.000Z"
-  },
-  {
-    "headline": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
-    "summary": "Iran's army said it launched attacks on strategic U.S. assets and military bases in Kuwait and Bahrain.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-07-31T10:32:14.000Z"
-  },
-  {
-    "headline": "Coinbase shares fall after crypto exchange posts disappointing second-quarter results",
-    "summary": "Coinbase's Thursday report marked its third straight quarter missing Wall Street's forecasts for revenue and earnings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-07-31T09:50:16.000Z"
-  },
-  {
-    "headline": "A portfolio manager says investors are looking overseas as Magnificent Seven worries grow. Here are the stocks and sectors he favors",
-    "summary": "Janus Henderson’s Julian McManus says investors are looking overseas as Magnificent Seven concentration worries revive diversification.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/janus-henderson-overseas-stocks.html",
-    "image_url": null,
-    "published_at": "2026-07-31T09:37:53.000Z"
-  },
-  {
-    "headline": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
-    "summary": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
-    "image_url": null,
-    "published_at": "2026-07-31T07:41:35.000Z"
-  },
-  {
-    "headline": "Deadly storms and a global supply squeeze are sending copper prices soaring",
-    "summary": "Deadly storms in Chile have disrupted mining operations, further straining supply and potentially driving prices higher, strategists say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/copper-prices-chile-storms-mines-ai.html",
-    "image_url": null,
-    "published_at": "2026-07-31T07:13:23.000Z"
-  },
-  {
-    "headline": "Fast-fashion retailer Shein’s 3-year IPO odyssey may have cost it the ‘golden time’ to go public",
-    "summary": "Investors are questioning whether Beijing's blessing can carry a $40-billion-plus valuation for a clothing retailer whose growth engine is stalling.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
-    "image_url": null,
-    "published_at": "2026-07-31T06:33:30.000Z"
-  },
-  {
-    "headline": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
-    "summary": "The company faces a challenge as it does not have access to the latest extreme ultraviolet, or EUV, lithography machines, essential for manufacturing advanced chips.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
-    "image_url": null,
-    "published_at": "2026-07-31T06:20:14.000Z"
-  },
-  {
-    "headline": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
-    "summary": "The decision comes as speculation continues to swirl around whether the Bank of Japan will hike rates at a faster pace.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
-    "image_url": null,
-    "published_at": "2026-07-31T06:05:22.000Z"
   }
 ]
