@@ -1,11 +1,123 @@
 [
   {
+    "headline": "You can now ask Google Maps’ AI to order food for you",
+    "summary": "The Ask Maps updates aim to “make it easier than ever to get more done.” | Image: Google The AI-powered \"Ask Maps\" tool in Google Maps can now perform a broader range of personalized and conversational requests, including ordering food, finding hotels, and providing suggestions that factor in your existing plans. These…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
+    "image_url": null,
+    "published_at": "2026-08-06T12:30:37.000Z"
+  },
+  {
+    "headline": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "image_url": null,
+    "published_at": "2026-08-06T12:30:00.000Z"
+  },
+  {
+    "headline": "GTA VI is getting an ‘extended look’ at the end of August",
+    "summary": "We'll be getting an in-depth preview of Grand Theft Auto VI very soon: Rockstar announced this morning that it will be airing an \"extended look\" at the game on August 27th. The preview will stream on YouTube at 9PM ET, as per usual, but will also be shown earlier for Netflix subscribers, premiering at 3PM ET. (Netflix…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube",
+    "image_url": null,
+    "published_at": "2026-08-06T12:16:08.000Z"
+  },
+  {
+    "headline": "Omilia raises $67M to scale its customer support platform",
+    "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "image_url": null,
+    "published_at": "2026-08-06T12:00:00.000Z"
+  },
+  {
+    "headline": "Nintendo beats earnings thanks to US tariff refunds it won&#8217;t share with gamers",
+    "summary": "Nintendo has smashed its first-quarter earnings estimates for the fiscal year, bolstered by strong games sales and US tariff refunds, though its customers likely won't receive anything from the latter. In its latest financial results, Nintendo reports that operating profits soared to 142.5 billion yen (about $902 milli…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund",
+    "image_url": null,
+    "published_at": "2026-08-06T10:58:20.000Z"
+  },
+  {
+    "headline": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+    "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+    "image_url": null,
+    "published_at": "2026-08-06T09:33:11.000Z"
+  },
+  {
+    "headline": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Gr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "image_url": null,
+    "published_at": "2026-08-06T00:25:10.000Z"
+  },
+  {
+    "headline": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+    "image_url": null,
+    "published_at": "2026-08-05T22:55:43.000Z"
+  },
+  {
+    "headline": "X product chief Nikita Bier is leaving after one year",
+    "summary": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just weeks after Elon Musk's combi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+    "image_url": null,
+    "published_at": "2026-08-05T22:19:55.000Z"
+  },
+  {
+    "headline": "Nikita Bier steps down as X’s head of product",
+    "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+    "image_url": null,
+    "published_at": "2026-08-05T21:30:50.000Z"
+  },
+  {
+    "headline": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+    "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+    "image_url": null,
+    "published_at": "2026-08-05T21:26:40.000Z"
+  },
+  {
+    "headline": "Meta launches Muse Code, an AI agent for large code bases",
+    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "image_url": null,
+    "published_at": "2026-08-05T21:21:28.000Z"
+  },
+  {
+    "headline": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+    "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+    "image_url": null,
+    "published_at": "2026-08-05T21:05:37.000Z"
+  },
+  {
     "headline": "Moove raises $250M to become the backbone of the robotaxi industry",
     "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
     "image_url": null,
     "published_at": "2026-08-05T20:50:45.000Z"
+  },
+  {
+    "headline": "How Lightspeed found its newest hire … via Instagram DM",
+    "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
+    "image_url": null,
+    "published_at": "2026-08-05T20:48:56.000Z"
   },
   {
     "headline": "How Lightspeed found their newest hire… via Instagram DM",
@@ -1486,117 +1598,5 @@
     "url": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
     "image_url": null,
     "published_at": "2026-07-30T20:49:32.000Z"
-  },
-  {
-    "headline": "The loss of Situational Awareness",
-    "summary": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol fo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-    "image_url": null,
-    "published_at": "2026-07-30T20:46:25.000Z"
-  },
-  {
-    "headline": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "image_url": null,
-    "published_at": "2026-07-30T20:26:38.000Z"
-  },
-  {
-    "headline": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-    "summary": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-    "image_url": null,
-    "published_at": "2026-07-30T20:13:12.000Z"
-  },
-  {
-    "headline": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "image_url": null,
-    "published_at": "2026-07-30T19:44:16.000Z"
-  },
-  {
-    "headline": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
-    "summary": "Samsung’s upcoming Galaxy Watch 9. | Photo: Dominic Preston / The Verge The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
-    "image_url": null,
-    "published_at": "2026-07-30T19:00:00.000Z"
-  },
-  {
-    "headline": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "image_url": null,
-    "published_at": "2026-07-30T18:57:58.000Z"
-  },
-  {
-    "headline": "LinkedIn actually adds a ‘seems like AI slop’ button",
-    "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\" The new feature is part of a bro…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-    "image_url": null,
-    "published_at": "2026-07-30T18:43:26.000Z"
-  },
-  {
-    "headline": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-    "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-    "image_url": null,
-    "published_at": "2026-07-30T18:38:12.000Z"
-  },
-  {
-    "headline": "LinkedIn adds a button to report AI-generated ‘slop’",
-    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "image_url": null,
-    "published_at": "2026-07-30T18:05:21.000Z"
-  },
-  {
-    "headline": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
-    "summary": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $59 ($21 off) at Amazon. That’s just $4 shy of the all-time low set during Prime Day, and the smart l…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
-    "image_url": null,
-    "published_at": "2026-07-30T18:01:26.000Z"
-  },
-  {
-    "headline": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-    "summary": "Add another member to the fast-and-furious AI unicorn club: Simile.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-    "image_url": null,
-    "published_at": "2026-07-30T17:50:11.000Z"
-  },
-  {
-    "headline": "Spotify launches ‘User Notes’ to let users add memories to songs",
-    "summary": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
-    "image_url": null,
-    "published_at": "2026-07-30T17:41:25.000Z"
-  },
-  {
-    "headline": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
-    "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but NASA says it's previousl…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
-    "image_url": null,
-    "published_at": "2026-07-30T17:20:06.000Z"
-  },
-  {
-    "headline": "Google DeepMind’s new AI model can control a robot’s entire body",
-    "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motion…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-    "image_url": null,
-    "published_at": "2026-07-30T17:18:45.000Z"
   }
 ]
