@@ -1,6 +1,30 @@
 [
   {
-    "headline": "Grab the entire Lord of the Rings trilogy on 4K Blu-Ray for $50",
+    "headline": "The only instant cameras worth your money",
+    "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed on…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+    "image_url": null,
+    "published_at": "2026-08-07T18:04:08.000Z"
+  },
+  {
+    "headline": "Disney Plus tries a new AI-powered search",
+    "summary": "Disney’s AI tools for Disney Plus and ESPN. Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on yo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+    "image_url": null,
+    "published_at": "2026-08-07T17:53:44.000Z"
+  },
+  {
+    "headline": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+    "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and on…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "image_url": null,
+    "published_at": "2026-08-07T17:43:34.000Z"
+  },
+  {
+    "headline": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
     "summary": "“One ring to rule them all” | Image: Warner Bros. Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This version includes both t…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
@@ -1574,29 +1598,5 @@
     "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
     "image_url": null,
     "published_at": "2026-08-01T20:15:00.000Z"
-  },
-  {
-    "headline": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "image_url": null,
-    "published_at": "2026-08-01T19:45:45.000Z"
-  },
-  {
-    "headline": "Should you still buy your next smartphone — or subscribe to it instead?",
-    "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-    "image_url": null,
-    "published_at": "2026-08-01T18:47:27.000Z"
-  },
-  {
-    "headline": "Is this Billboard Hot 100 hit AI slop?",
-    "summary": "That cover art is almost certainly AI, too. | Image: Fenix Flexin Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were rais…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-    "image_url": null,
-    "published_at": "2026-08-01T18:20:00.000Z"
   }
 ]

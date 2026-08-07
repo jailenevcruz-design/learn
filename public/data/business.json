@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Trump revives effort to fire Fed's Lisa Cook",
+    "summary": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+    "image_url": null,
+    "published_at": "2026-08-07T18:21:58.000Z"
+  },
+  {
+    "headline": "The unwind of Situational Awareness isn't the only reason the AI trade is back",
+    "summary": "The hedge fund's forced selling was a clearing event, but earnings are sustaining the AI trade",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/the-situational-awareness-unwind-is-only-one-reason-the-ai-trade-is-back.html",
+    "image_url": null,
+    "published_at": "2026-08-07T18:19:56.000Z"
+  },
+  {
+    "headline": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
+    "summary": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
+    "image_url": null,
+    "published_at": "2026-08-07T18:19:39.000Z"
+  },
+  {
+    "headline": "Here are three key takeaways from the disappointing July jobs report",
+    "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
+    "image_url": null,
+    "published_at": "2026-08-07T18:09:18.000Z"
+  },
+  {
+    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
+    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+    "image_url": null,
+    "published_at": "2026-08-07T18:02:11.000Z"
+  },
+  {
+    "headline": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+    "summary": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+    "image_url": null,
+    "published_at": "2026-08-07T17:50:12.000Z"
+  },
+  {
+    "headline": "Falling long-term unemployment isn't good news, economists say — what it means for jobseekers",
+    "summary": "Unemployment appears to have fallen due to an exodus of workers from the labor force, which would be bad for household finances and the economy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/long-term-unemployment-job-market-workers-labor-force.html",
+    "image_url": null,
+    "published_at": "2026-08-07T17:48:28.000Z"
+  },
+  {
     "headline": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
     "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
     "publisher": "CNBC",
@@ -32,22 +88,6 @@
     "published_at": "2026-08-07T16:47:55.000Z"
   },
   {
-    "headline": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
-    "summary": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
-    "image_url": null,
-    "published_at": "2026-08-07T16:40:08.000Z"
-  },
-  {
-    "headline": "Here are three key takeaways from the disappointing July jobs report",
-    "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
-    "image_url": null,
-    "published_at": "2026-08-07T16:34:09.000Z"
-  },
-  {
     "headline": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
     "summary": "Airbnb CEO Brian Chesky wasn’t sure AI would help the company, but a year later, he says it’s the reason growth is back.",
     "publisher": "CNBC",
@@ -72,20 +112,20 @@
     "published_at": "2026-08-07T16:21:50.000Z"
   },
   {
-    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
-    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-    "image_url": null,
-    "published_at": "2026-08-07T16:06:45.000Z"
-  },
-  {
     "headline": "Top Democrat proposes killing tax breaks for overseas oil production",
     "summary": "Gas prices in the U.S. averaged $4.06 per gallon on Thursday — a major source of voter discontent heading into November's midterm elections.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/07/martin-heinrich-tax-breaks-overseas-oil-production.html",
     "image_url": null,
     "published_at": "2026-08-07T16:00:01.000Z"
+  },
+  {
+    "headline": "U.S. economy unexpectedly lost 23,000 jobs in July",
+    "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-07T15:52:25.000Z"
   },
   {
     "headline": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
@@ -110,14 +150,6 @@
     "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
     "image_url": null,
     "published_at": "2026-08-07T14:06:10.000Z"
-  },
-  {
-    "headline": "U.S. economy unexpectedly lost 23,000 jobs in July",
-    "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-07T13:40:19.000Z"
   },
   {
     "headline": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-are-not-expecting-a-us-and-iran-nuclear-deal-soon.html",
     "image_url": null,
     "published_at": "2026-08-03T19:48:25.000Z"
-  },
-  {
-    "headline": "A trio of positive developments has Boeing shares soaring",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/a-trio-of-positive-developments-has-boeing-shares-soaring.html",
-    "image_url": null,
-    "published_at": "2026-08-03T19:23:04.000Z"
-  },
-  {
-    "headline": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-    "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-    "image_url": null,
-    "published_at": "2026-08-03T19:20:25.000Z"
-  },
-  {
-    "headline": "More tech millionaires are using donor-advised funds for tax savings and giving",
-    "summary": "DAFs are gaining in popularity as private firms like Anthropic and OpenAI skyrocket in value and more companies stay private for longer.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
-    "image_url": null,
-    "published_at": "2026-08-03T18:56:51.000Z"
-  },
-  {
-    "headline": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
-    "summary": "President Donald Trump's attorneys continue to fight in court against a judicial order that said the settlement deal is legally baseless.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
-    "image_url": null,
-    "published_at": "2026-08-03T18:35:15.000Z"
   }
 ]
