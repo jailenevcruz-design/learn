@@ -1,11 +1,59 @@
 [
   {
-    "headline": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
+    "headline": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
+    "summary": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
+    "image_url": null,
+    "published_at": "2026-08-07T15:27:00.000Z"
+  },
+  {
+    "headline": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+    "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+    "image_url": null,
+    "published_at": "2026-08-07T15:26:56.000Z"
+  },
+  {
+    "headline": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+    "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+    "image_url": null,
+    "published_at": "2026-08-07T15:13:11.000Z"
+  },
+  {
+    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
     "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
     "image_url": null,
-    "published_at": "2026-08-07T13:49:51.000Z"
+    "published_at": "2026-08-07T15:06:40.000Z"
+  },
+  {
+    "headline": "Whatnot valued at $20 billion as live shopping continues to boom",
+    "summary": "Whatnot, the live commerce platform, has increased its valuation to $20 billion as the popularity of live shopping continues to grow.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html",
+    "image_url": null,
+    "published_at": "2026-08-07T15:02:12.000Z"
+  },
+  {
+    "headline": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
+    "summary": "Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
+    "image_url": null,
+    "published_at": "2026-08-07T14:57:29.000Z"
+  },
+  {
+    "headline": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+    "summary": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping choke points under renewed threat.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+    "image_url": null,
+    "published_at": "2026-08-07T14:06:10.000Z"
   },
   {
     "headline": "U.S. economy unexpectedly lost 23,000 jobs in July",
@@ -46,14 +94,6 @@
     "url": "https://www.cnbc.com/2026/08/07/easyjet-apollo-private-equity-airlines-travel.html",
     "image_url": null,
     "published_at": "2026-08-07T12:35:19.000Z"
-  },
-  {
-    "headline": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-    "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-    "image_url": null,
-    "published_at": "2026-08-07T12:15:42.000Z"
   },
   {
     "headline": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
@@ -166,14 +206,6 @@
     "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
     "image_url": null,
     "published_at": "2026-08-07T04:11:09.000Z"
-  },
-  {
-    "headline": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
-    "summary": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
-    "image_url": null,
-    "published_at": "2026-08-07T02:08:42.000Z"
   },
   {
     "headline": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
     "image_url": null,
     "published_at": "2026-08-03T16:56:52.000Z"
-  },
-  {
-    "headline": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-    "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-    "image_url": null,
-    "published_at": "2026-08-03T16:44:25.000Z"
-  },
-  {
-    "headline": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
-    "summary": "Trump on Truth Social accused Iran's leaders of lying about peace talks, which he said are underway \"whether Iran wants to admit it or not.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
-    "image_url": null,
-    "published_at": "2026-08-03T16:39:37.000Z"
-  },
-  {
-    "headline": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
-    "summary": "Speculators on the platform place just under 50-50 odds that employers added more than 80,000 jobs in July.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
-    "image_url": null,
-    "published_at": "2026-08-03T15:59:04.000Z"
-  },
-  {
-    "headline": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
-    "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
-    "image_url": null,
-    "published_at": "2026-08-03T15:46:27.000Z"
   }
 ]

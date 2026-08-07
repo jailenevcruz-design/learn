@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+    "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+    "image_url": null,
+    "published_at": "2026-08-07T15:11:03.000Z"
+  },
+  {
+    "headline": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
+    "summary": "The Z Fold 8 Ultra retains the boxy shape of Samsung’s previous foldables. What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat and wide, the Fold 8 Ultra retains the thin out…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
+    "image_url": null,
+    "published_at": "2026-08-07T14:48:38.000Z"
+  },
+  {
+    "headline": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+    "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-08-07T14:30:00.000Z"
+  },
+  {
+    "headline": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+    "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+    "image_url": null,
+    "published_at": "2026-08-07T14:28:31.000Z"
+  },
+  {
+    "headline": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "image_url": null,
+    "published_at": "2026-08-07T14:22:49.000Z"
+  },
+  {
+    "headline": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+    "summary": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+    "image_url": null,
+    "published_at": "2026-08-07T14:07:31.000Z"
+  },
+  {
+    "headline": "Werewolf transformed my old gadgets into USB-C powered ones",
+    "summary": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead. None of them came with USB-C ports; the entire USB protocol was barely a twinkle in i…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+    "image_url": null,
+    "published_at": "2026-08-07T14:05:00.000Z"
+  },
+  {
     "headline": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
     "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
     "publisher": "TechCrunch",
@@ -17,7 +73,7 @@
   },
   {
     "headline": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "summary": "Meta's total fine has raked up to $942 million in this case",
+    "summary": "Meta's total fine has raked up to $942 million in this case.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
     "image_url": null,
@@ -1542,61 +1598,5 @@
     "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
     "image_url": null,
     "published_at": "2026-08-01T14:00:00.000Z"
-  },
-  {
-    "headline": "What’s the best handheld mini fan?",
-    "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-    "image_url": null,
-    "published_at": "2026-08-01T13:36:54.000Z"
-  },
-  {
-    "headline": "You could be taking way better photos on your phone",
-    "summary": "Your smartphone photos can look way better. If you're willing to put in a little extra work, use third party apps and spend a bit of time editing, it's possible to take photos that - under the right circumstances - can rival dedicated digital cameras. I post a lot of smartphone photos online, and \"How do I take better…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
-    "image_url": null,
-    "published_at": "2026-08-01T13:30:00.000Z"
-  },
-  {
-    "headline": "The Mermaid Mask is a perfect vacation murder mystery",
-    "summary": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body next to a mysterious cauldron with blood trickling across the floor. T…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
-    "image_url": null,
-    "published_at": "2026-08-01T13:00:00.000Z"
-  },
-  {
-    "headline": "The OG reading app just got a big update",
-    "summary": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about microwave sounds and Meta glasses and Alex vs. Alix, testing the Logi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
-    "image_url": null,
-    "published_at": "2026-08-01T12:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "image_url": null,
-    "published_at": "2026-07-31T22:47:26.000Z"
-  },
-  {
-    "headline": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
-    "summary": "The Sharge Disk Pro 2. | Photo by Sean Hollister / The Verge Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk Pro 2 Ultra…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
-    "image_url": null,
-    "published_at": "2026-07-31T22:09:11.000Z"
-  },
-  {
-    "headline": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-    "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-    "image_url": null,
-    "published_at": "2026-07-31T22:00:08.000Z"
   }
 ]
