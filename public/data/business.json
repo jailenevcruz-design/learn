@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
+    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+    "image_url": null,
+    "published_at": "2026-08-07T20:33:38.000Z"
+  },
+  {
+    "headline": "The U.S. unexpectedly lost jobs in July",
+    "summary": "The U.S. labor market went into reverse last month, as employers cut 23,000 jobs. Job gains for May and June were also revised downward.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/07/nx-s1-5924881/the-u-s-unexpectedly-lost-jobs-in-july",
+    "image_url": null,
+    "published_at": "2026-08-07T20:24:50.000Z"
+  },
+  {
+    "headline": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+    "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+    "image_url": null,
+    "published_at": "2026-08-07T20:23:09.000Z"
+  },
+  {
+    "headline": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+    "summary": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+    "image_url": null,
+    "published_at": "2026-08-07T20:22:17.000Z"
+  },
+  {
     "headline": "Trump renews push to fire Fed Governor Lisa Cook",
     "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
     "publisher": "NPR",
@@ -22,14 +54,6 @@
     "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
     "image_url": null,
     "published_at": "2026-08-07T19:14:22.000Z"
-  },
-  {
-    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
-    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-    "image_url": null,
-    "published_at": "2026-08-07T19:06:33.000Z"
   },
   {
     "headline": "The unwind of Situational Awareness isn't the only reason the AI trade is back",
@@ -94,14 +118,6 @@
     "url": "https://www.cnbc.com/2026/08/07/long-term-unemployment-job-market-workers-labor-force.html",
     "image_url": null,
     "published_at": "2026-08-07T17:48:28.000Z"
-  },
-  {
-    "headline": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
-    "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
-    "image_url": null,
-    "published_at": "2026-08-07T17:25:23.000Z"
   },
   {
     "headline": "A huge day and week for Corning as the S&P 500 approaches another record high",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/03/trump-pirro-reflecting-pool-vandalism-case.html",
     "image_url": null,
     "published_at": "2026-08-03T20:30:54.000Z"
-  },
-  {
-    "headline": "'The Odyssey' fuels Imax stock to all-time high. CEO calls momentum a 'flywheel'",
-    "summary": "Imax shares hit an all-time high Monday as the company continues to haul in box office receipts for Christopher Nolan's \"The Odyssey.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/imax-stock-the-odyssey.html",
-    "image_url": null,
-    "published_at": "2026-08-03T20:23:28.000Z"
-  },
-  {
-    "headline": "FAA clears smallest Boeing 737 Max to fly after years of delays",
-    "summary": "Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
-    "image_url": null,
-    "published_at": "2026-08-03T20:09:19.000Z"
   }
 ]
