@@ -1,5 +1,45 @@
 [
   {
+    "headline": "U.S. economy unexpectedly lost 23,000 jobs in July",
+    "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate held steady at 4.2%, according to the Dow Jones consensus.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-07T12:31:20.000Z"
+  },
+  {
+    "headline": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+    "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+    "image_url": null,
+    "published_at": "2026-08-07T12:15:42.000Z"
+  },
+  {
+    "headline": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
+    "summary": "Volkswagen's top investor on Friday called on the auto giant to take immediate action to fend off intensifying competition from Chinese car brands.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/volkswagen-vw-porsche-autos-job-cuts.html",
+    "image_url": null,
+    "published_at": "2026-08-07T12:15:29.000Z"
+  },
+  {
+    "headline": "K-shaped economy shows up in housing: Luxury sales rise as starter-home buyers struggle",
+    "summary": "Even as luxury homes fly off the market, sales of starter homes are down despite growing inventory and more price cuts, research shows.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/housing-k-shaped-economy-luxury-starter-homes.html",
+    "image_url": null,
+    "published_at": "2026-08-07T12:15:01.000Z"
+  },
+  {
+    "headline": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
+    "summary": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
+    "image_url": null,
+    "published_at": "2026-08-07T12:13:07.000Z"
+  },
+  {
     "headline": "The July jobs numbers are due out Friday. Here's what to expect",
     "summary": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
     "publisher": "CNBC",
@@ -22,14 +62,6 @@
     "url": "https://www.cnbc.com/2026/08/07/wildfires-insurance-cover-zurich-allianz-munich.html",
     "image_url": null,
     "published_at": "2026-08-07T10:59:15.000Z"
-  },
-  {
-    "headline": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
-    "summary": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
-    "image_url": null,
-    "published_at": "2026-08-07T10:31:29.000Z"
   },
   {
     "headline": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
@@ -62,14 +94,6 @@
     "url": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
     "image_url": null,
     "published_at": "2026-08-07T09:00:00.000Z"
-  },
-  {
-    "headline": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
-    "summary": "Volkswagen's top investor on Friday called on the auto giant to take immediate action to fend off intensifying competition from Chinese car brands.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/volkswagen-vw-porsche-autos-job-cuts.html",
-    "image_url": null,
-    "published_at": "2026-08-07T08:03:43.000Z"
   },
   {
     "headline": "China's exports growth beats estimates in July, as AI-driven shipments surge",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
     "image_url": null,
     "published_at": "2026-08-03T11:00:01.000Z"
-  },
-  {
-    "headline": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
-    "summary": "China’s domestic tourism is underperforming, with hotel revenues falling as soft demand pressures room rates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html",
-    "image_url": null,
-    "published_at": "2026-08-03T10:32:09.000Z"
-  },
-  {
-    "headline": "This lawyer believes in second chances. Now AI is providing a boost",
-    "summary": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
-    "image_url": null,
-    "published_at": "2026-08-03T09:42:28.000Z"
-  },
-  {
-    "headline": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
-    "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
-    "image_url": null,
-    "published_at": "2026-08-03T05:00:01.000Z"
   }
 ]
