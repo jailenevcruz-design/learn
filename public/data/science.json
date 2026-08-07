@@ -1,5 +1,29 @@
 [
   {
+    "headline": "This week's Short Wave news roundup",
+    "summary": "NPR's science podcast rounds up new studies about a wandering black hole, humans' ability to detect AI-generated text, and the impact of cougars on vehicle-deer collisions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/06/nx-s1-5913979/this-weeks-short-wave-news-roundup",
+    "image_url": null,
+    "published_at": "2026-08-06T20:40:51.000Z"
+  },
+  {
+    "headline": "Sticky or slippery? Snails can change their slime to meet the moment",
+    "summary": "Snails are slimy. But there's more to that goo of theirs than meets the eye. It's a fact that may help inspire the creation of new materials.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/06/nx-s1-5920383/snail-slime-mucus-inspire-new-materials",
+    "image_url": null,
+    "published_at": "2026-08-06T18:26:45.000Z"
+  },
+  {
+    "headline": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
+    "summary": "At a time of increased conflict between elephants and humans, as elephant habitats are converted to intensive agriculture, the Hurulu Eco Park is a place where the animals can graze unimpeded.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
+    "image_url": null,
+    "published_at": "2026-08-06T14:19:27.000Z"
+  },
+  {
     "headline": "Major study challenges long-held fears about acetaminophen and ibuprofen use in babies",
     "summary": "A landmark study of nearly 4,000 babies found that acetaminophen and ibuprofen were equally safe during infancy. Neither medicine was linked to eczema or bronchiolitis, and no serious side effects were caused by the drugs. Researchers will continue following the children through age six to study possible long-term effe…",
     "publisher": "ScienceDaily",
@@ -1574,29 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
     "image_url": null,
     "published_at": "2026-07-19T12:07:13.000Z"
-  },
-  {
-    "headline": "Coffee may help the body fight stress and aging through a hidden cellular switch",
-    "summary": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
-    "image_url": null,
-    "published_at": "2026-07-19T09:19:13.000Z"
-  },
-  {
-    "headline": "Common antidepressant may ease long COVID’s crushing fatigue",
-    "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this dis…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
-    "image_url": null,
-    "published_at": "2026-07-19T01:55:33.000Z"
-  },
-  {
-    "headline": "Deep-sea survey finds new coral ecosystem off remote coastline",
-    "summary": "Researchers mapped a previously undocumented reef system nearly 600 meters down, home to several unclassified species.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com",
-    "image_url": null,
-    "published_at": "2026-07-16T15:27:55.977178+00:00"
   }
 ]

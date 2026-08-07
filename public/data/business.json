@@ -1,5 +1,221 @@
 [
   {
+    "headline": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
+    "summary": "U.S. social media giant Meta is facing increasing pressure from Indian regulators, including demands to revoke the firm's safe harbor immunity in the country.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
+    "image_url": null,
+    "published_at": "2026-08-07T04:11:09.000Z"
+  },
+  {
+    "headline": "China's exports jump 23% in July, beating estimates, as AI-driven shipments surge",
+    "summary": "China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+    "image_url": null,
+    "published_at": "2026-08-07T04:01:37.000Z"
+  },
+  {
+    "headline": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
+    "summary": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-07T02:30:49.000Z"
+  },
+  {
+    "headline": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+    "summary": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+    "image_url": null,
+    "published_at": "2026-08-07T02:08:42.000Z"
+  },
+  {
+    "headline": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+    "summary": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+    "image_url": null,
+    "published_at": "2026-08-07T01:28:57.000Z"
+  },
+  {
+    "headline": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
+    "summary": "The unprecedented U.S.-Japan intervention to support the yen may end up shaping market behavior.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
+    "image_url": null,
+    "published_at": "2026-08-07T00:05:26.000Z"
+  },
+  {
+    "headline": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
+    "summary": "South Korean babies are turning into mini shareholders, thanks to their parents' investment strategies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
+    "image_url": null,
+    "published_at": "2026-08-06T23:42:20.000Z"
+  },
+  {
+    "headline": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
+    "summary": "Grindr says AI is boosting engineering productivity, supporting a new $350-per-month premium tier and driving stronger subscriber growth and retention.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html",
+    "image_url": null,
+    "published_at": "2026-08-06T22:26:01.000Z"
+  },
+  {
+    "headline": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each",
+    "summary": "CNBC’s Jim Cramer said earnings season reinforced five investing themes he thinks will produce the market's best buying opportunities.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/jim-cramer-5-investing-themes-stocks-to-buy.html",
+    "image_url": null,
+    "published_at": "2026-08-06T22:23:25.000Z"
+  },
+  {
+    "headline": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+    "summary": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
+    "image_url": null,
+    "published_at": "2026-08-06T22:19:52.000Z"
+  },
+  {
+    "headline": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
+    "summary": "Airbnb said it's seeing strong demand \"across all regions,\" contributing to the company's better-than-expected forecast.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
+    "image_url": null,
+    "published_at": "2026-08-06T22:01:34.000Z"
+  },
+  {
+    "headline": "AMD buys chip startup that hardwires AI models into its silicon",
+    "summary": "Taalas' current chip runs a small version of Meta's Llama 3.1, though the company is working on chips for bigger and more advanced models.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+    "image_url": null,
+    "published_at": "2026-08-06T21:42:31.000Z"
+  },
+  {
+    "headline": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
+    "summary": "The salad chain has not been implicated in the ongoing cyclospora outbreak.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
+    "image_url": null,
+    "published_at": "2026-08-06T21:24:38.000Z"
+  },
+  {
+    "headline": "Sen. Mitch McConnell says he's left rehab, will work from home",
+    "summary": "\"On the advice of my doctors, I'll maintain an intensive regimen of physical therapy from home during the state work period,\" the 84-year-old McConnell said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/mitch-mcconnell-health-update-senate-gop.html",
+    "image_url": null,
+    "published_at": "2026-08-06T20:52:34.000Z"
+  },
+  {
+    "headline": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns",
+    "summary": "Virginia's State Corporation Commission is tasked with reviewing the deal and will either accept, reject or impose conditions on it.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/virginia-governor-nextera-nee-dominion-data-center.html",
+    "image_url": null,
+    "published_at": "2026-08-06T20:50:59.000Z"
+  },
+  {
+    "headline": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
+    "summary": "\"We're taking decisive action to make UWM stronger, more liquid and better positioned to win for years to come,\" CEO Mat Ishbia said in a statement.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
+    "image_url": null,
+    "published_at": "2026-08-06T20:37:51.000Z"
+  },
+  {
+    "headline": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
+    "summary": "The refining market is very tight due to the Ukraine and Iran wars, keeping gas prices elevated even as crude prices fall.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/refinery-gas-oil-prices-iran-ukraine-war.html",
+    "image_url": null,
+    "published_at": "2026-08-06T20:34:01.000Z"
+  },
+  {
+    "headline": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights",
+    "summary": "American Airlines will no longer give elite frequent flyers free upgrades from economy class to business on some of its longest domestic routes",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
+    "image_url": null,
+    "published_at": "2026-08-06T20:30:05.000Z"
+  },
+  {
+    "headline": "The July jobs numbers are due out Friday. Here's what to expect",
+    "summary": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
+    "image_url": null,
+    "published_at": "2026-08-06T20:15:22.000Z"
+  },
+  {
+    "headline": "Copper jumps to its highest level ever. What the metal is telling us",
+    "summary": "Once a reliable gauge if economic health, \"Dr. Copper\" may be giving complicated signals this year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
+    "image_url": null,
+    "published_at": "2026-08-06T20:07:51.000Z"
+  },
+  {
+    "headline": "Savers Value Village thrift store launches new AI tool to price items",
+    "summary": "Savers Value Village is launching a new AI pricing tool to keep product prices consistent and low, the company told CNBC exclusively.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/savers-value-village-thrift-store-launches-new-ai-tool-to-price-items.html",
+    "image_url": null,
+    "published_at": "2026-08-06T20:06:56.000Z"
+  },
+  {
+    "headline": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
+    "summary": "Trump's reported phone calls to the Fed chairman will complicate his efforts to prove he will act independently on inflation and interest rates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/trump-fed-chairman-kevin-warsh-relationship.html",
+    "image_url": null,
+    "published_at": "2026-08-06T19:38:44.000Z"
+  },
+  {
+    "headline": "SpaceX shares passed a key test Thursday. Now sophisticated traders are betting the bottom may be in",
+    "summary": "Shares of Elon Musk's rocket company were trading higher in Thursday's session even as a key lock-up provision expired.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/spacex-passed-a-key-test-thursday-sophisticated-traders-bet-the-bottom-is-in.html",
+    "image_url": null,
+    "published_at": "2026-08-06T19:25:04.000Z"
+  },
+  {
+    "headline": "Big Tech's free cash flow — or lack thereof — only tells part of the investment story",
+    "summary": "Hyperscalers are still reporting impressive growth in operating cash flow.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/big-techs-free-cash-flow-or-lack-thereof-only-tells-part-of-the-investment-story.html",
+    "image_url": null,
+    "published_at": "2026-08-06T17:32:03.000Z"
+  },
+  {
+    "headline": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
+    "summary": "Fox has decided not to renegotiate its current TV deal with the NFL until the expiration of the league's opt-out clause in 2030, said CEO Lachlan Murdoch.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
+    "image_url": null,
+    "published_at": "2026-08-06T17:01:07.000Z"
+  },
+  {
+    "headline": "Ford's new 'Fathom' electric pickup truck will start at $28,000",
+    "summary": "It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform that Ford has said is key to making money with EVs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
+    "image_url": null,
+    "published_at": "2026-08-06T16:09:49.000Z"
+  },
+  {
+    "headline": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
+    "summary": "With the first tranche of SpaceX shares held by insiders unlocking, the stock could see downward pressure.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
+    "image_url": null,
+    "published_at": "2026-08-06T15:19:56.000Z"
+  },
+  {
     "headline": "Megayacht Amadea sold for $187 million to Dubai billionaire with Trump ties",
     "summary": "The sale of the Amadea caps a turbulent and controversial history for the 348-foot yacht, which was seized from a sanctioned Russian oligarch.",
     "publisher": "CNBC",
@@ -46,14 +262,6 @@
     "url": "https://www.cnbc.com/2026/08/06/-eu-cracks-down-on-caribbean-golden-passport-programs-with-visa-threat.html",
     "image_url": null,
     "published_at": "2026-08-06T12:11:20.000Z"
-  },
-  {
-    "headline": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
-    "summary": "With the first tranche of SpaceX shares held by insiders unlocking, the stock could see downward pressure.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
-    "image_url": null,
-    "published_at": "2026-08-06T12:00:01.000Z"
   },
   {
     "headline": "Shaquille O'Neal says WNBA players' treatment of Caitlin Clark is a rite of passage",
@@ -166,6 +374,14 @@
     "url": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
     "image_url": null,
     "published_at": "2026-08-06T02:02:39.000Z"
+  },
+  {
+    "headline": "Inside India newsletter: What's behind India’s rush to sell shares in state-owned firms",
+    "summary": "India is ramping up stake sales in state-owned companies to keep the growth engine running amid growing fiscal constraints",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/india-lic-shares-economy-disinvestment-.html",
+    "image_url": null,
+    "published_at": "2026-08-06T00:11:08.000Z"
   },
   {
     "headline": "Jim Cramer says investors should consider buying SpaceX for their kids",
@@ -1288,7 +1504,7 @@
     "published_at": "2026-08-03T10:32:09.000Z"
   },
   {
-    "headline": "For those with criminal records, AI is breaking down barriers to employment",
+    "headline": "This lawyer believes in second chances. Now AI is providing a boost",
     "summary": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
@@ -1382,221 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
     "image_url": null,
     "published_at": "2026-08-02T14:30:01.000Z"
-  },
-  {
-    "headline": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-    "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-    "image_url": null,
-    "published_at": "2026-08-02T13:52:33.000Z"
-  },
-  {
-    "headline": "States expand student loan options as new federal borrowing caps take effect — but they come with trade-offs",
-    "summary": "Some states — including Connecticut, Minnesota and Rhode Island — have expanded their own student loan programs amid new limits on federal borrowing.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/02/state-student-loans.html",
-    "image_url": null,
-    "published_at": "2026-08-02T13:30:01.000Z"
-  },
-  {
-    "headline": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-    "summary": "Oil price volatility caused by U.S.-Iran war created big market winners, but for buy-and-hold investors, there are better long-term energy themes to monitor.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-    "image_url": null,
-    "published_at": "2026-08-02T13:00:01.000Z"
-  },
-  {
-    "headline": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
-    "summary": "Tracking top analysts can help investors shortlist attractive dividend stocks, as these experts provide useful insights.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
-    "image_url": null,
-    "published_at": "2026-08-02T12:01:00.000Z"
-  },
-  {
-    "headline": "Why flights are so expensive and will likely stay that way",
-    "summary": "Airlines are paying billions of dollars more in fuel costs this year",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
-    "image_url": null,
-    "published_at": "2026-08-02T12:00:01.000Z"
-  },
-  {
-    "headline": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
-    "summary": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off on attacks after 'the perimeters of a deal has been agreed to.'",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
-    "image_url": null,
-    "published_at": "2026-08-02T10:18:35.000Z"
-  },
-  {
-    "headline": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-    "summary": "While the leak of key exam papers was the trigger for the recent student protest in India, rising unemployment is the real fuel angering Gen Z in the country.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
-    "image_url": null,
-    "published_at": "2026-08-02T05:18:21.000Z"
-  },
-  {
-    "headline": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
-    "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
-    "image_url": null,
-    "published_at": "2026-08-02T01:35:50.000Z"
-  },
-  {
-    "headline": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
-    "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-    "image_url": null,
-    "published_at": "2026-08-01T23:19:46.000Z"
-  },
-  {
-    "headline": "Berkshire Hathaway shares hit eight-month high",
-    "summary": "The conglomerate that Warren Buffett built rallied to an eight-month high this week. There could be more gains ahead if they play catch up with the S&P 500.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
-    "image_url": null,
-    "published_at": "2026-08-01T14:41:54.000Z"
-  },
-  {
-    "headline": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts",
-    "summary": "Trump Media and Technology Group's new paid data service launched Aug. 1, selling faster access to top Truth Social posts from President Donald Trump and more.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html",
-    "image_url": null,
-    "published_at": "2026-08-01T14:17:57.000Z"
-  },
-  {
-    "headline": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
-    "summary": "Uber and Waymo are increasingly at odds about the autonomous future, including in a labor battle over mass AV deployment in Washington, D.C.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
-    "image_url": null,
-    "published_at": "2026-08-01T14:10:03.000Z"
-  },
-  {
-    "headline": "Buying a condo with a mortgage may soon get more complicated. Here's why",
-    "summary": "New policies that apply to mortgages for condos take effect Aug. 3, and some experts are sounding the alarm that buyers may see delays or denials.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/condo-buyers-mortgage-rules-fannie-mae-freddie-mac.html",
-    "image_url": null,
-    "published_at": "2026-08-01T13:30:01.000Z"
-  },
-  {
-    "headline": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
-    "summary": "As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
-    "image_url": null,
-    "published_at": "2026-08-01T12:30:01.000Z"
-  },
-  {
-    "headline": "From a Fed decision to Big Tech earnings: What drove last week's volatile market",
-    "summary": "Wall Street got back to its winning ways last week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html",
-    "image_url": null,
-    "published_at": "2026-08-01T12:16:13.000Z"
-  },
-  {
-    "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-    "summary": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-    "image_url": null,
-    "published_at": "2026-08-01T12:00:01.000Z"
-  },
-  {
-    "headline": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
-    "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
-    "image_url": null,
-    "published_at": "2026-08-01T12:00:01.000Z"
-  },
-  {
-    "headline": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-    "summary": "OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-    "image_url": null,
-    "published_at": "2026-08-01T09:00:00.000Z"
-  },
-  {
-    "headline": "For sale: early access to Trump's Truth Social posts",
-    "summary": "The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-    "image_url": null,
-    "published_at": "2026-08-01T09:00:00.000Z"
-  },
-  {
-    "headline": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’",
-    "summary": "A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html",
-    "image_url": null,
-    "published_at": "2026-08-01T06:58:41.000Z"
-  },
-  {
-    "headline": "Iran's overlapping power centers make ending the war more complicated",
-    "summary": "Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
-    "image_url": null,
-    "published_at": "2026-08-01T06:52:42.000Z"
-  },
-  {
-    "headline": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
-    "summary": "FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
-    "image_url": null,
-    "published_at": "2026-08-01T02:08:51.000Z"
-  },
-  {
-    "headline": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
-    "summary": "Trump had sued the IRS for $10 billion over the leak of his tax information by an agency contractor.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
-    "image_url": null,
-    "published_at": "2026-07-31T22:04:03.000Z"
-  },
-  {
-    "headline": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-    "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-    "image_url": null,
-    "published_at": "2026-07-31T21:49:40.000Z"
-  },
-  {
-    "headline": "Trump's AI executive order nears key deadline as regulation debate intensifies",
-    "summary": "OpenAI's Sam Altman and Nvidia's Jensen Huang were among tech leaders in Washington, D.C., ahead of a deadline the White House set in its AI executive order.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
-    "image_url": null,
-    "published_at": "2026-07-31T21:46:32.000Z"
-  },
-  {
-    "headline": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
-    "summary": "Sony and Marvel's \"Spider-Man: Brave New Day\" is expected to haul in around $270 million domestically over its debut weekend.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
-    "image_url": null,
-    "published_at": "2026-07-31T21:06:36.000Z"
-  },
-  {
-    "headline": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
-    "summary": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
-    "image_url": null,
-    "published_at": "2026-07-31T20:40:51.000Z"
   }
 ]
