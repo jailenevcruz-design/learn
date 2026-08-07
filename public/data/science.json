@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Vitamin C may fight cancer — but not the way scientists once thought",
+    "summary": "Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches vastly higher concentrations and can behave more like an experimental cancer drug than an ordinary supplement. Early st…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260806050717.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T13:02:16.000Z"
+  },
+  {
+    "headline": "New autism therapy shows surprising benefits even in adult mice",
+    "summary": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids and showed lasting effects in adult mice, suggesting the brain may remain more treatable later in li…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T12:38:30.000Z"
+  },
+  {
+    "headline": "UCLA scientists discover how to guide heat like light at room temperature",
+    "summary": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive parts of next-generation chips and quantum devices.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T12:22:48.000Z"
+  },
+  {
+    "headline": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+    "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T11:18:01.000Z"
+  },
+  {
     "headline": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
     "summary": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakening, raising the possibility that the deep-Earth upheaval is part of a mysterious natural cycle.",
     "publisher": "ScienceDaily",
@@ -1566,37 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260721000818.htm",
     "image_url": null,
     "published_at": "2026-07-21T08:08:25.000Z"
-  },
-  {
-    "headline": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
-    "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were no…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
-    "image_url": null,
-    "published_at": "2026-07-21T05:10:08.000Z"
-  },
-  {
-    "headline": "New molecular map reveals how the flu virus hijacks human cells",
-    "summary": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular map could reveal new drug targets and help researchers study dangerous flu strains such as H5N1.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
-    "image_url": null,
-    "published_at": "2026-07-21T04:59:11.000Z"
-  },
-  {
-    "headline": "This food compound may help vaccines work better in older adults",
-    "summary": "A naturally occurring compound found in foods such as wheat germ, mushrooms, and aged cheese may help older adults build stronger protection after vaccination. In a small pilot trial, researchers gave spermidine supplements to adults over 65 following their third COVID-19 vaccine dose. The biggest improvements appeared…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719035951.htm",
-    "image_url": null,
-    "published_at": "2026-07-21T03:51:43.000Z"
-  },
-  {
-    "headline": "Dying Sun-like stars may kick themselves through space",
-    "summary": "Dying Sun-like stars may not fade away quietly. As blobs of gas erupt unevenly from their swollen surfaces, each burst gives the star a tiny push in the opposite direction. Thousands of these random kicks could eventually break apart distant stellar pairs or, in rare cases, drive two stars into a violent collision.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
-    "image_url": null,
-    "published_at": "2026-07-21T03:36:16.000Z"
   }
 ]

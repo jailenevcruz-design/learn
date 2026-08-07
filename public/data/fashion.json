@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/caro-editions",
     "image_url": null,
-    "published_at": "2026-08-07T12:30:14.000Z"
+    "published_at": "2026-08-07T14:00:04.000Z"
   },
   {
     "headline": "Collina Strada Copenhagen Spring 2027",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/collina-strada",
     "image_url": null,
-    "published_at": "2026-08-07T12:30:14.000Z"
+    "published_at": "2026-08-07T14:00:04.000Z"
   },
   {
     "headline": "Nicklas Skovgaard Copenhagen Spring 2027",
@@ -21,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/nicklas-skovgaard",
     "image_url": null,
-    "published_at": "2026-08-07T12:30:14.000Z"
+    "published_at": "2026-08-07T14:00:04.000Z"
   },
   {
     "headline": "Masu Tokyo Spring 2027",
@@ -29,7 +29,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/masu",
     "image_url": null,
-    "published_at": "2026-08-07T12:30:14.000Z"
+    "published_at": "2026-08-07T14:00:04.000Z"
   },
   {
     "headline": "Chika Kisada Tokyo Spring 2027",
@@ -37,7 +37,79 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/chika-kisada",
     "image_url": null,
-    "published_at": "2026-08-07T12:30:14.000Z"
+    "published_at": "2026-08-07T14:00:04.000Z"
+  },
+  {
+    "headline": "Kenco To Deploy More of DeepFabric’s AI Agents",
+    "summary": "After a successful initial deployment, Kenco is eyeing more AI agents to help optimize its operations.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/kenco-deepfabric-artificial-intelligence-supply-chain-1239097212/",
+    "image_url": null,
+    "published_at": "2026-08-07T14:00:00.000Z"
+  },
+  {
+    "headline": "Hang Lung Names Toys ‘R’ Us Asia Chief Leo Tsoi as Next CEO",
+    "summary": "The retail executive, formerly of Starbucks China, will succeed Weber Lo on Oct. 1.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/human-resources/hang-lung-toys-r-us-asia-leo-tsoi-ceo-1239097446/",
+    "image_url": null,
+    "published_at": "2026-08-07T13:42:04.000Z"
+  },
+  {
+    "headline": "These Are the Brooks Products Record-Breaking Runner Josh Kerr Can’t Train Without",
+    "summary": "Running the fastest mile ever in his Brooks Hyperion 222 shoe, Kerr is as loyal to the brand as he is to winning.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/shop/shop-shoes/josh-kerr-brooks-shopping-list-buy-running-sneakers-apparel-1239092587/",
+    "image_url": null,
+    "published_at": "2026-08-07T13:22:01.000Z"
+  },
+  {
+    "headline": "Aperitivo Hour: A Backyard Dinner With Natasha Pickowicz",
+    "summary": "Chef and cookbook author Natasha Pickowicz takes us behind the scenes of her backyard dinner party.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/aperitivo-hour-natasha-pickowicz",
+    "image_url": null,
+    "published_at": "2026-08-07T13:12:21.000Z"
+  },
+  {
+    "headline": "Under Armour Faces a Challenging Demand Environment Ahead",
+    "summary": "The company said its revised outlook forecasting a steeper revenue decline in fiscal 2027 is due to softer demand in North America and Asia-Pacific.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/under-armour-uaa-q1-2027-earnings-revenue-outlook-1239097469/",
+    "image_url": null,
+    "published_at": "2026-08-07T13:07:21.000Z"
+  },
+  {
+    "headline": "The Mirror After Birth",
+    "summary": "In Retail Ritual, presented on the occasion of her first institutional solo exhibition at the National Gallery of Bosnia and Herzegovina during the Sarajevo Photography Festival, Carlota Guerrero transforms the luxury fitting room into a stage where motherhood, performance, consumer culture, and the female gaze converg…",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-mirror-after-birth",
+    "image_url": null,
+    "published_at": "2026-08-07T13:00:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Lemme Ventures Into Longevity Space With New NAD+ Capsules Made Specifically for Women",
+    "summary": "Reframing a supplement narrative largely centered on healthmaxxing biohackers and, well, men, Lemme is making women a priority with its first-ever NAD+ formula. Here's how to shop.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/shop/shop-beauty/lemme-nad-longevity-supplement-about-release-date-buy-now-1239096176/",
+    "image_url": null,
+    "published_at": "2026-08-07T13:00:00.000Z"
+  },
+  {
+    "headline": "In Search of Alternatives, Fashion For Good Sets Out To Find What Comes After “Forever Chemicals”",
+    "summary": "Fashion For Good is developing a benchmark to make sure the PFAS alternatives won't be just as bad as the chemicals they are trying to replace.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/fashion-for-good-pfas-sustainability-alternative-1239096695/",
+    "image_url": null,
+    "published_at": "2026-08-07T13:00:00.000Z"
+  },
+  {
+    "headline": "Foot Locker Leans on Nostalgia and Method Man for New Campaign as It Continues to Evolve",
+    "summary": "The fresh marketing spot is the latest major move from the retailer since it was acquired by Dick's Sporting Goods last year.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/foot-locker-campaign-method-man-sneaker-culture-interview-1239097195/",
+    "image_url": null,
+    "published_at": "2026-08-07T13:00:00.000Z"
   },
   {
     "headline": "EXCLUSIVE: Béis and Disney Collaborate on Retro-Inspired Luggage Marked by Your Favorite Characters",
@@ -1526,77 +1598,5 @@
     "url": "https://www.vogue.com/article/traveling-with-oldest-friends",
     "image_url": null,
     "published_at": "2026-08-04T11:00:00.000Z"
-  },
-  {
-    "headline": "The Best Fall Fragrances Leave an Intoxicating Trail of Musk, Amber, and Leather",
-    "summary": "It’s time for spicy, gourmand, and powerhouse floral notes to come to the fore. The best fall fragrances by Maison Margiela, Tom Ford, Guerlain, and more match the depth of the season.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/fall-fragrances",
-    "image_url": null,
-    "published_at": "2026-08-04T10:00:00.000Z"
-  },
-  {
-    "headline": "The 11 Best Hotels in the Hamptons",
-    "summary": "From East Hampton, to Shelter Island, to Montauk, here are the best hotels in the Hamptons for your next weekend getaway.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-best-hotels-in-the-hamptons",
-    "image_url": null,
-    "published_at": "2026-08-04T10:00:00.000Z"
-  },
-  {
-    "headline": "7 Newport Airbnbs for a Last-Minute East Coast Summer Getaway",
-    "summary": "Seafood, history, and the occasional celeb sighting awaits—book a Newport Airbnb and let your Rhode Island holiday officially kick off.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/newport-airbnbs-rhode-island",
-    "image_url": null,
-    "published_at": "2026-08-04T10:00:00.000Z"
-  },
-  {
-    "headline": "The Vogue Business AI Tracker",
-    "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-    "image_url": null,
-    "published_at": "2026-08-04T09:30:00.000Z"
-  },
-  {
-    "headline": "You Can't Be Messy Online Anymore. Where To Next?",
-    "summary": "Mainstream social platforms have become too commercial for culture to flourish. As creativity migrates to smaller platforms built on participation rather than performance, brands must rethink not just how they show up, but whether they even should.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/you-cant-be-messy-on-social-media-anymore-where-to-next",
-    "image_url": null,
-    "published_at": "2026-08-04T08:30:00.000Z"
-  },
-  {
-    "headline": "Hugo Boss Sales Decline Continues in Q2",
-    "summary": "The German menswear specialist expects its sales slump to continue for the rest of the year as it undergoes a strategic reset and faces a takeover bid.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/financial/https-wwd-com-business-news-financial-hugo-boss-q2-h1-earnings-2026-sales-decline-10-percent-1239092037/",
-    "image_url": null,
-    "published_at": "2026-08-04T07:38:20.000Z"
-  },
-  {
-    "headline": "Sportmax Resort 2027",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/resort-2027/sportmax",
-    "image_url": null,
-    "published_at": "2026-08-04T07:27:38.000Z"
-  },
-  {
-    "headline": "Zalando Lowers Outlook as Underlying Growth Slows in Q2",
-    "summary": "The German fashion platform’s revenue jumped 20.8 percent in the second quarter, boosted mostly by its acquisition of its former rival About You, while masking a lower 1.1 pro forma rate.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/financial/zalando-q2-growth-about-you-acquisition-impact-1239092450/",
-    "image_url": null,
-    "published_at": "2026-08-04T07:26:46.000Z"
-  },
-  {
-    "headline": "Napapijri Makes Inroads Into Mexico, Taps ‘Stranger Things’ Actor Jamie Campbell Bower for Ad Campaign",
-    "summary": "The Italian outdoor brand is opening monobrand stores and shops-in-shop in partnership with El Palacio de Hierro.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/napapijri-enters-mexico-jamie-campbell-bower-ad-campaign-1239091125/",
-    "image_url": null,
-    "published_at": "2026-08-04T05:00:00.000Z"
   }
 ]

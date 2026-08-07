@@ -1,11 +1,51 @@
 [
   {
+    "headline": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
+    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+    "image_url": null,
+    "published_at": "2026-08-07T13:49:51.000Z"
+  },
+  {
     "headline": "U.S. economy unexpectedly lost 23,000 jobs in July",
-    "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate held steady at 4.2%, according to the Dow Jones consensus.",
+    "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
     "image_url": null,
-    "published_at": "2026-08-07T12:31:20.000Z"
+    "published_at": "2026-08-07T13:40:19.000Z"
+  },
+  {
+    "headline": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+    "summary": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+    "image_url": null,
+    "published_at": "2026-08-07T13:10:10.000Z"
+  },
+  {
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "summary": "The July jobs was a big miss, and shares of Atlassian are rising after a strong quarter.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
+    "image_url": null,
+    "published_at": "2026-08-07T13:09:58.000Z"
+  },
+  {
+    "headline": "Homes are selling below asking in 38 of the 50 biggest U.S. cities—if you can afford one",
+    "summary": "Home sellers in many of the largest U.S. cities are accepting offers below asking as higher mortgage rates squeeze buyers' budgets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/homes-are-selling-below-asking-in-38-of-the-50-biggest-us-cities.html",
+    "image_url": null,
+    "published_at": "2026-08-07T13:00:01.000Z"
+  },
+  {
+    "headline": "Private equity is circling budget airlines after Apollo's EasyJet deal — and this carrier could be next",
+    "summary": "Private equity investors could target more undervalued airlines following Apollo's swoop for EasyJet.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/easyjet-apollo-private-equity-airlines-travel.html",
+    "image_url": null,
+    "published_at": "2026-08-07T12:35:19.000Z"
   },
   {
     "headline": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
@@ -46,6 +86,14 @@
     "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
     "image_url": null,
     "published_at": "2026-08-07T11:23:07.000Z"
+  },
+  {
+    "headline": "China is gaining ground in AI. But the U.S. still has a major advantage",
+    "summary": "Chinese AI companies have made recent leaps in closing the performance gap with U.S. frontier labs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
+    "image_url": null,
+    "published_at": "2026-08-07T11:19:21.000Z"
   },
   {
     "headline": "Martha's Vineyard African American Film Festival set for record attendance despite macro challenges",
@@ -1550,53 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
     "image_url": null,
     "published_at": "2026-08-03T15:46:27.000Z"
-  },
-  {
-    "headline": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
-    "summary": "Washington's decision to join Japan in supporting the battered yen has prompted questions over what motivated the rare coordinated intervention.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
-    "image_url": null,
-    "published_at": "2026-08-03T13:49:17.000Z"
-  },
-  {
-    "headline": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
-    "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
-    "image_url": null,
-    "published_at": "2026-08-03T13:45:02.000Z"
-  },
-  {
-    "headline": "What the market is saying about the U.S. intervention to prop up the yen",
-    "summary": "Following the joint involvement the yen now sits at 157 to the dollar, down from just above 163, which represented its lowest level in four decades.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
-    "image_url": null,
-    "published_at": "2026-08-03T13:43:55.000Z"
-  },
-  {
-    "headline": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
-    "summary": "Alibaba unveiled its latest and 'most powerful' AI model Qwen3.8-Max on Monday as Chinese companies race to close the AI gap with the U.S.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
-    "image_url": null,
-    "published_at": "2026-08-03T13:38:33.000Z"
-  },
-  {
-    "headline": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed'",
-    "summary": "The companies have discussed a potential merger over several months, reports say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
-    "image_url": null,
-    "published_at": "2026-08-03T11:35:03.000Z"
-  },
-  {
-    "headline": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
-    "summary": "At least 70 House offices used identifiable AI tools in early 2026, with Democrats leading visible spending and broader use likely undercounted.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
-    "image_url": null,
-    "published_at": "2026-08-03T11:00:01.000Z"
   }
 ]
