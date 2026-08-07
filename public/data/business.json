@@ -1,11 +1,35 @@
 [
   {
-    "headline": "Trump revives effort to fire Fed's Lisa Cook",
-    "summary": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+    "headline": "Trump renews push to fire Fed Governor Lisa Cook",
+    "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
     "image_url": null,
-    "published_at": "2026-08-07T18:21:58.000Z"
+    "published_at": "2026-08-07T19:35:35.000Z"
+  },
+  {
+    "headline": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
+    "summary": "A measure to impose new sanctions on Russian oil purchasers easily cleared the Senate and heads to the House.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/russia-sanctions-bill-lindsey-graham-senate.html",
+    "image_url": null,
+    "published_at": "2026-08-07T19:21:22.000Z"
+  },
+  {
+    "headline": "U.S. economy unexpectedly lost 23,000 jobs in July",
+    "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-07T19:14:22.000Z"
+  },
+  {
+    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
+    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+    "image_url": null,
+    "published_at": "2026-08-07T19:06:33.000Z"
   },
   {
     "headline": "The unwind of Situational Awareness isn't the only reason the AI trade is back",
@@ -13,7 +37,31 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/07/the-situational-awareness-unwind-is-only-one-reason-the-ai-trade-is-back.html",
     "image_url": null,
-    "published_at": "2026-08-07T18:19:56.000Z"
+    "published_at": "2026-08-07T18:51:29.000Z"
+  },
+  {
+    "headline": "Trump revives effort to fire Fed's Lisa Cook",
+    "summary": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+    "image_url": null,
+    "published_at": "2026-08-07T18:38:17.000Z"
+  },
+  {
+    "headline": "Prediction markets take center stage in latest round of quarterly earnings reports",
+    "summary": "Recent quarterly reports from DraftKings, Flutter Entertainment and others offer a view into prediction markets businesses and their performance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/prediction-markets-take-center-stage-in-latest-quarterly-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-07T18:30:23.000Z"
+  },
+  {
+    "headline": "Gold bugs spend $180 million betting all's clear for metal as bond yields stall",
+    "summary": "Despite a 25% decline in gold from its high in January, proponents of the precious metal are storming into bullish call positions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/gold-bugs-spend-180-million-betting-alls-clear-for-metal-as-bond-yields-stall.html",
+    "image_url": null,
+    "published_at": "2026-08-07T18:22:56.000Z"
   },
   {
     "headline": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
@@ -30,14 +78,6 @@
     "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
     "image_url": null,
     "published_at": "2026-08-07T18:09:18.000Z"
-  },
-  {
-    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
-    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-    "image_url": null,
-    "published_at": "2026-08-07T18:02:11.000Z"
   },
   {
     "headline": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
@@ -118,14 +158,6 @@
     "url": "https://www.cnbc.com/2026/08/07/martin-heinrich-tax-breaks-overseas-oil-production.html",
     "image_url": null,
     "published_at": "2026-08-07T16:00:01.000Z"
-  },
-  {
-    "headline": "U.S. economy unexpectedly lost 23,000 jobs in July",
-    "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-07T15:52:25.000Z"
   },
   {
     "headline": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
     "image_url": null,
     "published_at": "2026-08-03T20:09:19.000Z"
-  },
-  {
-    "headline": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
-    "summary": "U.S. crude oil prices have gained about 20% since the U.S. and Israel attacked Iran on Feb. 28.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
-    "image_url": null,
-    "published_at": "2026-08-03T20:02:34.000Z"
-  },
-  {
-    "headline": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
-    "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-03T20:02:17.000Z"
-  },
-  {
-    "headline": "Oil prices tumble after Trump calls off attack on Iran",
-    "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
-    "image_url": null,
-    "published_at": "2026-08-03T19:59:55.000Z"
-  },
-  {
-    "headline": "Kalshi traders are not expecting a U.S. and Iran nuclear deal soon",
-    "summary": "As of early Sunday morning, Kalshi traders saw a 29% likelihood of a nuclear deal between the U.S. and Iran before January 2027.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-are-not-expecting-a-us-and-iran-nuclear-deal-soon.html",
-    "image_url": null,
-    "published_at": "2026-08-03T19:48:25.000Z"
   }
 ]
