@@ -1,5 +1,29 @@
 [
   {
+    "headline": "The July jobs numbers are due out Friday. Here's what to expect",
+    "summary": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
+    "image_url": null,
+    "published_at": "2026-08-07T11:23:07.000Z"
+  },
+  {
+    "headline": "Martha's Vineyard African American Film Festival set for record attendance despite macro challenges",
+    "summary": "MVAAFF founder Floyd Rance says the festival has found a sustainable audience on the Massachusetts island, helping it weather macroeconomic uncertainty.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/marthas-vineyard-african-american-film-festival-set-for-record-attendance.html",
+    "image_url": null,
+    "published_at": "2026-08-07T11:16:34.000Z"
+  },
+  {
+    "headline": "Wildfire costs are surging — but much of the damage in Europe isn’t insured",
+    "summary": "Insurers warn that Europe is facing a \"protection gap\" in wildfire cover as disaster recovery costs outpace insurance coverage.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/wildfires-insurance-cover-zurich-allianz-munich.html",
+    "image_url": null,
+    "published_at": "2026-08-07T10:59:15.000Z"
+  },
+  {
     "headline": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
     "summary": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products.",
     "publisher": "CNBC",
@@ -14,14 +38,6 @@
     "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
     "image_url": null,
     "published_at": "2026-08-07T10:00:00.000Z"
-  },
-  {
-    "headline": "Wildfire costs are surging — but much of the damage in Europe isn’t insured",
-    "summary": "Insurers warn that Europe is facing a \"protection gap\" in wildfire cover as disaster recovery costs outpace insurance coverage.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/wildfires-insurance-cover-zurich-allianz-munich.html",
-    "image_url": null,
-    "published_at": "2026-08-07T09:26:05.000Z"
   },
   {
     "headline": "Yen rally fades a week after U.S.-Japan intervention as focus shifts to policy",
@@ -198,14 +214,6 @@
     "url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
     "image_url": null,
     "published_at": "2026-08-06T20:30:05.000Z"
-  },
-  {
-    "headline": "The July jobs numbers are due out Friday. Here's what to expect",
-    "summary": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
-    "image_url": null,
-    "published_at": "2026-08-06T20:15:22.000Z"
   },
   {
     "headline": "Copper jumps to its highest level ever. What the metal is telling us",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
     "image_url": null,
     "published_at": "2026-08-03T05:00:01.000Z"
-  },
-  {
-    "headline": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
-    "summary": "Japan's finance ministry said Monday it conducted a coordinated yen-buying intervention with the U.S. Treasury on Friday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html",
-    "image_url": null,
-    "published_at": "2026-08-03T04:03:08.000Z"
   }
 ]
