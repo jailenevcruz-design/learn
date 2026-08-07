@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
+    "summary": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakening, raising the possibility that the deep-Earth upheaval is part of a mysterious natural cycle.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T10:24:52.000Z"
+  },
+  {
+    "headline": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+    "summary": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
+    "image_url": null,
+    "published_at": "2026-08-07T10:00:00.000Z"
+  },
+  {
+    "headline": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
+    "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes. Researchers also observed signs of improved stress regulation and changes in brain cir…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T07:31:52.000Z"
+  },
+  {
+    "headline": "The key to colonizing Mars may be hidden inside asteroids",
+    "summary": "Metal-rich asteroids could one day become hardware stores for Mars, supplying the materials needed to build and repair a growing colony. A new analysis shows that carefully selected asteroids may be reachable with current spacecraft technology. Some could even provide the ingredients for making rocket fuel in space, dr…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260805082504.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T05:29:22.000Z"
+  },
+  {
+    "headline": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
+    "summary": "More than 5,000 years after his death, Ötzi the Iceman is still hosting a remarkable mix of ancient and modern microorganisms. Researchers separated microbes that lived in his body during his lifetime from those that arrived after his death, uncovering traces of his original gut bacteria and cold-loving yeasts that may…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T04:24:49.000Z"
+  },
+  {
+    "headline": "Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant",
+    "summary": "Several enormous Megalodon vertebrae thought to have been destroyed in 1989 were found sitting unnoticed on a museum shelf. Their analysis strengthens evidence that the giant shark could exceed 24 meters (79 feet) in length and live for nearly a century. Researchers also estimate that its newborns may have measured an…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260805082500.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T02:57:08.000Z"
+  },
+  {
+    "headline": "Scientists discover a hidden brain shift that begins around age 50",
+    "summary": "Beginning around age 50, the brain’s memory center appears to lose many of its longtime immune cells and replace them with more inflammatory ones. This surprising shift may help explain how normal aging sets the stage for Alzheimer’s disease and dementia.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260806050700.htm",
+    "image_url": null,
+    "published_at": "2026-08-07T01:32:54.000Z"
+  },
+  {
     "headline": "This week's Short Wave news roundup",
     "summary": "NPR's science podcast rounds up new studies about a wandering black hole, humans' ability to detect AI-generated text, and the impact of cougars on vehicle-deer collisions.",
     "publisher": "NPR",
@@ -1542,61 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
     "image_url": null,
     "published_at": "2026-07-21T03:36:16.000Z"
-  },
-  {
-    "headline": "New quantum gravity theory links entropy, dark energy, and life",
-    "summary": "A new theoretical study offers a possible explanation for how the Universe can grow more complex without violating the second law of thermodynamics. Using a quantum gravity framework called Gravity from Entropy, mathematician Ginestra Bianconi found that the Universe’s total entropy may rise as space expands, even whil…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719035947.htm",
-    "image_url": null,
-    "published_at": "2026-07-21T02:40:55.000Z"
-  },
-  {
-    "headline": "Some dinosaurs could rise like giants until they grew too big",
-    "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
-    "image_url": null,
-    "published_at": "2026-07-20T13:23:44.000Z"
-  },
-  {
-    "headline": "Earth’s waters are quietly running out of oxygen, scientists warn",
-    "summary": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this widespread deoxygenation is closely connected to other major planetary threats, including warming, polluti…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
-    "image_url": null,
-    "published_at": "2026-07-20T12:29:38.000Z"
-  },
-  {
-    "headline": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-    "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than t…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-    "image_url": null,
-    "published_at": "2026-07-20T10:05:34.000Z"
-  },
-  {
-    "headline": "An ordinary laptop solved a problem thought to require a quantum computer",
-    "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theo…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
-    "image_url": null,
-    "published_at": "2026-07-20T07:40:09.000Z"
-  },
-  {
-    "headline": "UCLA scientists develop mineral sunscreen without the chalky white cast",
-    "summary": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to use across a wider range of skin tones.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
-    "image_url": null,
-    "published_at": "2026-07-20T03:32:12.000Z"
-  },
-  {
-    "headline": "The mysterious hum heard around the world may finally have an explanation",
-    "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The stronge…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
-    "image_url": null,
-    "published_at": "2026-07-19T12:07:13.000Z"
   }
 ]

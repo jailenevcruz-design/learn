@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/caro-editions",
     "image_url": null,
-    "published_at": "2026-08-07T09:45:22.000Z"
+    "published_at": "2026-08-07T10:35:10.000Z"
   },
   {
     "headline": "Collina Strada Copenhagen Spring 2027",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/collina-strada",
     "image_url": null,
-    "published_at": "2026-08-07T09:45:22.000Z"
+    "published_at": "2026-08-07T10:35:10.000Z"
   },
   {
     "headline": "Nicklas Skovgaard Copenhagen Spring 2027",
@@ -21,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/nicklas-skovgaard",
     "image_url": null,
-    "published_at": "2026-08-07T09:45:22.000Z"
+    "published_at": "2026-08-07T10:35:10.000Z"
   },
   {
     "headline": "Masu Tokyo Spring 2027",
@@ -29,7 +29,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/masu",
     "image_url": null,
-    "published_at": "2026-08-07T09:45:22.000Z"
+    "published_at": "2026-08-07T10:35:10.000Z"
   },
   {
     "headline": "Chika Kisada Tokyo Spring 2027",
@@ -37,13 +37,21 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/chika-kisada",
     "image_url": null,
-    "published_at": "2026-08-07T09:45:22.000Z"
+    "published_at": "2026-08-07T10:35:10.000Z"
+  },
+  {
+    "headline": "The 16 Best Airbnbs in the Hamptons for a Last-Minute Summer Vacation",
+    "summary": "Looking for the best Airbnbs in the Hamptons? Here, 16 fabulous choices, from a fishing cottage in Montauk to a grand East Hampton estate.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/best-airbnbs-in-the-hamptons",
+    "image_url": null,
+    "published_at": "2026-08-07T10:00:00.000Z"
   },
   {
     "headline": "5 Rising Black-Owned Beauty Brands to Know",
     "summary": "The industry’s top artists, creators, and leaders come together at the first Black Beauty Roster show for a day of education and community to advance equity within beauty.",
     "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/5-rising-black-owned-beauty-brands-to-know",
+    "url": "https://www.vogue.com/article/4-rising-black-owned-beauty-brands-to-know",
     "image_url": null,
     "published_at": "2026-08-07T09:30:00.000Z"
   },
@@ -52,6 +60,14 @@
     "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+    "image_url": null,
+    "published_at": "2026-08-07T09:30:00.000Z"
+  },
+  {
+    "headline": "5 Rising Black-Owned Beauty Brands to Know",
+    "summary": "The industry’s top artists, creators, and leaders come together at the first Black Beauty Roster show for a day of education and community to advance equity within beauty.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/5-rising-black-owned-beauty-brands-to-know",
     "image_url": null,
     "published_at": "2026-08-07T09:30:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.vogue.com/article/alo-international-ceo-benedetta-petruzzo-on-the-brands-big-euro-summer",
     "image_url": null,
     "published_at": "2026-08-04T04:30:00.000Z"
-  },
-  {
-    "headline": "How Skall Studio Is Preserving Danish Wool",
-    "summary": "With its Danish wool program, Copenhagen Fashion Week favorite Skall Studio is working to protect a local supply chain before it disappears for good.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-skall-studio-is-preserving-danish-wool",
-    "image_url": null,
-    "published_at": "2026-08-04T04:30:00.000Z"
-  },
-  {
-    "headline": "The Beauty of New York on a Summer Friday",
-    "summary": "On a recent summer evening, WWD captured the beauty of New Yorkers across neighborhoods — and asked about their favorite products, too.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/beauty-industry-news/beauty-features/new-york-summer-street-style-beauty-makeup-fragrance-1239088848/",
-    "image_url": null,
-    "published_at": "2026-08-04T04:01:00.000Z"
   }
 ]
