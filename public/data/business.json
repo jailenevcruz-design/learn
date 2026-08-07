@@ -1,19 +1,91 @@
 [
   {
-    "headline": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
-    "summary": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
-    "image_url": null,
-    "published_at": "2026-08-07T15:27:00.000Z"
-  },
-  {
     "headline": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
     "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
     "image_url": null,
-    "published_at": "2026-08-07T15:26:56.000Z"
+    "published_at": "2026-08-07T17:25:23.000Z"
+  },
+  {
+    "headline": "A huge day and week for Corning as the S&P 500 approaches another record high",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/a-huge-day-and-week-for-corning-as-the-sp-500-aims-for-record-close.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:59:17.000Z"
+  },
+  {
+    "headline": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
+    "summary": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:55:42.000Z"
+  },
+  {
+    "headline": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
+    "summary": "Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:47:55.000Z"
+  },
+  {
+    "headline": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+    "summary": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:40:08.000Z"
+  },
+  {
+    "headline": "Here are three key takeaways from the disappointing July jobs report",
+    "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:34:09.000Z"
+  },
+  {
+    "headline": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
+    "summary": "Airbnb CEO Brian Chesky wasn’t sure AI would help the company, but a year later, he says it’s the reason growth is back.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:28:54.000Z"
+  },
+  {
+    "headline": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
+    "summary": "With options premiums still elevated due to the military conflict in the Gulf, selling puts on an energy major posting record free cash flow offers a rare opportunity.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:26:24.000Z"
+  },
+  {
+    "headline": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+    "summary": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:21:50.000Z"
+  },
+  {
+    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
+    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:06:45.000Z"
+  },
+  {
+    "headline": "Top Democrat proposes killing tax breaks for overseas oil production",
+    "summary": "Gas prices in the U.S. averaged $4.06 per gallon on Thursday — a major source of voter discontent heading into November's midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/07/martin-heinrich-tax-breaks-overseas-oil-production.html",
+    "image_url": null,
+    "published_at": "2026-08-07T16:00:01.000Z"
   },
   {
     "headline": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
@@ -24,28 +96,12 @@
     "published_at": "2026-08-07T15:13:11.000Z"
   },
   {
-    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
-    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-    "image_url": null,
-    "published_at": "2026-08-07T15:06:40.000Z"
-  },
-  {
     "headline": "Whatnot valued at $20 billion as live shopping continues to boom",
     "summary": "Whatnot, the live commerce platform, has increased its valuation to $20 billion as the popularity of live shopping continues to grow.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html",
     "image_url": null,
     "published_at": "2026-08-07T15:02:12.000Z"
-  },
-  {
-    "headline": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
-    "summary": "Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
-    "image_url": null,
-    "published_at": "2026-08-07T14:57:29.000Z"
   },
   {
     "headline": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
@@ -206,14 +262,6 @@
     "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
     "image_url": null,
     "published_at": "2026-08-07T04:11:09.000Z"
-  },
-  {
-    "headline": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
-    "summary": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
-    "image_url": null,
-    "published_at": "2026-08-07T01:28:57.000Z"
   },
   {
     "headline": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
@@ -1550,53 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
     "image_url": null,
     "published_at": "2026-08-03T18:35:15.000Z"
-  },
-  {
-    "headline": "Can Palantir pull off a Microsoft-style comeback? Here's what options say",
-    "summary": "Hopes are running high that high-profile software provider Palantir can shake off its nine-month bear market and rally after earnings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/can-palantir-pull-off-a-microsoft-style-comeback-heres-what-options-say.html",
-    "image_url": null,
-    "published_at": "2026-08-03T18:34:52.000Z"
-  },
-  {
-    "headline": "Michigan confirms first two deaths in cyclospora outbreak",
-    "summary": "The Michigan Health Department said that both individuals had underlying health conditions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
-    "image_url": null,
-    "published_at": "2026-08-03T18:32:42.000Z"
-  },
-  {
-    "headline": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-    "summary": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
-    "image_url": null,
-    "published_at": "2026-08-03T17:28:17.000Z"
-  },
-  {
-    "headline": "Jim Cramer wants to 'replenish' our position in this data center play",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/jim-cramer-wants-to-replenish-our-position-in-this-data-center-play.html",
-    "image_url": null,
-    "published_at": "2026-08-03T17:12:31.000Z"
-  },
-  {
-    "headline": "Are Americans ready to embrace tiny 'cars'? These companies think so",
-    "summary": "Electric low-speed vehicles, or LSVs, are a step above a traditional golf cart but below a typical light-duty car or truck sold in the U.S.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
-    "image_url": null,
-    "published_at": "2026-08-03T16:57:42.000Z"
-  },
-  {
-    "headline": "White House to host AI companies Tuesday to review new model-testing framework",
-    "summary": "President Donald Trump’s June executive order directed officials to develop a process to evaluate the cybersecurity capabilities of advanced AI models.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
-    "image_url": null,
-    "published_at": "2026-08-03T16:56:52.000Z"
   }
 ]
