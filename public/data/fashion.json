@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/caro-editions",
     "image_url": null,
-    "published_at": "2026-08-07T04:12:54.000Z"
+    "published_at": "2026-08-07T08:00:05.000Z"
   },
   {
     "headline": "Collina Strada Copenhagen Spring 2027",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/collina-strada",
     "image_url": null,
-    "published_at": "2026-08-07T04:12:54.000Z"
+    "published_at": "2026-08-07T08:00:05.000Z"
   },
   {
     "headline": "Nicklas Skovgaard Copenhagen Spring 2027",
@@ -21,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/nicklas-skovgaard",
     "image_url": null,
-    "published_at": "2026-08-07T04:12:54.000Z"
+    "published_at": "2026-08-07T08:00:05.000Z"
   },
   {
     "headline": "Masu Tokyo Spring 2027",
@@ -29,7 +29,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/masu",
     "image_url": null,
-    "published_at": "2026-08-07T04:12:54.000Z"
+    "published_at": "2026-08-07T08:00:05.000Z"
   },
   {
     "headline": "Chika Kisada Tokyo Spring 2027",
@@ -37,7 +37,23 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/chika-kisada",
     "image_url": null,
-    "published_at": "2026-08-07T04:12:54.000Z"
+    "published_at": "2026-08-07T08:00:05.000Z"
+  },
+  {
+    "headline": "Shopping’s Next Era: An Evening in New York City",
+    "summary": "Vogue Business and Swap invited fashion and beauty leaders to a dinner party at the Twenty Two to discuss where the future of shopping is heading.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/shoppings-next-era-an-evening-in-new-york-city",
+    "image_url": null,
+    "published_at": "2026-08-07T05:00:00.000Z"
+  },
+  {
+    "headline": "Less Perfect, More Practical: Diamonds’ New Path Forward",
+    "summary": "Thanks to a confluence of threats, the diamond industry is rethinking how it markets the precious stone.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/less-perfect-more-practical-diamonds-new-path-forward",
+    "image_url": null,
+    "published_at": "2026-08-07T04:30:00.000Z"
   },
   {
     "headline": "Ferran Torres on His World Cup-winning Goal, Fashion Ambitions and That Controversial Red Hat",
@@ -1580,22 +1596,6 @@
     "summary": "“The gloves are off,” said Michelle Feeney, the longtime beauty executive and founder of Floral Street fragrances, of retailers’ rush to build market share in a competitive landscape.",
     "publisher": "WWD",
     "url": "https://wwd.com/beauty-industry-news/beauty-features/boots-marks-spencer-ambitious-plans-beauty-uk-market-1239090166/",
-    "image_url": null,
-    "published_at": "2026-08-04T04:01:00.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Burberry Heads Back to the City for Fall Campaign",
-    "summary": "Building on Daniel Lee’s trench-led fall show, the campaign follows stylish London rush hour commuters through shifting weather.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/burberry-fall-2026-campaign-ludicrously-capacious-bag-1239091083/",
-    "image_url": null,
-    "published_at": "2026-08-04T04:01:00.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Manolo Blahnik Looks to a Stronger 2026 After a Tough Year for Luxury",
-    "summary": "The brand is relying less on wholesale, and has been investing in its own store network worldwide, especially in high-growth markets such as China.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/manolo-blahnik-stronger-2026-tough-year-saks-global-dollar-1239091419/",
     "image_url": null,
     "published_at": "2026-08-04T04:01:00.000Z"
   }
