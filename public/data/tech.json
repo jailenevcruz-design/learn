@@ -1,7 +1,7 @@
 [
   {
     "headline": "OpenAI says it slowed Astra model development over security concerns",
-    "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "image_url": null,
@@ -24,8 +24,8 @@
     "published_at": "2026-08-07T21:30:11.000Z"
   },
   {
-    "headline": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
-    "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+    "headline": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+    "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
     "image_url": null,
@@ -185,7 +185,7 @@
   },
   {
     "headline": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-    "summary": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+    "summary": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
     "image_url": null,
