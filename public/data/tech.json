@@ -1,5 +1,13 @@
 [
   {
+    "headline": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+    "summary": "X wants to make money on previously used handles. | Image: The Verge X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+    "image_url": null,
+    "published_at": "2026-08-08T21:15:12.000Z"
+  },
+  {
     "headline": "OpenAI acquires presentation startup NextSlide",
     "summary": "NextSlide says its team members are now working on ChatGPT.",
     "publisher": "TechCrunch",
@@ -1590,13 +1598,5 @@
     "url": "https://www.theverge.com/games/973166/big-walk-review",
     "image_url": null,
     "published_at": "2026-08-03T13:00:00.000Z"
-  },
-  {
-    "headline": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-    "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-    "image_url": null,
-    "published_at": "2026-08-03T12:50:46.000Z"
   }
 ]
