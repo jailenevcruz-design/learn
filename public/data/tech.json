@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Nitecore’s latest power bank is the lightest and most compact yet",
+    "summary": "The Nitecore NB10000 Gen 4 power bank is a great option for endurance athletes and backpackers. | Photo by Thomas Ricker / The Verge There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpa…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+    "image_url": null,
+    "published_at": "2026-08-08T07:00:00.000Z"
+  },
+  {
     "headline": "OpenAI says it slowed Astra model development over security concerns",
     "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
     "publisher": "TechCrunch",
@@ -1590,13 +1598,5 @@
     "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
     "image_url": null,
     "published_at": "2026-08-02T16:14:20.000Z"
-  },
-  {
-    "headline": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-    "image_url": null,
-    "published_at": "2026-08-02T16:05:00.000Z"
   }
 ]
