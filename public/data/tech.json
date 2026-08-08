@@ -1,5 +1,13 @@
 [
   {
+    "headline": "An Amazon data center could have the worst polluting power plant in the country",
+    "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "image_url": null,
+    "published_at": "2026-08-08T17:53:34.000Z"
+  },
+  {
     "headline": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
     "summary": "X is winding down its existing Revenue Sharing program.",
     "publisher": "TechCrunch",
@@ -1590,13 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
     "image_url": null,
     "published_at": "2026-08-03T12:10:41.000Z"
-  },
-  {
-    "headline": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-    "summary": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-    "image_url": null,
-    "published_at": "2026-08-03T11:01:11.000Z"
   }
 ]
