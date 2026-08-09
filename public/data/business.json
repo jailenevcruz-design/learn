@@ -1,11 +1,19 @@
 [
   {
-    "headline": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
-    "summary": "Verizon recommended that customers who are still impacted by the outage restart their devices. The company did not provide ⁠a reason for ⁠the outage.",
+    "headline": "Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot",
+    "summary": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analyst told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+    "image_url": null,
+    "published_at": "2026-08-09T05:00:01.000Z"
+  },
+  {
+    "headline": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+    "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
     "image_url": null,
-    "published_at": "2026-08-08T23:14:00.000Z"
+    "published_at": "2026-08-09T00:36:19.000Z"
   },
   {
     "headline": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/india-lic-stake-sale-discount.html",
     "image_url": null,
     "published_at": "2026-08-04T08:45:32.000Z"
-  },
-  {
-    "headline": "Apple will invest tariff refund into U.S. manufacturing",
-    "summary": "Apple says it's planning to invest its hefty tariff refund into U.S. manufacturing. That's a luxury many smaller companies can't afford.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/nx-s1-5918538/apple-will-invest-tariff-refund-into-u-s-manufacturing",
-    "image_url": null,
-    "published_at": "2026-08-04T08:40:57.000Z"
   }
 ]
