@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+    "summary": "Investors are closely monitoring earnings releases of AI companies amid concerns about the durability of high spending and demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
+    "image_url": null,
+    "published_at": "2026-08-09T12:01:56.000Z"
+  },
+  {
+    "headline": "Abel puts a big chunk of Berkshire's cash to work",
+    "summary": "In his second quarter as the new CEO of Berkshire Hathaway, Greg Abel did some serious spending, including $4.5 billion on buybacks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
+    "image_url": null,
+    "published_at": "2026-08-09T12:00:33.000Z"
+  },
+  {
+    "headline": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+    "image_url": null,
+    "published_at": "2026-08-09T11:31:42.000Z"
+  },
+  {
+    "headline": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
+    "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+    "image_url": null,
+    "published_at": "2026-08-09T11:23:00.000Z"
+  },
+  {
     "headline": "Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot",
     "summary": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analyst told CNBC.",
     "publisher": "CNBC",
@@ -96,18 +128,18 @@
     "published_at": "2026-08-08T12:04:15.000Z"
   },
   {
-    "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-    "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-    "image_url": null,
-    "published_at": "2026-08-08T12:00:01.000Z"
-  },
-  {
     "headline": "Cyclospora fears lead consumers to lose their appetite for salads",
     "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+    "image_url": null,
+    "published_at": "2026-08-08T12:00:01.000Z"
+  },
+  {
+    "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+    "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
     "image_url": null,
     "published_at": "2026-08-08T12:00:01.000Z"
   },
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
     "image_url": null,
     "published_at": "2026-08-04T12:05:41.000Z"
-  },
-  {
-    "headline": "The sneaky economics of healthwashing",
-    "summary": "Why food companies love labels like \"organic\" and \"high protein,\" why our brains are misled by them — and how to avoid paying extra for marketing.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
-    "image_url": null,
-    "published_at": "2026-08-04T10:30:00.000Z"
-  },
-  {
-    "headline": "Apple launches fresh legal challenge against UK encrypted data access demand",
-    "summary": "The filing comes a year on from the U.K. dropping an initial demand for access to British and American user data from Apple.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/apple-encrypted-data-legal-challenge-uk.html",
-    "image_url": null,
-    "published_at": "2026-08-04T10:15:27.000Z"
-  },
-  {
-    "headline": "Why Texas is betting 'Y'all Street' can take on Wall Street",
-    "summary": "Dallas' financial industry is growing amid a larger Texas business boom. But can it really steal New York's crown?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
-    "image_url": null,
-    "published_at": "2026-08-04T09:00:00.000Z"
-  },
-  {
-    "headline": "India to raise up to $3.3 billion by selling stake in country’s largest life insurer at 10% discount",
-    "summary": "Indian government plans to raise up to $3.3 billion by selling its stake in the country's top life insurance company.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/india-lic-stake-sale-discount.html",
-    "image_url": null,
-    "published_at": "2026-08-04T08:45:32.000Z"
   }
 ]
