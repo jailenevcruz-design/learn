@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Anthropic is turning Claude Code’s auto mode on by default",
+    "summary": "Programming with Claude Code will soon require even less human oversight.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "image_url": null,
+    "published_at": "2026-08-09T19:20:32.000Z"
+  },
+  {
     "headline": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
     "summary": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest ve…",
     "publisher": "The Verge",
@@ -1590,13 +1598,5 @@
     "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
     "image_url": null,
     "published_at": "2026-08-03T17:17:54.000Z"
-  },
-  {
-    "headline": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
-    "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
-    "image_url": null,
-    "published_at": "2026-08-03T17:16:43.000Z"
   }
 ]
