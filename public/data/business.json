@@ -1,19 +1,43 @@
 [
   {
+    "headline": "Trump says oil supermajors are making too much money. What will they do with it?",
+    "summary": "The windfall is fueling fresh political and environmental backlash, with Trump accusing Exxon Mobil and Chevron of making “too much money.”",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/oil-iran-war-profits-windfall-tax.html",
+    "image_url": null,
+    "published_at": "2026-08-10T05:00:02.000Z"
+  },
+  {
+    "headline": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
+    "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+    "image_url": null,
+    "published_at": "2026-08-10T04:24:45.000Z"
+  },
+  {
+    "headline": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+    "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+    "image_url": null,
+    "published_at": "2026-08-10T04:17:48.000Z"
+  },
+  {
+    "headline": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
+    "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+    "image_url": null,
+    "published_at": "2026-08-10T03:44:59.000Z"
+  },
+  {
     "headline": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
     "summary": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
     "image_url": null,
     "published_at": "2026-08-09T18:38:23.000Z"
-  },
-  {
-    "headline": "5 career ‘rules’ your parents taught you that are working against you, says expert—and what to do instead",
-    "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
-    "image_url": null,
-    "published_at": "2026-08-09T18:18:34.000Z"
   },
   {
     "headline": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/amd-earnings-are-a-key-test-for-chips-and-momentum-stocks-heres-what-the-options-market-is-saying.html",
     "image_url": null,
     "published_at": "2026-08-04T13:55:51.000Z"
-  },
-  {
-    "headline": "McDonald's says its U.S. business is falling short as it announces new head of its largest market",
-    "summary": "McDonald's stock has fallen more than 11% this year, dragging its market cap down to roughly $191 billion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-04T13:52:18.000Z"
-  },
-  {
-    "headline": "Foreigners are buying fewer U.S. properties, but luxury homebuilders still draw them in",
-    "summary": "Foreign buyers are pulling back sharply from U.S. residential real estate, in part due to a pullback among workers that would qualify for H-1B visas.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/foreign-buyers-us-properties.html",
-    "image_url": null,
-    "published_at": "2026-08-04T13:33:21.000Z"
-  },
-  {
-    "headline": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-    "summary": "The reports come after the company told CNBC in June that its annualized revenue was well above $1 billion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
-    "image_url": null,
-    "published_at": "2026-08-04T13:31:19.000Z"
   }
 ]
