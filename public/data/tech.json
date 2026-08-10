@@ -1,5 +1,29 @@
 [
   {
+    "headline": "The first rival Android app store just arrived in the US Play Store",
+    "summary": "Google appears to have prepared a dedicated section for third-party app stores within Google Play, and Aptoide is just the first. | Screenshot: Google Play Store Following the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital s…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
+    "image_url": null,
+    "published_at": "2026-08-10T11:30:32.000Z"
+  },
+  {
+    "headline": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+    "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it will work as a chatbot that…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+    "image_url": null,
+    "published_at": "2026-08-10T11:00:00.000Z"
+  },
+  {
+    "headline": "Space mirrors could ruin astronomy — and your eyes",
+    "summary": "Solar energy, at any time of day or night - that's the dream of space mirror projects. Futurists have been imagining satellite mirrors that could reflect the sun's light onto the Earth's surface for over a century. Russian scientists experimented with the concept in the '90s with the Znamya project. The idea is to put…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
+    "image_url": null,
+    "published_at": "2026-08-10T11:00:00.000Z"
+  },
+  {
     "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "summary": "The AI-focused hedge fund is still making some big bets.",
     "publisher": "TechCrunch",
@@ -121,7 +145,7 @@
   },
   {
     "headline": "An Amazon data center could have the worst polluting power plant in the country",
-    "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at…",
+    "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, a…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
     "image_url": null,
@@ -152,18 +176,18 @@
     "published_at": "2026-08-08T15:47:30.000Z"
   },
   {
-    "headline": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-    "summary": "Tom, we can’t see your face. | Image: Tom Vek Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV sou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-    "image_url": null,
-    "published_at": "2026-08-08T15:00:00.000Z"
-  },
-  {
     "headline": "Google’s top hacker hunter explains why hacking groups get codenames",
     "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    "image_url": null,
+    "published_at": "2026-08-08T15:00:00.000Z"
+  },
+  {
+    "headline": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+    "summary": "Tom, we can’t see your face. | Image: Tom Vek Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV sou…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
     "image_url": null,
     "published_at": "2026-08-08T15:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
     "image_url": null,
     "published_at": "2026-08-03T18:54:09.000Z"
-  },
-  {
-    "headline": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-    "image_url": null,
-    "published_at": "2026-08-03T18:43:43.000Z"
-  },
-  {
-    "headline": "Outernet turns your saved posts into real-world adventures",
-    "summary": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actually go.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
-    "image_url": null,
-    "published_at": "2026-08-03T18:00:24.000Z"
-  },
-  {
-    "headline": "WhatsApp says it is fixing an issue that disabled several accounts",
-    "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
-    "image_url": null,
-    "published_at": "2026-08-03T17:46:01.000Z"
   }
 ]

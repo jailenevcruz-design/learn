@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Australian rare earth miner surges after U.S. Department of Defense investment",
+    "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical minerals dominance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
+    "image_url": null,
+    "published_at": "2026-08-10T11:32:15.000Z"
+  },
+  {
+    "headline": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
+    "summary": "The AI lab said it could not rule out a new model had reached \"Critical\" capability, meaning it could launch cyberattacks against sophisticated cyber defenses.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html",
+    "image_url": null,
+    "published_at": "2026-08-10T11:04:50.000Z"
+  },
+  {
+    "headline": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
+    "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+    "image_url": null,
+    "published_at": "2026-08-10T11:00:01.000Z"
+  },
+  {
+    "headline": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
+    "summary": "Shein has won over consumers with its low prices but is now seeing shoppers flee after new tariffs and changing regulations forced it to raise prices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
+    "image_url": null,
+    "published_at": "2026-08-10T11:00:01.000Z"
+  },
+  {
     "headline": "Santoli: Stocks return to their winning ways. But was July's brief pain enough to satisfy the market gods?",
     "summary": "The stock market's winning history – a hit rate of 100% over any past 20-year span - is well understood. But investors recognize – or need to – the genuine hazard in equities.",
     "publisher": "CNBC",
@@ -30,14 +62,6 @@
     "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
     "image_url": null,
     "published_at": "2026-08-10T09:33:31.000Z"
-  },
-  {
-    "headline": "Australian rare earth miner surges after U.S. Department of War investment",
-    "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
-    "image_url": null,
-    "published_at": "2026-08-10T08:36:11.000Z"
   },
   {
     "headline": "Treasury yields inch lower as investors look ahead to key inflation data",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html",
     "image_url": null,
     "published_at": "2026-08-04T16:34:05.000Z"
-  },
-  {
-    "headline": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-    "summary": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-    "image_url": null,
-    "published_at": "2026-08-04T16:14:49.000Z"
-  },
-  {
-    "headline": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
-    "summary": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared with 2025.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
-    "image_url": null,
-    "published_at": "2026-08-04T16:04:43.000Z"
-  },
-  {
-    "headline": "Wayfair stock jumps more than 25% as retailer posts strongest U.S. growth since 2020",
-    "summary": "Wayfair, a pandemic darling that's seen sales slow since lockdown orders were lifted, posted its strongest U.S. growth since 2020 during its second quarter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-04T15:36:45.000Z"
   }
 ]
