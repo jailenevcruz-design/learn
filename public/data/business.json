@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
+    "summary": "The order builds on the Trump administration's efforts to reshape the childhood shot schedule under HHS Secretary RFK Jr., a longtime a vaccine skeptic.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
+    "image_url": null,
+    "published_at": "2026-08-10T19:39:47.000Z"
+  },
+  {
+    "headline": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal",
+    "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not come anytime soon.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+    "image_url": null,
+    "published_at": "2026-08-10T19:26:30.000Z"
+  },
+  {
+    "headline": "Meta's latest model advances Zuckerberg's vision for personal AI assistants",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html",
+    "image_url": null,
+    "published_at": "2026-08-10T19:09:56.000Z"
+  },
+  {
+    "headline": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
+    "summary": "The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+    "image_url": null,
+    "published_at": "2026-08-10T18:58:47.000Z"
+  },
+  {
+    "headline": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+    "summary": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+    "image_url": null,
+    "published_at": "2026-08-10T18:46:43.000Z"
+  },
+  {
+    "headline": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve",
+    "summary": "The company introduced Daybreak in May as a way for its ecosystem partners to use its most advanced AI models to adapt to a rapidly changing threat landscape.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/open-ai-daybreak-cybersecurity.html",
+    "image_url": null,
+    "published_at": "2026-08-10T18:43:17.000Z"
+  },
+  {
+    "headline": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
+    "summary": "U.S. presidents have increasingly ordered massive releases from the SPR in recent years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
+    "image_url": null,
+    "published_at": "2026-08-10T18:43:06.000Z"
+  },
+  {
     "headline": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
     "summary": "Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.",
     "publisher": "CNBC",
@@ -30,14 +86,6 @@
     "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
     "image_url": null,
     "published_at": "2026-08-10T17:49:27.000Z"
-  },
-  {
-    "headline": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
-    "summary": "U.S. presidents have increasingly ordered massive releases from the SPR in recent years.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
-    "image_url": null,
-    "published_at": "2026-08-10T17:33:34.000Z"
   },
   {
     "headline": "Cyclospora fears lead consumers to lose their appetite for salads",
@@ -94,14 +142,6 @@
     "url": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
     "image_url": null,
     "published_at": "2026-08-10T15:06:58.000Z"
-  },
-  {
-    "headline": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
-    "summary": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
-    "image_url": null,
-    "published_at": "2026-08-10T15:03:24.000Z"
   },
   {
     "headline": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
@@ -206,14 +246,6 @@
     "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
     "image_url": null,
     "published_at": "2026-08-10T07:44:33.000Z"
-  },
-  {
-    "headline": "Oil prices choppy amid uncertainty over U.S.-Iran Strait of Hormuz deal",
-    "summary": "Oil was mixed as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
-    "image_url": null,
-    "published_at": "2026-08-10T06:34:31.000Z"
   },
   {
     "headline": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
     "image_url": null,
     "published_at": "2026-08-04T22:47:43.000Z"
-  },
-  {
-    "headline": "Pinterest shares fall on lukewarm sales guidance",
-    "summary": "Pinterest reported better-than-expected earnings and revenue for the second quarter, though its forecast was online in line with estimates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/pinterest-pins-q2-earnings-report-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-04T22:45:26.000Z"
-  },
-  {
-    "headline": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-    "summary": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
-    "image_url": null,
-    "published_at": "2026-08-04T22:22:22.000Z"
-  },
-  {
-    "headline": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down",
-    "summary": "AMD's data center unit is driving the company's growth, up 107% over last year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-04T22:09:17.000Z"
-  },
-  {
-    "headline": "Sen. Susan Collins will oppose Blanche, a critical blow for Trump's AG pick",
-    "summary": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
-    "image_url": null,
-    "published_at": "2026-08-04T22:09:14.000Z"
   }
 ]
