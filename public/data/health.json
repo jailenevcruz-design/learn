@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Trump and RFK Jr. try again to upend vaccines for kids",
+    "summary": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
+    "image_url": null,
+    "published_at": "2026-08-10T20:25:02.000Z"
+  },
+  {
     "headline": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
     "summary": "Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they'd like to work more, but risk losing their Medicaid coverage if they earn too much.",
     "publisher": "NPR",
@@ -72,18 +80,18 @@
     "published_at": "2026-08-07T11:36:33.000Z"
   },
   {
-    "headline": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-    "summary": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-    "image_url": null,
-    "published_at": "2026-08-07T10:00:00.000Z"
-  },
-  {
     "headline": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
     "summary": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+    "image_url": null,
+    "published_at": "2026-08-07T10:00:00.000Z"
+  },
+  {
+    "headline": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+    "summary": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
     "image_url": null,
     "published_at": "2026-08-07T10:00:00.000Z"
   },

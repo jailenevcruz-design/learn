@@ -1,11 +1,51 @@
 [
   {
+    "headline": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
+    "summary": "The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+    "image_url": null,
+    "published_at": "2026-08-10T21:28:18.000Z"
+  },
+  {
+    "headline": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
+    "summary": "The president said he had recently been in touch with the Fed chairman, but denied regular contact amid concerns about central bank independence.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html",
+    "image_url": null,
+    "published_at": "2026-08-10T21:23:04.000Z"
+  },
+  {
     "headline": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
-    "summary": "The order builds on the Trump administration's efforts to reshape the childhood shot schedule under HHS Secretary RFK Jr., a longtime a vaccine skeptic.",
+    "summary": "The order builds on the Trump administration's efforts to reshape the childhood shot schedule under HHS Secretary RFK Jr., a longtime vaccine skeptic.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
     "image_url": null,
-    "published_at": "2026-08-10T19:39:47.000Z"
+    "published_at": "2026-08-10T20:51:17.000Z"
+  },
+  {
+    "headline": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
+    "summary": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the eVTOL startup.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+    "image_url": null,
+    "published_at": "2026-08-10T20:11:09.000Z"
+  },
+  {
+    "headline": "SpaceX stock rebounds, closing above $135 IPO price for first time in weeks",
+    "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
+    "image_url": null,
+    "published_at": "2026-08-10T20:08:55.000Z"
+  },
+  {
+    "headline": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
+    "summary": "The industry's annual Black Hat conference renewed demand for AI-powered cybersecurity tools",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
+    "image_url": null,
+    "published_at": "2026-08-10T20:03:39.000Z"
   },
   {
     "headline": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal",
@@ -16,20 +56,20 @@
     "published_at": "2026-08-10T19:26:30.000Z"
   },
   {
+    "headline": "Trump extends limited waiver of shipping law to keep oil flowing in U.S. amid Iran war",
+    "summary": "The Jones Act waiver extension comes after the Trump administration's latest signs of a deal to reopen the Strait of Hormuz failed to materialize.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/trump-iran-oil-jones-act-shipping.html",
+    "image_url": null,
+    "published_at": "2026-08-10T19:15:29.000Z"
+  },
+  {
     "headline": "Meta's latest model advances Zuckerberg's vision for personal AI assistants",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html",
     "image_url": null,
     "published_at": "2026-08-10T19:09:56.000Z"
-  },
-  {
-    "headline": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
-    "summary": "The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-    "image_url": null,
-    "published_at": "2026-08-10T18:58:47.000Z"
   },
   {
     "headline": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
@@ -80,28 +120,12 @@
     "published_at": "2026-08-10T18:06:55.000Z"
   },
   {
-    "headline": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
-    "summary": "The industry's annual Black Hat conference renewed demand for AI-powered cybersecurity tools",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
-    "image_url": null,
-    "published_at": "2026-08-10T17:49:27.000Z"
-  },
-  {
     "headline": "Cyclospora fears lead consumers to lose their appetite for salads",
     "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
     "image_url": null,
     "published_at": "2026-08-10T17:23:17.000Z"
-  },
-  {
-    "headline": "SpaceX stock rebounds to near $135 IPO price",
-    "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
-    "image_url": null,
-    "published_at": "2026-08-10T17:20:14.000Z"
   },
   {
     "headline": "Wednesday’s crucial CPI report will show tamer inflation, according to prediction markets",
@@ -158,14 +182,6 @@
     "url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
     "image_url": null,
     "published_at": "2026-08-10T14:20:35.000Z"
-  },
-  {
-    "headline": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
-    "summary": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the eVTOL startup.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
-    "image_url": null,
-    "published_at": "2026-08-10T14:16:24.000Z"
   },
   {
     "headline": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
     "image_url": null,
     "published_at": "2026-08-05T01:43:06.000Z"
-  },
-  {
-    "headline": "Europe's heatwave isn't cooling Asian travelers' holiday plans for the continent",
-    "summary": "Asian travelers' appetite for Europe remains resilient despite record-breaking heat, with spending in Northern Europe projected to increase.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/europe-heatwave-travel-demand-asia.html",
-    "image_url": null,
-    "published_at": "2026-08-04T23:27:44.000Z"
-  },
-  {
-    "headline": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
-    "summary": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
-    "image_url": null,
-    "published_at": "2026-08-04T22:47:43.000Z"
   }
 ]
