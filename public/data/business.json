@@ -1,11 +1,67 @@
 [
   {
-    "headline": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
-    "summary": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
+    "headline": "Interest rates may stay higher for longer. What that means for consumers",
+    "summary": "Any move toward higher rates would increase borrowing costs for consumers at a time when affordability pressures are already mounting.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+    "url": "https://www.cnbc.com/2026/08/10/fed-rate-hike-prospects-higher-interest-rates.html",
     "image_url": null,
-    "published_at": "2026-08-10T12:23:11.000Z"
+    "published_at": "2026-08-10T16:10:05.000Z"
+  },
+  {
+    "headline": "Gold just had its best week in 7 months. Here’s why Mike Khouw is buying more",
+    "summary": "Gold logged its best weekly gain in seven months driven by several forces.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/gold-just-had-its-best-week-in-7-months-heres-why-mike-khouw-is-buying-more.html",
+    "image_url": null,
+    "published_at": "2026-08-10T16:09:32.000Z"
+  },
+  {
+    "headline": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
+    "summary": "",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
+    "image_url": null,
+    "published_at": "2026-08-10T16:04:30.000Z"
+  },
+  {
+    "headline": "Why we like Boeing's latest deal — plus, what to expect from this rebounding health stock",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/we-like-boeings-archer-deal-plus-what-to-expect-from-this-health-stock.html",
+    "image_url": null,
+    "published_at": "2026-08-10T15:59:14.000Z"
+  },
+  {
+    "headline": "SpaceX stock rebounds to near $135 IPO price",
+    "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
+    "image_url": null,
+    "published_at": "2026-08-10T15:40:03.000Z"
+  },
+  {
+    "headline": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
+    "summary": "Nearly two-thirds of Trump’s foreign licensing fees came from two Gulf developers, in the UAE and Qatar, including one pursuing a $20 billion U.S. expansion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
+    "image_url": null,
+    "published_at": "2026-08-10T15:06:58.000Z"
+  },
+  {
+    "headline": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+    "summary": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+    "image_url": null,
+    "published_at": "2026-08-10T15:03:24.000Z"
+  },
+  {
+    "headline": "Intel plans $15 billion stock offering as AI demand accelerates",
+    "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+    "image_url": null,
+    "published_at": "2026-08-10T14:31:41.000Z"
   },
   {
     "headline": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
@@ -13,7 +69,47 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
     "image_url": null,
-    "published_at": "2026-08-10T12:19:47.000Z"
+    "published_at": "2026-08-10T14:27:15.000Z"
+  },
+  {
+    "headline": "Does spending money make you feel bad? Read this comic",
+    "summary": "If spending — or not spending — money makes you feel shame or regret, you might be grappling with financial guilt. Financial planner Lauryn Williams breaks down three types and how to deal.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
+    "image_url": null,
+    "published_at": "2026-08-10T14:20:35.000Z"
+  },
+  {
+    "headline": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
+    "summary": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the eVTOL startup.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+    "image_url": null,
+    "published_at": "2026-08-10T14:16:24.000Z"
+  },
+  {
+    "headline": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
+    "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+    "image_url": null,
+    "published_at": "2026-08-10T14:06:08.000Z"
+  },
+  {
+    "headline": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
+    "summary": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
+    "image_url": null,
+    "published_at": "2026-08-10T13:39:56.000Z"
+  },
+  {
+    "headline": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+    "summary": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+    "image_url": null,
+    "published_at": "2026-08-10T12:40:36.000Z"
   },
   {
     "headline": "Student loan borrowers face steeper 'marriage penalty' under new repayment plan",
@@ -24,12 +120,12 @@
     "published_at": "2026-08-10T12:15:01.000Z"
   },
   {
-    "headline": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
-    "summary": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for an undisclosed stake in the eVTOL startup.",
+    "headline": "Santoli: Stocks return to winning ways. Why the market gods may not be satisfied with July's brief pain",
+    "summary": "The stock market's winning history – a hit rate of 100% over any past 20-year span - is well understood. But investors recognize – or need to – the genuine hazard in equities.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+    "url": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
     "image_url": null,
-    "published_at": "2026-08-10T12:03:25.000Z"
+    "published_at": "2026-08-10T11:45:50.000Z"
   },
   {
     "headline": "Australian rare earth miner surges after U.S. Department of Defense investment",
@@ -54,38 +150,6 @@
     "url": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
     "image_url": null,
     "published_at": "2026-08-10T11:00:01.000Z"
-  },
-  {
-    "headline": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
-    "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
-    "image_url": null,
-    "published_at": "2026-08-10T11:00:01.000Z"
-  },
-  {
-    "headline": "Santoli: Stocks return to their winning ways. But was July's brief pain enough to satisfy the market gods?",
-    "summary": "The stock market's winning history – a hit rate of 100% over any past 20-year span - is well understood. But investors recognize – or need to – the genuine hazard in equities.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
-    "image_url": null,
-    "published_at": "2026-08-10T10:43:38.000Z"
-  },
-  {
-    "headline": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
-    "summary": "Nearly two-thirds of Trump’s foreign licensing fees came from two Gulf developers, in the UAE and Qatar, including one pursuing a $20 billion U.S. expansion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
-    "image_url": null,
-    "published_at": "2026-08-10T10:30:01.000Z"
-  },
-  {
-    "headline": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
-    "summary": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
-    "image_url": null,
-    "published_at": "2026-08-10T10:29:27.000Z"
   },
   {
     "headline": "Treasury yields inch lower as investors look ahead to key inflation data",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html",
     "image_url": null,
     "published_at": "2026-08-04T21:11:05.000Z"
-  },
-  {
-    "headline": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
-    "summary": "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
-    "image_url": null,
-    "published_at": "2026-08-04T20:13:38.000Z"
-  },
-  {
-    "headline": "Palantir stock skyrockets 29%, narrowly missing its best day ever after 'otherworldly' results",
-    "summary": "\"Our customers have declined to become vassal states of the language labs,\" Palantir's co-founder and CEO Alex Karp said after blowout second-quarter earnings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
-    "image_url": null,
-    "published_at": "2026-08-04T20:04:32.000Z"
-  },
-  {
-    "headline": "TikTok users are sharing the items they say are always worth the money—here's what financial planners say",
-    "summary": "Financial planners weigh in on a recent trend on TikTok that has users sharing the items they swear are always worth the money.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/worth-the-money-financial-planners.html",
-    "image_url": null,
-    "published_at": "2026-08-04T19:00:01.000Z"
-  },
-  {
-    "headline": "Oil prices tumble after Bessent says Strait of Hormuz deal may come this week",
-    "summary": "Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz would allow freedom of navigation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html",
-    "image_url": null,
-    "published_at": "2026-08-04T18:54:56.000Z"
-  },
-  {
-    "headline": "An overlooked player in data center buildout delivers once again",
-    "summary": "Not only did results outpace expectations on both the top and bottom lines, but we also got a boost to full-year guidance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/an-overlooked-player-in-data-center-buildout-delivers-once-again-.html",
-    "image_url": null,
-    "published_at": "2026-08-04T18:31:49.000Z"
-  },
-  {
-    "headline": "Bessent says U.S. backed Japan’s yen intervention to help stabilize Asia",
-    "summary": "Treasury Secretary Scott Bessent said the U.S. bought yen alongside Japan to curb currency volatility and reduce risks to Asian markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/bessent-us-japan-yen-currency-intervention.html",
-    "image_url": null,
-    "published_at": "2026-08-04T18:24:47.000Z"
-  },
-  {
-    "headline": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
-    "summary": "\"We are in talks with the Iranians,\" the Treasury secretary told CNBC's \"Squawk Box.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
-    "image_url": null,
-    "published_at": "2026-08-04T17:59:19.000Z"
-  },
-  {
-    "headline": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
-    "summary": "Paulson said voting with the majority last week wasn't a tough decision.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
-    "image_url": null,
-    "published_at": "2026-08-04T17:49:24.000Z"
   }
 ]
