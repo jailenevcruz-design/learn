@@ -1,11 +1,43 @@
 [
   {
+    "headline": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+    "summary": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+    "image_url": null,
+    "published_at": "2026-08-10T12:23:11.000Z"
+  },
+  {
+    "headline": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
+    "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+    "image_url": null,
+    "published_at": "2026-08-10T12:19:47.000Z"
+  },
+  {
+    "headline": "Student loan borrowers face steeper 'marriage penalty' under new repayment plan",
+    "summary": "Recent changes to the federal student loan system could impact married couples. Here's what borrowers should consider.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/student-loan-marriage-penalty-rap.html",
+    "image_url": null,
+    "published_at": "2026-08-10T12:15:01.000Z"
+  },
+  {
+    "headline": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
+    "summary": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for an undisclosed stake in the eVTOL startup.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+    "image_url": null,
+    "published_at": "2026-08-10T12:03:25.000Z"
+  },
+  {
     "headline": "Australian rare earth miner surges after U.S. Department of Defense investment",
     "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical minerals dominance.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
     "image_url": null,
-    "published_at": "2026-08-10T11:32:15.000Z"
+    "published_at": "2026-08-10T11:44:14.000Z"
   },
   {
     "headline": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
@@ -16,18 +48,18 @@
     "published_at": "2026-08-10T11:04:50.000Z"
   },
   {
-    "headline": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
-    "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
-    "image_url": null,
-    "published_at": "2026-08-10T11:00:01.000Z"
-  },
-  {
     "headline": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
     "summary": "Shein has won over consumers with its low prices but is now seeing shoppers flee after new tariffs and changing regulations forced it to raise prices.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
+    "image_url": null,
+    "published_at": "2026-08-10T11:00:01.000Z"
+  },
+  {
+    "headline": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
+    "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
     "image_url": null,
     "published_at": "2026-08-10T11:00:01.000Z"
   },
@@ -54,14 +86,6 @@
     "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
     "image_url": null,
     "published_at": "2026-08-10T10:29:27.000Z"
-  },
-  {
-    "headline": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-    "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
-    "image_url": null,
-    "published_at": "2026-08-10T09:33:31.000Z"
   },
   {
     "headline": "Treasury yields inch lower as investors look ahead to key inflation data",
@@ -264,18 +288,18 @@
     "published_at": "2026-08-08T13:00:01.000Z"
   },
   {
-    "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-    "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-    "image_url": null,
-    "published_at": "2026-08-08T12:00:01.000Z"
-  },
-  {
     "headline": "Cyclospora fears lead consumers to lose their appetite for salads",
     "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+    "image_url": null,
+    "published_at": "2026-08-08T12:00:01.000Z"
+  },
+  {
+    "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+    "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
     "image_url": null,
     "published_at": "2026-08-08T12:00:01.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
     "image_url": null,
     "published_at": "2026-08-04T17:49:24.000Z"
-  },
-  {
-    "headline": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
-    "summary": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-04T17:09:37.000Z"
-  },
-  {
-    "headline": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
-    "summary": "P&G CEO Shailesh Jejurikar said the acquisition is a play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
-    "image_url": null,
-    "published_at": "2026-08-04T17:02:05.000Z"
-  },
-  {
-    "headline": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors",
-    "summary": "The complaint alleges Amazon's third-party delivery model leads to lower wages, unfair working conditions and a lack of competition.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html",
-    "image_url": null,
-    "published_at": "2026-08-04T16:34:05.000Z"
   }
 ]

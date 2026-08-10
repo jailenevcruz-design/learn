@@ -1,5 +1,29 @@
 [
   {
+    "headline": "This great retro-inspired keyboard now comes preassembled",
+    "summary": "“Where’s the number pad?” The number pad is holding you back. | Photo: Amelia Holowaty Krales / The Verge You probably know just by looking at it if the Classic-TKL Underscore Edition is for you. Do you want a retro-looking wired keyboard without a number pad? Great. Do you care that it doesn't have wireless? Perfect.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review",
+    "image_url": null,
+    "published_at": "2026-08-10T12:00:00.000Z"
+  },
+  {
+    "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "image_url": null,
+    "published_at": "2026-08-10T12:00:00.000Z"
+  },
+  {
+    "headline": "Google Play adds Venmo as a payment option",
+    "summary": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+    "image_url": null,
+    "published_at": "2026-08-10T12:00:00.000Z"
+  },
+  {
     "headline": "The first rival Android app store just arrived in the US Play Store",
     "summary": "Google appears to have prepared a dedicated section for third-party app stores within Google Play, and Aptoide is just the first. | Screenshot: Google Play Store Following the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital s…",
     "publisher": "The Verge",
@@ -1574,29 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
     "image_url": null,
     "published_at": "2026-08-03T19:45:35.000Z"
-  },
-  {
-    "headline": "Design Arena creators raise $7.9 million to bring taste to AI models",
-    "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "image_url": null,
-    "published_at": "2026-08-03T19:28:57.000Z"
-  },
-  {
-    "headline": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "image_url": null,
-    "published_at": "2026-08-03T19:09:56.000Z"
-  },
-  {
-    "headline": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-    "summary": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
-    "image_url": null,
-    "published_at": "2026-08-03T18:54:09.000Z"
   }
 ]
