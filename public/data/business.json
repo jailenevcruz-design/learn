@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
+    "summary": "Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+    "image_url": null,
+    "published_at": "2026-08-10T18:36:26.000Z"
+  },
+  {
+    "headline": "Intel plans $15 billion stock offering as AI demand accelerates",
+    "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+    "image_url": null,
+    "published_at": "2026-08-10T18:20:44.000Z"
+  },
+  {
+    "headline": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
+    "summary": "Jefferies analyst Edison Lee cited supply chain checks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/dont-let-a-wall-street-analysts-downgrade-of-apple-scare-you-out-of-the-stock.html",
+    "image_url": null,
+    "published_at": "2026-08-10T18:06:55.000Z"
+  },
+  {
+    "headline": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
+    "summary": "The industry's annual Black Hat conference renewed demand for AI-powered cybersecurity tools",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
+    "image_url": null,
+    "published_at": "2026-08-10T17:49:27.000Z"
+  },
+  {
+    "headline": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
+    "summary": "U.S. presidents have increasingly ordered massive releases from the SPR in recent years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
+    "image_url": null,
+    "published_at": "2026-08-10T17:33:34.000Z"
+  },
+  {
+    "headline": "Cyclospora fears lead consumers to lose their appetite for salads",
+    "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+    "image_url": null,
+    "published_at": "2026-08-10T17:23:17.000Z"
+  },
+  {
+    "headline": "SpaceX stock rebounds to near $135 IPO price",
+    "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
+    "image_url": null,
+    "published_at": "2026-08-10T17:20:14.000Z"
+  },
+  {
+    "headline": "Wednesday’s crucial CPI report will show tamer inflation, according to prediction markets",
+    "summary": "Monday's odds on prediction market platform Kalshi show tamer inflation and little chance of exceeding economists' consensus for July.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/crucial-cpi-report-will-show-tame-inflation-prediction-markets-show.html",
+    "image_url": null,
+    "published_at": "2026-08-10T16:42:04.000Z"
+  },
+  {
     "headline": "Interest rates may stay higher for longer. What that means for consumers",
     "summary": "Any move toward higher rates would increase borrowing costs for consumers at a time when affordability pressures are already mounting.",
     "publisher": "CNBC",
@@ -16,28 +80,12 @@
     "published_at": "2026-08-10T16:09:32.000Z"
   },
   {
-    "headline": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
-    "summary": "",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
-    "image_url": null,
-    "published_at": "2026-08-10T16:04:30.000Z"
-  },
-  {
     "headline": "Why we like Boeing's latest deal — plus, what to expect from this rebounding health stock",
     "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/10/we-like-boeings-archer-deal-plus-what-to-expect-from-this-health-stock.html",
     "image_url": null,
     "published_at": "2026-08-10T15:59:14.000Z"
-  },
-  {
-    "headline": "SpaceX stock rebounds to near $135 IPO price",
-    "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
-    "image_url": null,
-    "published_at": "2026-08-10T15:40:03.000Z"
   },
   {
     "headline": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
@@ -54,14 +102,6 @@
     "url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
     "image_url": null,
     "published_at": "2026-08-10T15:03:24.000Z"
-  },
-  {
-    "headline": "Intel plans $15 billion stock offering as AI demand accelerates",
-    "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-    "image_url": null,
-    "published_at": "2026-08-10T14:31:41.000Z"
   },
   {
     "headline": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
@@ -350,14 +390,6 @@
     "url": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
     "image_url": null,
     "published_at": "2026-08-08T13:00:01.000Z"
-  },
-  {
-    "headline": "Cyclospora fears lead consumers to lose their appetite for salads",
-    "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-    "image_url": null,
-    "published_at": "2026-08-08T12:00:01.000Z"
   },
   {
     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
     "image_url": null,
     "published_at": "2026-08-04T22:09:14.000Z"
-  },
-  {
-    "headline": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
-    "summary": "On their first earnings call since SpaceX's June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
-    "image_url": null,
-    "published_at": "2026-08-04T22:02:03.000Z"
-  },
-  {
-    "headline": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
-    "summary": "\"I continue to believe it is possible we are near a major top, and possible a 1987-type fall,\" Burry said in a Tuesday Substack post.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
-    "image_url": null,
-    "published_at": "2026-08-04T21:39:30.000Z"
-  },
-  {
-    "headline": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
-    "summary": "Paramount Skydance reported second-quarter earnings after the bell and said it continues to prepare for its proposed merger with Warner Bros. Discovery.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-04T21:15:03.000Z"
-  },
-  {
-    "headline": "The stock market soars. 5 reasons behind the big surge Tuesday",
-    "summary": "The Dow had its best day in nearly two months and the S&P 500 rose to new highs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html",
-    "image_url": null,
-    "published_at": "2026-08-04T21:11:05.000Z"
   }
 ]

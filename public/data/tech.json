@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Aptoide becomes the first rival app store to return to Google Play in the US",
+    "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+    "image_url": null,
+    "published_at": "2026-08-10T18:31:54.000Z"
+  },
+  {
+    "headline": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+    "summary": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+    "image_url": null,
+    "published_at": "2026-08-10T18:30:33.000Z"
+  },
+  {
+    "headline": "YouTube now requires creators to have twice as many watch hours to start earning money",
+    "summary": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+    "image_url": null,
+    "published_at": "2026-08-10T18:27:44.000Z"
+  },
+  {
+    "headline": "Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
+    "summary": "Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+    "image_url": null,
+    "published_at": "2026-08-10T18:00:39.000Z"
+  },
+  {
+    "headline": "What to expect from Google’s 2026 Pixel hardware launch event",
+    "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and pe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+    "image_url": null,
+    "published_at": "2026-08-10T17:30:00.000Z"
+  },
+  {
+    "headline": "YouTube is making it harder to earn money on YouTube",
+    "summary": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified Shorts views in the last 90 days. That's a sizeable jump from YouTube's current require…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
+    "image_url": null,
+    "published_at": "2026-08-10T17:26:46.000Z"
+  },
+  {
     "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
     "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
     "publisher": "TechCrunch",
@@ -9,7 +57,7 @@
   },
   {
     "headline": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
-    "summary": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State.",
+    "summary": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
     "image_url": null,
@@ -193,7 +241,7 @@
   },
   {
     "headline": "The AI safety test is becoming a safety risk",
-    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
     "image_url": null,
@@ -232,8 +280,8 @@
     "published_at": "2026-08-09T12:00:00.000Z"
   },
   {
-    "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+    "headline": "Planned Amazon data center could become the biggest climate polluter in the US",
+    "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "image_url": null,
@@ -249,7 +297,7 @@
   },
   {
     "headline": "OpenAI acquires presentation startup NextSlide",
-    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "image_url": null,
@@ -1550,53 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
     "image_url": null,
     "published_at": "2026-08-04T13:52:58.000Z"
-  },
-  {
-    "headline": "India moves to give its instant payments network a business model",
-    "summary": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
-    "image_url": null,
-    "published_at": "2026-08-04T13:31:17.000Z"
-  },
-  {
-    "headline": "Is the future of data centers portable? Runware builds a pod to find out",
-    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "image_url": null,
-    "published_at": "2026-08-04T13:00:00.000Z"
-  },
-  {
-    "headline": "Peak Design’s latest bags have clever integrated hooks",
-    "summary": "Peak Design’s BagLev hook tucks away inside a pocket when not in use. | Image: Peak Design Peak Design's new City Line collection includes six lightweight bags designed for everyday carry. There's a 15-liter and 22L City Backpack, 15L City Tote, 6L and 12L City Crescent crossbody bags, and 2L City Sling. All are availa…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/973624/peak-design-city-line-details-price",
-    "image_url": null,
-    "published_at": "2026-08-04T13:00:00.000Z"
-  },
-  {
-    "headline": "Nothing CMF is launching its first open earbuds",
-    "summary": "You get three color options to choose from, each with a coordinating charging case. | Image: Nothing Open earbuds are having a bit of a moment right now, and Nothing is the latest company jumping on the trend. Its budget sub-brand has introduced the CMF Clip Pro, CMF's first open earbuds that are designed to provide co…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/974933/nothing-cmf-clip-pro-open-ear-buds-price-launch",
-    "image_url": null,
-    "published_at": "2026-08-04T13:00:00.000Z"
-  },
-  {
-    "headline": "Apple briefly yanked Telegram from the App Store over CSAM violations",
-    "summary": "Telegram is back on the App Store after Apple briefly removed it on Monday night over concerns about child sexual abuse material (CSAM). In a statement to Bloomberg's Mark Gurman, Apple says a review found that Telegram \"violates our strict guidelines prohibiting child sexual abuse material,\" adding that it restored th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/974951/telegram-apple-app-store-removed",
-    "image_url": null,
-    "published_at": "2026-08-04T12:57:43.000Z"
-  },
-  {
-    "headline": "EON wants to move the data superhighway from ocean fiber to space lasers",
-    "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-    "image_url": null,
-    "published_at": "2026-08-04T12:00:00.000Z"
   }
 ]
