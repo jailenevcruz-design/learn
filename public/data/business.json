@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Australian rare earth miner surges after U.S. Department of War investment",
+    "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
+    "image_url": null,
+    "published_at": "2026-08-10T08:36:11.000Z"
+  },
+  {
+    "headline": "Treasury yields inch lower as investors look ahead to key inflation data",
+    "summary": "U.S. Treasury yields inched lower at the start of the week as investors look ahead to a busy week of economic data, particularly key inflation data.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/us-treasury-yields-investors-eye-key-inflation-data-.html",
+    "image_url": null,
+    "published_at": "2026-08-10T08:11:27.000Z"
+  },
+  {
+    "headline": "The space boom has created a giant mess. Now startups want to clean it up",
+    "summary": "As Earth’s orbit gets more crowded, companies are betting that cleaning up space junk could become a lucrative new business.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
+    "image_url": null,
+    "published_at": "2026-08-10T07:44:33.000Z"
+  },
+  {
     "headline": "Oil prices choppy amid uncertainty over U.S.-Iran Strait of Hormuz deal",
     "summary": "Oil was mixed as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.",
     "publisher": "CNBC",
@@ -190,14 +214,6 @@
     "url": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
     "image_url": null,
     "published_at": "2026-08-08T13:00:01.000Z"
-  },
-  {
-    "headline": "How cleaning up space debris could grow to become a big business",
-    "summary": "As Earth’s orbit gets more crowded, companies are betting that cleaning up space junk could become a lucrative new business.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
-    "image_url": null,
-    "published_at": "2026-08-08T12:04:15.000Z"
   },
   {
     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/04/trump-election-republicans-democrats-communist.html",
     "image_url": null,
     "published_at": "2026-08-04T14:16:25.000Z"
-  },
-  {
-    "headline": "Someone on Wall Street thinks SpaceX could triple this week",
-    "summary": "SpaceX reports its first earnings results since its June IPO Tuesday after the bell.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/someone-on-wall-street-thinks-spacex-could-triple-this-week.html",
-    "image_url": null,
-    "published_at": "2026-08-04T14:05:01.000Z"
-  },
-  {
-    "headline": "AMD earnings are a key test for chips and momentum stocks. Here's what the options market is saying",
-    "summary": "As AMD prepares to report earnings Tuesday after the bell, market participants face a divergence between positive earnings results and negative price action.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/amd-earnings-are-a-key-test-for-chips-and-momentum-stocks-heres-what-the-options-market-is-saying.html",
-    "image_url": null,
-    "published_at": "2026-08-04T13:55:51.000Z"
   }
 ]
