@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+    "summary": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a Brazilian regulator's leaked images revealed tha…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+    "image_url": null,
+    "published_at": "2026-08-11T22:36:35.000Z"
+  },
+  {
+    "headline": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+    "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+    "image_url": null,
+    "published_at": "2026-08-11T21:39:58.000Z"
+  },
+  {
+    "headline": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "image_url": null,
+    "published_at": "2026-08-11T21:39:11.000Z"
+  },
+  {
     "headline": "An FCC filing points to new Sonos headphones coming soon",
     "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A. In addition to the…",
     "publisher": "The Verge",
@@ -9,7 +33,7 @@
   },
   {
     "headline": "Uber surprised robotics company Serve by selling its entire stake",
-    "summary": "The divesture comes as the two once-tight companies have started to diverge on the business side.",
+    "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
     "image_url": null,
@@ -1574,29 +1598,5 @@
     "url": "https://www.theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide",
     "image_url": null,
     "published_at": "2026-08-05T14:00:00.000Z"
-  },
-  {
-    "headline": "Disney says it&#8217;s &#8216;exploring&#8217; adding a free tier to Disney Plus",
-    "summary": "Disney is looking into launching a free streaming option. When asked about Disney's plans for free, ad-supported streaming during an earnings call on Wednesday, Disney CEO Josh D'Amaro confirmed the company is \"exploring a free product for consumers.\" D'Amaro added that a free tier will help drive growth and expand the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings",
-    "image_url": null,
-    "published_at": "2026-08-05T13:44:14.000Z"
-  },
-  {
-    "headline": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-    "summary": "As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
-    "image_url": null,
-    "published_at": "2026-08-05T13:21:43.000Z"
-  },
-  {
-    "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-    "image_url": null,
-    "published_at": "2026-08-05T12:28:38.000Z"
   }
 ]

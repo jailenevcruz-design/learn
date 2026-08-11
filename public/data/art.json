@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Art Dispatches From “Habibi City”",
+    "summary": "Alan Michelson’s oyster-shaped public artwork on Governors Island, a fragment of The Odyssey at The Met, and Simone Forti talking about her days in Yoko Ono’s Manhattan loft.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/art-dispatches-from-habibi-city/",
+    "image_url": null,
+    "published_at": "2026-08-11T22:16:55.000Z"
+  },
+  {
+    "headline": "10 Photo Books to Read This Month",
+    "summary": "Hal Fischer’s archive of queer fashion, Sophie Rivera’s portraits of Nuyorican communities, Rania Matar’s love letter to Lebanon, and more new titles to check out from photo book publishers.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/10-photo-books-to-read-this-month/",
+    "image_url": null,
+    "published_at": "2026-08-11T21:54:40.000Z"
+  },
+  {
     "headline": "BBC Host Wants New Reality TV Show Featuring Aspiring Art Dealers To Be ‘The Apprentice for the Art World’",
     "summary": "Past reality TV shows have tried to capture the artistic process. Can art dealing also make for mediocre television?",
     "publisher": "ARTnews",
@@ -32,7 +48,7 @@
     "published_at": "2026-08-11T20:27:32.000Z"
   },
   {
-    "headline": "London’s Sid Motion Gallery to Close After a Decade: ‘Not in a Financial Position to Fully Honor My Artists’",
+    "headline": "Both London’s Sid Motion and Beers Galleries Are Closing, Citing Economic Pressures",
     "summary": "Founder Sid Motion opened her gallery as a side hustle in a disused betting parlor in 2015.",
     "publisher": "ARTnews",
     "url": "https://www.artnews.com/art-news/market/london-sid-motion-gallery-close-after-decade-1234794692/",
@@ -1582,21 +1598,5 @@
     "url": "https://www.artnews.com/art-news/news/guggenheim-abu-dhabi-sets-december-opening-date-1234793622/",
     "image_url": null,
     "published_at": "2026-07-28T17:16:29.000Z"
-  },
-  {
-    "headline": "National Museum of Ireland Employee Charged in Alleged Car Bomb Plot",
-    "summary": "According to court proceedings cited by Irish media, police recovered what they described as a fully assembled explosive device.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/national-museum-ireland-employee-charged-car-bomb-plot-1234793637/",
-    "image_url": null,
-    "published_at": "2026-07-28T17:13:13.000Z"
-  },
-  {
-    "headline": "Curtis Sliwa and Massive Hot Dog in Times Square",
-    "summary": "The absurdist elegy of “The Most American Pageant Ever!,” Brazilian modernist Chico da Silva, reclaiming a Thomas Jefferson statue, and more.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/curtis-sliwa-and-massive-hot-dog-in-times-square/",
-    "image_url": null,
-    "published_at": "2026-07-28T17:09:37.000Z"
   }
 ]
