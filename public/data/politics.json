@@ -8,6 +8,14 @@
     "published_at": "2026-08-11T10:52:52.000Z"
   },
   {
+    "headline": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
+    "summary": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
+    "image_url": null,
+    "published_at": "2026-08-11T09:00:00.000Z"
+  },
+  {
     "headline": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
     "summary": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
     "publisher": "NPR",
@@ -20,14 +28,6 @@
     "summary": "A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-    "image_url": null,
-    "published_at": "2026-08-11T09:00:00.000Z"
-  },
-  {
-    "headline": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
-    "summary": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
     "image_url": null,
     "published_at": "2026-08-11T09:00:00.000Z"
   },
@@ -72,18 +72,18 @@
     "published_at": "2026-08-10T17:38:12.000Z"
   },
   {
-    "headline": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-    "summary": "Lindell, of MyPillow, plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-    "image_url": null,
-    "published_at": "2026-08-10T09:00:00.000Z"
-  },
-  {
     "headline": "In a competitive Maine Senate race, women voters could be the deciders",
     "summary": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
+    "image_url": null,
+    "published_at": "2026-08-10T09:00:00.000Z"
+  },
+  {
+    "headline": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+    "summary": "Lindell, of MyPillow, plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
     "image_url": null,
     "published_at": "2026-08-10T09:00:00.000Z"
   },
