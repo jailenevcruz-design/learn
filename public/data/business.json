@@ -1,19 +1,83 @@
 [
   {
+    "headline": "The secret economics inside the new Planet Money board game",
+    "summary": "From Nobel Prize-winning research to the Laffer Curve, Scabby the Rat, Veblen's peacock, and more — the economic ideas and inside jokes hiding throughout Planet Money's new board game.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
+    "image_url": null,
+    "published_at": "2026-08-11T10:30:00.000Z"
+  },
+  {
+    "headline": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade",
+    "summary": "Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
+    "image_url": null,
+    "published_at": "2026-08-11T10:29:34.000Z"
+  },
+  {
+    "headline": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade",
+    "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+    "image_url": null,
+    "published_at": "2026-08-11T10:18:33.000Z"
+  },
+  {
+    "headline": "FIFA World Cup 'will never be as profitable' if Infantino is ousted, Trump warns amid global soccer revolt",
+    "summary": "President Gianni Infantino pushed FIFA's commercialization drive, which culminated in the largest, most profitable World Cup on record",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html",
+    "image_url": null,
+    "published_at": "2026-08-11T10:17:53.000Z"
+  },
+  {
+    "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+    "summary": "The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+    "image_url": null,
+    "published_at": "2026-08-11T10:12:14.000Z"
+  },
+  {
+    "headline": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
+    "summary": "IHG reported higher first-half profit as U.S. demand accelerated and Middle East disruption weighed on travel.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/ihg-profit-us-travel-middle-east.html",
+    "image_url": null,
+    "published_at": "2026-08-11T10:06:07.000Z"
+  },
+  {
+    "headline": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
+    "summary": "A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani on graft charges.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html",
+    "image_url": null,
+    "published_at": "2026-08-11T09:57:10.000Z"
+  },
+  {
+    "headline": "Eli Lilly takes weight-loss pill battle global with first Foundayo approval outside U.S.",
+    "summary": "Lilly's Foundayo wins U.K. approval, taking its weight-loss pill battle with Novo Nordisk's Wegovy beyond the U.S. market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/foundayo-eli-lilly-wegovy-pill-uk.html",
+    "image_url": null,
+    "published_at": "2026-08-11T09:27:44.000Z"
+  },
+  {
+    "headline": "U.S. oil tops $84 as Hormuz deal hopes dwindle and deadlock deepens",
+    "summary": "U.S. crude is back above $84 as last week's anticipation of a U.S.-Iran deal dissipates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+    "image_url": null,
+    "published_at": "2026-08-11T09:12:25.000Z"
+  },
+  {
     "headline": "Treasury yields up as oil prices jump and investors await inflation data",
     "summary": "U.S. Treasury yields edged higher Tuesday as investors await July's inflation data print amid ongoing Iran tensions.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
     "image_url": null,
     "published_at": "2026-08-11T08:39:01.000Z"
-  },
-  {
-    "headline": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade",
-    "summary": "Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
-    "image_url": null,
-    "published_at": "2026-08-11T08:24:22.000Z"
   },
   {
     "headline": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
@@ -32,28 +96,12 @@
     "published_at": "2026-08-11T07:17:00.000Z"
   },
   {
-    "headline": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
-    "summary": "A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani on graft charges.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html",
-    "image_url": null,
-    "published_at": "2026-08-11T04:59:53.000Z"
-  },
-  {
     "headline": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
     "summary": "GDP growth for 2026 is now expected to come in at 4.5% to 5.5%, more than double the low end of its previous forecast of 2%-4%",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html",
     "image_url": null,
     "published_at": "2026-08-11T02:58:27.000Z"
-  },
-  {
-    "headline": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
-    "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-    "image_url": null,
-    "published_at": "2026-08-11T01:52:04.000Z"
   },
   {
     "headline": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
@@ -1550,53 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
     "image_url": null,
     "published_at": "2026-08-05T13:17:35.000Z"
-  },
-  {
-    "headline": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
-    "summary": "Kashkari was one of three dissenters at last week's Federal Open Market Committee meeting.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
-    "image_url": null,
-    "published_at": "2026-08-05T13:06:35.000Z"
-  },
-  {
-    "headline": "Warren presses Lutnick over UAE access to sensitive U.S. tech after Trump crypto investment",
-    "summary": "Sen. Elizabeth Warren asked Howard Lutnick to explain eased UAE export controls after UAE-linked entities invested in the Trump family’s crypto venture.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/warren-lutnick-uae-export-controls-trump-crypto.html",
-    "image_url": null,
-    "published_at": "2026-08-05T13:00:01.000Z"
-  },
-  {
-    "headline": "We're adding to our position in a chipmaker as the AI trade regains its footing",
-    "summary": "The stock is still well below levels it traded at last month after earnings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/were-adding-to-our-position-in-a-chipmaker-as-the-ai-trade-regains-its-footing.html",
-    "image_url": null,
-    "published_at": "2026-08-05T12:35:29.000Z"
-  },
-  {
-    "headline": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
-    "summary": "GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.S. markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
-    "image_url": null,
-    "published_at": "2026-08-05T12:16:52.000Z"
-  },
-  {
-    "headline": "The IRS is getting better at spotting crypto tax mistakes. Here's what it means for investors",
-    "summary": "Many investors who hold cryptocurrency like bitcoin and ether have a difficult time figuring out how much tax to pay on transactions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/irs-form-1099-da-crypto-tax-reporting-rules.html",
-    "image_url": null,
-    "published_at": "2026-08-05T12:15:01.000Z"
-  },
-  {
-    "headline": "Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal",
-    "summary": "EA said its stock has ceased trading and will be delisted from the Nasdaq. Its shareholders will receive $210 in cash per share.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/saudi-wealth-fund-jared-kushner-ea-sports-deal.html",
-    "image_url": null,
-    "published_at": "2026-08-05T12:08:58.000Z"
   }
 ]
