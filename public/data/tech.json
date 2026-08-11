@@ -1,11 +1,123 @@
 [
   {
+    "headline": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+    "summary": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+    "image_url": null,
+    "published_at": "2026-08-11T15:40:46.000Z"
+  },
+  {
+    "headline": "2025’s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
+    "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September where it will be ad-free.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
+    "image_url": null,
+    "published_at": "2026-08-11T15:33:59.000Z"
+  },
+  {
+    "headline": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
+    "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-08-11T15:30:00.000Z"
+  },
+  {
+    "headline": "FlightAware sues Kalshi over flight cancellation prediction markets",
+    "summary": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
+    "image_url": null,
+    "published_at": "2026-08-11T15:23:58.000Z"
+  },
+  {
+    "headline": "Kyoto Fusioneering starts work on key fusion power plant device",
+    "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power pants. The Japan-based startup just received a grant to build a part of the fuel system.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
+    "image_url": null,
+    "published_at": "2026-08-11T15:00:00.000Z"
+  },
+  {
+    "headline": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+    "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+    "image_url": null,
+    "published_at": "2026-08-11T14:45:44.000Z"
+  },
+  {
+    "headline": "Bumble ditches its rule that kept men from making the first move",
+    "summary": "Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
+    "image_url": null,
+    "published_at": "2026-08-11T13:59:26.000Z"
+  },
+  {
+    "headline": "North Korean remote IT staffer worked for US government agency, says FBI",
+    "summary": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
+    "image_url": null,
+    "published_at": "2026-08-11T13:40:30.000Z"
+  },
+  {
+    "headline": "Why your Amazon order confirmation emails have become so unhelpful",
+    "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted ot…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "image_url": null,
+    "published_at": "2026-08-11T13:27:20.000Z"
+  },
+  {
+    "headline": "GuliKit&#8217;s new Switch controller features next-generation anti-drift thumbsticks",
+    "summary": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max is more expensive than last year's $29.99 ES Pro, but still c…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+    "image_url": null,
+    "published_at": "2026-08-11T13:00:00.000Z"
+  },
+  {
+    "headline": "Bumble now lets men make the first move",
+    "summary": "Bumble backtracks on “women make the first move.” | Image: The Verge Bumble was famously built around exclusively giving women the power to initiate messages in heterosexual matches when it first launched in 2014 - but now the times they are a-changin' for the dating app. Today, Bumble has announced a \"global evolution…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+    "image_url": null,
+    "published_at": "2026-08-11T13:00:00.000Z"
+  },
+  {
+    "headline": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+    "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+    "image_url": null,
+    "published_at": "2026-08-11T13:00:00.000Z"
+  },
+  {
+    "headline": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+    "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+    "image_url": null,
+    "published_at": "2026-08-11T13:00:00.000Z"
+  },
+  {
     "headline": "What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026",
     "summary": "At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
     "image_url": null,
     "published_at": "2026-08-11T12:30:00.000Z"
+  },
+  {
+    "headline": "Claude will apply invisible watermarks to AI text and images",
+    "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "image_url": null,
+    "published_at": "2026-08-11T12:22:20.000Z"
   },
   {
     "headline": "Anthropic says it will watermark text generated by its AI models",
@@ -1486,117 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
     "image_url": null,
     "published_at": "2026-08-04T20:36:30.000Z"
-  },
-  {
-    "headline": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
-    "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-    "image_url": null,
-    "published_at": "2026-08-04T20:26:53.000Z"
-  },
-  {
-    "headline": "EA is now a private company",
-    "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF wil…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
-    "image_url": null,
-    "published_at": "2026-08-04T20:18:14.000Z"
-  },
-  {
-    "headline": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "image_url": null,
-    "published_at": "2026-08-04T20:05:26.000Z"
-  },
-  {
-    "headline": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "image_url": null,
-    "published_at": "2026-08-04T19:48:40.000Z"
-  },
-  {
-    "headline": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "image_url": null,
-    "published_at": "2026-08-04T19:34:34.000Z"
-  },
-  {
-    "headline": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-    "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "image_url": null,
-    "published_at": "2026-08-04T19:28:49.000Z"
-  },
-  {
-    "headline": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
-    "summary": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the App Store before contacting us,\" Durov says in a post on X. \"This creates a potential systemic risk…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
-    "image_url": null,
-    "published_at": "2026-08-04T19:11:05.000Z"
-  },
-  {
-    "headline": "How an OpenAI influencer trip backfired",
-    "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-    "image_url": null,
-    "published_at": "2026-08-04T17:46:41.000Z"
-  },
-  {
-    "headline": "Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever",
-    "summary": "Lenovo’s Legion Go S with SteamOS. | Photo by Sean Hollister / The Verge Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and s…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-04T17:35:04.000Z"
-  },
-  {
-    "headline": "‘Not healthy’ LLM use is more common than you think",
-    "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-    "image_url": null,
-    "published_at": "2026-08-04T17:33:46.000Z"
-  },
-  {
-    "headline": "Waymo opens up robotaxi service in Dallas to everyone",
-    "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-    "image_url": null,
-    "published_at": "2026-08-04T17:31:01.000Z"
-  },
-  {
-    "headline": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
-    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
-    "image_url": null,
-    "published_at": "2026-08-04T17:20:54.000Z"
-  },
-  {
-    "headline": "BMW’s in-car Spider-Man ad is villain behavior",
-    "summary": "With great power comes great responsibility… to not justify ads in the name of movie promotions. | Image: BMW / Sony Pictures When a premium car brand like BMW says it has a \"special surprise\" in store for drivers, I'd expect something more luxurious than having a movie commercial beamed onto the dashboard. That's exac…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad",
-    "image_url": null,
-    "published_at": "2026-08-04T17:17:14.000Z"
-  },
-  {
-    "headline": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
-    "summary": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
-    "image_url": null,
-    "published_at": "2026-08-04T17:05:48.000Z"
   }
 ]
