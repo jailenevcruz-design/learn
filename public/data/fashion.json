@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/stel",
     "image_url": null,
-    "published_at": "2026-08-11T02:50:55.000Z"
+    "published_at": "2026-08-11T06:36:26.000Z"
   },
   {
     "headline": "Akikoaoki Tokyo Spring 2027",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/akikoaoki",
     "image_url": null,
-    "published_at": "2026-08-11T02:50:55.000Z"
+    "published_at": "2026-08-11T06:36:26.000Z"
   },
   {
     "headline": "Harunobumurata Tokyo Spring 2027",
@@ -21,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/harunobumurata",
     "image_url": null,
-    "published_at": "2026-08-11T02:50:55.000Z"
+    "published_at": "2026-08-11T06:36:26.000Z"
   },
   {
     "headline": "The Royal Danish Academy Copenhagen Spring 2027",
@@ -29,7 +29,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/the-royal-danish-academy",
     "image_url": null,
-    "published_at": "2026-08-11T02:50:55.000Z"
+    "published_at": "2026-08-11T06:36:26.000Z"
   },
   {
     "headline": "The Swedish School of Textiles Copenhagen Spring 2027",
@@ -37,7 +37,103 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/the-swedish-school-of-textiles",
     "image_url": null,
-    "published_at": "2026-08-11T02:50:55.000Z"
+    "published_at": "2026-08-11T06:36:26.000Z"
+  },
+  {
+    "headline": "CEO Mark Breitbard on Gap’s Formula for Campaigns and the Fall Story",
+    "summary": "Gap teams with rising stars Malcolm Todd and Inde Navarrette, keeping true to its time-tested strategy of tying fashion to pop culture in an entertaining way.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/gap-denim-mark-breitbard-inde-navarrette-malcolm-todd-1239093608/",
+    "image_url": null,
+    "published_at": "2026-08-11T05:00:00.000Z"
+  },
+  {
+    "headline": "COS Campaign Showcases Understated, Tailored Style",
+    "summary": "The fall collection is defined by its monochromatic palette, refined fabrics and is bolstered by a campaign with a cast of international talent.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/cos-fall-winter-campaign-park-gyuyoung-awar-odhiang-1239097688/",
+    "image_url": null,
+    "published_at": "2026-08-11T05:00:00.000Z"
+  },
+  {
+    "headline": "Exemplar Luxury Group Is Ready to Win Back Brands and VICs",
+    "summary": "CEO Geoffroy van Raemdonck hosted a party in the Hamptons for important customers and partners across the group’s three retailers. It’s an effort to reintroduce themselves to the industry.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/exemplar-luxury-group-is-ready-to-win-back-brands-and-vics",
+    "image_url": null,
+    "published_at": "2026-08-11T04:55:00.000Z"
+  },
+  {
+    "headline": "India’s Gen Z Is Rewriting the Luxury Playbook",
+    "summary": "A generation that has found its voice is now reshaping India’s luxury market.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/indias-gen-z-is-rewriting-the-luxury-playbook",
+    "image_url": null,
+    "published_at": "2026-08-11T04:30:00.000Z"
+  },
+  {
+    "headline": "Stanley 1913 x Farm Rio Unveil Tropical-inspired Drinkware and Cooler Collection",
+    "summary": "The collection blends Farm Rio's signature Brazilian prints with Stanley 1913's sustainable drinkware and cooler designs.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/stanley-1913-x-farm-rio-tropical-inspired-drinkware-cooler-collection-1239095934/",
+    "image_url": null,
+    "published_at": "2026-08-11T04:01:00.000Z"
+  },
+  {
+    "headline": "Stetson Creates Hat for Singer Carter Faith’s New Album Drop",
+    "summary": "The first line of the country artist's song, \"Pearl Handled Pistol,\" references a Stetson hat.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/stetson-hat-country-singer-carter-faith-1239097011/",
+    "image_url": null,
+    "published_at": "2026-08-11T04:01:00.000Z"
+  },
+  {
+    "headline": "The ‘Luxury’ Water Rat Race Isn’t as Inexplicable as It Seems",
+    "summary": "From Loonen to Supergoop founder Holly Thaggard’s newest venture, a cohort of clean and benefit-infused challenger water brands is rising. Category data shows the timing might be just right.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/wellness/clean-luxury-water-brands-loonen-waterouai-ohy-1239097787/",
+    "image_url": null,
+    "published_at": "2026-08-11T04:01:00.000Z"
+  },
+  {
+    "headline": "Bally Faces Swiss Restructuring Procedure, Regent Reinstates Long-term Commitment to Turnaround",
+    "summary": "Bally is undergoing a court-mediated restructuring in Switzerland amid layoffs and factory closures, but owner Regent reiterated its commitment to the brand.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/business-features/ballys-swiss-restructuring-regent-turnaround-1239097882/",
+    "image_url": null,
+    "published_at": "2026-08-11T04:01:00.000Z"
+  },
+  {
+    "headline": "How Beauty Performed During the First Half of 2026",
+    "summary": "Circana data shows that online overtook brick-and-mortar as the top channel for prestige skin care, while shifts are afoot in mass makeup.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-sales-growth-skin-care-makeup-fragrance-1239099310/",
+    "image_url": null,
+    "published_at": "2026-08-11T04:01:00.000Z"
+  },
+  {
+    "headline": "Lacoste and The Plaza Team Up for U.S. Open-Inspired Collaboration",
+    "summary": "A reimagined Afternoon Tea at The Palm Court, an immersive hotel installation and an exclusive retail pop-up are among the activations.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/lacoste-plaza-us-open-inspired-collaboration-1239099370/",
+    "image_url": null,
+    "published_at": "2026-08-11T04:01:00.000Z"
+  },
+  {
+    "headline": "Sabyasachi Returns to New York Fashion Week With a New Vision of Indian Luxury",
+    "summary": "Nearly two decades after his first New York runway show, Sabyasachi Mukherjee returns to NYFW with a multiyear collaboration with The Met, debuting with fine jewelry and an ambition to reposition India within the global luxury conversation.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/accessories-news/jewelry/sabyasachi-new-york-fashion-week-the-met-collaboration-1239099600/",
+    "image_url": null,
+    "published_at": "2026-08-11T04:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Alix Earle Invests in Cymbiotika",
+    "summary": "The infusion comes on the heels of several retail expansions and a separate, $26 million raise earlier this year for the supplement brand.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/wellness/alix-earle-cymbiotika-investment-wellness-influencer-1239099637/",
+    "image_url": null,
+    "published_at": "2026-08-11T04:01:00.000Z"
   },
   {
     "headline": "10 Anti-inflammatory Foods to Eat Regularly, According to Experts",
@@ -456,18 +552,18 @@
     "published_at": "2026-08-10T10:10:36.000Z"
   },
   {
-    "headline": "4 Last-Minute Labor Day Weekend Getaways From New York City, for the Perfect Send-Off to Summer 2026",
-    "summary": "From the Catskills to Nantucket, these Labor Day weekend getaways don’t require hopping on a plane.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/last-minute-labor-day-weekend-getaways",
-    "image_url": null,
-    "published_at": "2026-08-10T10:00:00.000Z"
-  },
-  {
     "headline": "The Fall 2026 Shoe Trends to Shop Now—From Kitten Heels to Slippers",
     "summary": "From kitten heels to slippers, discover the fall 2026 shoe trends to shop now.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/fall-2026-shoe-trends",
+    "image_url": null,
+    "published_at": "2026-08-10T10:00:00.000Z"
+  },
+  {
+    "headline": "4 Last-Minute Labor Day Weekend Getaways From New York City, for the Perfect Send-Off to Summer 2026",
+    "summary": "From the Catskills to Nantucket, these Labor Day weekend getaways don’t require hopping on a plane.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/last-minute-labor-day-weekend-getaways",
     "image_url": null,
     "published_at": "2026-08-10T10:00:00.000Z"
   },
@@ -1502,101 +1598,5 @@
     "url": "https://wwd.com/fashion-news/fashion-features/christies-auction-apparel-accessories-devil-wears-prada-2-1239094427/",
     "image_url": null,
     "published_at": "2026-08-06T10:00:00.000Z"
-  },
-  {
-    "headline": "Daniel Kearns Joins Hugo Boss as Head of Design for Boss by Beckham",
-    "summary": "Kearns, most recently at Kent & Curwen, will oversee design, merchandising and branding from London, with the first collection to bow for fall 2027.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/human-resources/daniel-kearns-hugo-boss-head-design-david-beckham-1239095602/",
-    "image_url": null,
-    "published_at": "2026-08-06T09:32:44.000Z"
-  },
-  {
-    "headline": "Pandora Names Veteran Retail and Consumer Goods Executive as CFO",
-    "summary": "Paulo Garcia will succeed Anders Boyer on Oct. 1.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/human-resources/pandora-chief-financial-officer-paulo-garcia-1239095598/",
-    "image_url": null,
-    "published_at": "2026-08-06T07:46:13.000Z"
-  },
-  {
-    "headline": "52 Thoughts I Had About Episode 1 of ‘The Shards’",
-    "summary": "People really don’t get named “Susan” anymore, do they...much to think about.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/52-thoughts-i-had-about-episode-1-of-the-shards",
-    "image_url": null,
-    "published_at": "2026-08-06T04:36:17.000Z"
-  },
-  {
-    "headline": "Everything I Learned at the Girlboss Convention",
-    "summary": "At Camp FFF in the Hamptons, women behind some of today’s most influential companies gathered to rethink the future of female entrepreneurship.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/everything-i-learned-about-the-new-rules-of-capital-at-the-girlboss-convention",
-    "image_url": null,
-    "published_at": "2026-08-06T04:30:00.000Z"
-  },
-  {
-    "headline": "The Vogue Business TikTok Trend Tracker",
-    "summary": "Vogue Business brings you weekly exclusive data from TikTok, unpacking the latest creators and biggest trends sweeping its Gen Z user base.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
-    "image_url": null,
-    "published_at": "2026-08-06T04:30:00.000Z"
-  },
-  {
-    "headline": "Why Trendsetting South Korea Remains a Gem for Luxury",
-    "summary": "South Korea remains a vital luxury market thanks to resilient domestic consumption, a recent “wealth effect” from tech and stock market gains, and the continued influence of K-culture. CEOs unpack what shoppers are buying and how long the momentum may last.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/why-trendsetting-south-korea-remains-a-gem-for-luxury",
-    "image_url": null,
-    "published_at": "2026-08-06T04:30:00.000Z"
-  },
-  {
-    "headline": "What Wedding Band Could Georgina Rodríguez Wear With Her Massive Engagement Ring?",
-    "summary": "Jewelers say a conventional bridal stack may be the one thing her estimated 25- to 30-carat oval cannot accommodate.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/culture-news/georgina-rodriguez-wedding-band-engagement-ring-1239093502/",
-    "image_url": null,
-    "published_at": "2026-08-06T04:01:00.000Z"
-  },
-  {
-    "headline": "MAC Cosmetics’ Next Creative Muse? Jean-Michel Basquiat",
-    "summary": "MAC has teamed with the late artist's family and estate to launch a limited-edition collection inspired by his creative signatures.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/beauty-industry-news/color-cosmetics/mac-cosmetics-basquiat-makeup-collection-1239094436/",
-    "image_url": null,
-    "published_at": "2026-08-06T04:01:00.000Z"
-  },
-  {
-    "headline": "Fashion Group International Reveals 2026 Night of Stars Honorees Under the ‘Modernist’ Theme",
-    "summary": "The event will be held Oct. 14 at the Rainbow Room in New York City.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-features/fashion-group-international-2026-night-of-stars-honorees-1239094865/",
-    "image_url": null,
-    "published_at": "2026-08-06T04:01:00.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Giorgio Armani Signs Jonathan Bailey for I Will Scent",
-    "summary": "It is the first masculine fragrance launch for the franchise in more than 20 years.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/beauty-industry-news/fragrance/giorgio-armani-signs-jonathan-bailey-i-will-scent-1239095370/",
-    "image_url": null,
-    "published_at": "2026-08-06T04:01:00.000Z"
-  },
-  {
-    "headline": "GXO Vows to Close Margin Gap With Rivals After Earnings Selloff",
-    "summary": "The contract logistics provider's new business wins weren't enough to stop investors from sending shares 10 percent lower after executives acknowledged the company trails rivals on operating margins.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/logistics/gxo-iq-margins-ai-q2-robotics-earnings-selloff-humanoid-robots-1239094877/",
-    "image_url": null,
-    "published_at": "2026-08-05T22:45:40.000Z"
-  },
-  {
-    "headline": "Mills Update: Japan, Vietnam and Indonesia Producers on How Sustainability is Evolving",
-    "summary": "Executives from Gamatex, Kaihara, Shinohara, TCE and XDD share what buyers are seeking, collection highlights and where they see the market headed.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/mills-update-japan-vietnam-gamatex-kaihara-shinohara-tce-xdd-1239095526/",
-    "image_url": null,
-    "published_at": "2026-08-05T22:44:51.000Z"
   }
 ]

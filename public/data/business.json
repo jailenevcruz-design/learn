@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade",
+    "summary": "Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
+    "image_url": null,
+    "published_at": "2026-08-11T05:01:40.000Z"
+  },
+  {
+    "headline": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
+    "summary": "A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani on graft charges.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html",
+    "image_url": null,
+    "published_at": "2026-08-11T04:59:53.000Z"
+  },
+  {
+    "headline": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
+    "summary": "GDP growth for 2026 is now expected to come in at 4.5% to 5.5%, more than double the low end of its previous forecast of 2%-4%",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html",
+    "image_url": null,
+    "published_at": "2026-08-11T02:58:27.000Z"
+  },
+  {
     "headline": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
     "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
     "publisher": "CNBC",
@@ -22,6 +46,14 @@
     "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
     "image_url": null,
     "published_at": "2026-08-10T22:33:55.000Z"
+  },
+  {
+    "headline": "OpenAI wraps $7 billion share sale ahead of potential IPO",
+    "summary": "OpenAI's tender offer has been in the works since the company closed its record-breaking $122 billion funding round in March.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
+    "image_url": null,
+    "published_at": "2026-08-10T22:15:31.000Z"
   },
   {
     "headline": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/05/mortgage-rates-hit-their-highest-level-in-over-a-year.html",
     "image_url": null,
     "published_at": "2026-08-05T11:00:01.000Z"
-  },
-  {
-    "headline": "Anthropic's Mythos created fake identities to fool humans in new cyber incident",
-    "summary": "It's the latest cybersecurity incident involving frontier models developed by Anthropic and OpenAI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html",
-    "image_url": null,
-    "published_at": "2026-08-05T10:18:07.000Z"
-  },
-  {
-    "headline": "Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses",
-    "summary": "The bombardment comes as each side ramps up air attacks on critical infrastructure and logistics hubs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/russia-ukraine-kyiv-putin-wildberries.html",
-    "image_url": null,
-    "published_at": "2026-08-05T08:55:42.000Z"
-  },
-  {
-    "headline": "SoftBank jumps 13% as Asia tech stocks track Wall Street AI rally",
-    "summary": "Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
-    "image_url": null,
-    "published_at": "2026-08-05T08:05:03.000Z"
-  },
-  {
-    "headline": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-    "summary": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
-    "image_url": null,
-    "published_at": "2026-08-05T07:15:17.000Z"
   }
 ]
