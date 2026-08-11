@@ -1,11 +1,115 @@
 [
   {
+    "headline": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+    "summary": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+    "image_url": null,
+    "published_at": "2026-08-11T19:41:17.000Z"
+  },
+  {
+    "headline": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
+    "summary": "U.S. oil had risen as much as 3% earlier in the day after President Donald Trump demanded that Iran pay reparations to the U.S.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+    "image_url": null,
+    "published_at": "2026-08-11T19:11:58.000Z"
+  },
+  {
+    "headline": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
+    "summary": "Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
+    "image_url": null,
+    "published_at": "2026-08-11T19:08:16.000Z"
+  },
+  {
     "headline": "Why JPMorgan is investing big in the 2028 LA Olympics",
     "summary": "JPMorgan is making a nine-figure bet as the Olympics Games' first-ever global banking partner.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
     "image_url": null,
-    "published_at": "2026-08-11T15:35:01.000Z"
+    "published_at": "2026-08-11T18:50:37.000Z"
+  },
+  {
+    "headline": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+    "summary": "The consumer price index is expected to show only a modest increase for July.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
+    "image_url": null,
+    "published_at": "2026-08-11T18:34:41.000Z"
+  },
+  {
+    "headline": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
+    "summary": "Credit card balances are ticking higher midway through the year, according to a new report on household debt from the Federal Reserve Bank of New York.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
+    "image_url": null,
+    "published_at": "2026-08-11T18:23:43.000Z"
+  },
+  {
+    "headline": "Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block",
+    "summary": "Trump in a Truth Social post called Mamdani's pied-à-terre tax a \"dangerous political 'experiment' in New York will destroy\" the city and state.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html",
+    "image_url": null,
+    "published_at": "2026-08-11T18:10:10.000Z"
+  },
+  {
+    "headline": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+    "summary": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+    "image_url": null,
+    "published_at": "2026-08-11T18:09:08.000Z"
+  },
+  {
+    "headline": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
+    "summary": "The CEO of the nation's largest single-family rental landlord said the new law banning large-scale investors from the market will lower prices in the long term.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
+    "image_url": null,
+    "published_at": "2026-08-11T16:54:38.000Z"
+  },
+  {
+    "headline": "Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences",
+    "summary": "Doctors and other experts say that splitting the measles, mumps and rubella shot has no scientific basis and is unlikely to get off the ground.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html",
+    "image_url": null,
+    "published_at": "2026-08-11T16:50:04.000Z"
+  },
+  {
+    "headline": "Baby products company Frida is expanding into kids’ personal care",
+    "summary": "Baby products company Frida is launching a new category of personal care items for kids, tapping into a growing market and largely untapped space.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+    "image_url": null,
+    "published_at": "2026-08-11T16:23:29.000Z"
+  },
+  {
+    "headline": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
+    "image_url": null,
+    "published_at": "2026-08-11T16:21:35.000Z"
+  },
+  {
+    "headline": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
+    "summary": "Last December, Meta said it planned to acquire Manus for $2 billion, its latest effort to shore up its AI strategy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
+    "image_url": null,
+    "published_at": "2026-08-11T16:12:27.000Z"
+  },
+  {
+    "headline": "Target appoints its first chief AI officer as big retailers bet on AI",
+    "summary": "Target announced its first-ever chief artificial intelligence officer on Tuesday as retailers race to take advantage of the AI boom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/target-appoints-chief-ai-officer-chandhu-nair.html",
+    "image_url": null,
+    "published_at": "2026-08-11T15:44:43.000Z"
   },
   {
     "headline": "Parents could put pretax paycheck money into Trump Accounts, with employers matching, Treasury says",
@@ -22,14 +126,6 @@
     "url": "https://www.cnbc.com/2026/08/11/iceye-satellite-fleets-defense-europe.html",
     "image_url": null,
     "published_at": "2026-08-11T15:09:49.000Z"
-  },
-  {
-    "headline": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
-    "summary": "Credit card balances are ticking higher mid-way through the year, according to a new report on household debt from the Federal Reserve Bank of New York.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
-    "image_url": null,
-    "published_at": "2026-08-11T15:08:48.000Z"
   },
   {
     "headline": "We're exiting our position in an industrial stock to make room for a new AI play",
@@ -110,22 +206,6 @@
     "url": "https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
     "image_url": null,
     "published_at": "2026-08-11T12:15:54.000Z"
-  },
-  {
-    "headline": "U.S. oil price hovers around $82 as traders weigh conflicting signals on Strait of Hormuz deal",
-    "summary": "U.S. oil had risen as much as 3% earlier in the day after President Donald Trump demanded that Iran pay reparations to the U.S.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
-    "image_url": null,
-    "published_at": "2026-08-11T12:15:44.000Z"
-  },
-  {
-    "headline": "Baby products company Frida is expanding into kids’ personal care",
-    "summary": "Baby products company Frida is launching a new category of personal care items for kids, tapping into a growing market and largely untapped space.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:02.000Z"
   },
   {
     "headline": "The secret economics inside the new Planet Money board game",
@@ -1518,85 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
     "image_url": null,
     "published_at": "2026-08-05T18:26:34.000Z"
-  },
-  {
-    "headline": "Flutter shares plummet on earnings miss and another key leadership change",
-    "summary": "FanDuel, Flutter's most important business, has been losing its dominance in market share in the United States.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html",
-    "image_url": null,
-    "published_at": "2026-08-05T18:20:31.000Z"
-  },
-  {
-    "headline": "Kids Online Safety Act social media safety bill advances in Senate",
-    "summary": "The Kids Online Safety Act, a measure aimed at protecting children on social media, advanced to the Senate floor after it stalled in the last Congress.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/kosa-privacy-social-media-senate.html",
-    "image_url": null,
-    "published_at": "2026-08-05T18:19:09.000Z"
-  },
-  {
-    "headline": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
-    "summary": "The upstart salad chain aimed to take on Sweetgreen and expanded rapidly under the ownership of Volt Investment.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html",
-    "image_url": null,
-    "published_at": "2026-08-05T17:05:49.000Z"
-  },
-  {
-    "headline": "Manager of DRAM memory chip stock trade blockbuster ETF is back with new AI thematic bet",
-    "summary": "Roundhill Investments' DRAM became a blockbuster ETF in record time on the memory trade. It's back with a new fund targeting another AI tech theme: photonics.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/chip-stocks-ai-investments-memory-dram.html",
-    "image_url": null,
-    "published_at": "2026-08-05T16:56:32.000Z"
-  },
-  {
-    "headline": "Uber stock sinks 7% after weak guidance despite revenue growth",
-    "summary": "Uber's earnings were in line with estimates, but the company's guidance for the third quarter trailed expectations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/uber-stock-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-05T16:18:31.000Z"
-  },
-  {
-    "headline": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
-    "summary": "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
-    "image_url": null,
-    "published_at": "2026-08-05T16:18:29.000Z"
-  },
-  {
-    "headline": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-    "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
-    "image_url": null,
-    "published_at": "2026-08-05T16:17:55.000Z"
-  },
-  {
-    "headline": "SpaceX moon crash is a perfect metaphor for rocket maker’s share price, analysts say",
-    "summary": "Parts of a SpaceX rocket reportedly crashed into the moon on Wednesday",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/spacex-moon-crash-share-price-elon-musk.html",
-    "image_url": null,
-    "published_at": "2026-08-05T16:17:35.000Z"
-  },
-  {
-    "headline": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-    "summary": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
-    "image_url": null,
-    "published_at": "2026-08-05T15:55:01.000Z"
-  },
-  {
-    "headline": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/spacex-gives-nvidia-a-much-needed-boost-cramers-undervalued-stock-.html",
-    "image_url": null,
-    "published_at": "2026-08-05T15:50:51.000Z"
   }
 ]
