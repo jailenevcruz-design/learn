@@ -1,5 +1,45 @@
 [
   {
+    "headline": "CoreWeave stock pops 15% as revenue doubles on accelerating AI infrastructure demand",
+    "summary": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-11T21:27:54.000Z"
+  },
+  {
+    "headline": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+    "summary": "The deal follows years of global automotive supply chain issues for GM and other companies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
+    "image_url": null,
+    "published_at": "2026-08-11T21:15:01.000Z"
+  },
+  {
+    "headline": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+    "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+    "image_url": null,
+    "published_at": "2026-08-11T21:01:13.000Z"
+  },
+  {
+    "headline": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
+    "summary": "The marketing changes come amid an investigation by the Commodity Futures Trading Commission into the company's promotional practices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
+    "image_url": null,
+    "published_at": "2026-08-11T20:26:22.000Z"
+  },
+  {
+    "headline": "We're lifting our price target on Cardinal Health after issuing rosy profit guidance",
+    "summary": "The quarter wasn't totally clean, but strong profitability matters the most.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/were-lifting-our-price-target-on-cardinal-health-after-issuing-rosy-profit-guidance-.html",
+    "image_url": null,
+    "published_at": "2026-08-11T20:05:46.000Z"
+  },
+  {
     "headline": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
     "summary": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.",
     "publisher": "CNBC",
@@ -62,6 +102,14 @@
     "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
     "image_url": null,
     "published_at": "2026-08-11T18:09:08.000Z"
+  },
+  {
+    "headline": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
+    "summary": "In Minnesota, progressive Lt. Gov. Peggy Flanagan and moderate Democratic Rep. Angie Craig are competing for the nomination to succeed the retiring Sen. Tina Smith.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
+    "image_url": null,
+    "published_at": "2026-08-11T18:05:12.000Z"
   },
   {
     "headline": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
@@ -152,28 +200,12 @@
     "published_at": "2026-08-11T14:45:44.000Z"
   },
   {
-    "headline": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
-    "summary": "In Minnesota, progressive Lt. Gov. Peggy Flanagan and moderate Democratic Rep. Angie Craig are competing for the nomination to replace the retiring Sen. Tina Smith.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
-    "image_url": null,
-    "published_at": "2026-08-11T14:34:32.000Z"
-  },
-  {
     "headline": "Eli Lilly takes weight-loss pill battle global with first Foundayo approval in Europe",
     "summary": "Lilly's Foundayo wins U.K. approval, taking its weight-loss pill battle with Novo Nordisk's Wegovy beyond the U.S. market.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/11/foundayo-eli-lilly-wegovy-pill-uk.html",
     "image_url": null,
     "published_at": "2026-08-11T14:19:53.000Z"
-  },
-  {
-    "headline": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
-    "summary": "The marketing changes come amid an investigation by the Commodity Futures Trading Commission into the company's promotional practices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
-    "image_url": null,
-    "published_at": "2026-08-11T14:15:33.000Z"
   },
   {
     "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
     "image_url": null,
     "published_at": "2026-08-05T18:51:53.000Z"
-  },
-  {
-    "headline": "Iran, Oman say Strait of Hormuz talks in final stages, as Trump again teases a deal being close",
-    "summary": "Trump's latest remarks signaling again that a deal with Iran to reopen the Hormuz Strait is close at hand drove oil prices lower and sent stocks soaring.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
-    "image_url": null,
-    "published_at": "2026-08-05T18:47:59.000Z"
-  },
-  {
-    "headline": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
-    "summary": "Abdul El-Sayed won the Michigan Democratic Senate primary, setting up a context with former Rep. Mike Rogers in the November general election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
-    "image_url": null,
-    "published_at": "2026-08-05T18:41:51.000Z"
-  },
-  {
-    "headline": "Affordability is a 'defining challenge' for Americans, with food costs leading the way, report finds",
-    "summary": "Many consumers rely on credit cards to pay for everyday expenses, such as groceries, but some can't make the minimum payment, according to a new report.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/affordability-grocery-prices.html",
-    "image_url": null,
-    "published_at": "2026-08-05T18:28:06.000Z"
-  },
-  {
-    "headline": "Oil prices little changed on negotiations to manage ship traffic in Strait of Hormuz",
-    "summary": "President Donald Trump told Fox News late Tuesday that the negotations went all day long. \"It looks like things are very good,\" Trump said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
-    "image_url": null,
-    "published_at": "2026-08-05T18:26:34.000Z"
   }
 ]

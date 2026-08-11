@@ -1,5 +1,45 @@
 [
   {
+    "headline": "BBC Host Wants New Reality TV Show Featuring Aspiring Art Dealers To Be ‘The Apprentice for the Art World’",
+    "summary": "Past reality TV shows have tried to capture the artistic process. Can art dealing also make for mediocre television?",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/bbc-reality-tv-show-aspiring-art-dealers-the-apprentice-1234794731/",
+    "image_url": null,
+    "published_at": "2026-08-11T21:20:27.000Z"
+  },
+  {
+    "headline": "San Diego Museum of Art Lays Off 11 Workers",
+    "summary": "The cuts impacted employees in departments including programs, development, exhibitions, and operations as the institution cited financial difficulties.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/san-diego-museum-of-art-lays-off-11-workers/",
+    "image_url": null,
+    "published_at": "2026-08-11T20:47:22.000Z"
+  },
+  {
+    "headline": "Laser Technology Reveals Hidden Pre-Hispanic Roads at Machu Picchu",
+    "summary": "The structures were discovered using LiDAR, an advanced remote sensing technology",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/lidar-reveals-hidden-pre-hispanic-roads-at-machu-picchu-1234794724/",
+    "image_url": null,
+    "published_at": "2026-08-11T20:39:15.000Z"
+  },
+  {
+    "headline": "Russia Has Damaged or Destroyed Over 4,500 Cultural Sites in Ukraine",
+    "summary": "The National Art Museum of Ukraine and the Odesa National Fine Arts Museum are among the 141 museums and galleries affected.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/russia-has-damaged-or-destroyed-over-4-500-cultural-sites-in-ukraine/",
+    "image_url": null,
+    "published_at": "2026-08-11T20:27:32.000Z"
+  },
+  {
+    "headline": "London’s Sid Motion Gallery to Close After a Decade: ‘Not in a Financial Position to Fully Honor My Artists’",
+    "summary": "Founder Sid Motion opened her gallery as a side hustle in a disused betting parlor in 2015.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/market/london-sid-motion-gallery-close-after-decade-1234794692/",
+    "image_url": null,
+    "published_at": "2026-08-11T19:56:41.000Z"
+  },
+  {
     "headline": "One of the Greatest Private Hiroshige Collections Ever Assembled Is Heading to Christie’s",
     "summary": "The market for Japanese woodblock prints has become noticeably more international, with younger collectors, the holy grail among art dealers and auction houses, entering the category and demand spreading well beyond Japan.",
     "publisher": "ARTnews",
@@ -1558,45 +1598,5 @@
     "url": "https://hyperallergic.com/curtis-sliwa-and-massive-hot-dog-in-times-square/",
     "image_url": null,
     "published_at": "2026-07-28T17:09:37.000Z"
-  },
-  {
-    "headline": "Photobook Publisher Steidl in Dire Straits After Threat of Bankruptcy",
-    "summary": "Though it has resolved recent insolvency proceedings, the German publisher remains shaken by a 50% drop in international sales.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/photobook-publisher-steidl-in-dire-straits-after-threat-of-bankruptcy/",
-    "image_url": null,
-    "published_at": "2026-07-28T15:52:01.000Z"
-  },
-  {
-    "headline": "Bernard Arnault Hits Back at Le Monde Report Accusing Him of Being ‘In Love With the Arts and Tax Exemptions’",
-    "summary": "Arnault said that French law was designed to incentivize spending on the arts for the public good via tax exemptions, and if people didn't like it, they need only repeal existing legislation.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/bernard-arnault-response-le-monde-report-1234793597/",
-    "image_url": null,
-    "published_at": "2026-07-28T15:25:21.000Z"
-  },
-  {
-    "headline": "Looking for History: MoCA\\CT's New Exhibition Explores Memory, Landscape, and the American Story",
-    "summary": "Rick Shaefer, Ellen Harvey, and Michael Borders question how history is created, remembered, and reimagined. On view through November 15, 2026.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/looking-for-history-moca-cts-new-exhibition-explores-memory-landscape-and-the-american-story/",
-    "image_url": null,
-    "published_at": "2026-07-28T15:24:54.000Z"
-  },
-  {
-    "headline": "Betye Saar Dies at 99",
-    "summary": "The beloved artist dies just four days before her 100th birthday. Also, Trump crosses a new line in his war against the Smithsonian.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/betye-saar-dies-at-99/",
-    "image_url": null,
-    "published_at": "2026-07-28T10:00:02.000Z"
-  },
-  {
-    "headline": "Betye Saar, Who Opened Portals Between Worlds, Dies at 99",
-    "summary": "Her visionary assemblages recast the debris of American history into monuments of Black resilience and liberation.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/betye-saar-who-opened-portals-between-worlds-dies-at-99/",
-    "image_url": null,
-    "published_at": "2026-07-27T22:31:46.000Z"
   }
 ]

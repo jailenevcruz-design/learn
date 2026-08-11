@@ -1,5 +1,53 @@
 [
   {
+    "headline": "I Traced the Steps of Hemingway, Picasso, and Chanel Through France and Spain—Here’s What I Discovered",
+    "summary": "From the storied cafés of Montparnasse to the cobblestone alleys in San Sebastián, on the centennial of ‘The Sun Also Rises,’ the Lost Generation’s impact can be felt throughout some of Europe’s most compelling destinations. One writer traces their steps, and in doing so, reignites a passion for exploration.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/lost-generation-travel-france-spain",
+    "image_url": null,
+    "published_at": "2026-08-11T20:54:12.000Z"
+  },
+  {
+    "headline": "The Brides Wore Vivienne Westwood and Danielle Frankel for Their Intimate Wedding Celebration in Mallorca",
+    "summary": "Morgan Yates and Jezzel Viray decided to create a handful of their own traditions for their four-day wedding weekend in Mallorca, with just 55 guests.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/morgan-yates-and-jezzel-viray-wedding",
+    "image_url": null,
+    "published_at": "2026-08-11T20:49:23.000Z"
+  },
+  {
+    "headline": "The Biggest Celebrity Engagements of 2026—So Far",
+    "summary": "The latest couple to share their engagement news in 2026? Model Alessandra Ambrosio and her boyfriend, Buck Palmer.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/celebrity-engagements-2026",
+    "image_url": null,
+    "published_at": "2026-08-11T20:39:49.000Z"
+  },
+  {
+    "headline": "Christopher Chung Talks ‘My Brilliant Career’ — and What’s Next for ‘Slow Horses’",
+    "summary": "The actor stars in Netflix's new screen adaptation of classic Australian novel \"My Brilliant Career,\" and teases what's ahead for Roddy Ho in \"Slow Horses.\"",
+    "publisher": "WWD",
+    "url": "https://wwd.com/eye/people/christopher-chung-my-brilliant-career-1239093661/",
+    "image_url": null,
+    "published_at": "2026-08-11T20:34:08.000Z"
+  },
+  {
+    "headline": "Simon Posts Positive Q2, Cites Robust Leasing Activity, Rising Retail Sales",
+    "summary": "The company recovered 1 million square feet of space through Saks Off 5th closings, which should lead to attracting more productive retail tenants paying higher rents.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/simon-posts-q2-robust-leasing-activity-retailing-1239101097/",
+    "image_url": null,
+    "published_at": "2026-08-11T20:21:02.000Z"
+  },
+  {
+    "headline": "Madison Bailey on Starring in Journeys’ ‘Turn It Up’ Campaign and Saying Goodbye to ‘Outer Banks’",
+    "summary": "Bailey plays three different people in Journeys' new back-to-school campaign, which builds on the retailer's Life on Loud platform.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-trends/madison-bailey-journeys-campaign-interview-outer-banks-1239093427/",
+    "image_url": null,
+    "published_at": "2026-08-11T20:14:09.000Z"
+  },
+  {
     "headline": "Typhoon Dolphin Deepens China Port Congestion, Stranding 2.4M TEUs",
     "summary": "The storm forced three-day closures at China's Shanghai and Ningbo ports, with vessel backlogs expected to take weeks to clear and berthing times reaching as high as 12 days.",
     "publisher": "WWD",
@@ -9,7 +57,7 @@
   },
   {
     "headline": "On’s Investors May Have More Questions Than Answers",
-    "summary": "Executives said they were managing wholesale to protect margins but more importantly also lowered full year 2026 guidance despite new shoe releases on the way.",
+    "summary": "Executives said they were managing wholesale to protect margins but more importantly also lowered full-year 2026 guidance despite new shoe releases on the way.",
     "publisher": "WWD",
     "url": "https://wwd.com/footwear-news/shoe-industry-news/on-running-wholesale-full-year-guidance-cut-new-shoes-1239105520/",
     "image_url": null,
@@ -27,6 +75,14 @@
     "headline": "BGMEA Seeks Chinese Investment to Boost Garment Industry Competitiveness",
     "summary": "The organization also announced a machinery expo.",
     "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/bgmea-chinese-investment-boost-garment-industry-1239105948/",
+    "image_url": null,
+    "published_at": "2026-08-11T19:10:01.000Z"
+  },
+  {
+    "headline": "BGMEA Seeks Chinese Investment to Boost Garment Industry Competitiveness",
+    "summary": "The organization also announced a machinery expo.",
+    "publisher": "WWD",
     "url": "https://wwd.com/sourcing-journal/sj-denim/bgmea-chinese-investment-boost-garment-industry-1239105948/",
     "image_url": null,
     "published_at": "2026-08-11T19:10:01.000Z"
@@ -38,6 +94,14 @@
     "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-4-retro-linen-release-date-hv0823-142-1239105766/",
     "image_url": null,
     "published_at": "2026-08-11T18:39:54.000Z"
+  },
+  {
+    "headline": "Golden Goose, Emporio Armani and Levi’s Grace ATP’s Latest Tunnel Walk",
+    "summary": "The athletes playing in Montreal's National Bank Tournament opted for a mix of dressy and casualwear.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/menswear-news/mens-fashion/atp-montreal-athlete-arrivals-golden-goose-armani-1239105828/",
+    "image_url": null,
+    "published_at": "2026-08-11T18:23:21.000Z"
   },
   {
     "headline": "How Meghan Markle Has Styled Princess Diana’s Jewelry Through the Years",
@@ -273,17 +337,9 @@
   },
   {
     "headline": "How to Master Kaia Gerber’s Effortless Style—From Off-Duty Ease to Evening Polish",
-    "summary": "Recreate the supermodel and September cover star’s best looks, from casual weekend moments to elegant night out ensembles.",
+    "summary": "Re-create the supermodel and September cover star’s best looks, from casual weekend moments to elegant night-out ensembles.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/kaia-gerber-best-street-style-outfits",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:00.000Z"
-  },
-  {
-    "headline": "Kaia Gerber and Homer Gere on ‘The Shards,’ Their Parents, and Proving Everyone Wrong | Vogue’s September 2026 Cover Story",
-    "summary": "See inside Kaia Gerber and Homer Gere’s Vogue’s cover story for the September 2026 issue.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/kaia-gerber-homer-gere-september-cover-2026-interview",
     "image_url": null,
     "published_at": "2026-08-11T12:00:00.000Z"
   },
@@ -292,6 +348,14 @@
     "summary": "Learn the differences between lip contouring and lip liner, as well as techniques and the best products for fuller-looking or more defined lips.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/lip-contouring-lip-liner",
+    "image_url": null,
+    "published_at": "2026-08-11T12:00:00.000Z"
+  },
+  {
+    "headline": "Kaia Gerber and Homer Gere on ‘The Shards,’ Their Parents, and Proving Everyone Wrong | Vogue’s September 2026 Cover Story",
+    "summary": "See inside Kaia Gerber and Homer Gere’s Vogue’s cover story for the September 2026 issue.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/kaia-gerber-homer-gere-september-cover-2026-interview",
     "image_url": null,
     "published_at": "2026-08-11T12:00:00.000Z"
   },
@@ -1534,69 +1598,5 @@
     "url": "https://www.vogue.com/article/aperitivo-hour-natasha-pickowicz",
     "image_url": null,
     "published_at": "2026-08-07T13:12:21.000Z"
-  },
-  {
-    "headline": "Under Armour Faces a Challenging Demand Environment Ahead",
-    "summary": "The company said its revised outlook forecasting a steeper revenue decline in fiscal 2027 is due to softer demand in North America and Asia-Pacific.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/under-armour-uaa-q1-2027-earnings-revenue-outlook-1239097469/",
-    "image_url": null,
-    "published_at": "2026-08-07T13:07:21.000Z"
-  },
-  {
-    "headline": "The Mirror After Birth",
-    "summary": "In Retail Ritual, presented on the occasion of her first institutional solo exhibition at the National Gallery of Bosnia and Herzegovina during the Sarajevo Photography Festival, Carlota Guerrero transforms the luxury fitting room into a stage where motherhood, performance, consumer culture, and the female gaze converg…",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-mirror-after-birth",
-    "image_url": null,
-    "published_at": "2026-08-07T13:00:00.000Z"
-  },
-  {
-    "headline": "In Search of Alternatives, Fashion For Good Sets Out To Find What Comes After “Forever Chemicals”",
-    "summary": "Fashion For Good is developing a benchmark to make sure the PFAS alternatives won't be just as bad as the chemicals they are trying to replace.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/fashion-for-good-pfas-sustainability-alternative-1239096695/",
-    "image_url": null,
-    "published_at": "2026-08-07T13:00:00.000Z"
-  },
-  {
-    "headline": "Foot Locker Leans on Nostalgia and Method Man for New Campaign as It Continues to Evolve",
-    "summary": "The fresh marketing spot is the latest major move from the retailer since it was acquired by Dick's Sporting Goods last year.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/foot-locker-campaign-method-man-sneaker-culture-interview-1239097195/",
-    "image_url": null,
-    "published_at": "2026-08-07T13:00:00.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Béis and Disney Collaborate on Retro-Inspired Luggage Marked by Your Favorite Characters",
-    "summary": "The playful, 28-piece line for kids and adults launches August 12. Here's everything to look forward to.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-home/beis-disney-luggage-bag-accessory-collection-buy-online-1239095663/",
-    "image_url": null,
-    "published_at": "2026-08-07T12:00:00.000Z"
-  },
-  {
-    "headline": "Triarchy’s Adam Taubenfligel Doubles Down on Sustainable Production",
-    "summary": "Triarchy co-founder and CEO Adam Taubenfligel remains steadfast in his commitment to sustainable production.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/triarchyv-adam-taubenfligel-sustainable-production-1239097315/",
-    "image_url": null,
-    "published_at": "2026-08-07T12:00:00.000Z"
-  },
-  {
-    "headline": "More Section 301 Tariffs Are Coming. What Should Businesses Do to Prepare?",
-    "summary": "Importers should expect to see the results of the United States Trade Representative’s Section 301 investigation into industrial excess capacity sometime in August.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/trade/section-301-tariffs-excess-capacity-ustr-trump-holland-knight-trade-law-1239097316/",
-    "image_url": null,
-    "published_at": "2026-08-07T11:00:00.000Z"
-  },
-  {
-    "headline": "The 16 Best Airbnbs in the Hamptons for a Last-Minute Summer Vacation",
-    "summary": "Looking for the best Airbnbs in the Hamptons? Here, 16 fabulous choices, from a fishing cottage in Montauk to a grand East Hampton estate.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-airbnbs-in-the-hamptons",
-    "image_url": null,
-    "published_at": "2026-08-07T10:00:00.000Z"
   }
 ]
