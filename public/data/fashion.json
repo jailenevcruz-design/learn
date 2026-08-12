@@ -1,5 +1,29 @@
 [
   {
+    "headline": "The Vogue Business People Moves Tracker",
+    "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+    "image_url": null,
+    "published_at": "2026-08-12T09:33:54.000Z"
+  },
+  {
+    "headline": "Justin and Hailey Bieber Can Both Be Pilates Princesses",
+    "summary": "She’s been on a strength training journey, but Hailey Bieber knows there’s nothing quite like a reformer pilates burn.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/justin-and-hailey-bieber-can-both-be-pilates-princesses",
+    "image_url": null,
+    "published_at": "2026-08-12T09:18:16.000Z"
+  },
+  {
+    "headline": "Jennifer Lopez Wears This French Riviera-Worthy Manicure—and Little Else",
+    "summary": "Fresh, clean, and somewhere between Jane Birkin’s effortless chic and Brigitte Bardot’s glam: Jennifer Lopez has mastered the summer nude.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/jennifer-lopez-french-riviera-manicure",
+    "image_url": null,
+    "published_at": "2026-08-12T08:41:30.000Z"
+  },
+  {
     "headline": "Fashion’s Betting on the Ballet. What’s the Pointe?",
     "summary": "As the luxury market favors experiential clienteling and culture-led engagement, ballet and dance are becoming trusted signals of taste, attracting young consumers and VICs.",
     "publisher": "Vogue",
@@ -448,6 +472,14 @@
     "published_at": "2026-08-11T12:07:00.000Z"
   },
   {
+    "headline": "How to Master Kaia Gerber’s Effortless Style—From Off-Duty Ease to Evening Polish",
+    "summary": "Re-create the supermodel and September cover star’s best looks, from casual weekend moments to elegant night-out ensembles.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/kaia-gerber-best-street-style-outfits",
+    "image_url": null,
+    "published_at": "2026-08-11T12:00:00.000Z"
+  },
+  {
     "headline": "From the Archives: Cindy Crawford and Richard Gere’s November 1992 Cover Story",
     "summary": "She’s a top cover girl and a TV personality on the rise. He’s a passionate actor and activist. Together Cindy Crawford and Richard Gere are Hollywood’s hottest couple. Julia Reed catches up with them at work and at home.",
     "publisher": "Vogue",
@@ -460,14 +492,6 @@
     "summary": "In honor of her latest Vogue cover—her fifth!—revisit Kaia Gerber’s finest red carpet fashion moments.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/slideshow/kaia-gerber-best-red-carpet-looks",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:00.000Z"
-  },
-  {
-    "headline": "How to Master Kaia Gerber’s Effortless Style—From Off-Duty Ease to Evening Polish",
-    "summary": "Re-create the supermodel and September cover star’s best looks, from casual weekend moments to elegant night-out ensembles.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/kaia-gerber-best-street-style-outfits",
     "image_url": null,
     "published_at": "2026-08-11T12:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://wwd.com/sourcing-journal/logistics/as-peak-shipping-season-ends-volume-remains-high-1239097846/",
     "image_url": null,
     "published_at": "2026-08-07T16:49:27.000Z"
-  },
-  {
-    "headline": "The Adidas Samba’s Journey Through the Animal Kingdom Now Leads It to Deer Print",
-    "summary": "Taking over with a pony hair upper.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/adidas-samba-deer-print-release-date-kj7447-1239097883/",
-    "image_url": null,
-    "published_at": "2026-08-07T16:38:16.000Z"
-  },
-  {
-    "headline": "4 Key Takeaways From Copenhagen Fashion Week SS27",
-    "summary": "The spring 2027 season marked CPHFW’s 20th anniversary, its most international edition ever, and an explosion of color after years of minimalism.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/4-key-takeaways-from-copenhagen-fashion-week-ss27",
-    "image_url": null,
-    "published_at": "2026-08-07T16:25:42.000Z"
-  },
-  {
-    "headline": "Blundstone’s New Premium Boots for Fall Are Handcrafted by 34 People",
-    "summary": "The new collection comes in men's and women's sizes.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/blundstone-heritage-series-premium-boots-details-1239097945/",
-    "image_url": null,
-    "published_at": "2026-08-07T16:23:26.000Z"
   }
 ]

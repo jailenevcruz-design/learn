@@ -1,11 +1,51 @@
 [
   {
-    "headline": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-    "summary": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
+    "headline": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads",
+    "summary": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+    "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
     "image_url": null,
-    "published_at": "2026-08-12T06:30:07.000Z"
+    "published_at": "2026-08-12T09:15:43.000Z"
+  },
+  {
+    "headline": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+    "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+    "image_url": null,
+    "published_at": "2026-08-12T09:00:00.000Z"
+  },
+  {
+    "headline": "AI chatbots are offering financial advice. Should you trust them?",
+    "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
+    "image_url": null,
+    "published_at": "2026-08-12T09:00:00.000Z"
+  },
+  {
+    "headline": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+    "summary": "The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across 60 countries.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+    "image_url": null,
+    "published_at": "2026-08-12T08:45:20.000Z"
+  },
+  {
+    "headline": "Treasury yields are little changed as investors await key inflation data",
+    "summary": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — was largely flat at 4.682%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/treasury-yields-inflation-cpi-data.html",
+    "image_url": null,
+    "published_at": "2026-08-12T08:31:12.000Z"
+  },
+  {
+    "headline": "Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says",
+    "summary": "The IEA expects oil demand to fall by 1.6 million barrels a day in 2026 as high fuel prices and Strait of Hormuz disruptions weigh on consumption.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-12T08:31:06.000Z"
   },
   {
     "headline": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
@@ -13,7 +53,23 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
     "image_url": null,
-    "published_at": "2026-08-12T06:09:57.000Z"
+    "published_at": "2026-08-12T07:40:42.000Z"
+  },
+  {
+    "headline": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
+    "summary": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
+    "image_url": null,
+    "published_at": "2026-08-12T07:20:31.000Z"
+  },
+  {
+    "headline": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+    "summary": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+    "image_url": null,
+    "published_at": "2026-08-12T06:30:07.000Z"
   },
   {
     "headline": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
@@ -30,14 +86,6 @@
     "url": "https://www.cnbc.com/2026/08/12/oil-prices-today-wti-brent-red-sea.html",
     "image_url": null,
     "published_at": "2026-08-12T04:56:36.000Z"
-  },
-  {
-    "headline": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
-    "summary": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-    "image_url": null,
-    "published_at": "2026-08-12T03:37:00.000Z"
   },
   {
     "headline": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
@@ -1550,53 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html",
     "image_url": null,
     "published_at": "2026-08-05T23:20:15.000Z"
-  },
-  {
-    "headline": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
-    "summary": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
-    "image_url": null,
-    "published_at": "2026-08-05T21:55:46.000Z"
-  },
-  {
-    "headline": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
-    "summary": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
-    "image_url": null,
-    "published_at": "2026-08-05T21:32:34.000Z"
-  },
-  {
-    "headline": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-    "summary": "Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
-    "image_url": null,
-    "published_at": "2026-08-05T21:03:12.000Z"
-  },
-  {
-    "headline": "E.l.f. Beauty sees $50 million windfall in tariff refunds as profits surge 100%",
-    "summary": "E.l.f. Beauty received $50 million in tariff refunds during its fiscal first quarter, leading profits to nearly double.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/elf-beauty-elf-q1-2027-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-05T21:00:48.000Z"
-  },
-  {
-    "headline": "Marc Benioff gets a new operating chief, as Salesforce promotes Miguel Milano",
-    "summary": "Salesforce promoted revenue head and former Oracle executive Miguel Milano to role of operating chief.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/marc-benioff-gets-a-new-coo-as-salesforce-promotes-miguel-milano-.html",
-    "image_url": null,
-    "published_at": "2026-08-05T20:48:20.000Z"
-  },
-  {
-    "headline": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
-    "summary": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
-    "image_url": null,
-    "published_at": "2026-08-05T20:36:16.000Z"
   }
 ]
