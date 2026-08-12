@@ -1,19 +1,35 @@
 [
   {
+    "headline": "Cerebras stock plunges 14% after second earnings report following IPO",
+    "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-12T22:18:58.000Z"
+  },
+  {
     "headline": "Trump says Karoline Leavitt resigning as White House press secretary",
     "summary": "Leavitt, the youngest White House press secretary ever, gave birth in May to a girl, her second child.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
     "image_url": null,
-    "published_at": "2026-08-12T21:30:21.000Z"
+    "published_at": "2026-08-12T22:08:51.000Z"
   },
   {
-    "headline": "Cerebras stock plunges 14% after second earnings report following IPO",
-    "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and and raised its full-year guidance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+    "headline": "People are giving up their pets due to costs — and rehoming them is more expensive too",
+    "summary": "The cost of pet care is rising. Petflation is affecting more than the cost of food and care; it's also making it costlier to transport pets between shelters, the key to getting many animals adopted.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5927244/people-are-giving-up-their-pets-due-to-costs-and-rehoming-them-is-more-expensive-too",
     "image_url": null,
-    "published_at": "2026-08-12T21:18:40.000Z"
+    "published_at": "2026-08-12T22:06:03.000Z"
+  },
+  {
+    "headline": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
+    "summary": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
+    "image_url": null,
+    "published_at": "2026-08-12T21:37:18.000Z"
   },
   {
     "headline": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
@@ -166,14 +182,6 @@
     "url": "https://www.cnbc.com/2026/08/12/amazon-shares-appear-stuck-in-a-rut-trader-mike-khouw-is-betting-things-will-stay-that-way.html",
     "image_url": null,
     "published_at": "2026-08-12T15:53:24.000Z"
-  },
-  {
-    "headline": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
-    "summary": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
-    "image_url": null,
-    "published_at": "2026-08-12T15:37:25.000Z"
   },
   {
     "headline": "AI’s costly build-out complicates the Fed’s inflation fight",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
     "image_url": null,
     "published_at": "2026-08-06T20:30:05.000Z"
-  },
-  {
-    "headline": "Copper jumps to its highest level ever. What the metal is telling us",
-    "summary": "Once a reliable gauge if economic health, \"Dr. Copper\" may be giving complicated signals this year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
-    "image_url": null,
-    "published_at": "2026-08-06T20:07:51.000Z"
   }
 ]
