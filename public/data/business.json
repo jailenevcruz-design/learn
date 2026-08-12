@@ -1,11 +1,115 @@
 [
   {
+    "headline": "Trump says Karoline Leavitt resigning as White House press secretary",
+    "summary": "Leavitt, the youngest White House press secretary ever, gave birth in May to a girl, her second child.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
+    "image_url": null,
+    "published_at": "2026-08-12T21:30:21.000Z"
+  },
+  {
+    "headline": "Cerebras stock plunges 14% after second earnings report following IPO",
+    "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and and raised its full-year guidance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-12T21:18:40.000Z"
+  },
+  {
+    "headline": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
+    "summary": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
+    "image_url": null,
+    "published_at": "2026-08-12T21:18:35.000Z"
+  },
+  {
+    "headline": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
+    "summary": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
+    "image_url": null,
+    "published_at": "2026-08-12T21:13:11.000Z"
+  },
+  {
+    "headline": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
+    "summary": "Oil exports from Egypt's Mediterranean port of Sidi Kerir have more than doubled. The crude is mostly from Saudi Arabia, according to Kpler.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-12T21:04:18.000Z"
+  },
+  {
+    "headline": "Cisco's stock drops despite earnings, revenue beat",
+    "summary": "Even though Cisco's quarterly results topped estimates, they weren't good enough to satisfy Wall Street.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
+    "image_url": null,
+    "published_at": "2026-08-12T20:51:07.000Z"
+  },
+  {
+    "headline": "Trump sued over service selling faster access to Truth Social posts",
+    "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
+    "image_url": null,
+    "published_at": "2026-08-12T20:33:10.000Z"
+  },
+  {
+    "headline": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+    "summary": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
+    "image_url": null,
+    "published_at": "2026-08-12T20:16:05.000Z"
+  },
+  {
+    "headline": "CoreWeave gains 19%, Nebius surges 34% in post-earnings neocloud rally",
+    "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+    "image_url": null,
+    "published_at": "2026-08-12T20:00:52.000Z"
+  },
+  {
+    "headline": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
+    "summary": "Lettuce prices posted their sharpest month-over-month decline on record as diners reconsider the vegetable amid the cyclospora outbreak.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
+    "image_url": null,
+    "published_at": "2026-08-12T19:50:29.000Z"
+  },
+  {
     "headline": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
     "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
     "image_url": null,
-    "published_at": "2026-08-12T16:39:34.000Z"
+    "published_at": "2026-08-12T19:19:18.000Z"
+  },
+  {
+    "headline": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
+    "summary": "Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
+    "image_url": null,
+    "published_at": "2026-08-12T19:15:54.000Z"
+  },
+  {
+    "headline": "U.S. budget deficit surged in July to highest level since March 2021",
+    "summary": "Beyond the big single-month jump, the collective red ink over the 10 months of the fiscal year rose to nearly $1.8 trillion, surpassing the same period in 2025.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html",
+    "image_url": null,
+    "published_at": "2026-08-12T18:56:15.000Z"
+  },
+  {
+    "headline": "Here's the inflation breakdown for July 2026 — in one chart",
+    "summary": "Costs remain elevated for consumers, however inflation is showing some signs of easing, economists say.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
+    "image_url": null,
+    "published_at": "2026-08-12T17:51:16.000Z"
   },
   {
     "headline": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
@@ -13,7 +117,23 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
     "image_url": null,
-    "published_at": "2026-08-12T16:31:38.000Z"
+    "published_at": "2026-08-12T16:59:49.000Z"
+  },
+  {
+    "headline": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
+    "summary": "Home Depot's CEO, Ted Decker, is taking a temporary medical leave of absence that's expected to last a few months.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
+    "image_url": null,
+    "published_at": "2026-08-12T16:48:53.000Z"
+  },
+  {
+    "headline": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
+    "summary": "Traffic is about 90% lower than the daily average of 130 ships that transited Hormuz before the U.S. and Israel attacked Iran on Feb. 28.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html",
+    "image_url": null,
+    "published_at": "2026-08-12T16:33:35.000Z"
   },
   {
     "headline": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
@@ -56,28 +176,12 @@
     "published_at": "2026-08-12T15:37:25.000Z"
   },
   {
-    "headline": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-    "summary": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-    "image_url": null,
-    "published_at": "2026-08-12T15:25:09.000Z"
-  },
-  {
     "headline": "AI’s costly build-out complicates the Fed’s inflation fight",
     "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
     "image_url": null,
     "published_at": "2026-08-12T15:23:12.000Z"
-  },
-  {
-    "headline": "Here's the inflation breakdown for July 2026 — in one chart",
-    "summary": "Costs remain elevated for consumers, however inflation is showing some signs of easing, economists say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
-    "image_url": null,
-    "published_at": "2026-08-12T15:13:18.000Z"
   },
   {
     "headline": "Mortgage rates finally stop rising, causing demand to trickle back",
@@ -96,14 +200,6 @@
     "published_at": "2026-08-12T14:20:10.000Z"
   },
   {
-    "headline": "CoreWeave surges 18% after a 'cleaner quarter.' Here's what's happening",
-    "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-    "image_url": null,
-    "published_at": "2026-08-12T14:16:48.000Z"
-  },
-  {
     "headline": "Inflation eases in July as gasoline and grocery prices fall",
     "summary": "Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September.",
     "publisher": "NPR",
@@ -118,14 +214,6 @@
     "url": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
     "image_url": null,
     "published_at": "2026-08-12T13:59:17.000Z"
-  },
-  {
-    "headline": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
-    "summary": "Home Depot's CEO Ted Decker is taking a temporary medical leave of absence that's expected to last a few months.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
-    "image_url": null,
-    "published_at": "2026-08-12T13:42:45.000Z"
   },
   {
     "headline": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
@@ -1510,93 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
     "image_url": null,
     "published_at": "2026-08-06T20:07:51.000Z"
-  },
-  {
-    "headline": "Savers Value Village thrift store launches new AI tool to price items",
-    "summary": "Savers Value Village is launching a new AI pricing tool to keep product prices consistent and low, the company told CNBC exclusively.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/savers-value-village-thrift-store-launches-new-ai-tool-to-price-items.html",
-    "image_url": null,
-    "published_at": "2026-08-06T20:06:56.000Z"
-  },
-  {
-    "headline": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
-    "summary": "Trump's reported phone calls to the Fed chairman will complicate his efforts to prove he will act independently on inflation and interest rates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/trump-fed-chairman-kevin-warsh-relationship.html",
-    "image_url": null,
-    "published_at": "2026-08-06T19:38:44.000Z"
-  },
-  {
-    "headline": "SpaceX shares passed a key test Thursday. Now sophisticated traders are betting the bottom may be in",
-    "summary": "Shares of Elon Musk's rocket company were trading higher in Thursday's session even as a key lock-up provision expired.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/spacex-passed-a-key-test-thursday-sophisticated-traders-bet-the-bottom-is-in.html",
-    "image_url": null,
-    "published_at": "2026-08-06T19:25:04.000Z"
-  },
-  {
-    "headline": "We're adding a critical enabler of AI computing to our Bullpen watchlist",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/were-adding-a-critical-enabler-of-ai-computing-to-our-bullpen-watchlist.html",
-    "image_url": null,
-    "published_at": "2026-08-06T18:36:52.000Z"
-  },
-  {
-    "headline": "Trump wins last-minute reprieve temporarily blocking BBC access to his business records",
-    "summary": "Trump sued the BBC for $10 billion, alleging its 2024 “Panorama” documentary about the Jan. 6, 2021, Capitol attack defamed him.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/trump-bbc-lawsuit-financial-records-court-stay.html",
-    "image_url": null,
-    "published_at": "2026-08-06T18:10:58.000Z"
-  },
-  {
-    "headline": "Big Tech's free cash flow — or lack thereof — only tells part of the investment story",
-    "summary": "Hyperscalers are still reporting impressive growth in operating cash flow.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/big-techs-free-cash-flow-or-lack-thereof-only-tells-part-of-the-investment-story.html",
-    "image_url": null,
-    "published_at": "2026-08-06T17:32:03.000Z"
-  },
-  {
-    "headline": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
-    "summary": "Fox has decided not to renegotiate its current TV deal with the NFL until the expiration of the league's opt-out clause in 2030, said CEO Lachlan Murdoch.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
-    "image_url": null,
-    "published_at": "2026-08-06T17:01:07.000Z"
-  },
-  {
-    "headline": "Ford's new 'Fathom' electric pickup truck will start at $28,000",
-    "summary": "It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform that Ford has said is key to making money with EVs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
-    "image_url": null,
-    "published_at": "2026-08-06T16:09:49.000Z"
-  },
-  {
-    "headline": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
-    "summary": "With the first tranche of SpaceX shares held by insiders unlocking, the stock could see downward pressure.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
-    "image_url": null,
-    "published_at": "2026-08-06T15:19:56.000Z"
-  },
-  {
-    "headline": "Megayacht Amadea sold for $187 million to Dubai billionaire with Trump ties",
-    "summary": "The sale of the Amadea caps a turbulent and controversial history for the 348-foot yacht, which was seized from a sanctioned Russian oligarch.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/megayacht-amadea-sale-dubai-billionaire-trump-ties.html",
-    "image_url": null,
-    "published_at": "2026-08-06T12:44:52.000Z"
-  },
-  {
-    "headline": "We're exiting our position in a spin-off play gone wrong",
-    "summary": "It will take time to restore credibility with investors after a disappointing first earnings report.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/were-exiting-our-position-in-a-spin-off-play-gone-wrong-.html",
-    "image_url": null,
-    "published_at": "2026-08-06T12:38:53.000Z"
   }
 ]
