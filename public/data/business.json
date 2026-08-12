@@ -1,19 +1,51 @@
 [
   {
+    "headline": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership",
+    "summary": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+    "image_url": null,
+    "published_at": "2026-08-12T05:10:36.000Z"
+  },
+  {
+    "headline": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+    "summary": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+    "image_url": null,
+    "published_at": "2026-08-12T05:00:01.000Z"
+  },
+  {
+    "headline": "Oil prices rise as Red Sea, Gulf of Oman attacks heighten supply concerns",
+    "summary": "Oil prices rose on Wednesday after deadly attacks on vessels in the Red Sea and Gulf of Oman heightened concerns over risks to global shipping routes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/oil-prices-today-wti-brent-red-sea.html",
+    "image_url": null,
+    "published_at": "2026-08-12T04:56:36.000Z"
+  },
+  {
+    "headline": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
+    "summary": "Progressive Democrats keep their winning streak rolling in Minnesota.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+    "image_url": null,
+    "published_at": "2026-08-12T04:51:12.000Z"
+  },
+  {
+    "headline": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
+    "summary": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
+    "image_url": null,
+    "published_at": "2026-08-12T03:37:00.000Z"
+  },
+  {
     "headline": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
     "summary": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
     "image_url": null,
     "published_at": "2026-08-12T02:58:04.000Z"
-  },
-  {
-    "headline": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
-    "summary": "Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-    "image_url": null,
-    "published_at": "2026-08-12T01:26:46.000Z"
   },
   {
     "headline": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
     "image_url": null,
     "published_at": "2026-08-05T20:36:16.000Z"
-  },
-  {
-    "headline": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
-    "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-05T20:08:59.000Z"
-  },
-  {
-    "headline": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
-    "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
-    "image_url": null,
-    "published_at": "2026-08-05T20:02:56.000Z"
-  },
-  {
-    "headline": "SpaceX stock falls 13% as AI spending surge rattles investors and massive share unlock looms",
-    "summary": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-05T20:02:03.000Z"
-  },
-  {
-    "headline": "Trump admin refunds $100 billion in 'liberation day' tariffs",
-    "summary": "The Trump administration has taken steps to effectively re-create the IEEPA tariff regime using other legal authorities. They already face court challenges.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
-    "image_url": null,
-    "published_at": "2026-08-05T19:31:26.000Z"
   }
 ]

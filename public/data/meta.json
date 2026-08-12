@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-08-12T03:15:23.416Z",
+  "lastUpdated": "2026-08-12T05:20:53.612Z",
   "topStory": {
-    "categoryKey": "business",
+    "categoryKey": "world",
     "article": {
-      "headline": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
-      "summary": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
-      "publisher": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
+      "headline": "Earthquake response strains Colombia's new government and rescuers",
+      "summary": "The earthquake killed at least 181 people and left 2,595 injured, according to Colombian authorities. At least 195 remained missing, but civilian-run databases put that number closer to 4,000.",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
       "image_url": null,
-      "published_at": "2026-08-12T02:58:04.000Z"
+      "published_at": "2026-08-12T05:13:06.000Z"
     }
   }
 }
