@@ -1,11 +1,27 @@
 [
   {
-    "headline": "Polls begin to close in primary elections across the country",
+    "headline": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
+    "summary": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
+    "image_url": null,
+    "published_at": "2026-08-12T02:58:04.000Z"
+  },
+  {
+    "headline": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
     "summary": "Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
     "image_url": null,
-    "published_at": "2026-08-11T23:00:01.000Z"
+    "published_at": "2026-08-12T01:26:46.000Z"
+  },
+  {
+    "headline": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
+    "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+    "image_url": null,
+    "published_at": "2026-08-12T01:20:13.000Z"
   },
   {
     "headline": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
@@ -22,6 +38,14 @@
     "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
     "image_url": null,
     "published_at": "2026-08-11T22:42:10.000Z"
+  },
+  {
+    "headline": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market",
+    "summary": "CNBC’s Jim Cramer said investors can quickly gauge the market by focusing on three things: bonds, oil and Nvidia.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/11/cramer-questions-figure-out-market.html",
+    "image_url": null,
+    "published_at": "2026-08-11T22:15:30.000Z"
   },
   {
     "headline": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
     "image_url": null,
     "published_at": "2026-08-05T19:31:26.000Z"
-  },
-  {
-    "headline": "We're increasing our Eli Lilly price target after another beat-and-raise quarter",
-    "summary": "The strength of its GLP-1 business suggests the stock still has more room to run.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/were-increasing-our-eli-lilly-price-target-after-another-beat-and-raise-quarter.html",
-    "image_url": null,
-    "published_at": "2026-08-05T19:28:32.000Z"
-  },
-  {
-    "headline": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
-    "summary": "Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
-    "image_url": null,
-    "published_at": "2026-08-05T19:21:24.000Z"
-  },
-  {
-    "headline": "Wall Street's 'fear gauge' is doing something unusual as stocks hit record highs",
-    "summary": "Stocks and the Cboe Volatility Index move together only about 20% of the time.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/05/wall-streets-fear-gauge-is-doing-something-unusual-as-stocks-hit-record-highs.html",
-    "image_url": null,
-    "published_at": "2026-08-05T19:18:31.000Z"
   }
 ]
