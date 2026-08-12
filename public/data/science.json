@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Ozempic may have revealed the brain’s hidden “craving center”",
+    "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that helps connect memories and surroundings with rewarding experiences. Packed with GLP-1 receptors, it ma…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T14:36:07.000Z"
+  },
+  {
+    "headline": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+    "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmospheric density about 500 kilometers above Earth. The approach could sharpen satellite tracking and hel…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T13:38:05.000Z"
+  },
+  {
+    "headline": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
+    "summary": "Scientists have pinpointed a brain network—and its distinctive electrical rhythm—that appears to drive the benefits of deep brain stimulation for Parkinson’s disease. The discovery could lead to more precise, personalized stimulation settings and better results for patients.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T13:20:59.000Z"
+  },
+  {
+    "headline": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+    "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis. The discovery could overturn how scientists interpret ancient infections and complicate the long-running mystery of syphilis’s origins.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T13:05:58.000Z"
+  },
+  {
+    "headline": "The adult brain can repair itself better than scientists thought",
+    "summary": "The adult brain may be far better at repairing itself than scientists once believed. In mice, researchers discovered a special group of support cells called astrocytes that respond to damaged brain tissue by rebuilding lost cellular networks. Rather than simply moving into the injured area, these cells perform a remark…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T12:43:16.000Z"
+  },
+  {
+    "headline": "Scientists turn sheep’s wool into a material that helps regrow bone",
+    "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerat…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T11:17:51.000Z"
+  },
+  {
+    "headline": "James Webb captures a cosmic lion sculpted by a dying star",
+    "summary": "James Webb has captured a striking new infrared view of NGC 2392, the Lion Nebula, revealing the dramatic aftermath of a dying Sun-like star. At its center, a scorching white dwarf is blasting radiation into surrounding gas and dust, carving out the nebula’s lion-like face while illuminating a sprawling “mane” of survi…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T10:15:19.000Z"
+  },
+  {
+    "headline": "A strange crystal made of electrons just revealed its hidden motion",
+    "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By shining light on an atomically thin material cooled close to absolute zero, researchers uncovered optical…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T09:10:01.000Z"
+  },
+  {
     "headline": "Nuclear power push ramps up uranium mill — and tribal health concerns",
     "summary": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry's deadly legacy.",
     "publisher": "NPR",
@@ -8,12 +72,116 @@
     "published_at": "2026-08-12T09:00:00.000Z"
   },
   {
+    "headline": "Scientists find evidence for two origins of life on Earth",
+    "summary": "Scientists probing life’s deepest origins have uncovered evidence that the first free-living cells may have emerged not once, but twice. The findings suggest a striking possibility: life may share one ancient genetic code, yet have undergone two separate transitions into free-living existence.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011134.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T05:32:21.000Z"
+  },
+  {
+    "headline": "Ordinary WiFi can now identify you with near-perfect accuracy",
+    "summary": "Ordinary WiFi networks could quietly become powerful surveillance tools, allowing people to be identified without cameras, special sensors, or even carrying a connected device. Researchers showed that unencrypted signals routinely exchanged between WiFi devices and routers can be used to create radio-based images of pe…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
+    "image_url": null,
+    "published_at": "2026-08-12T04:07:22.000Z"
+  },
+  {
     "headline": "Researchers have successfully used AI to create brand new viruses",
     "summary": "For the first time, researchers have used artificial intelligence to generate novel viruses in a laboratory setting, according to a paper in the journal Science.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/11/nx-s1-5927074/researchers-have-successfully-used-ai-to-create-brand-new-viruses",
     "image_url": null,
     "published_at": "2026-08-11T22:11:17.000Z"
+  },
+  {
+    "headline": "Dogs can tell fear from sadness — and scientists saw it in their brains",
+    "summary": "Dogs may understand our emotions more deeply than scientists realized. Brain scans show that happy human faces activate regions in dogs linked to higher-level processing and reward, suggesting that smiles carry special emotional significance for them.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011132.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T14:09:01.000Z"
+  },
+  {
+    "headline": "MIT neuroscientists discover the brain can reason without words",
+    "summary": "MIT neuroscientists have found striking evidence that language and logical reasoning are powered by separate systems in the brain. Even people with severe language impairments caused by stroke were able to solve challenging logic puzzles as well as people without those impairments, while brain scans showed that languag…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T13:12:27.000Z"
+  },
+  {
+    "headline": "“Cannot be explained” – New super steel stuns scientists",
+    "summary": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material costs by roughly 40 times and make seawater-based hydrogen production far more economical.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T12:59:40.000Z"
+  },
+  {
+    "headline": "Marine heatwaves are harming human health in surprising ways",
+    "summary": "Marine heatwaves are emerging as a threat not just to coral reefs and fisheries, but to human health and well-being. Researchers warn that unusually hot oceans can fuel stronger storms, trigger harmful algal blooms, reduce seafood supplies, disrupt livelihoods, and contribute to anxiety, grief, and depression in coasta…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011127.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T12:09:21.000Z"
+  },
+  {
+    "headline": "King Harold may have lost England by backing the wrong pope",
+    "summary": "A forgotten fragment of a lost papal letter is offering a surprising new explanation for the Norman Conquest. England may have backed the wrong pope during a bitter religious power struggle, giving Pope Alexander II a political reason to support William the Conqueror’s invasion. The discovery suggests Harold’s downfall…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011129.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T11:30:24.000Z"
+  },
+  {
+    "headline": "Black holes older than the Big Bang could explain dark matter",
+    "summary": "Some black holes roaming the Universe today may actually be older than the Big Bang. A new cosmic “bounce” model suggests the Universe expanded from an earlier contracting phase, allowing ancient black holes to survive the transition as cosmic fossils. These relics could potentially explain dark matter and why surprisi…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T10:14:58.000Z"
+  },
+  {
+    "headline": "150-million-year-old dinosaur footprints reveal something strange about its walk",
+    "summary": "A spectacular 150-million-year-old trail of more than 130 footprints captures a giant sauropod making a complete loop before continuing on its way. Its uneven stride hints that the long-necked dinosaur may have been walking with a limp.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260810015727.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T05:03:41.000Z"
+  },
+  {
+    "headline": "NASA’s moon base is taking shape with 20+ lunar landings planned",
+    "summary": "NASA is assembling the foundations of a future Moon Base through a wave of robotic missions and powerful new commercial landers. More than 20 landings are planned through 2029, testing everything from precision landings and lunar communications to rovers, power systems, and technology that can survive the Moon’s extrem…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260810015706.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T04:22:06.000Z"
+  },
+  {
+    "headline": "A simple blood test could detect multiple cancers and reveal where they started",
+    "summary": "UCLA researchers have created a blood test that can scan DNA signals for multiple cancers, liver diseases, and signs of organ damage—and even indicate where trouble may be developing. Early results suggest the inexpensive approach could bring medicine closer to a single blood test capable of catching a wide range of di…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260810015725.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T02:36:37.000Z"
+  },
+  {
+    "headline": "The secret hidden in these ancient manuscripts isn’t written in ink",
+    "summary": "Researchers can now recover DNA from centuries-old parchment without damaging the manuscripts, turning historic documents into unexpected genetic time capsules. The hidden clues could reveal ancient trade routes, livestock history, manuscript origins, and details of everyday life stretching back more than a thousand ye…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260810015723.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T02:08:08.000Z"
+  },
+  {
+    "headline": "Exercise may help the aging brain “take out the trash”",
+    "summary": "Regular exercise may help the brain clear away harmful waste that can build up with age. Researchers found that physical activity supports several processes linked to the brain’s glymphatic cleanup system, including better sleep, lower inflammation, and healthier blood vessels. Because this waste-removal system becomes…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260810015719.htm",
+    "image_url": null,
+    "published_at": "2026-08-11T01:49:14.000Z"
   },
   {
     "headline": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
@@ -1430,173 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260727012123.htm",
     "image_url": null,
     "published_at": "2026-07-27T08:29:41.000Z"
-  },
-  {
-    "headline": "After 241 days in orbit this NASA astronaut is finally home",
-    "summary": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and included 3,856 trips around the planet.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
-    "image_url": null,
-    "published_at": "2026-07-27T08:06:53.000Z"
-  },
-  {
-    "headline": "The best way to save giant sequoias may be more fire",
-    "summary": "Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias found that trees in areas treated with prescribed burns were nearly four times more likely to survive. Researchers estim…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm",
-    "image_url": null,
-    "published_at": "2026-07-26T13:18:59.000Z"
-  },
-  {
-    "headline": "Your AI calorie-tracking app may be off by 345 calories",
-    "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal. Four apps underestimated calories and fat by about one-third when tested against carefully prepared meals. High-fat ketogenic dishes appeared to cause the most trouble, while carbohydrates w…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
-    "image_url": null,
-    "published_at": "2026-07-26T13:06:15.000Z"
-  },
-  {
-    "headline": "CRISPR makes prostate cancer vulnerable to immunotherapy",
-    "summary": "Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may offer hope for other hard-to-treat tumors.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
-    "image_url": null,
-    "published_at": "2026-07-26T12:36:23.000Z"
-  },
-  {
-    "headline": "Why losing the wrong fat can trigger diabetes",
-    "summary": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from excess fat, but also from losing the healthy fat tissue the body needs.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm",
-    "image_url": null,
-    "published_at": "2026-07-26T11:43:14.000Z"
-  },
-  {
-    "headline": "A hidden Alzheimer’s tipping point may decide who gets dementia",
-    "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a promising new target for treatments designed to extend cognitive resilience.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
-    "image_url": null,
-    "published_at": "2026-07-26T10:14:57.000Z"
-  },
-  {
-    "headline": "Climate change is now threatening a pillar of childhood: summer break",
-    "summary": "When summer rolls around, many parents scramble to sign up their young kids for outdoor activities. But what do you do when extreme heat and wildfire smoke increasingly make the outdoors dangerous?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-    "image_url": null,
-    "published_at": "2026-07-26T09:00:00.000Z"
-  },
-  {
-    "headline": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
-    "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researcher…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
-    "image_url": null,
-    "published_at": "2026-07-26T08:16:35.000Z"
-  },
-  {
-    "headline": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
-    "summary": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000 large genetic differences in brown tree snakes, many concentrated in genes tied to immunity and smell.…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
-    "image_url": null,
-    "published_at": "2026-07-26T07:15:38.000Z"
-  },
-  {
-    "headline": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
-    "summary": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the pineal gland, which helps synchronize our sleep with daylight.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
-    "image_url": null,
-    "published_at": "2026-07-26T05:10:29.000Z"
-  },
-  {
-    "headline": "A single dose reversed autism-like symptoms in adult mice within hours",
-    "summary": "Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours. The benefits were temporary, but they suggest that…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
-    "image_url": null,
-    "published_at": "2026-07-25T15:09:37.000Z"
-  },
-  {
-    "headline": "Superagers keep youthful memories but their DNA does not explain why",
-    "summary": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces involving the brain, body, lifestyle, and environment.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260723084045.htm",
-    "image_url": null,
-    "published_at": "2026-07-25T14:41:54.000Z"
-  },
-  {
-    "headline": "Scientists put the “recycling is a distraction” claim to the test",
-    "summary": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
-    "image_url": null,
-    "published_at": "2026-07-25T14:00:35.000Z"
-  },
-  {
-    "headline": "The Universe can outrun light without breaking Einstein’s rules",
-    "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-    "image_url": null,
-    "published_at": "2026-07-25T13:17:03.000Z"
-  },
-  {
-    "headline": "Coffee may help shield the liver from fat, scarring, and cancer",
-    "summary": "A major long-term study linked coffee consumption with lower risks of cirrhosis, liver cancer, and death from liver disease. Coffee drinkers also showed healthier liver scans and blood protein patterns, with less fat, inflammation, and scarring. Benefits appeared even at one or two cups daily and were strongest around…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719035955.htm",
-    "image_url": null,
-    "published_at": "2026-07-25T12:26:47.000Z"
-  },
-  {
-    "headline": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
-    "summary": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and potentially treating substance use disorder.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
-    "image_url": null,
-    "published_at": "2026-07-25T11:34:04.000Z"
-  },
-  {
-    "headline": "A daily fiber supplement reduced knee arthritis pain and improved strength",
-    "summary": "A prebiotic fiber supplement reduced knee osteoarthritis pain while also improving grip strength and pain sensitivity in a six-week trial. The results hint at a fascinating gut-muscle-pain connection and suggest that a simple daily supplement may be easier to maintain than digital physiotherapy.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260724061448.htm",
-    "image_url": null,
-    "published_at": "2026-07-25T10:01:05.000Z"
-  },
-  {
-    "headline": "Scientists discover the Sun contains 55% more silver than expected",
-    "summary": "A new analysis suggests the Sun holds far more silver than earlier estimates indicated. More advanced models of the solar atmosphere raised the calculated amount by 55 percent, bringing it into much closer agreement with ancient meteorites. The technique may also help scientists track the cosmic origins of silver and o…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
-    "image_url": null,
-    "published_at": "2026-07-25T01:55:27.000Z"
-  },
-  {
-    "headline": "Trump officials herald a 'golden age' of science. Critics say it's a distraction",
-    "summary": "White House officials say they are ushering in a new \"golden age\" of science, with changes to grantmaking and priorities like AI and quantum computing. Democrats say it masks damage to U.S. science.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/24/nx-s1-5904455/trump-officials-herald-a-golden-age-of-science-critics-say-its-a-distraction",
-    "image_url": null,
-    "published_at": "2026-07-24T20:25:59.000Z"
-  },
-  {
-    "headline": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
-    "summary": "Stanford Medicine researchers have discovered a naturally occurring molecule that may suppress appetite and reduce body weight much like Ozempic, but without several of its common side effects. The molecule, called BRP, acts on a more targeted region of the brain involved in hunger and metabolism rather than affecting…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
-    "image_url": null,
-    "published_at": "2026-07-24T13:44:43.000Z"
-  },
-  {
-    "headline": "Scientists discover a compound that could supercharge aging muscle repair",
-    "summary": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
-    "image_url": null,
-    "published_at": "2026-07-24T13:37:50.000Z"
   }
 ]
