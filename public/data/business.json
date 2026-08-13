@@ -384,18 +384,18 @@
     "published_at": "2026-08-12T09:15:43.000Z"
   },
   {
-    "headline": "AI chatbots are offering financial advice. Should you trust them?",
-    "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-    "image_url": null,
-    "published_at": "2026-08-12T09:00:00.000Z"
-  },
-  {
     "headline": "Here's how gyms, salons and ice cream are changing America's Main Streets",
     "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+    "image_url": null,
+    "published_at": "2026-08-12T09:00:00.000Z"
+  },
+  {
+    "headline": "AI chatbots are offering financial advice. Should you trust them?",
+    "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
     "image_url": null,
     "published_at": "2026-08-12T09:00:00.000Z"
   },
