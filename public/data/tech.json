@@ -1,5 +1,165 @@
 [
   {
+    "headline": "OpenAI hires new CRO as executive shake-up continues",
+    "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "image_url": null,
+    "published_at": "2026-08-13T17:07:13.000Z"
+  },
+  {
+    "headline": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
+    "summary": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features what appears to be a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+    "image_url": null,
+    "published_at": "2026-08-13T16:38:15.000Z"
+  },
+  {
+    "headline": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+    "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+    "image_url": null,
+    "published_at": "2026-08-13T16:37:53.000Z"
+  },
+  {
+    "headline": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+    "summary": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-level pre-tooling pha…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+    "image_url": null,
+    "published_at": "2026-08-13T16:23:18.000Z"
+  },
+  {
+    "headline": "Meta adds AI screening to detect WhatsApp scams",
+    "summary": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+    "image_url": null,
+    "published_at": "2026-08-13T16:10:06.000Z"
+  },
+  {
+    "headline": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+    "summary": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+    "image_url": null,
+    "published_at": "2026-08-13T16:00:00.000Z"
+  },
+  {
+    "headline": "Suno is trying to look more like a real music production tool",
+    "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequis…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "image_url": null,
+    "published_at": "2026-08-13T16:00:00.000Z"
+  },
+  {
+    "headline": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+    "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+    "image_url": null,
+    "published_at": "2026-08-13T16:00:00.000Z"
+  },
+  {
+    "headline": "Instagram introduces a redesigned wordmark",
+    "summary": "The social media giant says it was time for a sharper and more modern look after a decade.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+    "image_url": null,
+    "published_at": "2026-08-13T15:46:02.000Z"
+  },
+  {
+    "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "image_url": null,
+    "published_at": "2026-08-13T15:30:52.000Z"
+  },
+  {
+    "headline": "I looked inside an AI generated movie, and the best parts were all human",
+    "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to acc…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "image_url": null,
+    "published_at": "2026-08-13T15:30:00.000Z"
+  },
+  {
+    "headline": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "image_url": null,
+    "published_at": "2026-08-13T15:08:00.000Z"
+  },
+  {
+    "headline": "This is Instagram&#8217;s new logo",
+    "summary": "It’s certainly… different. | Image: Meta Instagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that totally says \"Instagzam,\" right…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
+    "image_url": null,
+    "published_at": "2026-08-13T15:00:38.000Z"
+  },
+  {
+    "headline": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
+    "summary": "Going into my demo of Marvel's Wolverine, I mainly wanted to try out the game's very bloody combat. And it is delightfully bloody. But after two-ish hours of slashing and stabbing (and parrying!) enemies with Wolverine's claws, I left surprised - despite no previous attachment to the character, I was deeply endeared to…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
+    "image_url": null,
+    "published_at": "2026-08-13T15:00:00.000Z"
+  },
+  {
+    "headline": "Who really needs a cocktail robot?",
+    "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+    "image_url": null,
+    "published_at": "2026-08-13T15:00:00.000Z"
+  },
+  {
+    "headline": "Apple in talks to pay publishers to provide Siri with current news: report",
+    "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+    "image_url": null,
+    "published_at": "2026-08-13T14:34:43.000Z"
+  },
+  {
+    "headline": "Does Google even want to win at AI?",
+    "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the compa…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+    "image_url": null,
+    "published_at": "2026-08-13T14:10:31.000Z"
+  },
+  {
+    "headline": "In a first, US will allow some private firms to carry out cyberattacks",
+    "summary": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+    "image_url": null,
+    "published_at": "2026-08-13T14:09:05.000Z"
+  },
+  {
+    "headline": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
+    "summary": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. For years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with standalone seats instead of a bench in the second row. Parents groused that loading and un…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
+    "image_url": null,
+    "published_at": "2026-08-13T14:00:00.000Z"
+  },
+  {
+    "headline": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
+    "summary": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-08-13T13:30:00.000Z"
+  },
+  {
     "headline": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
     "publisher": "TechCrunch",
@@ -1438,165 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
     "image_url": null,
     "published_at": "2026-08-06T21:24:47.000Z"
-  },
-  {
-    "headline": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-    "image_url": null,
-    "published_at": "2026-08-06T21:20:00.000Z"
-  },
-  {
-    "headline": "Trevor Noah is hosting Google’s Pixel 11 launch event",
-    "summary": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will feature other celebrities and influencers as well, including Call Her Daddy host Alex Cooper (who was a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
-    "image_url": null,
-    "published_at": "2026-08-06T21:15:47.000Z"
-  },
-  {
-    "headline": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "image_url": null,
-    "published_at": "2026-08-06T20:55:39.000Z"
-  },
-  {
-    "headline": "The AirPods Pro are $60 off, their best price since late June",
-    "summary": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge Best Buy kicked off a sale on Apple products with discounts on its latest smartwatches to phones. Another deal that caught our eye is on the latest AirPods Pro, Apple’s flagship wireless earbuds, which are down to $189.99 ($60 off), with retailers like Amazon…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-06T20:00:00.000Z"
-  },
-  {
-    "headline": "Google says hackers are calling financial firm employees to hack and extort victims",
-    "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-    "image_url": null,
-    "published_at": "2026-08-06T19:40:46.000Z"
-  },
-  {
-    "headline": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-    "summary": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
-    "image_url": null,
-    "published_at": "2026-08-06T19:22:30.000Z"
-  },
-  {
-    "headline": "Defense tech Hadrian raises $1.37B at $8B valuation",
-    "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
-    "image_url": null,
-    "published_at": "2026-08-06T19:02:57.000Z"
-  },
-  {
-    "headline": "The Zelda movie’s Ganondorf casting hints at more movies",
-    "summary": "Deadline reported Thursday that the upcoming The Legend of Zelda movie will feature Australian actor Uli Latukefu as the villain Ganondorf, and the publication notes that \"We hear Latukefu inked a multi-picture deal.\" Nintendo or Sony haven't formally confirmed that there's more than one movie in the works, though it's…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
-    "image_url": null,
-    "published_at": "2026-08-06T18:31:57.000Z"
-  },
-  {
-    "headline": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
-    "summary": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
-    "image_url": null,
-    "published_at": "2026-08-06T17:41:56.000Z"
-  },
-  {
-    "headline": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
-    "summary": "Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
-    "image_url": null,
-    "published_at": "2026-08-06T17:39:47.000Z"
-  },
-  {
-    "headline": "Suno shares plans to combat spammy AI music",
-    "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-    "image_url": null,
-    "published_at": "2026-08-06T17:39:43.000Z"
-  },
-  {
-    "headline": "Brendan Carr officially unleashes broadcast consolidation",
-    "summary": "The era of set broadcast ownership limits is officially over, after the Federal Communications Commission (FCC) voted Thursday to end the national ownership cap rule. The agency's two Republicans, Chair Brendan Carr and Commissioner Olivia Trusty, voted to end the ownership cap, which restricts broadcast owners from ho…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends",
-    "image_url": null,
-    "published_at": "2026-08-06T17:35:38.000Z"
-  },
-  {
-    "headline": "ChatGPT brings unlimited text chats to free users",
-    "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "image_url": null,
-    "published_at": "2026-08-06T17:34:42.000Z"
-  },
-  {
-    "headline": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "image_url": null,
-    "published_at": "2026-08-06T17:00:37.000Z"
-  },
-  {
-    "headline": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but those limits, just for text, will…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-    "image_url": null,
-    "published_at": "2026-08-06T17:00:00.000Z"
-  },
-  {
-    "headline": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
-    "summary": "Connor Moucka pled guilty to hacking and stealing data from more than 165 Snowflake customers, which net him and his accomplices more than $2.5 million in ransom payments.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
-    "image_url": null,
-    "published_at": "2026-08-06T16:42:40.000Z"
-  },
-  {
-    "headline": "TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream",
-    "summary": "TikTok says a \"moderator error\" delayed the removal of a livestream that appeared to show blogger Perez Hilton harming himself, as reported earlier by Wired. Jamie Favazza, a spokesperson for TikTok US, tells The Verge that the platform notified law enforcement about the situation and banned Hilton's account for violat…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error",
-    "image_url": null,
-    "published_at": "2026-08-06T16:41:25.000Z"
-  },
-  {
-    "headline": "TikTok lays off 250 employees, shutters its Nashville office",
-    "summary": "The social media giant is shuttering an office that housed some members of TikTok’s content-moderation team.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
-    "image_url": null,
-    "published_at": "2026-08-06T16:06:40.000Z"
-  },
-  {
-    "headline": "Google Wallet now lets parents set up secure balances for their kids",
-    "summary": "The tech giant says the new feature will allow parents to teach their kids healthy financial habits while maintaining oversight over their child's spending with built-in safeguards.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/",
-    "image_url": null,
-    "published_at": "2026-08-06T16:00:00.000Z"
-  },
-  {
-    "headline": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "image_url": null,
-    "published_at": "2026-08-06T15:53:03.000Z"
   }
 ]
