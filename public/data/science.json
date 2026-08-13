@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Photos: See the best photos from the solar eclipse",
+    "summary": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
+    "image_url": null,
+    "published_at": "2026-08-13T01:38:01.000Z"
+  },
+  {
     "headline": "Ozempic may have revealed the brain’s hidden “craving center”",
     "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that helps connect memories and surroundings with rewarding experiences. Packed with GLP-1 receptors, it ma…",
     "publisher": "ScienceDaily",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260727012125.htm",
     "image_url": null,
     "published_at": "2026-07-27T09:02:45.000Z"
-  },
-  {
-    "headline": "Why the same DNA damage causes cancer in some people but not others",
-    "summary": "A controlled mouse study has provided direct evidence that inherited genetics can steer how cancer begins and evolves after DNA damage. The discovery could eventually help doctors better predict cancer risk and tailor screening and treatments to each patient.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260727012123.htm",
-    "image_url": null,
-    "published_at": "2026-07-27T08:29:41.000Z"
   }
 ]
