@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Oil prices drop as investors weigh falling demand against Middle East tensions",
+    "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+    "image_url": null,
+    "published_at": "2026-08-13T11:10:52.000Z"
+  },
+  {
+    "headline": "New CNBC Generation Lab poll shows almost half of 18 to 34 year-olds favor Democratic Socialism",
+    "summary": "New CNBC Generation Lab poll shows almost half of 18 to 34 year-olds favor Democratic Socialism and see the U.S. economy very negatively",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-shows-half-of-18-to-34-year-olds-view-socialism-positively.html",
+    "image_url": null,
+    "published_at": "2026-08-13T11:00:01.000Z"
+  },
+  {
+    "headline": "In pictures: Europe's best solar eclipse since 1999",
+    "summary": "A total solar eclipse crossed Iceland and Spain on Aug. 12, while much of Europe saw a partial eclipse and businesses benefited from demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html",
+    "image_url": null,
+    "published_at": "2026-08-13T10:06:50.000Z"
+  },
+  {
+    "headline": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+    "summary": "Ukraine has launched a heavy drone assault on warships and major Russian grain export terminals in the Black Sea port city of Novorossiysk.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
+    "image_url": null,
+    "published_at": "2026-08-13T10:01:40.000Z"
+  },
+  {
     "headline": "World’s largest jeweler bets on platinum despite falling silver prices, CEO tells CNBC",
     "summary": "Pandora is moving ahead with platinum-plated jewelry as it seeks to reduce its exposure to volatile silver prices despite the metal's recent decline.",
     "publisher": "CNBC",
@@ -24,12 +56,12 @@
     "published_at": "2026-08-13T09:00:01.000Z"
   },
   {
-    "headline": "Oil prices fall as investors weigh falling demand against Middle East tensions",
-    "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
+    "headline": "Treasury yields dip as Wall Street awaits wholesale inflation data",
+    "summary": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — fell over one basis point to 4.674%.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+    "url": "https://www.cnbc.com/2026/08/13/treasury-yields-wall-street-inflation-data.html",
     "image_url": null,
-    "published_at": "2026-08-13T08:43:23.000Z"
+    "published_at": "2026-08-13T08:40:17.000Z"
   },
   {
     "headline": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
@@ -38,22 +70,6 @@
     "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
     "image_url": null,
     "published_at": "2026-08-13T08:28:14.000Z"
-  },
-  {
-    "headline": "In pictures: Europe sees best solar eclipse since 1999",
-    "summary": "A total solar eclipse crossed Iceland and Spain on Aug. 12, while much of Europe saw a partial eclipse and businesses benefited from demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html",
-    "image_url": null,
-    "published_at": "2026-08-13T07:51:26.000Z"
-  },
-  {
-    "headline": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
-    "summary": "Ukraine has launched a heavy drone assault on warships and major Russian grain export terminals in the Black Sea port city of Novorossiysk.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
-    "image_url": null,
-    "published_at": "2026-08-13T07:20:28.000Z"
   },
   {
     "headline": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
@@ -134,6 +150,14 @@
     "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
     "image_url": null,
     "published_at": "2026-08-12T23:41:02.000Z"
+  },
+  {
+    "headline": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair'",
+    "summary": "Novo Nordisk CEO defended the company's decision to sue rival Eli Lilly over its weight-loss drug advertising.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/novo-nordisk-ceo-defends-lawsuit-against-eli-lilly.html",
+    "image_url": null,
+    "published_at": "2026-08-12T22:53:21.000Z"
   },
   {
     "headline": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
@@ -432,18 +456,18 @@
     "published_at": "2026-08-12T09:15:43.000Z"
   },
   {
-    "headline": "AI chatbots are offering financial advice. Should you trust them?",
-    "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-    "image_url": null,
-    "published_at": "2026-08-12T09:00:00.000Z"
-  },
-  {
     "headline": "Here's how gyms, salons and ice cream are changing America's Main Streets",
     "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+    "image_url": null,
+    "published_at": "2026-08-12T09:00:00.000Z"
+  },
+  {
+    "headline": "AI chatbots are offering financial advice. Should you trust them?",
+    "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
     "image_url": null,
     "published_at": "2026-08-12T09:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/07/wildfires-insurance-cover-zurich-allianz-munich.html",
     "image_url": null,
     "published_at": "2026-08-07T10:59:15.000Z"
-  },
-  {
-    "headline": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-    "summary": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-    "image_url": null,
-    "published_at": "2026-08-07T10:00:00.000Z"
-  },
-  {
-    "headline": "Yen rally fades a week after U.S.-Japan intervention as focus shifts to policy",
-    "summary": "The coordinated involvement from the Treasury and BoJ had initially lifted the yen as low as 155 to the dollar, down from just above 163 beforehand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/us-japan-intervention-yen-unwinds-gains.html",
-    "image_url": null,
-    "published_at": "2026-08-07T09:18:47.000Z"
-  },
-  {
-    "headline": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
-    "summary": "Memory prices have surged because of short supply and huge demand with investors watching closely for any changes to the supply-demand imbalance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
-    "image_url": null,
-    "published_at": "2026-08-07T09:02:59.000Z"
   }
 ]
