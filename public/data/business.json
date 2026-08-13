@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Japan wholesale inflation eases slightly to 7.2%, undershooting expectations",
+    "summary": "The PPI reading was lower than the 7.4% expected by economists polled by Reuters, and was down from a revised 7.3% seen in June.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/japan-ppi-inflation-energy-prices-takaichi-cpi.html",
+    "image_url": null,
+    "published_at": "2026-08-13T00:31:49.000Z"
+  },
+  {
+    "headline": "Inside India newsletter: Why global funds are flocking to GIFT City in Modi’s home state",
+    "summary": "Favorable regulations, a growing local investor base, and tax holidays are giving momentum to India's GIFT City.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/global-funds-blackrock-modi-gift-city.html",
+    "image_url": null,
+    "published_at": "2026-08-13T00:15:59.000Z"
+  },
+  {
+    "headline": "Trump sued over Truth Social advance access sale",
+    "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+    "image_url": null,
+    "published_at": "2026-08-13T00:13:21.000Z"
+  },
+  {
+    "headline": "Cerebras stock plunges 14% after second earnings report following IPO",
+    "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-12T23:49:23.000Z"
+  },
+  {
+    "headline": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
+    "summary": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
+    "image_url": null,
+    "published_at": "2026-08-12T23:41:02.000Z"
+  },
+  {
     "headline": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
     "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
     "publisher": "CNBC",
@@ -14,14 +54,6 @@
     "url": "https://www.cnbc.com/2026/08/12/ford-lincoln-us-china.html",
     "image_url": null,
     "published_at": "2026-08-12T22:36:44.000Z"
-  },
-  {
-    "headline": "Cerebras stock plunges 14% after second earnings report following IPO",
-    "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-12T22:18:58.000Z"
   },
   {
     "headline": "Trump says Karoline Leavitt resigning as White House press secretary",
@@ -46,14 +78,6 @@
     "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
     "image_url": null,
     "published_at": "2026-08-12T21:37:18.000Z"
-  },
-  {
-    "headline": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
-    "summary": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
-    "image_url": null,
-    "published_at": "2026-08-12T21:18:35.000Z"
   },
   {
     "headline": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
@@ -174,14 +198,6 @@
     "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
     "image_url": null,
     "published_at": "2026-08-12T16:27:16.000Z"
-  },
-  {
-    "headline": "Trump sued over Truth Social advance access sale",
-    "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
-    "image_url": null,
-    "published_at": "2026-08-12T16:25:58.000Z"
   },
   {
     "headline": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
@@ -320,18 +336,18 @@
     "published_at": "2026-08-12T09:15:43.000Z"
   },
   {
-    "headline": "AI chatbots are offering financial advice. Should you trust them?",
-    "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-    "image_url": null,
-    "published_at": "2026-08-12T09:00:00.000Z"
-  },
-  {
     "headline": "Here's how gyms, salons and ice cream are changing America's Main Streets",
     "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+    "image_url": null,
+    "published_at": "2026-08-12T09:00:00.000Z"
+  },
+  {
+    "headline": "AI chatbots are offering financial advice. Should you trust them?",
+    "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
     "image_url": null,
     "published_at": "2026-08-12T09:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
     "image_url": null,
     "published_at": "2026-08-06T21:24:38.000Z"
-  },
-  {
-    "headline": "Sen. Mitch McConnell says he's left rehab, will work from home",
-    "summary": "\"On the advice of my doctors, I'll maintain an intensive regimen of physical therapy from home during the state work period,\" the 84-year-old McConnell said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/mitch-mcconnell-health-update-senate-gop.html",
-    "image_url": null,
-    "published_at": "2026-08-06T20:52:34.000Z"
-  },
-  {
-    "headline": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns",
-    "summary": "Virginia's State Corporation Commission is tasked with reviewing the deal and will either accept, reject or impose conditions on it.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/virginia-governor-nextera-nee-dominion-data-center.html",
-    "image_url": null,
-    "published_at": "2026-08-06T20:50:59.000Z"
   }
 ]
