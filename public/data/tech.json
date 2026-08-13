@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "image_url": null,
+    "published_at": "2026-08-13T20:14:39.000Z"
+  },
+  {
+    "headline": "This school-friendly laptop from HP is $300 off",
+    "summary": "The HP OmniBook X Flip 2-in-1 converts for tablet or tented use. | Image: The Verge With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, bringing the cost…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-13T20:07:53.000Z"
+  },
+  {
     "headline": "OpenAI is losing its second executive this week",
     "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over th…",
     "publisher": "The Verge",
@@ -8,7 +24,7 @@
     "published_at": "2026-08-13T19:28:39.000Z"
   },
   {
-    "headline": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+    "headline": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
     "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
@@ -1582,21 +1598,5 @@
     "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
     "image_url": null,
     "published_at": "2026-08-07T14:05:00.000Z"
-  },
-  {
-    "headline": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "image_url": null,
-    "published_at": "2026-08-07T12:30:00.000Z"
-  },
-  {
-    "headline": "The best classic slasher movie you&#8217;ll never watch",
-    "summary": "Starting with the original in Camp Miasma in 1980, the horror franchise went on to have a long life. There were multiple sequels, spinoffs in the form of arcade cabinets and board games, and just about every kind of merchandise you can think of, from alarm clocks and lunch boxes to Halloween costumes and action figures…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design",
-    "image_url": null,
-    "published_at": "2026-08-07T12:00:00.000Z"
   }
 ]
