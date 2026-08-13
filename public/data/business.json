@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Oil prices fall after U.S. says crude exports through Hormuz near 9 million barrels per day",
+    "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+    "image_url": null,
+    "published_at": "2026-08-13T19:37:57.000Z"
+  },
+  {
+    "headline": "Workday skyrockets 18%, trading halted multiple times on report of Silver Lake takeover",
+    "summary": "Workday investors have been on edge over the prospect of AI disrupting its business model",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+    "image_url": null,
+    "published_at": "2026-08-13T19:24:15.000Z"
+  },
+  {
+    "headline": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+    "summary": "Anthropic CFO Krishna Rao is leading early investor meetings, which have focused on big-picture themes like its Claude AI models, management and more.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+    "image_url": null,
+    "published_at": "2026-08-13T18:44:12.000Z"
+  },
+  {
+    "headline": "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
+    "summary": "Cisco is showing booming demand for AI infrastructure, but its results weren't good enough to satisfy investors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
+    "image_url": null,
+    "published_at": "2026-08-13T18:17:37.000Z"
+  },
+  {
+    "headline": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office",
+    "summary": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
+    "image_url": null,
+    "published_at": "2026-08-13T18:02:01.000Z"
+  },
+  {
+    "headline": "Here's a rapid-fire update on our 32-stock portfolio, including Cramer's 5 favorites to buy",
+    "summary": "Jim Cramer's favorite stocks right now include a trio of chipmakers and a transportation giant.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/heres-a-rapid-fire-update-on-our-32-stock-portfolio-including-cramers-5-favorites-to-buy.html",
+    "image_url": null,
+    "published_at": "2026-08-13T17:53:51.000Z"
+  },
+  {
     "headline": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
     "summary": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
     "publisher": "CNBC",
@@ -32,14 +80,6 @@
     "published_at": "2026-08-13T17:04:49.000Z"
   },
   {
-    "headline": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-    "summary": "Anthropic CFO Krishna Rao is leading early investor meetings, which have focused on big-picture themes like its Claude AI models, management and more.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
-    "image_url": null,
-    "published_at": "2026-08-13T17:00:49.000Z"
-  },
-  {
     "headline": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
     "summary": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
     "publisher": "CNBC",
@@ -62,14 +102,6 @@
     "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
     "image_url": null,
     "published_at": "2026-08-13T16:06:38.000Z"
-  },
-  {
-    "headline": "Oil prices fall as investors weigh falling demand against Middle East tensions",
-    "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
-    "image_url": null,
-    "published_at": "2026-08-13T15:31:20.000Z"
   },
   {
     "headline": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
@@ -150,14 +182,6 @@
     "url": "https://www.cnbc.com/2026/08/13/how-a-california-goat-herding-company-is-hedging-against-risk-of-higher-wages.html",
     "image_url": null,
     "published_at": "2026-08-13T12:27:31.000Z"
-  },
-  {
-    "headline": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office",
-    "summary": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
-    "image_url": null,
-    "published_at": "2026-08-13T12:20:46.000Z"
   },
   {
     "headline": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/07/a-huge-day-and-week-for-corning-as-the-sp-500-aims-for-record-close.html",
     "image_url": null,
     "published_at": "2026-08-07T16:59:17.000Z"
-  },
-  {
-    "headline": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
-    "summary": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
-    "image_url": null,
-    "published_at": "2026-08-07T16:55:42.000Z"
-  },
-  {
-    "headline": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
-    "summary": "Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
-    "image_url": null,
-    "published_at": "2026-08-07T16:47:55.000Z"
-  },
-  {
-    "headline": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
-    "summary": "Airbnb CEO Brian Chesky wasn’t sure AI would help the company, but a year later, he says it’s the reason growth is back.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-07T16:28:54.000Z"
   }
 ]

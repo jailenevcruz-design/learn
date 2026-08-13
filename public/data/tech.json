@@ -1,5 +1,61 @@
 [
   {
+    "headline": "OpenAI is losing its second executive this week",
+    "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "image_url": null,
+    "published_at": "2026-08-13T19:28:39.000Z"
+  },
+  {
+    "headline": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "image_url": null,
+    "published_at": "2026-08-13T19:22:40.000Z"
+  },
+  {
+    "headline": "IBM partners with OpenAI to bolster enterprise AI push",
+    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "image_url": null,
+    "published_at": "2026-08-13T19:19:49.000Z"
+  },
+  {
+    "headline": "The Trump admin will start letting private firms launch international cyberattacks",
+    "summary": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal netwo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+    "image_url": null,
+    "published_at": "2026-08-13T18:56:13.000Z"
+  },
+  {
+    "headline": "I finally found a robot lawnmower I’d trust with my yard",
+    "summary": "From left, Segway, Roborock, Dreame, Husqvarna, and Mammotion automowers lined up to do battle with my lawn. | Photo: Jennifer Pattison Tuohy / The Verge Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+    "image_url": null,
+    "published_at": "2026-08-13T18:30:00.000Z"
+  },
+  {
+    "headline": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "image_url": null,
+    "published_at": "2026-08-13T18:28:14.000Z"
+  },
+  {
+    "headline": "You can now just point at a mess and this robot vacuum will suck it up",
+    "summary": "The Matic robot vacuum now offers gesture controlled spot cleaning and a built-in voice assistant. | Photo by Jennifer Pattison Tuohy / The Verge Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk d…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+    "image_url": null,
+    "published_at": "2026-08-13T18:00:00.000Z"
+  },
+  {
     "headline": "OpenAI hires new CRO as executive shake-up continues",
     "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
     "publisher": "TechCrunch",
@@ -104,18 +160,18 @@
     "published_at": "2026-08-13T15:00:38.000Z"
   },
   {
-    "headline": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
-    "summary": "Going into my demo of Marvel's Wolverine, I mainly wanted to try out the game's very bloody combat. And it is delightfully bloody. But after two-ish hours of slashing and stabbing (and parrying!) enemies with Wolverine's claws, I left surprised - despite no previous attachment to the character, I was deeply endeared to…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
-    "image_url": null,
-    "published_at": "2026-08-13T15:00:00.000Z"
-  },
-  {
     "headline": "Who really needs a cocktail robot?",
     "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+    "image_url": null,
+    "published_at": "2026-08-13T15:00:00.000Z"
+  },
+  {
+    "headline": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
+    "summary": "Going into my demo of Marvel's Wolverine, I mainly wanted to try out the game's very bloody combat. And it is delightfully bloody. But after two-ish hours of slashing and stabbing (and parrying!) enemies with Wolverine's claws, I left surprised - despite no previous attachment to the character, I was deeply endeared to…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
     "image_url": null,
     "published_at": "2026-08-13T15:00:00.000Z"
   },
@@ -1542,61 +1598,5 @@
     "url": "https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design",
     "image_url": null,
     "published_at": "2026-08-07T12:00:00.000Z"
-  },
-  {
-    "headline": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "summary": "Meta's total fine has racked up to $942 million in this case.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "image_url": null,
-    "published_at": "2026-08-07T11:40:37.000Z"
-  },
-  {
-    "headline": "Why does Apple keep banning Telegram, but never X?",
-    "summary": "Elon Musk in the Oval Office on May 30th, 2025. | Photo by Kevin Dietsch / Getty Images For roughly an hour this week, Telegram vanished from Apple's App Store. Even during that blip, it was a stunning absence for such a major app: an avenue of communication for more than 1 billion users around the world, used widely a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
-    "image_url": null,
-    "published_at": "2026-08-07T11:00:00.000Z"
-  },
-  {
-    "headline": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
-    "summary": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comedy. I'm here to report that it does not do t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
-    "image_url": null,
-    "published_at": "2026-08-07T10:30:00.000Z"
-  },
-  {
-    "headline": "Meta ordered to pay an additional $567 million in public nuisance ruling",
-    "summary": "Meta has been ordered to pay $567 million in the second phase of New Mexico's landmark child safety case, bringing total charges to nearly $1 billion for being a \"public nuisance.\" In a ruling published on Thursday, the Santa Fe district court found that Meta's platforms are a \"significant contributing cause\" of a teen…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
-    "image_url": null,
-    "published_at": "2026-08-07T09:10:01.000Z"
-  },
-  {
-    "headline": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "image_url": null,
-    "published_at": "2026-08-06T22:43:53.000Z"
-  },
-  {
-    "headline": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-    "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showca…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-    "image_url": null,
-    "published_at": "2026-08-06T22:00:00.000Z"
-  },
-  {
-    "headline": "Vogue just gave another nod of approval to the tech world",
-    "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-    "image_url": null,
-    "published_at": "2026-08-06T21:24:47.000Z"
   }
 ]
