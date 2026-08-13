@@ -1,11 +1,35 @@
 [
   {
-    "headline": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
-    "summary": "South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.",
+    "headline": "World’s largest jeweler bets on platinum despite falling silver prices, CEO tells CNBC",
+    "summary": "Pandora is moving ahead with platinum-plated jewelry as it seeks to reduce its exposure to volatile silver prices despite the metal's recent decline.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
+    "url": "https://www.cnbc.com/2026/08/13/pandora-platinum-plated-jewelry-silver-prices.html",
     "image_url": null,
-    "published_at": "2026-08-13T05:22:03.000Z"
+    "published_at": "2026-08-13T09:17:52.000Z"
+  },
+  {
+    "headline": "Shipping giants warn ports and trucks could hold up deliveries and push up prices",
+    "summary": "Global shipping demand remains strong despite geopolitical turmoil, but port and trucking bottlenecks are increasing congestion and putting upward pressure on freight rates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
+    "image_url": null,
+    "published_at": "2026-08-13T09:17:39.000Z"
+  },
+  {
+    "headline": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
+    "summary": "SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive first look.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
+    "image_url": null,
+    "published_at": "2026-08-13T09:00:01.000Z"
+  },
+  {
+    "headline": "Oil prices fall as investors weigh falling demand against Middle East tensions",
+    "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+    "image_url": null,
+    "published_at": "2026-08-13T08:43:23.000Z"
   },
   {
     "headline": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
@@ -13,7 +37,31 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
     "image_url": null,
-    "published_at": "2026-08-13T05:19:50.000Z"
+    "published_at": "2026-08-13T08:28:14.000Z"
+  },
+  {
+    "headline": "In pictures: Europe sees best solar eclipse since 1999",
+    "summary": "A total solar eclipse crossed Iceland and Spain on Aug. 12, while much of Europe saw a partial eclipse and businesses benefited from demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html",
+    "image_url": null,
+    "published_at": "2026-08-13T07:51:26.000Z"
+  },
+  {
+    "headline": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+    "summary": "Ukraine has launched a heavy drone assault on warships and major Russian grain export terminals in the Black Sea port city of Novorossiysk.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
+    "image_url": null,
+    "published_at": "2026-08-13T07:20:28.000Z"
+  },
+  {
+    "headline": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
+    "summary": "South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
+    "image_url": null,
+    "published_at": "2026-08-13T05:22:03.000Z"
   },
   {
     "headline": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
@@ -384,18 +432,18 @@
     "published_at": "2026-08-12T09:15:43.000Z"
   },
   {
-    "headline": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-    "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-    "image_url": null,
-    "published_at": "2026-08-12T09:00:00.000Z"
-  },
-  {
     "headline": "AI chatbots are offering financial advice. Should you trust them?",
     "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
+    "image_url": null,
+    "published_at": "2026-08-12T09:00:00.000Z"
+  },
+  {
+    "headline": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+    "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
     "image_url": null,
     "published_at": "2026-08-12T09:00:00.000Z"
   },
@@ -1550,53 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
     "image_url": null,
     "published_at": "2026-08-07T09:02:59.000Z"
-  },
-  {
-    "headline": "Amid cost of living stress, many parents are supporting children well into adulthood",
-    "summary": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
-    "image_url": null,
-    "published_at": "2026-08-07T09:00:00.000Z"
-  },
-  {
-    "headline": "China's exports growth beats estimates in July, as AI-driven shipments surge",
-    "summary": "China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
-    "image_url": null,
-    "published_at": "2026-08-07T06:09:26.000Z"
-  },
-  {
-    "headline": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
-    "summary": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-07T05:27:03.000Z"
-  },
-  {
-    "headline": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
-    "summary": "U.S. social media giant Meta is facing increasing pressure from Indian regulators, including demands to revoke the firm's safe harbor immunity in the country.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
-    "image_url": null,
-    "published_at": "2026-08-07T04:11:09.000Z"
-  },
-  {
-    "headline": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
-    "summary": "South Korean babies are turning into mini shareholders, thanks to their parents' investment strategies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
-    "image_url": null,
-    "published_at": "2026-08-06T23:42:20.000Z"
-  },
-  {
-    "headline": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
-    "summary": "Grindr says AI is boosting engineering productivity, supporting a new $350-per-month premium tier and driving stronger subscriber growth and retention.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html",
-    "image_url": null,
-    "published_at": "2026-08-06T22:26:01.000Z"
   }
 ]
