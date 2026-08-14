@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+    "summary": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+    "image_url": null,
+    "published_at": "2026-08-14T19:33:00.000Z"
+  },
+  {
+    "headline": "Samsung has new Galaxy headphones in the works",
+    "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make these the company's fir…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+    "image_url": null,
+    "published_at": "2026-08-14T19:18:45.000Z"
+  },
+  {
+    "headline": "What we know about the alleged Iranian hacks on U.S. water utilities",
+    "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+    "image_url": null,
+    "published_at": "2026-08-14T19:04:32.000Z"
+  },
+  {
+    "headline": "Read-it-later app Pocket shut down down — here are the best alternatives",
+    "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+    "image_url": null,
+    "published_at": "2026-08-14T18:58:15.000Z"
+  },
+  {
+    "headline": "A RAMageddon guide to back-to-school laptop shopping",
+    "summary": "The MacBook Neo is an easy recommendation. | Photo by Amelia Holowaty Krales / The Verge If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they use…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+    "image_url": null,
+    "published_at": "2026-08-14T18:32:47.000Z"
+  },
+  {
+    "headline": "Lamborghini’s flagship Revuelto levels up with SV trim",
+    "summary": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle. This helps explain the storied super car maker's tagline for the new R…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
+    "image_url": null,
+    "published_at": "2026-08-14T18:00:00.000Z"
+  },
+  {
+    "headline": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+    "summary": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith and the supernatural. But executives at 20th Century Fox felt that Car…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
+    "image_url": null,
+    "published_at": "2026-08-14T18:00:00.000Z"
+  },
+  {
+    "headline": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+    "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digital cameras. But to us…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+    "image_url": null,
+    "published_at": "2026-08-14T17:34:14.000Z"
+  },
+  {
+    "headline": "Mark Zuckerberg has an Instagzam",
+    "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "image_url": null,
+    "published_at": "2026-08-14T16:54:16.000Z"
+  },
+  {
+    "headline": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "image_url": null,
+    "published_at": "2026-08-14T16:39:32.000Z"
+  },
+  {
     "headline": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
     "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
     "publisher": "TechCrunch",
@@ -9,7 +89,7 @@
   },
   {
     "headline": "Google will now allow users to remove visible watermark from its AI generations",
-    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "image_url": null,
@@ -64,7 +144,7 @@
     "published_at": "2026-08-14T13:29:04.000Z"
   },
   {
-    "headline": "CMF hit the balance between cheap and good clip earbuds",
+    "headline": "CMF&#8217;s clip earbuds hit the balance between cheap and good",
     "summary": "The Clip Pro are the first clip-style earbuds from CMF, Nothing’s budget sub-brand. Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is g…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
@@ -1518,85 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "image_url": null,
     "published_at": "2026-08-08T19:41:13.000Z"
-  },
-  {
-    "headline": "An Amazon data center could have the worst polluting power plant in the country",
-    "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "image_url": null,
-    "published_at": "2026-08-08T17:53:34.000Z"
-  },
-  {
-    "headline": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-    "summary": "X is winding down its existing Revenue Sharing program.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-    "image_url": null,
-    "published_at": "2026-08-08T16:34:22.000Z"
-  },
-  {
-    "headline": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-    "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-    "image_url": null,
-    "published_at": "2026-08-08T16:00:00.000Z"
-  },
-  {
-    "headline": "Buc-ee’s dodges John Oliver to sue another small business",
-    "summary": "Buc-ee’s mega-convenience store and 120-pump gas station in Mount Crawford, Virginia. | Image: Chip Somodevilla / Getty Images Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-    "image_url": null,
-    "published_at": "2026-08-08T15:47:30.000Z"
-  },
-  {
-    "headline": "Google’s top hacker hunter explains why hacking groups get codenames",
-    "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-    "image_url": null,
-    "published_at": "2026-08-08T15:00:00.000Z"
-  },
-  {
-    "headline": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-    "summary": "Tom, we can’t see your face. | Image: Tom Vek Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV sou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-    "image_url": null,
-    "published_at": "2026-08-08T15:00:00.000Z"
-  },
-  {
-    "headline": "Is this $450 laptop from an unknown brand too good to be true?",
-    "summary": "Cute name, especially if it were a wookiee. | Photo: Antonio G. Di Benedetto / The Verge Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and go…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-    "image_url": null,
-    "published_at": "2026-08-08T12:00:00.000Z"
-  },
-  {
-    "headline": "My favorite feel-good show is back",
-    "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, @a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-    "image_url": null,
-    "published_at": "2026-08-08T12:00:00.000Z"
-  },
-  {
-    "headline": "Nitecore’s latest power bank is the lightest and most compact yet",
-    "summary": "The Nitecore NB10000 Gen 4 power bank is a great option for endurance athletes and backpackers. | Photo by Thomas Ricker / The Verge There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpa…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-    "image_url": null,
-    "published_at": "2026-08-08T07:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI says it slowed Astra model development over security concerns",
-    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "image_url": null,
-    "published_at": "2026-08-07T22:48:24.000Z"
   }
 ]

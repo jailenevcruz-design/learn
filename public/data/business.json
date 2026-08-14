@@ -1,11 +1,75 @@
 [
   {
+    "headline": "Regulators and banks step up scrutiny of prediction markets",
+    "summary": "The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
+    "image_url": null,
+    "published_at": "2026-08-14T19:21:49.000Z"
+  },
+  {
+    "headline": "Trump asks Supreme Court to let White House ballroom construction continue",
+    "summary": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+    "image_url": null,
+    "published_at": "2026-08-14T19:10:18.000Z"
+  },
+  {
+    "headline": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+    "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+    "image_url": null,
+    "published_at": "2026-08-14T19:07:11.000Z"
+  },
+  {
+    "headline": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+    "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+    "image_url": null,
+    "published_at": "2026-08-14T18:43:56.000Z"
+  },
+  {
     "headline": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-    "summary": "Mangione's lawyers immediately argued his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to double jeopardy.",
+    "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
     "image_url": null,
-    "published_at": "2026-08-14T16:27:45.000Z"
+    "published_at": "2026-08-14T18:43:55.000Z"
+  },
+  {
+    "headline": "What flash memory maker SanDisk told investors this week is a boon for our newest stock",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/what-sandisk-told-investors-this-week-is-a-boon-for-our-newest-stock.html",
+    "image_url": null,
+    "published_at": "2026-08-14T18:33:35.000Z"
+  },
+  {
+    "headline": "10-year Treasury yield inches higher as traders digest soft retail sales, monitor the Middle East",
+    "summary": "The moves come after the latest retail sales figures missed expectations and the U.S. said its naval blockade of Iranian ports could continue \"indefinitely.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+    "image_url": null,
+    "published_at": "2026-08-14T18:24:49.000Z"
+  },
+  {
+    "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+    "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+    "image_url": null,
+    "published_at": "2026-08-14T18:00:01.000Z"
+  },
+  {
+    "headline": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
+    "summary": "The group that includes Jeff Bezos has an option to become the majority shareholder within the next year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html",
+    "image_url": null,
+    "published_at": "2026-08-14T16:40:03.000Z"
   },
   {
     "headline": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
@@ -24,44 +88,12 @@
     "published_at": "2026-08-14T16:27:07.000Z"
   },
   {
-    "headline": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
-    "summary": "The group that includes Jeff Bezos has an option to become the majority shareholder within the next year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html",
-    "image_url": null,
-    "published_at": "2026-08-14T16:21:19.000Z"
-  },
-  {
-    "headline": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-    "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-    "image_url": null,
-    "published_at": "2026-08-14T16:14:45.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield inches higher as traders digest soft retail sales, monitor the Middle East",
-    "summary": "The moves come after the latest retail sales figures missed expectations and the U.S. said its naval blockade of Iranian ports could continue \"indefinitely.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
-    "image_url": null,
-    "published_at": "2026-08-14T15:36:33.000Z"
-  },
-  {
     "headline": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
     "summary": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively and nearly 80% see the U.S. economy negatively.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
     "image_url": null,
     "published_at": "2026-08-14T15:22:00.000Z"
-  },
-  {
-    "headline": "Trump asks Supreme Court to let White House ballroom construction continue",
-    "summary": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
-    "image_url": null,
-    "published_at": "2026-08-14T15:11:41.000Z"
   },
   {
     "headline": "We're buying more shares of a recent spin-off that has great long-term prospects",
@@ -86,14 +118,6 @@
     "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
     "image_url": null,
     "published_at": "2026-08-14T14:47:15.000Z"
-  },
-  {
-    "headline": "Drone stocks rally after Trump orders tariffs on foreign-made components",
-    "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
-    "image_url": null,
-    "published_at": "2026-08-14T14:43:30.000Z"
   },
   {
     "headline": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
     "image_url": null,
     "published_at": "2026-08-10T07:44:33.000Z"
-  },
-  {
-    "headline": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot",
-    "summary": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analyst told CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
-    "image_url": null,
-    "published_at": "2026-08-10T06:34:04.000Z"
-  },
-  {
-    "headline": "Trump says oil supermajors are making too much money. What will they do with it?",
-    "summary": "The windfall is fueling fresh political and environmental backlash, with Trump accusing Exxon Mobil and Chevron of making “too much money.”",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/oil-iran-war-profits-windfall-tax.html",
-    "image_url": null,
-    "published_at": "2026-08-10T05:00:02.000Z"
-  },
-  {
-    "headline": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
-    "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
-    "image_url": null,
-    "published_at": "2026-08-10T03:44:59.000Z"
   }
 ]

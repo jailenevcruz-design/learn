@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
+    "summary": "Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
+    "image_url": null,
+    "published_at": "2026-08-14T16:37:54.000Z"
+  },
+  {
     "headline": "Immune cells flood into the aging brain, Stanford scientists discover",
     "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the brain as early as middle age, where they can transform into microglia, the brain’s specialized immu…",
     "publisher": "ScienceDaily",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
     "image_url": null,
     "published_at": "2026-07-29T05:35:45.000Z"
-  },
-  {
-    "headline": "Death toll rises to 18 as rescuers comb through quake rubble in southwestern Japan",
-    "summary": "Soldiers and emergency workers combed through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 18 people, including a foreigner, in southwestern Japan.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
-    "image_url": null,
-    "published_at": "2026-07-29T05:34:42.000Z"
   }
 ]
