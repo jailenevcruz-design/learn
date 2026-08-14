@@ -1,5 +1,45 @@
 [
   {
+    "headline": "US courts will start publishing how often the government uses spyware",
+    "summary": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+    "image_url": null,
+    "published_at": "2026-08-14T13:29:04.000Z"
+  },
+  {
+    "headline": "CMF hit the balance between cheap and good clip earbuds",
+    "summary": "The Clip Pro are the first clip-style earbuds from CMF, Nothing’s budget sub-brand. Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is g…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+    "image_url": null,
+    "published_at": "2026-08-14T12:00:00.000Z"
+  },
+  {
+    "headline": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+    "summary": "The Claw EX. I rather like the purple. 3D-printed stand not included. As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most pow…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+    "image_url": null,
+    "published_at": "2026-08-14T11:00:00.000Z"
+  },
+  {
+    "headline": "Hoto’s new cordless soldering iron heats up in three seconds",
+    "summary": "Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can heat to just over 200 degrees Celsius in about three seconds and offers an adjustable temperature r…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
+    "image_url": null,
+    "published_at": "2026-08-14T11:00:00.000Z"
+  },
+  {
+    "headline": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+    "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+    "image_url": null,
+    "published_at": "2026-08-14T10:44:30.000Z"
+  },
+  {
     "headline": "Apple trained its own AI model for China with help from Alibaba",
     "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's sup…",
     "publisher": "The Verge",
@@ -1558,45 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
     "image_url": null,
     "published_at": "2026-08-07T18:40:34.000Z"
-  },
-  {
-    "headline": "The only instant cameras worth your money",
-    "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed on…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-    "image_url": null,
-    "published_at": "2026-08-07T18:04:08.000Z"
-  },
-  {
-    "headline": "Disney Plus tries a new AI-powered search",
-    "summary": "Disney’s AI tools for Disney Plus and ESPN. Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on yo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-    "image_url": null,
-    "published_at": "2026-08-07T17:53:44.000Z"
-  },
-  {
-    "headline": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-    "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and on…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-    "image_url": null,
-    "published_at": "2026-08-07T17:43:34.000Z"
-  },
-  {
-    "headline": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
-    "summary": "“One ring to rule them all” | Image: Warner Bros. Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This version includes both t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-07T16:58:18.000Z"
-  },
-  {
-    "headline": "What&#8217;s behind the Google AI shake-up",
-    "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis H…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-    "image_url": null,
-    "published_at": "2026-08-07T16:45:14.000Z"
   }
 ]
