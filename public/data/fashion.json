@@ -1,11 +1,131 @@
 [
   {
+    "headline": "Sézane Opens Its First Brick-and-mortar Los Angeles Store",
+    "summary": "The Parisian brand is putting down roots at Brentwood Country Mart with a tightly edited boutique after testing pop-ups in the market.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/sezane-los-angeles-store-brentwood-country-mart-1239124772/",
+    "image_url": null,
+    "published_at": "2026-08-14T16:13:35.000Z"
+  },
+  {
+    "headline": "New York Liberty Celebrates Sneakerhead Night With Ellie the Elephant, Nike Sabrina 4 Activation and More",
+    "summary": "\"Sneaker culture is so endemic to sports, so endemic to New York,\" New York Liberty chief brand officer Shana Stephenson told FN.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/sneaker-news/new-york-liberty-sneakerhead-night-ellie-sabrina-ionescu-1239124496/",
+    "image_url": null,
+    "published_at": "2026-08-14T16:10:23.000Z"
+  },
+  {
+    "headline": "A Behind-the-Scenes Look at Zara Larsson’s Lollapalooza Stop During Her ‘Midnight Sun’ Tour",
+    "summary": "The last time the Swedish pop star played Lolla, “I was a teenager,” she tells Vogue, “and now I’m a woman..., I feel more involved in my artistry and in my songwriting and in the making of the show, and I think you can really, really tell,” she says.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/soundcheck-zara-larsson",
+    "image_url": null,
+    "published_at": "2026-08-14T16:00:00.000Z"
+  },
+  {
+    "headline": "Brandy Revives Her 1997 Cinderella Moment in Portia and Scarlett",
+    "summary": "The actress performed at the Disney Princess: The Ultimate Concert Celebration on Thursday night.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/brandy-cinderella-portia-scarlett-dress-disney-princess-1239124675/",
+    "image_url": null,
+    "published_at": "2026-08-14T15:54:29.000Z"
+  },
+  {
+    "headline": "July Retail Sales Signal Consumer Caution",
+    "summary": "EY-Parthenon economists said the strong spending seen this spring “is unlikely to be sustained,” although consumers won’t outright pull back.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/july-2026-retail-sales-consumer-caution-trends-1239124739/",
+    "image_url": null,
+    "published_at": "2026-08-14T15:35:56.000Z"
+  },
+  {
+    "headline": "This Air Jordan 12 Calls Back to the Time Michael Jordan Reffed a Game Between NBA Players an Sumo Wrestlers",
+    "summary": "The sneaker will exclusively release in the country in which it happened.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-12-sumo-release-date-iw1218-098-1239124825/",
+    "image_url": null,
+    "published_at": "2026-08-14T15:33:16.000Z"
+  },
+  {
+    "headline": "The Viral Hulken Bag Was Quietly Rolled Out in Two Target-Exclusive Colorways This Month (And They’re Already on Sale)",
+    "summary": "Search interest for this practical, city-ready rolling cart alternative is the highest it's ever been. Here's how to get your hands, literally, on the Hulken.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/shop/shop-home/hulken-bag-about-buy-online-target-exclusive-colorways-1239124555/",
+    "image_url": null,
+    "published_at": "2026-08-14T15:24:02.000Z"
+  },
+  {
+    "headline": "Celebrating Halle Berry’s 60th Birthday: Her Evolution From Sexy Strappy Sandals to Classic Pointed Pumps",
+    "summary": "See some of her best shoe moments.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-trends/halle-berry-60-birthday-shoe-evolution-1239124567/",
+    "image_url": null,
+    "published_at": "2026-08-14T15:20:55.000Z"
+  },
+  {
+    "headline": "Shuffle Board: Target Taps First AI Chief, Kontoor Elevates CFO",
+    "summary": "The latest HR moves made by leading textile and apparel companies.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/shuffle-board-target-ai-chief-kontoor-president-cfo-1239123639/",
+    "image_url": null,
+    "published_at": "2026-08-14T15:00:00.000Z"
+  },
+  {
+    "headline": "Back-to-School Is Shifting from Promotions to Prioritized ‘Needs’",
+    "summary": "New data shows the financial stress households are facing.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/back-to-school-shifting-from-promotions-to-needs-1239124691/",
+    "image_url": null,
+    "published_at": "2026-08-14T14:57:37.000Z"
+  },
+  {
+    "headline": "Keeping the PhotoVogue spirit alive! The PhotoVogue Monday Story",
+    "summary": "Join us in celebrating the pics of the day since June 2025 until today",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/keeping-the-spirit-alive-more-than-a-month-in-pictures-the-pvmonday-story",
+    "image_url": null,
+    "published_at": "2026-08-14T14:45:00.000Z"
+  },
+  {
+    "headline": "Vanessa Hudgens Takes on the Summer Slipdress in L’Agence",
+    "summary": "The actress and singer attended Thursday night's HollyShorts Film Festival.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/vanessa-hudgens-lagence-dress-hollyshorts-film-festival-1239124552/",
+    "image_url": null,
+    "published_at": "2026-08-14T14:43:53.000Z"
+  },
+  {
+    "headline": "Kaia Gerber and Lewis Pullman Are Ready for Fall in Their Autumnal Couple Style",
+    "summary": "Summer doesn’t technically end until late September, but as far as Kaia Gerber and Lewis Pullman are concerned, it’s already fall.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/kaia-gerber-lewis-pullman-autumnal-couple-style",
+    "image_url": null,
+    "published_at": "2026-08-14T14:18:39.000Z"
+  },
+  {
+    "headline": "Feta Isn’t Just Delicious, It’s High In Protein and Calcium",
+    "summary": "Eaten in Greece for centuries and rooted in tradition, feta is an ancient cheese with plenty of nutritional benefits.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/feta-cheese-benefits-2026",
+    "image_url": null,
+    "published_at": "2026-08-14T14:08:46.000Z"
+  },
+  {
     "headline": "JW Anderson Denies Speculations of a Zara Collaboration",
     "summary": "Jonathan Anderson's namesake label took to Instagram to clarify that reports suggesting a Zara collaboration is on the way are untrue.",
     "publisher": "WWD",
     "url": "https://wwd.com/fashion-news/fashion-scoops/jw-anderson-speculations-zara-collaboration-untrue-1239124452/",
     "image_url": null,
     "published_at": "2026-08-14T14:00:36.000Z"
+  },
+  {
+    "headline": "Amal Clooney Has Nailed Her Summer Gala Dressing Formula",
+    "summary": "High summer on Lake Como is Amal Clooney at the peak of her fashion powers—her latest look, for a Clooney Foundation for Justice dinner, hits all the right notes.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/amal-clooney-nails-summer-gala-dressing-formula",
+    "image_url": null,
+    "published_at": "2026-08-14T14:00:00.000Z"
   },
   {
     "headline": "Novonesis Targets More Sustainable Denim Bleaching With DeniBrite",
@@ -24,8 +144,8 @@
     "published_at": "2026-08-14T13:51:38.000Z"
   },
   {
-    "headline": "Tracee Ellis Ross Wants You To Have It All",
-    "summary": "Curly, straight, or styled—the actor and entrepreneur shares her love for textured hair and how Pattern Beauty's newest collection supports beauty play.",
+    "headline": "Tracee Ellis Ross Wants You to Have It All",
+    "summary": "The actor and entrepreneur shares her love for textured hair—curly, straight, or styled—and how Pattern Beauty’s newest collection supports beauty play.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/tracee-ellis-ross-wants-you-to-have-it-all",
     "image_url": null,
@@ -1478,125 +1598,5 @@
     "url": "https://wwd.com/sourcing-journal/logistics/hapag-lloyd-4-2-billion-zim-deal-israel-sealead-liquidation-1239101062/",
     "image_url": null,
     "published_at": "2026-08-11T13:30:00.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Lemme Ventures Into Longevity Space With New NAD+ Capsules Made Specifically for Women",
-    "summary": "Reframing a supplement narrative largely centered on healthmaxxing biohackers and, well, men, Lemme is making women a priority with its first-ever NAD+ formula. Here's how to shop.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-beauty/lemme-nad-longevity-supplement-about-release-date-buy-now-1239096176/",
-    "image_url": null,
-    "published_at": "2026-08-11T13:27:02.000Z"
-  },
-  {
-    "headline": "Tyla Kicks Off Kate Spade Global Brand Ambassador Role With Fall 2026 Campaign",
-    "summary": "The singer costars in the campaign with Bretman Rock, Kareem Rahma and Ana Sofia, among others.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/tyla-kate-spade-ambassador-fall-2026-campaign-1239085292/",
-    "image_url": null,
-    "published_at": "2026-08-11T13:24:14.000Z"
-  },
-  {
-    "headline": "A New Summer Collection Offers Sustainable Polos and Swimwear",
-    "summary": "Two brands using only deadstock fabrics—Sherris and Trim—have teamed up for a cool (and eco-friendly) summer menswear drop.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/sherris-trim-menswear-sustainable-polos-swim",
-    "image_url": null,
-    "published_at": "2026-08-11T13:00:00.000Z"
-  },
-  {
-    "headline": "Gucci Westman on Finally Creating Her Dream Foundation",
-    "summary": "The new Westman Atelier Suprême Bio-Complex Liquid Foundation is here. Powered by a potent peptide complex, exosome technology, and amino acid powders, this blurs pores and evens texture to a naturally hydrated finish.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/westman-atelier-liquid-foundation",
-    "image_url": null,
-    "published_at": "2026-08-11T13:00:00.000Z"
-  },
-  {
-    "headline": "Pacsun and Rare Impact Fund Raise More Than $2M for Youth Mental Health",
-    "summary": "The retailer debuts its sixth Rare DNM Edit collection.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/pacsun-rare-impact-fund-raise-more-than-2-million-1239099950/",
-    "image_url": null,
-    "published_at": "2026-08-11T13:00:00.000Z"
-  },
-  {
-    "headline": "Akikoaoki Tokyo Spring 2027",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/akikoaoki",
-    "image_url": null,
-    "published_at": "2026-08-11T12:30:39.000Z"
-  },
-  {
-    "headline": "Harunobumurata Tokyo Spring 2027",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/harunobumurata",
-    "image_url": null,
-    "published_at": "2026-08-11T12:30:39.000Z"
-  },
-  {
-    "headline": "41 Celebrity Couples You Forgot Were Once a Thing",
-    "summary": "Join us as we dive down the rabbit hole and rehash some celeb duos past.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/celebrity-couples-you-forgot-were-together",
-    "image_url": null,
-    "published_at": "2026-08-11T12:07:00.000Z"
-  },
-  {
-    "headline": "How to Master Kaia Gerber’s Effortless Style—From Off-Duty Ease to Evening Polish",
-    "summary": "Re-create the supermodel and September cover star’s best looks, from casual weekend moments to elegant night-out ensembles.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/kaia-gerber-best-street-style-outfits",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:00.000Z"
-  },
-  {
-    "headline": "From the Archives: Cindy Crawford and Richard Gere’s November 1992 Cover Story",
-    "summary": "She’s a top cover girl and a TV personality on the rise. He’s a passionate actor and activist. Together Cindy Crawford and Richard Gere are Hollywood’s hottest couple. Julia Reed catches up with them at work and at home.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/from-the-archives-the-model-and-the-movie-star-november-1992",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:00.000Z"
-  },
-  {
-    "headline": "Kaia Gerber’s Best Red Carpet Looks, From Stylish Teen to Supermodel",
-    "summary": "In honor of her latest Vogue cover—her fifth!—revisit Kaia Gerber’s finest red carpet fashion moments.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/kaia-gerber-best-red-carpet-looks",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:00.000Z"
-  },
-  {
-    "headline": "Kaia Gerber and Homer Gere on ‘The Shards,’ Their Parents, and Proving Everyone Wrong | Vogue’s September 2026 Cover Story",
-    "summary": "See inside Kaia Gerber and Homer Gere’s Vogue’s cover story for the September 2026 issue.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/kaia-gerber-homer-gere-september-cover-2026-interview",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:00.000Z"
-  },
-  {
-    "headline": "Lip Contouring or Lip Liner: Which Makes Lips Look Bigger?",
-    "summary": "Learn the differences between lip contouring and lip liner, as well as techniques and the best products for fuller-looking or more defined lips.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/lip-contouring-lip-liner",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:00.000Z"
-  },
-  {
-    "headline": "Viral Nation Wants To Help Brands Get Noticed By AI",
-    "summary": "Viral Nation is launching AI Discovery, a social-first Generative Engine Optimization.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/viral-nation-influencer-artificial-intelligence-1239101047/",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:00.000Z"
-  },
-  {
-    "headline": "Dillard’s Reaction to New Tariffs? ‘Stay the Course’",
-    "summary": "The latest round of Section 301 duties, announced by the United States Trade Representative in late July, won’t be the last curve ball thrown by the Trump administration when it comes to trade policy.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/dillards-sourcing-at-magic-krieger-worldwide-tariffs-sourcing-1239101067/",
-    "image_url": null,
-    "published_at": "2026-08-11T12:00:00.000Z"
   }
 ]
