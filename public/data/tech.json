@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+    "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential act…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+    "image_url": null,
+    "published_at": "2026-08-14T01:06:15.000Z"
+  },
+  {
+    "headline": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+    "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outside of the bounds\" o…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+    "image_url": null,
+    "published_at": "2026-08-13T23:13:24.000Z"
+  },
+  {
+    "headline": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+    "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+    "image_url": null,
+    "published_at": "2026-08-13T22:12:40.000Z"
+  },
+  {
+    "headline": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+    "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+    "image_url": null,
+    "published_at": "2026-08-13T22:02:04.000Z"
+  },
+  {
+    "headline": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+    "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously d…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+    "image_url": null,
+    "published_at": "2026-08-13T21:53:04.000Z"
+  },
+  {
+    "headline": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+    "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+    "image_url": null,
+    "published_at": "2026-08-13T21:50:11.000Z"
+  },
+  {
+    "headline": "The fight over Flock and other ALPRs",
+    "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people’s movements thr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+    "image_url": null,
+    "published_at": "2026-08-13T21:46:21.000Z"
+  },
+  {
+    "headline": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "summary": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWir…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "image_url": null,
+    "published_at": "2026-08-13T21:42:38.000Z"
+  },
+  {
+    "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "image_url": null,
+    "published_at": "2026-08-13T21:13:24.000Z"
+  },
+  {
+    "headline": "Netflix is closing two game studios",
+    "summary": "A screenshot of Oxenfree II: Lost Signals from Night School Studio. | Image: Night School / Netflix Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Stu…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+    "image_url": null,
+    "published_at": "2026-08-13T20:52:58.000Z"
+  },
+  {
     "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
     "publisher": "TechCrunch",
@@ -73,7 +153,7 @@
   },
   {
     "headline": "OpenAI hires new CRO as executive shake-up continues",
-    "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "image_url": null,
@@ -112,6 +192,14 @@
     "published_at": "2026-08-13T16:10:06.000Z"
   },
   {
+    "headline": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+    "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+    "image_url": null,
+    "published_at": "2026-08-13T16:00:00.000Z"
+  },
+  {
     "headline": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
     "summary": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New…",
     "publisher": "The Verge",
@@ -124,14 +212,6 @@
     "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequis…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-    "image_url": null,
-    "published_at": "2026-08-13T16:00:00.000Z"
-  },
-  {
-    "headline": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-    "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
     "image_url": null,
     "published_at": "2026-08-13T16:00:00.000Z"
   },
@@ -1518,85 +1598,5 @@
     "url": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
     "image_url": null,
     "published_at": "2026-08-07T16:15:46.000Z"
-  },
-  {
-    "headline": "Computer maker Framework notifies ‘all customers’ of a data breach",
-    "summary": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
-    "image_url": null,
-    "published_at": "2026-08-07T16:09:04.000Z"
-  },
-  {
-    "headline": "Birdfy’s smart bird feeder is on sale for just $60",
-    "summary": "The Birdfy Feeder Rookie is a good option if you’re new to birdwatching or simply don’t want to spend a lot on a smart feeder, and several configurations are on sale. The standard model is down to $59.99 ($60 off) at Amazon, which is close to its lowest price. It includes seven days of access to its AI-powered features…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-07T16:04:03.000Z"
-  },
-  {
-    "headline": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-    "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-    "image_url": null,
-    "published_at": "2026-08-07T15:52:33.000Z"
-  },
-  {
-    "headline": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-    "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
-    "image_url": null,
-    "published_at": "2026-08-07T15:11:03.000Z"
-  },
-  {
-    "headline": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
-    "summary": "The Z Fold 8 Ultra retains the boxy shape of Samsung’s previous foldables. What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat and wide, the Fold 8 Ultra retains the thin out…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
-    "image_url": null,
-    "published_at": "2026-08-07T14:48:38.000Z"
-  },
-  {
-    "headline": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-    "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-08-07T14:30:00.000Z"
-  },
-  {
-    "headline": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-    "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-    "image_url": null,
-    "published_at": "2026-08-07T14:28:31.000Z"
-  },
-  {
-    "headline": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "image_url": null,
-    "published_at": "2026-08-07T14:22:49.000Z"
-  },
-  {
-    "headline": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-    "summary": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-    "image_url": null,
-    "published_at": "2026-08-07T14:07:31.000Z"
-  },
-  {
-    "headline": "Werewolf transformed my old gadgets into USB-C powered ones",
-    "summary": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead. None of them came with USB-C ports; the entire USB protocol was barely a twinkle in i…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
-    "image_url": null,
-    "published_at": "2026-08-07T14:05:00.000Z"
   }
 ]
