@@ -1,11 +1,27 @@
 [
   {
+    "headline": "The money investors borrow to trade in the U.S. stock market is at an all-time high",
+    "summary": "Money that investors borrow to trade in the stock market is called margin debt. This debt is now above $1.5 trillion, 50% higher than a year ago. Could this spell trouble for the U.S. economy?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/14/nx-s1-5927284/the-money-investors-borrow-to-trade-in-the-u-s-stock-market-is-at-an-all-time-high",
+    "image_url": null,
+    "published_at": "2026-08-14T08:45:14.000Z"
+  },
+  {
+    "headline": "AI’s infrastructure boom is getting more leveraged — and harder to track",
+    "summary": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
+    "image_url": null,
+    "published_at": "2026-08-14T08:29:50.000Z"
+  },
+  {
     "headline": "Trump ally Nigel Farage wins special election to return to UK parliament",
-    "summary": "Farage stepped down last month to trigger the special vote amid controversy over his finances.",
+    "summary": "Farage stepped down last month to trigger the vote, branding it a fight against \"the establishment,\" amid controversy over his finances.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
     "image_url": null,
-    "published_at": "2026-08-14T06:24:41.000Z"
+    "published_at": "2026-08-14T08:24:42.000Z"
   },
   {
     "headline": "China built robots that can do backflips – but can they make money?",
@@ -13,7 +29,31 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html",
     "image_url": null,
-    "published_at": "2026-08-14T05:00:47.000Z"
+    "published_at": "2026-08-14T08:24:24.000Z"
+  },
+  {
+    "headline": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
+    "summary": "Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands, escalating tensions over territory claimed by both Tokyo and Moscow.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+    "image_url": null,
+    "published_at": "2026-08-14T08:08:16.000Z"
+  },
+  {
+    "headline": "Tata chairman’s shock exit move puts JLR owner's bets on chips, iPhones and Air India at risk",
+    "summary": "Tata Sons Chairman's sudden exit plan has sparked concerns over the Indian multinational's commitment to invest big bucks in projects of national importance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/tata-chairman-resignation-chandrasekaran-chips-iphone-air-india.html",
+    "image_url": null,
+    "published_at": "2026-08-14T07:39:08.000Z"
+  },
+  {
+    "headline": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+    "summary": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+    "image_url": null,
+    "published_at": "2026-08-14T07:30:30.000Z"
   },
   {
     "headline": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
@@ -30,14 +70,6 @@
     "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
     "image_url": null,
     "published_at": "2026-08-14T02:06:10.000Z"
-  },
-  {
-    "headline": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-    "summary": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-    "image_url": null,
-    "published_at": "2026-08-14T01:52:07.000Z"
   },
   {
     "headline": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
     "image_url": null,
     "published_at": "2026-08-08T13:28:00.000Z"
-  },
-  {
-    "headline": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
-    "summary": "Investors should be conversative in retirement, but abandoning equities is a big mistake.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
-    "image_url": null,
-    "published_at": "2026-08-08T13:00:01.000Z"
-  },
-  {
-    "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-    "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-    "image_url": null,
-    "published_at": "2026-08-08T12:00:01.000Z"
-  },
-  {
-    "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
-    "summary": "The broad market benchmark soared to records this week, benefiting from options activity and a calmer VIX.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
-    "image_url": null,
-    "published_at": "2026-08-08T11:49:22.000Z"
-  },
-  {
-    "headline": "Selling experiences, not things: Services overtake physical goods in downtown retail",
-    "summary": "America's downtowns are changing. Storefronts that used to showcase clothes or gifts are giving way to gyms and salons. Last year marked the first time that more retail space went to shops offering services rather than things.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/08/nx-s1-5825813/selling-experiences-not-things-services-overtake-physical-goods-in-downtown-retail",
-    "image_url": null,
-    "published_at": "2026-08-08T11:43:46.000Z"
   }
 ]
