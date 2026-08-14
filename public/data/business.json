@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Nintendo shares pop 7% after 'Pokémon Pokopia' sales top 5 million",
+    "summary": "Nintendo has been grappling with rising memory prices which forced the company to raise prices of its Switch 2 console which went on sale just over a year ago.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/nintendo-shares-pokemon-pokopia-switch-2.html",
+    "image_url": null,
+    "published_at": "2026-08-14T09:03:34.000Z"
+  },
+  {
+    "headline": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
+    "summary": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose 2 basis points to 4.661%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+    "image_url": null,
+    "published_at": "2026-08-14T08:55:17.000Z"
+  },
+  {
     "headline": "The money investors borrow to trade in the U.S. stock market is at an all-time high",
     "summary": "Money that investors borrow to trade in the stock market is called margin debt. This debt is now above $1.5 trillion, 50% higher than a year ago. Could this spell trouble for the U.S. economy?",
     "publisher": "NPR",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
     "image_url": null,
     "published_at": "2026-08-08T14:07:30.000Z"
-  },
-  {
-    "headline": "'Moneymaxxing' isn't a trend, it's a 'cultural shift,' financial advisor says — here's how to get started",
-    "summary": "In an affordability crunch, social media's viral \"maxxing\" trend could lead to long-term financial security.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/moneymaxxing-trend-save-budget-build-wealth.html",
-    "image_url": null,
-    "published_at": "2026-08-08T13:30:01.000Z"
-  },
-  {
-    "headline": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-    "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-08T13:28:00.000Z"
   }
 ]

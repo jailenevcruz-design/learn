@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Apple trained its own AI model for China with help from Alibaba",
+    "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's sup…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "image_url": null,
+    "published_at": "2026-08-14T09:21:17.000Z"
+  },
+  {
     "headline": "Help build a monument to that ‘sad little bitch’ Elon Musk",
     "summary": "“Build the perfect monument to force a moment of introspection upon the world’s richest, ugliest little bitch.” | Image: Brendan SMIALOWSKI / AFP via Getty Images Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity. Th…",
     "publisher": "The Verge",
@@ -1590,13 +1598,5 @@
     "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
     "image_url": null,
     "published_at": "2026-08-07T16:45:14.000Z"
-  },
-  {
-    "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "image_url": null,
-    "published_at": "2026-08-07T16:16:09.000Z"
   }
 ]
