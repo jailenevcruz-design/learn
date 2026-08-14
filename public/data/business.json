@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Trump ally Nigel Farage wins special election to return to UK parliament",
+    "summary": "Farage stepped down last month to trigger the special vote amid controversy over his finances.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
+    "image_url": null,
+    "published_at": "2026-08-14T06:24:41.000Z"
+  },
+  {
+    "headline": "China built robots that can do backflips – but can they make money?",
+    "summary": "Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html",
+    "image_url": null,
+    "published_at": "2026-08-14T05:00:47.000Z"
+  },
+  {
+    "headline": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+    "summary": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+    "image_url": null,
+    "published_at": "2026-08-14T05:00:01.000Z"
+  },
+  {
     "headline": "Feds probe 'mention markets' amid White House Kalshi controversy",
     "summary": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators.",
     "publisher": "NPR",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/08/08/nx-s1-5825813/selling-experiences-not-things-services-overtake-physical-goods-in-downtown-retail",
     "image_url": null,
     "published_at": "2026-08-08T11:43:46.000Z"
-  },
-  {
-    "headline": "Prediction markets take center stage in latest round of quarterly earnings reports",
-    "summary": "Recent quarterly reports from DraftKings, Flutter Entertainment and others offer a view into prediction markets businesses and their performance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/prediction-markets-take-center-stage-in-latest-quarterly-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-07T21:38:57.000Z"
-  },
-  {
-    "headline": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
-    "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-    "image_url": null,
-    "published_at": "2026-08-07T20:33:38.000Z"
-  },
-  {
-    "headline": "The U.S. unexpectedly lost jobs in July",
-    "summary": "The U.S. labor market went into reverse last month, as employers cut 23,000 jobs. Job gains for May and June were also revised downward.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/07/nx-s1-5924881/the-u-s-unexpectedly-lost-jobs-in-july",
-    "image_url": null,
-    "published_at": "2026-08-07T20:24:50.000Z"
   }
 ]
