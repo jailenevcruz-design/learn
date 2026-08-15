@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Every fusion startup that has raised over $100M",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "image_url": null,
+    "published_at": "2026-08-15T13:15:20.000Z"
+  },
+  {
+    "headline": "Xteink’s tiny e-readers are getting access to free books through Libby",
+    "summary": "New plugin support for CrossPoint Reader lets Xteink’s devices access DRM-protected ebooks. One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with X…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
+    "image_url": null,
+    "published_at": "2026-08-15T13:00:00.000Z"
+  },
+  {
     "headline": "We’re reaching peak camera with the Sony A7R VI",
     "summary": "Maximum camera. | Photo: Antonio G. Di Benedetto / The Verge It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. Sony's latest flagship high-res camera is a 66.8-megapixel spec monster. In addition to its modest bum…",
     "publisher": "The Verge",
@@ -1582,21 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
     "image_url": null,
     "published_at": "2026-08-09T14:30:00.000Z"
-  },
-  {
-    "headline": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
-    "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-    "image_url": null,
-    "published_at": "2026-08-09T14:00:00.000Z"
-  },
-  {
-    "headline": "This former notorious red-light district is now one of the world’s top AI hubs",
-    "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-    "image_url": null,
-    "published_at": "2026-08-09T13:00:00.000Z"
   }
 ]
