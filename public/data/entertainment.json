@@ -1,7 +1,63 @@
 [
   {
-    "headline": "‘Avengers: Doomsday’ Trailer: Robert Downey Jr. Faces Off Against Mister Fantastic, X-Men and Avengers With Army of Sentinels",
-    "summary": "Marvel Studios unveiled the second “Avengers: Doomsday” trailer on Friday during Disney’s D23 fan convention, further teasing the massive MCU team-up movie arriving in theaters Dec. 18. The Avengers, Fantastic Four, Thunderbolts and more heroes are joining forces to take down Doctor Doom, the evil villain played by Rob…",
+    "headline": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
+    "summary": "Thanksgiving 2027 is about to get a lot colder. Disney has revealed the first details about “Frozen 3,” which will release in theaters Nov. 24, 2027, following the previous two films’ tradition of Thanksgiving-centered premiere dates. Set in the fictional land of Arendelle, the cast of voice actors includes Kristen Bel…",
+    "publisher": "Variety",
+    "url": "https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/",
+    "image_url": null,
+    "published_at": "2026-08-15T05:01:19.000Z"
+  },
+  {
+    "headline": "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
+    "summary": "The long-awaited X-Men movie is finally coming to the MCU. Marvel Studios exec Kevin Feige made the official announcement that the X-Men movie will release on May 5, 2028. The cast will include Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Maya Boyd as Storm […]",
+    "publisher": "Variety",
+    "url": "https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/",
+    "image_url": null,
+    "published_at": "2026-08-15T04:50:40.000Z"
+  },
+  {
+    "headline": "‘Star Wars: Starfighter’ Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
+    "summary": "Ryan Gosling already survived going to space in “Project Hail Mary,” but now he’s ready to blast off to a galaxy far, far away in “Star Wars: Starfighter.” The upcoming “Star Wars” movie previewed footage at D23 and is set to release in theaters on May 28, 2027. Disney and Lucasfilm have kept plot details […]",
+    "publisher": "Variety",
+    "url": "https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/",
+    "image_url": null,
+    "published_at": "2026-08-15T04:43:14.000Z"
+  },
+  {
+    "headline": "Disney’s ‘Hexed’ Adds Walton Goggins and Jodie Foster to Cast",
+    "summary": "Jodie Foster and Walton Goggins are joining the cast of Disney’s next animated movie, “Hexed.” The casting news was announced during the Disney Entertainment Showcase presentation at Disney’s D23 fan event in Anaheim, California on Friday. Oscar-winner Foster will play a devious witch queen, while Goggins will play a t…",
+    "publisher": "Variety",
+    "url": "https://variety.com/2026/film/news/hexed-cast-walton-goggins-jodie-foster-1236834882/",
+    "image_url": null,
+    "published_at": "2026-08-15T04:40:54.000Z"
+  },
+  {
+    "headline": "‘Zootopia 3’ in the Works at Disney",
+    "summary": "Get ready to head back to Zootopia. Disney has announced that “Zootopia 3” is in the works following the massive success of last year’s “Zootopia 2,” which became the company’s highest grossing animated movie of all time with $1.8 billion at the global box office. The franchise started with the original 2016 movie, whi…",
+    "publisher": "Variety",
+    "url": "https://variety.com/2026/film/news/zootopia-3-disney-1236835053/",
+    "image_url": null,
+    "published_at": "2026-08-15T04:31:12.000Z"
+  },
+  {
+    "headline": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
+    "summary": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-action…",
+    "publisher": "Variety",
+    "url": "https://variety.com/2026/tv/news/ahsoka-season-2-trailer-release-date-star-wars-1236826698/",
+    "image_url": null,
+    "published_at": "2026-08-15T04:25:07.000Z"
+  },
+  {
+    "headline": "‘X-Men’ Movie Casts Inde Navarrette as Rogue, Christopher Abbott as Prof. X, Adam Driver as Mr. Sinister and Maya Boyd as Storm",
+    "summary": "The MCU’s X-Men team is taking shape. Marvel Studios exec Kevin Feige announced the inaugural members of the mutant team at D23 on Friday. The cast includes Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Christopher Abbott as Prof. X and Maya Boyd as Storm. […]",
+    "publisher": "Variety",
+    "url": "https://variety.com/2026/film/news/x-men-cast-inde-navarrette-rogue-christopher-abbott-prof-x-adam-driver-mr-sinister-1236817698/",
+    "image_url": null,
+    "published_at": "2026-08-15T04:16:48.000Z"
+  },
+  {
+    "headline": "‘Avengers: Doomsday’ Trailer: Robert Downey Jr.’s Doctor Doom Faces Off Against Mister Fantastic, X-Men and Avengers With Army of Sentinels",
+    "summary": "Marvel Studios unveiled the second “Avengers: Doomsday” trailer on Friday during Disney’s D23 fan convention, further teasing the massive MCU team-up movie arriving in theaters Dec. 18. The two-minute clip — introduced by “Doomsday” leads Robert Downey Jr. (Doctor Doom), Chris Evans (Steve Rogers/Captain America) and H…",
     "publisher": "Variety",
     "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-d23-1236817670/",
     "image_url": null,
@@ -9,7 +65,7 @@
   },
   {
     "headline": "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
-    "summary": "Paul Bettany is back as Marvel’s most popular android Vision in the upcoming Disney+ series, “VisionQuest.” The eight-episode series’ release date is set for Oct. 14. The show features Bettany’s first live-action MCU role since “WandaVision,” the inaugural Marvel TV show on Disney+ that starred him and Elizabeth Olson’…",
+    "summary": "Paul Bettany is back as Marvel’s most popular android Vision in the upcoming Disney+ series, “VisionQuest.” The eight-episode series’ release date is set for Oct. 14. The trailer opens with Vision in his human form working at a pub and closing up shop for the night. “Before you started working here, I remember when you…",
     "publisher": "Variety",
     "url": "https://variety.com/2026/tv/news/visionquest-trailer-vision-marvel-1236827773/",
     "image_url": null,
@@ -1542,61 +1598,5 @@
     "url": "https://variety.com/2026/tv/news/the-amazing-race-season-39-contestants-new-twists-1236832603/",
     "image_url": null,
     "published_at": "2026-08-12T16:00:00.000Z"
-  },
-  {
-    "headline": "American Film Market Expands With Launch of AFM House, Site of Its Innovation Hub",
-    "summary": "The American Film Market is expanding its scope with the launch of a new Los Angeles venue called The AFM House that will be site of its Innovation Hub. The Independent Film & Television Alliance (IFTA), that produces the AFM, on Wed, announced the new venue located across from the Fairmont Century Plaza. The AFM […]",
-    "publisher": "Variety",
-    "url": "https://variety.com/2026/film/global/american-film-market-afm-house-innovation-hub-1236832881/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:45:00.000Z"
-  },
-  {
-    "headline": "Box Office: ‘End of Oak Street’ Targets $25 Million Debut, ‘Spider-Man: Brand New Day’ to Remain No. 1",
-    "summary": "Anne Hathaway, Ewan McGregor and a pack of rogue dinosaurs won’t be able to catch the web-slinging Spider-Man at the top of box office charts. Sony and Marvel’s comic book juggernaut “Spider-Man: Brand New Day” is poised to dominate in North America during its third weekend of release. That’s despite five new nationwid…",
-    "publisher": "Variety",
-    "url": "https://variety.com/2026/film/box-office/end-of-oak-street-box-office-projections-spiderman-continues-domination-1236832153/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:43:35.000Z"
-  },
-  {
-    "headline": "Quest Marks, Former Bravo Marketer, Joins The Shop as VP, Creative",
-    "summary": "Quest Marks, a veteran marketing executive who had a hand in promoting some of Bravo’s best-known programs, is joining The Shop, an entertainment-marketing boutique that helps devise trailers and promotional campaigns for some of the sector’s biggest venues. Marks will serve as vice president of creative, and will work…",
-    "publisher": "Variety",
-    "url": "https://variety.com/2026/tv/news/quest-marks-joins-the-shop-vp-creative-bravo-1236833042/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:16:35.000Z"
-  },
-  {
-    "headline": "‘Don’t Say Good Luck’ Review: Sunny Sandler and Melanie Lynskey Give Genuine Soul to Netflix’s Mother-Daughter Heartbreaker",
-    "summary": "There’s a high probability that you’ve seen Sunny Sandler on screen before: Thanks to the patronage of her ceaselessly prolific dad, Adam, the 17-year-old has amassed 26 film credits to date. In “Don’t Say Good Luck,” however, you’ll actually notice her. As a teenager likewise stepping into the spotlight for the first…",
-    "publisher": "Variety",
-    "url": "https://variety.com/2026/film/reviews/dont-say-good-luck-review-1236832816/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:03:34.000Z"
-  },
-  {
-    "headline": "‘Coyote vs. Acme’ Review: Wile E. Coyote Stars in a Courtroom Comedy That Blends Cartoons and Live Action. But the Fizz of Anarchy Is Missing",
-    "summary": "At heart, \"Coyote vs. Acme\" is a courtroom comedy. But the upshot of the movie is to integrate as much Road Runner-style mayhem as possible into a live-action universe. The film is chock-full of affectionate nods and references and Looney Tunes Easter eggs. It could have been called \"Remembrance of Rube Goldberg Bombs…",
-    "publisher": "Variety",
-    "url": "https://variety.com/2026/film/reviews/coyote-vs-acme-review-will-forte-wile-e-coyote-1236832065/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:01:11.000Z"
-  },
-  {
-    "headline": "‘The End of Oak Street’ Review: End-of-the-Summer Trash That’s Like a Loopier (and in Some Ways Better) ‘Jurassic’ Movie",
-    "summary": "\"The End of Oak Street\" is sometimes scary, more so than the last few lumbering \"Jurassic\" sequels. And sometimes it’s a hoot. Intentionally or not? A bit of both, which is the film’s knowing but innocent stupido-kitsch dynamic.",
-    "publisher": "Variety",
-    "url": "https://variety.com/2026/film/reviews/the-end-of-oak-street-review-anne-hathaway-ewan-mcgregor-1236831473/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:00:54.000Z"
-  },
-  {
-    "headline": "Godflesh’s New Song ‘Living/Ending’ Will Pummel You to Oblivion",
-    "summary": "Pioneering industrial-metal band’s penultimate album, Decay, due this fall",
-    "publisher": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/godflesh-decay-living-ending-new-song-album-1235607366/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:00:36.000Z"
   }
 ]
