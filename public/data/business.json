@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+    "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+    "image_url": null,
+    "published_at": "2026-08-14T23:41:50.000Z"
+  },
+  {
+    "headline": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+    "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+    "image_url": null,
+    "published_at": "2026-08-14T21:45:19.000Z"
+  },
+  {
+    "headline": "Why some companies are paying more than $1 million to get through the Panama Canal",
+    "summary": "With the Strait of Hormuz effectively closed, pressure on the Panama Canal has increased. And combined with lower water levels, transit prices through the canal are soaring.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/14/nx-s1-5929414/why-some-companies-are-paying-more-than-1-million-to-get-through-the-panama-canal",
+    "image_url": null,
+    "published_at": "2026-08-14T21:22:05.000Z"
+  },
+  {
+    "headline": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+    "summary": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+    "image_url": null,
+    "published_at": "2026-08-14T21:06:48.000Z"
+  },
+  {
+    "headline": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+    "summary": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+    "image_url": null,
+    "published_at": "2026-08-14T20:47:41.000Z"
+  },
+  {
+    "headline": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+    "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+    "image_url": null,
+    "published_at": "2026-08-14T20:05:57.000Z"
+  },
+  {
+    "headline": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+    "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+    "image_url": null,
+    "published_at": "2026-08-14T20:04:28.000Z"
+  },
+  {
+    "headline": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+    "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+    "image_url": null,
+    "published_at": "2026-08-14T19:50:11.000Z"
+  },
+  {
     "headline": "Regulators and banks step up scrutiny of prediction markets",
     "summary": "The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC.",
     "publisher": "CNBC",
@@ -22,22 +86,6 @@
     "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
     "image_url": null,
     "published_at": "2026-08-14T19:07:11.000Z"
-  },
-  {
-    "headline": "Drone stocks rally after Trump orders tariffs on foreign-made components",
-    "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
-    "image_url": null,
-    "published_at": "2026-08-14T18:43:56.000Z"
-  },
-  {
-    "headline": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-    "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-    "image_url": null,
-    "published_at": "2026-08-14T18:43:55.000Z"
   },
   {
     "headline": "What flash memory maker SanDisk told investors this week is a boon for our newest stock",
@@ -174,14 +222,6 @@
     "url": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
     "image_url": null,
     "published_at": "2026-08-14T12:03:32.000Z"
-  },
-  {
-    "headline": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-    "summary": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-    "image_url": null,
-    "published_at": "2026-08-14T11:50:40.000Z"
   },
   {
     "headline": "Data centers in space could be a new frontier for insurers — if they can price the risk",
@@ -1512,7 +1552,7 @@
     "published_at": "2026-08-10T14:27:15.000Z"
   },
   {
-    "headline": "Does spending money make you feel bad? Read this comic",
+    "headline": "Spending money shouldn't make you feel bad. But if it does, read this comic",
     "summary": "If spending — or not spending — money makes you feel shame or regret, you might be grappling with financial guilt. Financial planner Lauryn Williams breaks down three types and how to deal.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
@@ -1558,45 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
     "image_url": null,
     "published_at": "2026-08-10T11:45:50.000Z"
-  },
-  {
-    "headline": "Australian rare earth miner surges after U.S. Department of Defense investment",
-    "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical minerals dominance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
-    "image_url": null,
-    "published_at": "2026-08-10T11:44:14.000Z"
-  },
-  {
-    "headline": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
-    "summary": "The AI lab said it could not rule out a new model had reached \"Critical\" capability, meaning it could launch cyberattacks against sophisticated cyber defenses.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html",
-    "image_url": null,
-    "published_at": "2026-08-10T11:04:50.000Z"
-  },
-  {
-    "headline": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
-    "summary": "Shein has won over consumers with its low prices but is now seeing shoppers flee after new tariffs and changing regulations forced it to raise prices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
-    "image_url": null,
-    "published_at": "2026-08-10T11:00:01.000Z"
-  },
-  {
-    "headline": "Treasury yields inch lower as investors look ahead to key inflation data",
-    "summary": "U.S. Treasury yields inched lower at the start of the week as investors look ahead to a busy week of economic data, particularly key inflation data.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/us-treasury-yields-investors-eye-key-inflation-data-.html",
-    "image_url": null,
-    "published_at": "2026-08-10T08:11:27.000Z"
-  },
-  {
-    "headline": "The space boom has created a giant mess. Now startups want to clean it up",
-    "summary": "As Earth’s orbit gets more crowded, companies are betting that cleaning up space junk could become a lucrative new business.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
-    "image_url": null,
-    "published_at": "2026-08-10T07:44:33.000Z"
   }
 ]
