@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+    "summary": "European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+    "image_url": null,
+    "published_at": "2026-08-16T09:45:45.000Z"
+  },
+  {
     "headline": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
     "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
     "publisher": "CNBC",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/10/open-ai-daybreak-cybersecurity.html",
     "image_url": null,
     "published_at": "2026-08-10T18:43:17.000Z"
-  },
-  {
-    "headline": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
-    "summary": "U.S. presidents have increasingly ordered massive releases from the SPR in recent years.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
-    "image_url": null,
-    "published_at": "2026-08-10T18:43:06.000Z"
   }
 ]
