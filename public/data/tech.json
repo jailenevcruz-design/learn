@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Amazon is trying to crush class-action suits before they get started",
+    "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issues, but it notably w…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+    "image_url": null,
+    "published_at": "2026-08-16T17:35:02.000Z"
+  },
+  {
     "headline": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
     "publisher": "TechCrunch",
@@ -1590,13 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
     "image_url": null,
     "published_at": "2026-08-10T14:20:19.000Z"
-  },
-  {
-    "headline": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
-    "summary": "A bug in the tech giant's website the logo of US marketing automation company Klaviyo Inc. is seen displayed on a smartphone in front of an abstract background on a computer screen..",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
-    "image_url": null,
-    "published_at": "2026-08-10T14:14:43.000Z"
   }
 ]
