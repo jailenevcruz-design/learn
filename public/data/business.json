@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+    "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+    "image_url": null,
+    "published_at": "2026-08-16T17:08:04.000Z"
+  },
+  {
+    "headline": "The internet's grandma has advice for late bloomers: 'It doesn't all have to be perfect'",
+    "summary": "Kim Murstein and Gail Rudnick are the duo behind \"Excuse My Grandma,\" an advice podcast that dives into life, love and other issues across generations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/16/grandma-gail-advice-for-late-bloomers-it-doesnt-all-have-to-be-perfect.html",
+    "image_url": null,
+    "published_at": "2026-08-16T14:30:01.000Z"
+  },
+  {
     "headline": "What the results of a Connecticut congressional primary race may mean for Social Security",
     "summary": "Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.",
     "publisher": "CNBC",
@@ -262,14 +278,6 @@
     "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
     "image_url": null,
     "published_at": "2026-08-14T18:24:49.000Z"
-  },
-  {
-    "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-    "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
-    "image_url": null,
-    "published_at": "2026-08-14T18:00:01.000Z"
   },
   {
     "headline": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
     "image_url": null,
     "published_at": "2026-08-10T20:08:55.000Z"
-  },
-  {
-    "headline": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal",
-    "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not come anytime soon.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
-    "image_url": null,
-    "published_at": "2026-08-10T19:26:30.000Z"
   }
 ]
