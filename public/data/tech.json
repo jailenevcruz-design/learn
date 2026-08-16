@@ -1,5 +1,13 @@
 [
   {
+    "headline": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The fe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "image_url": null,
+    "published_at": "2026-08-16T14:56:40.000Z"
+  },
+  {
     "headline": "Rogue AI aren’t science fiction anymore",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents went rogu…",
     "publisher": "The Verge",
@@ -1590,13 +1598,5 @@
     "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
     "image_url": null,
     "published_at": "2026-08-10T13:51:46.000Z"
-  },
-  {
-    "headline": "Steam hardware shipper breach leaks customer data, including names and addresses",
-    "summary": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included customer names, addresses, phone numbers, and email addresses. The…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-    "image_url": null,
-    "published_at": "2026-08-10T12:48:12.000Z"
   }
 ]
