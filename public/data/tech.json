@@ -1,5 +1,13 @@
 [
   {
+    "headline": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+    "image_url": null,
+    "published_at": "2026-08-16T16:04:00.000Z"
+  },
+  {
     "headline": "ChatGPT’s Computer History tracks your clicks and keystrokes",
     "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The fe…",
     "publisher": "The Verge",
@@ -1590,13 +1598,5 @@
     "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
     "image_url": null,
     "published_at": "2026-08-10T14:00:00.000Z"
-  },
-  {
-    "headline": "Boeing is selling its air taxi startups to Archer Aviation",
-    "summary": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based company. The subsidiares to be acquired by Archer include Wisk Aero, which has been developing an autonomous electric aircraft; SkyGrid, which is…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-    "image_url": null,
-    "published_at": "2026-08-10T13:51:46.000Z"
   }
 ]
