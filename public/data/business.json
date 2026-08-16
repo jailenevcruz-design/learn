@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+    "summary": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+    "image_url": null,
+    "published_at": "2026-08-16T19:58:32.000Z"
+  },
+  {
     "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
     "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
     "publisher": "CNBC",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
     "image_url": null,
     "published_at": "2026-08-10T20:11:09.000Z"
-  },
-  {
-    "headline": "SpaceX stock rebounds, closing above $135 IPO price for first time in weeks",
-    "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
-    "image_url": null,
-    "published_at": "2026-08-10T20:08:55.000Z"
   }
 ]
