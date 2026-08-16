@@ -1,5 +1,45 @@
 [
   {
+    "headline": "This 10-cent heart drug cuts hospitalizations by 25%",
+    "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the way for its return as a major treatment.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+    "image_url": null,
+    "published_at": "2026-08-16T12:22:32.000Z"
+  },
+  {
+    "headline": "A little movement in midlife could pay off for your brain years later",
+    "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factors may differ across populations.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
+    "image_url": null,
+    "published_at": "2026-08-16T12:02:14.000Z"
+  },
+  {
+    "headline": "The common mistake that could make aging joints hurt more",
+    "summary": "Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protect joints, and can reduce osteoarthritis pain. Low-impact activities such as swimming, cycling, tai chi, yoga, and walkin…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
+    "image_url": null,
+    "published_at": "2026-08-16T11:23:47.000Z"
+  },
+  {
+    "headline": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+    "summary": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a decades-old textbook picture…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+    "image_url": null,
+    "published_at": "2026-08-16T09:55:45.000Z"
+  },
+  {
+    "headline": "Scientists reveal why walking gets so much harder with age",
+    "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while producing less forward motion. This leads to shorter strides, slower walking, and faster fatigue. Exerc…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
+    "image_url": null,
+    "published_at": "2026-08-16T09:13:25.000Z"
+  },
+  {
     "headline": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
     "summary": "Sunflower sea stars are critically endangered in the Pacific Ocean. University of Washington researchers are working with the Samish Indian Nation to bring this 24-armed creature back from the brink of extinction.",
     "publisher": "NPR",
@@ -8,12 +48,36 @@
     "published_at": "2026-08-16T09:00:00.000Z"
   },
   {
-    "headline": "Scientists detect a surprising shift in human blood as CO2 rises",
+    "headline": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
+    "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other extinct Pleistocene amphibian has ever been identified in North America. Its bones had been sitting in…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+    "image_url": null,
+    "published_at": "2026-08-16T07:33:36.000Z"
+  },
+  {
+    "headline": "A black hole shredded a “super sun” — but something strange may have survived",
+    "summary": "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released about 400 billion times the Sun’s energy and sent a shock wave racing outward at one-fifth the speed of light. Months late…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
+    "image_url": null,
+    "published_at": "2026-08-16T03:46:46.000Z"
+  },
+  {
+    "headline": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
+    "summary": "COVID-19 can reactivate dormant viruses hiding in the body, including Epstein-Barr, cytomegalovirus, and several herpes viruses. One poorly understood viral family was strongly associated with long COVID and lasting disability, offering a potentially important clue to why some patients struggle to recover.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814011034.htm",
+    "image_url": null,
+    "published_at": "2026-08-16T03:03:05.000Z"
+  },
+  {
+    "headline": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
     "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while calcium and phosphorus have declined—changes that closely track increasing atmosp…",
     "publisher": "ScienceDaily",
     "url": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
     "image_url": null,
-    "published_at": "2026-08-15T14:39:32.000Z"
+    "published_at": "2026-08-15T14:40:16.000Z"
   },
   {
     "headline": "When gut microbes run low on fiber, they may start eating you",
@@ -1534,69 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
     "image_url": null,
     "published_at": "2026-07-30T06:34:21.000Z"
-  },
-  {
-    "headline": "Alien signals may be hiding where we rarely listen",
-    "summary": "Astronomers may have been listening for alien civilizations in only a small slice of the radio spectrum while overlooking a largely unexplored range of higher frequencies. Using archived data from the ALMA telescope in Chile, researchers conducted the observatory’s first SETI survey, searching for narrow signals that c…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260726015239.htm",
-    "image_url": null,
-    "published_at": "2026-07-30T05:09:15.000Z"
-  },
-  {
-    "headline": "Ultrafast X-rays capture chemistry unfolding atom by atom",
-    "summary": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window into light-driven chemistry.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
-    "image_url": null,
-    "published_at": "2026-07-30T02:18:28.000Z"
-  },
-  {
-    "headline": "AI reveals explosive bursts in bird evolution",
-    "summary": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can reshape life in powerful ways.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
-    "image_url": null,
-    "published_at": "2026-07-30T01:01:26.000Z"
-  },
-  {
-    "headline": "Daily multivitamin may help older adults stay independent",
-    "summary": "Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a placebo, although the preliminary findings still require peer review.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
-    "image_url": null,
-    "published_at": "2026-07-29T23:44:16.000Z"
-  },
-  {
-    "headline": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
-    "summary": "The release of Dr. Anthony Fauci's pandemic diaries has rekindled the debate over the origins of SARS-CoV-2. Here's how scientists have weighed in.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
-    "image_url": null,
-    "published_at": "2026-07-29T23:02:53.000Z"
-  },
-  {
-    "headline": "How to catch this week's meteor showers, despite the full moon",
-    "summary": "Two annual meteor showers are reaching their peak this week. It will be harder to see them this year due to the moon - but an astronomer shared tips with us on how to still view the lights.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/nx-s1-5911839/how-to-catch-this-weeks-meteor-showers-despite-the-full-moon",
-    "image_url": null,
-    "published_at": "2026-07-29T20:21:58.000Z"
-  },
-  {
-    "headline": "Scientists find a simple way to stop cavities without drilling",
-    "summary": "A liquid brushed onto cavities in seconds may spare many young children from pain, infection, and surgery. A major U.S. trial found that silver diamine fluoride stopped decay in more than half of treated baby teeth. The treatment requires no drilling, shots, or sedation, although it does permanently darken the decayed…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
-    "image_url": null,
-    "published_at": "2026-07-29T12:35:36.000Z"
-  },
-  {
-    "headline": "Your gut may help your brain decide what to remember",
-    "summary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to rememb…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
-    "image_url": null,
-    "published_at": "2026-07-29T12:20:24.000Z"
   }
 ]
