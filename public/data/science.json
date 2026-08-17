@@ -1,5 +1,13 @@
 [
   {
+    "headline": "How extreme weather could help predict disease outbreaks",
+    "summary": "A historic drought may have helped yellow fever spread in Brazil. A new study shows how understanding the connection could help prepare for future outbreaks.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5929185/how-extreme-weather-could-help-predict-disease-outbreaks",
+    "image_url": null,
+    "published_at": "2026-08-17T21:07:09.000Z"
+  },
+  {
     "headline": "Low-fat vegan diet helps people lose weight without eating less",
     "summary": "A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry. In a 16-week clinical trial, people eating mostly fruits, vegetables, grains, and legumes consumed about 357 fewer calories per day even though the total amount of food they ate barely changed.",
     "publisher": "ScienceDaily",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
     "image_url": null,
     "published_at": "2026-07-31T07:05:12.000Z"
-  },
-  {
-    "headline": "Strange gamma rays could reveal how stars forge heavy elements",
-    "summary": "Scientists traced a mysterious surge of low-energy gamma rays from zinc-70 to magnetic changes occurring inside its nucleus. The breakthrough could improve models of how stars, supernovae, and neutron star mergers create heavy elements.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
-    "image_url": null,
-    "published_at": "2026-07-31T05:15:53.000Z"
   }
 ]

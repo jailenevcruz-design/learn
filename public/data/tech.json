@@ -1,5 +1,45 @@
 [
   {
+    "headline": "ABC&#8217;s livestreamed news show is powered by trending topics",
+    "summary": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in April, which appears on…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+    "image_url": null,
+    "published_at": "2026-08-17T20:59:23.000Z"
+  },
+  {
+    "headline": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+    "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+    "image_url": null,
+    "published_at": "2026-08-17T20:18:35.000Z"
+  },
+  {
+    "headline": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+    "image_url": null,
+    "published_at": "2026-08-17T19:33:51.000Z"
+  },
+  {
+    "headline": "This compact Glorious mechanical keyboard is just $35",
+    "summary": "The discounted GMMK 3 doesn’t include the pictured wrist rest. | Image: Glorious Are you curious about custom mechanical keyboards, but don’t want to spend hundreds just to get started without being sure you’ll enjoy the hobby? You can grab the 65-percent Glorious GMMK 3 mechanical keyboard at Woot for $34.99 (usually…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-17T19:27:49.000Z"
+  },
+  {
+    "headline": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+    "summary": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+    "image_url": null,
+    "published_at": "2026-08-17T19:24:43.000Z"
+  },
+  {
     "headline": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
     "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
     "publisher": "TechCrunch",
@@ -161,7 +201,7 @@
   },
   {
     "headline": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "summary": "Wispr’s total funding is now over $361 million.",
+    "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
     "image_url": null,
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
     "image_url": null,
     "published_at": "2026-08-11T13:59:26.000Z"
-  },
-  {
-    "headline": "North Korean remote IT staffer worked for US government agency, says FBI",
-    "summary": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
-    "image_url": null,
-    "published_at": "2026-08-11T13:40:30.000Z"
-  },
-  {
-    "headline": "Why your Amazon order confirmation emails have become so unhelpful",
-    "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted ot…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-    "image_url": null,
-    "published_at": "2026-08-11T13:27:20.000Z"
-  },
-  {
-    "headline": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-    "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "image_url": null,
-    "published_at": "2026-08-11T13:00:00.000Z"
-  },
-  {
-    "headline": "GuliKit&#8217;s new Switch controller features next-generation anti-drift thumbsticks",
-    "summary": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max is more expensive than last year's $29.99 ES Pro, but still c…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-    "image_url": null,
-    "published_at": "2026-08-11T13:00:00.000Z"
-  },
-  {
-    "headline": "Bumble now lets men make the first move",
-    "summary": "Bumble backtracks on “women make the first move.” | Image: The Verge Bumble was famously built around exclusively giving women the power to initiate messages in heterosexual matches when it first launched in 2014 - but now the times they are a-changin' for the dating app. Today, Bumble has announced a \"global evolution…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
-    "image_url": null,
-    "published_at": "2026-08-11T13:00:00.000Z"
   }
 ]

@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+    "summary": "Anthropic's revenue run rate is up about sevenfold from a year earlier.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+    "image_url": null,
+    "published_at": "2026-08-17T21:08:29.000Z"
+  },
+  {
+    "headline": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+    "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+    "image_url": null,
+    "published_at": "2026-08-17T20:48:22.000Z"
+  },
+  {
+    "headline": "Defense contractor L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+    "summary": "Chris Kubasik was ousted as Lockheed Martin's incoming CEO in 2012 after what that company called \"close personal relationship with a subordinate employee.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+    "image_url": null,
+    "published_at": "2026-08-17T20:32:15.000Z"
+  },
+  {
+    "headline": "What will TV look like in three years? Media insiders share their predictions",
+    "summary": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
+    "image_url": null,
+    "published_at": "2026-08-17T20:25:37.000Z"
+  },
+  {
+    "headline": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
+    "summary": "Disney Experiences chief Thomas Mazloum is focused on balancing the needs of its most ardent parkgoers with its less frequent visitors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
+    "image_url": null,
+    "published_at": "2026-08-17T20:23:22.000Z"
+  },
+  {
+    "headline": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
+    "summary": "Sen. Bernie Sanders, I-Vermont, announced a new proposal on Monday to protect federal student loan borrowers from having their Social Security checks garnished.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html",
+    "image_url": null,
+    "published_at": "2026-08-17T20:13:27.000Z"
+  },
+  {
+    "headline": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+    "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+    "image_url": null,
+    "published_at": "2026-08-17T20:04:53.000Z"
+  },
+  {
+    "headline": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
+    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-17T19:24:32.000Z"
+  },
+  {
     "headline": "Brent oil rises above $90 as Iran rules out interim deal extension, threatens to escalate conflict",
     "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
     "publisher": "CNBC",
@@ -14,30 +78,6 @@
     "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
     "image_url": null,
     "published_at": "2026-08-17T19:14:03.000Z"
-  },
-  {
-    "headline": "30-year Treasury yield tops 5.31%, the highest in 19 years",
-    "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
-    "image_url": null,
-    "published_at": "2026-08-17T19:01:55.000Z"
-  },
-  {
-    "headline": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
-    "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
-    "image_url": null,
-    "published_at": "2026-08-17T18:58:54.000Z"
-  },
-  {
-    "headline": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
-    "summary": "Disney Experiences chief Thomas Mazloum is focused on balancing the needs of its most ardent parkgoers with its less frequent visitors.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
-    "image_url": null,
-    "published_at": "2026-08-17T18:50:36.000Z"
   },
   {
     "headline": "Eli Lilly and J&J bounce on new data, as software stocks give up last week's gains",
@@ -144,14 +184,6 @@
     "published_at": "2026-08-17T14:54:52.000Z"
   },
   {
-    "headline": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-17T14:49:26.000Z"
-  },
-  {
     "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
     "summary": "Anthropic's second-quarter revenue was up 14-fold over last year, and Melius Research is pushing Dell.",
     "publisher": "CNBC",
@@ -184,14 +216,6 @@
     "published_at": "2026-08-17T11:24:23.000Z"
   },
   {
-    "headline": "What will TV look like in three years? Media insiders share their predictions",
-    "summary": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
-    "image_url": null,
-    "published_at": "2026-08-17T11:00:01.000Z"
-  },
-  {
     "headline": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
     "summary": "The S&P 500 is up more than 6% in 12 trading days to record levels.",
     "publisher": "CNBC",
@@ -208,14 +232,6 @@
     "published_at": "2026-08-17T09:46:08.000Z"
   },
   {
-    "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
-    "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-    "image_url": null,
-    "published_at": "2026-08-17T09:00:00.000Z"
-  },
-  {
     "headline": "Meta heads to court in a landmark trial about kids and social media addiction",
     "summary": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks.",
     "publisher": "NPR",
@@ -228,6 +244,14 @@
     "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+    "image_url": null,
+    "published_at": "2026-08-17T09:00:00.000Z"
+  },
+  {
+    "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+    "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
     "image_url": null,
     "published_at": "2026-08-17T09:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
     "image_url": null,
     "published_at": "2026-08-11T18:23:43.000Z"
-  },
-  {
-    "headline": "Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block",
-    "summary": "Trump in a Truth Social post called Mamdani's pied-à-terre tax a \"dangerous political 'experiment' in New York will destroy\" the city and state.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html",
-    "image_url": null,
-    "published_at": "2026-08-11T18:10:10.000Z"
-  },
-  {
-    "headline": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-    "summary": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-    "image_url": null,
-    "published_at": "2026-08-11T18:09:08.000Z"
-  },
-  {
-    "headline": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
-    "summary": "In Minnesota, progressive Lt. Gov. Peggy Flanagan and moderate Democratic Rep. Angie Craig are competing for the nomination to succeed the retiring Sen. Tina Smith.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
-    "image_url": null,
-    "published_at": "2026-08-11T18:05:12.000Z"
   }
 ]
