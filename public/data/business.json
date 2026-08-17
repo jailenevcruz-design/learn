@@ -1,5 +1,29 @@
 [
   {
+    "headline": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
+    "summary": "The data is reinforcing concerns about the health of the world's second-largest economy, which has grappled with a deepening supply-demand imbalance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+    "image_url": null,
+    "published_at": "2026-08-17T07:33:57.000Z"
+  },
+  {
+    "headline": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
+    "summary": "The auction of the Luce comes nearly three months after Ferrari unveiled its first fully electric car, which was priced at 550,000 euros (roughly $640,000).",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html",
+    "image_url": null,
+    "published_at": "2026-08-17T06:52:23.000Z"
+  },
+  {
+    "headline": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
+    "summary": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html",
+    "image_url": null,
+    "published_at": "2026-08-17T05:18:44.000Z"
+  },
+  {
     "headline": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
     "summary": "On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.",
     "publisher": "CNBC",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
     "image_url": null,
     "published_at": "2026-08-10T22:15:31.000Z"
-  },
-  {
-    "headline": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
-    "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-    "image_url": null,
-    "published_at": "2026-08-10T22:09:00.000Z"
-  },
-  {
-    "headline": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
-    "summary": "The industry's annual Black Hat conference renewed demand for AI-powered cybersecurity tools.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
-    "image_url": null,
-    "published_at": "2026-08-10T21:43:37.000Z"
-  },
-  {
-    "headline": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
-    "summary": "The president said he had recently been in touch with the Fed chairman, but denied regular contact amid concerns about central bank independence.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html",
-    "image_url": null,
-    "published_at": "2026-08-10T21:23:04.000Z"
   }
 ]
