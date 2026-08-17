@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Refiner stocks are on a nearly unprecedented run. History says it could end soon",
+    "summary": "Refining is a great business, but if you've had the good fortune to ride this trade this year, it's likely time to take profits.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/refiner-stocks-are-on-a-nearly-unprecedented-run-history-says-it-could-end-soon.html",
+    "image_url": null,
+    "published_at": "2026-08-17T17:12:44.000Z"
+  },
+  {
+    "headline": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+    "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+    "image_url": null,
+    "published_at": "2026-08-17T17:10:01.000Z"
+  },
+  {
+    "headline": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+    "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+    "image_url": null,
+    "published_at": "2026-08-17T16:36:20.000Z"
+  },
+  {
+    "headline": "Oil prices little changed as Iran rules out interim deal extension, threatens to escalate conflict",
+    "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-17T16:29:44.000Z"
+  },
+  {
+    "headline": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+    "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+    "image_url": null,
+    "published_at": "2026-08-17T16:19:37.000Z"
+  },
+  {
+    "headline": "Cramer's advice on Apple after analyst upgrade. Plus, why 2 chipmakers are up big",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/cramers-advice-on-apple-after-upgrade-plus-why-2-semis-are-up-big.html",
+    "image_url": null,
+    "published_at": "2026-08-17T16:12:26.000Z"
+  },
+  {
     "headline": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
     "summary": "Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.",
     "publisher": "CNBC",
@@ -24,14 +72,6 @@
     "published_at": "2026-08-17T16:01:46.000Z"
   },
   {
-    "headline": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-    "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-    "image_url": null,
-    "published_at": "2026-08-17T15:52:22.000Z"
-  },
-  {
     "headline": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
     "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
     "publisher": "CNBC",
@@ -40,28 +80,12 @@
     "published_at": "2026-08-17T15:26:52.000Z"
   },
   {
-    "headline": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-    "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-17T15:25:43.000Z"
-  },
-  {
     "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
     "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
     "image_url": null,
     "published_at": "2026-08-17T15:16:53.000Z"
-  },
-  {
-    "headline": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-    "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
-    "image_url": null,
-    "published_at": "2026-08-17T15:04:24.000Z"
   },
   {
     "headline": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
     "image_url": null,
     "published_at": "2026-08-11T16:23:29.000Z"
-  },
-  {
-    "headline": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
-    "image_url": null,
-    "published_at": "2026-08-11T16:21:35.000Z"
-  },
-  {
-    "headline": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
-    "summary": "Last December, Meta said it planned to acquire Manus for $2 billion, its latest effort to shore up its AI strategy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
-    "image_url": null,
-    "published_at": "2026-08-11T16:12:27.000Z"
-  },
-  {
-    "headline": "Target appoints its first chief AI officer as big retailers bet on AI",
-    "summary": "Target announced its first-ever chief artificial intelligence officer on Tuesday as retailers race to take advantage of the AI boom.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/target-appoints-chief-ai-officer-chandhu-nair.html",
-    "image_url": null,
-    "published_at": "2026-08-11T15:44:43.000Z"
   }
 ]

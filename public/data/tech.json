@@ -1,5 +1,61 @@
 [
   {
+    "headline": "YouTube is changing how it counts views to give the numbers a boost",
+    "summary": "YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on August 24th, \"which means creators will likely see their total view counts increase faster moving forward,\" the platform says. Instagram and Tik…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+    "image_url": null,
+    "published_at": "2026-08-17T17:13:03.000Z"
+  },
+  {
+    "headline": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+    "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+    "image_url": null,
+    "published_at": "2026-08-17T17:10:59.000Z"
+  },
+  {
+    "headline": "The Analogue Pocket gets a Supreme makeover in red or gold",
+    "summary": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website: Metallic portable handheld multi-video-game-system. Unibody aluminum with 24K Gold-plated and custom red…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
+    "image_url": null,
+    "published_at": "2026-08-17T16:40:32.000Z"
+  },
+  {
+    "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "image_url": null,
+    "published_at": "2026-08-17T16:38:44.000Z"
+  },
+  {
+    "headline": "Sonos finally added Live Activities controls for your iPhone lockscreen",
+    "summary": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a \"much requested, anticipated, and needed feature,\" according to a post Sonos shared to Reddit today that was spotte…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+    "image_url": null,
+    "published_at": "2026-08-17T16:38:35.000Z"
+  },
+  {
+    "headline": "Trump’s dumb border wall",
+    "summary": "A bulldozer plows through land during construction for a section of border wall near Santa Elena Canyon on August 14, 2026 in Big Bend National Park, Texas. | Brandon Bell/Getty Images About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
+    "image_url": null,
+    "published_at": "2026-08-17T16:30:00.000Z"
+  },
+  {
+    "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "image_url": null,
+    "published_at": "2026-08-17T16:15:12.000Z"
+  },
+  {
     "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
     "publisher": "TechCrunch",
@@ -1542,61 +1598,5 @@
     "url": "https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol",
     "image_url": null,
     "published_at": "2026-08-11T12:00:00.000Z"
-  },
-  {
-    "headline": "The AI takeover of mathematics has begun",
-    "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-    "image_url": null,
-    "published_at": "2026-08-11T11:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "summary": "San Francisco's housing market is in trouble again.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "image_url": null,
-    "published_at": "2026-08-11T00:03:18.000Z"
-  },
-  {
-    "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "image_url": null,
-    "published_at": "2026-08-10T23:56:15.000Z"
-  },
-  {
-    "headline": "Jeff Bezos might finally get his hands on a sports team",
-    "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
-    "image_url": null,
-    "published_at": "2026-08-10T23:16:44.000Z"
-  },
-  {
-    "headline": "Now Rippling is counter-suing tiny startup Runlayer",
-    "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
-    "image_url": null,
-    "published_at": "2026-08-10T22:26:54.000Z"
-  },
-  {
-    "headline": "Mark Zuckerberg doesn’t understand how to live",
-    "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What reaction was this man looking for? He…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-    "image_url": null,
-    "published_at": "2026-08-10T22:00:00.000Z"
-  },
-  {
-    "headline": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
-    "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
-    "image_url": null,
-    "published_at": "2026-08-10T21:20:04.000Z"
   }
 ]
