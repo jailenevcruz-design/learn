@@ -1,19 +1,67 @@
 [
   {
-    "headline": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
-    "summary": "A spokesperson for Trump's legal team slammed Carroll's case as a witch hunt and a hoax.",
+    "headline": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping",
+    "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
+    "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
     "image_url": null,
-    "published_at": "2026-08-17T14:12:08.000Z"
+    "published_at": "2026-08-17T15:11:55.000Z"
   },
   {
-    "headline": "Nvidia backs financing for OpenAI data center in Ohio",
+    "headline": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
     "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
     "image_url": null,
-    "published_at": "2026-08-17T14:10:16.000Z"
+    "published_at": "2026-08-17T15:10:06.000Z"
+  },
+  {
+    "headline": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+    "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+    "image_url": null,
+    "published_at": "2026-08-17T15:04:24.000Z"
+  },
+  {
+    "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+    "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+    "image_url": null,
+    "published_at": "2026-08-17T15:00:13.000Z"
+  },
+  {
+    "headline": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+    "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-17T14:56:42.000Z"
+  },
+  {
+    "headline": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
+    "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
+    "image_url": null,
+    "published_at": "2026-08-17T14:54:52.000Z"
+  },
+  {
+    "headline": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+    "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
+    "image_url": null,
+    "published_at": "2026-08-17T14:51:24.000Z"
+  },
+  {
+    "headline": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-17T14:49:26.000Z"
   },
   {
     "headline": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
@@ -24,44 +72,12 @@
     "published_at": "2026-08-17T14:09:49.000Z"
   },
   {
-    "headline": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-17T14:07:16.000Z"
-  },
-  {
-    "headline": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
-    "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
-    "image_url": null,
-    "published_at": "2026-08-17T13:57:19.000Z"
-  },
-  {
-    "headline": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-    "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
-    "image_url": null,
-    "published_at": "2026-08-17T13:33:04.000Z"
-  },
-  {
     "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
     "summary": "Anthropic's second-quarter revenue was up 14-fold over last year, and Melius Research is pushing Dell.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
     "image_url": null,
     "published_at": "2026-08-17T13:29:25.000Z"
-  },
-  {
-    "headline": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-    "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-17T13:17:15.000Z"
   },
   {
     "headline": "Vista Energy up 4% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
@@ -206,14 +222,6 @@
     "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
     "image_url": null,
     "published_at": "2026-08-16T19:58:32.000Z"
-  },
-  {
-    "headline": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-    "summary": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
-    "image_url": null,
-    "published_at": "2026-08-16T17:08:04.000Z"
   },
   {
     "headline": "The internet's grandma has advice for late bloomers: 'It doesn't all have to be perfect'",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/11/trump-accounts-employer-match-paycheck-contributions-treasury.html",
     "image_url": null,
     "published_at": "2026-08-11T15:29:22.000Z"
-  },
-  {
-    "headline": "Ukraine war sparked race for countries to build spy satellites, space-tech CEO says",
-    "summary": "Governments are ramping up satellite capabilities as space intelligence becomes increasingly critical to modern warfare.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/iceye-satellite-fleets-defense-europe.html",
-    "image_url": null,
-    "published_at": "2026-08-11T15:09:49.000Z"
   }
 ]
