@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft Symmetry",
+    "summary": "Savette’s newest handbag introduces an element of undone elegance to the brand’s refined design codes. Learn more about the design from founder Amy Zurek and shop it on Vogue first.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/savette-soft-symmetry-launch",
+    "image_url": null,
+    "published_at": "2026-08-17T11:00:00.000Z"
+  },
+  {
+    "headline": "How to Get a Wedding Dress Fast",
+    "summary": "Getting married in under nine months? We give you all the solutions on how to get a wedding dress fast, from shopping vintage to going bespoke.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-to-get-a-wedding-dress-fast",
+    "image_url": null,
+    "published_at": "2026-08-17T11:00:00.000Z"
+  },
+  {
+    "headline": "How to Wear the Nightie Dress Trend, According to Six of the Season’s It Girls",
+    "summary": "From Dôen, Madewell, and even Chloé, here’s how six of the season’s It girls are wearing the nightie dress trend.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-to-wear-the-nightie-dress-trend",
+    "image_url": null,
+    "published_at": "2026-08-17T10:00:00.000Z"
+  },
+  {
+    "headline": "The Best Vanilla Perfumes Have Architecture and Attitude",
+    "summary": "The best vanilla perfumes are far from the sugary dessert scents you'd imagine. Crisp and light, moody and rich, these fragrances by Guerlain, Dior, and more make the note feel new.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/modern-vanilla-perfumes",
+    "image_url": null,
+    "published_at": "2026-08-17T10:00:00.000Z"
+  },
+  {
+    "headline": "34 Best Fall Wedding Guest Dresses to Wear for Autumnal RSVPs",
+    "summary": "Autumn ceremonies will be here before you know it. Start planning your look with our edit of the best fall wedding guest dresses to shop right now.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/best-fall-wedding-guest-dresses",
+    "image_url": null,
+    "published_at": "2026-08-17T10:00:00.000Z"
+  },
+  {
     "headline": "Calling All Rei Kawakubo Fans—dot COMME Is Auctioning 265 Pieces of His Epic Collection",
     "summary": "Dot COMME: The Auction is a reminder of Rei Kawakubo’s exceptional and singular creativity, regardless of the era the Comme des Garçons piece comes from.",
     "publisher": "Vogue",
@@ -168,18 +208,18 @@
     "published_at": "2026-08-16T11:03:08.000Z"
   },
   {
-    "headline": "30 Gingham Decor Pieces to Bring the Checkered Trend Home",
-    "summary": "Bring a bit of pattern home with some gingham decor—from pillows to blankets to even a bed frame, these are our favorites from brands like Hawkins New York, Serena & Lily, and more.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/gingham-decor",
-    "image_url": null,
-    "published_at": "2026-08-16T10:00:00.000Z"
-  },
-  {
     "headline": "Ask Earl With Laurel Pantin: How to Layer in a Heat Wave",
     "summary": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
+    "image_url": null,
+    "published_at": "2026-08-16T10:00:00.000Z"
+  },
+  {
+    "headline": "30 Gingham Decor Pieces to Bring the Checkered Trend Home",
+    "summary": "Bring a bit of pattern home with some gingham decor—from pillows to blankets to even a bed frame, these are our favorites from brands like Hawkins New York, Serena & Lily, and more.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/gingham-decor",
     "image_url": null,
     "published_at": "2026-08-16T10:00:00.000Z"
   },
@@ -1558,45 +1598,5 @@
     "url": "https://wwd.com/sourcing-journal/sj-denim/kontoor-brands-boosts-2026-outlook-wrangler-helly-hansen-1239120178/",
     "image_url": null,
     "published_at": "2026-08-12T16:08:32.000Z"
-  },
-  {
-    "headline": "‘American Horror Story: 13’: An Exclusive First Look at the New Season",
-    "summary": "The new season, starring Jessica Lange, Evan Peters, Emma Roberts, Paul Anthony Kelly, Angela Bassett, Sarah Paulson and many more, premieres September 24 on FX and Hulu.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/ahs-13-first-look-jessica-lange-sarah-paulson-paul-anthony-kelly",
-    "image_url": null,
-    "published_at": "2026-08-12T16:00:00.000Z"
-  },
-  {
-    "headline": "On the Heels of the Y2K Resurgence, Celebrities Are Turning Back the Clock With Vintage Runway Finds",
-    "summary": "Zendaya, Juno Temple and more are turning to '90s- and 2000s-era runways for their latest looks.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/culture-news/celebrities-y2k-runway-looks-1239117651/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:47:35.000Z"
-  },
-  {
-    "headline": "LeBron James Reveals His Lightest Signature Nike Shoe to Date — and a New Material Called ‘Kingknit’",
-    "summary": "The Nike LeBron 24 is coming soon.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/lebron-james-nike-lebron-24-reveal-1239117876/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:31:14.000Z"
-  },
-  {
-    "headline": "Can Thailand Play the ‘China plus 1’ Card as Asia’s Supply Chains Realign?",
-    "summary": "Thailand sees an opening as global sourcing shifts.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/trade/thailand-china-plus-1-card-asia-supply-chains-realign-1239117748/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:14:00.000Z"
-  },
-  {
-    "headline": "On vs. Nike: The New Race at Retail",
-    "summary": "Williams Trading analyst Sam Poser believes \"On will lose share to Nike over the next six-to-nine months.\"",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-on-specialty-retail-competition-1239106007/",
-    "image_url": null,
-    "published_at": "2026-08-12T15:12:32.000Z"
   }
 ]

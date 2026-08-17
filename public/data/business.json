@@ -1,11 +1,35 @@
 [
   {
-    "headline": "Meta heads to court in a landmark trial about kids and social media addiction",
-    "summary": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+    "headline": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
+    "summary": "Peter Thiel’s hedge fund disclosed a $76 million stake in Argentine oil producer Vista Energy, sending its shares higher in premarket trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
     "image_url": null,
-    "published_at": "2026-08-17T09:00:00.000Z"
+    "published_at": "2026-08-17T11:05:58.000Z"
+  },
+  {
+    "headline": "What will TV look like in three years? Media insiders share their predictions",
+    "summary": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
+    "image_url": null,
+    "published_at": "2026-08-17T11:00:01.000Z"
+  },
+  {
+    "headline": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
+    "summary": "The S&P 500 is up more than 6% in 12 trading days to record levels.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html",
+    "image_url": null,
+    "published_at": "2026-08-17T10:31:33.000Z"
+  },
+  {
+    "headline": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
+    "summary": "Russia struck port infrastructure in Ukraine’s Odesa region, damaging a Togo-flagged civilian vessel near Izmail after Kyiv launched a major drone attack on Moscow.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
+    "image_url": null,
+    "published_at": "2026-08-17T09:46:08.000Z"
   },
   {
     "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
@@ -20,6 +44,14 @@
     "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+    "image_url": null,
+    "published_at": "2026-08-17T09:00:00.000Z"
+  },
+  {
+    "headline": "Meta heads to court in a landmark trial about kids and social media addiction",
+    "summary": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
     "image_url": null,
     "published_at": "2026-08-17T09:00:00.000Z"
   },
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
     "image_url": null,
     "published_at": "2026-08-11T12:15:54.000Z"
-  },
-  {
-    "headline": "The secret economics inside the new Planet Money board game",
-    "summary": "From Nobel Prize-winning research to the Laffer Curve, Scabby the Rat, Veblen's peacock, and more — the economic ideas and inside jokes hiding throughout Planet Money's new board game.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-    "image_url": null,
-    "published_at": "2026-08-11T10:30:00.000Z"
-  },
-  {
-    "headline": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade",
-    "summary": "Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
-    "image_url": null,
-    "published_at": "2026-08-11T10:29:34.000Z"
-  },
-  {
-    "headline": "FIFA World Cup 'will never be as profitable' if Infantino is ousted, Trump warns amid global soccer revolt",
-    "summary": "President Gianni Infantino pushed FIFA's commercialization drive, which culminated in the largest, most profitable World Cup on record",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html",
-    "image_url": null,
-    "published_at": "2026-08-11T10:17:53.000Z"
-  },
-  {
-    "headline": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
-    "summary": "IHG reported higher first-half profit as U.S. demand accelerated and Middle East disruption weighed on travel.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/ihg-profit-us-travel-middle-east.html",
-    "image_url": null,
-    "published_at": "2026-08-11T10:06:07.000Z"
   }
 ]
