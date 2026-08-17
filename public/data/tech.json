@@ -1,6 +1,14 @@
 [
   {
-    "headline": "Apple ordered to change app data consent prompts on iPhones and iPads",
+    "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "image_url": null,
+    "published_at": "2026-08-17T15:16:24.000Z"
+  },
+  {
+    "headline": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
     "summary": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app t…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
@@ -1590,13 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
     "image_url": null,
     "published_at": "2026-08-10T21:20:04.000Z"
-  },
-  {
-    "headline": "Anker&#8217;s travel charger works in almost any country and is down to $20",
-    "summary": "Anker’s Nano Travel Adapter can power up to five devices at once. | Image: Anker If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our guide to the best gadgets for summer tr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-10T21:18:15.000Z"
   }
 ]
