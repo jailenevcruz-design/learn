@@ -1,11 +1,35 @@
 [
   {
-    "headline": "Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner",
+    "headline": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+    "summary": "Anthropic's revenue run rate is up about sevenfold from a year earlier.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+    "image_url": null,
+    "published_at": "2026-08-17T22:55:31.000Z"
+  },
+  {
+    "headline": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+    "summary": "Chris Kubasik was ousted as Lockheed Martin's incoming CEO in 2012 after what that company called a \"close personal relationship with a subordinate employee.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+    "image_url": null,
+    "published_at": "2026-08-17T22:52:11.000Z"
+  },
+  {
+    "headline": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
     "summary": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\"",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
     "image_url": null,
-    "published_at": "2026-08-17T22:09:18.000Z"
+    "published_at": "2026-08-17T22:31:32.000Z"
+  },
+  {
+    "headline": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
+    "summary": "Sen. Bernie Sanders, I-Vt., announced a new proposal on Monday to protect federal student loan borrowers from having their Social Security checks garnished.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html",
+    "image_url": null,
+    "published_at": "2026-08-17T22:23:20.000Z"
   },
   {
     "headline": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
@@ -16,28 +40,12 @@
     "published_at": "2026-08-17T22:07:03.000Z"
   },
   {
-    "headline": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
-    "summary": "Chris Kubasik was ousted as Lockheed Martin's incoming CEO in 2012 after what that company called \"close personal relationship with a subordinate employee.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
-    "image_url": null,
-    "published_at": "2026-08-17T21:29:34.000Z"
-  },
-  {
     "headline": "Cities are adopting new data center standards as public opposition grows",
     "summary": "As the number of data centers across the U.S. continues to increase, so does public opposition. That has some cities changing their standards for what acceptable data center development looks like.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/17/nx-s1-5930494/cities-are-adopting-new-data-center-standards-as-public-opposition-grows",
     "image_url": null,
     "published_at": "2026-08-17T21:26:16.000Z"
-  },
-  {
-    "headline": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
-    "summary": "Anthropic's revenue run rate is up about sevenfold from a year earlier.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
-    "image_url": null,
-    "published_at": "2026-08-17T21:26:13.000Z"
   },
   {
     "headline": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
@@ -62,14 +70,6 @@
     "url": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
     "image_url": null,
     "published_at": "2026-08-17T20:23:22.000Z"
-  },
-  {
-    "headline": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
-    "summary": "Sen. Bernie Sanders, I-Vermont, announced a new proposal on Monday to protect federal student loan borrowers from having their Social Security checks garnished.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html",
-    "image_url": null,
-    "published_at": "2026-08-17T20:13:27.000Z"
   },
   {
     "headline": "30-year Treasury yield tops 5.31%, the highest in 19 years",
@@ -256,18 +256,18 @@
     "published_at": "2026-08-17T09:00:00.000Z"
   },
   {
-    "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
-    "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-    "image_url": null,
-    "published_at": "2026-08-17T09:00:00.000Z"
-  },
-  {
     "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
     "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+    "image_url": null,
+    "published_at": "2026-08-17T09:00:00.000Z"
+  },
+  {
+    "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+    "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
     "image_url": null,
     "published_at": "2026-08-17T09:00:00.000Z"
   },
