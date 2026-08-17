@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Sander Lak Joins CFDA Calendar Ahead of NYFW",
+    "summary": "Three collections into his new genderless venture, the former Sies Marjan designer is returning to the city that put him on the map.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/sander-lak-joins-nyfw-1239098863/",
+    "image_url": null,
+    "published_at": "2026-08-17T13:00:00.000Z"
+  },
+  {
+    "headline": "Willow Smith Brings the ‘Free Human Spirit’ to Free People’s Fall 2026 Campaign",
+    "summary": "The collection includes apparel, accessories and shoes.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/new-fashion-releases/willow-smith-free-people-fall-2026-campaign-1239124459/",
+    "image_url": null,
+    "published_at": "2026-08-17T13:00:00.000Z"
+  },
+  {
+    "headline": "Shein Loses UK Copyright Lawsuit Against Temu",
+    "summary": "The case revolves around what Shein described as copyright infringement on an \"industrial scale\" in 2023.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/shein-temu-london-court-copyright-1239125842/",
+    "image_url": null,
+    "published_at": "2026-08-17T13:00:00.000Z"
+  },
+  {
+    "headline": "Nashville and Heroes Star Hayden Panettiere Has Died at 36",
+    "summary": "The actress starred in the series “Heroes” and “Nashville,” and featured in two of the latest installments of the “Scream” franchise.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/hayden-panettiere-obituary",
+    "image_url": null,
+    "published_at": "2026-08-17T12:59:44.000Z"
+  },
+  {
+    "headline": "Can Tariffs Be Fought in Court?",
+    "summary": "A state-led trade court complaint challenges Trump’s forced labor tariff authority, leaving fashion caught between legal momentum and commercial reality.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/can-tariffs-be-fought-in-court",
+    "image_url": null,
+    "published_at": "2026-08-17T12:30:00.000Z"
+  },
+  {
+    "headline": "Zara and Beyond: How Marta Ortega Pérez Leads the World’s Biggest Fashion Retailer",
+    "summary": "Marta Ortega Pérez, 42, leads Zara and its parent company, Inditex—the biggest fashion retailer in the world—by focusing on relationships, image-making, and a mind-blowing infrastructure.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-marta-ortega-perez-leads-the-worlds-biggest-fashion-retailer",
+    "image_url": null,
+    "published_at": "2026-08-17T12:00:00.000Z"
+  },
+  {
+    "headline": "These Are the French Girl Haircuts Defining The Summer",
+    "summary": "From Jane Birkin to Jeanne Damas, Lily-Rose Depp and Catherine Deneuve: these are the French girl haircuts defining summer 2026.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/french-girl-haircuts-defining-the-summer",
+    "image_url": null,
+    "published_at": "2026-08-17T12:00:00.000Z"
+  },
+  {
+    "headline": "New Digital Product Passport Pilot Aims to Give Denim Suppliers a Competitive Edge",
+    "summary": "The pilot brings together Denim Deal’s network of partners.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/sj-denim/new-digital-product-passport-pilot-denim-suppliers-1239124146/",
+    "image_url": null,
+    "published_at": "2026-08-17T12:00:00.000Z"
+  },
+  {
     "headline": "Vogue First! Get 24 Hours Exclusive Access to Shop Savette’s New Soft Symmetry",
     "summary": "Savette’s newest handbag introduces an element of undone elegance to the brand’s refined design codes. Learn more about the design from founder Amy Zurek and shop it on Vogue first.",
     "publisher": "Vogue",
@@ -14,6 +78,14 @@
     "url": "https://www.vogue.com/article/how-to-get-a-wedding-dress-fast",
     "image_url": null,
     "published_at": "2026-08-17T11:00:00.000Z"
+  },
+  {
+    "headline": "In Luxury, Megabrands Still Have the Upper Hand: Bernstein",
+    "summary": "Analyst Luca Solca argues that scale still matters, though the challenge remains \"second-generation luxury consumers.\"",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/luxury-megabrands-prospects-scale-bernstein-1239126412/",
+    "image_url": null,
+    "published_at": "2026-08-17T10:36:26.000Z"
   },
   {
     "headline": "How to Wear the Nightie Dress Trend, According to Six of the Season’s It Girls",
@@ -176,18 +248,18 @@
     "published_at": "2026-08-16T12:01:10.000Z"
   },
   {
-    "headline": "From the Archives: Escape to Formentera With Consuelo Castiglioni",
-    "summary": "The couple who have made Marni the label of choice for chic hippie nomads, writes Hamish Bowles, satisfy their wanderlust with a rough-hewn island getaway.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/from-the-archives-everything-goes",
-    "image_url": null,
-    "published_at": "2026-08-16T12:00:00.000Z"
-  },
-  {
     "headline": "Exclusive Photos: Inside Cristiano Ronaldo and Georgina Rodríguez’s Intimate Wedding",
     "summary": "“It was exactly as I’d imagined it,” Georgina Rodríguez tells Vogue exclusively of her wedding to Cristiano Ronaldo at home in Portugal.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/cristiano-ronaldo-and-georgina-rodriguez-wedding",
+    "image_url": null,
+    "published_at": "2026-08-16T12:00:00.000Z"
+  },
+  {
+    "headline": "From the Archives: Escape to Formentera With Consuelo Castiglioni",
+    "summary": "The couple who have made Marni the label of choice for chic hippie nomads, writes Hamish Bowles, satisfy their wanderlust with a rough-hewn island getaway.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/from-the-archives-everything-goes",
     "image_url": null,
     "published_at": "2026-08-16T12:00:00.000Z"
   },
@@ -1526,77 +1598,5 @@
     "url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-low-college-collection-release-date-1239122661/",
     "image_url": null,
     "published_at": "2026-08-12T19:04:26.000Z"
-  },
-  {
-    "headline": "Why Does AOC’s Fertility Journey Feel So Powerful to Me?",
-    "summary": "Feminist theory has long held that the personal is political—and Ocasio-Cortez has embraced that idea in a series of Instagram Stories and grid posts about her egg-freezing journey.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/why-does-aocs-fertility-journey-feel-so-powerful-to-me",
-    "image_url": null,
-    "published_at": "2026-08-12T19:02:00.000Z"
-  },
-  {
-    "headline": "Seeing Doubles at Twinsburg, Ohio’s Annual Twins Day Festival",
-    "summary": "Founded in 1976, the festival has grown into one of the largest annual gatherings of twins in the world, drawing siblings from across the country and beyond. I was there this year to take in the scene.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/twins-day-festival-2026",
-    "image_url": null,
-    "published_at": "2026-08-12T19:00:00.000Z"
-  },
-  {
-    "headline": "Clara Jeon Joins Centric Brands as Senior Vice President, PR, Marketing and Influence",
-    "summary": "It's a newly established division at the company,",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/clara-jeon-centric-brands-senior-vice-president-pr-marketing-influence-1239118937/",
-    "image_url": null,
-    "published_at": "2026-08-12T18:54:24.000Z"
-  },
-  {
-    "headline": "The Best Behind-the-Scenes Moments From the Spring 2027 Shows in Copenhagen",
-    "summary": "From Paolina Russo to Anne Sofie Madsen, these were the best behind-the-scenes moments from the spring 2027 ready-to-wear shows in Copenhagen.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/the-best-behind-the-scenes-moments-from-the-spring-2027-shows-in-copenhagen",
-    "image_url": null,
-    "published_at": "2026-08-12T18:51:54.000Z"
-  },
-  {
-    "headline": "New Balance’s Enduring Low-profile 327 Sneaker Just Got New Cow Print Makeovers and They’re Available Right Now",
-    "summary": "There are two styles to choose from.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/new-balance-327-cow-print-pack-available-w327apa-w327apc-1239122503/",
-    "image_url": null,
-    "published_at": "2026-08-12T18:09:57.000Z"
-  },
-  {
-    "headline": "Kylie Jenner Channels Her Longtime Love of Shoes With Khy’s First Footwear Collection",
-    "summary": "Khy teamed up with Italian label Gia Borghini to create a lineup of three shoe silhouettes.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/kylie-jenner-khy-gia-borghini-shoe-collection-1239117647/",
-    "image_url": null,
-    "published_at": "2026-08-12T18:06:00.000Z"
-  },
-  {
-    "headline": "A Close Look At the 7 Key Autumn/Winter 2026 Bag Trends",
-    "summary": "Vogue highlights the key fall 2026 handbag trends to shop now. From super shoulder bags to new-gen clutches, these are styles to bookmark now.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/fall-2026-handbag-trends",
-    "image_url": null,
-    "published_at": "2026-08-12T18:03:58.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Béis and Disney Collaborate on Retro-Inspired Luggage Marked by Your Favorite Characters",
-    "summary": "The playful, 28-piece line for kids and adults launched August 12. Here's everything to shop.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-home/beis-disney-luggage-bag-accessory-collection-buy-online-1239095663/",
-    "image_url": null,
-    "published_at": "2026-08-12T16:39:50.000Z"
-  },
-  {
-    "headline": "Kontoor Brands Boosts 2026 Outlook on Wrangler, Helly Hansen Strength",
-    "summary": "Upon closing of the Lee business divestiture, Kontoor said it intends to deploy the expected proceeds into a $400 million Accelerated Share Repurchase agreement.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/kontoor-brands-boosts-2026-outlook-wrangler-helly-hansen-1239120178/",
-    "image_url": null,
-    "published_at": "2026-08-12T16:08:32.000Z"
   }
 ]

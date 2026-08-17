@@ -1,11 +1,83 @@
 [
   {
-    "headline": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+    "summary": "Anthropic's second-quarter revenue was up 14-fold over last year, and Melius Research is pushing Dell.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+    "image_url": null,
+    "published_at": "2026-08-17T13:29:25.000Z"
+  },
+  {
+    "headline": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+    "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+    "image_url": null,
+    "published_at": "2026-08-17T13:23:20.000Z"
+  },
+  {
+    "headline": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+    "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+    "image_url": null,
+    "published_at": "2026-08-17T13:22:55.000Z"
+  },
+  {
+    "headline": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+    "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-17T13:17:15.000Z"
+  },
+  {
+    "headline": "Vista Energy up 4% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
     "summary": "Peter Thiel’s hedge fund disclosed a $76 million stake in Argentine oil producer Vista Energy, sending its shares higher in premarket trading.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
     "image_url": null,
-    "published_at": "2026-08-17T11:05:58.000Z"
+    "published_at": "2026-08-17T13:02:32.000Z"
+  },
+  {
+    "headline": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
+    "summary": "A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
+    "image_url": null,
+    "published_at": "2026-08-17T12:41:58.000Z"
+  },
+  {
+    "headline": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-17T12:34:07.000Z"
+  },
+  {
+    "headline": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+    "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+    "image_url": null,
+    "published_at": "2026-08-17T12:23:26.000Z"
+  },
+  {
+    "headline": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+    "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+    "image_url": null,
+    "published_at": "2026-08-17T12:06:19.000Z"
+  },
+  {
+    "headline": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
+    "summary": "Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+    "image_url": null,
+    "published_at": "2026-08-17T11:24:23.000Z"
   },
   {
     "headline": "What will TV look like in three years? Media insiders share their predictions",
@@ -32,18 +104,18 @@
     "published_at": "2026-08-17T09:46:08.000Z"
   },
   {
-    "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
-    "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye.",
+    "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+    "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
     "image_url": null,
     "published_at": "2026-08-17T09:00:00.000Z"
   },
   {
-    "headline": "Car problems? No childcare? How an app is helping people get to work",
-    "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
+    "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+    "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
     "image_url": null,
     "published_at": "2026-08-17T09:00:00.000Z"
   },
@@ -70,14 +142,6 @@
     "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
     "image_url": null,
     "published_at": "2026-08-17T08:08:17.000Z"
-  },
-  {
-    "headline": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
-    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-17T08:06:38.000Z"
   },
   {
     "headline": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
@@ -224,14 +288,6 @@
     "published_at": "2026-08-15T14:22:54.000Z"
   },
   {
-    "headline": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-    "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
-    "image_url": null,
-    "published_at": "2026-08-15T14:19:35.000Z"
-  },
-  {
     "headline": "College can cost $100,000 a year. Here's how families are covering the tab",
     "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill.",
     "publisher": "CNBC",
@@ -254,14 +310,6 @@
     "url": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
     "image_url": null,
     "published_at": "2026-08-15T12:30:01.000Z"
-  },
-  {
-    "headline": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
-    "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-    "image_url": null,
-    "published_at": "2026-08-15T12:00:01.000Z"
   },
   {
     "headline": "How long will software-defined cars last? The auto industry doesn't know yet",
@@ -1550,53 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
     "image_url": null,
     "published_at": "2026-08-11T14:56:43.000Z"
-  },
-  {
-    "headline": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
-    "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-    "image_url": null,
-    "published_at": "2026-08-11T14:45:44.000Z"
-  },
-  {
-    "headline": "Eli Lilly takes weight-loss pill battle global with first Foundayo approval in Europe",
-    "summary": "Lilly's Foundayo wins U.K. approval, taking its weight-loss pill battle with Novo Nordisk's Wegovy beyond the U.S. market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/foundayo-eli-lilly-wegovy-pill-uk.html",
-    "image_url": null,
-    "published_at": "2026-08-11T14:19:53.000Z"
-  },
-  {
-    "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-    "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-    "image_url": null,
-    "published_at": "2026-08-11T14:11:05.000Z"
-  },
-  {
-    "headline": "My 401(k) fully vests this month—why my latest work anniversary is worth thousands",
-    "summary": "Many companies contribute to employee retirement accounts, but depending on your firm's rules you may forfeit some or all of it if you leave.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/why-knowing-a-401k-vesting-schedule-could-be-worth-thousands.html",
-    "image_url": null,
-    "published_at": "2026-08-11T13:00:01.000Z"
-  },
-  {
-    "headline": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
-    "summary": "His comments come shortly after deadly Russian attacks on cities across Ukraine overnight.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
-    "image_url": null,
-    "published_at": "2026-08-11T12:55:25.000Z"
-  },
-  {
-    "headline": "Treasury yields are little changed as investors await inflation data",
-    "summary": "U.S. Treasury yields edged higher Tuesday as investors await July's inflation data print amid ongoing Iran tensions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
-    "image_url": null,
-    "published_at": "2026-08-11T12:15:54.000Z"
   }
 ]
