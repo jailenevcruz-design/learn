@@ -1,11 +1,51 @@
 [
   {
+    "headline": "Meta heads to court in a landmark trial about kids and social media addiction",
+    "summary": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+    "image_url": null,
+    "published_at": "2026-08-17T09:00:00.000Z"
+  },
+  {
+    "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+    "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+    "image_url": null,
+    "published_at": "2026-08-17T09:00:00.000Z"
+  },
+  {
+    "headline": "Car problems? No childcare? How an app is helping people get to work",
+    "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+    "image_url": null,
+    "published_at": "2026-08-17T09:00:00.000Z"
+  },
+  {
     "headline": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
     "summary": "The data is reinforcing concerns about the health of the world's second-largest economy, which has grappled with a deepening supply-demand imbalance.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
     "image_url": null,
-    "published_at": "2026-08-17T07:33:57.000Z"
+    "published_at": "2026-08-17T08:26:04.000Z"
+  },
+  {
+    "headline": "Treasury yields edge lower as investors look ahead to latest FOMC minutes",
+    "summary": "Treasury yields fell as traders awaited the latest FOMC minutes due later this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+    "image_url": null,
+    "published_at": "2026-08-17T08:08:17.000Z"
+  },
+  {
+    "headline": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
+    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-17T08:06:38.000Z"
   },
   {
     "headline": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
@@ -1558,45 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/11/ihg-profit-us-travel-middle-east.html",
     "image_url": null,
     "published_at": "2026-08-11T10:06:07.000Z"
-  },
-  {
-    "headline": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
-    "summary": "A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani on graft charges.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html",
-    "image_url": null,
-    "published_at": "2026-08-11T09:57:10.000Z"
-  },
-  {
-    "headline": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
-    "summary": "GDP growth for 2026 is now expected to come in at 4.5% to 5.5%, more than double the low end of its previous forecast of 2%-4%",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html",
-    "image_url": null,
-    "published_at": "2026-08-11T02:58:27.000Z"
-  },
-  {
-    "headline": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
-    "summary": "More American movie stars have appeared in China this year, reflecting Hollywood's market interests amid political tensions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html",
-    "image_url": null,
-    "published_at": "2026-08-10T23:00:14.000Z"
-  },
-  {
-    "headline": "Trump Media posts $238 million second-quarter loss as crypto declines",
-    "summary": "TMTG said it has signed more than 10 customer agreements for Truth API, the service offering faster access to President Donald Trump's posts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
-    "image_url": null,
-    "published_at": "2026-08-10T22:33:55.000Z"
-  },
-  {
-    "headline": "OpenAI wraps $7 billion share sale ahead of potential IPO",
-    "summary": "OpenAI's tender offer has been in the works since the company closed its record-breaking $122 billion funding round in March.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
-    "image_url": null,
-    "published_at": "2026-08-10T22:15:31.000Z"
   }
 ]
