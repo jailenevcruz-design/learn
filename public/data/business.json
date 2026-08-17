@@ -1,19 +1,43 @@
 [
   {
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "summary": "Anthropic's second-quarter revenue was up 14-fold over last year, and Melius Research is pushing Dell.",
+    "headline": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+    "summary": "A spokesperson for Trump's legal team slammed Carroll's case as a witch hunt and a hoax.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+    "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
     "image_url": null,
-    "published_at": "2026-08-17T13:29:25.000Z"
+    "published_at": "2026-08-17T14:12:08.000Z"
+  },
+  {
+    "headline": "Nvidia backs financing for OpenAI data center in Ohio",
+    "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+    "image_url": null,
+    "published_at": "2026-08-17T14:10:16.000Z"
   },
   {
     "headline": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-    "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+    "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
     "image_url": null,
-    "published_at": "2026-08-17T13:23:20.000Z"
+    "published_at": "2026-08-17T14:09:49.000Z"
+  },
+  {
+    "headline": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-17T14:07:16.000Z"
+  },
+  {
+    "headline": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
+    "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
+    "image_url": null,
+    "published_at": "2026-08-17T13:57:19.000Z"
   },
   {
     "headline": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
@@ -21,7 +45,15 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
     "image_url": null,
-    "published_at": "2026-08-17T13:22:55.000Z"
+    "published_at": "2026-08-17T13:33:04.000Z"
+  },
+  {
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+    "summary": "Anthropic's second-quarter revenue was up 14-fold over last year, and Melius Research is pushing Dell.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+    "image_url": null,
+    "published_at": "2026-08-17T13:29:25.000Z"
   },
   {
     "headline": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
@@ -46,14 +78,6 @@
     "url": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
     "image_url": null,
     "published_at": "2026-08-17T12:41:58.000Z"
-  },
-  {
-    "headline": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-17T12:34:07.000Z"
   },
   {
     "headline": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
@@ -104,14 +128,6 @@
     "published_at": "2026-08-17T09:46:08.000Z"
   },
   {
-    "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
-    "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-    "image_url": null,
-    "published_at": "2026-08-17T09:00:00.000Z"
-  },
-  {
     "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
     "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye.",
     "publisher": "NPR",
@@ -124,6 +140,14 @@
     "summary": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+    "image_url": null,
+    "published_at": "2026-08-17T09:00:00.000Z"
+  },
+  {
+    "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+    "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
     "image_url": null,
     "published_at": "2026-08-17T09:00:00.000Z"
   },
@@ -326,14 +350,6 @@
     "url": "https://www.cnbc.com/2026/08/15/china-rich-tycoons-tax-overseas-investment-trust-insurance-capital-flows.html",
     "image_url": null,
     "published_at": "2026-08-15T06:11:11.000Z"
-  },
-  {
-    "headline": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
-    "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
-    "image_url": null,
-    "published_at": "2026-08-15T05:00:01.000Z"
   },
   {
     "headline": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/11/iceye-satellite-fleets-defense-europe.html",
     "image_url": null,
     "published_at": "2026-08-11T15:09:49.000Z"
-  },
-  {
-    "headline": "We're exiting our position in an industrial stock to make room for a new AI play",
-    "summary": "The company's disappointing quarter last month put the stock on the chopping block.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/were-exiting-our-position-in-industrial-stock-to-make-room-for-a-new-ai-play.html",
-    "image_url": null,
-    "published_at": "2026-08-11T15:05:44.000Z"
-  },
-  {
-    "headline": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
-    "summary": "Washington and Tehran remain far apart even as both sides talked of winding down regional hostilities.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-    "image_url": null,
-    "published_at": "2026-08-11T14:56:43.000Z"
   }
 ]
