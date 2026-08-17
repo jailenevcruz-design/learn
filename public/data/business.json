@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict",
+    "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-17T18:17:17.000Z"
+  },
+  {
+    "headline": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+    "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+    "image_url": null,
+    "published_at": "2026-08-17T18:11:24.000Z"
+  },
+  {
+    "headline": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+    "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+    "image_url": null,
+    "published_at": "2026-08-17T18:09:01.000Z"
+  },
+  {
+    "headline": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+    "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+    "image_url": null,
+    "published_at": "2026-08-17T17:43:40.000Z"
+  },
+  {
     "headline": "Refiner stocks are on a nearly unprecedented run. History says it could end soon",
     "summary": "Refining is a great business, but if you've had the good fortune to ride this trade this year, it's likely time to take profits.",
     "publisher": "CNBC",
@@ -22,22 +54,6 @@
     "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
     "image_url": null,
     "published_at": "2026-08-17T16:36:20.000Z"
-  },
-  {
-    "headline": "Oil prices little changed as Iran rules out interim deal extension, threatens to escalate conflict",
-    "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-17T16:29:44.000Z"
-  },
-  {
-    "headline": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
-    "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-    "image_url": null,
-    "published_at": "2026-08-17T16:19:37.000Z"
   },
   {
     "headline": "Cramer's advice on Apple after analyst upgrade. Plus, why 2 chipmakers are up big",
@@ -128,14 +144,6 @@
     "published_at": "2026-08-17T12:41:58.000Z"
   },
   {
-    "headline": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-    "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
-    "image_url": null,
-    "published_at": "2026-08-17T12:23:26.000Z"
-  },
-  {
     "headline": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
     "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
     "publisher": "CNBC",
@@ -176,6 +184,14 @@
     "published_at": "2026-08-17T09:46:08.000Z"
   },
   {
+    "headline": "Meta heads to court in a landmark trial about kids and social media addiction",
+    "summary": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+    "image_url": null,
+    "published_at": "2026-08-17T09:00:00.000Z"
+  },
+  {
     "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
     "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
     "publisher": "NPR",
@@ -192,28 +208,12 @@
     "published_at": "2026-08-17T09:00:00.000Z"
   },
   {
-    "headline": "Meta heads to court in a landmark trial about kids and social media addiction",
-    "summary": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
-    "image_url": null,
-    "published_at": "2026-08-17T09:00:00.000Z"
-  },
-  {
     "headline": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
     "summary": "The data is reinforcing concerns about the health of the world's second-largest economy, which has grappled with a deepening supply-demand imbalance.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
     "image_url": null,
     "published_at": "2026-08-17T08:26:04.000Z"
-  },
-  {
-    "headline": "Treasury yields edge lower as investors look ahead to latest FOMC minutes",
-    "summary": "Treasury yields fell as traders awaited the latest FOMC minutes due later this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
-    "image_url": null,
-    "published_at": "2026-08-17T08:08:17.000Z"
   },
   {
     "headline": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
