@@ -1,5 +1,85 @@
 [
   {
+    "headline": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+    "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+    "image_url": null,
+    "published_at": "2026-08-18T20:36:20.000Z"
+  },
+  {
+    "headline": "TikTok explores peer-to-peer payments via DMs, report says",
+    "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+    "image_url": null,
+    "published_at": "2026-08-18T20:03:56.000Z"
+  },
+  {
+    "headline": "SteelSeries’ comfy wireless gaming headset is nearly half off",
+    "summary": "The Nova 3P in eye-catching cyan. | Image: SteelSeries While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale f…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-18T20:01:01.000Z"
+  },
+  {
+    "headline": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the s…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "image_url": null,
+    "published_at": "2026-08-18T19:48:26.000Z"
+  },
+  {
+    "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks cou…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "image_url": null,
+    "published_at": "2026-08-18T19:28:30.000Z"
+  },
+  {
+    "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "image_url": null,
+    "published_at": "2026-08-18T18:00:00.000Z"
+  },
+  {
+    "headline": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
+    "summary": "The Samsung Galaxy Buds 3 Pro. If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-18T17:47:04.000Z"
+  },
+  {
+    "headline": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+    "image_url": null,
+    "published_at": "2026-08-18T17:31:01.000Z"
+  },
+  {
+    "headline": "Etched’s valuation doubles to $21B in a month",
+    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "image_url": null,
+    "published_at": "2026-08-18T17:21:58.000Z"
+  },
+  {
+    "headline": "PlayStation&#8217;s wireless gaming speakers launch in November",
+    "summary": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that offer \"lifelike soun…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+    "image_url": null,
+    "published_at": "2026-08-18T17:18:57.000Z"
+  },
+  {
     "headline": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
     "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
     "publisher": "TechCrunch",
@@ -17,7 +97,7 @@
   },
   {
     "headline": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-    "summary": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+    "summary": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
     "image_url": null,
@@ -49,7 +129,7 @@
   },
   {
     "headline": "Peacock is raising prices across all of its streaming plans",
-    "summary": "The cheapest ad-supported “Select” plan is increasing from $7.99 to $8.99 per month.",
+    "summary": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
     "image_url": null,
@@ -113,7 +193,7 @@
   },
   {
     "headline": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
-    "summary": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
+    "summary": "A video in a macOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
     "image_url": null,
@@ -128,6 +208,14 @@
     "published_at": "2026-08-18T13:27:43.000Z"
   },
   {
+    "headline": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
+    "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
+    "image_url": null,
+    "published_at": "2026-08-18T13:00:00.000Z"
+  },
+  {
     "headline": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
     "summary": "Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pokémon. The new collection goes a little harder than Fujifilm's Pokémon collaboration from five years ago with the introduction of Polaroid film printed with var…",
     "publisher": "The Verge",
@@ -140,14 +228,6 @@
     "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing his…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-    "image_url": null,
-    "published_at": "2026-08-18T13:00:00.000Z"
-  },
-  {
-    "headline": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
-    "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
     "image_url": null,
     "published_at": "2026-08-18T13:00:00.000Z"
   },
@@ -1518,85 +1598,5 @@
     "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
     "image_url": null,
     "published_at": "2026-08-12T14:15:00.000Z"
-  },
-  {
-    "headline": "Google’s Quick Share adds a tap-to-share mode",
-    "summary": "Google's Quick Share feature is getting a tap-to-share mode for quickly exchanging contacts, photos, videos, and more.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/",
-    "image_url": null,
-    "published_at": "2026-08-12T14:13:03.000Z"
-  },
-  {
-    "headline": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
-    "summary": "The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
-    "image_url": null,
-    "published_at": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "headline": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
-    "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
-    "image_url": null,
-    "published_at": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "headline": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
-    "summary": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar and bright, colorful backing glass. There are small updates, like a single piece…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
-    "image_url": null,
-    "published_at": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "headline": "Google is making the Pixel cameras better by making them worse",
-    "summary": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If the physical limitations of a tiny camera are what you're trying to solve for, you could probably labe…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
-    "image_url": null,
-    "published_at": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "headline": "Google’s Pixel Watch 5 dives deeper into AI and health",
-    "summary": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor an…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-    "image_url": null,
-    "published_at": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "headline": "Android now has a tap-to-share feature",
-    "summary": "Android's AirDrop-like Quick Share feature will now let some devices exchange files and contact information when tapped together. The update is coming to Pixel 6 series phones and newer starting today, according to Google's announcement, and will roll out to Samsung's Galaxy Z Fold 8 Ultra, Fold 8, and Flip 8 \"soon.\" T…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
-    "image_url": null,
-    "published_at": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "headline": "The Pixel Tag is Google’s answer to the AirTag",
-    "summary": "The Pixel Tag is longer but thinner than Apple’s AirTags. More than two years after launching its own device-tracking network, Google has finally followed up with its own tracker. The Pixel Tag, which goes on sale in November, looks like one of the more capable trackers too: It combines ultra wideband (UWB) with Blueto…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news",
-    "image_url": null,
-    "published_at": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "headline": "Google takes on AirTag with the new $29 Pixel Tag",
-    "summary": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/",
-    "image_url": null,
-    "published_at": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "headline": "Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens",
-    "summary": "The Pixel 11 Pro Fold will cost $1,899.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/",
-    "image_url": null,
-    "published_at": "2026-08-12T14:00:00.000Z"
   }
 ]
