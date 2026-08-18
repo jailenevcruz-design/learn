@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Scientists may have finally proved that “empty” space isn’t really empty",
+    "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window into the strange physic…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+    "image_url": null,
+    "published_at": "2026-08-18T06:08:04.000Z"
+  },
+  {
+    "headline": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+    "summary": "Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological model—a model that works extraordinarily well, yet may still be wrong.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+    "image_url": null,
+    "published_at": "2026-08-18T05:58:07.000Z"
+  },
+  {
+    "headline": "A therapy that “rewrites” childhood memories can ease fear of failure",
+    "summary": "Childhood criticism can leave people carrying a fear of failure long into adulthood, but new research suggests those emotional patterns may be surprisingly flexible. Young adults who revisited painful memories through imagery-based therapy showed lasting reductions in fear, guilt, sadness, and stress.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260815064833.htm",
+    "image_url": null,
+    "published_at": "2026-08-18T05:06:35.000Z"
+  },
+  {
+    "headline": "Kratom poison center cases have surged 6,500% in the U.S.",
+    "summary": "Kratom use and serious health problems linked to it have risen dramatically across the United States over the past decade. Poison center reports jumped from just 19 cases in 2010 to more than 1,200 in 2023, while severe outcomes—including life-threatening complications, disability, and death—also climbed sharply. Resea…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260814235902.htm",
+    "image_url": null,
+    "published_at": "2026-08-18T04:48:51.000Z"
+  },
+  {
+    "headline": "The bacteria that make cheese taste so good may also benefit your gut",
+    "summary": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and textures while potentially producing compounds linked to reduced inflammation, chol…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+    "image_url": null,
+    "published_at": "2026-08-17T22:18:03.000Z"
+  },
+  {
     "headline": "How extreme weather could help predict disease outbreaks",
     "summary": "A historic drought may have helped yellow fever spread in Brazil. A new study shows how understanding the connection could help prepare for future outbreaks.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
     "image_url": null,
     "published_at": "2026-07-31T12:46:18.000Z"
-  },
-  {
-    "headline": "Scientists discover why poor sleep may harm some brains more",
-    "summary": "A gene involved in the brain’s overnight cleaning system may change how strongly poor sleep affects Alzheimer’s-related brain changes. The findings point toward more personalized prevention strategies based on both genetics and sleep habits.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
-    "image_url": null,
-    "published_at": "2026-07-31T12:20:43.000Z"
-  },
-  {
-    "headline": "A 42-year-old childhood obesity theory may be wrong",
-    "summary": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6. Although BMI returns to earlier levels, a more reliable measure showed that body fat does not rebound at all. The increase appears to come from growing muscle and lean tissue as childr…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
-    "image_url": null,
-    "published_at": "2026-07-31T11:28:32.000Z"
-  },
-  {
-    "headline": "World-first photonic time crystal opens a new era of light control",
-    "summary": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. The breakthrough could open the door to ultrafast computing, smarter communication systems, advanced imaging, and a new generation of highly tunable lasers.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
-    "image_url": null,
-    "published_at": "2026-07-31T09:13:30.000Z"
-  },
-  {
-    "headline": "Black holes may spit out nearly as much matter as they swallow",
-    "summary": "A black hole observed during a dramatic 2023 eruption did not simply devour gas from its nearby companion star. It also expelled large amounts of material through powerful jets and winds, even after the outburst had nearly faded. The results suggest black holes may continue reshaping their surroundings long after their…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
-    "image_url": null,
-    "published_at": "2026-07-31T08:18:29.000Z"
-  },
-  {
-    "headline": "AI can tell if your brain is aging faster than you are",
-    "summary": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG recordings from about 7,000 adults and found that an older-than-expected “brain age” was tied to a sharply higher dementia risk. Every additional 10 years of brain aging rai…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
-    "image_url": null,
-    "published_at": "2026-07-31T07:05:12.000Z"
   }
 ]
