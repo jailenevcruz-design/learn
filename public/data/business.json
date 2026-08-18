@@ -1,11 +1,67 @@
 [
   {
+    "headline": "Nvidia's AI moat is shifting from chips to capital",
+    "summary": "Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
+    "image_url": null,
+    "published_at": "2026-08-18T11:00:01.000Z"
+  },
+  {
+    "headline": "The startup using AI to help rare disease families develop custom treatments",
+    "summary": "Nome uses AI and drug-development expertise to help rare disease families turn genetic diagnoses into potential paths toward treatment.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/the-startup-using-ai-to-help-build-custom-treatments-for-rare-diseases.html",
+    "image_url": null,
+    "published_at": "2026-08-18T11:00:01.000Z"
+  },
+  {
+    "headline": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
+    "summary": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
+    "image_url": null,
+    "published_at": "2026-08-18T10:53:25.000Z"
+  },
+  {
+    "headline": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
+    "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-18T10:32:00.000Z"
+  },
+  {
+    "headline": "The grueling fight over who profits from AI music",
+    "summary": "AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+    "image_url": null,
+    "published_at": "2026-08-18T10:30:00.000Z"
+  },
+  {
     "headline": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
     "summary": "The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted by the Omani Coast Guard.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
     "image_url": null,
-    "published_at": "2026-08-18T09:18:27.000Z"
+    "published_at": "2026-08-18T10:23:09.000Z"
+  },
+  {
+    "headline": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+    "summary": "Andrei Klepach was reportedly fired from his role after presenting a report warning that Russia could not win a prolonged war of attrition with Ukraine.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
+    "image_url": null,
+    "published_at": "2026-08-18T10:15:13.000Z"
+  },
+  {
+    "headline": "Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate",
+    "summary": "International government bond yields followed U.S. Treasury yields higher on Tuesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html",
+    "image_url": null,
+    "published_at": "2026-08-18T09:45:01.000Z"
   },
   {
     "headline": "How investors profit from soccer even as Premier League club losses skyrocket",
@@ -46,14 +102,6 @@
     "url": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
     "image_url": null,
     "published_at": "2026-08-18T02:48:33.000Z"
-  },
-  {
-    "headline": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
-    "summary": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-    "image_url": null,
-    "published_at": "2026-08-17T23:47:54.000Z"
   },
   {
     "headline": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
@@ -1550,53 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/12/treasury-yields-inflation-cpi-data.html",
     "image_url": null,
     "published_at": "2026-08-12T08:31:12.000Z"
-  },
-  {
-    "headline": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
-    "summary": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-    "image_url": null,
-    "published_at": "2026-08-12T07:20:31.000Z"
-  },
-  {
-    "headline": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
-    "summary": "Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
-    "image_url": null,
-    "published_at": "2026-08-12T05:00:01.000Z"
-  },
-  {
-    "headline": "Oil prices rise as Red Sea, Gulf of Oman attacks heighten supply concerns",
-    "summary": "Oil prices rose on Wednesday after deadly attacks on vessels in the Red Sea and Gulf of Oman heightened concerns over risks to global shipping routes.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/oil-prices-today-wti-brent-red-sea.html",
-    "image_url": null,
-    "published_at": "2026-08-12T04:56:36.000Z"
-  },
-  {
-    "headline": "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
-    "summary": "AI agents' 'alarming' hacking skills creates a rush to spend on cybersecurity",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
-    "image_url": null,
-    "published_at": "2026-08-12T02:58:04.000Z"
-  },
-  {
-    "headline": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
-    "summary": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-11T22:51:06.000Z"
-  },
-  {
-    "headline": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-    "summary": "The deal follows years of global automotive supply chain issues for GM and other companies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-    "image_url": null,
-    "published_at": "2026-08-11T22:42:10.000Z"
   }
 ]

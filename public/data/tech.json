@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Fairphone’s latest repairable phone is going on sale in the US",
+    "summary": "The Fairphone 6 Plus is the first Fairphone to officially launch in the US. | Photo: Dominic Preston / The Verge The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairph…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon",
+    "image_url": null,
+    "published_at": "2026-08-18T11:00:00.000Z"
+  },
+  {
+    "headline": "Elon Musk made flying even worse so Palantir could profit",
+    "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside hi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+    "image_url": null,
+    "published_at": "2026-08-18T11:00:00.000Z"
+  },
+  {
+    "headline": "ChatGPT is getting a dedicated mode for teens",
+    "summary": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "image_url": null,
+    "published_at": "2026-08-18T11:00:00.000Z"
+  },
+  {
+    "headline": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+    "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+    "image_url": null,
+    "published_at": "2026-08-18T11:00:00.000Z"
+  },
+  {
+    "headline": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+    "summary": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+    "image_url": null,
+    "published_at": "2026-08-18T10:30:00.000Z"
+  },
+  {
+    "headline": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+    "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+    "image_url": null,
+    "published_at": "2026-08-18T10:00:00.000Z"
+  },
+  {
     "headline": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
     "summary": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the…",
     "publisher": "The Verge",
@@ -1550,53 +1598,5 @@
     "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
     "image_url": null,
     "published_at": "2026-08-11T17:00:00.000Z"
-  },
-  {
-    "headline": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-    "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-    "image_url": null,
-    "published_at": "2026-08-11T16:25:20.000Z"
-  },
-  {
-    "headline": "Apple could help you prove your iPhone photos aren’t deepfakes",
-    "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to pr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-    "image_url": null,
-    "published_at": "2026-08-11T16:19:15.000Z"
-  },
-  {
-    "headline": "Joby Aviation builds out defense business with $500M acquisition",
-    "summary": "Joby Aviation reached an agreement to acquire Resonant Sciences, which will kick off its new defense business.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
-    "image_url": null,
-    "published_at": "2026-08-11T16:06:08.000Z"
-  },
-  {
-    "headline": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
-    "summary": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
-    "image_url": null,
-    "published_at": "2026-08-11T15:40:46.000Z"
-  },
-  {
-    "headline": "Block Blast! goes ad-free on Apple Arcade",
-    "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
-    "image_url": null,
-    "published_at": "2026-08-11T15:33:59.000Z"
-  },
-  {
-    "headline": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
-    "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-08-11T15:30:00.000Z"
   }
 ]
