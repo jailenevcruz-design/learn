@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
+    "summary": "The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted by the Omani Coast Guard.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+    "image_url": null,
+    "published_at": "2026-08-18T09:18:27.000Z"
+  },
+  {
+    "headline": "How investors profit from soccer even as Premier League club losses skyrocket",
+    "summary": "While English football clubs are gaining popularity with investors across the globe, teams remain risky and often unprofitable ventures.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
+    "image_url": null,
+    "published_at": "2026-08-18T09:09:19.000Z"
+  },
+  {
+    "headline": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+    "summary": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+    "image_url": null,
+    "published_at": "2026-08-18T09:00:00.000Z"
+  },
+  {
     "headline": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
     "summary": "The yield on the 30-year U.S. Treasury has surged to its highest level in 19 years, and some strategists see scope for the move to go further.",
     "publisher": "CNBC",
@@ -14,14 +38,6 @@
     "url": "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html",
     "image_url": null,
     "published_at": "2026-08-18T05:16:51.000Z"
-  },
-  {
-    "headline": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
-    "summary": "The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted by the Omani Coast Guard.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-    "image_url": null,
-    "published_at": "2026-08-18T04:34:22.000Z"
   },
   {
     "headline": "Credit card issuer Synchrony announces partnership with OpenAI",
@@ -304,14 +320,6 @@
     "published_at": "2026-08-17T09:46:08.000Z"
   },
   {
-    "headline": "Meta heads to court in a landmark trial about kids and social media addiction",
-    "summary": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
-    "image_url": null,
-    "published_at": "2026-08-17T09:00:00.000Z"
-  },
-  {
     "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
     "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference.",
     "publisher": "NPR",
@@ -324,6 +332,14 @@
     "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+    "image_url": null,
+    "published_at": "2026-08-17T09:00:00.000Z"
+  },
+  {
+    "headline": "Meta heads to court in a landmark trial about kids and social media addiction",
+    "summary": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
     "image_url": null,
     "published_at": "2026-08-17T09:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
     "image_url": null,
     "published_at": "2026-08-11T22:42:10.000Z"
-  },
-  {
-    "headline": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market",
-    "summary": "CNBC’s Jim Cramer said investors can quickly gauge the market by focusing on three things: bonds, oil and Nvidia.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/cramer-questions-figure-out-market.html",
-    "image_url": null,
-    "published_at": "2026-08-11T22:15:30.000Z"
-  },
-  {
-    "headline": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
-    "summary": "Federal dollars in the two health insurance programs would not go toward gender-affirming care, but states could still cover the treatments.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
-    "image_url": null,
-    "published_at": "2026-08-11T21:36:03.000Z"
   }
 ]

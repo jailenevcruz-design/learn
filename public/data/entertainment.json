@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Fontaines D.C. Preview New Album ‘Dopamine Chamber’ With Song ‘Marianne’",
+    "summary": "The Irish band's fifth album arrives on Oct. 16 via XL Recordings",
+    "publisher": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/fontaines-dc-new-album-song-dopamine-chamber-marianne-1235610335/",
+    "image_url": null,
+    "published_at": "2026-08-18T08:15:29.000Z"
+  },
+  {
+    "headline": "Shakira Pledges $1.25 Million to Rebuild Schools Damaged by Earthquake in Colombia",
+    "summary": "The Colombian singer's Fundación Pies Descalzos will lead an effort to kickstart education in the devastated Chocó region",
+    "publisher": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/shakira-colombia-earthquake-university-schools-rebuilding-1235610631/",
+    "image_url": null,
+    "published_at": "2026-08-18T08:11:45.000Z"
+  },
+  {
+    "headline": "Sundance Breakout ‘Thelma’ Set for Mandarin Remake by Stars Collective, Titled ‘Grandma, Please’ (EXCLUSIVE)",
+    "summary": "Stars Collective has acquired the Mandarin-language remake rights to “Thelma,” the 2024 Sundance Film Festival breakout that became Magnolia Pictures’ highest-grossing narrative feature, and is developing an adaptation titled “Grandma, Please.” In “Grandma, Please,” an 80-year-old grandmother is swindled out of her lif…",
+    "publisher": "Variety",
+    "url": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
+    "image_url": null,
+    "published_at": "2026-08-18T08:11:15.000Z"
+  },
+  {
+    "headline": "Rosie O’Donnell Criticizes Trump, Pays Tribute to Hayden Panettiere as ‘Kimmel’ Guest Host",
+    "summary": "“If you thought the president hated Jimmy Kimmel Live when it was hosted by Jimmy Kimmel? Buckle up, people!\"",
+    "publisher": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/rosie-odonnell-donald-trump-jimmy-kimmel-live-guest-host-1235610625/",
+    "image_url": null,
+    "published_at": "2026-08-18T07:38:42.000Z"
+  },
+  {
+    "headline": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Continue Tussle Atop U.K., Ireland Box Office",
+    "summary": "Sony’s superhero tentpole “Spider-Man: Brand New Day” dominated the U.K. and Ireland box office for a third consecutive weekend, adding £6.1 million ($8.3 million), elevating its running total to $106.5 million after 20 days of release. Universal’s epic “The Odyssey” held onto second place in its fifth frame. Directed…",
+    "publisher": "Variety",
+    "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/",
+    "image_url": null,
+    "published_at": "2026-08-18T06:54:02.000Z"
+  },
+  {
     "headline": "Rosie O’Donnell Shines in ‘Jimmy Kimmel Live’ Hosting Debut, Attacks ‘Mango Mussolini’ Trump and Gives Moving Hayden Panettiere Tribute",
     "summary": "When Jimmy Kimmel announced that Rosie O’Donnell would be filling in as a week-long guest host of “Jimmy Kimmel Live” during his summer vacation, he teased it would be “a special treat” for Donald Trump, who’s harbored a 20-year-long vendetta against the comic for her mocking his bankruptcies on “The View” back in 2006…",
     "publisher": "Variety",
@@ -1558,45 +1598,5 @@
     "url": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-i-cant-wait-cameron-winter-video-1235606840/",
     "image_url": null,
     "published_at": "2026-08-14T18:00:00.000Z"
-  },
-  {
-    "headline": "Slash Talks Shredding With Broadway’s Vampires in ‘The Lost Boys’",
-    "summary": "Guns N’ Roses guitarist joins Tony-winning vampire musical he co-produced for a one-off performance of “Have to Have You”",
-    "publisher": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/slash-guns-n-roses-lost-boys-1235609306/",
-    "image_url": null,
-    "published_at": "2026-08-14T17:54:07.000Z"
-  },
-  {
-    "headline": "Silverada, a Honky-Tonk Band, Did the Unthinkable: Trading Pedal Steel for Keys. It’s Working",
-    "summary": "On their new album Living Proof, the group F.K.A. Mike and the Moonpies prove they're far more than just twang",
-    "publisher": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/silverada-living-proof-album-honky-tonk-1235609311/",
-    "image_url": null,
-    "published_at": "2026-08-14T17:24:56.000Z"
-  },
-  {
-    "headline": "Brandi Carlile’s Raging Cover of Alanis Morissette’s ‘Uninvited’ Is for All of Us",
-    "summary": "The singer-songwriter transformed Morissette’s 1998 single into a cathartic rock cleanse during her recent Newport Folk Festival performance",
-    "publisher": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-country/brandi-carlile-covers-alanis-morissette-uninvited-newport-1235609182/",
-    "image_url": null,
-    "published_at": "2026-08-14T17:04:51.000Z"
-  },
-  {
-    "headline": "Dolly Parton Gives Health Update at New Roller Coaster Unveiling",
-    "summary": "The country legend spoke to fans in a video message Friday morning, sharing that dehydration kept her from the opening of a Dollywood theme park ride in person",
-    "publisher": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-country/dolly-parton-health-issues-dehydrated-roller-coaster-1235609256/",
-    "image_url": null,
-    "published_at": "2026-08-14T17:00:17.000Z"
-  },
-  {
-    "headline": "Return of the Kings: Inside Rush’s Fifty Something Tour",
-    "summary": "Geddy Lee, Alex Lifeson, and new drummer Anika Nilles tell all about rock’s biggest and most unlikely tour: “I’m this age now. Can I still do it?”",
-    "publisher": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/rush-cover-story-tour-interview-geddy-alex-1235607576/",
-    "image_url": null,
-    "published_at": "2026-08-14T17:00:00.000Z"
   }
 ]

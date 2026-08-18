@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+    "summary": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+    "image_url": null,
+    "published_at": "2026-08-18T09:00:01.000Z"
+  },
+  {
     "headline": "Anthropic’s annualized revenue surges to $65B",
     "summary": "The model maker added $18 billion in annualized revenue in two months.",
     "publisher": "TechCrunch",
@@ -1590,13 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
     "image_url": null,
     "published_at": "2026-08-11T15:30:00.000Z"
-  },
-  {
-    "headline": "FlightAware sues Kalshi over flight cancellation prediction markets",
-    "summary": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
-    "image_url": null,
-    "published_at": "2026-08-11T15:23:58.000Z"
   }
 ]
