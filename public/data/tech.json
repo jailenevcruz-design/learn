@@ -1,5 +1,149 @@
 [
   {
+    "headline": "Peacock is raising prices by up to $3",
+    "summary": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99 to $12.99 / month, while the ad-free Premium Plus plan is getting the biggest hike,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
+    "image_url": null,
+    "published_at": "2026-08-18T14:11:39.000Z"
+  },
+  {
+    "headline": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+    "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+    "image_url": null,
+    "published_at": "2026-08-18T14:00:00.000Z"
+  },
+  {
+    "headline": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "image_url": null,
+    "published_at": "2026-08-18T14:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "image_url": null,
+    "published_at": "2026-08-18T13:50:30.000Z"
+  },
+  {
+    "headline": "Perplexity’s free AI offer left it with millions more users in India",
+    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "image_url": null,
+    "published_at": "2026-08-18T13:45:40.000Z"
+  },
+  {
+    "headline": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
+    "summary": "There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. Discovery only drew attention to its habit of disappearing nearly completed movies in order to cash in on tax write-offs. C…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
+    "image_url": null,
+    "published_at": "2026-08-18T13:35:35.000Z"
+  },
+  {
+    "headline": "Comcast is turning millions of its routers into motion detectors",
+    "summary": "Xfinity gateways XB7 and newer can now act as motion sensors in your home. | Image: Comcast Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, enables the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
+    "image_url": null,
+    "published_at": "2026-08-18T13:30:00.000Z"
+  },
+  {
+    "headline": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+    "summary": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+    "image_url": null,
+    "published_at": "2026-08-18T13:28:51.000Z"
+  },
+  {
+    "headline": "ABC sues the FCC over Trump and Carr&#8217;s campaign of threats",
+    "summary": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast. In a lawsuit filed in federal court on Tuesday, ABC and its parent company Disney accuse the FCC of \"punishing ABC for its speech\" by threatening its broadcast l…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
+    "image_url": null,
+    "published_at": "2026-08-18T13:27:43.000Z"
+  },
+  {
+    "headline": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
+    "summary": "Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pokémon. The new collection goes a little harder than Fujifilm's Pokémon collaboration from five years ago with the introduction of Polaroid film printed with var…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
+    "image_url": null,
+    "published_at": "2026-08-18T13:00:00.000Z"
+  },
+  {
+    "headline": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing his…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "image_url": null,
+    "published_at": "2026-08-18T13:00:00.000Z"
+  },
+  {
+    "headline": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
+    "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
+    "image_url": null,
+    "published_at": "2026-08-18T13:00:00.000Z"
+  },
+  {
+    "headline": "Google&#8217;s Pet Memory forgot who my cats are",
+    "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, I thought thi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "image_url": null,
+    "published_at": "2026-08-18T12:01:29.000Z"
+  },
+  {
+    "headline": "The Verge Guide to Pets",
+    "summary": "Ah, the relationship between animals and the technology they can’t quite understand. Today, it seems like there’s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and entertained. And if you have a pet you know: nothing is too good — or…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
+    "image_url": null,
+    "published_at": "2026-08-18T12:01:28.000Z"
+  },
+  {
+    "headline": "My parrot ate my keyboard",
+    "summary": "One of the great joys in life is having pets. The unconditional love, the snuggles, the excitement they show when you get home - these things add an emotional fulfillment to daily existence that can't be achieved in another way. I think everyone's life would be better with a pet (or two) in their lives. It's an incredi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect",
+    "image_url": null,
+    "published_at": "2026-08-18T12:00:00.000Z"
+  },
+  {
+    "headline": "Oops! My cat is an iPad kid",
+    "summary": "Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's never lonely, and play with him using a mountain of toys at every opportunity outside of my working hours. But younger cats…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube",
+    "image_url": null,
+    "published_at": "2026-08-18T11:30:00.000Z"
+  },
+  {
+    "headline": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+    "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+    "image_url": null,
+    "published_at": "2026-08-18T11:00:00.000Z"
+  },
+  {
+    "headline": "Fairphone is launching its latest repairable phone in the US too",
+    "summary": "The Fairphone 6+ is priced at $649 and will be available on Amazon.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+    "image_url": null,
+    "published_at": "2026-08-18T11:00:00.000Z"
+  },
+  {
     "headline": "Fairphone’s latest repairable phone is going on sale in the US",
     "summary": "The Fairphone 6 Plus is the first Fairphone to officially launch in the US. | Photo: Dominic Preston / The Verge The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairph…",
     "publisher": "The Verge",
@@ -20,14 +164,6 @@
     "summary": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-    "image_url": null,
-    "published_at": "2026-08-18T11:00:00.000Z"
-  },
-  {
-    "headline": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
-    "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
     "image_url": null,
     "published_at": "2026-08-18T11:00:00.000Z"
   },
@@ -1462,141 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
     "image_url": null,
     "published_at": "2026-08-11T21:39:58.000Z"
-  },
-  {
-    "headline": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-    "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-    "image_url": null,
-    "published_at": "2026-08-11T21:39:11.000Z"
-  },
-  {
-    "headline": "An FCC filing points to new Sonos headphones coming soon",
-    "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A. In addition to the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
-    "image_url": null,
-    "published_at": "2026-08-11T21:23:30.000Z"
-  },
-  {
-    "headline": "Uber surprised robotics company Serve by selling its entire stake",
-    "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-    "image_url": null,
-    "published_at": "2026-08-11T20:02:02.000Z"
-  },
-  {
-    "headline": "ChatGPT and Gemini both just passed 1 billion users",
-    "summary": "That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milesto…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-    "image_url": null,
-    "published_at": "2026-08-11T19:41:42.000Z"
-  },
-  {
-    "headline": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
-    "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
-    "image_url": null,
-    "published_at": "2026-08-11T19:38:23.000Z"
-  },
-  {
-    "headline": "OpenAI launches ChatGPT desktop app for Linux",
-    "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "image_url": null,
-    "published_at": "2026-08-11T19:15:35.000Z"
-  },
-  {
-    "headline": "Threads has a VR app now",
-    "summary": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users. It seems like a pretty full-featured app. Meta says that…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
-    "image_url": null,
-    "published_at": "2026-08-11T19:10:14.000Z"
-  },
-  {
-    "headline": "Google’s Gemini app surges to 1 billion users",
-    "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "image_url": null,
-    "published_at": "2026-08-11T18:49:12.000Z"
-  },
-  {
-    "headline": "Google’s free streaming service now lets you pick shows and movies to watch",
-    "summary": "Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, you can now choose from over 10,000 shows and movies to watch whenever you want. The update introduces titles like Lady Bird, Seventeen Again…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
-    "image_url": null,
-    "published_at": "2026-08-11T18:35:16.000Z"
-  },
-  {
-    "headline": "Another OpenAI executive takes off",
-    "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what woul…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-    "image_url": null,
-    "published_at": "2026-08-11T17:50:01.000Z"
-  },
-  {
-    "headline": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
-    "summary": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-    "image_url": null,
-    "published_at": "2026-08-11T17:46:14.000Z"
-  },
-  {
-    "headline": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
-    "summary": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
-    "image_url": null,
-    "published_at": "2026-08-11T17:41:49.000Z"
-  },
-  {
-    "headline": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-    "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "image_url": null,
-    "published_at": "2026-08-11T17:41:34.000Z"
-  },
-  {
-    "headline": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "image_url": null,
-    "published_at": "2026-08-11T17:41:22.000Z"
-  },
-  {
-    "headline": "The budget-friendly Pixel Buds 2a are even cheaper right now",
-    "summary": "The Google Pixel Buds 2a in hazel. | Image: The Verge Looking for great pair of earbuds that work particularly well with Android phones? The Google Pixel Buds 2a are currently discounted to $99 (usually $129) at various retailers, including Amazon, Best Buy, and directly from Google. These very capable Bluetooth earbud…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-11T17:31:06.000Z"
-  },
-  {
-    "headline": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
-    "summary": "The Pixel 11 Pro has a flashy new light on the back. | Image: Google Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec dives and executive appearances were replaced with celebrity cameos and a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
-    "image_url": null,
-    "published_at": "2026-08-11T17:00:00.000Z"
-  },
-  {
-    "headline": "Made by Google 2026: all the Pixel news and announcements",
-    "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it will show off a next-gen Pixel F…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-    "image_url": null,
-    "published_at": "2026-08-11T17:00:00.000Z"
   }
 ]
