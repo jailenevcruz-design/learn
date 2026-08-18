@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Anthropic’s annualized revenue surges to $65B",
+    "summary": "The model maker added $18 billion in annualized revenue in two months.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "image_url": null,
+    "published_at": "2026-08-17T23:56:26.000Z"
+  },
+  {
+    "headline": "Reddit’s AI is turning posts into podcasts and short videos",
+    "summary": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the text as it's read by the AI voice,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+    "image_url": null,
+    "published_at": "2026-08-17T23:46:01.000Z"
+  },
+  {
     "headline": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
     "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
     "publisher": "TechCrunch",
@@ -1582,21 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
     "image_url": null,
     "published_at": "2026-08-11T15:23:58.000Z"
-  },
-  {
-    "headline": "Kyoto Fusioneering starts work on key fusion power plant device",
-    "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
-    "image_url": null,
-    "published_at": "2026-08-11T15:00:00.000Z"
-  },
-  {
-    "headline": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-    "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-    "image_url": null,
-    "published_at": "2026-08-11T14:45:44.000Z"
   }
 ]
