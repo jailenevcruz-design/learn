@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+    "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+    "image_url": null,
+    "published_at": "2026-08-18T17:12:13.000Z"
+  },
+  {
+    "headline": "Apple squashes EU beef with new App Store rules",
+    "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps will be moved to a single set of business terms, and digital…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
+    "image_url": null,
+    "published_at": "2026-08-18T16:48:26.000Z"
+  },
+  {
+    "headline": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+    "summary": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
+    "image_url": null,
+    "published_at": "2026-08-18T16:39:05.000Z"
+  },
+  {
+    "headline": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
+    "summary": "Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Jay Janner/The Austin American-Statesman via Getty Images The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-ste…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+    "image_url": null,
+    "published_at": "2026-08-18T16:26:29.000Z"
+  },
+  {
+    "headline": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "image_url": null,
+    "published_at": "2026-08-18T16:19:10.000Z"
+  },
+  {
     "headline": "Bluesky says its recent outage was caused by another DDoS attack",
     "summary": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
     "publisher": "TechCrunch",
@@ -145,7 +185,7 @@
   },
   {
     "headline": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
-    "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+    "summary": "Reach Capital announced Tuesday an oversubscribed $265 million Fund V.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
     "image_url": null,
@@ -153,7 +193,7 @@
   },
   {
     "headline": "Fairphone is launching its latest repairable phone in the US too",
-    "summary": "The Fairphone 6+ is priced at $649 and will be available on Amazon.",
+    "summary": "The Fairphone 6+ is a midrange Android offering, but given the increasing prices of consumer gadgets amid the ongoing component shortages, a repairable device that can be made to last for years may prove a good proposition.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
     "image_url": null,
@@ -185,7 +225,7 @@
   },
   {
     "headline": "Einride strikes deal to add 500 Tesla Semis to its fleet",
-    "summary": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
+    "summary": "The deal will triple the size of Einride's fleet while sweetening the company's sales pitch for its Saga AI software. The Tesla Semis will be available to customers across North America.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
     "image_url": null,
@@ -193,7 +233,7 @@
   },
   {
     "headline": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-    "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+    "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the U.S. changed dramatically.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
     "image_url": null,
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/",
     "image_url": null,
     "published_at": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "headline": "Jaguar offers a first look inside the all-electric Type 01",
-    "summary": "Jaguar's all-electric Type 01 comes with a very beige interior that divides the four seats with a \"spine\" that spans the length of the cabin. New photos shared by Jaguar show a low-slung driver's seat, alongside a slim dashboard with a smartphone-style display in the center. This vehicle doesn't come with a traditional…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/978793/jaguar-type-01-interior",
-    "image_url": null,
-    "published_at": "2026-08-12T13:48:48.000Z"
-  },
-  {
-    "headline": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "image_url": null,
-    "published_at": "2026-08-12T11:00:00.000Z"
-  },
-  {
-    "headline": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
-    "summary": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
-    "image_url": null,
-    "published_at": "2026-08-12T10:00:00.000Z"
-  },
-  {
-    "headline": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-    "summary": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-    "image_url": null,
-    "published_at": "2026-08-12T04:30:00.000Z"
-  },
-  {
-    "headline": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-    "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-    "image_url": null,
-    "published_at": "2026-08-12T00:39:26.000Z"
   }
 ]
