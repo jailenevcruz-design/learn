@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+    "summary": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+    "image_url": null,
+    "published_at": "2026-08-19T04:55:08.000Z"
+  },
+  {
     "headline": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
     "summary": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.",
     "publisher": "CNBC",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
     "image_url": null,
     "published_at": "2026-08-12T21:13:11.000Z"
-  },
-  {
-    "headline": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
-    "summary": "Oil exports from Egypt's Mediterranean port of Sidi Kerir have more than doubled. The crude is mostly from Saudi Arabia, according to Kpler.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-12T21:04:18.000Z"
   }
 ]
