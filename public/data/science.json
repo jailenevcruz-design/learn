@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+    "summary": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-1 pandemic.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+    "image_url": null,
+    "published_at": "2026-08-19T19:45:11.000Z"
+  },
+  {
     "headline": "This high-speed star is whipping around the black hole in the middle of our galaxy",
     "summary": "Researchers have identified a speed demon at the heart of the Milky Way. This fast-moving star may yield insights into the black hole parked at the center of our galaxy.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
     "image_url": null,
     "published_at": "2026-08-02T02:59:35.000Z"
-  },
-  {
-    "headline": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
-    "summary": "NASA’s Curiosity rover has entered a Martian valley covered by an astonishing “sea” of tiny polygon-shaped fractures. The honeycomb patterns, each only a few inches wide, stretch across the landscape and even wrap around a nearby 20-foot-tall butte.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
-    "image_url": null,
-    "published_at": "2026-08-01T13:47:24.000Z"
   }
 ]

@@ -1,11 +1,123 @@
 [
   {
+    "headline": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
+    "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+    "image_url": null,
+    "published_at": "2026-08-19T21:05:31.000Z"
+  },
+  {
+    "headline": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+    "summary": "",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
+    "image_url": null,
+    "published_at": "2026-08-19T21:01:13.000Z"
+  },
+  {
+    "headline": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
+    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:34:09.000Z"
+  },
+  {
+    "headline": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+    "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:32:48.000Z"
+  },
+  {
+    "headline": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
+    "summary": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:10:14.000Z"
+  },
+  {
+    "headline": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+    "summary": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:10:01.000Z"
+  },
+  {
+    "headline": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+    "summary": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That's leading nervous investors to demand higher interest rates —pushing up borrowing costs for everyone else.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
+    "image_url": null,
+    "published_at": "2026-08-19T20:09:39.000Z"
+  },
+  {
+    "headline": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
+    "summary": "The move would likely impact hundreds of thousands of immigrants who have Social Security numbers and have received authorization to work in the U.S., experts said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/treasury-irs-refundable-tax-credits-immigrants.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:08:49.000Z"
+  },
+  {
+    "headline": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+    "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:07:09.000Z"
+  },
+  {
     "headline": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-    "summary": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
+    "summary": "Longer-term U.S. Treasury yields pulled back on Wednesday after the Treasury Department announced an upscaled buyback operation of the nation's debt.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
     "image_url": null,
-    "published_at": "2026-08-19T19:02:50.000Z"
+    "published_at": "2026-08-19T20:03:44.000Z"
+  },
+  {
+    "headline": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
+    "summary": "Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence questions for the Fed",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:02:32.000Z"
+  },
+  {
+    "headline": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+    "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:01:53.000Z"
+  },
+  {
+    "headline": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+    "summary": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:00:17.000Z"
+  },
+  {
+    "headline": "Target says its turnaround is picking up steam, with help from a big tariff refund",
+    "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-19T20:00:13.000Z"
+  },
+  {
+    "headline": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+    "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+    "image_url": null,
+    "published_at": "2026-08-19T19:49:28.000Z"
   },
   {
     "headline": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
@@ -32,22 +144,6 @@
     "published_at": "2026-08-19T18:54:04.000Z"
   },
   {
-    "headline": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
-    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-    "image_url": null,
-    "published_at": "2026-08-19T17:48:08.000Z"
-  },
-  {
-    "headline": "Marvell pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-    "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-    "image_url": null,
-    "published_at": "2026-08-19T17:34:35.000Z"
-  },
-  {
     "headline": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
     "summary": "One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now.",
     "publisher": "CNBC",
@@ -56,36 +152,12 @@
     "published_at": "2026-08-19T17:25:05.000Z"
   },
   {
-    "headline": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-    "summary": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-19T17:22:29.000Z"
-  },
-  {
     "headline": "A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year",
     "summary": "Tony Donatell turned an empty storefront next to a gas station into a sophisticated speakeasy, The Farmer's Cellar. Inside, it's still the \"roaring twenties.\"",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
     "image_url": null,
     "published_at": "2026-08-19T17:05:01.000Z"
-  },
-  {
-    "headline": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
-    "summary": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
-    "image_url": null,
-    "published_at": "2026-08-19T16:40:21.000Z"
-  },
-  {
-    "headline": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
-    "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-    "image_url": null,
-    "published_at": "2026-08-19T16:08:58.000Z"
   },
   {
     "headline": "Hedge funds are about to jump into prediction markets in a big way",
@@ -102,22 +174,6 @@
     "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
     "image_url": null,
     "published_at": "2026-08-19T15:38:26.000Z"
-  },
-  {
-    "headline": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-    "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-    "image_url": null,
-    "published_at": "2026-08-19T15:12:28.000Z"
-  },
-  {
-    "headline": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-    "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-19T14:58:26.000Z"
   },
   {
     "headline": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
@@ -1542,61 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
     "image_url": null,
     "published_at": "2026-08-13T16:38:06.000Z"
-  },
-  {
-    "headline": "Databricks wraps $5 billion funding round at $190 billion valuation",
-    "summary": "Databricks is benefitting off of the agentic AI wave.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-    "image_url": null,
-    "published_at": "2026-08-13T16:20:22.000Z"
-  },
-  {
-    "headline": "Trump-linked oil venture delays Greenland drilling plans after government warning",
-    "summary": "Greenland Energy Co. and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
-    "image_url": null,
-    "published_at": "2026-08-13T16:06:38.000Z"
-  },
-  {
-    "headline": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
-    "summary": "A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
-    "image_url": null,
-    "published_at": "2026-08-13T15:19:31.000Z"
-  },
-  {
-    "headline": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
-    "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-    "image_url": null,
-    "published_at": "2026-08-13T15:16:00.000Z"
-  },
-  {
-    "headline": "3 of our stocks surged in the AI trade came back. 3 others stumbled",
-    "summary": "Ahead of the CNBC Investing Club's August Monthly Meeting, here's a look at what moved our three top and bottom performers since our last meeting.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/3-of-our-stocks-surged-in-the-ai-trade-came-back-3-others-stumbled.html",
-    "image_url": null,
-    "published_at": "2026-08-13T14:04:25.000Z"
-  },
-  {
-    "headline": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions",
-    "summary": "Japan has enough cash at its disposal for a couple more rounds of yen-buying on the scale of last month's intervention, Goldman Sachs says.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html",
-    "image_url": null,
-    "published_at": "2026-08-13T13:33:05.000Z"
-  },
-  {
-    "headline": "Sweetgreen isn't linked to cyclospora, but many customers still don't want salads: 'I didn't think it would last' this long, CEO says",
-    "summary": "Though Sweetgreen has not been linked to the cyclospora outbreak, the fast-casual chain has taken a hit as consumers steer clear of lettuce and fresh produce.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/cyclospora-outbreak-sweetgreen-ceo.html",
-    "image_url": null,
-    "published_at": "2026-08-13T13:31:09.000Z"
   }
 ]

@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+    "summary": "AI-native account startup Rillet became a unicorn, led by ICONIQ, after it doubled its ARR in the past three months, it said.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+    "image_url": null,
+    "published_at": "2026-08-19T20:12:33.000Z"
+  },
+  {
+    "headline": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+    "summary": "The actress' firm Kinship Ventures is an investor in the company.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+    "image_url": null,
+    "published_at": "2026-08-19T20:04:12.000Z"
+  },
+  {
+    "headline": "Gambling on the Little League World Series? Sports bettors have gone too far",
+    "summary": "Have we tried turning off society and turning it back on again?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+    "image_url": null,
+    "published_at": "2026-08-19T20:01:02.000Z"
+  },
+  {
+    "headline": "Nielsen is leaning more on wearables to hear what people are watching",
+    "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+    "image_url": null,
+    "published_at": "2026-08-19T19:53:09.000Z"
+  },
+  {
     "headline": "AI was supposed to win people over by now — it hasn’t",
     "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
     "publisher": "TechCrunch",
@@ -25,7 +57,7 @@
   },
   {
     "headline": "Researchers say OpenAI revoked their access to limited cyber program",
-    "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+    "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
     "image_url": null,
@@ -1566,37 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
     "image_url": null,
     "published_at": "2026-08-13T15:30:52.000Z"
-  },
-  {
-    "headline": "I looked inside an AI generated movie, and the best parts were all human",
-    "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to acc…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-    "image_url": null,
-    "published_at": "2026-08-13T15:30:00.000Z"
-  },
-  {
-    "headline": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-    "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-    "image_url": null,
-    "published_at": "2026-08-13T15:08:00.000Z"
-  },
-  {
-    "headline": "This is Instagram&#8217;s new logo",
-    "summary": "It’s certainly… different. | Image: Meta Instagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that totally says \"Instagzam,\" right…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
-    "image_url": null,
-    "published_at": "2026-08-13T15:00:38.000Z"
-  },
-  {
-    "headline": "Who really needs a cocktail robot?",
-    "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
-    "image_url": null,
-    "published_at": "2026-08-13T15:00:00.000Z"
   }
 ]
