@@ -1,5 +1,13 @@
 [
   {
+    "headline": "The Mythic, Mutable Worlds of Elizabeth Glaessner",
+    "summary": "Her swirling paintings follow an evolving cast of characters.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-in-america/columns/mythic-mutable-elizabeth-glaessner-painting-ppow-perrotin-1234794960/",
+    "image_url": null,
+    "published_at": "2026-08-19T09:00:00.000Z"
+  },
+  {
     "headline": "Anna Weyant Captures Marc Jacobs in Painting on Cover of ‘Vanity Fair’",
     "summary": "The magazine commissioned Weyant to paint Jacobs' portrait for their cover story that delves into the designer's four decades in fashion and the sale of his namesake label.",
     "publisher": "ARTnews",
@@ -1590,13 +1598,5 @@
     "url": "https://www.artnews.com/art-news/news/gagosian-london-basel-gallery-closures-1234794210/",
     "image_url": null,
     "published_at": "2026-08-03T21:34:11.000Z"
-  },
-  {
-    "headline": "Eric Carle Museum Workers Push for Union Vote",
-    "summary": "Employees at the Massachusetts museum established by the children’s book artist behind “The Very Hungry Caterpillar” cited poor working conditions and under-staffing in a statement.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/eric-carle-museum-workers-push-for-union-vote/",
-    "image_url": null,
-    "published_at": "2026-08-03T21:01:21.000Z"
   }
 ]
