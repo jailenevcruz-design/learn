@@ -5,7 +5,31 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bode",
     "image_url": null,
-    "published_at": "2026-08-19T13:30:08.000Z"
+    "published_at": "2026-08-19T14:15:25.000Z"
+  },
+  {
+    "headline": "Jean Louis Is the Famous Hollywood Costume Designer You’ve Never Heard of—Until Now",
+    "summary": "The life and work of the man who designed the Rita Hayworth’s Gilda Dress and Marilyn Monroe’s Happy Birthday dress, are brought to life by brothers Mauricio and Roger Padilha.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/jean-louis-is-the-famous-hollywood-costume-designer-youve-never-heard-of-until-now",
+    "image_url": null,
+    "published_at": "2026-08-19T14:05:36.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Channel Tres Surprises Young L.A. Musicians With Ugg Shoes and Advice on Making It",
+    "summary": "The Compton-raised artist, who has a partnership with Ugg, visited Harmony Project and reflected on the teacher who first taught him to believe in himself.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-features/channel-tres-ugg-harmony-project-students-1239142817/",
+    "image_url": null,
+    "published_at": "2026-08-19T13:56:54.000Z"
+  },
+  {
+    "headline": "Thai Perfumer Pañpuri Brings Sensory Retail to Shanghai",
+    "summary": "The perfume oil-maker's first China store has landed at HKRI Taikoo Hui in Shanghai, currently among the city's hottest retail destinations.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/fragrance/thai-perfumer-panpuri-taikoo-hui-retail-shanghai-1239136938/",
+    "image_url": null,
+    "published_at": "2026-08-19T13:47:02.000Z"
   },
   {
     "headline": "Fenty Beauty Reinvents Foundation: Rihanna Unveils Pro Filt’r Fluid Flex Formula",
@@ -32,22 +56,6 @@
     "published_at": "2026-08-19T13:00:00.000Z"
   },
   {
-    "headline": "My Fair Doggies: Julie Andrews and Emma Walton Hamilton on Their Many Canine Companions",
-    "summary": "The legendary performer and her daughter talk their new children’s book, “Shy,” and look back on a lifetime of beloved dogs.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/julie-andrews-emma-walton-hamilton-shy-book-release",
-    "image_url": null,
-    "published_at": "2026-08-19T13:00:00.000Z"
-  },
-  {
-    "headline": "Nepo Doggies Chicken and Slim Are Tory Burch’s Favorite Models",
-    "summary": "Few fur families are as picturesque as Tory Burch and her two golden-hued miniature poodles, especially when spotted frolicking across the pristinely manicured lawn of her sprawling Hamptons pile.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/tory-burch-dogue-2026",
-    "image_url": null,
-    "published_at": "2026-08-19T13:00:00.000Z"
-  },
-  {
     "headline": "AGUA É by Myles Loftin: A Love Story in Paradise",
     "summary": "Published by Pomegranate Press, Myles Loftin’s new zine brings together portraits, fashion, and landscapes from the Dominican Republic, exploring intimacy and desire through a contemporary love story.",
     "publisher": "Vogue",
@@ -64,10 +72,18 @@
     "published_at": "2026-08-19T13:00:00.000Z"
   },
   {
-    "headline": "Charles Melton Takes His Husky, Neya, Everywhere—From Hikes to Hollywood Sets",
-    "summary": "What does heartthrob Charles Melton love most about his adopted Siberian Husky? “She’s so expressive and soulful,” he says. “She’s my best friend.”",
+    "headline": "My Fair Doggies: Julie Andrews and Emma Walton Hamilton on Their Many Canine Companions",
+    "summary": "The legendary performer and her daughter talk their new children’s book, “Shy,” and look back on a lifetime of beloved dogs.",
     "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/charles-melton-dogue-2026",
+    "url": "https://www.vogue.com/article/julie-andrews-emma-walton-hamilton-shy-book-release",
+    "image_url": null,
+    "published_at": "2026-08-19T13:00:00.000Z"
+  },
+  {
+    "headline": "Nepo Doggies Chicken and Slim Are Tory Burch’s Favorite Models",
+    "summary": "Few fur families are as picturesque as Tory Burch and her two golden-hued miniature poodles, especially when spotted frolicking across the pristinely manicured lawn of her sprawling Hamptons pile.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/tory-burch-dogue-2026",
     "image_url": null,
     "published_at": "2026-08-19T13:00:00.000Z"
   },
@@ -76,6 +92,14 @@
     "summary": "The 'Nobody Wants This' and 'Frozen' actor talks to Vogue about life and her new partnership with L’Oréal Paris.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/kristen-bell-beauty-interview-loreal",
+    "image_url": null,
+    "published_at": "2026-08-19T13:00:00.000Z"
+  },
+  {
+    "headline": "Charles Melton Takes His Husky, Neya, Everywhere—From Hikes to Hollywood Sets",
+    "summary": "What does heartthrob Charles Melton love most about his adopted Siberian Husky? “She’s so expressive and soulful,” he says. “She’s my best friend.”",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/charles-melton-dogue-2026",
     "image_url": null,
     "published_at": "2026-08-19T13:00:00.000Z"
   },
@@ -96,7 +120,7 @@
     "published_at": "2026-08-19T13:00:00.000Z"
   },
   {
-    "headline": "UK-Funded Project To Build Demo Biocoal Plant in Pakistan",
+    "headline": "Textile Mills Support Project To Build Demo Biocoal Plant in Pakistan",
     "summary": "The project, which is called Safer Plus, will turn cotton stalks and sugarcane waste into engineered bio-coal pellets.",
     "publisher": "WWD",
     "url": "https://wwd.com/sourcing-journal/industry-news/pakistan-renewable-energy-northumbria-1239129168/",
@@ -120,7 +144,7 @@
     "published_at": "2026-08-19T12:30:00.000Z"
   },
   {
-    "headline": "The 8 Best Breakfasts Gut Health",
+    "headline": "The 8 Best Breakfasts for Gut Health",
     "summary": "What if the key to a healthy gut isn’t only about being mindful of what you eat but also when you eat? Here, experts break down the best breakfasts to support your gut.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/best-breakfasts-for-gut-health",
@@ -137,7 +161,7 @@
   },
   {
     "headline": "Target’s Q2 Gains Lifts Confidence in Turnaround Efforts and the 2026 Outlook",
-    "summary": "It was an eventful quarter marked by widespread price cuts, presentation upgrades in groceries and kids, improved traffic, and a huge tariff refund contributing to bottom-line increases, but the apparel and home businesses were \"barely positive.\"",
+    "summary": "It was an eventful quarter marked by widespread price cuts, presentation upgrades in groceries and kids, improved traffic and a huge tariff refund contributing to bottom-line increases, but the apparel and home businesses were \"barely positive.\"",
     "publisher": "WWD",
     "url": "https://wwd.com/business-news/retail/target-q2-gains-ceo-commentary-raised-2026-outlook-1239128362/",
     "image_url": null,
@@ -184,18 +208,18 @@
     "published_at": "2026-08-19T05:00:00.000Z"
   },
   {
-    "headline": "Brand Heat: Why Winter Brands Are Going All In on Summer",
-    "summary": "As heatwaves become the new normal, outerwear brands are realizing that expanding their seasonality may be a smart investment. So will these brands get their time in the sun?",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/brand-heat-why-winter-brands-are-going-all-in-on-summer",
-    "image_url": null,
-    "published_at": "2026-08-19T04:30:00.000Z"
-  },
-  {
     "headline": "With Neon Rebels, Maisonette is Taking On the Tween Market",
     "summary": "Today, kidswear retailer Maisonette launches its new teen boutique Neon Rebels, in a bid to capture the tween fashion white space by catering to both kids and parents",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/with-neon-rebels-maisonette-is-taking-on-the-tween-market",
+    "image_url": null,
+    "published_at": "2026-08-19T04:30:00.000Z"
+  },
+  {
+    "headline": "Brand Heat: Why Winter Brands Are Going All In on Summer",
+    "summary": "As heatwaves become the new normal, outerwear brands are realizing that expanding their seasonality may be a smart investment. So will these brands get their time in the sun?",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/brand-heat-why-winter-brands-are-going-all-in-on-summer",
     "image_url": null,
     "published_at": "2026-08-19T04:30:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://wwd.com/pop-culture/celebrity-news/georgina-rodriguez-watch-collection-1239124391/",
     "image_url": null,
     "published_at": "2026-08-16T17:21:00.000Z"
-  },
-  {
-    "headline": "Georgina Rodríguez and Cristiano Ronaldo’s Newlywed Debut Is a Sporty Family Affair",
-    "summary": "Four days after marrying in Portugal, the couple and their children watched Al-Nassr take on Al-Fateh in Riyadh.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/georgina-rodriguez-cristiano-ronaldo-newlywed-appearance-1239126308/",
-    "image_url": null,
-    "published_at": "2026-08-16T17:17:14.000Z"
-  },
-  {
-    "headline": "Kanye West’s New Yeezy 800 Sneaker Will Be Released This Holiday Season — Here’s a Detailed Look",
-    "summary": "The Yeezy 800 sneaker has already drawn polarizing reactions on social media.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/kanye-west-yeezy-800-release-date-1239126273/",
-    "image_url": null,
-    "published_at": "2026-08-16T17:15:24.000Z"
-  },
-  {
-    "headline": "Anne Hathaway Continues Her Asymmetrical Maternity Style Streak in Waves of Red",
-    "summary": "The actress layered her J’amemme dress over white trousers while confirming that “The Princess Diaries 3” is in production.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/anne-hathaway-jamemme-dress-d23-princess-diaries-3-1239126248/",
-    "image_url": null,
-    "published_at": "2026-08-16T16:16:12.000Z"
   }
 ]

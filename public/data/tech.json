@@ -1,27 +1,35 @@
 [
   {
+    "headline": "Calendly throws its hat into meeting note-taker circus",
+    "summary": "Calendly is also releasing a meeting scheduling assistant called Callie",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+    "image_url": null,
+    "published_at": "2026-08-19T14:09:39.000Z"
+  },
+  {
+    "headline": "The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
+    "summary": "Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how world-class tech events get built and more.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
+    "image_url": null,
+    "published_at": "2026-08-19T14:02:00.000Z"
+  },
+  {
+    "headline": "Home batteries are suddenly cheap and everywhere. Here’s why.",
+    "summary": "Companies including Tesla and Base Power are vying for a piece of the rapidly growing market for home batteries. One technology has made it all possible.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/",
+    "image_url": null,
+    "published_at": "2026-08-19T13:40:00.000Z"
+  },
+  {
     "headline": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
     "summary": "The cyberattack at CareCloud resulted in one of the largest reported data breaches in the U.S. healthcare industry this year.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
     "image_url": null,
     "published_at": "2026-08-19T13:04:10.000Z"
-  },
-  {
-    "headline": "Nvidia’s new financial strategy does not compute",
-    "summary": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to ta…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-    "image_url": null,
-    "published_at": "2026-08-19T12:00:00.000Z"
-  },
-  {
-    "headline": "The women’s soccer league trying to fix fantasy sports",
-    "summary": "The WSL’s first official fantasy game is putting player photos front and center, which is less common than you might expect. | Image: WSL Football Most fantasy sports leagues suffer the same problem: retention. Leagues play out over months-long seasons, require regular attention, and can punish players severely for mis…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app",
-    "image_url": null,
-    "published_at": "2026-08-19T12:00:00.000Z"
   },
   {
     "headline": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
@@ -36,6 +44,22 @@
     "summary": "Kids these days don't know how good they have it.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+    "image_url": null,
+    "published_at": "2026-08-19T12:00:00.000Z"
+  },
+  {
+    "headline": "Nvidia’s new financial strategy does not compute",
+    "summary": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to ta…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+    "image_url": null,
+    "published_at": "2026-08-19T12:00:00.000Z"
+  },
+  {
+    "headline": "The women’s soccer league trying to fix fantasy sports",
+    "summary": "The WSL’s first official fantasy game is putting player photos front and center, which is less common than you might expect. | Image: WSL Football Most fantasy sports leagues suffer the same problem: retention. Leagues play out over months-long seasons, require regular attention, and can punish players severely for mis…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app",
     "image_url": null,
     "published_at": "2026-08-19T12:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
     "image_url": null,
     "published_at": "2026-08-12T16:46:05.000Z"
-  },
-  {
-    "headline": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture s…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "image_url": null,
-    "published_at": "2026-08-12T16:46:02.000Z"
-  },
-  {
-    "headline": "Tesla wants to build a $10B solar factory in Texas",
-    "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
-    "image_url": null,
-    "published_at": "2026-08-12T16:18:31.000Z"
-  },
-  {
-    "headline": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-    "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
-    "image_url": null,
-    "published_at": "2026-08-12T16:18:23.000Z"
   }
 ]

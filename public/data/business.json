@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
+    "summary": "Mortgage rates were unchanged last week, as was mortgage demand, and total volume remains lower than year-ago levels.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
+    "image_url": null,
+    "published_at": "2026-08-19T14:18:35.000Z"
+  },
+  {
+    "headline": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+    "summary": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-19T14:13:01.000Z"
+  },
+  {
+    "headline": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
+    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+    "image_url": null,
+    "published_at": "2026-08-19T14:12:04.000Z"
+  },
+  {
+    "headline": "Car dealerships are relying more on parts and service for profits",
+    "summary": "Dealership gross profits have fallen from the supply-constrained days of 2022. They are relying more heavily on the income streams that hedge against downturns.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
+    "image_url": null,
+    "published_at": "2026-08-19T14:06:23.000Z"
+  },
+  {
+    "headline": "Target says its turnaround is picking up steam, with help from a big tariff refund",
+    "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-19T13:43:39.000Z"
+  },
+  {
+    "headline": "Hedge funds are about to jump into prediction markets in a big way",
+    "summary": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
+    "image_url": null,
+    "published_at": "2026-08-19T13:38:44.000Z"
+  },
+  {
     "headline": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
     "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
     "publisher": "CNBC",
@@ -16,36 +64,12 @@
     "published_at": "2026-08-19T13:08:48.000Z"
   },
   {
-    "headline": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-    "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-19T13:08:32.000Z"
-  },
-  {
-    "headline": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
-    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-    "image_url": null,
-    "published_at": "2026-08-19T12:57:32.000Z"
-  },
-  {
     "headline": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
     "summary": "Fixed income market watchers ascribe a run that began in June to a number of variables.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
     "image_url": null,
     "published_at": "2026-08-19T12:31:07.000Z"
-  },
-  {
-    "headline": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-    "summary": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-19T12:24:19.000Z"
   },
   {
     "headline": "World’s largest olive oil company surges over 20% as rivals circle in takeover battle",
@@ -96,22 +120,6 @@
     "published_at": "2026-08-19T11:08:03.000Z"
   },
   {
-    "headline": "Car dealerships are relying more on parts and service for profits",
-    "summary": "Dealership gross profits have fallen from the supply-constrained days of 2022. They are relying more heavily on the income streams that hedge against downturns.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
-    "image_url": null,
-    "published_at": "2026-08-19T11:00:01.000Z"
-  },
-  {
-    "headline": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
-    "summary": "Mortgage rates were unchanged last week, as was mortgage demand, and total volume remains lower than year-ago levels.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
-    "image_url": null,
-    "published_at": "2026-08-19T11:00:01.000Z"
-  },
-  {
     "headline": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
     "summary": "Chinese AI firms have reportedly accessed advanced Nvidia computing power overseas, testing U.S. export controls. Lawmakers weigh closing the cloud-access gap.",
     "publisher": "CNBC",
@@ -134,6 +142,14 @@
     "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
     "image_url": null,
     "published_at": "2026-08-19T09:30:25.000Z"
+  },
+  {
+    "headline": "FCC head Brendan Carr says Disney free speech lawsuit is 'without merit'",
+    "summary": "ABC and its corporate parent, The Walt Disney Co., filed a lawsuit against the FCC Tuesday, accusing the agency of violating its First Amendment rights.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/19/nx-s1-5936665/abc-disney-sue-fcc-over-first-amendment-violations",
+    "image_url": null,
+    "published_at": "2026-08-19T08:43:08.000Z"
   },
   {
     "headline": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/pandora-platinum-plated-jewelry-silver-prices.html",
     "image_url": null,
     "published_at": "2026-08-13T09:17:52.000Z"
-  },
-  {
-    "headline": "Shipping giants warn ports and trucks could hold up deliveries and push up prices",
-    "summary": "Global shipping demand remains strong despite geopolitical turmoil, but port and trucking bottlenecks are increasing congestion and putting upward pressure on freight rates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
-    "image_url": null,
-    "published_at": "2026-08-13T09:17:39.000Z"
-  },
-  {
-    "headline": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
-    "summary": "SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive first look.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
-    "image_url": null,
-    "published_at": "2026-08-13T09:00:01.000Z"
   }
 ]
