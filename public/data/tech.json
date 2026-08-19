@@ -1,5 +1,37 @@
 [
   {
+    "headline": "The wearable future is stuck in weird, experimental, existential limbo",
+    "summary": "AI on the wrist is one such experimental feature. This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past week, I've been testing the Google Pixel…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
+    "image_url": null,
+    "published_at": "2026-08-19T18:00:00.000Z"
+  },
+  {
+    "headline": "Grab an iPad Air M4 for its lowest price since the June increase",
+    "summary": "The iPad Air M4 in space gray. | Image: The Verge Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower than the new retail pri…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-19T17:56:15.000Z"
+  },
+  {
+    "headline": "Meet the startup helping Wall Street put a price on AI compute",
+    "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge th…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "image_url": null,
+    "published_at": "2026-08-19T17:26:48.000Z"
+  },
+  {
+    "headline": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+    "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+    "image_url": null,
+    "published_at": "2026-08-19T17:26:32.000Z"
+  },
+  {
     "headline": "OpenAI hit the brakes. Now what?",
     "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a t…",
     "publisher": "The Verge",
@@ -96,18 +128,18 @@
     "published_at": "2026-08-19T15:01:41.000Z"
   },
   {
-    "headline": "Amazon Fire TV devices are getting a free Alexa Plus upgrade",
-    "summary": "Amazon is bringing Alexa Plus to Fire TV device owners in the US for free. Starting today, users in the US with an Amazon Fire TV Stick, Fire TV Cube, Amazon Ember smart TV, or other TV with Alexa Plus built in, including those from Panasonic and Hisense, will get access to the more conversational AI assistant. Previou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free",
-    "image_url": null,
-    "published_at": "2026-08-19T15:00:00.000Z"
-  },
-  {
     "headline": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
     "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "image_url": null,
+    "published_at": "2026-08-19T15:00:00.000Z"
+  },
+  {
+    "headline": "Amazon Fire TV devices are getting a free Alexa Plus upgrade",
+    "summary": "Amazon is bringing Alexa Plus to Fire TV device owners in the US for free. Starting today, users in the US with an Amazon Fire TV Stick, Fire TV Cube, Amazon Ember smart TV, or other TV with Alexa Plus built in, including those from Panasonic and Hisense, will get access to the more conversational AI assistant. Previou…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free",
     "image_url": null,
     "published_at": "2026-08-19T15:00:00.000Z"
   },
@@ -1566,37 +1598,5 @@
     "url": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
     "image_url": null,
     "published_at": "2026-08-13T14:00:00.000Z"
-  },
-  {
-    "headline": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
-    "summary": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-08-13T13:30:00.000Z"
-  },
-  {
-    "headline": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "image_url": null,
-    "published_at": "2026-08-12T22:26:37.000Z"
-  },
-  {
-    "headline": "AI nuclear power firm Fermi finally has a new CEO",
-    "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-    "image_url": null,
-    "published_at": "2026-08-12T22:24:00.000Z"
-  },
-  {
-    "headline": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-    "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today's broadcast might be something of a c…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-    "image_url": null,
-    "published_at": "2026-08-12T21:30:00.000Z"
   }
 ]

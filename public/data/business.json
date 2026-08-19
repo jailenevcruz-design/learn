@@ -1,5 +1,69 @@
 [
   {
+    "headline": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
+    "summary": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,' \" prosecutors said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
+    "image_url": null,
+    "published_at": "2026-08-19T18:07:40.000Z"
+  },
+  {
+    "headline": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+    "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+    "image_url": null,
+    "published_at": "2026-08-19T18:07:21.000Z"
+  },
+  {
+    "headline": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
+    "summary": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+    "image_url": null,
+    "published_at": "2026-08-19T18:06:04.000Z"
+  },
+  {
+    "headline": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
+    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+    "image_url": null,
+    "published_at": "2026-08-19T17:48:08.000Z"
+  },
+  {
+    "headline": "Marvell pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+    "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+    "image_url": null,
+    "published_at": "2026-08-19T17:34:35.000Z"
+  },
+  {
+    "headline": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
+    "summary": "One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
+    "image_url": null,
+    "published_at": "2026-08-19T17:25:05.000Z"
+  },
+  {
+    "headline": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+    "summary": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-19T17:22:29.000Z"
+  },
+  {
+    "headline": "A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year",
+    "summary": "Tony Donatell turned an empty storefront next to a gas station into a sophisticated speakeasy, The Farmer's Cellar. Inside, it's still the \"roaring twenties.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
+    "image_url": null,
+    "published_at": "2026-08-19T17:05:01.000Z"
+  },
+  {
     "headline": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
     "summary": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
     "publisher": "CNBC",
@@ -40,22 +104,6 @@
     "published_at": "2026-08-19T15:12:28.000Z"
   },
   {
-    "headline": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-    "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-    "image_url": null,
-    "published_at": "2026-08-19T15:09:51.000Z"
-  },
-  {
-    "headline": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-    "summary": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-19T15:00:48.000Z"
-  },
-  {
     "headline": "Target says its turnaround is picking up steam, with help from a big tariff refund",
     "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
     "publisher": "CNBC",
@@ -78,14 +126,6 @@
     "url": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
     "image_url": null,
     "published_at": "2026-08-19T14:18:35.000Z"
-  },
-  {
-    "headline": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
-    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-    "image_url": null,
-    "published_at": "2026-08-19T14:12:04.000Z"
   },
   {
     "headline": "Car dealerships are relying more on parts and service for profits",
@@ -126,14 +166,6 @@
     "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
     "image_url": null,
     "published_at": "2026-08-19T12:13:39.000Z"
-  },
-  {
-    "headline": "Treasury yields pull back from multi-year highs ahead of FOMC minutes",
-    "summary": "Treasury yields eased on Wednesday from multi-year highs seen in the previous day, as a sell-off at the long end of the curve eased investor jitters.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-    "image_url": null,
-    "published_at": "2026-08-19T12:01:13.000Z"
   },
   {
     "headline": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
     "image_url": null,
     "published_at": "2026-08-13T13:18:36.000Z"
-  },
-  {
-    "headline": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-    "summary": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
-    "image_url": null,
-    "published_at": "2026-08-13T12:42:10.000Z"
-  },
-  {
-    "headline": "Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk",
-    "summary": "Here are five key things investors need to know to start the trading day.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html",
-    "image_url": null,
-    "published_at": "2026-08-13T12:31:22.000Z"
-  },
-  {
-    "headline": "Wisconsin, Michigan primaries expose limits of polls and prediction markets",
-    "summary": "It's the second time in just over a week that polls and prediction markets' odds were off, following a miss in the Democratic U.S. senate primary in Michigan.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/midterm-democrats-polling-primary-wisconsin-michigan-minnesota.html",
-    "image_url": null,
-    "published_at": "2026-08-13T12:30:01.000Z"
-  },
-  {
-    "headline": "Goat herding hedge: How Susquehanna and Kalshi are helping this company offset a change in California law",
-    "summary": "A goat herding business facing higher wage costs turned to prediction market platform Kalshi to hedge and help offset the possible expense.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/how-a-california-goat-herding-company-is-hedging-against-risk-of-higher-wages.html",
-    "image_url": null,
-    "published_at": "2026-08-13T12:27:31.000Z"
   }
 ]
