@@ -1,5 +1,53 @@
 [
   {
+    "headline": "30-year Treasury yield tops 5.33%, new 19-year high, on inflation and spending concerns",
+    "summary": "Long-dated fixed income hit their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+    "image_url": null,
+    "published_at": "2026-08-19T12:13:39.000Z"
+  },
+  {
+    "headline": "Treasury yields pull back from multi-year highs ahead of FOMC minutes",
+    "summary": "Treasury yields eased on Wednesday from multi-year highs seen in the previous day, as a sell-off at the long end of the curve eased investor jitters.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+    "image_url": null,
+    "published_at": "2026-08-19T12:01:13.000Z"
+  },
+  {
+    "headline": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 100%",
+    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+    "image_url": null,
+    "published_at": "2026-08-19T11:53:58.000Z"
+  },
+  {
+    "headline": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
+    "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-19T11:41:43.000Z"
+  },
+  {
+    "headline": "UAE severs trade with Iran after reported missile strike",
+    "summary": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-19T11:27:32.000Z"
+  },
+  {
+    "headline": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
+    "summary": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
+    "image_url": null,
+    "published_at": "2026-08-19T11:09:33.000Z"
+  },
+  {
     "headline": "Dollar risks are mounting. Here’s what could weaken the greenback",
     "summary": "Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.",
     "publisher": "CNBC",
@@ -24,20 +72,12 @@
     "published_at": "2026-08-19T11:00:01.000Z"
   },
   {
-    "headline": "Personalized cancer vaccine from Moderna, Merck shows promise in first late-stage melanoma trial",
-    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+    "headline": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+    "summary": "Lowe's reported mixed results as the retailer said it continued to see pressure in home improvement spending.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
     "image_url": null,
-    "published_at": "2026-08-19T10:49:31.000Z"
-  },
-  {
-    "headline": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
-    "summary": "Target posted better-than-expected second-quarter sales and raised its full-year outlook.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-19T10:45:39.000Z"
+    "published_at": "2026-08-19T10:45:20.000Z"
   },
   {
     "headline": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
@@ -70,22 +110,6 @@
     "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
     "image_url": null,
     "published_at": "2026-08-19T09:30:25.000Z"
-  },
-  {
-    "headline": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
-    "summary": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-19T08:51:29.000Z"
-  },
-  {
-    "headline": "Treasury yields pull back from multi-decade highs ahead of FOMC minutes",
-    "summary": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — fell 2 basis points to 4.686%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-    "image_url": null,
-    "published_at": "2026-08-19T08:33:21.000Z"
   },
   {
     "headline": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
@@ -190,14 +214,6 @@
     "url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
     "image_url": null,
     "published_at": "2026-08-18T20:55:42.000Z"
-  },
-  {
-    "headline": "30-year Treasury yield tops 5.33%, new 19-year high, on inflation and spending concerns",
-    "summary": "Long-dated fixed income hit their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-    "image_url": null,
-    "published_at": "2026-08-18T20:33:38.000Z"
   },
   {
     "headline": "Flexibility is a key part of keeping women employed",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
     "image_url": null,
     "published_at": "2026-08-13T08:28:14.000Z"
-  },
-  {
-    "headline": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
-    "summary": "South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
-    "image_url": null,
-    "published_at": "2026-08-13T05:22:03.000Z"
-  },
-  {
-    "headline": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-    "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
-    "image_url": null,
-    "published_at": "2026-08-13T02:59:50.000Z"
   }
 ]
