@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
+    "summary": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+    "image_url": null,
+    "published_at": "2026-08-19T03:18:57.000Z"
+  },
+  {
+    "headline": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+    "summary": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
+    "image_url": null,
+    "published_at": "2026-08-19T01:57:05.000Z"
+  },
+  {
+    "headline": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
+    "summary": "Unitree Robotics shares rise 542% on their first day of trading in Shanghai",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
+    "image_url": null,
+    "published_at": "2026-08-19T01:37:01.000Z"
+  },
+  {
+    "headline": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
+    "summary": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
+    "image_url": null,
+    "published_at": "2026-08-19T01:34:22.000Z"
+  },
+  {
+    "headline": "What Chinese liquor maker Moutai's slump says about the country's economy",
+    "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+    "image_url": null,
+    "published_at": "2026-08-18T23:58:09.000Z"
+  },
+  {
+    "headline": "Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raising risk of a proliferation cascade",
+    "summary": "As countries take more responsibility for their own defense and nuclear states step back from arms-control commitments, the question of proliferation arises.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html",
+    "image_url": null,
+    "published_at": "2026-08-18T23:25:38.000Z"
+  },
+  {
     "headline": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
     "summary": "ChatGPT for Teens includes a number of educational features and applies age-appropriate safeguards, OpenAI said.",
     "publisher": "CNBC",
@@ -40,14 +88,6 @@
     "published_at": "2026-08-18T20:33:38.000Z"
   },
   {
-    "headline": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
-    "summary": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
-    "image_url": null,
-    "published_at": "2026-08-18T20:20:24.000Z"
-  },
-  {
     "headline": "Flexibility is a key part of keeping women employed",
     "summary": "NPR's Juana Summers talks with University of Michigan economist Betsey Stevenson about trends in women's participation in the labor force and the value of flexible work arrangements.",
     "publisher": "NPR",
@@ -57,7 +97,7 @@
   },
   {
     "headline": "ABC and Disney sue FCC, alleging First Amendment violations",
-    "summary": "The ABC Network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating the network's talk show \"The View.\"",
+    "summary": "The ABC network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating the network's talk show The View.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
     "image_url": null,
@@ -1558,45 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
     "image_url": null,
     "published_at": "2026-08-12T21:04:18.000Z"
-  },
-  {
-    "headline": "Cisco's stock drops despite earnings, revenue beat",
-    "summary": "Even though Cisco's quarterly results topped estimates, they weren't good enough to satisfy Wall Street.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
-    "image_url": null,
-    "published_at": "2026-08-12T20:51:07.000Z"
-  },
-  {
-    "headline": "Trump sued over service selling faster access to Truth Social posts",
-    "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-    "image_url": null,
-    "published_at": "2026-08-12T20:33:10.000Z"
-  },
-  {
-    "headline": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
-    "summary": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
-    "image_url": null,
-    "published_at": "2026-08-12T20:16:05.000Z"
-  },
-  {
-    "headline": "CoreWeave gains 19%, Nebius surges 34% in post-earnings neocloud rally",
-    "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-    "image_url": null,
-    "published_at": "2026-08-12T20:00:52.000Z"
-  },
-  {
-    "headline": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
-    "summary": "Lettuce prices posted their sharpest month-over-month decline on record as diners reconsider the vegetable amid the cyclospora outbreak.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
-    "image_url": null,
-    "published_at": "2026-08-12T19:50:29.000Z"
   }
 ]
