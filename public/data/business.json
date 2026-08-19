@@ -1,11 +1,51 @@
 [
   {
-    "headline": "Target is set to report earnings before the bell. Here's what to expect",
-    "summary": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
+    "headline": "Dollar risks are mounting. Here’s what could weaken the greenback",
+    "summary": "Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
+    "image_url": null,
+    "published_at": "2026-08-19T11:08:03.000Z"
+  },
+  {
+    "headline": "Car dealerships are relying more on parts and service for profits",
+    "summary": "Dealership gross profits have fallen from the supply-constrained days of 2022. They are relying more heavily on the income streams that hedge against downturns.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
+    "image_url": null,
+    "published_at": "2026-08-19T11:00:01.000Z"
+  },
+  {
+    "headline": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
+    "summary": "Mortgage rates were unchanged last week, as was mortgage demand, and total volume remains lower than year-ago levels.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
+    "image_url": null,
+    "published_at": "2026-08-19T11:00:01.000Z"
+  },
+  {
+    "headline": "Personalized cancer vaccine from Moderna, Merck shows promise in first late-stage melanoma trial",
+    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+    "image_url": null,
+    "published_at": "2026-08-19T10:49:31.000Z"
+  },
+  {
+    "headline": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
+    "summary": "Target posted better-than-expected second-quarter sales and raised its full-year outlook.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
     "image_url": null,
-    "published_at": "2026-08-19T10:06:56.000Z"
+    "published_at": "2026-08-19T10:45:39.000Z"
+  },
+  {
+    "headline": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
+    "summary": "Chinese AI firms have reportedly accessed advanced Nvidia computing power overseas, testing U.S. export controls. Lawmakers weigh closing the cloud-access gap.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
+    "image_url": null,
+    "published_at": "2026-08-19T10:32:51.000Z"
   },
   {
     "headline": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
@@ -22,14 +62,6 @@
     "url": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
     "image_url": null,
     "published_at": "2026-08-19T09:48:27.000Z"
-  },
-  {
-    "headline": "Dollar risks are mounting. Here’s what could weaken the greenback",
-    "summary": "Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
-    "image_url": null,
-    "published_at": "2026-08-19T09:32:56.000Z"
   },
   {
     "headline": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
     "image_url": null,
     "published_at": "2026-08-13T02:59:50.000Z"
-  },
-  {
-    "headline": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
-    "summary": "South Korean stocks rallied on Thursday, pushing the benchmark Kospi into a technical bull market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
-    "image_url": null,
-    "published_at": "2026-08-13T02:06:15.000Z"
-  },
-  {
-    "headline": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
-    "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-    "image_url": null,
-    "published_at": "2026-08-13T01:31:12.000Z"
-  },
-  {
-    "headline": "Japan wholesale inflation eases slightly to 7.2%, undershooting expectations",
-    "summary": "The PPI reading was lower than the 7.4% expected by economists polled by Reuters, and was down from a revised 7.3% seen in June.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/japan-ppi-inflation-energy-prices-takaichi-cpi.html",
-    "image_url": null,
-    "published_at": "2026-08-13T01:25:47.000Z"
-  },
-  {
-    "headline": "Inside India newsletter: Why global funds are flocking to GIFT City in Modi’s home state",
-    "summary": "Favorable regulations, a growing local investor base, and tax holidays are giving momentum to India's GIFT City.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/global-funds-blackrock-modi-gift-city.html",
-    "image_url": null,
-    "published_at": "2026-08-13T00:15:59.000Z"
   }
 ]

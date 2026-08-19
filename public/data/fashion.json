@@ -5,7 +5,15 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bode",
     "image_url": null,
-    "published_at": "2026-08-19T10:13:58.000Z"
+    "published_at": "2026-08-19T11:08:30.000Z"
+  },
+  {
+    "headline": "The Estée Lauder Cos. Reports 6 Percent Sales Increase in Q4",
+    "summary": "The beauty company touted a strong performance across most categories and regions, with North America driving growth.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-q4-2026-revenues-1239128525/",
+    "image_url": null,
+    "published_at": "2026-08-19T10:27:39.000Z"
   },
   {
     "headline": "Reformation Bets on the Wedge Heel Comeback With Enya Umanzor’s Whimsical $298 Shoe Design",
@@ -488,22 +496,6 @@
     "published_at": "2026-08-18T13:20:54.000Z"
   },
   {
-    "headline": "The Best Part of Riding the Subway Is a Chance Encounter With a Subway Dog",
-    "summary": "Uptown or downtown, express or local, an unexpected benefit of New York’s public transit system is coming face-to-face with a four-legged friend.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/subway-dogs-dogue-2026",
-    "image_url": null,
-    "published_at": "2026-08-18T13:00:00.000Z"
-  },
-  {
-    "headline": "The 2026 Dogue Competition Winner is Here!",
-    "summary": "We’ve combed through thousands of submissions, and one thing is clear–whether tail wagging or subtly smizing, Vogue Dogues sure know their angles. Who would emerge the winner was less obvious.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/dogue-2026-competition-winner",
-    "image_url": null,
-    "published_at": "2026-08-18T13:00:00.000Z"
-  },
-  {
     "headline": "9 Vogue Editors on the Dog Essentials They (and Their Four-Legged Friends) Can’t Live Without",
     "summary": "From treats to toys to grooming essentials, Vogue editors share the dog essentials they (and their furry friends) can’t live without.",
     "publisher": "Vogue",
@@ -512,18 +504,10 @@
     "published_at": "2026-08-18T13:00:00.000Z"
   },
   {
-    "headline": "A Bad Bunny and a Beagle Walk Into a Restaurant…",
-    "summary": "After wrapping his eight-month-long Debí Tirar Más Fotos World Tour, Bad Bunny had one thing left to do: an Italian dinner date with his beagle, Sansa.",
+    "headline": "Meet Samantha, the Afghan Hound Who Will Probably Out-Dress You",
+    "summary": "I’ve got to be honest with you: I cannot take my eyes off of Samantha’s hair.",
     "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/bad-bunny-dogue-2026",
-    "image_url": null,
-    "published_at": "2026-08-18T13:00:00.000Z"
-  },
-  {
-    "headline": "Lena Dunham’s Hairless Dogs Have Taught Her to Keep Calm and Carry On",
-    "summary": "“I sometimes joke that Ingrid is my dog and Cornichon is her dog,” Dunham says of her two pooches.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/lena-dunham-dogue-2026",
+    "url": "https://www.vogue.com/slideshow/samantha-stylish-afghan-hound-dogue-2026",
     "image_url": null,
     "published_at": "2026-08-18T13:00:00.000Z"
   },
@@ -544,18 +528,42 @@
     "published_at": "2026-08-18T13:00:00.000Z"
   },
   {
-    "headline": "Meet Samantha, the Afghan Hound Who Will Probably Out-Dress You",
-    "summary": "I’ve got to be honest with you: I cannot take my eyes off of Samantha’s hair.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/samantha-stylish-afghan-hound-dogue-2026",
-    "image_url": null,
-    "published_at": "2026-08-18T13:00:00.000Z"
-  },
-  {
     "headline": "Puppy Love! 11 Times Dogs Served as Witness for Their Parents’ Vogue Wedding",
     "summary": "Here are all the times dogs gave their paw of approval to their parents’ nuptials in Vogue.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/slideshow/dogs-in-vogue-weddings-dogue-2026",
+    "image_url": null,
+    "published_at": "2026-08-18T13:00:00.000Z"
+  },
+  {
+    "headline": "A Bad Bunny and a Beagle Walk Into a Restaurant…",
+    "summary": "After wrapping his eight-month-long Debí Tirar Más Fotos World Tour, Bad Bunny had one thing left to do: an Italian dinner date with his beagle, Sansa.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/bad-bunny-dogue-2026",
+    "image_url": null,
+    "published_at": "2026-08-18T13:00:00.000Z"
+  },
+  {
+    "headline": "Lena Dunham’s Hairless Dogs Have Taught Her to Keep Calm and Carry On",
+    "summary": "“I sometimes joke that Ingrid is my dog and Cornichon is her dog,” Dunham says of her two pooches.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/lena-dunham-dogue-2026",
+    "image_url": null,
+    "published_at": "2026-08-18T13:00:00.000Z"
+  },
+  {
+    "headline": "The Best Part of Riding the Subway Is a Chance Encounter With a Subway Dog",
+    "summary": "Uptown or downtown, express or local, an unexpected benefit of New York’s public transit system is coming face-to-face with a four-legged friend.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/subway-dogs-dogue-2026",
+    "image_url": null,
+    "published_at": "2026-08-18T13:00:00.000Z"
+  },
+  {
+    "headline": "The 2026 Dogue Competition Winner is Here!",
+    "summary": "We’ve combed through thousands of submissions, and one thing is clear–whether tail wagging or subtly smizing, Vogue Dogues sure know their angles. Who would emerge the winner was less obvious.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/dogue-2026-competition-winner",
     "image_url": null,
     "published_at": "2026-08-18T13:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://wwd.com/pop-culture/celebrity-news/sadie-sink-alexander-mcqueen-gown-disneys-showcase-1239125986/",
     "image_url": null,
     "published_at": "2026-08-15T16:04:17.000Z"
-  },
-  {
-    "headline": "Michael Jordan’s Most Popular Air Jordan Is Getting a New Jackie Robinson Tribute Style",
-    "summary": "The Air Jordan 4 will be released in a new colorway paying tribute to the legendary Jackie Robinson.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-4-retro-og-jackie-robinson-release-date-jj9189-101-1239125989/",
-    "image_url": null,
-    "published_at": "2026-08-15T15:54:23.000Z"
   }
 ]
