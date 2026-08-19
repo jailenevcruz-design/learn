@@ -1,11 +1,19 @@
 [
   {
-    "headline": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
-    "summary": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,' \" prosecutors said.",
+    "headline": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
+    "summary": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
+    "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
     "image_url": null,
-    "published_at": "2026-08-19T18:07:40.000Z"
+    "published_at": "2026-08-19T19:02:50.000Z"
+  },
+  {
+    "headline": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
+    "image_url": null,
+    "published_at": "2026-08-19T18:58:48.000Z"
   },
   {
     "headline": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
@@ -13,15 +21,15 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
     "image_url": null,
-    "published_at": "2026-08-19T18:07:21.000Z"
+    "published_at": "2026-08-19T18:54:50.000Z"
   },
   {
-    "headline": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-    "summary": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
+    "headline": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case",
+    "summary": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,'\" prosecutors said.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+    "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
     "image_url": null,
-    "published_at": "2026-08-19T18:06:04.000Z"
+    "published_at": "2026-08-19T18:54:04.000Z"
   },
   {
     "headline": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/cyclospora-outbreak-sweetgreen-ceo.html",
     "image_url": null,
     "published_at": "2026-08-13T13:31:09.000Z"
-  },
-  {
-    "headline": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-    "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
-    "image_url": null,
-    "published_at": "2026-08-13T13:18:36.000Z"
   }
 ]

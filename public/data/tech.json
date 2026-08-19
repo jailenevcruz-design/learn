@@ -1,5 +1,45 @@
 [
   {
+    "headline": "AI was supposed to win people over by now — it hasn’t",
+    "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "image_url": null,
+    "published_at": "2026-08-19T19:11:40.000Z"
+  },
+  {
+    "headline": "Google Gemini is getting a dedicated student hub",
+    "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "image_url": null,
+    "published_at": "2026-08-19T19:00:00.000Z"
+  },
+  {
+    "headline": "Google packs Search and Gemini with new AI study tools",
+    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "image_url": null,
+    "published_at": "2026-08-19T19:00:00.000Z"
+  },
+  {
+    "headline": "Researchers say OpenAI revoked their access to limited cyber program",
+    "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "image_url": null,
+    "published_at": "2026-08-19T18:46:14.000Z"
+  },
+  {
+    "headline": "Watch Valve set up the Steam Frame in its own leaked videos",
+    "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hardware Updates account on X. The Steam Frame is Valve's virtual…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
+    "image_url": null,
+    "published_at": "2026-08-19T18:16:27.000Z"
+  },
+  {
     "headline": "The wearable future is stuck in weird, experimental, existential limbo",
     "summary": "AI on the wrist is one such experimental feature. This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past week, I've been testing the Google Pixel…",
     "publisher": "The Verge",
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
     "image_url": null,
     "published_at": "2026-08-13T15:00:00.000Z"
-  },
-  {
-    "headline": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
-    "summary": "Going into my demo of Marvel's Wolverine, I mainly wanted to try out the game's very bloody combat. And it is delightfully bloody. But after two-ish hours of slashing and stabbing (and parrying!) enemies with Wolverine's claws, I left surprised - despite no previous attachment to the character, I was deeply endeared to…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
-    "image_url": null,
-    "published_at": "2026-08-13T15:00:00.000Z"
-  },
-  {
-    "headline": "Apple in talks to pay publishers to provide Siri with current news: report",
-    "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-    "image_url": null,
-    "published_at": "2026-08-13T14:34:43.000Z"
-  },
-  {
-    "headline": "Does Google even want to win at AI?",
-    "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the compa…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-    "image_url": null,
-    "published_at": "2026-08-13T14:10:31.000Z"
-  },
-  {
-    "headline": "In a first, US will allow some private firms to carry out cyberattacks",
-    "summary": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-    "image_url": null,
-    "published_at": "2026-08-13T14:09:05.000Z"
-  },
-  {
-    "headline": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
-    "summary": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. For years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with standalone seats instead of a bench in the second row. Parents groused that loading and un…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
-    "image_url": null,
-    "published_at": "2026-08-13T14:00:00.000Z"
   }
 ]

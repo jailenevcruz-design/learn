@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Jennie Takes McQueen’s ’90s Bumster Revival to Osaka’s Summer Sonic Music Festival in Hand-sprayed Lace",
+    "summary": "Across three custom looks, the Blackpink member added a high-neck harness and cropped jackets finished with cutout and pearl-embroidered frogging.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/jennie-mcqueen-90s-bumsters-summer-sonic-2026-1239143479/",
+    "image_url": null,
+    "published_at": "2026-08-19T19:05:52.000Z"
+  },
+  {
+    "headline": "Inside Meadow Walker’s Modeling Career, From Givenchy Campaigns to Balenciaga Runways",
+    "summary": "The daughter of late actor Paul Walker has opened a Givenchy show and walked for Acne Studios, Balenciaga and more.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/meadow-walker-modeling-career-1239143055/",
+    "image_url": null,
+    "published_at": "2026-08-19T18:24:20.000Z"
+  },
+  {
+    "headline": "How Henry Smith Became Fashion’s Most Underrated Bag Collector",
+    "summary": "From a Chanel 1997 handbag to his Bottega Andiamo, an exclusive look inside TikTok influencer's Henry Smith’s enviable bag collection.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/henry-smith-influencer-bag-collection-interview",
+    "image_url": null,
+    "published_at": "2026-08-19T18:19:33.000Z"
+  },
+  {
     "headline": "Ariat Work to Outfit the Cleveland Browns Grounds Crew This Football Season",
     "summary": "This is Ariat's first partnership with an NFL team, and the first sports partnership specific to Ariat Work.",
     "publisher": "WWD",
@@ -232,14 +256,6 @@
     "published_at": "2026-08-19T13:15:00.000Z"
   },
   {
-    "headline": "Serena Williams Already Had Two Dogs—But Then She Picked Up Christopher ‘Chip’ Rafael Nadal",
-    "summary": "“He was my first son,” Serena Williams tells Vogue of her Yorkie, Chip.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/serena-williams-dogue-2026",
-    "image_url": null,
-    "published_at": "2026-08-19T13:00:00.000Z"
-  },
-  {
     "headline": "Sonny Bridges Is the Son of a Champion",
     "summary": "“He’s a good kid,” Mikal Bridges tells Vogue of his dog Sonny, who has been by his side from his college basketball days to the Knicks’ historic championship win.",
     "publisher": "Vogue",
@@ -248,26 +264,18 @@
     "published_at": "2026-08-19T13:00:00.000Z"
   },
   {
+    "headline": "Serena Williams Already Had Two Dogs—But Then She Picked Up Christopher ‘Chip’ Rafael Nadal",
+    "summary": "“He was my first son,” Serena Williams tells Vogue of her Yorkie, Chip.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/serena-williams-dogue-2026",
+    "image_url": null,
+    "published_at": "2026-08-19T13:00:00.000Z"
+  },
+  {
     "headline": "Blue Lagoon Skin Science’s Lip Renewal Mask Is Here",
     "summary": "Designed to address the visible signs of aging in the lip and lip contour area, the Lip Renewal Masks draws upon the healing properties of the Blue Lagoon to moisturize, soften, and plump the lips.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/blue-lagoon-skin-science-lip-mask",
-    "image_url": null,
-    "published_at": "2026-08-19T13:00:00.000Z"
-  },
-  {
-    "headline": "AGUA É by Myles Loftin: A Love Story in Paradise",
-    "summary": "Published by Pomegranate Press, Myles Loftin’s new zine brings together portraits, fashion, and landscapes from the Dominican Republic, exploring intimacy and desire through a contemporary love story.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/agua-e-by-myles-loftin-a-love-story-in-paradise",
-    "image_url": null,
-    "published_at": "2026-08-19T13:00:00.000Z"
-  },
-  {
-    "headline": "Kristen Bell on Saunas, Smart Beauty Routines, and Leaning Into Feelings",
-    "summary": "The “Nobody Wants This” and “Frozen” actor talks to Vogue about life and her new partnership with L’Oréal Paris.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/kristen-bell-beauty-interview-loreal",
     "image_url": null,
     "published_at": "2026-08-19T13:00:00.000Z"
   },
@@ -292,6 +300,22 @@
     "summary": "What does heartthrob Charles Melton love most about his adopted Siberian Husky? “She’s so expressive and soulful,” he says. “She’s my best friend.”",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/charles-melton-dogue-2026",
+    "image_url": null,
+    "published_at": "2026-08-19T13:00:00.000Z"
+  },
+  {
+    "headline": "AGUA É by Myles Loftin: A Love Story in Paradise",
+    "summary": "Published by Pomegranate Press, Myles Loftin’s new zine brings together portraits, fashion, and landscapes from the Dominican Republic, exploring intimacy and desire through a contemporary love story.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/agua-e-by-myles-loftin-a-love-story-in-paradise",
+    "image_url": null,
+    "published_at": "2026-08-19T13:00:00.000Z"
+  },
+  {
+    "headline": "Kristen Bell on Saunas, Smart Beauty Routines, and Leaning Into Feelings",
+    "summary": "The “Nobody Wants This” and “Frozen” actor talks to Vogue about life and her new partnership with L’Oréal Paris.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/kristen-bell-beauty-interview-loreal",
     "image_url": null,
     "published_at": "2026-08-19T13:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.vogue.com/article/final-fitting-jordyn-woods",
     "image_url": null,
     "published_at": "2026-08-17T14:06:20.000Z"
-  },
-  {
-    "headline": "Jessica Pegula Sees Why Tennis Has Become ‘Its Own Fashion Category’",
-    "summary": "The American athlete spoke with WWD about her Vital Proteins partnership, U.S. Open prep and more.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/jessica-pegula-interview-vital-proteins-us-open-fashion-1239123297/",
-    "image_url": null,
-    "published_at": "2026-08-17T14:00:00.000Z"
-  },
-  {
-    "headline": "Anne Hathaway’s Maternity Style Takes a Fluid Turn in Aflalo",
-    "summary": "The actress accepted her Disney Legends award at D23 on Sunday.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/anne-hathaway-aflalo-dress-d23-disney-legends-award-1239126443/",
-    "image_url": null,
-    "published_at": "2026-08-17T13:45:37.000Z"
-  },
-  {
-    "headline": "Wholesale Volumes Are Improving in the Middle East",
-    "summary": "Retailers' GMV increased 18 percent like-for-like in the first half of 2026, according to Joor.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/financial/middle-east-retail-business-conflict-1239126433/",
-    "image_url": null,
-    "published_at": "2026-08-17T13:40:47.000Z"
   }
 ]
