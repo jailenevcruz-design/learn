@@ -1,7 +1,47 @@
 [
   {
+    "headline": "Does giving a camera wings dodge the FCC’s drone ban?",
+    "summary": "It’s a camera. It’s a drone. But HoverAir doesn’t want it to be a drone where the FCC is concerned. | Image: HoverAir HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+    "image_url": null,
+    "published_at": "2026-08-19T22:35:20.000Z"
+  },
+  {
+    "headline": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+    "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+    "image_url": null,
+    "published_at": "2026-08-19T22:25:01.000Z"
+  },
+  {
+    "headline": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "image_url": null,
+    "published_at": "2026-08-19T22:10:46.000Z"
+  },
+  {
+    "headline": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "image_url": null,
+    "published_at": "2026-08-19T21:51:23.000Z"
+  },
+  {
+    "headline": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+    "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+    "image_url": null,
+    "published_at": "2026-08-19T21:48:24.000Z"
+  },
+  {
     "headline": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-    "summary": "AI-native account startup Rillet became a unicorn, led by ICONIQ, after it doubled its ARR in the past three months, it said.",
+    "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
     "image_url": null,
@@ -1558,45 +1598,5 @@
     "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
     "image_url": null,
     "published_at": "2026-08-13T16:10:06.000Z"
-  },
-  {
-    "headline": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-    "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-    "image_url": null,
-    "published_at": "2026-08-13T16:00:00.000Z"
-  },
-  {
-    "headline": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
-    "summary": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
-    "image_url": null,
-    "published_at": "2026-08-13T16:00:00.000Z"
-  },
-  {
-    "headline": "Suno is trying to look more like a real music production tool",
-    "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequis…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-    "image_url": null,
-    "published_at": "2026-08-13T16:00:00.000Z"
-  },
-  {
-    "headline": "Instagram introduces a redesigned wordmark",
-    "summary": "The social media giant says it was time for a sharper and more modern look after a decade.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-    "image_url": null,
-    "published_at": "2026-08-13T15:46:02.000Z"
-  },
-  {
-    "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "image_url": null,
-    "published_at": "2026-08-13T15:30:52.000Z"
   }
 ]

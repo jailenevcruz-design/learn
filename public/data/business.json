@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+    "summary": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+    "image_url": null,
+    "published_at": "2026-08-19T22:39:40.000Z"
+  },
+  {
+    "headline": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+    "summary": "",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
+    "image_url": null,
+    "published_at": "2026-08-19T22:34:33.000Z"
+  },
+  {
+    "headline": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+    "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+    "image_url": null,
+    "published_at": "2026-08-19T21:29:38.000Z"
+  },
+  {
+    "headline": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+    "summary": "The former Meta employee testified that the company culture prioritized user numbers over child safety measures.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+    "image_url": null,
+    "published_at": "2026-08-19T21:20:15.000Z"
+  },
+  {
+    "headline": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
+    "summary": "The move would likely impact hundreds of thousands of immigrants who have Social Security numbers and have received authorization to work in the U.S., experts said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/treasury-irs-refundable-tax-credits-immigrants.html",
+    "image_url": null,
+    "published_at": "2026-08-19T21:19:21.000Z"
+  },
+  {
     "headline": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
     "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
     "publisher": "CNBC",
@@ -8,28 +48,12 @@
     "published_at": "2026-08-19T21:05:31.000Z"
   },
   {
-    "headline": "U.S. government debt passes $40 trillion, more than doubling in a decade",
-    "summary": "",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
-    "image_url": null,
-    "published_at": "2026-08-19T21:01:13.000Z"
-  },
-  {
     "headline": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
     "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
     "image_url": null,
     "published_at": "2026-08-19T20:34:09.000Z"
-  },
-  {
-    "headline": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-    "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
-    "image_url": null,
-    "published_at": "2026-08-19T20:32:48.000Z"
   },
   {
     "headline": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
@@ -54,14 +78,6 @@
     "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
     "image_url": null,
     "published_at": "2026-08-19T20:09:39.000Z"
-  },
-  {
-    "headline": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
-    "summary": "The move would likely impact hundreds of thousands of immigrants who have Social Security numbers and have received authorization to work in the U.S., experts said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/treasury-irs-refundable-tax-credits-immigrants.html",
-    "image_url": null,
-    "published_at": "2026-08-19T20:08:49.000Z"
   },
   {
     "headline": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/top-energy-plays-for-the-rest-of-the-year-including-a-behind-the-meter-power-play.html",
     "image_url": null,
     "published_at": "2026-08-13T17:08:24.000Z"
-  },
-  {
-    "headline": "Democrats demand Trump reveal stock managers, explain suspicious trades",
-    "summary": "Warren and Garcia said they sought answers from Trump to inform their work on potential legislation to ban presidents from owning individual stocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/trump-stock-trades-warren-garcia.html",
-    "image_url": null,
-    "published_at": "2026-08-13T17:04:49.000Z"
-  },
-  {
-    "headline": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-    "summary": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-    "image_url": null,
-    "published_at": "2026-08-13T16:38:06.000Z"
   }
 ]
