@@ -1,5 +1,13 @@
 [
   {
+    "headline": "This high-speed star is whipping around the black hole in the middle of our galaxy",
+    "summary": "Researchers have identified a speed demon at the heart of the Milky Way. This fast-moving star may yield insights into the black hole parked at the center of our galaxy.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
+    "image_url": null,
+    "published_at": "2026-08-19T15:38:57.000Z"
+  },
+  {
     "headline": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
     "summary": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated…",
     "publisher": "ScienceDaily",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
     "image_url": null,
     "published_at": "2026-08-01T13:47:24.000Z"
-  },
-  {
-    "headline": "Tiny black holes may be secretly exploding stars across the Milky Way",
-    "summary": "Primordial black holes may occasionally pass through white dwarf stars and trigger enormous Type Ia supernova explosions. Researchers found that these events could explain chemical patterns seen in supernova remnants, nearby explosions, and stars across the Milky Way.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
-    "image_url": null,
-    "published_at": "2026-08-01T13:33:41.000Z"
   }
 ]
