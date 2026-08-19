@@ -1,11 +1,43 @@
 [
   {
+    "headline": "Target is set to report earnings before the bell. Here's what to expect",
+    "summary": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-19T10:06:56.000Z"
+  },
+  {
+    "headline": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
+    "summary": "Amazon has quietly expanded its drone service to more metro areas in recent months after receiving a key regulatory greenlight enabling longer-range deliveries.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html",
+    "image_url": null,
+    "published_at": "2026-08-19T10:00:01.000Z"
+  },
+  {
     "headline": "World’s largest olive oil company pops over 15% as rivals circle in takeover battle",
-    "summary": "Shares of Spain's Deoleo jumped nearly 16% on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
+    "summary": "Shares of Spain's Deoleo jumped on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
     "image_url": null,
-    "published_at": "2026-08-19T09:14:32.000Z"
+    "published_at": "2026-08-19T09:48:27.000Z"
+  },
+  {
+    "headline": "Dollar risks are mounting. Here’s what could weaken the greenback",
+    "summary": "Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
+    "image_url": null,
+    "published_at": "2026-08-19T09:32:56.000Z"
+  },
+  {
+    "headline": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+    "summary": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
+    "image_url": null,
+    "published_at": "2026-08-19T09:30:25.000Z"
   },
   {
     "headline": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
@@ -32,14 +64,6 @@
     "published_at": "2026-08-19T07:20:10.000Z"
   },
   {
-    "headline": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
-    "summary": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-    "image_url": null,
-    "published_at": "2026-08-19T07:06:09.000Z"
-  },
-  {
     "headline": "Goldman studied where AI is squeezing labor markets. Here's what it found",
     "summary": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
     "publisher": "CNBC",
@@ -54,14 +78,6 @@
     "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
     "image_url": null,
     "published_at": "2026-08-19T04:55:08.000Z"
-  },
-  {
-    "headline": "Target is set to report earnings before the bell. Here's what to expect",
-    "summary": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-19T04:01:01.000Z"
   },
   {
     "headline": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
@@ -110,6 +126,14 @@
     "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
     "image_url": null,
     "published_at": "2026-08-18T22:49:58.000Z"
+  },
+  {
+    "headline": "Jim Cramer says the market is too negative — and that’s creating buying opportunities",
+    "summary": "CNBC’s Jim Cramer said widespread pessimism over rising rates, oil prices and inflation is pushing stocks lower and creating attractive buying opportunities.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/18/jim-cramer-market-too-negative-buying-opportunities.html",
+    "image_url": null,
+    "published_at": "2026-08-18T22:23:36.000Z"
   },
   {
     "headline": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/global-funds-blackrock-modi-gift-city.html",
     "image_url": null,
     "published_at": "2026-08-13T00:15:59.000Z"
-  },
-  {
-    "headline": "Trump sued over Truth Social advance access sale",
-    "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
-    "image_url": null,
-    "published_at": "2026-08-13T00:13:21.000Z"
-  },
-  {
-    "headline": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
-    "summary": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
-    "image_url": null,
-    "published_at": "2026-08-12T23:41:02.000Z"
-  },
-  {
-    "headline": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair'",
-    "summary": "Novo Nordisk CEO defended the company's decision to sue rival Eli Lilly over its weight-loss drug advertising.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/novo-nordisk-ceo-defends-lawsuit-against-eli-lilly.html",
-    "image_url": null,
-    "published_at": "2026-08-12T22:53:21.000Z"
   }
 ]
