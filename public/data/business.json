@@ -1,27 +1,59 @@
 [
   {
+    "headline": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
+    "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-20T14:21:29.000Z"
+  },
+  {
+    "headline": "Where commercial real estate demand is the highest, according to new data",
+    "summary": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
+    "image_url": null,
+    "published_at": "2026-08-20T14:21:00.000Z"
+  },
+  {
+    "headline": "AI data center outrage is showing up everywhere from ads to elections",
+    "summary": "With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
+    "image_url": null,
+    "published_at": "2026-08-20T14:04:23.000Z"
+  },
+  {
+    "headline": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
+    "summary": "Bond yields edged higher after pulling back sharply during Wednesday's session.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+    "image_url": null,
+    "published_at": "2026-08-20T14:02:31.000Z"
+  },
+  {
+    "headline": "How Micron's $50 billion Boise buildout is reshaping its hometown",
+    "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+    "image_url": null,
+    "published_at": "2026-08-20T13:50:21.000Z"
+  },
+  {
+    "headline": "Alibaba shares fall 5% as AI spending drives 75% drop in net income",
+    "summary": "Alibaba's U.S. listed shares were volatile in premarket trading after posting a 75% drop in net income in the June quarter.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
+    "image_url": null,
+    "published_at": "2026-08-20T13:42:25.000Z"
+  },
+  {
     "headline": "How wealthy families can prepare for aging parents and avoid a succession crisis",
     "summary": "Relatively few wealthy families are addressing the question of when an aging parent should give up control, advisors and lawyers told CNBC.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
     "image_url": null,
     "published_at": "2026-08-20T13:34:59.000Z"
-  },
-  {
-    "headline": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
-    "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-20T13:32:32.000Z"
-  },
-  {
-    "headline": "Alibaba shares fall 6% as AI spending drives 75% drop in net income",
-    "summary": "Alibaba's U.S. listed shares were volatile in premarket trading after posting a 75% drop in net income in the June quarter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
-    "image_url": null,
-    "published_at": "2026-08-20T13:06:45.000Z"
   },
   {
     "headline": "Bitcoin surges 11% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
@@ -40,14 +72,6 @@
     "published_at": "2026-08-20T13:06:10.000Z"
   },
   {
-    "headline": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
-    "summary": "Bond yields edged higher after pulling back sharply during Wednesday's session.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-    "image_url": null,
-    "published_at": "2026-08-20T13:04:26.000Z"
-  },
-  {
     "headline": "Treasury proposes low-cost investment rules for Trump Accounts",
     "summary": "The Treasury Department has issued new Trump Account guidance, emphasizing low-cost investments.",
     "publisher": "CNBC",
@@ -62,14 +86,6 @@
     "url": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
     "image_url": null,
     "published_at": "2026-08-20T12:45:35.000Z"
-  },
-  {
-    "headline": "Where commercial real estate demand is the highest, according to new data",
-    "summary": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
-    "image_url": null,
-    "published_at": "2026-08-20T12:38:23.000Z"
   },
   {
     "headline": "Trump threatens 'Economic D-Day' for Iran and ‘tremendous’ consequences for its backers",
@@ -94,14 +110,6 @@
     "url": "https://www.cnbc.com/2026/08/20/chatgpt-for-teens-makes-safety-strides-but-do-they-work.html",
     "image_url": null,
     "published_at": "2026-08-20T11:15:17.000Z"
-  },
-  {
-    "headline": "How Micron's $50 billion Boise buildout is reshaping its hometown",
-    "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-    "image_url": null,
-    "published_at": "2026-08-20T11:00:01.000Z"
   },
   {
     "headline": "Workers can't agree if junior employees should use AI at work: CNBC survey",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
     "image_url": null,
     "published_at": "2026-08-14T12:17:42.000Z"
-  },
-  {
-    "headline": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
-    "summary": "Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks, and 'malicious insider' incidents also on the rise.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
-    "image_url": null,
-    "published_at": "2026-08-14T12:15:01.000Z"
   }
 ]

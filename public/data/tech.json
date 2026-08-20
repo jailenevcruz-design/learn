@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+    "summary": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+    "image_url": null,
+    "published_at": "2026-08-20T14:09:31.000Z"
+  },
+  {
+    "headline": "Here’s what data Comcast says its motion-detecting routers collect",
+    "summary": "Wi-Fi Motion is an opt-in service from Xfinity that turns your Gateway into a motion-sensing device. | Image: Comcast Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enab…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+    "image_url": null,
+    "published_at": "2026-08-20T14:00:22.000Z"
+  },
+  {
+    "headline": "FromSoftware can do anything",
+    "summary": "There's something just a little bit different about FromSoftware's office in Tokyo. Like with any other successful video game studio, there's extensive security to get in the door, a minimalist lobby with framed posters from the studio's most recent releases, and a large glass display case filled with statues from cere…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
+    "image_url": null,
+    "published_at": "2026-08-20T14:00:00.000Z"
+  },
+  {
+    "headline": "We played The Duskbloods, the Switch 2&#8217;s wildest new exclusive",
+    "summary": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through its gothic world at FromSoft's offices in…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
+    "image_url": null,
+    "published_at": "2026-08-20T14:00:00.000Z"
+  },
+  {
+    "headline": "Welcome to the AI crisis in math",
+    "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "image_url": null,
+    "published_at": "2026-08-20T14:00:00.000Z"
+  },
+  {
+    "headline": "This tiny guitar amp is the most unhinged distortion pedal I’ve ever used",
+    "summary": "It’s loud, brash, and unlike anything else. | Photo: Terrence O’Brien / The Verge Is Amp Crash a guitar amp or a guitar pedal? Yes. Death By Audio's latest is, in fact, both. While it's in a guitar pedal enclosure, Amp Crash is actually a tiny 3-watt amp hooked up to a 2-inch speaker. You can even connect an external s…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review",
+    "image_url": null,
+    "published_at": "2026-08-20T14:00:00.000Z"
+  },
+  {
+    "headline": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
+    "summary": "What's in the trunk of your car? Shopping bags? A spare tire? Jumper cables? What about a high-powered computer capable of performing up to one quadrillion operations a second? Only if you're Waymo. For the first time, Waymo revealed key details about the heavy compute \"brain\" housed in the trunk of its robotaxis, incl…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
+    "image_url": null,
+    "published_at": "2026-08-20T14:00:00.000Z"
+  },
+  {
+    "headline": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
+    "summary": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
+    "image_url": null,
+    "published_at": "2026-08-20T13:45:00.000Z"
+  },
+  {
     "headline": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
     "summary": "The DJI Osmo Pocket 4 Pro and Pocket 3, flanking my phone with the Osmosis app. | Photo by Sean Hollister / The Verge Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirele…",
     "publisher": "The Verge",
@@ -1534,69 +1598,5 @@
     "url": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
     "image_url": null,
     "published_at": "2026-08-14T08:40:13.000Z"
-  },
-  {
-    "headline": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-    "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential act…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-    "image_url": null,
-    "published_at": "2026-08-14T01:06:15.000Z"
-  },
-  {
-    "headline": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-    "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outside of the bounds\" o…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
-    "image_url": null,
-    "published_at": "2026-08-13T23:13:24.000Z"
-  },
-  {
-    "headline": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-    "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-    "image_url": null,
-    "published_at": "2026-08-13T22:12:40.000Z"
-  },
-  {
-    "headline": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-    "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-    "image_url": null,
-    "published_at": "2026-08-13T22:02:04.000Z"
-  },
-  {
-    "headline": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
-    "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously d…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
-    "image_url": null,
-    "published_at": "2026-08-13T21:53:04.000Z"
-  },
-  {
-    "headline": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-    "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-    "image_url": null,
-    "published_at": "2026-08-13T21:50:11.000Z"
-  },
-  {
-    "headline": "The fight over Flock and other ALPRs",
-    "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people’s movements thr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
-    "image_url": null,
-    "published_at": "2026-08-13T21:46:21.000Z"
-  },
-  {
-    "headline": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "summary": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWir…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-    "image_url": null,
-    "published_at": "2026-08-13T21:42:38.000Z"
   }
 ]
