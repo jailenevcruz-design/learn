@@ -5,15 +5,47 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
     "image_url": null,
-    "published_at": "2026-08-20T16:14:24.000Z"
+    "published_at": "2026-08-20T17:14:52.000Z"
   },
   {
-    "headline": "Oil prices rise 3% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
+    "headline": "Three things to know about the $40 trillion federal debt",
+    "summary": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
+    "image_url": null,
+    "published_at": "2026-08-20T16:50:41.000Z"
+  },
+  {
+    "headline": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+    "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
+    "image_url": null,
+    "published_at": "2026-08-20T16:42:56.000Z"
+  },
+  {
+    "headline": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
     "summary": "Oil moved higher Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
     "image_url": null,
-    "published_at": "2026-08-20T16:11:31.000Z"
+    "published_at": "2026-08-20T16:41:23.000Z"
+  },
+  {
+    "headline": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
+    "summary": "AI has changed jobs and businesses, but it's also creating bottlenecks, confusion and downright awkward encounters for humans in the workplace.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
+    "image_url": null,
+    "published_at": "2026-08-20T16:30:01.000Z"
+  },
+  {
+    "headline": "U.S. sports fans spend about $2,000 a year on their favorite teams—many find themselves in debt as a result",
+    "summary": "As football season approaches, many Americans are planning to take on debt to pay for tickets, memorabilia, parlays and more.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
+    "image_url": null,
+    "published_at": "2026-08-20T16:15:01.000Z"
   },
   {
     "headline": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
@@ -78,14 +110,6 @@
     "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
     "image_url": null,
     "published_at": "2026-08-20T15:35:33.000Z"
-  },
-  {
-    "headline": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-    "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-    "image_url": null,
-    "published_at": "2026-08-20T15:32:04.000Z"
   },
   {
     "headline": "Where commercial real estate demand is the highest, according to new data",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
     "image_url": null,
     "published_at": "2026-08-14T15:22:00.000Z"
-  },
-  {
-    "headline": "We're buying more shares of a recent spin-off that has great long-term prospects",
-    "summary": "The stock has hit a rough patch since reporting a noisy quarter back in June, as is typical of companies that were spun out.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/were-buying-more-shares-of-a-recent-spin-off-that-has-great-long-term-prospects.html",
-    "image_url": null,
-    "published_at": "2026-08-14T15:07:25.000Z"
-  },
-  {
-    "headline": "Housing investors say this is their worst market in at least 3 years",
-    "summary": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
-    "image_url": null,
-    "published_at": "2026-08-14T15:02:26.000Z"
-  },
-  {
-    "headline": "We learned 5 important things about the economy this week",
-    "summary": "From inflation, to credit card debt, to who's actually doing the spending: These are key takeaways from this week in economic news.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-    "image_url": null,
-    "published_at": "2026-08-14T14:47:15.000Z"
   }
 ]

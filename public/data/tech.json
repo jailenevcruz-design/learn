@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+    "summary": "The 2023 Framework Laptop 13 with AMD Ryzen 7040-series chips. | Photo by Amelia Holowaty Krales / The Verge Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+    "image_url": null,
+    "published_at": "2026-08-20T17:16:02.000Z"
+  },
+  {
+    "headline": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+    "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+    "image_url": null,
+    "published_at": "2026-08-20T17:04:53.000Z"
+  },
+  {
+    "headline": "Ramp launches its own AI model router, called Router",
+    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "image_url": null,
+    "published_at": "2026-08-20T16:46:00.000Z"
+  },
+  {
+    "headline": "Senators demand answers from TikTok over experiment that disabled safeguards",
+    "summary": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
+    "image_url": null,
+    "published_at": "2026-08-20T16:22:19.000Z"
+  },
+  {
     "headline": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
     "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
     "publisher": "TechCrunch",
@@ -25,7 +57,7 @@
   },
   {
     "headline": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable power plant.",
+    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
     "image_url": null,
@@ -185,7 +217,7 @@
   },
   {
     "headline": "Meta AI’s new Mac app wants you to talk to your apps",
-    "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+    "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
     "image_url": null,
@@ -1566,37 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
     "image_url": null,
     "published_at": "2026-08-14T16:21:04.000Z"
-  },
-  {
-    "headline": "Google will now allow users to remove visible watermark from its AI generations",
-    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "image_url": null,
-    "published_at": "2026-08-14T16:13:40.000Z"
-  },
-  {
-    "headline": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than contr…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "image_url": null,
-    "published_at": "2026-08-14T15:43:28.000Z"
-  },
-  {
-    "headline": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-    "summary": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-    "image_url": null,
-    "published_at": "2026-08-14T14:54:48.000Z"
-  },
-  {
-    "headline": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
-    "summary": "For RPG fans who dig Persona-style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33. This praise might come off sounding weird, but I really like that Sandfall Interactive’s breakout hit isn’t overly long compared to RPGs it was ins…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-14T14:50:25.000Z"
   }
 ]
