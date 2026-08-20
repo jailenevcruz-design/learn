@@ -1,5 +1,21 @@
 [
   {
+    "headline": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
+    "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+    "image_url": null,
+    "published_at": "2026-08-20T21:08:34.000Z"
+  },
+  {
+    "headline": "Ok, can we actually cool data centers with our pee?",
+    "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+    "image_url": null,
+    "published_at": "2026-08-20T20:53:13.000Z"
+  },
+  {
     "headline": "Someone targeted security researchers using a fake crypto conference as a lure",
     "summary": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
     "publisher": "TechCrunch",
@@ -185,7 +201,7 @@
   },
   {
     "headline": "It’s Greg Brockman’s OpenAI now",
-    "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of execu…",
+    "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of execut…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
     "image_url": null,
@@ -1582,21 +1598,5 @@
     "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
     "image_url": null,
     "published_at": "2026-08-15T13:00:00.000Z"
-  },
-  {
-    "headline": "We’re reaching peak camera with the Sony A7R VI",
-    "summary": "Maximum camera. | Photo: Antonio G. Di Benedetto / The Verge It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. Sony's latest flagship high-res camera is a 66.8-megapixel spec monster. In addition to its modest bum…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
-    "image_url": null,
-    "published_at": "2026-08-15T12:00:00.000Z"
-  },
-  {
-    "headline": "The surprise must-see movie of the summer",
-    "summary": "Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Will Ferrell and Fabrizio Romano and Heather Cox Richardso…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
-    "image_url": null,
-    "published_at": "2026-08-15T12:00:00.000Z"
   }
 ]
