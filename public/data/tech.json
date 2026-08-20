@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Someone targeted security researchers using a fake crypto conference as a lure",
+    "summary": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+    "image_url": null,
+    "published_at": "2026-08-20T20:00:00.000Z"
+  },
+  {
+    "headline": "Riot is ending development on its League of Legends fighting game",
+    "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen enough players stick with the game to get to a path toward sustainability.\" Serve…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
+    "image_url": null,
+    "published_at": "2026-08-20T19:59:09.000Z"
+  },
+  {
+    "headline": "Mark buys a castle",
+    "summary": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+    "image_url": null,
+    "published_at": "2026-08-20T19:55:40.000Z"
+  },
+  {
+    "headline": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
+    "summary": "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market today. Right off the bat, the coach-style doors signal that things aren't what they seem with the GV90. When the front a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+    "image_url": null,
+    "published_at": "2026-08-20T19:52:57.000Z"
+  },
+  {
     "headline": "Google gives publishers a new way to fight AI-driven traffic losses",
     "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
     "publisher": "TechCrunch",
@@ -8,7 +40,7 @@
     "published_at": "2026-08-20T19:18:21.000Z"
   },
   {
-    "headline": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+    "headline": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
     "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
@@ -17,7 +49,7 @@
   },
   {
     "headline": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-    "summary": "The $1 billion Series C was co-led by Andreessen Horowitz, Carlyle, and JP Morgan Chase.",
+    "summary": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
     "image_url": null,
@@ -1566,37 +1598,5 @@
     "url": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
     "image_url": null,
     "published_at": "2026-08-15T12:00:00.000Z"
-  },
-  {
-    "headline": "When housing is unaffordable, this artist’s device makes pedaling harder",
-    "summary": "Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would hold. He started working for the food delivery apps, and as he was riding his bike a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
-    "image_url": null,
-    "published_at": "2026-08-15T11:00:00.000Z"
-  },
-  {
-    "headline": "Talks to sell PayPal to Stripe and Advent are heating up",
-    "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-    "image_url": null,
-    "published_at": "2026-08-14T22:43:24.000Z"
-  },
-  {
-    "headline": "Self-driving trucks are officially testing on California highways",
-    "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-    "image_url": null,
-    "published_at": "2026-08-14T20:37:49.000Z"
-  },
-  {
-    "headline": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-    "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-    "image_url": null,
-    "published_at": "2026-08-14T19:33:00.000Z"
   }
 ]
