@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+    "summary": "The potential capacity increase would be part of Hyundai's plan to invest $26 billion in the U.S. through 2028, Hyundai CEO José Muñoz told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
+    "image_url": null,
+    "published_at": "2026-08-20T21:54:59.000Z"
+  },
+  {
+    "headline": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+    "summary": "Bessent’s effort to tamp down long-term Treasury yields could force Warsh to clarify how far the Fed should go in coordinating on bonds and the balance sheet.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+    "image_url": null,
+    "published_at": "2026-08-20T21:53:44.000Z"
+  },
+  {
     "headline": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
     "summary": "Market experts showed skepticism at whether the push would succeed against a bevy of factors working against Treasurys.",
     "publisher": "CNBC",
@@ -8,28 +24,12 @@
     "published_at": "2026-08-20T21:13:14.000Z"
   },
   {
-    "headline": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
-    "summary": "The potential capacity increase would be part of Hyundai's plan to invest $26 billion in the U.S. through 2028, Hyundai CEO José Muñoz told CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-    "image_url": null,
-    "published_at": "2026-08-20T21:10:08.000Z"
-  },
-  {
     "headline": "The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth",
     "summary": "The pending $12.5 billion Lakers sale would lift CNBC’s average NBA team valuation 21% to $6.68 billion, with the Warriors still No. 1.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
     "image_url": null,
     "published_at": "2026-08-20T20:28:21.000Z"
-  },
-  {
-    "headline": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
-    "summary": "Bessent’s effort to tamp down long-term Treasury yields could force Warsh to clarify how far the Fed should go in coordinating on bonds and the balance sheet.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
-    "image_url": null,
-    "published_at": "2026-08-20T20:02:18.000Z"
   },
   {
     "headline": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
@@ -120,7 +120,7 @@
     "published_at": "2026-08-20T17:19:03.000Z"
   },
   {
-    "headline": "Three things to know about the $40 trillion federal debt",
+    "headline": "3 things to know about the $40 trillion federal debt",
     "summary": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",

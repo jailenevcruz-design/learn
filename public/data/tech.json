@@ -1,5 +1,21 @@
 [
   {
+    "headline": "ChatGPT can now send texts for you with new Apple Messages plugin",
+    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "image_url": null,
+    "published_at": "2026-08-20T22:09:51.000Z"
+  },
+  {
+    "headline": "Google Discover is getting an AI chatbot-tuned feed",
+    "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your Dis…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "image_url": null,
+    "published_at": "2026-08-20T21:50:22.000Z"
+  },
+  {
     "headline": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
     "summary": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
     "publisher": "TechCrunch",
@@ -8,8 +24,8 @@
     "published_at": "2026-08-20T21:08:34.000Z"
   },
   {
-    "headline": "Ok, can we actually cool data centers with our pee?",
-    "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+    "headline": "OK, can we actually cool data centers with our pee?",
+    "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
     "image_url": null,
@@ -1582,21 +1598,5 @@
     "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
     "image_url": null,
     "published_at": "2026-08-15T14:03:14.000Z"
-  },
-  {
-    "headline": "Every fusion startup that has raised over $100M",
-    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-    "image_url": null,
-    "published_at": "2026-08-15T13:15:20.000Z"
-  },
-  {
-    "headline": "Xteink’s tiny e-readers are getting access to free books through Libby",
-    "summary": "New plugin support for CrossPoint Reader lets Xteink’s devices access DRM-protected ebooks. One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with X…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
-    "image_url": null,
-    "published_at": "2026-08-15T13:00:00.000Z"
   }
 ]
