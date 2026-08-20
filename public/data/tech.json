@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "image_url": null,
+    "published_at": "2026-08-20T16:07:26.000Z"
+  },
+  {
+    "headline": "The 2026 Startup Battlefield 200 is here — see who made the cut",
+    "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
+    "image_url": null,
+    "published_at": "2026-08-20T16:00:00.000Z"
+  },
+  {
+    "headline": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
+    "summary": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
+    "image_url": null,
+    "published_at": "2026-08-20T16:00:00.000Z"
+  },
+  {
+    "headline": "Inertia Enterprises finds a way to make its fusion fuel fast",
+    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable power plant.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+    "image_url": null,
+    "published_at": "2026-08-20T16:00:00.000Z"
+  },
+  {
+    "headline": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
+    "image_url": null,
+    "published_at": "2026-08-20T15:53:49.000Z"
+  },
+  {
+    "headline": "It’s Greg Brockman’s OpenAI now",
+    "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of execu…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "image_url": null,
+    "published_at": "2026-08-20T15:45:55.000Z"
+  },
+  {
+    "headline": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+    "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one of five colors! This is a massive waste…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+    "image_url": null,
+    "published_at": "2026-08-20T15:30:34.000Z"
+  },
+  {
     "headline": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
     "summary": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of the Thursday,…",
     "publisher": "The Verge",
@@ -105,7 +161,7 @@
   },
   {
     "headline": "For a16z, AI gives foreign founders an advantage",
-    "summary": "a16z’s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley,\" is an advantage, the firm believes.",
+    "summary": "a16z’s Borderless Founder network initiative supports immigrant and international founders. \"Having one foot in your home country, and one foot in Silicon Valley\" is an advantage, the firm believes.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
     "image_url": null,
@@ -185,7 +241,7 @@
   },
   {
     "headline": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
     "image_url": null,
@@ -1542,61 +1598,5 @@
     "url": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
     "image_url": null,
     "published_at": "2026-08-14T14:50:25.000Z"
-  },
-  {
-    "headline": "Kog is going deeper to squeeze more inference out of GPUs",
-    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "image_url": null,
-    "published_at": "2026-08-14T14:50:11.000Z"
-  },
-  {
-    "headline": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "image_url": null,
-    "published_at": "2026-08-14T14:05:00.000Z"
-  },
-  {
-    "headline": "US courts will start publishing how often the government uses spyware",
-    "summary": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
-    "image_url": null,
-    "published_at": "2026-08-14T13:29:04.000Z"
-  },
-  {
-    "headline": "CMF&#8217;s clip earbuds hit the balance between cheap and good",
-    "summary": "The Clip Pro are the first clip-style earbuds from CMF, Nothing’s budget sub-brand. Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is g…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
-    "image_url": null,
-    "published_at": "2026-08-14T12:00:00.000Z"
-  },
-  {
-    "headline": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
-    "summary": "The Claw EX. I rather like the purple. 3D-printed stand not included. As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most pow…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
-    "image_url": null,
-    "published_at": "2026-08-14T11:00:00.000Z"
-  },
-  {
-    "headline": "Hoto’s new cordless soldering iron heats up in three seconds",
-    "summary": "Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can heat to just over 200 degrees Celsius in about three seconds and offers an adjustable temperature r…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
-    "image_url": null,
-    "published_at": "2026-08-14T11:00:00.000Z"
-  },
-  {
-    "headline": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-    "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-    "image_url": null,
-    "published_at": "2026-08-14T10:44:30.000Z"
   }
 ]
