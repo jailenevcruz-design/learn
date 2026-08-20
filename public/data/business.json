@@ -1,11 +1,75 @@
 [
   {
-    "headline": "Trump scaling down U.S.-South Korea drills risks more than just joint military readiness",
+    "headline": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
+    "summary": "Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
+    "image_url": null,
+    "published_at": "2026-08-20T09:02:11.000Z"
+  },
+  {
+    "headline": "The bond market is signaling trouble ahead. This is why you should pay attention",
+    "summary": "Many people don't pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+    "image_url": null,
+    "published_at": "2026-08-20T09:00:00.000Z"
+  },
+  {
+    "headline": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+    "summary": "Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
+    "image_url": null,
+    "published_at": "2026-08-20T08:41:41.000Z"
+  },
+  {
+    "headline": "Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources",
+    "summary": "Somali piracy incidents have resurged in the Red Sea region in recent times, especially since the U.S.-Iran war kicked off-major concern for shipping companies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/somali-pirates-return-iran-war.html",
+    "image_url": null,
+    "published_at": "2026-08-20T08:15:38.000Z"
+  },
+  {
+    "headline": "Hong Kong’s IPO boom extends beyond tech, HKEX CEO says, as fundraising tops $40 billion",
+    "summary": "Chan said firms from sectors like biotechnology, mining, and consumer companies are also in the pipeline.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/hong-kong-ipo-hkex-bonnie-chan-investors.html",
+    "image_url": null,
+    "published_at": "2026-08-20T08:08:39.000Z"
+  },
+  {
+    "headline": "Trump scaling down U.S.-South Korea drills could risk more than just joint military readiness",
     "summary": "The move by Trump also will start to raise questions about the credibility of Washington's commitment to alliances.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html",
     "image_url": null,
-    "published_at": "2026-08-20T05:56:27.000Z"
+    "published_at": "2026-08-20T07:44:23.000Z"
+  },
+  {
+    "headline": "Chinese court sentences founder of property developer Evergrande to life in prison",
+    "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+    "image_url": null,
+    "published_at": "2026-08-20T07:31:55.000Z"
+  },
+  {
+    "headline": "Singapore's Temasek is on a hot streak in India as three bets surge after IPOs",
+    "summary": "Three of Singapore state investor Temasek's portfolio companies in India have jumped more than 30% in listings this week after contrarian bets in the country.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/singapore-temasek-india-foreign-shiprocket-milky-mist.html",
+    "image_url": null,
+    "published_at": "2026-08-20T06:57:50.000Z"
+  },
+  {
+    "headline": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+    "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+    "image_url": null,
+    "published_at": "2026-08-20T06:36:29.000Z"
   },
   {
     "headline": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
@@ -14,6 +78,14 @@
     "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
     "image_url": null,
     "published_at": "2026-08-20T05:29:50.000Z"
+  },
+  {
+    "headline": "Walmart will report second-quarter earnings before the bell. Here's what to expect",
+    "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+    "image_url": null,
+    "published_at": "2026-08-20T04:01:01.000Z"
   },
   {
     "headline": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
@@ -32,28 +104,12 @@
     "published_at": "2026-08-20T03:14:30.000Z"
   },
   {
-    "headline": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
-    "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-    "image_url": null,
-    "published_at": "2026-08-20T02:49:15.000Z"
-  },
-  {
     "headline": "China is defying the global bond yield surge, boosting its diversification appeal",
     "summary": "Chinese government bond yields have remained low amid a global surge.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
     "image_url": null,
     "published_at": "2026-08-20T02:39:14.000Z"
-  },
-  {
-    "headline": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-    "summary": "Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
-    "image_url": null,
-    "published_at": "2026-08-20T00:30:32.000Z"
   },
   {
     "headline": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
@@ -1542,61 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
     "image_url": null,
     "published_at": "2026-08-13T21:31:44.000Z"
-  },
-  {
-    "headline": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
-    "summary": "As Tim Cook gets set to step down as Apple CEO, he's offering a glimpse into what he may be doing as chairman.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
-    "image_url": null,
-    "published_at": "2026-08-13T21:23:35.000Z"
-  },
-  {
-    "headline": "UConn women's coach Geno Auriemma says WNBA should shift focus away from transgender debate",
-    "summary": "Geno Auriemma said the WNBA should steer attention away from the transgender athlete debate and focus more on basketball.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/uconn-coach-geno-auriemma-wnba-trans-debate.html",
-    "image_url": null,
-    "published_at": "2026-08-13T21:21:32.000Z"
-  },
-  {
-    "headline": "Businesses feel the strain as the deadline for Trump's 50% Canadian tariff approaches",
-    "summary": "If President Trump's threatened 50% tariffs go through later this month, construction businesses that rely on materials imported from Canada are among those that will suffer.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/13/nx-s1-5927326-e1/businesses-feel-the-strain-as-the-deadline-for-trumps-50-canadian-tariff-approaches",
-    "image_url": null,
-    "published_at": "2026-08-13T21:08:14.000Z"
-  },
-  {
-    "headline": "Kennedy Center board votes to put Trump name on facade despite court order",
-    "summary": "President Donald Trump's name was removed from the Washington, D.C., performing arts center in June as the result of a lawsuit by an Ohio congresswoman.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html",
-    "image_url": null,
-    "published_at": "2026-08-13T21:00:56.000Z"
-  },
-  {
-    "headline": "Cisco shares slide 8% despite earnings beat and stronger-than-expected guidance",
-    "summary": "Cisco is showing booming demand for AI infrastructure, but its results weren't good enough to satisfy investors.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
-    "image_url": null,
-    "published_at": "2026-08-13T20:57:31.000Z"
-  },
-  {
-    "headline": "These charts show why stocks keep rallying. Profit margins are the highest on record",
-    "summary": "Recent FactSet data show that the rise in earnings is not coming from sales growth alone.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-    "image_url": null,
-    "published_at": "2026-08-13T20:21:51.000Z"
-  },
-  {
-    "headline": "Workday shares post best day in 10 years on Silver Lake takeover report",
-    "summary": "Workday investors have been on edge over the prospect of AI disrupting its business model",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
-    "image_url": null,
-    "published_at": "2026-08-13T20:07:24.000Z"
   }
 ]
