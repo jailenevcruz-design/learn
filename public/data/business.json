@@ -1,11 +1,35 @@
 [
   {
+    "headline": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+    "summary": "Shares of SK Hynix surged over 12% in Seoul after the company announced a massive stock buyback.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+    "image_url": null,
+    "published_at": "2026-08-20T03:30:54.000Z"
+  },
+  {
+    "headline": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
+    "summary": "The GV90 features a new design direction for Genesis and expands the Hyundai brand's lineup to seven vehicles in the U.S.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
+    "image_url": null,
+    "published_at": "2026-08-20T03:14:30.000Z"
+  },
+  {
     "headline": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
     "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
     "image_url": null,
-    "published_at": "2026-08-20T01:02:50.000Z"
+    "published_at": "2026-08-20T02:49:15.000Z"
+  },
+  {
+    "headline": "China is defying the global bond yield surge, boosting its diversification appeal",
+    "summary": "Chinese government bond yields have remained low amid a global surge.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+    "image_url": null,
+    "published_at": "2026-08-20T02:39:14.000Z"
   },
   {
     "headline": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
     "image_url": null,
     "published_at": "2026-08-13T19:59:46.000Z"
-  },
-  {
-    "headline": "Trade court upholds Trump's closure of 'de minimis' loophole",
-    "summary": "President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a \"BIG WIN.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
-    "image_url": null,
-    "published_at": "2026-08-13T19:56:06.000Z"
-  },
-  {
-    "headline": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
-    "summary": "This is an excerpt from the CNBC Investing Club's August Monthly Meeting, which was held Thursday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/cramer-how-words-of-wisdom-from-gene-hackman-help-me-make-peace-with-investing-mistakes.html",
-    "image_url": null,
-    "published_at": "2026-08-13T19:23:24.000Z"
-  },
-  {
-    "headline": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-    "summary": "Anthropic CFO Krishna Rao is leading early investor meetings, which have focused on big-picture themes like its Claude AI models, management and more.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
-    "image_url": null,
-    "published_at": "2026-08-13T18:44:12.000Z"
   }
 ]
