@@ -1,11 +1,35 @@
 [
   {
+    "headline": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation",
+    "summary": "Asia’s hydrogen train push may be less about rail and more about building a broader hydrogen economy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/asia-hydrogen-trains-green-transport.html",
+    "image_url": null,
+    "published_at": "2026-08-20T00:09:09.000Z"
+  },
+  {
+    "headline": "Japan exports growth accelerates for fifth straight month, beating estimates, on robust chip shipments",
+    "summary": "Exports growth accelerated for a fifth straight month coming in at 23.2%. Economists polled by Reuters had estimated growth at 19.9%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
+    "image_url": null,
+    "published_at": "2026-08-20T00:01:01.000Z"
+  },
+  {
     "headline": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
     "summary": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
     "image_url": null,
-    "published_at": "2026-08-19T22:39:40.000Z"
+    "published_at": "2026-08-19T23:57:47.000Z"
+  },
+  {
+    "headline": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+    "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+    "image_url": null,
+    "published_at": "2026-08-19T23:52:55.000Z"
   },
   {
     "headline": "U.S. government debt passes $40 trillion, more than doubling in a decade",
@@ -72,8 +96,8 @@
     "published_at": "2026-08-19T20:10:01.000Z"
   },
   {
-    "headline": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
-    "summary": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That's leading nervous investors to demand higher interest rates —pushing up borrowing costs for everyone else.",
+    "headline": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
+    "summary": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That's leading nervous investors to demand higher interest rates — pushing up borrowing costs for everyone else.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
     "image_url": null,
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
     "image_url": null,
     "published_at": "2026-08-13T18:02:01.000Z"
-  },
-  {
-    "headline": "Here's a rapid-fire update on our 32-stock portfolio, including Cramer's 5 favorites to buy",
-    "summary": "Jim Cramer's favorite stocks right now include a trio of chipmakers and a transportation giant.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/heres-a-rapid-fire-update-on-our-32-stock-portfolio-including-cramers-5-favorites-to-buy.html",
-    "image_url": null,
-    "published_at": "2026-08-13T17:53:51.000Z"
-  },
-  {
-    "headline": "Cerebras stock plunges 14% after second earnings report following IPO",
-    "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and raised its full-year guidance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-13T17:18:20.000Z"
-  },
-  {
-    "headline": "Top energy plays for the rest of the year... including a 'behind-the-meter' power play",
-    "summary": "We have a conversation with the CEO of a company leading the trend of 'behind-the-meter' power.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/top-energy-plays-for-the-rest-of-the-year-including-a-behind-the-meter-power-play.html",
-    "image_url": null,
-    "published_at": "2026-08-13T17:08:24.000Z"
   }
 ]
