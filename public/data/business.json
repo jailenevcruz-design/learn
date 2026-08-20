@@ -1,11 +1,51 @@
 [
   {
+    "headline": "Education Department recalculates student loan forgiveness counts, setting some PSLF borrowers back",
+    "summary": "Many borrowers pursuing Public Service Loan Forgiveness have recently learned that they're further away from debt cancellation than they'd expected.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html",
+    "image_url": null,
+    "published_at": "2026-08-20T19:13:04.000Z"
+  },
+  {
     "headline": "We're adding two new stocks to our Bullpen watchlist",
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/20/were-adding-two-new-stocks-to-our-bullpen-watchlist.html",
     "image_url": null,
-    "published_at": "2026-08-20T17:59:15.000Z"
+    "published_at": "2026-08-20T18:49:14.000Z"
+  },
+  {
+    "headline": "Here's how the Los Angeles Lakers' $12.5B sale impacts the value of all 30 NBA teams",
+    "summary": "",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
+    "image_url": null,
+    "published_at": "2026-08-20T18:34:15.000Z"
+  },
+  {
+    "headline": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+    "summary": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
+    "image_url": null,
+    "published_at": "2026-08-20T18:22:45.000Z"
+  },
+  {
+    "headline": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back",
+    "summary": "Iran's economy is deteriorating under the weight of mounting sanctions, but far from unraveling, a former adviser to Iran's central bank told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html",
+    "image_url": null,
+    "published_at": "2026-08-20T18:20:58.000Z"
+  },
+  {
+    "headline": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
+    "summary": "Oil moved higher Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
+    "image_url": null,
+    "published_at": "2026-08-20T18:19:22.000Z"
   },
   {
     "headline": "U.S. sports fans spend about $2,000 a year on their favorite teams—many find themselves in debt as a result",
@@ -14,14 +54,6 @@
     "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
     "image_url": null,
     "published_at": "2026-08-20T17:57:16.000Z"
-  },
-  {
-    "headline": "Here's how the Los Angeles Lakers' $12.5B sale impacts the value of all 30 NBA teams",
-    "summary": "",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
-    "image_url": null,
-    "published_at": "2026-08-20T17:53:34.000Z"
   },
   {
     "headline": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
@@ -38,14 +70,6 @@
     "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
     "image_url": null,
     "published_at": "2026-08-20T17:28:59.000Z"
-  },
-  {
-    "headline": "Education Department recalculates student loan forgiveness counts, setting some PSLF borrowers back",
-    "summary": "Many borrowers pursuing Public Service Loan Forgiveness have recently learned that they're further away from debt cancellation than they'd expected.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html",
-    "image_url": null,
-    "published_at": "2026-08-20T17:26:30.000Z"
   },
   {
     "headline": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
@@ -70,14 +94,6 @@
     "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
     "image_url": null,
     "published_at": "2026-08-20T16:42:56.000Z"
-  },
-  {
-    "headline": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
-    "summary": "Oil moved higher Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
-    "image_url": null,
-    "published_at": "2026-08-20T16:41:23.000Z"
   },
   {
     "headline": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
@@ -240,14 +256,6 @@
     "published_at": "2026-08-20T08:41:41.000Z"
   },
   {
-    "headline": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back",
-    "summary": "Iran's economy is deteriorating under the weight of mounting sanctions, but far from unraveling, a former adviser to Iran's central bank told CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html",
-    "image_url": null,
-    "published_at": "2026-08-20T08:38:11.000Z"
-  },
-  {
     "headline": "Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources",
     "summary": "Somali piracy incidents have resurged in the Red Sea region in recent times, especially since the U.S.-Iran war kicked off-major concern for shipping companies.",
     "publisher": "CNBC",
@@ -382,14 +390,6 @@
     "url": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
     "image_url": null,
     "published_at": "2026-08-19T20:10:14.000Z"
-  },
-  {
-    "headline": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-    "summary": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
-    "image_url": null,
-    "published_at": "2026-08-19T20:10:01.000Z"
   },
   {
     "headline": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",

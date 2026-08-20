@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Wolf Kahn Foundation Opens New Space in NYC",
+    "summary": "A permanent home for the artist’s archives, MoMA PS1 is getting a new café, and which museum scored a sweet early Rothko?",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/wolf-kahn-foundation-opens-new-space-in-nyc/",
+    "image_url": null,
+    "published_at": "2026-08-20T19:16:30.000Z"
+  },
+  {
+    "headline": "After Leadership Shakeup, Telfair Museums Names Caitlín Doherty as Next Director",
+    "summary": "Doherty succeeds former executive director David Brenneman, who took the helm at Telfair Museums in 2024 following the sudden resignation of his predecessor, Benjamin T. Simmons.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/telfair-museums-caitlin-doherty-director-1234795409/",
+    "image_url": null,
+    "published_at": "2026-08-20T18:33:28.000Z"
+  },
+  {
     "headline": "Visitors to the Walker Art Center Encounter Olalekan Jeyifous’s Digital Artwork and Wrongly Brand It ‘AI Slop’",
     "summary": "“Simply prompting images and presenting the results as my artwork is fundamentally at odds with how I’ve always worked,” said the artist.",
     "publisher": "ARTnews",
@@ -56,7 +72,7 @@
     "published_at": "2026-08-20T13:30:00.000Z"
   },
   {
-    "headline": "Armory Shows Announces Two Museum Acquisition Prizes, Launching at September Fair",
+    "headline": "Armory Show Announces Two Museum Acquisition Prizes, Launching at September Fair",
     "summary": "The Pérez Art Museum Miami and the Bronx Museum of the Arts will acquire work for the permanent collection at the fair.",
     "publisher": "ARTnews",
     "url": "https://www.artnews.com/art-news/market/armory-show-acquisition-prizes-pamm-bronx-museum-1234795354/",
@@ -1582,21 +1598,5 @@
     "url": "https://www.artnews.com/art-news/news/australian-museum-returns-rapa-nui-ancestral-remains-easter-island-1234794357/",
     "image_url": null,
     "published_at": "2026-08-05T21:00:06.000Z"
-  },
-  {
-    "headline": "Fra Angelico’s Restored Fiesole Altarpiece Returns to Its Original Church Home After Blockbuster Museum Show",
-    "summary": "The repaired altarpiece heads to the Church of San Domenico, just north of Florence.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/fra-angelico-fiesole-altarpiece-blockbuster-museum-show-1234794348/",
-    "image_url": null,
-    "published_at": "2026-08-05T20:56:04.000Z"
-  },
-  {
-    "headline": "Remembering Milan Knížák, Simone Forti, and Francisco Correa Cordero",
-    "summary": "This week, we honor a Czech Fluxus artist, a pioneering choreographer, and a promising gallery director.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/remembering-milan-knizak-simone-forti-and-francisco-correa-cordero/",
-    "image_url": null,
-    "published_at": "2026-08-05T20:55:13.000Z"
   }
 ]
