@@ -1,11 +1,59 @@
 [
   {
+    "headline": "We're adding two new stocks to our Bullpen watchlist",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/were-adding-two-new-stocks-to-our-bullpen-watchlist.html",
+    "image_url": null,
+    "published_at": "2026-08-20T17:59:15.000Z"
+  },
+  {
+    "headline": "U.S. sports fans spend about $2,000 a year on their favorite teams—many find themselves in debt as a result",
+    "summary": "As football season approaches, many Americans are planning to take on debt to pay for tickets, memorabilia, parlays and more.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
+    "image_url": null,
+    "published_at": "2026-08-20T17:57:16.000Z"
+  },
+  {
+    "headline": "Here's how the Los Angeles Lakers' $12.5B sale impacts the value of all 30 NBA teams",
+    "summary": "",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
+    "image_url": null,
+    "published_at": "2026-08-20T17:53:34.000Z"
+  },
+  {
+    "headline": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
+    "summary": "AI has changed jobs and businesses, but it's also creating bottlenecks, confusion and downright awkward encounters for humans in the workplace.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
+    "image_url": null,
+    "published_at": "2026-08-20T17:47:32.000Z"
+  },
+  {
+    "headline": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
+    "summary": "Private equity firm Arctos has agreed to buy 10% of the Atlanta Falcons in a deal with an enterprise value of $10.6 billion, two sources told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
+    "image_url": null,
+    "published_at": "2026-08-20T17:28:59.000Z"
+  },
+  {
+    "headline": "Education Department recalculates student loan forgiveness counts, setting some PSLF borrowers back",
+    "summary": "Many borrowers pursuing Public Service Loan Forgiveness have recently learned that they're further away from debt cancellation than they'd expected.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html",
+    "image_url": null,
+    "published_at": "2026-08-20T17:26:30.000Z"
+  },
+  {
     "headline": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
     "summary": "Bessent and President Donald Trump unveiled the economic operation nearly six months into the Iran war, which continues without a clear end in sight.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
     "image_url": null,
-    "published_at": "2026-08-20T17:14:52.000Z"
+    "published_at": "2026-08-20T17:19:03.000Z"
   },
   {
     "headline": "Three things to know about the $40 trillion federal debt",
@@ -32,22 +80,6 @@
     "published_at": "2026-08-20T16:41:23.000Z"
   },
   {
-    "headline": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
-    "summary": "AI has changed jobs and businesses, but it's also creating bottlenecks, confusion and downright awkward encounters for humans in the workplace.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
-    "image_url": null,
-    "published_at": "2026-08-20T16:30:01.000Z"
-  },
-  {
-    "headline": "U.S. sports fans spend about $2,000 a year on their favorite teams—many find themselves in debt as a result",
-    "summary": "As football season approaches, many Americans are planning to take on debt to pay for tickets, memorabilia, parlays and more.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
-    "image_url": null,
-    "published_at": "2026-08-20T16:15:01.000Z"
-  },
-  {
     "headline": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
     "summary": "Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.",
     "publisher": "CNBC",
@@ -62,14 +94,6 @@
     "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
     "image_url": null,
     "published_at": "2026-08-20T16:07:24.000Z"
-  },
-  {
-    "headline": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
-    "summary": "Private equity firm Arctos has agreed to buy 10% of the Atlanta Falcons in a deal valued at $10.6 billion, two sources told CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
-    "image_url": null,
-    "published_at": "2026-08-20T16:02:20.000Z"
   },
   {
     "headline": "Why our cyber stocks are dropping and our favorite memory play is rallying",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html",
     "image_url": null,
     "published_at": "2026-08-14T16:40:03.000Z"
-  },
-  {
-    "headline": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
-    "summary": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
-    "image_url": null,
-    "published_at": "2026-08-14T16:27:45.000Z"
-  },
-  {
-    "headline": "Court rules companies can't import Gilead medications from overseas in blow to AFP health programs",
-    "summary": "A U.S. appeals court has ruled in favor of Gilead Sciences against companies known as alternative funding programs that import medicines from overseas.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
-    "image_url": null,
-    "published_at": "2026-08-14T16:27:07.000Z"
-  },
-  {
-    "headline": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
-    "summary": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively and nearly 80% see the U.S. economy negatively.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
-    "image_url": null,
-    "published_at": "2026-08-14T15:22:00.000Z"
   }
 ]
