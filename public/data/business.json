@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+    "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+    "image_url": null,
+    "published_at": "2026-08-20T01:02:50.000Z"
+  },
+  {
+    "headline": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+    "summary": "Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
+    "image_url": null,
+    "published_at": "2026-08-20T00:30:32.000Z"
+  },
+  {
+    "headline": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
+    "summary": "Rising memory chip costs are reshaping the world's second-largest smartphone market as Chinese brands become expensive, improving the value proposition for Samsung and Apple.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
+    "image_url": null,
+    "published_at": "2026-08-20T00:17:08.000Z"
+  },
+  {
     "headline": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation",
     "summary": "Asia’s hydrogen train push may be less about rail and more about building a broader hydrogen economy.",
     "publisher": "CNBC",
@@ -8,28 +32,12 @@
     "published_at": "2026-08-20T00:09:09.000Z"
   },
   {
-    "headline": "Japan exports growth accelerates for fifth straight month, beating estimates, on robust chip shipments",
-    "summary": "Exports growth accelerated for a fifth straight month coming in at 23.2%. Economists polled by Reuters had estimated growth at 19.9%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
-    "image_url": null,
-    "published_at": "2026-08-20T00:01:01.000Z"
-  },
-  {
     "headline": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
     "summary": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
     "image_url": null,
     "published_at": "2026-08-19T23:57:47.000Z"
-  },
-  {
-    "headline": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
-    "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-    "image_url": null,
-    "published_at": "2026-08-19T23:52:55.000Z"
   },
   {
     "headline": "U.S. government debt passes $40 trillion, more than doubling in a decade",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
     "image_url": null,
     "published_at": "2026-08-13T18:44:12.000Z"
-  },
-  {
-    "headline": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office",
-    "summary": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
-    "image_url": null,
-    "published_at": "2026-08-13T18:02:01.000Z"
   }
 ]
