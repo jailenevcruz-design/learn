@@ -1,5 +1,21 @@
 [
   {
+    "headline": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
+    "summary": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of the Thursday,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-20T15:08:38.000Z"
+  },
+  {
+    "headline": "Amazon&#8217;s drone deliveries are landing in pools and ponds",
+    "summary": "Amazon's speedy drone delivery service will soon reach 500 cities across the US - but that might just mean there are more pools to drop packages into. On Wednesday, ABC7 News Bay Area shared a video showing an Amazon delivery drone hovering over a customer's pool in Texas, before opening its hatch and plopping the pack…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
+    "image_url": null,
+    "published_at": "2026-08-20T14:59:21.000Z"
+  },
+  {
     "headline": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
     "summary": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised,…",
     "publisher": "The Verge",
@@ -88,18 +104,18 @@
     "published_at": "2026-08-20T13:01:24.000Z"
   },
   {
-    "headline": "I bought DJI’s banned camera — it was cheap and easy",
-    "summary": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just reach for your phone. They're on Temu, AliExpress, eBay, Mercari - even Amazon and Newegg - with fas…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
-    "image_url": null,
-    "published_at": "2026-08-20T13:00:00.000Z"
-  },
-  {
     "headline": "For a16z, AI gives foreign founders an advantage",
     "summary": "a16z’s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley,\" is an advantage, the firm believes.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+    "image_url": null,
+    "published_at": "2026-08-20T13:00:00.000Z"
+  },
+  {
+    "headline": "I bought DJI’s banned camera — it was cheap and easy",
+    "summary": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just reach for your phone. They're on Temu, AliExpress, eBay, Mercari - even Amazon and Newegg - with fas…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
     "image_url": null,
     "published_at": "2026-08-20T13:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
     "image_url": null,
     "published_at": "2026-08-14T10:44:30.000Z"
-  },
-  {
-    "headline": "Apple trained its own AI model for China with help from Alibaba",
-    "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's sup…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-    "image_url": null,
-    "published_at": "2026-08-14T09:21:17.000Z"
-  },
-  {
-    "headline": "Help build a monument to that ‘sad little bitch’ Elon Musk",
-    "summary": "“Build the perfect monument to force a moment of introspection upon the world’s richest, ugliest little bitch.” | Image: Brendan SMIALOWSKI / AFP via Getty Images Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity. Th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
-    "image_url": null,
-    "published_at": "2026-08-14T08:40:13.000Z"
   }
 ]
