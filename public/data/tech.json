@@ -1,5 +1,117 @@
 [
   {
+    "headline": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
+    "summary": "The DJI Osmo Pocket 4 Pro and Pocket 3, flanking my phone with the Osmosis app. | Photo by Sean Hollister / The Verge Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirele…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
+    "image_url": null,
+    "published_at": "2026-08-20T13:30:00.000Z"
+  },
+  {
+    "headline": "NASA gives up on trying to rescue the Swift telescope",
+    "summary": "Plans to rescue NASA's Swift Observatory satellite from falling into Earth's atmosphere are seemingly dead in the water. The agency and Katalyst Space announced yesterday that the Link spacecraft will no longer capture or boost the Swift telescope to a higher altitude due to an ongoing \"attitude control issue,\" but wil…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update",
+    "image_url": null,
+    "published_at": "2026-08-20T13:04:37.000Z"
+  },
+  {
+    "headline": "AI data giant Alation confirms cyberattack",
+    "summary": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+    "image_url": null,
+    "published_at": "2026-08-20T13:01:24.000Z"
+  },
+  {
+    "headline": "I bought DJI’s banned camera — it was cheap and easy",
+    "summary": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just reach for your phone. They're on Temu, AliExpress, eBay, Mercari - even Amazon and Newegg - with fas…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
+    "image_url": null,
+    "published_at": "2026-08-20T13:00:00.000Z"
+  },
+  {
+    "headline": "For a16z, AI gives foreign founders an advantage",
+    "summary": "a16z’s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley,\" is an advantage, the firm believes.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+    "image_url": null,
+    "published_at": "2026-08-20T13:00:00.000Z"
+  },
+  {
+    "headline": "US says hackers are targeting vulnerable water systems with the help of AI",
+    "summary": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+    "image_url": null,
+    "published_at": "2026-08-20T12:43:19.000Z"
+  },
+  {
+    "headline": "Meta AI’s new Mac app wants you to talk to your apps",
+    "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "image_url": null,
+    "published_at": "2026-08-20T12:11:57.000Z"
+  },
+  {
+    "headline": "Meta glasses are a workplace menace",
+    "summary": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hinkle told them the item was $20, the customers asked for the price again and again. \"After a while, I realized that I'm basi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+    "image_url": null,
+    "published_at": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "headline": "Slack is launching collaborative vibe-coding channels",
+    "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output bef…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+    "image_url": null,
+    "published_at": "2026-08-20T12:00:00.000Z"
+  },
+  {
+    "headline": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
+    "summary": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is, for the glowing neon sign that turns on whenever they go to…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
+    "image_url": null,
+    "published_at": "2026-08-20T11:30:00.000Z"
+  },
+  {
+    "headline": "The piano that taught my cat to play for her supper",
+    "summary": "The artist, in a moment of quiet contemplation. | Photo by Elizabeth Lopatto / The Verge The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The vacuum clean…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+    "image_url": null,
+    "published_at": "2026-08-20T11:00:00.000Z"
+  },
+  {
+    "headline": "The Audi S6 Sportback E-tron proves that sedans still matter",
+    "summary": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those under the Volkswagen Group umbrella - when it comes to such a (now prior) commitment.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
+    "image_url": null,
+    "published_at": "2026-08-20T11:00:00.000Z"
+  },
+  {
+    "headline": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
+    "summary": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability. The company claims the new design improves the Momentum True Wireless 5's \"comfort, stability, and portability,\" but a more compelling reason to upgrade is that you won't have to replace them in a fe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries",
+    "image_url": null,
+    "published_at": "2026-08-20T10:00:00.000Z"
+  },
+  {
+    "headline": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "image_url": null,
+    "published_at": "2026-08-20T09:30:00.000Z"
+  },
+  {
     "headline": "LG’s new OLED breakthrough can boost display lifespans",
     "summary": "LG Display unveiled the new FLiPP panel process at IMID 2026 on August 19th. | Image: LG Display LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM…",
     "publisher": "The Verge",
@@ -96,18 +208,18 @@
     "published_at": "2026-08-19T19:11:40.000Z"
   },
   {
-    "headline": "Google Gemini is getting a dedicated student hub",
-    "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-    "image_url": null,
-    "published_at": "2026-08-19T19:00:00.000Z"
-  },
-  {
     "headline": "Google packs Search and Gemini with new AI study tools",
     "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "image_url": null,
+    "published_at": "2026-08-19T19:00:00.000Z"
+  },
+  {
+    "headline": "Google Gemini is getting a dedicated student hub",
+    "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
     "image_url": null,
     "published_at": "2026-08-19T19:00:00.000Z"
   },
@@ -1486,117 +1598,5 @@
     "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
     "image_url": null,
     "published_at": "2026-08-13T21:42:38.000Z"
-  },
-  {
-    "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "image_url": null,
-    "published_at": "2026-08-13T21:13:24.000Z"
-  },
-  {
-    "headline": "Netflix is closing two game studios",
-    "summary": "A screenshot of Oxenfree II: Lost Signals from Night School Studio. | Image: Night School / Netflix Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Stu…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-    "image_url": null,
-    "published_at": "2026-08-13T20:52:58.000Z"
-  },
-  {
-    "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "image_url": null,
-    "published_at": "2026-08-13T20:14:39.000Z"
-  },
-  {
-    "headline": "This school-friendly laptop from HP is $300 off",
-    "summary": "The HP OmniBook X Flip 2-in-1 converts for tablet or tented use. | Image: The Verge With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, bringing the cost…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-13T20:07:53.000Z"
-  },
-  {
-    "headline": "OpenAI is losing its second executive this week",
-    "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-    "image_url": null,
-    "published_at": "2026-08-13T19:28:39.000Z"
-  },
-  {
-    "headline": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "image_url": null,
-    "published_at": "2026-08-13T19:22:40.000Z"
-  },
-  {
-    "headline": "IBM partners with OpenAI to bolster enterprise AI push",
-    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "image_url": null,
-    "published_at": "2026-08-13T19:19:49.000Z"
-  },
-  {
-    "headline": "The Trump admin will start letting private firms launch international cyberattacks",
-    "summary": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal netwo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
-    "image_url": null,
-    "published_at": "2026-08-13T18:56:13.000Z"
-  },
-  {
-    "headline": "I finally found a robot lawnmower I’d trust with my yard",
-    "summary": "From left, Segway, Roborock, Dreame, Husqvarna, and Mammotion automowers lined up to do battle with my lawn. | Photo: Jennifer Pattison Tuohy / The Verge Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
-    "image_url": null,
-    "published_at": "2026-08-13T18:30:00.000Z"
-  },
-  {
-    "headline": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "image_url": null,
-    "published_at": "2026-08-13T18:28:14.000Z"
-  },
-  {
-    "headline": "You can now just point at a mess and this robot vacuum will suck it up",
-    "summary": "The Matic robot vacuum now offers gesture controlled spot cleaning and a built-in voice assistant. | Photo by Jennifer Pattison Tuohy / The Verge Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk d…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
-    "image_url": null,
-    "published_at": "2026-08-13T18:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI hires new CRO as executive shake-up continues",
-    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "image_url": null,
-    "published_at": "2026-08-13T17:07:13.000Z"
-  },
-  {
-    "headline": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
-    "summary": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features what appears to be a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
-    "image_url": null,
-    "published_at": "2026-08-13T16:38:15.000Z"
-  },
-  {
-    "headline": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-    "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-    "image_url": null,
-    "published_at": "2026-08-13T16:37:53.000Z"
   }
 ]
