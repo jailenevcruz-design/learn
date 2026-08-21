@@ -1,6 +1,38 @@
 [
   {
-    "headline": "ChatGPT can now send texts for you with new Apple Messages plugin",
+    "headline": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+    "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+    "image_url": null,
+    "published_at": "2026-08-21T00:23:36.000Z"
+  },
+  {
+    "headline": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "image_url": null,
+    "published_at": "2026-08-21T00:13:44.000Z"
+  },
+  {
+    "headline": "Learn what VCs actually want, from a founder who’s raised $1B",
+    "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha O…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+    "image_url": null,
+    "published_at": "2026-08-20T23:32:27.000Z"
+  },
+  {
+    "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "image_url": null,
+    "published_at": "2026-08-20T22:36:37.000Z"
+  },
+  {
+    "headline": "ChatGPT can now send texts for you with new Apple Messages plug-in",
     "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
@@ -1566,37 +1598,5 @@
     "url": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
     "image_url": null,
     "published_at": "2026-08-15T15:00:00.000Z"
-  },
-  {
-    "headline": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
-    "summary": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star Wars universe, with Grand Admiral Thrawn (b…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
-    "image_url": null,
-    "published_at": "2026-08-15T14:58:27.000Z"
-  },
-  {
-    "headline": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
-    "summary": "Shawn Levy, Ryan Gosling | Image: The Walt Disney Company/Image Group LA The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahs…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
-    "image_url": null,
-    "published_at": "2026-08-15T14:20:33.000Z"
-  },
-  {
-    "headline": "I finally found a magnetic phone grip I never want to remove",
-    "summary": "The OhSnap Snap Grip Stand, in black and silver. | Photo by Sean Hollister / The Verge I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up sticking with my $25 Syncwire inst…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
-    "image_url": null,
-    "published_at": "2026-08-15T14:10:16.000Z"
-  },
-  {
-    "headline": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-    "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitle…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-    "image_url": null,
-    "published_at": "2026-08-15T14:03:14.000Z"
   }
 ]
