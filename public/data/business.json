@@ -1,11 +1,59 @@
 [
   {
+    "headline": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+    "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+    "image_url": null,
+    "published_at": "2026-08-21T15:19:35.000Z"
+  },
+  {
+    "headline": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+    "summary": "In a letter to clients, Griffin addressed the firm's purchase of assets from Situational Awareness for the first time.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+    "image_url": null,
+    "published_at": "2026-08-21T15:17:07.000Z"
+  },
+  {
+    "headline": "Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
+    "summary": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
+    "image_url": null,
+    "published_at": "2026-08-21T15:15:26.000Z"
+  },
+  {
     "headline": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
     "summary": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
     "image_url": null,
-    "published_at": "2026-08-21T14:06:15.000Z"
+    "published_at": "2026-08-21T15:10:31.000Z"
+  },
+  {
+    "headline": "Trump tariff deadline looms as U.S. and Canada say final trade deal is near",
+    "summary": "Businesses have warned that Trump's new 50% duties could cripple their U.S. sales if they take effect.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+    "image_url": null,
+    "published_at": "2026-08-21T14:53:47.000Z"
+  },
+  {
+    "headline": "4 memory stocks are darlings of the AI boom. How they differ and why we own Micron",
+    "summary": "While often trading together, these companies are not the same.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/4-memory-stocks-are-darlings-of-the-ai-boom-how-they-differ-and-why-we-own-micron.html",
+    "image_url": null,
+    "published_at": "2026-08-21T14:44:02.000Z"
+  },
+  {
+    "headline": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
+    "summary": "The flagship digital currency has enjoyed a strong week boosted by several contributing factors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+    "image_url": null,
+    "published_at": "2026-08-21T14:32:08.000Z"
   },
   {
     "headline": "How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown",
@@ -24,14 +72,6 @@
     "published_at": "2026-08-21T13:55:15.000Z"
   },
   {
-    "headline": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
-    "summary": "The flagship digital currency has enjoyed a strong week boosted by several contributing factors.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-    "image_url": null,
-    "published_at": "2026-08-21T13:53:19.000Z"
-  },
-  {
     "headline": "International student enrollment falls amid tighter U.S. visa policies, reports show",
     "summary": "Amid changes to student visa policies, colleges and universities are likely to see fewer international students enrolled this fall, reports show.",
     "publisher": "CNBC",
@@ -46,22 +86,6 @@
     "url": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
     "image_url": null,
     "published_at": "2026-08-21T13:45:26.000Z"
-  },
-  {
-    "headline": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-    "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-    "image_url": null,
-    "published_at": "2026-08-21T13:37:43.000Z"
-  },
-  {
-    "headline": "U.S., Canada near final trade deal as Trump tariff deadline looms",
-    "summary": "Businesses have warned that Trump's new 50% duties could cripple U.S. their sales if they take effect.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-    "image_url": null,
-    "published_at": "2026-08-21T13:32:50.000Z"
   },
   {
     "headline": "Japan headline inflation rate hits highest this year as energy prices bite",
@@ -102,14 +126,6 @@
     "url": "https://www.cnbc.com/2026/08/20/bessent-budget-deficit-trump.html",
     "image_url": null,
     "published_at": "2026-08-21T13:11:41.000Z"
-  },
-  {
-    "headline": "Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
-    "summary": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
-    "image_url": null,
-    "published_at": "2026-08-21T13:04:19.000Z"
   },
   {
     "headline": "Here are the top 10 things we're watching in the stock market Friday",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
     "image_url": null,
     "published_at": "2026-08-17T09:00:00.000Z"
-  },
-  {
-    "headline": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
-    "summary": "The data is reinforcing concerns about the health of the world's second-largest economy, which has grappled with a deepening supply-demand imbalance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
-    "image_url": null,
-    "published_at": "2026-08-17T08:26:04.000Z"
-  },
-  {
-    "headline": "Ferrari Luce: Polarizing EV becomes a $40 million collector’s item",
-    "summary": "The auction of the Luce comes nearly three months after Ferrari unveiled its first fully electric car, which was priced at 550,000 euros (roughly $640,000).",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html",
-    "image_url": null,
-    "published_at": "2026-08-17T06:52:23.000Z"
   }
 ]
