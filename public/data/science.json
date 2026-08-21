@@ -1,5 +1,21 @@
 [
   {
+    "headline": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+    "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental-health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+    "image_url": null,
+    "published_at": "2026-08-21T09:00:00.000Z"
+  },
+  {
+    "headline": "Federal government thins the herds of wild horses in Colorado",
+    "summary": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+    "image_url": null,
+    "published_at": "2026-08-21T09:00:00.000Z"
+  },
+  {
     "headline": "Knee osteoarthritis isn’t inevitable — here’s what you can do",
     "summary": "Knee osteoarthritis can seriously affect mobility and quality of life, but its progression isn’t completely out of your control. Exercise, stronger leg muscles, a healthier diet, and even modest weight loss can dramatically reduce stress on the knees and help keep pain in check.",
     "publisher": "ScienceDaily",
@@ -1582,21 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
     "image_url": null,
     "published_at": "2026-08-03T11:17:07.000Z"
-  },
-  {
-    "headline": "What would it take to get peptides on the shelf?",
-    "summary": "An FDA advisory panel recently voted to green-light some popular peptides. The decision brought enormous attention to the market for these products — and concerns about the unregulated supply.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
-    "image_url": null,
-    "published_at": "2026-08-03T11:00:00.000Z"
-  },
-  {
-    "headline": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
-    "summary": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activates the entire TAOK protein family, offering scientists an unexpected new research tool. Together, the compounds could r…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
-    "image_url": null,
-    "published_at": "2026-08-03T10:20:53.000Z"
   }
 ]
