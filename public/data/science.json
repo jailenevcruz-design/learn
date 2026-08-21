@@ -1,5 +1,45 @@
 [
   {
+    "headline": "3 minutes of sprinting does something 90 minutes of exercise does not",
+    "summary": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more than 200 metabolites, while 90 minutes of moderate cycling produced far smaller immediate changes. Many of the proteins…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T12:17:36.000Z"
+  },
+  {
+    "headline": "Scientists catch a hidden electronic state forming in just 30 femtoseconds",
+    "summary": "Scientists watched a light-triggered hidden state form inside a material in only 30 femtoseconds, revealing a step that had never been seen before. The material first entered a fleeting electronic state in which its bonds reorganized in a repeating pattern, followed by tiny atomic shifts. This ultrafast pathway could o…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202856.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T12:01:30.000Z"
+  },
+  {
+    "headline": "This weight-loss hormone may protect the liver even without weight loss",
+    "summary": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and scarring. Researchers at McMaster University found that GDF15 activates a previously unknown brain-to-liver pathway that triggers the release of glucocorticoids, helping c…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T11:38:41.000Z"
+  },
+  {
+    "headline": "AI may know how you’ll respond to a vaccine before you get it",
+    "summary": "AI may be able to predict how strongly someone will respond to a vaccine before they receive it. By analyzing antibody patterns in more than 4,000 people, researchers found signs of “immune readiness” that helped distinguish strong responders from weak ones. Surprisingly, even some healthy people responded poorly, whil…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202842.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T10:59:05.000Z"
+  },
+  {
+    "headline": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
+    "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic fingerprint, revealing the landscapes surrounding the ship when repairs were made.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T09:28:51.000Z"
+  },
+  {
     "headline": "Federal government thins the herds of wild horses in Colorado",
     "summary": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane.",
     "publisher": "NPR",
@@ -14,6 +54,62 @@
     "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
     "image_url": null,
     "published_at": "2026-08-21T09:00:00.000Z"
+  },
+  {
+    "headline": "A simple at-home test could cut colorectal cancer death risk by 43%",
+    "summary": "People who participated in colorectal cancer screening had a 43% lower risk of dying from the disease, according to long-term data from more than 376,000 people in Sweden. The findings suggest that completing a simple at-home screening test could make a major difference in survival.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202833.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T07:37:33.000Z"
+  },
+  {
+    "headline": "A strange new quantum droplet can hold itself together",
+    "summary": "Two very different types of quantum particles may be able to form stable droplets that hold themselves together, challenging decades of conventional thinking. The prediction could soon be tested experimentally and may reveal an unexpectedly rich world of new quantum phases.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202846.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T04:54:49.000Z"
+  },
+  {
+    "headline": "Hidden magnetism inside atoms may explain mysterious gamma rays",
+    "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons and neutrons effectively flip their tiny internal magnets. The discovery could sharpen models of every…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T04:21:34.000Z"
+  },
+  {
+    "headline": "A lost mega-cliff may explain the Grand Canyon’s missing billion years",
+    "summary": "A colossal cliff system created as the supercontinent Rodinia broke apart may have exposed the heart of the Grand Canyon nearly a billion years before the Colorado River carved it. The ancient landscape could also help explain why enormous sections of North America’s geological record appear to be missing.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202828.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T03:43:10.000Z"
+  },
+  {
+    "headline": "“One-in-a-million” sea creature fossil preserves soft tissue for 450 million years",
+    "summary": "Scientists have identified exceptionally rare soft tissue preserved in a 450-million-year-old crinoid fossil, more than 200 million years older than the first dinosaurs. Its delicate tube feet offer a remarkable new window into how some of Earth’s earliest reef animals lived, fed, and evolved.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T01:12:03.000Z"
+  },
+  {
+    "headline": "Scientists discover how gut bacteria “train” the intestine to fight inflammation",
+    "summary": "A compound made when gut bacteria break down dietary fiber may do more than briefly calm inflammation—it could leave a lasting protective “memory” in the gut. Northwestern Medicine researchers found that butyrate can reprogram intestinal lining cells so they continue encouraging anti-inflammatory immune responses even…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
+    "image_url": null,
+    "published_at": "2026-08-21T00:10:15.000Z"
+  },
+  {
+    "headline": "Ozempic does something unexpected to the brain’s hunger neurons",
+    "summary": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
+    "image_url": null,
+    "published_at": "2026-08-20T22:59:05.000Z"
   },
   {
     "headline": "Knee osteoarthritis isn’t inevitable — here’s what you can do",
@@ -1502,101 +1598,5 @@
     "url": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
     "image_url": null,
     "published_at": "2026-08-04T09:00:00.000Z"
-  },
-  {
-    "headline": "Scientists just 3D printed one of the hardest metals on Earth",
-    "summary": "A new 3D printing technique can produce exceptionally hard tungsten carbide cobalt while using less of its expensive raw materials. By softening rather than fully melting the material, researchers created defect-free samples with industrial-grade hardness and opened the door to more efficient manufacturing.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T07:08:28.000Z"
-  },
-  {
-    "headline": "A common sugar may help cancer cells break free and spread",
-    "summary": "Chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. The discovery suggests that sugary diets and cholesterol-lowering drugs could influence cancer progression, though the effects have not yet been confirmed in patients.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223426.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T05:15:18.000Z"
-  },
-  {
-    "headline": "Your brain may be wired to regain lost weight",
-    "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, and lower energy use after weight loss. This biological “memory” helps explain why many people regain…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T03:38:28.000Z"
-  },
-  {
-    "headline": "These bizarre new beetles look so stretchy scientists named them Luffy",
-    "summary": "Scientists have named a newly discovered beetle genus Luffy, inspired by the stretchy hero of the manga and anime One Piece. The insects have unusually long, slender mandibles, antennae, and mouthparts that resemble Luffy’s rubber-like ability to extend his body.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223430.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T02:26:39.000Z"
-  },
-  {
-    "headline": "Scientists went looking for giant trees in Taiwan and found a lost world",
-    "summary": "Taiwan’s steep, remote mountains have sheltered extraordinary forests containing hundreds of giant Taiwania firs. After years of difficult expeditions, LiDAR mapping, and citizen-science detective work, researchers discovered an 84.1-meter (276-foot) tree, the tallest known in East Asia. They also found dense “temples…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T01:18:59.000Z"
-  },
-  {
-    "headline": "The largest human composting facility is coming to Maryland",
-    "summary": "The largest human composting facility in the nation is soon opening in Maryland, with capacity to handle 2,000 bodies a year. It's meeting a growing demand for eco-friendly interment options.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5905361/the-largest-human-composting-facility-is-coming-to-maryland",
-    "image_url": null,
-    "published_at": "2026-08-03T20:30:54.000Z"
-  },
-  {
-    "headline": "Photos: Wildfires in Spokane lead to thousands of evacuations",
-    "summary": "Wildfires in Spokane have destroyed hundreds of homes and led to evacuation orders for 60,000 people.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
-    "image_url": null,
-    "published_at": "2026-08-03T18:45:00.000Z"
-  },
-  {
-    "headline": "A simple supplement could help the immune system fight cancer and viruses",
-    "summary": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral infections, suggesting a simple supplement could have powerful therapeutic potential.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
-    "image_url": null,
-    "published_at": "2026-08-03T13:38:04.000Z"
-  },
-  {
-    "headline": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
-    "summary": "Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change. But sediment cores collected near Canada’s Herschel Island reveal a more reassuring twist: most of this land-based carbon becomes buried in the seafloor, w…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm",
-    "image_url": null,
-    "published_at": "2026-08-03T13:23:30.000Z"
-  },
-  {
-    "headline": "Moonquakes could reveal hidden water beneath the lunar surface",
-    "summary": "Hidden moon ice may reveal itself through the way it bends and reflects vibrations from moonquakes. The technique could help astronauts locate vital water supplies and uncover clues about the origins of Earth’s oceans.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223420.htm",
-    "image_url": null,
-    "published_at": "2026-08-03T12:32:07.000Z"
-  },
-  {
-    "headline": "Scientists reveal the hidden force driving the universe’s hottest fluid",
-    "summary": "When atomic nuclei smash together at nearly the speed of light, they create the hottest fluid in the universe, but scientists may have overlooked one of its most important forces. New simulations reveal that extreme acceleration builds up along the edges of quark-gluon plasma, helping drive its explosive expansion. Thi…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
-    "image_url": null,
-    "published_at": "2026-08-03T11:58:59.000Z"
-  },
-  {
-    "headline": "Scientists may have found aging’s hidden trigger for brain disease",
-    "summary": "Scientists have identified a molecular switch that may help explain why aging makes the brain more vulnerable to diseases such as ALS and Huntington’s. In worms, the protein EPS8 builds up with age and triggers signaling that encourages toxic proteins to clump together, damaging neurons and shortening lifespan. Reducin…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
-    "image_url": null,
-    "published_at": "2026-08-03T11:17:07.000Z"
   }
 ]
