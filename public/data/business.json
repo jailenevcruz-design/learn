@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
+    "summary": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
+    "image_url": null,
+    "published_at": "2026-08-21T14:06:15.000Z"
+  },
+  {
+    "headline": "How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown",
+    "summary": "Premier League clubs have removed betting brands from shirt fronts, opening new sponsorship opportunities while bookmakers shift spending elsewhere.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/premier-league-gambling-shirt-sponsors.html",
+    "image_url": null,
+    "published_at": "2026-08-21T14:00:02.000Z"
+  },
+  {
+    "headline": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
+    "summary": "The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+    "image_url": null,
+    "published_at": "2026-08-21T13:55:15.000Z"
+  },
+  {
+    "headline": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
+    "summary": "The flagship digital currency has enjoyed a strong week boosted by several contributing factors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+    "image_url": null,
+    "published_at": "2026-08-21T13:53:19.000Z"
+  },
+  {
+    "headline": "International student enrollment falls amid tighter U.S. visa policies, reports show",
+    "summary": "Amid changes to student visa policies, colleges and universities are likely to see fewer international students enrolled this fall, reports show.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/international-student-enrollment-us-visa-policies.html",
+    "image_url": null,
+    "published_at": "2026-08-21T13:46:01.000Z"
+  },
+  {
+    "headline": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
+    "summary": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
+    "image_url": null,
+    "published_at": "2026-08-21T13:45:26.000Z"
+  },
+  {
+    "headline": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+    "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+    "image_url": null,
+    "published_at": "2026-08-21T13:37:43.000Z"
+  },
+  {
     "headline": "U.S., Canada near final trade deal as Trump tariff deadline looms",
     "summary": "Businesses have warned that Trump's new 50% duties could cripple U.S. their sales if they take effect.",
     "publisher": "CNBC",
@@ -14,14 +70,6 @@
     "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
     "image_url": null,
     "published_at": "2026-08-21T13:23:19.000Z"
-  },
-  {
-    "headline": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
-    "summary": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
-    "image_url": null,
-    "published_at": "2026-08-21T13:23:03.000Z"
   },
   {
     "headline": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
@@ -72,20 +120,20 @@
     "published_at": "2026-08-21T12:59:36.000Z"
   },
   {
+    "headline": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+    "summary": "Market experts showed skepticism at whether the push would succeed against a bevy of factors working against Treasurys.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+    "image_url": null,
+    "published_at": "2026-08-21T12:43:04.000Z"
+  },
+  {
     "headline": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
     "summary": "\"These trials are often compared to the Big Tobacco lawsuits of the 90s, and the outcome will likely be analogous as well,\" one analyst told CNBC.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
     "image_url": null,
     "published_at": "2026-08-21T12:11:14.000Z"
-  },
-  {
-    "headline": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
-    "summary": "The flagship digital currency has enjoyed a strong week boosted by several contributing factors.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-    "image_url": null,
-    "published_at": "2026-08-21T12:07:14.000Z"
   },
   {
     "headline": "Why some of America's biggest brands are losing ground in China",
@@ -238,14 +286,6 @@
     "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
     "image_url": null,
     "published_at": "2026-08-20T21:53:44.000Z"
-  },
-  {
-    "headline": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
-    "summary": "Market experts showed skepticism at whether the push would succeed against a bevy of factors working against Treasurys.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
-    "image_url": null,
-    "published_at": "2026-08-20T21:13:14.000Z"
   },
   {
     "headline": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
@@ -1558,45 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html",
     "image_url": null,
     "published_at": "2026-08-17T06:52:23.000Z"
-  },
-  {
-    "headline": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
-    "summary": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html",
-    "image_url": null,
-    "published_at": "2026-08-17T05:18:44.000Z"
-  },
-  {
-    "headline": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
-    "summary": "On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
-    "image_url": null,
-    "published_at": "2026-08-17T02:21:02.000Z"
-  },
-  {
-    "headline": "Believe the unbelievable in this market — things can be different this time",
-    "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
-    "image_url": null,
-    "published_at": "2026-08-16T21:32:25.000Z"
-  },
-  {
-    "headline": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
-    "summary": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
-    "image_url": null,
-    "published_at": "2026-08-16T19:58:32.000Z"
-  },
-  {
-    "headline": "The internet's grandma has advice for late bloomers: 'It doesn't all have to be perfect'",
-    "summary": "Kim Murstein and Gail Rudnick are the duo behind \"Excuse My Grandma,\" an advice podcast that dives into life, love and other issues across generations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/16/grandma-gail-advice-for-late-bloomers-it-doesnt-all-have-to-be-perfect.html",
-    "image_url": null,
-    "published_at": "2026-08-16T14:30:01.000Z"
   }
 ]
