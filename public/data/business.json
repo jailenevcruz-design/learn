@@ -5,7 +5,15 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
     "image_url": null,
-    "published_at": "2026-08-21T00:22:20.000Z"
+    "published_at": "2026-08-21T02:13:18.000Z"
+  },
+  {
+    "headline": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+    "summary": "Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+    "image_url": null,
+    "published_at": "2026-08-21T01:56:01.000Z"
   },
   {
     "headline": "Micron CEO pushes back on memory bear case. 3 key takeaways from Cramer's big interview",
@@ -13,7 +21,23 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/20/micron-ceo-pushes-back-on-memory-bear-case-3-takeaways-from-cramers-interview.html",
     "image_url": null,
-    "published_at": "2026-08-20T22:52:44.000Z"
+    "published_at": "2026-08-21T01:07:05.000Z"
+  },
+  {
+    "headline": "CFTC’s Innovation Advisory Committee meeting addresses emerging prediction market risks",
+    "summary": "The CFTC's first Innovation Advisory Committee meeting discussed risks of mention markets, with members advocating for tighter consumer protection.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
+    "image_url": null,
+    "published_at": "2026-08-21T00:45:58.000Z"
+  },
+  {
+    "headline": "Japan's historic yen intervention has ‘turbo-charged’ the carry trade",
+    "summary": "Japan's historic effort to prop up the yen may have had an unintended consequence: giving investors a better opportunity to put the carry trade back on.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
+    "image_url": null,
+    "published_at": "2026-08-21T00:00:01.000Z"
   },
   {
     "headline": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
     "image_url": null,
     "published_at": "2026-08-14T21:06:48.000Z"
-  },
-  {
-    "headline": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-    "summary": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-    "image_url": null,
-    "published_at": "2026-08-14T20:47:41.000Z"
-  },
-  {
-    "headline": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-    "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
-    "image_url": null,
-    "published_at": "2026-08-14T20:05:57.000Z"
-  },
-  {
-    "headline": "Drone stocks rally after Trump orders tariffs on foreign-made components",
-    "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
-    "image_url": null,
-    "published_at": "2026-08-14T20:04:28.000Z"
   }
 ]
