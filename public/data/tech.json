@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+    "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+    "image_url": null,
+    "published_at": "2026-08-21T20:58:07.000Z"
+  },
+  {
+    "headline": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+    "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+    "image_url": null,
+    "published_at": "2026-08-21T20:25:21.000Z"
+  },
+  {
+    "headline": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+    "summary": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+    "image_url": null,
+    "published_at": "2026-08-21T19:57:46.000Z"
+  },
+  {
+    "headline": "Apple is laying off staffers working on the Vision Pro and Siri",
+    "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut. Apple said in a statement to Bloomberg…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+    "image_url": null,
+    "published_at": "2026-08-21T19:44:55.000Z"
+  },
+  {
+    "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "image_url": null,
+    "published_at": "2026-08-21T19:43:39.000Z"
+  },
+  {
     "headline": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
     "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
     "publisher": "TechCrunch",
@@ -121,7 +161,7 @@
   },
   {
     "headline": "Major YouTube creators are facing backlash for accepting AI money",
-    "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as…",
+    "summary": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
     "image_url": null,
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
     "image_url": null,
     "published_at": "2026-08-17T15:06:07.000Z"
-  },
-  {
-    "headline": "WordPress.com targets the next generation of web creators with a free student plan",
-    "summary": "WordPress.com Education lets teachers offer their students free domains, plug-in support, and professional website-building tools.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
-    "image_url": null,
-    "published_at": "2026-08-17T14:56:00.000Z"
-  },
-  {
-    "headline": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
-    "summary": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music services. It supports over 20 services, and it sports Wi-Fi 6E, Bluetooth…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-17T14:35:25.000Z"
-  },
-  {
-    "headline": "Uber partners with Zipline on Eats drone deliveries",
-    "summary": "Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year, with the goal of reaching one million daily drone deliveries by 2029. Uber also said it was making a strategic investment in Zipline, a California-based company that has been orchestrating drone deliveries in Texas since…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
-    "image_url": null,
-    "published_at": "2026-08-17T14:24:35.000Z"
-  },
-  {
-    "headline": "It’s about ethics in journalism, with Ben Smith",
-    "summary": "Today I’m talking to Ben Smith, the editor-in-chief of Semafor. Everywhere you go, people say they don’t trust the media — and yet they’ve never consumed more of it. Audiences have moved on from legacy names in favor of Substacks and podcasts and TikTok news influencers that seem to be everywhere in our feeds. Why woul…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
-    "image_url": null,
-    "published_at": "2026-08-17T14:00:00.000Z"
-  },
-  {
-    "headline": "Uber adds Zipline drones to its Eats delivery network",
-    "summary": "Uber is also making investing in Zipline a part of the tie-up.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
-    "image_url": null,
-    "published_at": "2026-08-17T13:18:49.000Z"
   }
 ]
