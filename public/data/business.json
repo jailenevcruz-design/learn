@@ -1,11 +1,35 @@
 [
   {
+    "headline": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
+    "summary": "\"These trials are often compared to the Big Tobacco lawsuits of the 90s, and the outcome will likely be analogous as well,\" one analyst told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
+    "image_url": null,
+    "published_at": "2026-08-21T11:01:45.000Z"
+  },
+  {
+    "headline": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
+    "summary": "The bigger issue at hand may be that many Americans fall into a large, uncertain middle ground – neither firmly pro-vaccine nor staunchly opposed.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
+    "image_url": null,
+    "published_at": "2026-08-21T11:00:01.000Z"
+  },
+  {
     "headline": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
     "summary": "AI-related roles now account for nearly one-third of all tech-talent job listings in the U.S., per the new CBRE report.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
     "image_url": null,
-    "published_at": "2026-08-21T10:12:07.000Z"
+    "published_at": "2026-08-21T10:36:07.000Z"
+  },
+  {
+    "headline": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+    "summary": "It comes weeks after Romania’s Air Force destroyed a Russian drone in its airspace.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
+    "image_url": null,
+    "published_at": "2026-08-21T10:15:18.000Z"
   },
   {
     "headline": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
     "image_url": null,
     "published_at": "2026-08-16T09:45:45.000Z"
-  },
-  {
-    "headline": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-    "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-    "image_url": null,
-    "published_at": "2026-08-15T20:38:29.000Z"
-  },
-  {
-    "headline": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-    "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-    "image_url": null,
-    "published_at": "2026-08-15T17:35:09.000Z"
-  },
-  {
-    "headline": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-    "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
-    "image_url": null,
-    "published_at": "2026-08-15T14:46:43.000Z"
   }
 ]
