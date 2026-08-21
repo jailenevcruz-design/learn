@@ -1,7 +1,7 @@
 [
   {
     "headline": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-    "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental-health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
+    "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
     "image_url": null,
@@ -24,18 +24,18 @@
     "published_at": "2026-08-20T16:49:11.000Z"
   },
   {
-    "headline": "They grew up with disability rights. Now, they're fighting to keep them",
-    "summary": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-    "image_url": null,
-    "published_at": "2026-08-20T09:00:00.000Z"
-  },
-  {
     "headline": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
     "summary": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+    "image_url": null,
+    "published_at": "2026-08-20T09:00:00.000Z"
+  },
+  {
+    "headline": "They grew up with disability rights. Now, they're fighting to keep them",
+    "summary": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
     "image_url": null,
     "published_at": "2026-08-20T09:00:00.000Z"
   },

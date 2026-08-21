@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Senator asks US government watchdog to review how feds use hacking tools",
+    "summary": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
+    "image_url": null,
+    "published_at": "2026-08-21T13:05:00.000Z"
+  },
+  {
     "headline": "My cats hate each other, but this automatic feeder is helping",
     "summary": "Over the course of nearly a decade, my husband and I have dutifully carried out a four-times-daily ritual of feeding a pair of lovely cat siblings who hate each other. This was mostly manageable for years, but in 2024, disaster struck for my small dependents: We had a child. Suddenly, the cats were no longer our first…",
     "publisher": "The Verge",
@@ -1590,13 +1598,5 @@
     "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
     "image_url": null,
     "published_at": "2026-08-15T20:45:00.000Z"
-  },
-  {
-    "headline": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "image_url": null,
-    "published_at": "2026-08-15T18:58:39.000Z"
   }
 ]
