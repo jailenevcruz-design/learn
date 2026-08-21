@@ -1,5 +1,13 @@
 [
   {
+    "headline": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+    "summary": "Vance said \"what has been true over the last couple of weeks is they felt a lot more pressure than we have.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+    "image_url": null,
+    "published_at": "2026-08-21T04:32:59.000Z"
+  },
+  {
     "headline": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
     "summary": "Taiwan's economic growth could moderate due to its vulnerability to risks of capex slowdown, macroeconomic downturns, and concentration in semiconductors.",
     "publisher": "CNBC",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
     "image_url": null,
     "published_at": "2026-08-14T23:41:50.000Z"
-  },
-  {
-    "headline": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-    "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-    "image_url": null,
-    "published_at": "2026-08-14T21:45:19.000Z"
   }
 ]
