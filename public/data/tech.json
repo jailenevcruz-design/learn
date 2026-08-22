@@ -1,5 +1,29 @@
 [
   {
+    "headline": "OpenAI says California should strengthen its AI safety bill",
+    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "image_url": null,
+    "published_at": "2026-08-22T16:30:34.000Z"
+  },
+  {
+    "headline": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "image_url": null,
+    "published_at": "2026-08-22T16:00:00.000Z"
+  },
+  {
+    "headline": "US battery startups have found a lifeline in defense",
+    "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+    "image_url": null,
+    "published_at": "2026-08-22T15:20:00.000Z"
+  },
+  {
     "headline": "W. Kamau Bell has the most practical ‘most indispensable tool’",
     "summary": "I’m just as confused as you. | Image: Aundre Larrow W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand o…",
     "publisher": "The Verge",
@@ -1574,29 +1598,5 @@
     "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
     "image_url": null,
     "published_at": "2026-08-17T19:27:49.000Z"
-  },
-  {
-    "headline": "Spotify’s new Playlist Notes let users and editors explain their song picks",
-    "summary": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
-    "image_url": null,
-    "published_at": "2026-08-17T19:24:43.000Z"
-  },
-  {
-    "headline": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
-    "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-    "image_url": null,
-    "published_at": "2026-08-17T19:04:27.000Z"
-  },
-  {
-    "headline": "Wordle meets Clippy in this new word game",
-    "summary": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking about what else could be done in the space. \"…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
-    "image_url": null,
-    "published_at": "2026-08-17T19:03:41.000Z"
   }
 ]
