@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+    "summary": "President Donald Trump disclosed just over 1,000 financial transitions in the month of June in what appears to be broad reshuffling of his portfolio.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+    "image_url": null,
+    "published_at": "2026-08-22T17:33:53.000Z"
+  },
+  {
     "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
     "publisher": "CNBC",
@@ -20,6 +28,14 @@
     "summary": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
+    "image_url": null,
+    "published_at": "2026-08-22T14:00:01.000Z"
+  },
+  {
+    "headline": "Airbnb's new fee change frustrates hosts—what to know before renting out your home",
+    "summary": "A new Airbnb fee change is one of many costs and considerations that can affect whether running a short-term rental makes money.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
     "image_url": null,
     "published_at": "2026-08-22T14:00:01.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
     "image_url": null,
     "published_at": "2026-08-17T20:25:37.000Z"
-  },
-  {
-    "headline": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
-    "summary": "Disney Experiences chief Thomas Mazloum is focused on balancing the needs of its most ardent parkgoers with its less frequent visitors.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
-    "image_url": null,
-    "published_at": "2026-08-17T20:23:22.000Z"
-  },
-  {
-    "headline": "30-year Treasury yield tops 5.31%, the highest in 19 years",
-    "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
-    "image_url": null,
-    "published_at": "2026-08-17T20:04:53.000Z"
   }
 ]
