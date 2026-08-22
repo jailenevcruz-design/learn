@@ -1,11 +1,35 @@
 [
   {
-    "headline": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-    "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+    "headline": "Chinese company flexes dominance in robotics space with splashy stock market debut",
+    "summary": "The Chinese robotics company Unitree, known for its highly advanced humanoid robots, made a tremendous debut on Shanghai's stock market. The company is considered an industry leader in robotics.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/22/nx-s1-5939817/chinese-company-flexes-dominance-in-robotics-space-with-splashy-stock-market-debut",
     "image_url": null,
-    "published_at": "2026-08-22T18:57:46.000Z"
+    "published_at": "2026-08-22T21:30:47.000Z"
+  },
+  {
+    "headline": "The U.S. & Canada are fighting over tariffs. How is that affecting small businesses?",
+    "summary": "NPR's Danielle Kurtzleben speaks with Mike Roach and Kim Osgood, owners of Paloma Clothing in Portland, Ore., about how the tariff fight between the U.S. and Canada is affecting their business.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/22/nx-s1-5941703/the-u-s-canada-are-fighting-over-tariffs-how-is-that-affecting-small-businesses",
+    "image_url": null,
+    "published_at": "2026-08-22T21:16:39.000Z"
+  },
+  {
+    "headline": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+    "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+    "image_url": null,
+    "published_at": "2026-08-22T20:34:13.000Z"
+  },
+  {
+    "headline": "Nvidia customers reportedly warned about AI-related price hikes",
+    "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+    "image_url": null,
+    "published_at": "2026-08-22T20:26:44.000Z"
   },
   {
     "headline": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
@@ -13,7 +37,15 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
     "image_url": null,
-    "published_at": "2026-08-22T17:01:18.000Z"
+    "published_at": "2026-08-22T20:18:15.000Z"
+  },
+  {
+    "headline": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+    "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+    "image_url": null,
+    "published_at": "2026-08-22T18:57:46.000Z"
   },
   {
     "headline": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html",
     "image_url": null,
     "published_at": "2026-08-17T22:23:20.000Z"
-  },
-  {
-    "headline": "Jim Cramer says it’s not too late to own any one of these 4 soaring memory stocks",
-    "summary": "CNBC's Jim Cramer said the AI boom has transformed the historically cyclical memory industry, as demand and greater supply discipline support stronger profits.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/cramer-buy-soaring-memory-stocks.html",
-    "image_url": null,
-    "published_at": "2026-08-17T22:20:01.000Z"
-  },
-  {
-    "headline": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
-    "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
-    "image_url": null,
-    "published_at": "2026-08-17T22:07:03.000Z"
-  },
-  {
-    "headline": "Cities are adopting new data center standards as public opposition grows",
-    "summary": "As the number of data centers across the U.S. continues to increase, so does public opposition. That has some cities changing their standards for what acceptable data center development looks like.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5930494/cities-are-adopting-new-data-center-standards-as-public-opposition-grows",
-    "image_url": null,
-    "published_at": "2026-08-17T21:26:16.000Z"
-  },
-  {
-    "headline": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-    "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-    "image_url": null,
-    "published_at": "2026-08-17T21:22:37.000Z"
   }
 ]

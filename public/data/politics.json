@@ -1,5 +1,13 @@
 [
   {
+    "headline": "The complexities of covering swing voters and what they teach us about politics",
+    "summary": "For Reporter's Notebook, an NPR political correspondent shares the lessons she has learned listening in on groups of swing voters in swing states.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/22/nx-s1-5938772/the-complexities-of-covering-swing-voters-and-what-they-teach-us-about-politics",
+    "image_url": null,
+    "published_at": "2026-08-22T21:30:46.000Z"
+  },
+  {
     "headline": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
     "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion.",
     "publisher": "NPR",
@@ -64,18 +72,18 @@
     "published_at": "2026-08-20T15:18:21.000Z"
   },
   {
-    "headline": "Privacy advocates call on Maryland to investigate data brokers",
-    "summary": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-    "image_url": null,
-    "published_at": "2026-08-20T09:00:00.000Z"
-  },
-  {
     "headline": "The system meant to protect ICE detainees has collapsed",
     "summary": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+    "image_url": null,
+    "published_at": "2026-08-20T09:00:00.000Z"
+  },
+  {
+    "headline": "Privacy advocates call on Maryland to investigate data brokers",
+    "summary": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
     "image_url": null,
     "published_at": "2026-08-20T09:00:00.000Z"
   },
