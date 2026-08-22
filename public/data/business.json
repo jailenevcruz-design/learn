@@ -1,11 +1,59 @@
 [
   {
+    "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+    "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+    "image_url": null,
+    "published_at": "2026-08-22T13:57:48.000Z"
+  },
+  {
+    "headline": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
+    "summary": "Low-cost S&P 500 index funds are the foundation of many portfolios to grow wealth, but investors should add assets to diversify and lower volatility.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
+    "image_url": null,
+    "published_at": "2026-08-22T13:26:14.000Z"
+  },
+  {
+    "headline": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
+    "summary": "Dr. Ronald Primas, a longevity physician, offers concierge services like developing personalized health plans for clients. Here are his own wellness practices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
+    "image_url": null,
+    "published_at": "2026-08-22T13:05:01.000Z"
+  },
+  {
+    "headline": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
+    "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+    "image_url": null,
+    "published_at": "2026-08-22T12:12:03.000Z"
+  },
+  {
     "headline": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
     "summary": "New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
     "image_url": null,
     "published_at": "2026-08-22T12:06:37.000Z"
+  },
+  {
+    "headline": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+    "summary": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+    "image_url": null,
+    "published_at": "2026-08-22T12:00:01.000Z"
+  },
+  {
+    "headline": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
+    "summary": "Schools and increasingly teen employers are drawing a hard line against phone use. The benefits for teens can be profound.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
+    "image_url": null,
+    "published_at": "2026-08-22T12:00:01.000Z"
   },
   {
     "headline": "Supreme Court allows Trump to continue White House ballroom construction for now",
@@ -1550,53 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
     "image_url": null,
     "published_at": "2026-08-17T19:17:52.000Z"
-  },
-  {
-    "headline": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
-    "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-    "image_url": null,
-    "published_at": "2026-08-17T19:14:03.000Z"
-  },
-  {
-    "headline": "Eli Lilly and J&J bounce on new data, as software stocks give up last week's gains",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/eli-lilly-and-jj-bounce-on-new-data-as-software-gives-up-gains.html",
-    "image_url": null,
-    "published_at": "2026-08-17T18:42:54.000Z"
-  },
-  {
-    "headline": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-    "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-    "image_url": null,
-    "published_at": "2026-08-17T18:32:54.000Z"
-  },
-  {
-    "headline": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-    "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
-    "image_url": null,
-    "published_at": "2026-08-17T18:09:01.000Z"
-  },
-  {
-    "headline": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
-    "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-    "image_url": null,
-    "published_at": "2026-08-17T17:43:40.000Z"
-  },
-  {
-    "headline": "Refiner stocks are on a nearly unprecedented run. History says it could end soon",
-    "summary": "Refining is a great business, but if you've had the good fortune to ride this trade this year, it's likely time to take profits.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/refiner-stocks-are-on-a-nearly-unprecedented-run-history-says-it-could-end-soon.html",
-    "image_url": null,
-    "published_at": "2026-08-17T17:12:44.000Z"
   }
 ]
