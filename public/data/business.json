@@ -1,5 +1,13 @@
 [
   {
+    "headline": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+    "summary": "The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada immediately said it would retaliate, after last-ditch negotiations failed.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+    "image_url": null,
+    "published_at": "2026-08-22T04:36:27.000Z"
+  },
+  {
     "headline": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
     "summary": "Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio, steel plant, as data center fears loom.",
     "publisher": "CNBC",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
     "image_url": null,
     "published_at": "2026-08-17T16:06:28.000Z"
-  },
-  {
-    "headline": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
-    "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-    "image_url": null,
-    "published_at": "2026-08-17T16:01:46.000Z"
   }
 ]
