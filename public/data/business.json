@@ -656,6 +656,14 @@
     "published_at": "2026-08-20T09:00:00.000Z"
   },
   {
+    "headline": "Proposed California wealth tax sparks debate: Will billionaires leave the state?",
+    "summary": "A proposed first-of-its kind tax would target California's nearly 250 billionaires in an effort to fund health care. If voters pass it, will the state's economy suffer?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5935597/california-billionaires-wealth-tax-sergey-brin",
+    "image_url": null,
+    "published_at": "2026-08-20T08:45:47.000Z"
+  },
+  {
     "headline": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
     "summary": "Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.",
     "publisher": "CNBC",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/17/cramers-advice-on-apple-after-upgrade-plus-why-2-semis-are-up-big.html",
     "image_url": null,
     "published_at": "2026-08-17T16:12:26.000Z"
-  },
-  {
-    "headline": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
-    "summary": "Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
-    "image_url": null,
-    "published_at": "2026-08-17T16:08:53.000Z"
   }
 ]
