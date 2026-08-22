@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Peppermint oil lowers blood pressure in just 20 days",
+    "summary": "Peppermint oil may have an unexpected benefit for people with mildly high blood pressure. Adults who took a small dose twice daily for 20 days saw their systolic blood pressure fall by an average of 8.5 mmHg, while a placebo group showed little change. Researchers say the inexpensive oil could eventually provide a simp…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T14:08:04.000Z"
+  },
+  {
+    "headline": "Exercise may work better for keeping weight off than losing it",
+    "summary": "Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving fat burning, and regulating appetite and blood sugar, regular activity can make long-term weight maintenance easier.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T13:55:11.000Z"
+  },
+  {
+    "headline": "Multilingual people may have brains up to 13 years younger",
+    "summary": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T13:12:23.000Z"
+  },
+  {
+    "headline": "This frozen fiber makes light and sound interact 1,000x more strongly",
+    "summary": "Freezing the liquid core of an optical fiber produced an extreme environment where light and sound interact more than 1,000 times more strongly than in ordinary fibers. Researchers used the effect to create optoacoustic memory, potentially paving the way for lower-energy photonic computers and advanced quantum technolo…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260821012228.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T13:02:37.000Z"
+  },
+  {
+    "headline": "JWST finds early galaxies may be 4 times more massive than thought",
+    "summary": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than previous estimates. The finding makes it even harder to explain how enormous, mature galaxies formed so soo…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T12:36:23.000Z"
+  },
+  {
+    "headline": "This yeast supplement may boost cancer-fighting immunity",
+    "summary": "A simple yeast-based food supplement may help restore the immune system’s ability to fight cancer, according to new research in mice. Scientists found that yeast beta-glucan reprogrammed early immune cells in the bone marrow, leading to stronger, longer-lasting cancer-fighting responses against colorectal, skin, and br…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T10:34:22.000Z"
+  },
+  {
+    "headline": "Queen bees have a disturbing way to survive pesticides",
+    "summary": "Honeybee queens exposed to pesticides can shift some of the contamination into their eggs, revealing a previously unknown survival strategy. The process may protect the queen while putting developing offspring, and potentially the entire colony, at risk.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260821012224.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T03:53:17.000Z"
+  },
+  {
+    "headline": "Tooth count may predict survival after pancreatic cancer surgery",
+    "summary": "Pancreatic cancer patients with at least 21 natural teeth survived nearly two years longer after surgery than those with fewer teeth in a study of 339 people. Researchers suspect tooth loss may reflect decades of inflammation, frailty, nutrition, and other factors tied to the body’s overall resilience.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260821012218.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T03:29:38.000Z"
+  },
+  {
+    "headline": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
+    "summary": "A tiny, fully intact Indigenous pot buried for roughly 400 years has left archaeologists wondering why such a usable object was deliberately abandoned. Found at a historic Potano-Timucua village in Florida, the mysterious vessel is helping reveal a complex world of Native traditions, Spanish influence, trade, and migra…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T02:58:44.000Z"
+  },
+  {
+    "headline": "This gut microbe may help keep you strong as you age",
+    "summary": "Scientists have linked a specific gut bacterium, Roseburia inulinivorans, to stronger muscles in both humans and mice. Older adults who carried it had 29% greater handgrip strength, while treated mice gained about 30% more grip strength and developed larger, more fast-twitch muscle fibers. The bacterium was also less c…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260820202904.htm",
+    "image_url": null,
+    "published_at": "2026-08-22T02:27:20.000Z"
+  },
+  {
     "headline": "This week in science: A new black hole star, exercises for dementia, and winter shrews",
     "summary": "NPR's science podcast Short Wave talks about a new type of black hole star, the types of exercise linked to lowered dementia risk, and the wintry adaptations of the long-clawed shrew.",
     "publisher": "NPR",
@@ -48,18 +128,18 @@
     "published_at": "2026-08-21T09:28:51.000Z"
   },
   {
-    "headline": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-    "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-    "image_url": null,
-    "published_at": "2026-08-21T09:00:00.000Z"
-  },
-  {
     "headline": "Federal government thins the herds of wild horses in Colorado",
     "summary": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+    "image_url": null,
+    "published_at": "2026-08-21T09:00:00.000Z"
+  },
+  {
+    "headline": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+    "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
     "image_url": null,
     "published_at": "2026-08-21T09:00:00.000Z"
   },
@@ -1518,85 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
     "image_url": null,
     "published_at": "2026-08-05T05:10:52.000Z"
-  },
-  {
-    "headline": "A solar eclipse and the Perseid meteor shower arrive on the same day",
-    "summary": "August brings four major celestial events, including a solar eclipse and the peak of the Perseid meteor shower. Dark New Moon skies could make the Perseids especially impressive, while Venus will blaze in the west after sunset. A deep partial lunar eclipse closes the month, darkening most of the Moon.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
-    "image_url": null,
-    "published_at": "2026-08-05T04:13:47.000Z"
-  },
-  {
-    "headline": "Did T. rex leave these 66-million-year-old bite marks?",
-    "summary": "Fossilized dinosaur bones from Wyoming are offering a rare glimpse into the feeding behavior of Tyrannosaurus rex. Researchers examined more than 3,000 bones dating back 72 to 66 million years and found just 12 with possible tooth traces, including four with patterns that closely matched the shape and spacing of T. rex…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080854.htm",
-    "image_url": null,
-    "published_at": "2026-08-05T03:15:21.000Z"
-  },
-  {
-    "headline": "Scientists catch a “jumping gene” mid-leap between species",
-    "summary": "Scientists have uncovered a surprising way that “jumping genes” may move between species and speed up evolution. While these mobile genetic elements were thought to travel mainly inside viruses or plasmids, researchers found circular intron RNA from a tiny predatory bacterium inside the dead cells of another microorgan…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080911.htm",
-    "image_url": null,
-    "published_at": "2026-08-05T02:51:48.000Z"
-  },
-  {
-    "headline": "How do newborns react to the smell of their fathers?",
-    "summary": "A new study tests the scent of fathers and newborns recognition of dad's smell",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/nx-s1-5910665/how-do-newborns-react-to-the-smell-of-their-fathers",
-    "image_url": null,
-    "published_at": "2026-08-04T20:16:29.000Z"
-  },
-  {
-    "headline": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
-    "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more affordable therapy.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T13:33:37.000Z"
-  },
-  {
-    "headline": "518-million-year-old creature reveals the origins of spider fangs",
-    "summary": "A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved soft tissues that help explain how the ancestors of spiders and scorpions evolved into formidable hunters.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T13:18:10.000Z"
-  },
-  {
-    "headline": "This hydrogen turbine turns controlled explosions into electricity",
-    "summary": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could unlock dramatically more efficient power systems for clean energy and future aviation.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T13:02:27.000Z"
-  },
-  {
-    "headline": "These underwater bones could solve a mystery about extinct giants",
-    "summary": "Animal bones preserved in South Australia’s underwater caves reveal distinctive clues shaped by darkness, algae, bacteria, and other environmental conditions. The findings give scientists a powerful new way to reconstruct how ancient megafauna remains entered and survived in submerged cave systems.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260802223428.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T12:12:43.000Z"
-  },
-  {
-    "headline": "Strange quantum experiment shows “negative time” is more than an illusion",
-    "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by making extremely weak measurements of the atoms. Surprisingly, the atoms confirmed the same negative dwell…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T11:44:58.000Z"
-  },
-  {
-    "headline": "DNA on the Shroud of Turin reveals centuries of hidden history",
-    "summary": "DNA traces in the Shroud of Turin reveal a remarkable mixture of human lineages, microbes, plants, animals, and coral accumulated through centuries of handling and travel. The findings do not prove its age or authenticity, but they expose a hidden biological history preserved in the famous cloth.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
-    "image_url": null,
-    "published_at": "2026-08-04T09:49:21.000Z"
   }
 ]
