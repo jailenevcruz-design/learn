@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
+    "summary": "New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
+    "image_url": null,
+    "published_at": "2026-08-22T12:06:37.000Z"
+  },
+  {
+    "headline": "Supreme Court allows Trump to continue White House ballroom construction for now",
+    "summary": "President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+    "image_url": null,
+    "published_at": "2026-08-22T11:40:54.000Z"
+  },
+  {
+    "headline": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+    "summary": "U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. military operations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
+    "image_url": null,
+    "published_at": "2026-08-22T10:34:23.000Z"
+  },
+  {
     "headline": "Six investors reveal the biggest market risks — and one strategy they agree on",
     "summary": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
     "publisher": "CNBC",
@@ -9,7 +33,7 @@
   },
   {
     "headline": "U.S.-Canada trade talks collapse just before deadline for tariffs",
-    "summary": "The midnight deadline means that U.S. will impose 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada \"will match those tariffs dollar for dollar.\"",
+    "summary": "The midnight deadline means the U.S. has imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada \"will match those tariffs dollar for dollar.\"",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
     "image_url": null,
@@ -48,14 +72,6 @@
     "published_at": "2026-08-21T21:31:24.000Z"
   },
   {
-    "headline": "Supreme Court allows Trump to continue White House ballroom construction for now",
-    "summary": "President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-    "image_url": null,
-    "published_at": "2026-08-21T20:47:32.000Z"
-  },
-  {
     "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
     "summary": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
     "publisher": "CNBC",
@@ -70,6 +86,14 @@
     "url": "https://www.cnbc.com/2026/08/21/international-student-enrollment-us-visa-policies.html",
     "image_url": null,
     "published_at": "2026-08-21T20:16:27.000Z"
+  },
+  {
+    "headline": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
+    "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+    "image_url": null,
+    "published_at": "2026-08-21T20:05:14.000Z"
   },
   {
     "headline": "Bitcoin surges 22% for the week as investor optimism floods back",
@@ -150,14 +174,6 @@
     "url": "https://www.cnbc.com/2026/08/21/cramer-on-why-our-ai-data-center-stocks-are-among-the-worst-of-the-week.html",
     "image_url": null,
     "published_at": "2026-08-21T17:38:13.000Z"
-  },
-  {
-    "headline": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-    "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-    "image_url": null,
-    "published_at": "2026-08-21T17:25:21.000Z"
   },
   {
     "headline": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/17/refiner-stocks-are-on-a-nearly-unprecedented-run-history-says-it-could-end-soon.html",
     "image_url": null,
     "published_at": "2026-08-17T17:12:44.000Z"
-  },
-  {
-    "headline": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-    "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
-    "image_url": null,
-    "published_at": "2026-08-17T16:36:20.000Z"
-  },
-  {
-    "headline": "Cramer's advice on Apple after analyst upgrade. Plus, why 2 chipmakers are up big",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/17/cramers-advice-on-apple-after-upgrade-plus-why-2-semis-are-up-big.html",
-    "image_url": null,
-    "published_at": "2026-08-17T16:12:26.000Z"
   }
 ]
