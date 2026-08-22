@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Michael Polansky is training an AI model on skin that’s still alive",
+    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "image_url": null,
+    "published_at": "2026-08-22T01:31:04.000Z"
+  },
+  {
+    "headline": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+    "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+    "image_url": null,
+    "published_at": "2026-08-22T01:03:06.000Z"
+  },
+  {
     "headline": "Anthropic’s Opus 4.6 is a smut-machine",
     "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
     "publisher": "TechCrunch",
@@ -1582,21 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
     "image_url": null,
     "published_at": "2026-08-17T17:10:59.000Z"
-  },
-  {
-    "headline": "The Analogue Pocket gets a Supreme makeover in red or gold",
-    "summary": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website: Metallic portable handheld multi-video-game-system. Unibody aluminum with 24K Gold-plated and custom red…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
-    "image_url": null,
-    "published_at": "2026-08-17T16:40:32.000Z"
-  },
-  {
-    "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "image_url": null,
-    "published_at": "2026-08-17T16:38:44.000Z"
   }
 ]
