@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear/romance-was-born",
     "image_url": null,
-    "published_at": "2026-08-23T05:12:35.000Z"
+    "published_at": "2026-08-23T06:16:35.000Z"
   },
   {
     "headline": "Simon Miller Fall 2026 Ready-to-Wear",
@@ -13,7 +13,15 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/simon-miller",
     "image_url": null,
-    "published_at": "2026-08-23T05:12:35.000Z"
+    "published_at": "2026-08-23T06:16:35.000Z"
+  },
+  {
+    "headline": "Zoë Kravitz Experiments in a Long Misunderstood Denim Style",
+    "summary": "Harry Styles and Zoë Kravitz have a shared love of classic straight-leg jeans; but the actor strikes out in a more retro silhouette.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/zoe-kravitz-experiments-in-a-long-misunderstood-denim-style",
+    "image_url": null,
+    "published_at": "2026-08-23T05:56:33.000Z"
   },
   {
     "headline": "Ariana Grande and Ricky Álvarez Layer up for an Even Harder Launch in London",
@@ -96,14 +104,6 @@
     "published_at": "2026-08-22T10:40:35.000Z"
   },
   {
-    "headline": "On Her 31st Birthday, Look Back at 31 of Dua Lipa’s Best Fashion Moments",
-    "summary": "Vogue spotlights some of Dua Lipa’s best looks, from many Met Gala moments to her off-duty style.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/dua-lipa-best-fashion-moments",
-    "image_url": null,
-    "published_at": "2026-08-22T10:00:00.000Z"
-  },
-  {
     "headline": "How to Wear a Handkerchief According to the Street Style Set",
     "summary": "The street style set show how to do handkerchief styling.",
     "publisher": "Vogue",
@@ -116,6 +116,14 @@
     "summary": "Now that Prince Harry and Meghan Markle are moving back to the UK with Prince Archie and Princess Lilibet, where precisely will the family Sussex choose to settle? Writer Lauren O’Neill has some suggestions…",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/where-meghan-and-harry-could-or-should-live-in-the-uk",
+    "image_url": null,
+    "published_at": "2026-08-22T10:00:00.000Z"
+  },
+  {
+    "headline": "On Her 31st Birthday, Look Back at 31 of Dua Lipa’s Best Fashion Moments",
+    "summary": "Vogue spotlights some of Dua Lipa’s best looks, from many Met Gala moments to her off-duty style.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/dua-lipa-best-fashion-moments",
     "image_url": null,
     "published_at": "2026-08-22T10:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://wwd.com/footwear-news/sneaker-news/nike-air-flightposite-3-stained-glass-release-date-1239143297/",
     "image_url": null,
     "published_at": "2026-08-19T17:50:13.000Z"
-  },
-  {
-    "headline": "L’Agence Serves Up First Tennis Collection",
-    "summary": "The 11-piece collection reimagines tennis essentials through L'Agence's elevated lens.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/lagence-first-tennis-collection-1239142981/",
-    "image_url": null,
-    "published_at": "2026-08-19T17:45:14.000Z"
   }
 ]
