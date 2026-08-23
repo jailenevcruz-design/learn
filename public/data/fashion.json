@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear/romance-was-born",
     "image_url": null,
-    "published_at": "2026-08-23T19:08:40.000Z"
+    "published_at": "2026-08-23T21:03:35.000Z"
   },
   {
     "headline": "Simon Miller Fall 2026 Ready-to-Wear",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/simon-miller",
     "image_url": null,
-    "published_at": "2026-08-23T19:08:40.000Z"
+    "published_at": "2026-08-23T21:03:35.000Z"
   },
   {
     "headline": "How Sophie McIntosh Wrote ‘Benevolent,’ One of the Most Bracing Plays of the Year",
@@ -32,6 +32,14 @@
     "published_at": "2026-08-23T17:31:20.000Z"
   },
   {
+    "headline": "Melania Trump Goes Trackside in Crisp Black-and-White Tailoring at Freedom 250 Grand Prix",
+    "summary": "The first lady joined President Donald Trump for the inaugural IndyCar race in the heart of the nation's capital.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/melania-trump-freedom-250-grand-prix-outfit-1239147227/",
+    "image_url": null,
+    "published_at": "2026-08-23T17:10:29.000Z"
+  },
+  {
     "headline": "The Best Dressed Stars of the Week Nailed Sophisticated-Cool",
     "summary": "These quietly elegant looks had serious cool factor—as seen on stars like Rihanna, Hailey Bieber, and more.",
     "publisher": "Vogue",
@@ -48,7 +56,7 @@
     "published_at": "2026-08-23T16:03:18.000Z"
   },
   {
-    "headline": "Kobe Bryant’s Upgraded Nike Kobe 3 Protro Just Got a New Surprise Release in Time for His Birthday",
+    "headline": "Kobe Bryant’s Upgraded Nike Kobe 3 Protro Got a New Surprise Release in Time for His Birthday",
     "summary": "Details on the Nike Kobe 3 Low Protro Crewnshaw sneaker.",
     "publisher": "WWD",
     "url": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-3-low-protro-crenshaw-release-date-jf4648-700-1239147184/",
@@ -1590,13 +1598,5 @@
     "url": "https://www.vogue.com/article/best-fresh-perfumes",
     "image_url": null,
     "published_at": "2026-08-19T20:55:45.000Z"
-  },
-  {
-    "headline": "Adam Baidawi and Alex Marxsen’s New York City Hall Wedding Was a Love Letter to Their New Home",
-    "summary": "GQ’s global editorial director Adam Baidawi married the Lululemon marketing executive Alex Marxsen in a whirlwind New York City Hall wedding that included pizza slices, shooting hoops, martinis at Bemelmans Bar, and just two guests.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/adam-baidawi-and-alex-marxsen-wedding",
-    "image_url": null,
-    "published_at": "2026-08-19T20:30:00.000Z"
   }
 ]
