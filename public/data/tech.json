@@ -1,5 +1,37 @@
 [
   {
+    "headline": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+    "image_url": null,
+    "published_at": "2026-08-23T16:03:00.000Z"
+  },
+  {
+    "headline": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "image_url": null,
+    "published_at": "2026-08-23T15:30:00.000Z"
+  },
+  {
+    "headline": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+    "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We are immediately introduced to our p…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+    "image_url": null,
+    "published_at": "2026-08-23T15:00:00.000Z"
+  },
+  {
+    "headline": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "image_url": null,
+    "published_at": "2026-08-23T15:00:00.000Z"
+  },
+  {
     "headline": "Grand Theft Auto VI exists in its own universe",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Four years ago, fans got a long-aw…",
     "publisher": "The Verge",
@@ -1566,37 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
     "image_url": null,
     "published_at": "2026-08-18T11:00:00.000Z"
-  },
-  {
-    "headline": "Einride strikes deal to add 500 Tesla Semis to its fleet",
-    "summary": "The deal will triple the size of Einride's fleet while sweetening the company's sales pitch for its Saga AI software. The Tesla Semis will be available to customers across North America.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
-    "image_url": null,
-    "published_at": "2026-08-18T10:30:00.000Z"
-  },
-  {
-    "headline": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-    "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the U.S. changed dramatically.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
-    "image_url": null,
-    "published_at": "2026-08-18T10:00:00.000Z"
-  },
-  {
-    "headline": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-    "summary": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-    "image_url": null,
-    "published_at": "2026-08-18T09:00:01.000Z"
-  },
-  {
-    "headline": "Anthropic’s annualized revenue surges to $65B",
-    "summary": "The model maker added $18 billion in annualized revenue in two months.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "image_url": null,
-    "published_at": "2026-08-17T23:56:26.000Z"
   }
 ]

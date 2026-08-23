@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+    "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+    "image_url": null,
+    "published_at": "2026-08-23T17:58:06.000Z"
+  },
+  {
+    "headline": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+    "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+    "image_url": null,
+    "published_at": "2026-08-23T17:30:14.000Z"
+  },
+  {
+    "headline": "Here are the 2 big things we're watching in the stock market this week",
+    "summary": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+    "image_url": null,
+    "published_at": "2026-08-23T16:56:02.000Z"
+  },
+  {
     "headline": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
     "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
     "publisher": "CNBC",
@@ -16,18 +40,18 @@
     "published_at": "2026-08-23T12:46:01.000Z"
   },
   {
-    "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-    "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-    "image_url": null,
-    "published_at": "2026-08-23T12:00:01.000Z"
-  },
-  {
     "headline": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
     "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+    "image_url": null,
+    "published_at": "2026-08-23T12:00:01.000Z"
+  },
+  {
+    "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+    "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
     "image_url": null,
     "published_at": "2026-08-23T12:00:01.000Z"
   },
@@ -62,14 +86,6 @@
     "url": "https://www.npr.org/2026/08/22/nx-s1-5941703/the-u-s-canada-are-fighting-over-tariffs-how-is-that-affecting-small-businesses",
     "image_url": null,
     "published_at": "2026-08-22T21:16:39.000Z"
-  },
-  {
-    "headline": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
-    "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
-    "image_url": null,
-    "published_at": "2026-08-22T20:34:13.000Z"
   },
   {
     "headline": "Nvidia customers reportedly warned about AI-related price hikes",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
     "image_url": null,
     "published_at": "2026-08-18T09:00:00.000Z"
-  },
-  {
-    "headline": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
-    "summary": "The yield on the 30-year U.S. Treasury has surged to its highest level in 19 years, and some strategists see scope for the move to go further.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html",
-    "image_url": null,
-    "published_at": "2026-08-18T06:11:52.000Z"
-  },
-  {
-    "headline": "South Korea must brace for ‘worst-case scenario,’ President Lee says, as Trump cuts military drills",
-    "summary": "The annual exercises, are defensive and not intended to attack North Korea or raise tensions on the peninsula, Lee said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html",
-    "image_url": null,
-    "published_at": "2026-08-18T05:16:51.000Z"
   }
 ]
