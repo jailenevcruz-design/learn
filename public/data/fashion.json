@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear/romance-was-born",
     "image_url": null,
-    "published_at": "2026-08-23T21:03:35.000Z"
+    "published_at": "2026-08-23T23:02:52.000Z"
   },
   {
     "headline": "Simon Miller Fall 2026 Ready-to-Wear",
@@ -13,7 +13,15 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/simon-miller",
     "image_url": null,
-    "published_at": "2026-08-23T21:03:35.000Z"
+    "published_at": "2026-08-23T23:02:52.000Z"
+  },
+  {
+    "headline": "Muriel Gonzalez Retires as President of The Vitamin Shoppe, Jack Gayton Steps Up",
+    "summary": "Gonzalez had a distinguished career spanning four decades including senior-level posts at Macy's, Bergdorf Goodman, Estée Lauder and lastly The Vitamin Shoppe.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/muriel-gonzalez-retires-the-vitamin-shoppe-jack-gayton-1239146508/",
+    "image_url": null,
+    "published_at": "2026-08-23T23:00:00.000Z"
   },
   {
     "headline": "How Sophie McIntosh Wrote ‘Benevolent,’ One of the Most Bracing Plays of the Year",
@@ -1590,13 +1598,5 @@
     "url": "https://wwd.com/sourcing-journal/industry-news/neon-rebels-maisonette-marketplace-fashion-1239143558/",
     "image_url": null,
     "published_at": "2026-08-19T20:57:17.000Z"
-  },
-  {
-    "headline": "The Best Fresh Perfumes Go With Everything",
-    "summary": "Bright, breezy, and never overpowering, the best fresh perfumes by Dior, Byredo, and more are effortless scents that work for practically any mood or occasion.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-fresh-perfumes",
-    "image_url": null,
-    "published_at": "2026-08-19T20:55:45.000Z"
   }
 ]
