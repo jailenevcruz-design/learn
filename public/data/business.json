@@ -1,5 +1,21 @@
 [
   {
+    "headline": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+    "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+    "image_url": null,
+    "published_at": "2026-08-24T09:11:23.000Z"
+  },
+  {
+    "headline": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+    "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+    "image_url": null,
+    "published_at": "2026-08-24T08:54:42.000Z"
+  },
+  {
     "headline": "Treasury yields fall as investors brace for Warsh’s Jackson Hole keynote amid bond fears",
     "summary": "Treasury yields fell Monday as investors await Federal Reserve Chair Kevin Warsh's keynote speech at Jackson Hole later this week.",
     "publisher": "CNBC",
@@ -16,6 +32,14 @@
     "published_at": "2026-08-24T08:21:17.000Z"
   },
   {
+    "headline": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
+    "summary": "Shein is planning to raise up to $13.86 billion in Hong Kong dollars ($1.77 billion) in its initial public offering, according to a filing on Monday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+    "image_url": null,
+    "published_at": "2026-08-24T07:34:17.000Z"
+  },
+  {
     "headline": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
     "summary": "Consumer prices rose 2.2% last month, compared with the 2.3% expected by economists polled by Reuters",
     "publisher": "CNBC",
@@ -30,14 +54,6 @@
     "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
     "image_url": null,
     "published_at": "2026-08-24T04:59:42.000Z"
-  },
-  {
-    "headline": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
-    "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-    "image_url": null,
-    "published_at": "2026-08-24T04:58:03.000Z"
   },
   {
     "headline": "What's bogging down the data center trade has nothing to do with demand",
@@ -104,18 +120,18 @@
     "published_at": "2026-08-23T12:00:01.000Z"
   },
   {
-    "headline": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago",
-    "summary": "United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
-    "image_url": null,
-    "published_at": "2026-08-23T12:00:01.000Z"
-  },
-  {
     "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
     "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+    "image_url": null,
+    "published_at": "2026-08-23T12:00:01.000Z"
+  },
+  {
+    "headline": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago",
+    "summary": "United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
     "image_url": null,
     "published_at": "2026-08-23T12:00:01.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/18/contrarian-vs-the-crowd-one-trader-made-a-massive-bet-against-chip-stocks.html",
     "image_url": null,
     "published_at": "2026-08-18T13:13:13.000Z"
-  },
-  {
-    "headline": "'Worrisome': AI is driving a looming market correction, European central bank economists warn",
-    "summary": "History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
-    "image_url": null,
-    "published_at": "2026-08-18T13:04:04.000Z"
-  },
-  {
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "summary": "The bond market is the story of the day.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-    "image_url": null,
-    "published_at": "2026-08-18T13:00:31.000Z"
   }
 ]
