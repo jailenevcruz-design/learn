@@ -1,5 +1,93 @@
 [
   {
+    "headline": "Common medications may change your gut for years",
+    "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T13:14:50.000Z"
+  },
+  {
+    "headline": "Bird flu is spreading. Your backyard feeder could make it worse",
+    "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T12:49:08.000Z"
+  },
+  {
+    "headline": "A ghostly ribbon of stars reveals hidden dark matter",
+    "summary": "A faint ribbon of stars around a distant galaxy has become the first globular cluster stellar stream ever identified beyond the Milky Way. Because the stars trace the galaxy’s gravity, researchers used the stream to estimate how much invisible dark matter surrounds it and how that matter is distributed. The breakthroug…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823015000.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T12:19:34.000Z"
+  },
+  {
+    "headline": "A tiny “rainbow on a chip” could help supercharge 6G networks",
+    "summary": "Researchers have created a tiny chip that produces a stable “rainbow” of light capable of generating multiple high-frequency signals at once, potentially boosting the speed and capacity of future 6G networks. Its extreme precision could also make it valuable for quantum timing, navigation, radar, and even space-based t…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823014946.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T12:07:31.000Z"
+  },
+  {
+    "headline": "Too much or too little sleep may make your body age faster",
+    "summary": "Both too little and too much sleep may be linked to faster aging throughout the body. Researchers analyzing 23 biological aging clocks found the lowest aging levels among people sleeping about 6.4 to 7.8 hours per day. Short or long sleep was also associated with numerous conditions affecting the brain, heart, lungs, m…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T11:31:44.000Z"
+  },
+  {
+    "headline": "Screen time at ages 1 and 6 may matter more than parents realize",
+    "summary": "More screen time during infancy and around the start of school was linked to poorer academic performance and weaker working memory years later. The findings suggest that early childhood may contain particularly sensitive windows when screen habits can have longer-lasting effects.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T10:31:15.000Z"
+  },
+  {
+    "headline": "Scientists just imaged the hidden quantum shape of a molecule",
+    "summary": "Researchers have found a way to create a complete 3D image of a molecule’s wavefunction, one of quantum mechanics’ most fundamental yet elusive features. By combining advanced photoelectron measurements with newly designed algorithms, the University of Göttingen team reconstructed the molecular orbital of a nanometer-s…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260822015213.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T09:55:19.000Z"
+  },
+  {
+    "headline": "NASA is about to launch a powerful new eye on the universe",
+    "summary": "NASA’s Roman Space Telescope has been cleared for final launch preparations ahead of a targeted August 30 liftoff aboard SpaceX’s Falcon Heavy. The powerful new observatory will probe cosmic expansion, the history of the universe, and distant exoplanets.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823094140.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T04:45:05.000Z"
+  },
+  {
+    "headline": "Trump to award Congressional Space Medal of Honor to Artemis II astronauts",
+    "summary": "The Artemis II crew will receive the Congressional Space Medal of Honor after becoming the first humans in more than 50 years to travel beyond the Moon. Their 10-day Orion mission also carried them farther into space than anyone in history.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823094138.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T04:25:30.000Z"
+  },
+  {
+    "headline": "Scientists discover a real-life “dragon” and name it after Syrax",
+    "summary": "Scientists discovered a small, yellowish mountain horned dragon in Thailand and named it Acanthosaura syrax after a dragon from House of the Dragon. Found only in a narrow band of high-elevation forest, the distinctive new species could become a flagship for protecting its rare mountain habitat.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823015005.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T03:11:22.000Z"
+  },
+  {
+    "headline": "Gut bacteria may unlock a hidden benefit of vegetables",
+    "summary": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and metabolism. In experimental models, higher levels of these compounds were linked to lower blood pressure, better blood sugar control, healthier blood vessels, and less liver f…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
+    "image_url": null,
+    "published_at": "2026-08-24T02:48:52.000Z"
+  },
+  {
     "headline": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
     "summary": "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making memory circuits unusually active. That early hyperactivity predicted worse memory later in life. Reducin…",
     "publisher": "ScienceDaily",
@@ -1510,93 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260806050700.htm",
     "image_url": null,
     "published_at": "2026-08-07T01:32:54.000Z"
-  },
-  {
-    "headline": "This week's Short Wave news roundup",
-    "summary": "NPR's science podcast rounds up new studies about a wandering black hole, humans' ability to detect AI-generated text, and the impact of cougars on vehicle-deer collisions.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/06/nx-s1-5913979/this-weeks-short-wave-news-roundup",
-    "image_url": null,
-    "published_at": "2026-08-06T20:40:51.000Z"
-  },
-  {
-    "headline": "Sticky or slippery? Snails can change their slime to meet the moment",
-    "summary": "Snails are slimy. But there's more to that goo of theirs than meets the eye. It's a fact that may help inspire the creation of new materials.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/06/nx-s1-5920383/snail-slime-mucus-inspire-new-materials",
-    "image_url": null,
-    "published_at": "2026-08-06T18:26:45.000Z"
-  },
-  {
-    "headline": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
-    "summary": "At a time of increased conflict between elephants and humans, as elephant habitats are converted to intensive agriculture, the Hurulu Eco Park is a place where the animals can graze unimpeded.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
-    "image_url": null,
-    "published_at": "2026-08-06T14:19:27.000Z"
-  },
-  {
-    "headline": "Major study challenges long-held fears about acetaminophen and ibuprofen use in babies",
-    "summary": "A landmark study of nearly 4,000 babies found that acetaminophen and ibuprofen were equally safe during infancy. Neither medicine was linked to eczema or bronchiolitis, and no serious side effects were caused by the drugs. Researchers will continue following the children through age six to study possible long-term effe…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260805082510.htm",
-    "image_url": null,
-    "published_at": "2026-08-06T12:43:09.000Z"
-  },
-  {
-    "headline": "A star’s violent death exposed a hidden supermassive black hole",
-    "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a passing star and producing a brief, brilliant flare. Astronomers think it may be the remnant of a devoured…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
-    "image_url": null,
-    "published_at": "2026-08-06T12:16:32.000Z"
-  },
-  {
-    "headline": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
-    "summary": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shuttling shell could open new possibilities for cleaner chemical manufacturing and artificial photosynthesis.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
-    "image_url": null,
-    "published_at": "2026-08-06T12:03:02.000Z"
-  },
-  {
-    "headline": "World’s most-used weedkiller disrupts honeybee brains",
-    "summary": "Glyphosate was long thought to be safe for honeybees because they lack the enzyme the chemical targets in weeds. However, researchers found that exposed bees foraged 13 percent less after only three days and showed changes in brain chemicals linked to behavior. Across a whole hive, that decline could reduce honey produ…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260804034638.htm",
-    "image_url": null,
-    "published_at": "2026-08-06T11:42:42.000Z"
-  },
-  {
-    "headline": "Nearly half of dementia cases may be linked to risks you can change",
-    "summary": "A long-term brain study found that common risks such as smoking, high blood pressure, heart disease, and high blood lipids were strongly linked to damage associated with vascular dementia. The findings suggest that healthier lifestyle choices could help delay dementia by reducing several harmful brain changes at once.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm",
-    "image_url": null,
-    "published_at": "2026-08-06T10:23:46.000Z"
-  },
-  {
-    "headline": "A drug already used for osteoporosis blocked spinal damage in a new study",
-    "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were able to reduce the damage using an existing osteoporosis drug…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
-    "image_url": null,
-    "published_at": "2026-08-06T09:50:21.000Z"
-  },
-  {
-    "headline": "Forget the sperm race: Fertilization may depend on teamwork",
-    "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged and vanished over hundreds of millions of years. The discovery challenges the classic “fastest sperm…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
-    "image_url": null,
-    "published_at": "2026-08-06T06:25:07.000Z"
-  },
-  {
-    "headline": "The AMOC stayed strong even as a major ocean “lifeline” nearly shut down",
-    "summary": "Ancient seafloor sediments have revealed a surprising twist in how the Atlantic’s massive circulation system works. During a cold period about 3.4 million years ago, the flow of warm, salty water from the Indian Ocean into the Atlantic nearly shut down—but the AMOC did not weaken as expected. Parts of the overturning c…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260805082454.htm",
-    "image_url": null,
-    "published_at": "2026-08-06T05:40:11.000Z"
   }
 ]
