@@ -1,5 +1,21 @@
 [
   {
+    "headline": "The Vogue Business People Moves Tracker",
+    "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+    "image_url": null,
+    "published_at": "2026-08-24T05:00:00.000Z"
+  },
+  {
+    "headline": "Gap Inc.’s Fashion Week ‘Encore’ Takeover",
+    "summary": "The company’s Encore loyalty program was launched last February with richer perks and points than the previous one.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/gap-inc-s-new-york-fashion-week-encore-takeover-1239146669/",
+    "image_url": null,
+    "published_at": "2026-08-24T05:00:00.000Z"
+  },
+  {
     "headline": "Romance Was Born Spring 2026 Ready-to-Wear",
     "summary": "",
     "publisher": "Vogue",
@@ -14,6 +30,22 @@
     "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/simon-miller",
     "image_url": null,
     "published_at": "2026-08-24T04:30:06.000Z"
+  },
+  {
+    "headline": "Are Creators Up to the Task of Their New Marketing Roles?",
+    "summary": "The creator job description is no longer limited to making and distributing content — influencers are now expected to have business savvy to boot.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/are-creators-up-to-the-task-of-their-new-marketing-roles",
+    "image_url": null,
+    "published_at": "2026-08-24T04:30:00.000Z"
+  },
+  {
+    "headline": "In Luxury’s New Resale Era, Everyone’s a Fashion Expert",
+    "summary": "The RealReal’s 2026 resale report illustrates the rise in specificity and saviness in luxury resale. This will change how the industry operates.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/in-luxurys-new-resale-era-everyones-a-fashion-expert",
+    "image_url": null,
+    "published_at": "2026-08-24T04:30:00.000Z"
   },
   {
     "headline": "Lila Moss Is Zadig & Voltaire’s New Ambassador",
@@ -1566,37 +1598,5 @@
     "url": "https://wwd.com/fashion-news/fashion-scoops/tommy-john-fall-campaign-nfl-lineman-underwear-colton-underwood-1239143767/",
     "image_url": null,
     "published_at": "2026-08-20T04:01:00.000Z"
-  },
-  {
-    "headline": "52 Thoughts I Had About Episode 5 of ‘The Shards’",
-    "summary": "This is all really giving that episode of Friends where Monica, Ross, and Joey do the televised dance show on New Year’s Eve.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/52-thoughts-i-had-about-episode-5-of-the-shards",
-    "image_url": null,
-    "published_at": "2026-08-20T02:00:00.000Z"
-  },
-  {
-    "headline": "US Trade Czar ‘Very Happy With Where We Ended Up’ On Canadian Trade Deal, Though Details Remain Scant",
-    "summary": "Greer indicated that a consensus between the countries had been reached. “We're looking at documentation at this point,” he said.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/trade/us-canada-trade-deal-tariffs-trump-carney-greer-ustr-section-338-1239144006/",
-    "image_url": null,
-    "published_at": "2026-08-19T23:27:01.000Z"
-  },
-  {
-    "headline": "Three Reasons Nike Just Partnered With Influencer Quenlin Blackwell",
-    "summary": "Blackwell's new role goes beyond a traditional influencer campaign for the Swoosh.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/nike-quenlin-blackwell-partnership-running-gen-z-1239143535/",
-    "image_url": null,
-    "published_at": "2026-08-19T22:56:40.000Z"
-  },
-  {
-    "headline": "Your Mealtimes Might Be Giving You Metabolic Jet Lag",
-    "summary": "You mealtimes can affect metabolism, sleep, and blood sugar. Experts explain how to avoid metabolic jet lag with a consistent eating schedule.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/travel-jetlag-gut-health",
-    "image_url": null,
-    "published_at": "2026-08-19T22:18:37.000Z"
   }
 ]
