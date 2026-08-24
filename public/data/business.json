@@ -1,5 +1,21 @@
 [
   {
+    "headline": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+    "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+    "image_url": null,
+    "published_at": "2026-08-24T03:38:59.000Z"
+  },
+  {
+    "headline": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+    "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+    "image_url": null,
+    "published_at": "2026-08-24T02:55:22.000Z"
+  },
+  {
     "headline": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
     "summary": "Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.",
     "publisher": "CNBC",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
     "image_url": null,
     "published_at": "2026-08-18T11:51:15.000Z"
-  },
-  {
-    "headline": "The startup using AI to help rare disease families develop custom treatments",
-    "summary": "Nome uses AI and drug-development expertise to help rare disease families turn genetic diagnoses into potential paths toward treatment.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/the-startup-using-ai-to-help-build-custom-treatments-for-rare-diseases.html",
-    "image_url": null,
-    "published_at": "2026-08-18T11:00:01.000Z"
-  },
-  {
-    "headline": "The grueling fight over who profits from AI music",
-    "summary": "AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
-    "image_url": null,
-    "published_at": "2026-08-18T10:30:00.000Z"
   }
 ]
