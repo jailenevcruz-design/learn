@@ -1,7 +1,79 @@
 [
   {
+    "headline": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+    "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+    "image_url": null,
+    "published_at": "2026-08-24T19:58:17.000Z"
+  },
+  {
+    "headline": "Amazon hikes hardware prices by 60 percent, blaming memory shortage",
+    "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+    "image_url": null,
+    "published_at": "2026-08-24T19:54:50.000Z"
+  },
+  {
+    "headline": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-08-24T19:54:19.000Z"
+  },
+  {
+    "headline": "The cat-and-mouse game over 3D-printed guns has begun",
+    "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to crea…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+    "image_url": null,
+    "published_at": "2026-08-24T19:50:00.000Z"
+  },
+  {
+    "headline": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+    "summary": "Apply before September 4 to be a part of the Disrupt community by hosting your own Side Event.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-08-24T19:44:13.000Z"
+  },
+  {
+    "headline": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "image_url": null,
+    "published_at": "2026-08-24T18:03:55.000Z"
+  },
+  {
+    "headline": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+    "summary": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to compete with Zillow f…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+    "image_url": null,
+    "published_at": "2026-08-24T17:01:05.000Z"
+  },
+  {
+    "headline": "Robotaxis are real now — so is the pushback",
+    "summary": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later, commercial driverless s…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+    "image_url": null,
+    "published_at": "2026-08-24T16:42:37.000Z"
+  },
+  {
+    "headline": "The Witcher 4 developers target a 2028 release",
+    "summary": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the game might actually come out.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+    "image_url": null,
+    "published_at": "2026-08-24T15:48:53.000Z"
+  },
+  {
     "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
     "image_url": null,
@@ -49,7 +121,7 @@
   },
   {
     "headline": "How GoFundMe became America’s backup plan",
-    "summary": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league uniforms to starting a new business. Tim took over as CEO in March 2020 — a fascinating and chaotic moment…",
+    "summary": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to Little League uniforms to starting a new business. Tim took over as CEO in March 2020 — a fascinating and chaotic moment…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
     "image_url": null,
@@ -105,7 +177,7 @@
   },
   {
     "headline": "Uber faces fine of nearly $1B over automated driver suspensions",
-    "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+    "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second-largest penalty issued under Europe’s GDPR.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
     "image_url": null,
@@ -144,18 +216,18 @@
     "published_at": "2026-08-23T15:30:00.000Z"
   },
   {
-    "headline": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
-    "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We are immediately introduced to our p…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
-    "image_url": null,
-    "published_at": "2026-08-23T15:00:00.000Z"
-  },
-  {
     "headline": "Is it legal to train AI models on copyrighted books? It’s complicated",
     "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "image_url": null,
+    "published_at": "2026-08-23T15:00:00.000Z"
+  },
+  {
+    "headline": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+    "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We are immediately introduced to our p…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
     "image_url": null,
     "published_at": "2026-08-23T15:00:00.000Z"
   },
@@ -1526,77 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
     "image_url": null,
     "published_at": "2026-08-18T16:39:05.000Z"
-  },
-  {
-    "headline": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
-    "summary": "Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Jay Janner/The Austin American-Statesman via Getty Images The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing its public launch. Whether or not the no-stee…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
-    "image_url": null,
-    "published_at": "2026-08-18T16:26:29.000Z"
-  },
-  {
-    "headline": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-    "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-    "image_url": null,
-    "published_at": "2026-08-18T16:19:10.000Z"
-  },
-  {
-    "headline": "Bluesky says its recent outage was caused by another DDoS attack",
-    "summary": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
-    "image_url": null,
-    "published_at": "2026-08-18T15:59:48.000Z"
-  },
-  {
-    "headline": "Peacock is raising prices across all of its streaming plans",
-    "summary": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
-    "image_url": null,
-    "published_at": "2026-08-18T15:26:31.000Z"
-  },
-  {
-    "headline": "Peacock is raising prices by up to $3",
-    "summary": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99 to $12.99 / month, while the ad-free Premium Plus plan is getting the biggest hike,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-    "image_url": null,
-    "published_at": "2026-08-18T14:11:39.000Z"
-  },
-  {
-    "headline": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-    "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-    "image_url": null,
-    "published_at": "2026-08-18T14:00:00.000Z"
-  },
-  {
-    "headline": "Warp’s new system is an out-of-the-box software factory for AI development",
-    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-    "image_url": null,
-    "published_at": "2026-08-18T14:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "image_url": null,
-    "published_at": "2026-08-18T13:50:30.000Z"
-  },
-  {
-    "headline": "Perplexity’s free AI offer left it with millions more users in India",
-    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-    "image_url": null,
-    "published_at": "2026-08-18T13:45:40.000Z"
   }
 ]
