@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Treasury yields fall as investors brace for Warsh’s Jackson Hole keynote amid bond fears",
+    "summary": "Treasury yields fell Monday as investors await Federal Reserve Chair Kevin Warsh's keynote speech at Jackson Hole later this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
+    "image_url": null,
+    "published_at": "2026-08-24T08:24:46.000Z"
+  },
+  {
+    "headline": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+    "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+    "image_url": null,
+    "published_at": "2026-08-24T08:21:17.000Z"
+  },
+  {
     "headline": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
     "summary": "Consumer prices rose 2.2% last month, compared with the 2.3% expected by economists polled by Reuters",
     "publisher": "CNBC",
@@ -22,14 +38,6 @@
     "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
     "image_url": null,
     "published_at": "2026-08-24T04:58:03.000Z"
-  },
-  {
-    "headline": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-    "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-    "image_url": null,
-    "published_at": "2026-08-24T02:55:22.000Z"
   },
   {
     "headline": "What's bogging down the data center trade has nothing to do with demand",
@@ -92,6 +100,14 @@
     "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+    "image_url": null,
+    "published_at": "2026-08-23T12:00:01.000Z"
+  },
+  {
+    "headline": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago",
+    "summary": "United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
     "image_url": null,
     "published_at": "2026-08-23T12:00:01.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
     "image_url": null,
     "published_at": "2026-08-18T13:00:31.000Z"
-  },
-  {
-    "headline": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
-    "summary": "American is trying to add more premium seating and passenger perks after falling behind rivals Delta and United.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
-    "image_url": null,
-    "published_at": "2026-08-18T13:00:01.000Z"
-  },
-  {
-    "headline": "Prediction markets entrant Novig posts more than $125 million in trading volume during its first week",
-    "summary": "The newly launched Novig has reported over $125 million in notional trading volume.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/18/novig-posts-more-than-125-million-in-trading-volume-in-its-first-week.html",
-    "image_url": null,
-    "published_at": "2026-08-18T12:00:01.000Z"
   }
 ]
