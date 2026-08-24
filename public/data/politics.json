@@ -1,7 +1,23 @@
 [
   {
-    "headline": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
-    "summary": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
+    "headline": "An aluminum smelter becomes part of Oklahoma Republican governor runoff election",
+    "summary": "A proposed $4 billion aluminum smelter pushed by President Trump is splitting Oklahoma Republicans.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/24/nx-s1-5936546/an-aluminum-smelter-becomes-part-of-oklahoma-republican-governor-runoff-election",
+    "image_url": null,
+    "published_at": "2026-08-24T21:17:29.000Z"
+  },
+  {
+    "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+    "summary": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+    "image_url": null,
+    "published_at": "2026-08-24T20:53:45.000Z"
+  },
+  {
+    "headline": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
+    "summary": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
     "image_url": null,
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/07/24/nx-s1-5903070/st-louis-democratic-house-primary-exposes-party-rifts-over-israel",
     "image_url": null,
     "published_at": "2026-07-24T21:17:28.000Z"
-  },
-  {
-    "headline": "Trump's replacement tariffs continue to put pressure on U.S. economy",
-    "summary": "President Trump slapped replacement tariffs on 59 countries and the European Union to replace expiring ones.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy",
-    "image_url": null,
-    "published_at": "2026-07-24T20:26:01.000Z"
-  },
-  {
-    "headline": "Senate advances budget bill after marathon late-night session",
-    "summary": "Lawmakers voted to advance a compromise spending package early this morning, following weeks of negotiation over a contested infrastructure amendment. A final floor vote is expected by Friday.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org",
-    "image_url": null,
-    "published_at": "2026-07-16T15:53:55.977178+00:00"
   }
 ]
