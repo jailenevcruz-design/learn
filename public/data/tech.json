@@ -1,5 +1,109 @@
 [
   {
+    "headline": "Where to preorder the updated Mac Mini and Mac Studio",
+    "summary": "The updated Mac Mini is a compact machine for home desktop use. | Image: Apple Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+    "image_url": null,
+    "published_at": "2026-08-25T13:02:18.000Z"
+  },
+  {
+    "headline": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
+    "summary": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt up and down 103 degrees. When you want privacy, the lens can tilt down until it completely disappears inside the Indoor Cam Pan's body so it'…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
+    "summary": "GuliKit’s Switch 2 dock is a much smaller alternative to Nintendo’s. Nintendo didn’t design its Switch dock with travel in mind. Genki’s Covert Dock is a much smaller alternative my family has been using to connect our Switch to hotel TVs for years, but I’ve come to realize I much prefer having a stand for the console…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
+    "summary": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023, Uber has touted the myriad ways parents can keep tabs on their children, from PIN verification to live GP…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+    "summary": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its \"most powerful chip ever,\" designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple's first 2nm chip, which Apple says will bring improvements in performance and power efficiency, and it also has a Dual 16…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
+    "summary": "The M6 / M5 Pro Mac Mini. | Image: Apple Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro. The new Minis have the same tiny design and footprint as the 2024 M4 / M4 Pro models, but with up…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
+    "summary": "Those precious, precious ports! | Image: Apple Apple is announcing new models of the Mac Studio, now using the existing M5 Max and a new M5 Ultra. This reunification under one chip generation comes over a year after Apple awkwardly split the Studio between M4 Max and M3 Ultra offerings. (The older sounding M3 Ultra was…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+    "summary": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "WhatsApp tightens account security with stronger two-step verification and more",
+    "summary": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "Accel-backed Keenable is indexing the web for AI agents",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "Uber launches live video streaming for teen accounts",
+    "summary": "Uber said no one will be able to access the video once the ride ends",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:00.000Z"
+  },
+  {
+    "headline": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+    "summary": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+    "image_url": null,
+    "published_at": "2026-08-25T12:37:37.000Z"
+  },
+  {
+    "headline": "The OLED Xbox Ally X20 officially starts at $1,300",
+    "summary": "The Asus Xbox Ally X20 looked like it could be one of the best handheld gaming PCs yet made - but originally, Asus wanted you to buy a bundle pairing it with pricy AR glasses. In July, we told you that bundle would no longer be necessary, and today it's official: you can pre-order a standalone handheld at Best Buy or A…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
+    "image_url": null,
+    "published_at": "2026-08-25T12:30:00.000Z"
+  },
+  {
     "headline": "The TCL Note A1 is a kinder, gentler tablet",
     "summary": "Website design is my passion. Without thinking, I scribbled over what I'd just written. It's what I would have done if I was writing with pen and paper. But I didn't have a pen in my hand; my canvas was an LCD and the letters on my page were just pixels. Score one point to the TCL Note A1. TCL's Note A1 Nxtpaper tablet…",
     "publisher": "The Verge",
@@ -1494,109 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
     "image_url": null,
     "published_at": "2026-08-19T14:02:00.000Z"
-  },
-  {
-    "headline": "This robot vacuum solves my kitchen stool problem",
-    "summary": "The Mova V70 goes places other robots can’t reach. | Photo by Jennifer Pattison Tuohy / The Verge Robot vacuums are great at keeping your floors clean, but there are a few areas they fall down on the job - stairs being one. Another is chairs and stools. You know the scenario: You have a row of stools at a kitchen table…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review",
-    "image_url": null,
-    "published_at": "2026-08-19T14:00:00.000Z"
-  },
-  {
-    "headline": "Home batteries are suddenly cheap and everywhere. Here’s why.",
-    "summary": "Companies including Tesla and Base Power are vying for a piece of the rapidly growing market for home batteries. One technology has made it all possible.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/",
-    "image_url": null,
-    "published_at": "2026-08-19T13:40:00.000Z"
-  },
-  {
-    "headline": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
-    "summary": "The cyberattack at CareCloud resulted in one of the largest reported data breaches in the U.S. healthcare industry this year.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
-    "image_url": null,
-    "published_at": "2026-08-19T13:04:10.000Z"
-  },
-  {
-    "headline": "Amazon seemingly leaked Jason Statham’s entire Mutiny movie",
-    "summary": "This screenshot shows the Mutiny (2026) page listing on Prime Video US, and the “resume” bar indicating that it’s watchable. | Image: Amazon / Dominic Preston / The Verge Jason Statham's upcoming film Mutiny is set to hit theaters on August 21st, but for at least an hour today it was available to stream in full on the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak",
-    "image_url": null,
-    "published_at": "2026-08-19T12:32:00.000Z"
-  },
-  {
-    "headline": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-    "summary": "It's the data, stupid.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-    "image_url": null,
-    "published_at": "2026-08-19T12:00:00.000Z"
-  },
-  {
-    "headline": "You can Venmo your college tuition, for some reason",
-    "summary": "Kids these days don't know how good they have it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
-    "image_url": null,
-    "published_at": "2026-08-19T12:00:00.000Z"
-  },
-  {
-    "headline": "Nvidia’s new financial strategy does not compute",
-    "summary": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to ta…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-    "image_url": null,
-    "published_at": "2026-08-19T12:00:00.000Z"
-  },
-  {
-    "headline": "The women’s soccer league trying to fix fantasy sports",
-    "summary": "The WSL’s first official fantasy game is putting player photos front and center, which is less common than you might expect. | Image: WSL Football Most fantasy sports leagues suffer the same problem: retention. Leagues play out over monthslong seasons, require regular attention, and can punish players severely for miss…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app",
-    "image_url": null,
-    "published_at": "2026-08-19T12:00:00.000Z"
-  },
-  {
-    "headline": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
-    "summary": "Prime Air is launching in Georgia, Ohio, Illinois, Idaho, and New York soon. | Image: Joseph Ciembroniewicz/Omaha World-Herald via Getty Images Amazon says its drone delivery service will reach \"nearly 500 cities and towns in the United States\" by the end of this year, increasing its coverage by six times compared to t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
-    "image_url": null,
-    "published_at": "2026-08-19T11:53:27.000Z"
-  },
-  {
-    "headline": "The everyday tech I use to track my corgi",
-    "summary": "The Apple AirTag may be a jack-of-all-trades - people use it for keeping track of keys, suitcases, backpacks, purses - but I think the most logical use case for it, by far, is keeping track of your pet. I attach it to my corgi Jelly's collar via a matching silicone holder. Have I ever once truly needed it to find her,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking",
-    "image_url": null,
-    "published_at": "2026-08-19T11:30:00.000Z"
-  },
-  {
-    "headline": "Framework gave its 12-inch laptop some hardware upgrades",
-    "summary": "Framework launched a second-generation of its colorful 2-in-1 convertible laptop. | Image: Framework Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
-    "image_url": null,
-    "published_at": "2026-08-19T10:14:26.000Z"
-  },
-  {
-    "headline": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-    "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-    "image_url": null,
-    "published_at": "2026-08-19T10:00:00.000Z"
-  },
-  {
-    "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "image_url": null,
-    "published_at": "2026-08-18T22:14:25.000Z"
   }
 ]

@@ -1,11 +1,67 @@
 [
   {
-    "headline": "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East",
+    "headline": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
+    "summary": "Dick's Sporting Goods reported second fiscal quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-25T13:35:12.000Z"
+  },
+  {
+    "headline": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
     "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
     "image_url": null,
-    "published_at": "2026-08-25T12:06:32.000Z"
+    "published_at": "2026-08-25T13:29:31.000Z"
+  },
+  {
+    "headline": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+    "summary": "United is betting big on premium, international travel with a host of new routes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+    "image_url": null,
+    "published_at": "2026-08-25T13:09:12.000Z"
+  },
+  {
+    "headline": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
+    "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+    "image_url": null,
+    "published_at": "2026-08-25T13:07:35.000Z"
+  },
+  {
+    "headline": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
+    "summary": "Workers are \"time traveling\" on LinkedIn to add AI skills to roles they left years ago, likely to get a leg up in a tough job market, researchers say.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/job-seekers-are-adding-ai-skills-on-linkedin-to-roles-they-held-pre-chatgpt-researchers.html",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:17.000Z"
+  },
+  {
+    "headline": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
+    "summary": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
+    "image_url": null,
+    "published_at": "2026-08-25T13:00:01.000Z"
+  },
+  {
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "summary": "Chip stocks are bouncing back, one day before Nvidia's earnings report Wednesday night.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "image_url": null,
+    "published_at": "2026-08-25T12:59:01.000Z"
+  },
+  {
+    "headline": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+    "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+    "image_url": null,
+    "published_at": "2026-08-25T12:42:15.000Z"
   },
   {
     "headline": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
@@ -22,22 +78,6 @@
     "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
     "image_url": null,
     "published_at": "2026-08-25T11:49:33.000Z"
-  },
-  {
-    "headline": "Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market",
-    "summary": "Dick's Sporting Goods reported second fiscal quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-25T11:41:49.000Z"
-  },
-  {
-    "headline": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
-    "summary": "United is betting big on premium, international travel with a host of new routes.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-    "image_url": null,
-    "published_at": "2026-08-25T11:32:06.000Z"
   },
   {
     "headline": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines",
@@ -1558,45 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
     "image_url": null,
     "published_at": "2026-08-19T20:00:17.000Z"
-  },
-  {
-    "headline": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-    "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-19T20:00:13.000Z"
-  },
-  {
-    "headline": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-    "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-    "image_url": null,
-    "published_at": "2026-08-19T19:49:28.000Z"
-  },
-  {
-    "headline": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
-    "image_url": null,
-    "published_at": "2026-08-19T18:58:48.000Z"
-  },
-  {
-    "headline": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-    "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-    "image_url": null,
-    "published_at": "2026-08-19T18:54:50.000Z"
-  },
-  {
-    "headline": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case",
-    "summary": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,'\" prosecutors said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
-    "image_url": null,
-    "published_at": "2026-08-19T18:54:04.000Z"
   }
 ]

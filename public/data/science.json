@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Shingles vaccine linked to 24% lower dementia risk",
+    "summary": "Older adults who received the Shingrix shingles vaccine were 24% less likely to be diagnosed with dementia over four years in a study of more than 500,000 people. Researchers estimate the difference could amount to roughly one dementia case prevented for every 17 people vaccinated.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
+    "image_url": null,
+    "published_at": "2026-08-25T13:09:21.000Z"
+  },
+  {
+    "headline": "Supercharged “natural killer” cells could be a powerful new cancer weapon",
+    "summary": "Researchers have found a way to supercharge natural killer cells, powerful immune cells that can attack cancer, so they can penetrate solid tumors and keep fighting once inside. In mice, these specially prepared tissue-resident cells slowed the growth of several tumors, including melanoma and head and neck cancers, and…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm",
+    "image_url": null,
+    "published_at": "2026-08-25T12:56:22.000Z"
+  },
+  {
+    "headline": "A Manhattan-sized ice island just broke free from Greenland",
+    "summary": "A huge section of Greenland’s Petermann Glacier has snapped off, forming an ice island about the size of Manhattan. Satellites watched cracks spread rapidly before the 76-square-kilometer slab finally broke free on August 4. It is the glacier’s biggest calving event since 2012, and scientists say two even larger pieces…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823094145.htm",
+    "image_url": null,
+    "published_at": "2026-08-25T12:32:33.000Z"
+  },
+  {
+    "headline": "Atomic catalyst unlocks the hidden value of plant waste",
+    "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
+    "image_url": null,
+    "published_at": "2026-08-25T10:09:15.000Z"
+  },
+  {
     "headline": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
     "summary": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins.",
     "publisher": "NPR",
@@ -16,12 +48,52 @@
     "published_at": "2026-08-25T09:00:00.000Z"
   },
   {
+    "headline": "Scientists find hidden “highways” guiding animal evolution",
+    "summary": "A sweeping analysis of thousands of animal genomes suggests that chromosomes do not evolve randomly but instead follow a limited number of irreversible “evolutionary highways.” These one-way genetic changes preserve clues to more than 600 million years of animal history and could even help researchers explore where evo…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
+    "image_url": null,
+    "published_at": "2026-08-25T08:48:49.000Z"
+  },
+  {
+    "headline": "NASA finds Earth microbes could survive on the Moon",
+    "summary": "NASA scientists found that microbes brought by astronauts could survive in cold, shadowed niches around the Moon’s South Pole, potentially complicating future searches for pristine lunar chemistry. Some refuges may be no larger than a footprint, while one hardy fungus could even withstand limited exposure to sunlight.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823094142.htm",
+    "image_url": null,
+    "published_at": "2026-08-25T06:30:18.000Z"
+  },
+  {
     "headline": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
     "summary": "Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
     "image_url": null,
     "published_at": "2026-08-25T05:24:16.000Z"
+  },
+  {
+    "headline": "Depression may shut down the brain’s ability to make new neurons",
+    "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to differe…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
+    "image_url": null,
+    "published_at": "2026-08-25T05:06:08.000Z"
+  },
+  {
+    "headline": "People who live past 110 have an unusual abundance of killer immune cells",
+    "summary": "People who reach 110 and beyond appear to have unusually large numbers of rare immune cells capable of killing abnormal cells. These CD4 cytotoxic T cells became more common with age and often expanded into large groups of nearly identical cells, suggesting the immune system was repeatedly responding to persistent thre…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823014950.htm",
+    "image_url": null,
+    "published_at": "2026-08-25T04:07:07.000Z"
+  },
+  {
+    "headline": "Newton’s 300-year-old law just passed its biggest test yet",
+    "summary": "A massive test of gravity across the cosmos found that it behaves almost exactly as Newton and Einstein predicted, even across galaxy clusters hundreds of millions of light-years apart. The result weakens some modified-gravity explanations and strengthens the case that dark matter is behind the universe’s mysterious mi…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823015019.htm",
+    "image_url": null,
+    "published_at": "2026-08-25T01:49:06.000Z"
   },
   {
     "headline": "This scientist uses light to perform smarter, cleaner chemistry",
@@ -1526,77 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
     "image_url": null,
     "published_at": "2026-08-08T12:55:19.000Z"
-  },
-  {
-    "headline": "Sunlight creates quantum entanglement once thought to require lasers",
-    "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled photons with about 94% similarity to an ideal state. The result could pave the way for simpler quantum sat…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
-    "image_url": null,
-    "published_at": "2026-08-08T03:49:26.000Z"
-  },
-  {
-    "headline": "Teen cannabis use linked to slower memory and thinking growth",
-    "summary": "Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonusers continued improving. THC appeared to be the most likely driver, especially for worsening memory.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
-    "image_url": null,
-    "published_at": "2026-08-08T01:25:25.000Z"
-  },
-  {
-    "headline": "Monty Roberts, who trained horses through trust, dies at 91",
-    "summary": "The internationally acclaimed horseman defied the conventional method of breaking horses and developed his own gentler approach — based on horses' non-verbal language. Roberts spoke with Fresh Air in 1997.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
-    "image_url": null,
-    "published_at": "2026-08-07T17:48:17.000Z"
-  },
-  {
-    "headline": "Vitamin C may fight cancer — but not the way scientists once thought",
-    "summary": "Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches vastly higher concentrations and can behave more like an experimental cancer drug than an ordinary supplement. Early st…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260806050717.htm",
-    "image_url": null,
-    "published_at": "2026-08-07T13:02:16.000Z"
-  },
-  {
-    "headline": "New autism therapy shows surprising benefits even in adult mice",
-    "summary": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids and showed lasting effects in adult mice, suggesting the brain may remain more treatable later in li…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
-    "image_url": null,
-    "published_at": "2026-08-07T12:38:30.000Z"
-  },
-  {
-    "headline": "UCLA scientists discover how to guide heat like light at room temperature",
-    "summary": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive parts of next-generation chips and quantum devices.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
-    "image_url": null,
-    "published_at": "2026-08-07T12:22:48.000Z"
-  },
-  {
-    "headline": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
-    "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while the crew increasingly divided into cultural and language-based groups.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
-    "image_url": null,
-    "published_at": "2026-08-07T11:18:01.000Z"
-  },
-  {
-    "headline": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
-    "summary": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakening, raising the possibility that the deep-Earth upheaval is part of a mysterious natural cycle.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
-    "image_url": null,
-    "published_at": "2026-08-07T10:24:52.000Z"
-  },
-  {
-    "headline": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-    "summary": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-    "image_url": null,
-    "published_at": "2026-08-07T10:00:00.000Z"
   }
 ]
