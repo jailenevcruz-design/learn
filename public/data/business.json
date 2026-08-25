@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+    "summary": "Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+    "image_url": null,
+    "published_at": "2026-08-25T04:08:37.000Z"
+  },
+  {
+    "headline": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
+    "summary": "Bitcoin closed in on the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the cryptocurrency's recent rally.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+    "image_url": null,
+    "published_at": "2026-08-25T03:05:12.000Z"
+  },
+  {
+    "headline": "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy",
+    "summary": "Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+    "image_url": null,
+    "published_at": "2026-08-25T03:01:16.000Z"
+  },
+  {
+    "headline": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
+    "summary": "Gold prices rose to its highest in over three months, supported by a weaker U.S. dollar and the U.S. treasury's recent buyback announcement",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+    "image_url": null,
+    "published_at": "2026-08-25T02:28:00.000Z"
+  },
+  {
     "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
     "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
     "publisher": "CNBC",
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/08/19/nx-s1-5936665/abc-disney-sue-fcc-over-first-amendment-violations",
     "image_url": null,
     "published_at": "2026-08-19T08:43:08.000Z"
-  },
-  {
-    "headline": "FCC's lone Democrat says Disney 'has found its courage' in lawsuit against agency",
-    "summary": "The Walt Disney Company is suing the FCC, alleging a violation of First Amendment rights by challenges to its ABC broadcast licenses. NPR's Leila Fadel speaks with FCC Commissioner Anna Gomez.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/19/nx-s1-5936433/anna-gomez-fcc-abc-disney-lawsuit-first-amendment",
-    "image_url": null,
-    "published_at": "2026-08-19T08:42:59.000Z"
-  },
-  {
-    "headline": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
-    "summary": "Unitree Robotics shares rise 542% on their first day of trading in Shanghai",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
-    "image_url": null,
-    "published_at": "2026-08-19T07:20:10.000Z"
-  },
-  {
-    "headline": "Goldman studied where AI is squeezing labor markets. Here's what it found",
-    "summary": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
-    "image_url": null,
-    "published_at": "2026-08-19T06:55:57.000Z"
-  },
-  {
-    "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-    "summary": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-    "image_url": null,
-    "published_at": "2026-08-19T04:55:08.000Z"
   }
 ]
