@@ -1,11 +1,59 @@
 [
   {
+    "headline": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html",
+    "image_url": null,
+    "published_at": "2026-08-25T19:01:55.000Z"
+  },
+  {
+    "headline": "Are you richer than you think? How to find out—and what experts say to do if you are",
+    "summary": "States are holding billions of dollars in unclaimed property, and some of it may be yours.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/how-to-find-missing-money-and-what-to-do-if-you-get-it.html",
+    "image_url": null,
+    "published_at": "2026-08-25T19:00:02.000Z"
+  },
+  {
     "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
     "summary": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
     "image_url": null,
-    "published_at": "2026-08-25T18:03:40.000Z"
+    "published_at": "2026-08-25T18:54:27.000Z"
+  },
+  {
+    "headline": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
+    "summary": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the UK, Japan and now Germany.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
+    "image_url": null,
+    "published_at": "2026-08-25T18:53:12.000Z"
+  },
+  {
+    "headline": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+    "summary": "SpaceX plans to establish its Starbase, LA, in Vermillion Parish, which will \"support thousands of launches annually.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+    "image_url": null,
+    "published_at": "2026-08-25T18:48:33.000Z"
+  },
+  {
+    "headline": "Is the K-shaped economy ending? Finance pros weigh in",
+    "summary": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
+    "image_url": null,
+    "published_at": "2026-08-25T18:39:14.000Z"
+  },
+  {
+    "headline": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
+    "summary": "Sen. Darline Graham squares off Tuesday against Rep. Ralph Norman in a bid to win the GOP nomination for the a South Carolina Senate seat.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
+    "image_url": null,
+    "published_at": "2026-08-25T18:31:31.000Z"
   },
   {
     "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
@@ -14,22 +62,6 @@
     "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
     "image_url": null,
     "published_at": "2026-08-25T17:48:55.000Z"
-  },
-  {
-    "headline": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-    "summary": "SpaceX plans will establish its Starbase LA in Vermillion Parish in order to \"support thousands of launches annually.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-    "image_url": null,
-    "published_at": "2026-08-25T17:35:48.000Z"
-  },
-  {
-    "headline": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
-    "summary": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the UK, Japan and now Germany.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
-    "image_url": null,
-    "published_at": "2026-08-25T17:30:54.000Z"
   },
   {
     "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
@@ -70,14 +102,6 @@
     "url": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
     "image_url": null,
     "published_at": "2026-08-25T17:00:01.000Z"
-  },
-  {
-    "headline": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
-    "summary": "Sen. Darline Graham squares off Tuesday against Rep. Ralph Norman in a bid to win the GOP nomination for the a South Carolina Senate seat.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
-    "image_url": null,
-    "published_at": "2026-08-25T16:46:49.000Z"
   },
   {
     "headline": "Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
     "image_url": null,
     "published_at": "2026-08-20T02:39:14.000Z"
-  },
-  {
-    "headline": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
-    "summary": "Rising memory chip costs are reshaping the world's second-largest smartphone market as Chinese brands become expensive, improving the value proposition for Samsung and Apple.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
-    "image_url": null,
-    "published_at": "2026-08-20T00:17:08.000Z"
-  },
-  {
-    "headline": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation",
-    "summary": "Asia’s hydrogen train push may be less about rail and more about building a broader hydrogen economy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/asia-hydrogen-trains-green-transport.html",
-    "image_url": null,
-    "published_at": "2026-08-20T00:09:09.000Z"
-  },
-  {
-    "headline": "U.S. government debt passes $40 trillion, more than doubling in a decade",
-    "summary": "",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
-    "image_url": null,
-    "published_at": "2026-08-19T22:34:33.000Z"
   }
 ]
