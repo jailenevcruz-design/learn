@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
+    "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It doesn't look like anything else has changed, as the description matches an a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
+    "image_url": null,
+    "published_at": "2026-08-25T14:25:52.000Z"
+  },
+  {
+    "headline": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "image_url": null,
+    "published_at": "2026-08-25T14:22:04.000Z"
+  },
+  {
+    "headline": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+    "summary": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+    "image_url": null,
+    "published_at": "2026-08-25T14:10:36.000Z"
+  },
+  {
+    "headline": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and hig…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "image_url": null,
+    "published_at": "2026-08-25T14:00:00.000Z"
+  },
+  {
+    "headline": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+    "image_url": null,
+    "published_at": "2026-08-25T14:00:00.000Z"
+  },
+  {
+    "headline": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+    "summary": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+    "image_url": null,
+    "published_at": "2026-08-25T13:55:06.000Z"
+  },
+  {
     "headline": "Where to preorder the updated Mac Mini and Mac Studio",
     "summary": "The updated Mac Mini is a compact machine for home desktop use. | Image: Apple Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations…",
     "publisher": "The Verge",
@@ -104,14 +152,6 @@
     "published_at": "2026-08-25T12:30:00.000Z"
   },
   {
-    "headline": "The TCL Note A1 is a kinder, gentler tablet",
-    "summary": "Website design is my passion. Without thinking, I scribbled over what I'd just written. It's what I would have done if I was writing with pen and paper. But I didn't have a pen in my hand; my canvas was an LCD and the letters on my page were just pixels. Score one point to the TCL Note A1. TCL's Note A1 Nxtpaper tablet…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
-    "image_url": null,
-    "published_at": "2026-08-25T12:00:00.000Z"
-  },
-  {
     "headline": "Fitbit founders launch Luffu Link, an LTE health and safety band",
     "summary": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
     "publisher": "TechCrunch",
@@ -124,6 +164,14 @@
     "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "image_url": null,
+    "published_at": "2026-08-25T12:00:00.000Z"
+  },
+  {
+    "headline": "The TCL Note A1 is a kinder, gentler tablet",
+    "summary": "Website design is my passion. Without thinking, I scribbled over what I'd just written. It's what I would have done if I was writing with pen and paper. But I didn't have a pen in my hand; my canvas was an LCD and the letters on my page were just pixels. Score one point to the TCL Note A1. TCL's Note A1 Nxtpaper tablet…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
     "image_url": null,
     "published_at": "2026-08-25T12:00:00.000Z"
   },
@@ -1550,53 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
     "image_url": null,
     "published_at": "2026-08-19T15:39:47.000Z"
-  },
-  {
-    "headline": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
-    "summary": "The investment comes amid Navi plans to go public.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
-    "image_url": null,
-    "published_at": "2026-08-19T15:01:41.000Z"
-  },
-  {
-    "headline": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-    "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "image_url": null,
-    "published_at": "2026-08-19T15:00:00.000Z"
-  },
-  {
-    "headline": "Amazon Fire TV devices are getting a free Alexa Plus upgrade",
-    "summary": "Amazon is bringing Alexa Plus to Fire TV device owners in the US for free. Starting today, users in the US with an Amazon Fire TV Stick, Fire TV Cube, Amazon Ember smart TV, or other TV with Alexa Plus built in, including those from Panasonic and Hisense, will get access to the more conversational AI assistant. Previou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free",
-    "image_url": null,
-    "published_at": "2026-08-19T15:00:00.000Z"
-  },
-  {
-    "headline": "Amazon’s Prime Air is taking off in nearly 500 US cities",
-    "summary": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
-    "image_url": null,
-    "published_at": "2026-08-19T14:57:58.000Z"
-  },
-  {
-    "headline": "Calendly throws its hat into meeting note-taker circus",
-    "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-    "image_url": null,
-    "published_at": "2026-08-19T14:09:39.000Z"
-  },
-  {
-    "headline": "The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
-    "summary": "Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how world-class tech events get built and more.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
-    "image_url": null,
-    "published_at": "2026-08-19T14:02:00.000Z"
   }
 ]
