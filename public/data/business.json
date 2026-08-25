@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
+    "summary": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
+    "image_url": null,
+    "published_at": "2026-08-25T21:07:56.000Z"
+  },
+  {
+    "headline": "Is the K-shaped economy ending? Finance pros weigh in",
+    "summary": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
+    "image_url": null,
+    "published_at": "2026-08-25T21:05:27.000Z"
+  },
+  {
+    "headline": "Investor competition for commercial real estate sees strongest growth in a year",
+    "summary": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
+    "image_url": null,
+    "published_at": "2026-08-25T20:44:51.000Z"
+  },
+  {
+    "headline": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
+    "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-25T20:38:59.000Z"
+  },
+  {
+    "headline": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+    "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+    "image_url": null,
+    "published_at": "2026-08-25T20:32:15.000Z"
+  },
+  {
+    "headline": "2 of our software stocks face major tests of whether their rallies are for real",
+    "summary": "Here are the questions we are looking to answer when CrowdStrike and Salesforce report earnings Wednesday evening.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/2-of-our-software-stocks-face-major-tests-of-whether-their-rallies-are-for-real.html",
+    "image_url": null,
+    "published_at": "2026-08-25T20:27:12.000Z"
+  },
+  {
     "headline": "Here's why markets are starting to care about the 2026 election 10 weeks out",
     "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
     "publisher": "CNBC",
@@ -14,14 +62,6 @@
     "url": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
     "image_url": null,
     "published_at": "2026-08-25T19:52:43.000Z"
-  },
-  {
-    "headline": "Investor competition for commercial real estate sees strongest growth in a year",
-    "summary": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
-    "image_url": null,
-    "published_at": "2026-08-25T19:44:55.000Z"
   },
   {
     "headline": "Bond rout ending? Massive bets on bond rally dominate options market",
@@ -48,36 +88,12 @@
     "published_at": "2026-08-25T19:00:02.000Z"
   },
   {
-    "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
-    "summary": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
-    "image_url": null,
-    "published_at": "2026-08-25T18:54:27.000Z"
-  },
-  {
     "headline": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
     "summary": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the UK, Japan and now Germany.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
     "image_url": null,
     "published_at": "2026-08-25T18:53:12.000Z"
-  },
-  {
-    "headline": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-    "summary": "SpaceX plans to establish its Starbase, LA, in Vermillion Parish, which will \"support thousands of launches annually.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-    "image_url": null,
-    "published_at": "2026-08-25T18:48:33.000Z"
-  },
-  {
-    "headline": "Is the K-shaped economy ending? Finance pros weigh in",
-    "summary": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
-    "image_url": null,
-    "published_at": "2026-08-25T18:39:14.000Z"
   },
   {
     "headline": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
@@ -190,14 +206,6 @@
     "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
     "image_url": null,
     "published_at": "2026-08-25T15:16:02.000Z"
-  },
-  {
-    "headline": "Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market",
-    "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-25T14:47:30.000Z"
   },
   {
     "headline": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
     "image_url": null,
     "published_at": "2026-08-20T07:31:55.000Z"
-  },
-  {
-    "headline": "Singapore's Temasek is on a hot streak in India as three bets surge after IPOs",
-    "summary": "Three of Singapore state investor Temasek's portfolio companies in India have jumped more than 30% in listings this week after contrarian bets in the country.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/singapore-temasek-india-foreign-shiprocket-milky-mist.html",
-    "image_url": null,
-    "published_at": "2026-08-20T06:57:50.000Z"
   }
 ]

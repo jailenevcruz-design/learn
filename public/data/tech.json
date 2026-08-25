@@ -1,5 +1,29 @@
 [
   {
+    "headline": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+    "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+    "image_url": null,
+    "published_at": "2026-08-25T20:44:12.000Z"
+  },
+  {
+    "headline": "At just $8, you owe it to yourself to grab Inscryption",
+    "summary": "What starts as a roguelite deckbuilder builds into something far more ambitious. | Image: Daniel Mullins Games/Devolver Digital If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-25T20:38:37.000Z"
+  },
+  {
+    "headline": "The Witcher 3 is getting a remaster",
+    "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two ex…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+    "image_url": null,
+    "published_at": "2026-08-25T20:24:24.000Z"
+  },
+  {
     "headline": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
     "summary": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses, pulling together the best moments into an initial cut. Instagram says t…",
     "publisher": "TechCrunch",
@@ -81,7 +105,7 @@
   },
   {
     "headline": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-    "summary": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we already have some idea of what to expect, including looks at Final Fantasy VII Rev…",
+    "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also featured a bunch of trailers for others games, including Gears of War: E…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
     "image_url": null,
@@ -184,18 +208,18 @@
     "published_at": "2026-08-25T14:10:36.000Z"
   },
   {
-    "headline": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and hig…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-    "image_url": null,
-    "published_at": "2026-08-25T14:00:00.000Z"
-  },
-  {
     "headline": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
     "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+    "image_url": null,
+    "published_at": "2026-08-25T14:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and hig…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
     "image_url": null,
     "published_at": "2026-08-25T14:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
     "image_url": null,
     "published_at": "2026-08-19T20:12:33.000Z"
-  },
-  {
-    "headline": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
-    "summary": "The actress' firm Kinship Ventures is an investor in the company.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
-    "image_url": null,
-    "published_at": "2026-08-19T20:04:12.000Z"
-  },
-  {
-    "headline": "Gambling on the Little League World Series? Sports bettors have gone too far",
-    "summary": "Have we tried turning off society and turning it back on again?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
-    "image_url": null,
-    "published_at": "2026-08-19T20:01:02.000Z"
-  },
-  {
-    "headline": "Nielsen is leaning more on wearables to hear what people are watching",
-    "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
-    "image_url": null,
-    "published_at": "2026-08-19T19:53:09.000Z"
   }
 ]
