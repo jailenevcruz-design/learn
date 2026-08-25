@@ -1,19 +1,35 @@
 [
   {
+    "headline": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
+    "summary": "Shein is planning to raise up to $13.86 billion in Hong Kong dollars ($1.77 billion) in its initial public offering, according to a filing on Monday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+    "image_url": null,
+    "published_at": "2026-08-25T05:58:39.000Z"
+  },
+  {
+    "headline": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
+    "summary": "Washington's threat of \"economic D-Day\" collides with a small group of governments that account for most of what remains of Iran's foreign trade.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+    "image_url": null,
+    "published_at": "2026-08-25T05:29:41.000Z"
+  },
+  {
     "headline": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
     "summary": "Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
     "image_url": null,
-    "published_at": "2026-08-25T04:08:37.000Z"
+    "published_at": "2026-08-25T04:49:18.000Z"
   },
   {
-    "headline": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
-    "summary": "Bitcoin closed in on the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the cryptocurrency's recent rally.",
+    "headline": "Bitcoin surges past $80,000 as crypto rally gathers pace",
+    "summary": "Bitcoin surged past the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the cryptocurrency's recent rally.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
     "image_url": null,
-    "published_at": "2026-08-25T03:05:12.000Z"
+    "published_at": "2026-08-25T04:38:30.000Z"
   },
   {
     "headline": "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy",
@@ -326,14 +342,6 @@
     "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
     "image_url": null,
     "published_at": "2026-08-24T08:21:17.000Z"
-  },
-  {
-    "headline": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
-    "summary": "Shein is planning to raise up to $13.86 billion in Hong Kong dollars ($1.77 billion) in its initial public offering, according to a filing on Monday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-    "image_url": null,
-    "published_at": "2026-08-24T07:34:17.000Z"
   },
   {
     "headline": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
     "image_url": null,
     "published_at": "2026-08-19T09:30:25.000Z"
-  },
-  {
-    "headline": "FCC head Brendan Carr says Disney free speech lawsuit is 'without merit'",
-    "summary": "ABC and its corporate parent, The Walt Disney Co., filed a lawsuit against the FCC Tuesday, accusing the agency of violating its First Amendment rights.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/19/nx-s1-5936665/abc-disney-sue-fcc-over-first-amendment-violations",
-    "image_url": null,
-    "published_at": "2026-08-19T08:43:08.000Z"
   }
 ]
