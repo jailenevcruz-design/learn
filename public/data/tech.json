@@ -1,5 +1,37 @@
 [
   {
+    "headline": "That fake Grand Theft Auto VI demo is actually just malware",
+    "summary": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
+    "image_url": null,
+    "published_at": "2026-08-25T15:48:38.000Z"
+  },
+  {
+    "headline": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
+    "summary": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
+    "image_url": null,
+    "published_at": "2026-08-25T15:30:00.000Z"
+  },
+  {
+    "headline": "Gamma acquires Accel-backed design startup Lica",
+    "summary": "Lica co-founders are going to work on Gamma's new research team.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "image_url": null,
+    "published_at": "2026-08-25T15:00:00.000Z"
+  },
+  {
+    "headline": "Apple rescues Hide My Email feature from the privacy scrap heap",
+    "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+    "image_url": null,
+    "published_at": "2026-08-25T14:46:32.000Z"
+  },
+  {
     "headline": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
     "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It doesn't look like anything else has changed, as the description matches an a…",
     "publisher": "The Verge",
@@ -9,7 +41,7 @@
   },
   {
     "headline": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
     "image_url": null,
@@ -1566,37 +1598,5 @@
     "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
     "image_url": null,
     "published_at": "2026-08-19T16:00:00.000Z"
-  },
-  {
-    "headline": "Google’s Pixel Watch 5 is promising — but it isn’t finished",
-    "summary": "Please clap for my Gemini-inspired nails. The Google Pixel Watch 5 has, in many ways, been the hardest Pixel Watch to accurately review. Barely anything has changed in terms of hardware. The sizes are the same, the chips and battery got an itty-bitty boost, and there's a new pyrite satin case finish. Instead, the big u…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch",
-    "image_url": null,
-    "published_at": "2026-08-19T16:00:00.000Z"
-  },
-  {
-    "headline": "The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy",
-    "summary": "The frost color scheme is nice, but it’s no pistachio or hibiscus. | Photo: Cameron Faulkner / The Verge It'd be easy to overlook the Pixel 11. Want the best cameras? The Pixel 11 Pro is your answer. Want the best bargain? The Pixel 10A is still a great deal. But the Pixel 11 might be the sweet spot in Google's lineup…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/982190/google-pixel-11-review",
-    "image_url": null,
-    "published_at": "2026-08-19T16:00:00.000Z"
-  },
-  {
-    "headline": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-    "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "image_url": null,
-    "published_at": "2026-08-19T15:44:53.000Z"
-  },
-  {
-    "headline": "Rivian spinout Also raises another $150M",
-    "summary": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-    "image_url": null,
-    "published_at": "2026-08-19T15:39:47.000Z"
   }
 ]

@@ -1,19 +1,51 @@
 [
   {
-    "headline": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
-    "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+    "headline": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
+    "summary": "Zach Witkoff, CEO of Trump-linked World Liberty Financial, said conflict-of-interest concerns related to the Trump family are misplaced.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+    "url": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
     "image_url": null,
-    "published_at": "2026-08-25T14:17:00.000Z"
+    "published_at": "2026-08-25T16:15:06.000Z"
   },
   {
-    "headline": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
-    "summary": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
+    "headline": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
+    "summary": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+    "url": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
     "image_url": null,
-    "published_at": "2026-08-25T13:44:09.000Z"
+    "published_at": "2026-08-25T16:12:21.000Z"
+  },
+  {
+    "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+    "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+    "image_url": null,
+    "published_at": "2026-08-25T16:11:02.000Z"
+  },
+  {
+    "headline": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+    "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+    "image_url": null,
+    "published_at": "2026-08-25T16:00:40.000Z"
+  },
+  {
+    "headline": "Cash is no longer king in home sales",
+    "summary": "Cash buyers are a diminishing share of the overall housing market, as more supply and weaker prices give them more purchasing power.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
+    "image_url": null,
+    "published_at": "2026-08-25T15:51:49.000Z"
+  },
+  {
+    "headline": "Jim Cramer says this could be the key to sending Apple shares higher",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/jim-cramer-says-this-could-be-the-key-to-sending-apple-shares-higher.html",
+    "image_url": null,
+    "published_at": "2026-08-25T15:49:18.000Z"
   },
   {
     "headline": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
@@ -21,7 +53,47 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
     "image_url": null,
-    "published_at": "2026-08-25T13:29:31.000Z"
+    "published_at": "2026-08-25T15:31:17.000Z"
+  },
+  {
+    "headline": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+    "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+    "image_url": null,
+    "published_at": "2026-08-25T15:20:18.000Z"
+  },
+  {
+    "headline": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+    "summary": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+    "image_url": null,
+    "published_at": "2026-08-25T15:16:02.000Z"
+  },
+  {
+    "headline": "Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market",
+    "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+    "image_url": null,
+    "published_at": "2026-08-25T14:47:30.000Z"
+  },
+  {
+    "headline": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
+    "summary": "Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+    "image_url": null,
+    "published_at": "2026-08-25T14:46:59.000Z"
+  },
+  {
+    "headline": "Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace",
+    "summary": "Bitcoin briefly surged past $81,000 as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the recent crypto rally.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+    "image_url": null,
+    "published_at": "2026-08-25T13:09:31.000Z"
   },
   {
     "headline": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
@@ -30,14 +102,6 @@
     "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
     "image_url": null,
     "published_at": "2026-08-25T13:09:12.000Z"
-  },
-  {
-    "headline": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
-    "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-    "image_url": null,
-    "published_at": "2026-08-25T13:07:35.000Z"
   },
   {
     "headline": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
@@ -64,20 +128,12 @@
     "published_at": "2026-08-25T12:59:01.000Z"
   },
   {
-    "headline": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-    "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+    "headline": "Gold hovers near three-month high on dollar weakness, Treasury bond buyback plans",
+    "summary": "Gold prices fell Tuesday after rising to their highest in over three months.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+    "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
     "image_url": null,
-    "published_at": "2026-08-25T12:42:15.000Z"
-  },
-  {
-    "headline": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
-    "summary": "Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
-    "image_url": null,
-    "published_at": "2026-08-25T12:00:01.000Z"
+    "published_at": "2026-08-25T12:42:37.000Z"
   },
   {
     "headline": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
@@ -184,28 +240,12 @@
     "published_at": "2026-08-25T04:49:18.000Z"
   },
   {
-    "headline": "Bitcoin surges past $80,000 as crypto rally gathers pace",
-    "summary": "Bitcoin surged past the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the cryptocurrency's recent rally.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-    "image_url": null,
-    "published_at": "2026-08-25T04:38:30.000Z"
-  },
-  {
     "headline": "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy",
     "summary": "Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
     "image_url": null,
     "published_at": "2026-08-25T03:01:16.000Z"
-  },
-  {
-    "headline": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
-    "summary": "Gold prices rose to its highest in over three months, supported by a weaker U.S. dollar and the U.S. treasury's recent buyback announcement",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-    "image_url": null,
-    "published_at": "2026-08-25T02:28:00.000Z"
   },
   {
     "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
     "image_url": null,
     "published_at": "2026-08-19T20:09:39.000Z"
-  },
-  {
-    "headline": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
-    "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-    "image_url": null,
-    "published_at": "2026-08-19T20:07:09.000Z"
-  },
-  {
-    "headline": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-    "summary": "Longer-term U.S. Treasury yields pulled back on Wednesday after the Treasury Department announced an upscaled buyback operation of the nation's debt.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-    "image_url": null,
-    "published_at": "2026-08-19T20:03:44.000Z"
-  },
-  {
-    "headline": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
-    "summary": "Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence questions for the Fed",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
-    "image_url": null,
-    "published_at": "2026-08-19T20:02:32.000Z"
-  },
-  {
-    "headline": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-    "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-    "image_url": null,
-    "published_at": "2026-08-19T20:01:53.000Z"
-  },
-  {
-    "headline": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-    "summary": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-19T20:00:17.000Z"
   }
 ]

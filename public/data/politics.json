@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+    "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+    "image_url": null,
+    "published_at": "2026-08-25T15:20:18.000Z"
+  },
+  {
+    "headline": "Several states will decide voter ID ballot measures this year",
+    "summary": "Voters in at least six states will soon decide ballot measures related to voter ID — the largest number of voter ID measures in a single year. The tally includes three prominent swing states.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
+    "image_url": null,
+    "published_at": "2026-08-25T14:40:36.000Z"
+  },
+  {
     "headline": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
     "summary": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country.",
     "publisher": "NPR",
@@ -38,6 +54,14 @@
     "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
     "image_url": null,
     "published_at": "2026-08-24T20:53:45.000Z"
+  },
+  {
+    "headline": "A Census Bureau report on noncitizen voting has ties to a Trump-aligned think tank",
+    "summary": "A Trump-aligned think tank has ties to a highly unusual Census Bureau report that the president is using to renew false claims of widespread voting by non-U.S. citizens in 2020, NPR has learned.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/24/nx-s1-5938799-e1/a-census-bureau-report-on-noncitizen-voting-has-ties-to-a-trump-aligned-think-tank",
+    "image_url": null,
+    "published_at": "2026-08-24T20:40:33.000Z"
   },
   {
     "headline": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
     "image_url": null,
     "published_at": "2026-07-26T10:00:00.000Z"
-  },
-  {
-    "headline": "Biden ghostwriter tapes to be released",
-    "summary": "Former President Joe Biden is declining to appeal a court ruling that allows the Justice Department to publicize recordings of conversations between him and a writer collaborating on his memoir.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
-    "image_url": null,
-    "published_at": "2026-07-25T19:36:18.000Z"
-  },
-  {
-    "headline": "Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia",
-    "summary": "The Trump administration is seeking tens of billions of dollars in supplemental appropriations for the Iran War, a war which the president and allies have repeatedly claimed is already won.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia",
-    "image_url": null,
-    "published_at": "2026-07-25T11:43:45.000Z"
-  },
-  {
-    "headline": "Democrats in Maine formally nominate Troy Jackson as their new U.S. Senate candidate",
-    "summary": "Democrats are hoping to move past Graham Platner's scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
-    "image_url": null,
-    "published_at": "2026-07-25T09:00:00.000Z"
   }
 ]
