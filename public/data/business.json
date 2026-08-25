@@ -1,5 +1,45 @@
 [
   {
+    "headline": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+    "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+    "image_url": null,
+    "published_at": "2026-08-25T22:09:01.000Z"
+  },
+  {
+    "headline": "Here's why markets are starting to care about the 2026 election 10 weeks out",
+    "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
+    "image_url": null,
+    "published_at": "2026-08-25T21:54:51.000Z"
+  },
+  {
+    "headline": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
+    "summary": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the U.K., Japan and now Germany.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
+    "image_url": null,
+    "published_at": "2026-08-25T21:47:29.000Z"
+  },
+  {
+    "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+    "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+    "image_url": null,
+    "published_at": "2026-08-25T21:26:01.000Z"
+  },
+  {
+    "headline": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
+    "summary": "An OpenAI spokesperson said the company \"recently reorganized our infrastructure organization to support the scale and pace of our work.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
+    "image_url": null,
+    "published_at": "2026-08-25T21:26:00.000Z"
+  },
+  {
     "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
     "summary": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.",
     "publisher": "CNBC",
@@ -32,28 +72,12 @@
     "published_at": "2026-08-25T20:38:59.000Z"
   },
   {
-    "headline": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-    "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-    "image_url": null,
-    "published_at": "2026-08-25T20:32:15.000Z"
-  },
-  {
     "headline": "2 of our software stocks face major tests of whether their rallies are for real",
     "summary": "Here are the questions we are looking to answer when CrowdStrike and Salesforce report earnings Wednesday evening.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/2-of-our-software-stocks-face-major-tests-of-whether-their-rallies-are-for-real.html",
     "image_url": null,
     "published_at": "2026-08-25T20:27:12.000Z"
-  },
-  {
-    "headline": "Here's why markets are starting to care about the 2026 election 10 weeks out",
-    "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
-    "image_url": null,
-    "published_at": "2026-08-25T20:05:46.000Z"
   },
   {
     "headline": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
@@ -80,20 +104,20 @@
     "published_at": "2026-08-25T19:01:55.000Z"
   },
   {
+    "headline": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+    "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-25T19:00:07.000Z"
+  },
+  {
     "headline": "Are you richer than you think? How to find out—and what experts say to do if you are",
     "summary": "States are holding billions of dollars in unclaimed property, and some of it may be yours.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/how-to-find-missing-money-and-what-to-do-if-you-get-it.html",
     "image_url": null,
     "published_at": "2026-08-25T19:00:02.000Z"
-  },
-  {
-    "headline": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
-    "summary": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the UK, Japan and now Germany.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
-    "image_url": null,
-    "published_at": "2026-08-25T18:53:12.000Z"
   },
   {
     "headline": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
@@ -110,14 +134,6 @@
     "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
     "image_url": null,
     "published_at": "2026-08-25T17:48:55.000Z"
-  },
-  {
-    "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-    "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-    "image_url": null,
-    "published_at": "2026-08-25T17:24:35.000Z"
   },
   {
     "headline": "Apple’s next chapter: 3 pressing challenges facing Tim Cook’s successor as CEO",
@@ -182,14 +198,6 @@
     "url": "https://www.cnbc.com/2026/08/25/jim-cramer-says-this-could-be-the-key-to-sending-apple-shares-higher.html",
     "image_url": null,
     "published_at": "2026-08-25T15:49:18.000Z"
-  },
-  {
-    "headline": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-    "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-25T15:31:17.000Z"
   },
   {
     "headline": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html",
     "image_url": null,
     "published_at": "2026-08-20T07:44:23.000Z"
-  },
-  {
-    "headline": "Chinese court sentences founder of property developer Evergrande to life in prison",
-    "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-    "image_url": null,
-    "published_at": "2026-08-20T07:31:55.000Z"
   }
 ]

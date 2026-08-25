@@ -1,7 +1,15 @@
 [
   {
-    "headline": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
-    "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+    "headline": "Trump is upping the price of Big Tech’s favorite visa",
+    "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The Associated Press, would be the largest ma…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+    "image_url": null,
+    "published_at": "2026-08-25T21:45:00.000Z"
+  },
+  {
+    "headline": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+    "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
     "image_url": null,
@@ -25,7 +33,7 @@
   },
   {
     "headline": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-    "summary": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses, pulling together the best moments into an initial cut. Instagram says t…",
+    "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
     "image_url": null,
@@ -1590,13 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
     "image_url": null,
     "published_at": "2026-08-19T21:48:24.000Z"
-  },
-  {
-    "headline": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-    "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-    "image_url": null,
-    "published_at": "2026-08-19T20:12:33.000Z"
   }
 ]
