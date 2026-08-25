@@ -1,5 +1,53 @@
 [
   {
+    "headline": "The TCL Note A1 is a kinder, gentler tablet",
+    "summary": "Website design is my passion. Without thinking, I scribbled over what I'd just written. It's what I would have done if I was writing with pen and paper. But I didn't have a pen in my hand; my canvas was an LCD and the letters on my page were just pixels. Score one point to the TCL Note A1. TCL's Note A1 Nxtpaper tablet…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
+    "image_url": null,
+    "published_at": "2026-08-25T12:00:00.000Z"
+  },
+  {
+    "headline": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+    "summary": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+    "image_url": null,
+    "published_at": "2026-08-25T12:00:00.000Z"
+  },
+  {
+    "headline": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "image_url": null,
+    "published_at": "2026-08-25T12:00:00.000Z"
+  },
+  {
+    "headline": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
+    "summary": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance stakes, and even wild quad-motor performance cars, like the Rimac Nevera. But this is the first time I've ever driven a five-motor EV, one w…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
+    "image_url": null,
+    "published_at": "2026-08-25T11:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer pr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "image_url": null,
+    "published_at": "2026-08-25T09:15:03.000Z"
+  },
+  {
+    "headline": "Android is getting its own weird dots to cure car sickness",
+    "summary": "Motion Assist as found in Android 17’s settings. | Image: Android Authority (cropped by The Verge) Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
+    "image_url": null,
+    "published_at": "2026-08-25T08:36:27.000Z"
+  },
+  {
     "headline": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
     "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
     "publisher": "TechCrunch",
@@ -1550,53 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "image_url": null,
     "published_at": "2026-08-18T22:14:25.000Z"
-  },
-  {
-    "headline": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-    "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
-    "image_url": null,
-    "published_at": "2026-08-18T20:36:20.000Z"
-  },
-  {
-    "headline": "TikTok explores peer-to-peer payments via DMs, report says",
-    "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-    "image_url": null,
-    "published_at": "2026-08-18T20:03:56.000Z"
-  },
-  {
-    "headline": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-    "summary": "The Nova 3P in eye-catching cyan. | Image: SteelSeries While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale f…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-18T20:01:01.000Z"
-  },
-  {
-    "headline": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-    "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the s…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-    "image_url": null,
-    "published_at": "2026-08-18T19:48:26.000Z"
-  },
-  {
-    "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-    "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks cou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-    "image_url": null,
-    "published_at": "2026-08-18T19:28:30.000Z"
-  },
-  {
-    "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "image_url": null,
-    "published_at": "2026-08-18T18:00:00.000Z"
   }
 ]

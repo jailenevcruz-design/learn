@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
+    "summary": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+    "image_url": null,
+    "published_at": "2026-08-25T09:00:00.000Z"
+  },
+  {
+    "headline": "Did climate change cause this heat wave? Most likely, and here's why",
+    "summary": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here's what I tell them.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+    "image_url": null,
+    "published_at": "2026-08-25T09:00:00.000Z"
+  },
+  {
     "headline": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
     "summary": "Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities.",
     "publisher": "NPR",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
     "image_url": null,
     "published_at": "2026-08-07T10:00:00.000Z"
-  },
-  {
-    "headline": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
-    "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes. Researchers also observed signs of improved stress regulation and changes in brain cir…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
-    "image_url": null,
-    "published_at": "2026-08-07T07:31:52.000Z"
-  },
-  {
-    "headline": "The key to colonizing Mars may be hidden inside asteroids",
-    "summary": "Metal-rich asteroids could one day become hardware stores for Mars, supplying the materials needed to build and repair a growing colony. A new analysis shows that carefully selected asteroids may be reachable with current spacecraft technology. Some could even provide the ingredients for making rocket fuel in space, dr…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260805082504.htm",
-    "image_url": null,
-    "published_at": "2026-08-07T05:29:22.000Z"
   }
 ]
