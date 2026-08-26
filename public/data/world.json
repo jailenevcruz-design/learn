@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
+    "summary": "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festive.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
+    "image_url": null,
+    "published_at": "2026-08-26T17:36:13.000Z"
+  },
+  {
+    "headline": "At least 98 killed and hundreds missing after flash floods in Nepal and China",
+    "summary": "The disaster is linked to climate change, with experts noting the region's vulnerability to extreme weather.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
+    "image_url": null,
+    "published_at": "2026-08-26T12:27:19.000Z"
+  },
+  {
     "headline": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
     "summary": "The disaster is linked to climate change, with experts noting the region's vulnerability to extreme weather.",
     "publisher": "NPR",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/07/26/nx-s1-5890876/breakfasts-around-the-world-syrnyky-or-curd-chees-hotcakes-in-ukraine",
     "image_url": null,
     "published_at": "2026-07-26T12:50:50.000Z"
-  },
-  {
-    "headline": "Lebanese displaced by war turn to satellites to check their homes",
-    "summary": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
-    "image_url": null,
-    "published_at": "2026-07-26T10:00:00.000Z"
-  },
-  {
-    "headline": "Suspect in Berlin Pride vehicle attack is dead, police say",
-    "summary": "Germany's interior minister Alexander Dobrindt described the incident as a likely \"Islamic terror attack,\" and named the suspect as Abdul Ballout, who was born in Germany and has Lebanese roots.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-    "image_url": null,
-    "published_at": "2026-07-26T01:10:56.000Z"
   }
 ]

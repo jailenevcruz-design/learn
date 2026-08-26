@@ -1,5 +1,13 @@
 [
   {
+    "headline": "States try new tactics to bring down high hospital prices",
+    "summary": "Indiana is the latest state to experiment with limiting what hospitals can charge, to try to get a handle on high health costs.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
+    "image_url": null,
+    "published_at": "2026-08-26T17:29:13.000Z"
+  },
+  {
     "headline": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
     "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
     "publisher": "ScienceDaily",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260807035137.htm",
     "image_url": null,
     "published_at": "2026-08-09T10:15:11.000Z"
-  },
-  {
-    "headline": "Wine, beer, or spirits? Massive study finds a surprising health divide",
-    "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider, and spirits were linked to higher mortality, while wine was associated with lower risk. Moderate wine…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
-    "image_url": null,
-    "published_at": "2026-08-09T07:49:30.000Z"
   }
 ]

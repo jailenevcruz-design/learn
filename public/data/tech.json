@@ -1,5 +1,133 @@
 [
   {
+    "headline": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
+    "summary": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+    "image_url": null,
+    "published_at": "2026-08-26T18:23:09.000Z"
+  },
+  {
+    "headline": "Being a mom is hard — the heat is making it harder",
+    "summary": "It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. \"How was the botanic garden?\" I ask him. \"It was okay. It was just too hot,\" he tells me. I didn't expect us to spend so much of our son's first summer cooped…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/985225/heat-stress-children-climate-change-study",
+    "image_url": null,
+    "published_at": "2026-08-26T18:14:08.000Z"
+  },
+  {
+    "headline": "The Switch 2’s $50 price increase is happening next week",
+    "summary": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a game will go from $449.99 to $499.99. Nintendo recently announced two bundles (both…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
+    "image_url": null,
+    "published_at": "2026-08-26T18:00:00.000Z"
+  },
+  {
+    "headline": "Apple Maps has ads now",
+    "summary": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple says they'll also show up at the top of search results. According to 9to5Mac, the ad…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
+    "image_url": null,
+    "published_at": "2026-08-26T17:34:32.000Z"
+  },
+  {
+    "headline": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+    "summary": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+    "image_url": null,
+    "published_at": "2026-08-26T17:01:05.000Z"
+  },
+  {
+    "headline": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 P…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "image_url": null,
+    "published_at": "2026-08-26T17:00:00.000Z"
+  },
+  {
+    "headline": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
+    "summary": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the markets where women drive demand. That mainly falls into three buckets for the firm, Margaret Coblentz, the firm’s co-founder, told TechCrunc…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+    "image_url": null,
+    "published_at": "2026-08-26T17:00:00.000Z"
+  },
+  {
+    "headline": "Apple is holding its iPhone launch event on September 9",
+    "summary": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+    "image_url": null,
+    "published_at": "2026-08-26T16:53:07.000Z"
+  },
+  {
+    "headline": "Apple announces September iPhone launch event",
+    "summary": "A screenshot from Apple’s events website. Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a livestream on Apple's we…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+    "image_url": null,
+    "published_at": "2026-08-26T16:03:49.000Z"
+  },
+  {
+    "headline": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
+    "summary": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+    "image_url": null,
+    "published_at": "2026-08-26T16:03:14.000Z"
+  },
+  {
+    "headline": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+    "summary": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it. On this episode of TechCrunch’…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+    "image_url": null,
+    "published_at": "2026-08-26T16:00:00.000Z"
+  },
+  {
+    "headline": "Radar makes podcasts searchable — and usable by AI agents",
+    "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "image_url": null,
+    "published_at": "2026-08-26T15:47:28.000Z"
+  },
+  {
+    "headline": "Volvo’s cars will warn one another about hazards in the road",
+    "summary": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's cars talking to one another, as opposed to crowdsourced alert systems used by popular navigation tools like Google Maps an…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
+    "image_url": null,
+    "published_at": "2026-08-26T15:28:14.000Z"
+  },
+  {
+    "headline": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "image_url": null,
+    "published_at": "2026-08-26T15:00:00.000Z"
+  },
+  {
+    "headline": "Ring introduces a new encryption standard, makes it the default for cloud features",
+    "summary": "Ring says users can still opt for end-to-end encryption.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
+    "image_url": null,
+    "published_at": "2026-08-26T14:44:33.000Z"
+  },
+  {
+    "headline": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "image_url": null,
+    "published_at": "2026-08-26T14:37:01.000Z"
+  },
+  {
     "headline": "CISA confirms hackers targeted over 100 US water systems during July",
     "summary": "The federal cyber agency's warning comes amid a wave of suspected Iran-backed cyberattacks targeting critical water systems across the United States.",
     "publisher": "TechCrunch",
@@ -120,18 +248,18 @@
     "published_at": "2026-08-26T12:04:15.000Z"
   },
   {
-    "headline": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
-    "summary": "The Bose QuietComfort Headphones Gen 2 look a lot like all other Bose headphones from the past few years. Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headphones set the standard. They were the ubiquitous traveler's access…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
-    "image_url": null,
-    "published_at": "2026-08-26T12:00:00.000Z"
-  },
-  {
     "headline": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
     "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+    "image_url": null,
+    "published_at": "2026-08-26T12:00:00.000Z"
+  },
+  {
+    "headline": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
+    "summary": "The Bose QuietComfort Headphones Gen 2 look a lot like all other Bose headphones from the past few years. Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headphones set the standard. They were the ubiquitous traveler's access…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
     "image_url": null,
     "published_at": "2026-08-26T12:00:00.000Z"
   },
@@ -145,7 +273,7 @@
   },
   {
     "headline": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+    "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
     "image_url": null,
@@ -1470,133 +1598,5 @@
     "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
     "image_url": null,
     "published_at": "2026-08-20T17:16:02.000Z"
-  },
-  {
-    "headline": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-    "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
-    "image_url": null,
-    "published_at": "2026-08-20T17:04:53.000Z"
-  },
-  {
-    "headline": "Ramp launches its own AI model router, called Router",
-    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "image_url": null,
-    "published_at": "2026-08-20T16:46:00.000Z"
-  },
-  {
-    "headline": "Senators demand answers from TikTok over experiment that disabled safeguards",
-    "summary": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
-    "image_url": null,
-    "published_at": "2026-08-20T16:22:19.000Z"
-  },
-  {
-    "headline": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "image_url": null,
-    "published_at": "2026-08-20T16:07:26.000Z"
-  },
-  {
-    "headline": "The 2026 Startup Battlefield 200 is here — see who made the cut",
-    "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
-    "image_url": null,
-    "published_at": "2026-08-20T16:00:00.000Z"
-  },
-  {
-    "headline": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
-    "summary": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
-    "image_url": null,
-    "published_at": "2026-08-20T16:00:00.000Z"
-  },
-  {
-    "headline": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "image_url": null,
-    "published_at": "2026-08-20T16:00:00.000Z"
-  },
-  {
-    "headline": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
-    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
-    "image_url": null,
-    "published_at": "2026-08-20T15:53:49.000Z"
-  },
-  {
-    "headline": "It’s Greg Brockman’s OpenAI now",
-    "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of execut…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-    "image_url": null,
-    "published_at": "2026-08-20T15:45:55.000Z"
-  },
-  {
-    "headline": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
-    "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one of five colors! This is a massive waste…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
-    "image_url": null,
-    "published_at": "2026-08-20T15:30:34.000Z"
-  },
-  {
-    "headline": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
-    "summary": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of the Thursday,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-20T15:08:38.000Z"
-  },
-  {
-    "headline": "Amazon&#8217;s drone deliveries are landing in pools and ponds",
-    "summary": "Amazon's speedy drone delivery service will soon reach 500 cities across the US - but that might just mean there are more pools to drop packages into. On Wednesday, ABC7 News Bay Area shared a video showing an Amazon delivery drone hovering over a customer's pool in Texas, before opening its hatch and plopping the pack…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
-    "image_url": null,
-    "published_at": "2026-08-20T14:59:21.000Z"
-  },
-  {
-    "headline": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
-    "summary": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
-    "image_url": null,
-    "published_at": "2026-08-20T14:09:31.000Z"
-  },
-  {
-    "headline": "Here’s what data Comcast says its motion-detecting routers collect",
-    "summary": "Wi-Fi Motion is an opt-in service from Xfinity that turns your Gateway into a motion-sensing device. | Image: Comcast Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enab…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
-    "image_url": null,
-    "published_at": "2026-08-20T14:00:22.000Z"
-  },
-  {
-    "headline": "FromSoftware can do anything",
-    "summary": "There's something just a little bit different about FromSoftware's office in Tokyo. Like with any other successful video game studio, there's extensive security to get in the door, a minimalist lobby with framed posters from the studio's most recent releases, and a large glass display case filled with statues from cere…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
-    "image_url": null,
-    "published_at": "2026-08-20T14:00:00.000Z"
-  },
-  {
-    "headline": "We played The Duskbloods, the Switch 2&#8217;s wildest new exclusive",
-    "summary": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through its gothic world at FromSoft's offices in…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
-    "image_url": null,
-    "published_at": "2026-08-20T14:00:00.000Z"
   }
 ]
