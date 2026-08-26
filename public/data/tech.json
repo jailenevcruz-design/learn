@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+    "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+    "image_url": null,
+    "published_at": "2026-08-26T07:00:00.000Z"
+  },
+  {
     "headline": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
     "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
     "publisher": "TechCrunch",
@@ -16,8 +24,8 @@
     "published_at": "2026-08-26T00:40:59.000Z"
   },
   {
-    "headline": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "headline": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+    "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "image_url": null,
@@ -1590,13 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
     "image_url": null,
     "published_at": "2026-08-19T23:32:00.000Z"
-  },
-  {
-    "headline": "Does giving a camera wings dodge the FCC’s drone ban?",
-    "summary": "It’s a camera. It’s a drone. But HoverAir doesn’t want it to be a drone where the FCC is concerned. | Image: HoverAir HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-    "image_url": null,
-    "published_at": "2026-08-19T22:35:20.000Z"
   }
 ]
