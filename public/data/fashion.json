@@ -1,5 +1,77 @@
 [
   {
+    "headline": "How Arc’teryx Made Its Most Circular Product Yet",
+    "summary": "Arc’teryx’s new hardshell jacket is the first fashion product to receive a circularity certification, but combining durability with recyclability is a delicate balance.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-arcteryx-made-its-most-circular-product-yet",
+    "image_url": null,
+    "published_at": "2026-08-26T14:01:49.000Z"
+  },
+  {
+    "headline": "Harry Styles and Zoë Kravitz Do Fall Boyfriend-Summer Girlfriend Style",
+    "summary": "The two stars are in opposing seasonal mindsets—and yet, it totally works.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/harry-styles-zoe-kravitz-fall-boyfriend-summer-girlfriend",
+    "image_url": null,
+    "published_at": "2026-08-26T14:00:45.000Z"
+  },
+  {
+    "headline": "Maisie Williams and Joey King’s Co-Star Style Is Practically Magic",
+    "summary": "Cohesive style, yet totally individual looks from Joey King and Maisie Williams—this is how two friends should do a press tour.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/joey-king-maisie-williams-practical-magic-style",
+    "image_url": null,
+    "published_at": "2026-08-26T13:50:51.000Z"
+  },
+  {
+    "headline": "Ken Williams Jr. Is the Beadwork Artist With a Delicious Point-of-View",
+    "summary": "Ken Williams Jr. crafts one-of-a-kind beaded pieces inspired by yummy foods—from s'mores to burgers.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/ken-williams-jr-beadwork-artist",
+    "image_url": null,
+    "published_at": "2026-08-26T13:30:00.000Z"
+  },
+  {
+    "headline": "The Vogue Business People Moves Tracker",
+    "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+    "image_url": null,
+    "published_at": "2026-08-26T13:27:47.000Z"
+  },
+  {
+    "headline": "Meet Vogue’s Global Class of Emerging Designers",
+    "summary": "To highlight unique voices across the globe, Vogue asked each of the international titles to nominate an emerging designer from their respective region.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/meet-vogues-global-class-of-emerging-designers",
+    "image_url": null,
+    "published_at": "2026-08-26T13:21:21.000Z"
+  },
+  {
+    "headline": "The Artistry-led Makeup Brand Target Is Betting On Next",
+    "summary": "Kim Baker's Glamazon Beauty will bow at the retailer as part of Target's plan to make it in prestige beauty on its own.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/color-cosmetics/target-celebrity-makeup-brand-kim-baker-glamazon-beauty-1239149214/",
+    "image_url": null,
+    "published_at": "2026-08-26T13:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Alex Consani Fronts Pandora’s Zodiac-centric ‘Talisman’ Chapter",
+    "summary": "The campaign launching Thursday introduces astrological medallions and new articulated rings.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/accessories-news/jewelry/pandora-talisman-zodiac-launch-alex-consani-campaign-1239149251/",
+    "image_url": null,
+    "published_at": "2026-08-26T13:00:00.000Z"
+  },
+  {
+    "headline": "Circ Taps Shenghong to Spin Recycled Polyester at Scale",
+    "summary": "The Chinese fiber giant will buy the recycler’s PET chip and turn it into filament yarn, though the companies did not disclose volumes or timing.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/sustainability/circ-shenghong-recycled-polyester-filament-yarn-1239149979/",
+    "image_url": null,
+    "published_at": "2026-08-26T13:00:00.000Z"
+  },
+  {
     "headline": "Kith Fall 2026 Menswear",
     "summary": "",
     "publisher": "Vogue",
@@ -40,8 +112,16 @@
     "published_at": "2026-08-26T10:55:46.000Z"
   },
   {
-    "headline": "“We Will Always Love You”: Beyoncé, Taylor Swift, and More Remember Dolly Parton",
-    "summary": "The news of Dolly Parton’s death prompted a wave of tributes from across the globe, with music, fashion, and Hollywood stars honoring Parton’s profound legacy.",
+    "headline": "Kohl’s Cites Slowing Q2 Declines, Raises 2026 Outlook",
+    "summary": "CEO Michael Bender discussed changes in Kohl's assortments, back-to-school bestsellers, and how tariff refunds are being deployed.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/kohls-q2-ceo-michael-bender-interview-1239163996/",
+    "image_url": null,
+    "published_at": "2026-08-26T10:51:42.000Z"
+  },
+  {
+    "headline": "Beyoncé, Taylor Swift, and More Remember Dolly Parton",
+    "summary": "The news of Dolly Parton’s death prompted a wave of tributes, with music, fashion, and Hollywood stars honoring Parton’s profound legacy.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/dolly-parton-celebrity-tributes",
     "image_url": null,
@@ -166,14 +246,6 @@
     "url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-sporting-goods-stock-price-drop-explained-1239149903/",
     "image_url": null,
     "published_at": "2026-08-25T20:57:57.000Z"
-  },
-  {
-    "headline": "Harry Styles and Zoë Kravitz Do Fall Boyfriend-Summer Girlfriend Style",
-    "summary": "The two stars are in opposing seasonal mindsets—and yet, it totally works.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/harry-styles-zoe-kravitz-fall-boyfriend-summer-girlfriend",
-    "image_url": null,
-    "published_at": "2026-08-25T20:48:48.000Z"
   },
   {
     "headline": "L.A.’s Hottest New Restaurants to Know This Fall",
@@ -1184,14 +1256,6 @@
     "published_at": "2026-08-24T08:01:00.000Z"
   },
   {
-    "headline": "The Vogue Business People Moves Tracker",
-    "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-    "image_url": null,
-    "published_at": "2026-08-24T05:00:00.000Z"
-  },
-  {
     "headline": "Gap Inc.’s Fashion Week ‘Encore’ Takeover",
     "summary": "The company’s Encore loyalty program was launched last February with richer perks and points than the previous one.",
     "publisher": "WWD",
@@ -1534,69 +1598,5 @@
     "url": "https://www.vogue.com/article/where-meghan-and-harry-could-or-should-live-in-the-uk",
     "image_url": null,
     "published_at": "2026-08-22T10:00:00.000Z"
-  },
-  {
-    "headline": "The Best Azelaic Acid Products Tackle Breakouts, Dark Spots, and Redness All at Once",
-    "summary": "Acne-fighting, rosacea-calming, hyperpigmentation-fading azelaic acid has many benefits. Here are the best skin-care products featuring the potent ingredient.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-azelaic-acid-products",
-    "image_url": null,
-    "published_at": "2026-08-22T10:00:00.000Z"
-  },
-  {
-    "headline": "Beauty Marks: The Best Beauty Looks of the Week",
-    "summary": "This week, the beauty world played with natural features: sculptural floral nails, softly flushed blush, skin-forward glam. From Sadie Sink to Tyla, read on.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-22",
-    "image_url": null,
-    "published_at": "2026-08-22T09:45:35.000Z"
-  },
-  {
-    "headline": "Dakota Johnson’s Venice Film Festival Style Has Been a Study in Sheer Styling and Understated Sensuality",
-    "summary": "From a crystal-covered Gucci gown to bold red Dior, the actress has delivered some of her most memorable red carpet moments in Venice.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/dakota-johnson-venice-film-festival-style-through-the-years-1239142812/",
-    "image_url": null,
-    "published_at": "2026-08-22T04:00:00.000Z"
-  },
-  {
-    "headline": "70 of the Greatest Samantha Jones Quotes on Kim Cattrall’s 70th Birthday",
-    "summary": "“Easy? Honey, they don’t call it a job for nothing.”",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/70-of-the-greatest-samantha-jones-quotes",
-    "image_url": null,
-    "published_at": "2026-08-22T00:29:07.000Z"
-  },
-  {
-    "headline": "The 15 Best Makeup Brush Sets of 2026 for Every Level of Mastery",
-    "summary": "Whether you're a beginner or a pro, these bestselling brush sets will help you achieve camera-ready results.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-beauty/best-makeup-brush-sets-1234679690/",
-    "image_url": null,
-    "published_at": "2026-08-21T23:38:07.000Z"
-  },
-  {
-    "headline": "Your Home’s Getting Dumber—and That’s a Good Thing",
-    "summary": "Here’s why analog is all the rage, according to top interior designers.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/analog-homes-trend",
-    "image_url": null,
-    "published_at": "2026-08-21T23:18:43.000Z"
-  },
-  {
-    "headline": "Meghan Markle Isn’t Just Moving to the UK—She’s Also Returning to Acting",
-    "summary": "According to multiple reports, the Duchess of Sussex will be collaborating with Guy Ritchie on the new season of a hit Netflix show. Read all the details about Meghan Markle’s return to acting here.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/meghan-markle-the-gentlemen-uk-acting-return",
-    "image_url": null,
-    "published_at": "2026-08-21T22:25:45.000Z"
-  },
-  {
-    "headline": "22 Vintage Pictures of Charlotte Rampling, One of Cinema’s Most Striking Muses",
-    "summary": "An actress with a fiercely independent spirit and arresting beauty, Charlotte Rampling has always been more than a screen presence.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/vintage-pictures-of-charlotte-rampling",
-    "image_url": null,
-    "published_at": "2026-08-21T22:00:00.000Z"
   }
 ]

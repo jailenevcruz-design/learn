@@ -1,7 +1,119 @@
 [
   {
+    "headline": "CISA confirms hackers targeted over 100 US water systems during July",
+    "summary": "The federal cyber agency's warning comes amid a wave of suspected Iran-backed cyberattacks targeting critical water systems across the United States.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+    "image_url": null,
+    "published_at": "2026-08-26T14:31:05.000Z"
+  },
+  {
+    "headline": "Xbox announces disc-to-digital feature that digitizes your physical games",
+    "summary": "Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge exclusively revealed last month, is part of work that Microsoft is doing for game preservation and in preparation for the next generation o…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
+    "image_url": null,
+    "published_at": "2026-08-26T14:30:00.000Z"
+  },
+  {
+    "headline": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "image_url": null,
+    "published_at": "2026-08-26T14:19:29.000Z"
+  },
+  {
+    "headline": "Microsoft’s 25th anniversary Xbox will cost $899",
+    "summary": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder emails starting today. The console will launch on November 13th, alongside a matching…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+    "image_url": null,
+    "published_at": "2026-08-26T14:05:38.000Z"
+  },
+  {
+    "headline": "Elden Ring on the Switch 2 isn&#8217;t tarnished",
+    "summary": "FromSoftware is hoping to make a splash on the Switch 2 later this year when it launches The Duskbloods, a gothic competitive multiplayer game that's unlike anything the studio has made before. But before that, Switch 2 owners have a chance to experience the studio's biggest hit for the first time thanks to a port of E…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review",
+    "image_url": null,
+    "published_at": "2026-08-26T14:00:00.000Z"
+  },
+  {
+    "headline": "You can now buy music on SoundCloud",
+    "summary": "SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase from third-party services like Bandcamp and Beatport. The feature aims to give listeners a better way to support the musicians behind their fav…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch",
+    "image_url": null,
+    "published_at": "2026-08-26T14:00:00.000Z"
+  },
+  {
+    "headline": "Your Oura Ring can&#8217;t measure what&#8217;s going on in your skull",
+    "summary": "Sleep trackers detect sleep via a combination of motion, heart rate, and temperature sensors. This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Oura's get…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables",
+    "image_url": null,
+    "published_at": "2026-08-26T14:00:00.000Z"
+  },
+  {
+    "headline": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+    "summary": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+    "image_url": null,
+    "published_at": "2026-08-26T13:43:01.000Z"
+  },
+  {
+    "headline": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
+    "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the terms of the settlement, which resolves claims by a l…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
+    "image_url": null,
+    "published_at": "2026-08-26T13:31:32.000Z"
+  },
+  {
+    "headline": "Robot brain builders are pushing out of their GPT-2 era",
+    "summary": "Robot bodies are waiting for their AI brains to catch up.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "image_url": null,
+    "published_at": "2026-08-26T13:30:00.000Z"
+  },
+  {
+    "headline": "Bluesky now lets you upload 10-minute long videos",
+    "summary": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
+    "image_url": null,
+    "published_at": "2026-08-26T13:12:36.000Z"
+  },
+  {
+    "headline": "QueryStory wants you to believe what AI is telling you",
+    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "image_url": null,
+    "published_at": "2026-08-26T13:00:00.000Z"
+  },
+  {
+    "headline": "Ring says its new encryption limits what it can give police",
+    "summary": "All Ring cameras will soon use TAKE encryption by default. | Photo by Jennifer Pattison Tuohy / The Verge Ring has a new way to protect your videos. It's developed an encryption method called TAKE, short for Throw Away the Key Encryption, that the Amazon-owned company says will protect your videos without traditional e…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
+    "image_url": null,
+    "published_at": "2026-08-26T12:55:45.000Z"
+  },
+  {
+    "headline": "Arga Labs is building a better way to train enterprise AI agents",
+    "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+    "image_url": null,
+    "published_at": "2026-08-26T12:55:28.000Z"
+  },
+  {
     "headline": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
-    "summary": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" \"It would be an understatement to say that having videos of Grand Theft Auto VI gameplay leak in this way has been heartbreaking for our team,…",
+    "summary": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" Not long after Rockstar posted, another leaked video appeared, this time showing the Jason character pulling off the series' trademark move of…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
     "image_url": null,
@@ -1486,117 +1598,5 @@
     "url": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
     "image_url": null,
     "published_at": "2026-08-20T14:00:00.000Z"
-  },
-  {
-    "headline": "Welcome to the AI crisis in math",
-    "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-    "image_url": null,
-    "published_at": "2026-08-20T14:00:00.000Z"
-  },
-  {
-    "headline": "This tiny guitar amp is the most unhinged distortion pedal I’ve ever used",
-    "summary": "It’s loud, brash, and unlike anything else. | Photo: Terrence O’Brien / The Verge Is Amp Crash a guitar amp or a guitar pedal? Yes. Death By Audio's latest is, in fact, both. While it's in a guitar pedal enclosure, Amp Crash is actually a tiny 3-watt amp hooked up to a 2-inch speaker. You can even connect an external s…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review",
-    "image_url": null,
-    "published_at": "2026-08-20T14:00:00.000Z"
-  },
-  {
-    "headline": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
-    "summary": "What's in the trunk of your car? Shopping bags? A spare tire? Jumper cables? What about a high-powered computer capable of performing up to one quadrillion operations a second? Only if you're Waymo. For the first time, Waymo revealed key details about the heavy compute \"brain\" housed in the trunk of its robotaxis, incl…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
-    "image_url": null,
-    "published_at": "2026-08-20T14:00:00.000Z"
-  },
-  {
-    "headline": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
-    "summary": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
-    "image_url": null,
-    "published_at": "2026-08-20T13:45:00.000Z"
-  },
-  {
-    "headline": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
-    "summary": "The DJI Osmo Pocket 4 Pro and Pocket 3, flanking my phone with the Osmosis app. | Photo by Sean Hollister / The Verge Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirele…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
-    "image_url": null,
-    "published_at": "2026-08-20T13:30:00.000Z"
-  },
-  {
-    "headline": "NASA gives up on trying to rescue the Swift telescope",
-    "summary": "Plans to rescue NASA's Swift Observatory satellite from falling into Earth's atmosphere are seemingly dead in the water. The agency and Katalyst Space announced yesterday that the Link spacecraft will no longer capture or boost the Swift telescope to a higher altitude due to an ongoing \"attitude control issue,\" but wil…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update",
-    "image_url": null,
-    "published_at": "2026-08-20T13:04:37.000Z"
-  },
-  {
-    "headline": "AI data giant Alation confirms cyberattack",
-    "summary": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
-    "image_url": null,
-    "published_at": "2026-08-20T13:01:24.000Z"
-  },
-  {
-    "headline": "For a16z, AI gives foreign founders an advantage",
-    "summary": "a16z’s Borderless Founder network initiative supports immigrant and international founders. \"Having one foot in your home country, and one foot in Silicon Valley\" is an advantage, the firm believes.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
-    "image_url": null,
-    "published_at": "2026-08-20T13:00:00.000Z"
-  },
-  {
-    "headline": "I bought DJI’s banned camera — it was cheap and easy",
-    "summary": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or Pocket 4 Pro camera in the US, you can just reach for your phone. They're on Temu, AliExpress, eBay, Mercari - even Amazon and Newegg - with fas…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
-    "image_url": null,
-    "published_at": "2026-08-20T13:00:00.000Z"
-  },
-  {
-    "headline": "US says hackers are targeting vulnerable water systems with the help of AI",
-    "summary": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
-    "image_url": null,
-    "published_at": "2026-08-20T12:43:19.000Z"
-  },
-  {
-    "headline": "Meta AI’s new Mac app wants you to talk to your apps",
-    "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "image_url": null,
-    "published_at": "2026-08-20T12:11:57.000Z"
-  },
-  {
-    "headline": "Meta glasses are a workplace menace",
-    "summary": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hinkle told them the item was $20, the customers asked for the price again and again. \"After a while, I realized that I'm basi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
-    "image_url": null,
-    "published_at": "2026-08-20T12:00:00.000Z"
-  },
-  {
-    "headline": "Slack is launching collaborative vibe-coding channels",
-    "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output bef…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-    "image_url": null,
-    "published_at": "2026-08-20T12:00:00.000Z"
-  },
-  {
-    "headline": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
-    "summary": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is, for the glowing neon sign that turns on whenever they go to…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
-    "image_url": null,
-    "published_at": "2026-08-20T11:30:00.000Z"
   }
 ]

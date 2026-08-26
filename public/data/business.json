@@ -1,19 +1,35 @@
 [
   {
-    "headline": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
-    "summary": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
+    "headline": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
+    "summary": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
+    "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
     "image_url": null,
-    "published_at": "2026-08-26T12:15:17.000Z"
+    "published_at": "2026-08-26T14:31:02.000Z"
   },
   {
-    "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-    "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
+    "headline": "Meta settles social media addiction case with California, other states for $16.7 billion",
+    "summary": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+    "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
     "image_url": null,
-    "published_at": "2026-08-26T12:10:02.000Z"
+    "published_at": "2026-08-26T14:17:25.000Z"
+  },
+  {
+    "headline": "10-year Treasury yield is little changed after PCE inflation report is mostly as expected",
+    "summary": "Treasury yields were broadly flat on Wednesday, as investors assessed the publication of the Federal Reserve's preferred inflation metric.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html",
+    "image_url": null,
+    "published_at": "2026-08-26T14:13:13.000Z"
+  },
+  {
+    "headline": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
+    "summary": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
+    "image_url": null,
+    "published_at": "2026-08-26T14:12:55.000Z"
   },
   {
     "headline": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
@@ -21,7 +37,79 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
     "image_url": null,
-    "published_at": "2026-08-26T12:08:51.000Z"
+    "published_at": "2026-08-26T13:55:02.000Z"
+  },
+  {
+    "headline": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
+    "summary": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
+    "image_url": null,
+    "published_at": "2026-08-26T13:35:50.000Z"
+  },
+  {
+    "headline": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh",
+    "summary": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
+    "image_url": null,
+    "published_at": "2026-08-26T13:35:18.000Z"
+  },
+  {
+    "headline": "Meta, states agree to $17 billion settlement in child safety trial",
+    "summary": "The social media giant also agreed to make sweeping changes to Instagram and Facebook.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+    "image_url": null,
+    "published_at": "2026-08-26T13:33:39.000Z"
+  },
+  {
+    "headline": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
+    "summary": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
+    "image_url": null,
+    "published_at": "2026-08-26T13:32:41.000Z"
+  },
+  {
+    "headline": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+    "summary": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+    "image_url": null,
+    "published_at": "2026-08-26T13:27:35.000Z"
+  },
+  {
+    "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+    "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+    "image_url": null,
+    "published_at": "2026-08-26T13:24:25.000Z"
+  },
+  {
+    "headline": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
+    "summary": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
+    "image_url": null,
+    "published_at": "2026-08-26T13:20:34.000Z"
+  },
+  {
+    "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+    "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+    "image_url": null,
+    "published_at": "2026-08-26T13:15:24.000Z"
+  },
+  {
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+    "summary": "It's a monumental day of earnings, led by Nvidia.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "image_url": null,
+    "published_at": "2026-08-26T12:55:38.000Z"
   },
   {
     "headline": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
@@ -70,14 +158,6 @@
     "url": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
     "image_url": null,
     "published_at": "2026-08-26T07:30:00.000Z"
-  },
-  {
-    "headline": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
-    "summary": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
-    "image_url": null,
-    "published_at": "2026-08-26T07:11:25.000Z"
   },
   {
     "headline": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
@@ -182,14 +262,6 @@
     "url": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
     "image_url": null,
     "published_at": "2026-08-25T21:47:29.000Z"
-  },
-  {
-    "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-    "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-    "image_url": null,
-    "published_at": "2026-08-25T21:26:01.000Z"
   },
   {
     "headline": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
@@ -1526,77 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
     "image_url": null,
     "published_at": "2026-08-20T17:57:16.000Z"
-  },
-  {
-    "headline": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
-    "summary": "AI has changed jobs and businesses, but it's also creating bottlenecks, confusion and downright awkward encounters for humans in the workplace.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
-    "image_url": null,
-    "published_at": "2026-08-20T17:47:32.000Z"
-  },
-  {
-    "headline": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
-    "summary": "Private equity firm Arctos has agreed to buy 10% of the Atlanta Falcons in a deal with an enterprise value of $10.6 billion, two sources told CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
-    "image_url": null,
-    "published_at": "2026-08-20T17:28:59.000Z"
-  },
-  {
-    "headline": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-    "summary": "Bessent and President Donald Trump unveiled the economic operation nearly six months into the Iran war, which continues without a clear end in sight.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-    "image_url": null,
-    "published_at": "2026-08-20T17:19:03.000Z"
-  },
-  {
-    "headline": "3 things to know about the $40 trillion federal debt",
-    "summary": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
-    "image_url": null,
-    "published_at": "2026-08-20T16:50:41.000Z"
-  },
-  {
-    "headline": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-    "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-    "image_url": null,
-    "published_at": "2026-08-20T16:42:56.000Z"
-  },
-  {
-    "headline": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
-    "summary": "Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
-    "image_url": null,
-    "published_at": "2026-08-20T16:07:53.000Z"
-  },
-  {
-    "headline": "How Micron's $50 billion Boise buildout is reshaping its hometown",
-    "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-    "image_url": null,
-    "published_at": "2026-08-20T16:07:24.000Z"
-  },
-  {
-    "headline": "Why our cyber stocks are dropping and our favorite memory play is rallying",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/why-our-cyber-stocks-are-dropping-and-our-favorite-memory-play-is-rallying.html",
-    "image_url": null,
-    "published_at": "2026-08-20T15:57:43.000Z"
-  },
-  {
-    "headline": "AI data center outrage is showing up everywhere from ads to elections",
-    "summary": "With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
-    "image_url": null,
-    "published_at": "2026-08-20T15:56:12.000Z"
   }
 ]
