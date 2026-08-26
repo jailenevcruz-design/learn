@@ -1,19 +1,43 @@
 [
   {
-    "headline": "Soaring summer power bills spark protests -- and even disconnections",
-    "summary": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Oklahoma, people are having their power cut when they can't pay their bills.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
+    "headline": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
+    "summary": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
     "image_url": null,
-    "published_at": "2026-08-26T09:01:00.000Z"
+    "published_at": "2026-08-26T12:15:17.000Z"
   },
   {
-    "headline": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
-    "summary": "Theaters have had something for everyone this summer, and fans are paying top dollar for premium formats like IMAX. There are also fewer moviegoers, fewer movies, and fewer screens than there were pre-COVID.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
+    "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+    "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
     "image_url": null,
-    "published_at": "2026-08-26T09:00:00.000Z"
+    "published_at": "2026-08-26T12:10:02.000Z"
+  },
+  {
+    "headline": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
+    "summary": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-26T12:08:51.000Z"
+  },
+  {
+    "headline": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
+    "summary": "The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
+    "image_url": null,
+    "published_at": "2026-08-26T12:00:01.000Z"
+  },
+  {
+    "headline": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
+    "summary": "Mortgage rates rose again last week causing demand for both refinances and purchase loans to drop. Rates climbed to their highest level in three weeks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
+    "image_url": null,
+    "published_at": "2026-08-26T11:33:07.000Z"
   },
   {
     "headline": "Haidilao shares jump as delivery growth and new restaurant brands boost outlook",
@@ -21,7 +45,23 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
     "image_url": null,
-    "published_at": "2026-08-26T08:46:34.000Z"
+    "published_at": "2026-08-26T09:35:08.000Z"
+  },
+  {
+    "headline": "She got an electric bill for $1,373. She's not alone",
+    "summary": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Okla., people are having their power cut when they can't pay their bills.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
+    "image_url": null,
+    "published_at": "2026-08-26T09:01:00.000Z"
+  },
+  {
+    "headline": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
+    "summary": "Theaters have had something for everyone this summer, and fans are paying top dollar for premium formats like IMAX. There are also fewer moviegoers, fewer movies and fewer screens than there were pre-COVID.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
+    "image_url": null,
+    "published_at": "2026-08-26T09:00:00.000Z"
   },
   {
     "headline": "Test your global economic knowledge with this quick Planet Money quiz!",
@@ -54,14 +94,6 @@
     "url": "https://www.cnbc.com/2026/08/26/indonesia-economy-growth-ambitions-economists.html",
     "image_url": null,
     "published_at": "2026-08-26T06:51:43.000Z"
-  },
-  {
-    "headline": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
-    "summary": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-26T06:47:26.000Z"
   },
   {
     "headline": "Oil falls as the U.S. pivots to economic pressure on Iran",
@@ -102,14 +134,6 @@
     "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
     "image_url": null,
     "published_at": "2026-08-26T01:07:28.000Z"
-  },
-  {
-    "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-    "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-    "image_url": null,
-    "published_at": "2026-08-26T00:34:03.000Z"
   },
   {
     "headline": "Here's why markets are starting to care about the 2026 election 10 weeks out",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
     "image_url": null,
     "published_at": "2026-08-20T15:56:12.000Z"
-  },
-  {
-    "headline": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
-    "summary": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
-    "image_url": null,
-    "published_at": "2026-08-20T15:48:34.000Z"
-  },
-  {
-    "headline": "Bessent says Treasury buyback operation could be more than $4 billion",
-    "summary": "Bessent said his department is going \"make a market\" in the longer-dated securities where yields have been surging lately.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-    "image_url": null,
-    "published_at": "2026-08-20T15:35:33.000Z"
-  },
-  {
-    "headline": "Where commercial real estate demand is the highest, according to new data",
-    "summary": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
-    "image_url": null,
-    "published_at": "2026-08-20T14:21:00.000Z"
   }
 ]
