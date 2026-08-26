@@ -1,11 +1,59 @@
 [
   {
-    "headline": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-    "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
+    "headline": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
+    "summary": "Indonesia has set an ambitious growth target, but economists aren't sure it can get there while keeping the deficit in check.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+    "url": "https://www.cnbc.com/2026/08/26/indonesia-economy-growth-ambitions-economists.html",
     "image_url": null,
-    "published_at": "2026-08-25T22:09:01.000Z"
+    "published_at": "2026-08-26T04:50:05.000Z"
+  },
+  {
+    "headline": "Oil falls as the U.S. pivots to economic pressure on Iran",
+    "summary": "Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+    "image_url": null,
+    "published_at": "2026-08-26T04:35:22.000Z"
+  },
+  {
+    "headline": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+    "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+    "image_url": null,
+    "published_at": "2026-08-26T04:20:31.000Z"
+  },
+  {
+    "headline": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
+    "summary": "Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
+    "image_url": null,
+    "published_at": "2026-08-26T02:34:28.000Z"
+  },
+  {
+    "headline": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+    "summary": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
+    "image_url": null,
+    "published_at": "2026-08-26T02:06:21.000Z"
+  },
+  {
+    "headline": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
+    "summary": "Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
+    "image_url": null,
+    "published_at": "2026-08-26T01:07:28.000Z"
+  },
+  {
+    "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+    "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+    "image_url": null,
+    "published_at": "2026-08-26T00:34:03.000Z"
   },
   {
     "headline": "Here's why markets are starting to care about the 2026 election 10 weeks out",
@@ -13,7 +61,31 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
     "image_url": null,
-    "published_at": "2026-08-25T21:54:51.000Z"
+    "published_at": "2026-08-25T23:35:24.000Z"
+  },
+  {
+    "headline": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+    "summary": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
+    "image_url": null,
+    "published_at": "2026-08-25T22:50:57.000Z"
+  },
+  {
+    "headline": "Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
+    "summary": "CNBC’s Jim Cramer said investors shouldn’t give up on Dick’s after its record 30% plunge.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-worst-day-ever-jim-cramer-advice.html",
+    "image_url": null,
+    "published_at": "2026-08-25T22:47:37.000Z"
+  },
+  {
+    "headline": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+    "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+    "image_url": null,
+    "published_at": "2026-08-25T22:09:01.000Z"
   },
   {
     "headline": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
@@ -118,14 +190,6 @@
     "url": "https://www.cnbc.com/2026/08/25/how-to-find-missing-money-and-what-to-do-if-you-get-it.html",
     "image_url": null,
     "published_at": "2026-08-25T19:00:02.000Z"
-  },
-  {
-    "headline": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
-    "summary": "Sen. Darline Graham squares off Tuesday against Rep. Ralph Norman in a bid to win the GOP nomination for the a South Carolina Senate seat.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
-    "image_url": null,
-    "published_at": "2026-08-25T18:31:31.000Z"
   },
   {
     "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/20/chatgpt-for-teens-makes-safety-strides-but-do-they-work.html",
     "image_url": null,
     "published_at": "2026-08-20T11:15:17.000Z"
-  },
-  {
-    "headline": "Workers can't agree if junior employees should use AI at work: CNBC survey",
-    "summary": "Workers are divided on what AI usage should ideally look like for their junior colleagues, according to the CNBC and SurveyMonkey Quarterly AI and Jobs Survey.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/workers-cant-agree-if-junior-employees-should-use-ai-at-work-cnbc-survey.html",
-    "image_url": null,
-    "published_at": "2026-08-20T11:00:01.000Z"
-  },
-  {
-    "headline": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
-    "summary": "Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
-    "image_url": null,
-    "published_at": "2026-08-20T09:02:11.000Z"
-  },
-  {
-    "headline": "The bond market is signaling trouble ahead. This is why you should pay attention",
-    "summary": "Many people don't pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-    "image_url": null,
-    "published_at": "2026-08-20T09:00:00.000Z"
-  },
-  {
-    "headline": "Proposed California wealth tax sparks debate: Will billionaires leave the state?",
-    "summary": "A proposed first-of-its kind tax would target California's nearly 250 billionaires in an effort to fund health care. If voters pass it, will the state's economy suffer?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/20/nx-s1-5935597/california-billionaires-wealth-tax-sergey-brin",
-    "image_url": null,
-    "published_at": "2026-08-20T08:45:47.000Z"
-  },
-  {
-    "headline": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-    "summary": "Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
-    "image_url": null,
-    "published_at": "2026-08-20T08:41:41.000Z"
-  },
-  {
-    "headline": "Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources",
-    "summary": "Somali piracy incidents have resurged in the Red Sea region in recent times, especially since the U.S.-Iran war kicked off-major concern for shipping companies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/somali-pirates-return-iran-war.html",
-    "image_url": null,
-    "published_at": "2026-08-20T08:15:38.000Z"
-  },
-  {
-    "headline": "Hong Kong’s IPO boom extends beyond tech, HKEX CEO says, as fundraising tops $40 billion",
-    "summary": "Chan said firms from sectors like biotechnology, mining, and consumer companies are also in the pipeline.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/hong-kong-ipo-hkex-bonnie-chan-investors.html",
-    "image_url": null,
-    "published_at": "2026-08-20T08:08:39.000Z"
-  },
-  {
-    "headline": "Trump scaling down U.S.-South Korea drills could risk more than just joint military readiness",
-    "summary": "The move by Trump also will start to raise questions about the credibility of Washington's commitment to alliances.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html",
-    "image_url": null,
-    "published_at": "2026-08-20T07:44:23.000Z"
   }
 ]

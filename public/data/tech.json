@@ -1,5 +1,37 @@
 [
   {
+    "headline": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "image_url": null,
+    "published_at": "2026-08-26T03:30:00.000Z"
+  },
+  {
+    "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "image_url": null,
+    "published_at": "2026-08-26T00:40:59.000Z"
+  },
+  {
+    "headline": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "image_url": null,
+    "published_at": "2026-08-26T00:06:20.000Z"
+  },
+  {
+    "headline": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+    "summary": "The Garmin Fenix 9. | Image: Garmin Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent more…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+    "image_url": null,
+    "published_at": "2026-08-25T22:20:17.000Z"
+  },
+  {
     "headline": "Trump is upping the price of Big Tech’s favorite visa",
     "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The Associated Press, would be the largest ma…",
     "publisher": "The Verge",
@@ -1566,37 +1598,5 @@
     "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
     "image_url": null,
     "published_at": "2026-08-19T22:35:20.000Z"
-  },
-  {
-    "headline": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-    "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-    "image_url": null,
-    "published_at": "2026-08-19T22:25:01.000Z"
-  },
-  {
-    "headline": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "image_url": null,
-    "published_at": "2026-08-19T22:10:46.000Z"
-  },
-  {
-    "headline": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "image_url": null,
-    "published_at": "2026-08-19T21:51:23.000Z"
-  },
-  {
-    "headline": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
-    "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
-    "image_url": null,
-    "published_at": "2026-08-19T21:48:24.000Z"
   }
 ]
