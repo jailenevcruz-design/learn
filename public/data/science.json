@@ -1,5 +1,109 @@
 [
   {
+    "headline": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+    "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one that worked at a record-low 500 watts. That could allow GRCop-42, currently difficult and expensive t…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T13:08:01.000Z"
+  },
+  {
+    "headline": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
+    "summary": "Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help explain Betelgeuse’s changing brightness and may influence its future supernova.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T12:43:27.000Z"
+  },
+  {
+    "headline": "Your dislike of eating bugs may be 9,000 years old",
+    "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regularly. Populations near the tropics also retained genes that make insect exoskeletons easier to diges…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T12:18:38.000Z"
+  },
+  {
+    "headline": "Eating more ultra-processed foods may raise prostate cancer risk by 30%",
+    "summary": "Ultra-processed foods make up a huge share of the American diet, and new research suggests they may carry another serious health risk for men. In a nationally representative study of more than 17,000 U.S. men, those who ate more ultra-processed foods, including soft drinks, packaged snacks, cereals, and processed meats…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T11:52:35.000Z"
+  },
+  {
+    "headline": "Vitamin C won’t prevent most colds, but it may do one small thing",
+    "summary": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not prevent most people from catching a cold, although regularly taking it may make severe symptoms slightly shorter or milder.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T10:38:30.000Z"
+  },
+  {
+    "headline": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
+    "summary": "Today’s mysterious gravitational-wave background may preserve clues about how the Universe’s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a major portion of the signal, offering a surprising new way to investigate cosmic dawn and dark matter.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T10:26:04.000Z"
+  },
+  {
+    "headline": "Scientists switch on a strange new form of magnetism in an ultrathin material",
+    "summary": "Scientists have found a surprising way to potentially switch on an unusual form of magnetism in ruthenium dioxide, a material that normally appears nonmagnetic. When the material was made into an ultrathin film only a few atomic layers thick and placed under strain, its electrons developed patterns consistent with alte…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T09:23:20.000Z"
+  },
+  {
+    "headline": "Nuclear regulator prepares to abandon a decades-old radiation safety rule",
+    "summary": "A push by President Trump could mean the elimination of a safety standard designed to keep radiation exposure as low as possible.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
+    "image_url": null,
+    "published_at": "2026-08-27T09:00:00.000Z"
+  },
+  {
+    "headline": "324-million-year-old fossil reveals how insects conquered land",
+    "summary": "Ancient fossils suggest insects conquered land through a long amphibious phase rather than making an abrupt jump from water to dry ground. A newly identified 324-million-year-old species still carried paddle-like abdominal limbs, revealing an evolutionary bridge between aquatic ancestors and modern six-legged insects.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T07:22:34.000Z"
+  },
+  {
+    "headline": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
+    "summary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100% survival at 60 days, though it has not yet been tested in humans.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260826060617.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T05:52:48.000Z"
+  },
+  {
+    "headline": "Scientists discover a brain “brake” that can shut down chronic pain",
+    "summary": "Researchers discovered a brain-based “brake” that can shut down chronic nerve pain in mice by calming an overactive pain circuit. Targeting this system more precisely could one day lead to powerful pain relief without affecting opioid receptors throughout the entire body.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T04:46:20.000Z"
+  },
+  {
+    "headline": "Scientists may have finally caught “empty” space changing light",
+    "summary": "A magnetar with an astonishingly powerful magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago. Its light shows signs that supposedly empty space is altering how the light travels, potentially providing the first evidence of vacuum birefringence.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260826055445.htm",
+    "image_url": null,
+    "published_at": "2026-08-27T03:52:13.000Z"
+  },
+  {
+    "headline": "NASA just used satellites and debris to navigate without GPS",
+    "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+    "image_url": null,
+    "published_at": "2026-08-26T23:27:35.000Z"
+  },
+  {
     "headline": "States try new tactics to bring down high hospital prices",
     "summary": "Indiana is the latest state to experiment with limiting what hospitals can charge, to try to get a handle on high health costs.",
     "publisher": "NPR",
@@ -536,18 +640,18 @@
     "published_at": "2026-08-21T09:28:51.000Z"
   },
   {
-    "headline": "Federal government thins the herds of wild horses in Colorado",
-    "summary": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-    "image_url": null,
-    "published_at": "2026-08-21T09:00:00.000Z"
-  },
-  {
     "headline": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
     "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+    "image_url": null,
+    "published_at": "2026-08-21T09:00:00.000Z"
+  },
+  {
+    "headline": "Federal government thins the herds of wild horses in Colorado",
+    "summary": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
     "image_url": null,
     "published_at": "2026-08-21T09:00:00.000Z"
   },
@@ -1494,109 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm",
     "image_url": null,
     "published_at": "2026-08-10T11:21:53.000Z"
-  },
-  {
-    "headline": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
-    "summary": "A total solar eclipse will plunge parts of Europe into darkness on August 12, 2026, with Spain offering some of the best views. ESA will livestream the spectacle from the Javalambre Observatory, combining telescope feeds, drone footage, and expert commentary. At 20:31 CEST, the observatory will experience 1 minute and…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm",
-    "image_url": null,
-    "published_at": "2026-08-10T10:55:53.000Z"
-  },
-  {
-    "headline": "Voyager 2 was running out of power. NASA just bought it more time",
-    "summary": "NASA engineers have found a clever way to squeeze more life out of Voyager 2, nearly half a century after it left Earth. In an operation nicknamed the “Big Bang,” the team simultaneously shut down certain power-hungry hardware and switched to lower-power alternatives while keeping the spacecraft warm enough to survive.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260810015703.htm",
-    "image_url": null,
-    "published_at": "2026-08-10T09:45:23.000Z"
-  },
-  {
-    "headline": "Who really needs testosterone?",
-    "summary": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
-    "image_url": null,
-    "published_at": "2026-08-10T09:00:00.000Z"
-  },
-  {
-    "headline": "For 15,000 years, humans and dogs have been changing each other",
-    "summary": "Dogs have been shaping—and being shaped by—humans for about 15,000 years, evolving from early partners of hunter-gatherers into an astonishing range of specialized companions. Across the globe, they adapted alongside people to wildly different environments and needs, from powerful Arctic sled dogs and agile rainforest…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm",
-    "image_url": null,
-    "published_at": "2026-08-10T05:57:00.000Z"
-  },
-  {
-    "headline": "Cassini reveals a surprising twist in Saturn’s magnetic shield",
-    "summary": "Cassini data has revealed a surprising twist in Saturn’s magnetic shield: the planet’s rapid rotation appears to drag a key opening in its magnetosphere far toward the afternoon side instead of keeping it near noon, as happens on Earth. The finding confirms that giant planets like Saturn operate under a fundamentally d…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260807035153.htm",
-    "image_url": null,
-    "published_at": "2026-08-10T05:56:34.000Z"
-  },
-  {
-    "headline": "A daily glass of fruit juice was linked to lower depression scores",
-    "summary": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinting that a simple dietary change could also support mental well-being.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
-    "image_url": null,
-    "published_at": "2026-08-10T02:09:47.000Z"
-  },
-  {
-    "headline": "Scientists find the strength training “sweet spot” for a longer life",
-    "summary": "Just a couple of hours of strength training each week could have surprisingly powerful effects on longevity. People who lifted weights for around 90 to 120 minutes weekly had a 13% lower risk of dying early, with especially large reductions in deaths from cardiovascular and neurological diseases. Pairing strength train…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260808234959.htm",
-    "image_url": null,
-    "published_at": "2026-08-10T00:52:37.000Z"
-  },
-  {
-    "headline": "Frequent cannabis users wake up with their “stress hormone” already elevated",
-    "summary": "Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol, suggesting their daily stress rhythms could be disrupted. Researchers say the finding raises questions about whether using cannabis for stress relief might, over time, interfere with the very system that helps the body handle…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
-    "image_url": null,
-    "published_at": "2026-08-09T12:40:58.000Z"
-  },
-  {
-    "headline": "For decades, we were told to choose low-fat dairy. New research says otherwise",
-    "summary": "Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study, adults who ate three servings a day showed no meaningful increases in weight, body fat, cholesterol, or insulin resistance. They also experienced improved blood pressure and consumed more calcium, protein, and vitamin D. The fin…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
-    "image_url": null,
-    "published_at": "2026-08-09T12:12:46.000Z"
-  },
-  {
-    "headline": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
-    "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, parallel lines, right angles, and repeated shapes, suggesting the designs followed deliberate rules rather…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm",
-    "image_url": null,
-    "published_at": "2026-08-09T11:51:37.000Z"
-  },
-  {
-    "headline": "Scientists discover bacteria that lock toxic uranium into a stable form",
-    "summary": "Deep underground, bacteria may be capable of doing something remarkable: trapping toxic uranium before it spreads. When researchers fed microbes in uranium-contaminated mine water with glycerol, about 95% of the dissolved uranium disappeared within 130 days. The bacteria helped convert it into an unusually stable urani…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
-    "image_url": null,
-    "published_at": "2026-08-09T11:30:17.000Z"
-  },
-  {
-    "headline": "Chemists set electrons free and break a decades-old chemistry barrier",
-    "summary": "Chemists have developed a catalyst that breaks a long-standing rule governing which molecules receive electrons during chemical reactions. By releasing electrons directly into solution, the technique could unlock reactions—and potentially useful new molecules—that were previously out of reach.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
-    "image_url": null,
-    "published_at": "2026-08-09T11:02:03.000Z"
-  },
-  {
-    "headline": "Dinosaurs became giants — so why did they never become tiny?",
-    "summary": "Dinosaurs conquered the land at enormous sizes, but strangely, they almost never evolved into truly tiny animals. New research suggests that physiology alone can’t explain this missing miniature end of the dinosaur spectrum—and that early mammals may have been partly responsible. While dinosaurs kept mammals from becom…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260807035137.htm",
-    "image_url": null,
-    "published_at": "2026-08-09T10:15:11.000Z"
   }
 ]
