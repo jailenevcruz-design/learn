@@ -1,5 +1,141 @@
 [
   {
+    "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "image_url": null,
+    "published_at": "2026-08-28T19:30:38.000Z"
+  },
+  {
+    "headline": "Brave’s browser one-ups Chrome with its new support for email aliases",
+    "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+    "image_url": null,
+    "published_at": "2026-08-28T18:50:00.000Z"
+  },
+  {
+    "headline": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "summary": "There's a lot of capital pouring into the business of giving models away.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "image_url": null,
+    "published_at": "2026-08-28T18:19:40.000Z"
+  },
+  {
+    "headline": "How Sweden built one of Europe’s hottest startup ecosystems",
+    "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+    "image_url": null,
+    "published_at": "2026-08-28T17:09:05.000Z"
+  },
+  {
+    "headline": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+    "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black levels and g…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+    "image_url": null,
+    "published_at": "2026-08-28T17:03:07.000Z"
+  },
+  {
+    "headline": "Trump’s EPA wants to let data centers hide their air pollution",
+    "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain i…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "image_url": null,
+    "published_at": "2026-08-28T16:28:40.000Z"
+  },
+  {
+    "headline": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+    "summary": "The unofficial version of DLSS 5 makes Jesse Faden’s features much more pronounced. | Image: gabdeg via YouTube Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+    "image_url": null,
+    "published_at": "2026-08-28T16:22:16.000Z"
+  },
+  {
+    "headline": "More Americans oppose police license plate cameras than support them: survey",
+    "summary": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+    "image_url": null,
+    "published_at": "2026-08-28T15:57:58.000Z"
+  },
+  {
+    "headline": "Friend-focused photo-sharing app Retro snags $21M",
+    "summary": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
+    "image_url": null,
+    "published_at": "2026-08-28T15:35:03.000Z"
+  },
+  {
+    "headline": "The iPhone Fold could make concerts even worse",
+    "summary": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as well as the new M6 and M…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+    "image_url": null,
+    "published_at": "2026-08-28T15:26:19.000Z"
+  },
+  {
+    "headline": "Apple TV is raising its subscription prices again",
+    "summary": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+    "image_url": null,
+    "published_at": "2026-08-28T14:36:48.000Z"
+  },
+  {
+    "headline": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
+    "summary": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, which includes Apple T…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+    "image_url": null,
+    "published_at": "2026-08-28T13:47:36.000Z"
+  },
+  {
+    "headline": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+    "summary": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+    "image_url": null,
+    "published_at": "2026-08-28T13:24:43.000Z"
+  },
+  {
+    "headline": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "image_url": null,
+    "published_at": "2026-08-28T12:46:12.000Z"
+  },
+  {
+    "headline": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "image_url": null,
+    "published_at": "2026-08-28T12:21:06.000Z"
+  },
+  {
+    "headline": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
+    "summary": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going on. But even by the standards of the genre, Dark Matter is extreme. Its multiversal premise, which…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+    "image_url": null,
+    "published_at": "2026-08-28T12:00:00.000Z"
+  },
+  {
+    "headline": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+    "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+    "image_url": null,
+    "published_at": "2026-08-28T09:33:00.000Z"
+  },
+  {
     "headline": "Anthropic was illegally blacklisted by the Trump administration, court rules",
     "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully…",
     "publisher": "The Verge",
@@ -1462,141 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
     "image_url": null,
     "published_at": "2026-08-22T16:00:00.000Z"
-  },
-  {
-    "headline": "US battery startups have found a lifeline in defense",
-    "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-    "image_url": null,
-    "published_at": "2026-08-22T15:20:00.000Z"
-  },
-  {
-    "headline": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-    "summary": "I’m just as confused as you. | Image: Aundre Larrow W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand o…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-    "image_url": null,
-    "published_at": "2026-08-22T15:00:00.000Z"
-  },
-  {
-    "headline": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-    "summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-    "image_url": null,
-    "published_at": "2026-08-22T14:00:00.000Z"
-  },
-  {
-    "headline": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-    "summary": "The Echo Dot Max went from $99.99 to $119.99 overnight, while its sibling the Echo Dot jumped to $79.99 from $49.99. | Photo by Jennifer Pattison Tuohy / The Verge Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-    "image_url": null,
-    "published_at": "2026-08-22T13:41:01.000Z"
-  },
-  {
-    "headline": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-    "summary": "The OmniBook 3 isn’t a sweet treat, but it gets things done on the cheap. | Photo: Antonio G. Di Benedetto / The Verge Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively ch…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-    "image_url": null,
-    "published_at": "2026-08-22T13:00:00.000Z"
-  },
-  {
-    "headline": "Two great new repairable gadgets",
-    "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've been getting back into the Installer groove, trying out some ergonomic Switch 2 g…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
-    "image_url": null,
-    "published_at": "2026-08-22T12:00:00.000Z"
-  },
-  {
-    "headline": "Michael Polansky is training an AI model on skin that’s still alive",
-    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "image_url": null,
-    "published_at": "2026-08-22T01:31:04.000Z"
-  },
-  {
-    "headline": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-    "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-    "image_url": null,
-    "published_at": "2026-08-22T01:03:06.000Z"
-  },
-  {
-    "headline": "Anthropic’s Opus 4.6 is a smut-machine",
-    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "image_url": null,
-    "published_at": "2026-08-21T23:07:25.000Z"
-  },
-  {
-    "headline": "Nvidia partners with data center developer Cloverleaf",
-    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "image_url": null,
-    "published_at": "2026-08-21T22:37:38.000Z"
-  },
-  {
-    "headline": "HoverAir’s transforming modular drone has already been halted in the US",
-    "summary": "The HoverAir Versa. | Image: HoverAir I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be for…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-    "image_url": null,
-    "published_at": "2026-08-21T22:14:11.000Z"
-  },
-  {
-    "headline": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-    "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-    "image_url": null,
-    "published_at": "2026-08-21T22:13:34.000Z"
-  },
-  {
-    "headline": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-    "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-    "image_url": null,
-    "published_at": "2026-08-21T22:10:01.000Z"
-  },
-  {
-    "headline": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a post. Lin…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "image_url": null,
-    "published_at": "2026-08-21T21:25:50.000Z"
-  },
-  {
-    "headline": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-    "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-    "image_url": null,
-    "published_at": "2026-08-21T20:58:07.000Z"
-  },
-  {
-    "headline": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-    "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-    "image_url": null,
-    "published_at": "2026-08-21T20:25:21.000Z"
-  },
-  {
-    "headline": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
-    "summary": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-    "image_url": null,
-    "published_at": "2026-08-21T19:57:46.000Z"
   }
 ]
