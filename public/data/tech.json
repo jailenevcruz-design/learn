@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "image_url": null,
+    "published_at": "2026-08-28T03:14:06.000Z"
+  },
+  {
+    "headline": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+    "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking throughout the night.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+    "image_url": null,
+    "published_at": "2026-08-28T02:02:44.000Z"
+  },
+  {
+    "headline": "The GTA VI ‘extended look’ is now streaming on YouTube",
+    "summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators to post reaction vid…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+    "image_url": null,
+    "published_at": "2026-08-28T01:05:18.000Z"
+  },
+  {
+    "headline": "The biggest video game of all time looks like a movie",
+    "summary": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige crime drama than any video game trailer that I've ever seen…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
+    "image_url": null,
+    "published_at": "2026-08-27T23:20:00.000Z"
+  },
+  {
+    "headline": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-08-27T23:16:45.000Z"
+  },
+  {
     "headline": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
     "summary": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a recording.\" The compan…",
     "publisher": "The Verge",
@@ -136,18 +176,18 @@
     "published_at": "2026-08-27T16:15:52.000Z"
   },
   {
-    "headline": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
-    "summary": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED TVs. The Bravia 6 OLED comes in five sizes from…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
-    "image_url": null,
-    "published_at": "2026-08-27T16:00:00.000Z"
-  },
-  {
     "headline": "Google’s AI Mode can now track flight prices, help book hotels, and more",
     "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "image_url": null,
+    "published_at": "2026-08-27T16:00:00.000Z"
+  },
+  {
+    "headline": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
+    "summary": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED TVs. The Bravia 6 OLED comes in five sizes from…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
     "image_url": null,
     "published_at": "2026-08-27T16:00:00.000Z"
   },
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
     "image_url": null,
     "published_at": "2026-08-21T19:57:46.000Z"
-  },
-  {
-    "headline": "Apple is laying off staffers working on the Vision Pro and Siri",
-    "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut. Apple said in a statement to Bloomberg…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-    "image_url": null,
-    "published_at": "2026-08-21T19:44:55.000Z"
-  },
-  {
-    "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "image_url": null,
-    "published_at": "2026-08-21T19:43:39.000Z"
-  },
-  {
-    "headline": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-    "image_url": null,
-    "published_at": "2026-08-21T19:16:15.000Z"
-  },
-  {
-    "headline": "Tesla’s solar roof is dead — here’s what went wrong",
-    "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-    "image_url": null,
-    "published_at": "2026-08-21T18:09:53.000Z"
-  },
-  {
-    "headline": "$100 Best Buy gift cards will be $60 at stores Saturday",
-    "summary": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is only good for as long as supplies last at your local store, so you might want to pla…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-    "image_url": null,
-    "published_at": "2026-08-21T18:00:00.000Z"
   }
 ]
