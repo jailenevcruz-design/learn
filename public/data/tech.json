@@ -1,5 +1,141 @@
 [
   {
+    "headline": "Alt-right troll Milo Yiannopoulos has been deported",
+    "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration h…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+    "image_url": null,
+    "published_at": "2026-08-29T19:49:59.000Z"
+  },
+  {
+    "headline": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "image_url": null,
+    "published_at": "2026-08-29T18:41:59.000Z"
+  },
+  {
+    "headline": "Sony Music and Warner Chappell are suing Anthropic",
+    "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was str…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "image_url": null,
+    "published_at": "2026-08-29T18:19:53.000Z"
+  },
+  {
+    "headline": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "image_url": null,
+    "published_at": "2026-08-29T17:51:10.000Z"
+  },
+  {
+    "headline": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-of…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "image_url": null,
+    "published_at": "2026-08-29T17:36:47.000Z"
+  },
+  {
+    "headline": "Hollywood celebs are getting into microdrama apps",
+    "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+    "image_url": null,
+    "published_at": "2026-08-29T16:10:00.000Z"
+  },
+  {
+    "headline": "Distraction-free writing gadget BYOK is adding custom extensions",
+    "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+    "image_url": null,
+    "published_at": "2026-08-29T16:01:13.000Z"
+  },
+  {
+    "headline": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+    "summary": "10 out of 10 beard. | Photo: Ben Mekler Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+    "image_url": null,
+    "published_at": "2026-08-29T15:00:00.000Z"
+  },
+  {
+    "headline": "The Theragun Sense makes everyday recovery surprisingly easy",
+    "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed […]",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+    "image_url": null,
+    "published_at": "2026-08-29T14:00:00.000Z"
+  },
+  {
+    "headline": "The Galaxy Z Flip 8 is at its best when there’s friction",
+    "summary": "The Z Flip 8 is designed to be used shut more than ever before. | Photo: Dominic Preston / The Verge What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? Fo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+    "image_url": null,
+    "published_at": "2026-08-29T13:00:00.000Z"
+  },
+  {
+    "headline": "Nvidia’s AI advantage is moving beyond the GPU",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "image_url": null,
+    "published_at": "2026-08-29T13:00:00.000Z"
+  },
+  {
+    "headline": "Musicians-turned-detectives are hunting for AI grifters",
+    "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "image_url": null,
+    "published_at": "2026-08-29T12:00:00.000Z"
+  },
+  {
+    "headline": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+    "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+    "image_url": null,
+    "published_at": "2026-08-28T23:24:27.000Z"
+  },
+  {
+    "headline": "Google further buries search results under AI mode",
+    "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with a \"…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+    "image_url": null,
+    "published_at": "2026-08-28T22:48:11.000Z"
+  },
+  {
+    "headline": "Is the best way to watch a movie on a pair of sunglasses?",
+    "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+    "image_url": null,
+    "published_at": "2026-08-28T22:42:48.000Z"
+  },
+  {
+    "headline": "Xbox CEO calls Project Helix a ‘family of devices’",
+    "summary": "Asha Sharma. | Image: The Verge, Microsoft According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next genera…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+    "image_url": null,
+    "published_at": "2026-08-28T22:03:13.000Z"
+  },
+  {
+    "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "image_url": null,
+    "published_at": "2026-08-28T20:24:11.000Z"
+  },
+  {
     "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
     "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
     "publisher": "TechCrunch",
@@ -1462,141 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
     "image_url": null,
     "published_at": "2026-08-24T13:45:15.000Z"
-  },
-  {
-    "headline": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
-    "summary": "The Razr Ultra line is among those due to receive GrapheneOS support next year. | Photo: Allison Johnson / The Verge GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
-    "image_url": null,
-    "published_at": "2026-08-24T11:37:53.000Z"
-  },
-  {
-    "headline": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
-    "summary": "Tiangong Ultra (left) also broke the 400 meter world record during this year’s World Humanoid Robot Games. | Image: Lintao Zhang/Getty Images The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary h…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
-    "image_url": null,
-    "published_at": "2026-08-24T09:10:40.000Z"
-  },
-  {
-    "headline": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "image_url": null,
-    "published_at": "2026-08-23T20:01:36.000Z"
-  },
-  {
-    "headline": "Uber faces fine of nearly $1B over automated driver suspensions",
-    "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second-largest penalty issued under Europe’s GDPR.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-    "image_url": null,
-    "published_at": "2026-08-23T19:30:00.000Z"
-  },
-  {
-    "headline": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "image_url": null,
-    "published_at": "2026-08-23T19:14:08.000Z"
-  },
-  {
-    "headline": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-    "image_url": null,
-    "published_at": "2026-08-23T16:03:00.000Z"
-  },
-  {
-    "headline": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "image_url": null,
-    "published_at": "2026-08-23T15:30:00.000Z"
-  },
-  {
-    "headline": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "image_url": null,
-    "published_at": "2026-08-23T15:00:00.000Z"
-  },
-  {
-    "headline": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
-    "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We are immediately introduced to our p…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
-    "image_url": null,
-    "published_at": "2026-08-23T15:00:00.000Z"
-  },
-  {
-    "headline": "Grand Theft Auto VI exists in its own universe",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Four years ago, fans got a long-aw…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
-    "image_url": null,
-    "published_at": "2026-08-23T12:00:00.000Z"
-  },
-  {
-    "headline": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-    "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-    "image_url": null,
-    "published_at": "2026-08-23T03:00:00.000Z"
-  },
-  {
-    "headline": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "image_url": null,
-    "published_at": "2026-08-22T21:46:56.000Z"
-  },
-  {
-    "headline": "Will the DOJ’s investigation into a16z spook other VCs?",
-    "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-    "image_url": null,
-    "published_at": "2026-08-22T20:24:20.000Z"
-  },
-  {
-    "headline": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "image_url": null,
-    "published_at": "2026-08-22T19:00:00.000Z"
-  },
-  {
-    "headline": "Doodle generative compositions in your browser with Musical Spirograph",
-    "summary": "So pretty. | Screenshot: Terrence O’Brien / The Verge I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively sim…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-    "image_url": null,
-    "published_at": "2026-08-22T17:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI says California should strengthen its AI safety bill",
-    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "image_url": null,
-    "published_at": "2026-08-22T16:30:34.000Z"
-  },
-  {
-    "headline": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "image_url": null,
-    "published_at": "2026-08-22T16:00:00.000Z"
   }
 ]
