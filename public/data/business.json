@@ -5,7 +5,15 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html",
     "image_url": null,
-    "published_at": "2026-08-29T19:59:27.000Z"
+    "published_at": "2026-08-29T20:22:50.000Z"
+  },
+  {
+    "headline": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+    "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
+    "image_url": null,
+    "published_at": "2026-08-29T20:22:12.000Z"
   },
   {
     "headline": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
@@ -56,12 +64,12 @@
     "published_at": "2026-08-29T13:56:58.000Z"
   },
   {
-    "headline": "K, C or E? Why economists can’t agree on the shape of today’s economy",
-    "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
+    "headline": "Op-ed: Salesforce just revealed the next battleground in AI — and it's not the models",
+    "summary": "For the past year, markets have vaporized roughly $2 trillion in software value by asking the wrong question about AI.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
+    "url": "https://www.cnbc.com/2026/08/29/op-ed-salesforce-revealed-next-battleground-in-ai-its-not-models.html",
     "image_url": null,
-    "published_at": "2026-08-29T12:22:50.000Z"
+    "published_at": "2026-08-29T13:00:01.000Z"
   },
   {
     "headline": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
@@ -78,6 +86,14 @@
     "url": "https://www.cnbc.com/2026/08/29/buffett-remains-active-at-96-but-berkshires-shares-arent-doing-much.html",
     "image_url": null,
     "published_at": "2026-08-29T11:53:36.000Z"
+  },
+  {
+    "headline": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+    "summary": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+    "image_url": null,
+    "published_at": "2026-08-29T05:00:01.000Z"
   },
   {
     "headline": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
     "image_url": null,
     "published_at": "2026-08-24T22:40:01.000Z"
-  },
-  {
-    "headline": "Jim Cramer says the data center trade is under attack. Here’s who could benefit",
-    "summary": "CNBC's Jim Cramer said Monday the data center trade isn't dead, but its next wave of winners could look very different.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/24/cramer-data-center-trade-under-attack-who-could-benefit.html",
-    "image_url": null,
-    "published_at": "2026-08-24T22:31:46.000Z"
-  },
-  {
-    "headline": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-    "summary": "Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
-    "image_url": null,
-    "published_at": "2026-08-24T22:16:51.000Z"
   }
 ]
