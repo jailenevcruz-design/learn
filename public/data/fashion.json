@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/tamme",
     "image_url": null,
-    "published_at": "2026-08-30T00:43:59.000Z"
+    "published_at": "2026-08-30T05:54:06.000Z"
   },
   {
     "headline": "Ancellm Tokyo Spring 2027",
@@ -13,7 +13,15 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/ancellm",
     "image_url": null,
-    "published_at": "2026-08-30T00:43:59.000Z"
+    "published_at": "2026-08-30T05:54:06.000Z"
+  },
+  {
+    "headline": "Amidst Tears and Fanfare, Roger Federer Is Inducted Into The International Tennis Hall of Fame in Newport",
+    "summary": "With a crowd of thousands there to witness history, Federer, long a member-in-waiting, makes it official.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/roger-federer-international-tennis-hall-of-fame",
+    "image_url": null,
+    "published_at": "2026-08-30T04:02:30.000Z"
   },
   {
     "headline": "Brad Johns, Influential Hair Colorist Known for ‘Chunking,’ Dies at 70",
@@ -384,18 +392,18 @@
     "published_at": "2026-08-28T10:01:59.000Z"
   },
   {
-    "headline": "Shop Our Favorite Celebrity Looks of the Week",
-    "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-celebrity-outfits",
-    "image_url": null,
-    "published_at": "2026-08-28T10:00:00.000Z"
-  },
-  {
     "headline": "Zara’s New Arrivals Are Full of Fall 2026’s Biggest Trends",
     "summary": "Transitional essentials and off-duty staples are a few of the best Zara new arrival finds we’re eyeing this week.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/best-zara-finds",
+    "image_url": null,
+    "published_at": "2026-08-28T10:00:00.000Z"
+  },
+  {
+    "headline": "Shop Our Favorite Celebrity Looks of the Week",
+    "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/best-celebrity-outfits",
     "image_url": null,
     "published_at": "2026-08-28T10:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.vogue.com/article/how-to-shop-the-farmers-market-like-a-new-york-city-chef",
     "image_url": null,
     "published_at": "2026-08-25T15:02:16.000Z"
-  },
-  {
-    "headline": "Levi’s Cybersecurity Breach Puts Apparel Industry Risks in Focus",
-    "summary": "ISN's Joe Schloesser urges brands to make cybersecurity a part of the broader conversation around supply chain risk.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/levis-cybersecurity-breach-apparel-industry-risks-isn-1239147930/",
-    "image_url": null,
-    "published_at": "2026-08-25T15:00:00.000Z"
   }
 ]
