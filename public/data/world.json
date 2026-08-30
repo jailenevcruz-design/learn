@@ -1,7 +1,23 @@
 [
   {
-    "headline": "Icelanders vote on whether they want to join the EU",
-    "summary": "The final vote is expected to be extremely close, with ballot counting continuing through the night.",
+    "headline": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
+    "summary": "Dolly Parton's songs traveled far beyond Nashville. Across Africa, musicians embraced her stories of hardship, heartbreak and humble beginnings — and made them their own.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans",
+    "image_url": null,
+    "published_at": "2026-08-30T10:00:00.000Z"
+  },
+  {
+    "headline": "Nepal warns of possible fresh flooding as communities grapple with devastation",
+    "summary": "Authorities in Nepal warned of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi River.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
+    "image_url": null,
+    "published_at": "2026-08-30T09:52:41.000Z"
+  },
+  {
+    "headline": "Icelanders vote 'no' to talks aimed at joining the EU in close referendum",
+    "summary": "The vote against the EU led by 52.8 percent with nearly all votes counted, according to RÚV, Iceland's broadcaster.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
     "image_url": null,
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/07/29/nx-s1-5911806/latest-mideast-strikes-between-u-s-and-iran-draw-saudi-arabia-into-conflict",
     "image_url": null,
     "published_at": "2026-07-29T20:22:26.000Z"
-  },
-  {
-    "headline": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
-    "summary": "The author and translator of Taiwan Travelogue, the winner of the 2026 International Booker Prize, discuss identity and history amid the debate over Taiwan's colonial ties to Japan and escalating geopolitical pressure from China.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
-    "image_url": null,
-    "published_at": "2026-07-29T16:55:54.000Z"
-  },
-  {
-    "headline": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
-    "summary": "Chitral borders Afghanistan and isn't easy to reach. Breathtaking views abound in this remote mountainous region — as do rockslides and avalanches.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
-    "image_url": null,
-    "published_at": "2026-07-29T14:21:07.000Z"
   }
 ]

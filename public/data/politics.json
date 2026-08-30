@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
+    "summary": "His family in Afghanistan had received threats from the Taliban because of the work performed by his brothers in support of the U.S. military.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
+    "image_url": null,
+    "published_at": "2026-08-30T08:32:13.000Z"
+  },
+  {
     "headline": "Week in Politics: Trump renames Lake Ontario 'Lake America'; Fed chair signals hikes",
     "summary": "President Trump signed an executive order to change the name of Lake Ontario to Lake America to provoke Canadian leaders. Meanwhile, the new Fed chair says inflation continues to be a problem.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/07/29/nx-s1-5910749/senate-confirms-jay-clayton-as-director-of-national-intelligence",
     "image_url": null,
     "published_at": "2026-07-29T10:49:36.000Z"
-  },
-  {
-    "headline": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing",
-    "summary": "At a Senate hearing Wednesday, Anthony Fauci is likely to face questions from Sen. Rand Paul related to the origins of the COVID-19 pandemic. Here's what you need to know",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
-    "image_url": null,
-    "published_at": "2026-07-29T09:00:00.000Z"
   }
 ]

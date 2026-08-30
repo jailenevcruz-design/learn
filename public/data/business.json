@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Top Wall Street analysts suggest these 3 dividend stocks for consistent income",
+    "summary": "These three dividend stocks offer steady income in turbulent markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/30/top-analysts-suggest-these-dividend-stocks-for-consistent-income.html",
+    "image_url": null,
+    "published_at": "2026-08-30T10:42:13.000Z"
+  },
+  {
+    "headline": "How a comic book store got swept into the tariff storm",
+    "summary": "Tariffs continue to rile all kinds of American businesses more than a year after Trump unveiled his first set of tariffs — including a comic book store owner in Ohio.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/30/nx-s1-5939521/tariff-refunds-canada-trade-war",
+    "image_url": null,
+    "published_at": "2026-08-30T10:00:00.000Z"
+  },
+  {
+    "headline": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+    "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+    "image_url": null,
+    "published_at": "2026-08-30T07:27:55.000Z"
+  },
+  {
     "headline": "Op-ed: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
     "summary": "In a candid 2015 interview, Dolly Parton told CNBC's Tania Bryer about depression, ambition and the business decisions that defined her career.",
     "publisher": "CNBC",
@@ -64,6 +88,14 @@
     "published_at": "2026-08-29T13:56:58.000Z"
   },
   {
+    "headline": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+    "summary": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+    "image_url": null,
+    "published_at": "2026-08-29T13:25:55.000Z"
+  },
+  {
     "headline": "Op-ed: Salesforce just revealed the next battleground in AI — and it's not the models",
     "summary": "For the past year, markets have vaporized roughly $2 trillion in software value by asking the wrong question about AI.",
     "publisher": "CNBC",
@@ -110,14 +142,6 @@
     "url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
     "image_url": null,
     "published_at": "2026-08-29T02:23:52.000Z"
-  },
-  {
-    "headline": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-    "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
-    "image_url": null,
-    "published_at": "2026-08-28T23:42:26.000Z"
   },
   {
     "headline": "Trump loses bid to transfer New York hush money case to federal court",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
     "image_url": null,
     "published_at": "2026-08-24T23:16:19.000Z"
-  },
-  {
-    "headline": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
-    "summary": "Humanoid robots still take a long time to complete human tasks. Several startups in China are trying different ways to collect and use training data better.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
-    "image_url": null,
-    "published_at": "2026-08-24T23:00:01.000Z"
-  },
-  {
-    "headline": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
-    "summary": "The Los Angeles Lakers set a new record for a professional team sale price at $12.5 billion, and sports investor Josh Harris said the team is worth \"every bit.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
-    "image_url": null,
-    "published_at": "2026-08-24T22:51:16.000Z"
-  },
-  {
-    "headline": "Here's what Jim Cramer says stock investors need to know about the bond market",
-    "summary": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
-    "image_url": null,
-    "published_at": "2026-08-24T22:40:01.000Z"
   }
 ]
