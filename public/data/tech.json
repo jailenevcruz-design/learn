@@ -1,5 +1,77 @@
 [
   {
+    "headline": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+    "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+    "image_url": null,
+    "published_at": "2026-08-30T18:33:44.000Z"
+  },
+  {
+    "headline": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "image_url": null,
+    "published_at": "2026-08-30T16:54:25.000Z"
+  },
+  {
+    "headline": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+    "summary": "NASA’s Nancy Grace Roman Telescope blasts off. | Photo: NASA / John Kraus After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. Fr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+    "image_url": null,
+    "published_at": "2026-08-30T16:36:39.000Z"
+  },
+  {
+    "headline": "TechCrunch Mobility: The hidden human cost of robotaxis",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+    "image_url": null,
+    "published_at": "2026-08-30T16:03:00.000Z"
+  },
+  {
+    "headline": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto ins…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "image_url": null,
+    "published_at": "2026-08-30T15:35:10.000Z"
+  },
+  {
+    "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "image_url": null,
+    "published_at": "2026-08-30T15:00:00.000Z"
+  },
+  {
+    "headline": "Chess.com launched a poker site and is planning even more classic games",
+    "summary": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking any real money. Now…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+    "image_url": null,
+    "published_at": "2026-08-30T13:00:00.000Z"
+  },
+  {
+    "headline": "China’s robots race ahead",
+    "summary": "Humanoid robot competes in the optional boxing routine event during the 2nd World Humanoid Robot Games at National Speed Skating Oval on August 26, 2026 in Beijing, China. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots an…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+    "image_url": null,
+    "published_at": "2026-08-30T12:00:00.000Z"
+  },
+  {
+    "headline": "Two new small, powerful Macs",
+    "summary": "Hi, friends! Welcome to Installer No. 142, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, how is it almost September already, and also you can read all the old editions at the Installer homepage.) This week, I've been remembering Dolly Parton, Tim Curry, and Peter Cullen, absorb…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+    "image_url": null,
+    "published_at": "2026-08-30T12:00:00.000Z"
+  },
+  {
     "headline": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
     "summary": "Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with t…",
     "publisher": "The Verge",
@@ -24,8 +96,8 @@
     "published_at": "2026-08-29T18:41:59.000Z"
   },
   {
-    "headline": "Sony Music and Warner Chappell are suing Anthropic",
-    "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was str…",
+    "headline": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+    "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright d…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
     "image_url": null,
@@ -80,18 +152,18 @@
     "published_at": "2026-08-29T14:00:00.000Z"
   },
   {
-    "headline": "The Galaxy Z Flip 8 is at its best when there’s friction",
-    "summary": "The Z Flip 8 is designed to be used shut more than ever before. | Photo: Dominic Preston / The Verge What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? Fo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
-    "image_url": null,
-    "published_at": "2026-08-29T13:00:00.000Z"
-  },
-  {
     "headline": "Nvidia’s AI advantage is moving beyond the GPU",
     "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "image_url": null,
+    "published_at": "2026-08-29T13:00:00.000Z"
+  },
+  {
+    "headline": "The Galaxy Z Flip 8 is at its best when there’s friction",
+    "summary": "The Z Flip 8 is designed to be used shut more than ever before. | Photo: Dominic Preston / The Verge What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? Fo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
     "image_url": null,
     "published_at": "2026-08-29T13:00:00.000Z"
   },
@@ -1526,77 +1598,5 @@
     "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
     "image_url": null,
     "published_at": "2026-08-24T15:48:53.000Z"
-  },
-  {
-    "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "image_url": null,
-    "published_at": "2026-08-24T15:24:18.000Z"
-  },
-  {
-    "headline": "ESPN streaming plans are getting more expensive",
-    "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan will rise to $31.99 from…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
-    "image_url": null,
-    "published_at": "2026-08-24T15:06:24.000Z"
-  },
-  {
-    "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "image_url": null,
-    "published_at": "2026-08-24T15:00:00.000Z"
-  },
-  {
-    "headline": "Raspberry Pi shares its official tutorial for making a cyberdeck",
-    "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other thrifted or recycled parts have gone viral on TikTok and other social media platf…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
-    "image_url": null,
-    "published_at": "2026-08-24T14:49:44.000Z"
-  },
-  {
-    "headline": "Brake problems in GM EVs draw greater federal scrutiny",
-    "summary": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-    "image_url": null,
-    "published_at": "2026-08-24T14:18:47.000Z"
-  },
-  {
-    "headline": "Apple’s four-pack of second-gen AirTags is $20 off",
-    "summary": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way to save even more. Why pay $96 for four when you can save $17? It felt like we ha…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-24T14:04:04.000Z"
-  },
-  {
-    "headline": "How GoFundMe became America’s backup plan",
-    "summary": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to Little League uniforms to starting a new business. Tim took over as CEO in March 2020 — a fascinating and chaotic moment…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-    "image_url": null,
-    "published_at": "2026-08-24T14:00:00.000Z"
-  },
-  {
-    "headline": "Hugging Face reportedly in talks to be acquired for $13B",
-    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "image_url": null,
-    "published_at": "2026-08-24T13:47:26.000Z"
-  },
-  {
-    "headline": "Netflix reportedly considers opening its app to other streamers",
-    "summary": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix, though it's unclear whether the streaming giant would sell subscriptions to the oth…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
-    "image_url": null,
-    "published_at": "2026-08-24T13:47:14.000Z"
   }
 ]
