@@ -1,11 +1,43 @@
 [
   {
+    "headline": "Trump says U.S. struck deal to take control of 65 billion barrels Venezuelan oil",
+    "summary": "President Trump is touting a new deal for the U.S. to access Venezuelan oil fields. Trump says it's a major boon for the American people, but it's unclear when they'll see the benefits.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5949305/trump-says-u-s-struck-deal-to-take-control-of-65-billion-barrels-venezuelan-oil",
+    "image_url": null,
+    "published_at": "2026-08-31T10:49:12.000Z"
+  },
+  {
+    "headline": "Scholar discusses Trump's claims of a new Venezuelan oil agreement",
+    "summary": "NPR's A Martínez speaks with Francisco Monaldi, director of the Latin America Energy Program at Rice University, about President Trump's claims of a Venezuelan oil agreement.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5949309/scholar-discusses-trumps-claims-of-a-new-venezuelan-oil-agreement",
+    "image_url": null,
+    "published_at": "2026-08-31T10:49:08.000Z"
+  },
+  {
+    "headline": "The U.S.-Venezuela oil deal won't lower your gas prices. Here's what you need to know",
+    "summary": "The Trump administration announced a deal Friday to develop a vast amount of Venezuela's oil reserves, with the U.S. taking a majority stake. Energy experts say there are many reasons to be skeptical.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
+    "image_url": null,
+    "published_at": "2026-08-31T09:00:00.000Z"
+  },
+  {
     "headline": "Funding bill at the top of the agenda as House returns from recess",
     "summary": "The House returns Monday for one week before heading back home. At the top of the agenda is a bill to extend government funding past the midterm elections.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/31/nx-s1-5945760/funding-bill-at-the-top-of-the-agenda-as-house-returns-from-recess",
     "image_url": null,
     "published_at": "2026-08-31T08:46:00.000Z"
+  },
+  {
+    "headline": "Rep. Glenn Ivey weighs stopgap spending bill as House returns to Washington",
+    "summary": "NPR's A Martinez speaks with Democratic Rep. Glenn Ivey of Maryland, as the House reconvenes this week with a stopgap spending bill on the agenda.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5947993/glenn-ivey-house-stopgap-spending-bill",
+    "image_url": null,
+    "published_at": "2026-08-31T08:45:10.000Z"
   },
   {
     "headline": "Rep. Glenn Ivey. D-Md., discusses what's on the agenda as the House reconvenes",
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
     "image_url": null,
     "published_at": "2026-07-30T13:10:45.000Z"
-  },
-  {
-    "headline": "Senate panel delays vote on Blanche's AG nomination as key Republicans voice concerns",
-    "summary": "Todd Blanche's nomination for attorney general is up in the air after concerns from two Republicans on the committee that must advance his nomination.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5911922/senate-panel-delays-vote-on-blanches-ag-nomination-as-key-republicans-voice-concerns",
-    "image_url": null,
-    "published_at": "2026-07-30T10:36:47.000Z"
-  },
-  {
-    "headline": "Sen. Richard Blumenthal talks about Anthony Fauci's contentious Senate hearing",
-    "summary": "NPR's Michel Martin asks U.S. Sen. Richard Blumenthal, D-Conn., for his takeaways from Wednesday's confrontational Senate committee hearing with former top U.S. health official Dr. Anthony Fauci.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5912213/sen-richard-blumenthal-talks-about-anthony-faucis-contentious-senate-hearing",
-    "image_url": null,
-    "published_at": "2026-07-30T10:36:43.000Z"
-  },
-  {
-    "headline": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
-    "summary": "A new rule for asylum applications adds to the bevy of changes under the Trump administration to the core program for those fleeing persecution in their home countries.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5891889/trump-asylum-program-changes-charts",
-    "image_url": null,
-    "published_at": "2026-07-30T09:00:00.000Z"
-  },
-  {
-    "headline": "Sen. Rand Paul says he'll move to hold Fauci in contempt after combative hearing",
-    "summary": "Dr. Anthony Fauci invoked the Fifth Amendment while appearing before a committee chaired by Sen. Rand Paul. Now, the senator is saying he will move to hold Fauci in contempt.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5911873/sen-rand-paul-says-hell-move-to-hold-fauci-in-contempt-after-combative-hearing",
-    "image_url": null,
-    "published_at": "2026-07-30T08:41:03.000Z"
   }
 ]

@@ -1,11 +1,211 @@
 [
   {
-    "headline": "U.S., Iran exchange strikes for first time since July as Trump threatens strategic oil hub",
-    "summary": "The last major U.S. strikes on Iran were carried out in late July.",
+    "headline": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
+    "summary": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
+    "image_url": null,
+    "published_at": "2026-08-31T21:36:32.000Z"
+  },
+  {
+    "headline": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
+    "summary": "Chief Justice John Roberts dissented with three liberal justices, saying, \"That construction is likely unlawful.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
+    "image_url": null,
+    "published_at": "2026-08-31T21:23:41.000Z"
+  },
+  {
+    "headline": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
+    "summary": "President Donald Trump announced Friday that the U.S. secured majority control over 65 billion barrels of Venezuela's proven oil reserves.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
+    "image_url": null,
+    "published_at": "2026-08-31T21:22:08.000Z"
+  },
+  {
+    "headline": "House Intelligence Committee warns of 'Black Swan' AI risks",
+    "summary": "Bipartisan lawmakers cautioned that existing safeguards may not be enough to keep up with AI's advances.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
+    "image_url": null,
+    "published_at": "2026-08-31T21:18:37.000Z"
+  },
+  {
+    "headline": "Trump Account holders may receive $250 Dell grant starting Monday, Dell Foundation says",
+    "summary": "Eligible children with Trump Accounts will start receiving the $250 Dell gift this week, according to the Dell Foundation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/trump-account-holders-to-start-receiving-250-dell-grant-spokesperson.html",
+    "image_url": null,
+    "published_at": "2026-08-31T21:10:05.000Z"
+  },
+  {
+    "headline": "Bessent pushes back on Druckenmiller critique of bond intervention",
+    "summary": "Bessent, at a G20 finance meeting, told CNBC he spoke with Stanley Druckenmiller after his critical op-ed was published and that their conversation went \"fine.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
+    "image_url": null,
+    "published_at": "2026-08-31T21:00:15.000Z"
+  },
+  {
+    "headline": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
+    "summary": "Trump argued rapid growth should not prompt Fed rate hikes, even as inflation remains above the central bank’s 2% target.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
+    "image_url": null,
+    "published_at": "2026-08-31T20:50:01.000Z"
+  },
+  {
+    "headline": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
+    "summary": "The FTC sued Amazon, alleging the company misled advertisers through a deceptive auctioning system.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html",
+    "image_url": null,
+    "published_at": "2026-08-31T20:34:45.000Z"
+  },
+  {
+    "headline": "The U.S. sues Amazon again",
+    "summary": "Federal regulators and 22 states allege that the tech giant made billions by manipulating how much brands and sellers paid for ads on its platform.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
+    "image_url": null,
+    "published_at": "2026-08-31T20:17:03.000Z"
+  },
+  {
+    "headline": "Brent jumps above $90 after flare-up in U.S.-Iran hostilities",
+    "summary": "Oil prices moved higher Monday, after the U.S. struck Iranian targets for the first time in weeks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+    "image_url": null,
+    "published_at": "2026-08-31T19:44:53.000Z"
+  },
+  {
+    "headline": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
+    "summary": "The path toward the move still looks cluttered.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
+    "image_url": null,
+    "published_at": "2026-08-31T19:38:38.000Z"
+  },
+  {
+    "headline": "Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel Securities",
+    "summary": "The risk-reward of buying protection in the equity market looks compelling.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/risk-reward-outlook-for-stocks-is-getting-worse-says-citadel.html",
+    "image_url": null,
+    "published_at": "2026-08-31T19:25:54.000Z"
+  },
+  {
+    "headline": "Trump says U.S. communities opposing AI data centers could end up 'backwards and poor'",
+    "summary": "\"China could not be happier with this anti Data Center movement,\" Trump said as Republicans express concerns about the backlash to data centers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/trump-data-centers-backlash-elections-congress.html",
+    "image_url": null,
+    "published_at": "2026-08-31T18:47:01.000Z"
+  },
+  {
+    "headline": "Lilly taps obesity windfall for more M&A. Plus, Elon Musk remarks pull GE Vernova lower",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/lilly-taps-obesity-windfall-for-more-ma-plus-elon-musk-remarks-pull-ge-vernova-lower.html",
+    "image_url": null,
+    "published_at": "2026-08-31T18:27:11.000Z"
+  },
+  {
+    "headline": "Kalshi permanently bans former GOP Rep. George Santos over illegal trading",
+    "summary": "Former GOP Rep. George Santos, of New York, has drawn fire for allegedly trading on whether he would attend this year's State of the Union address.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/kalshi-perman.html",
+    "image_url": null,
+    "published_at": "2026-08-31T17:36:20.000Z"
+  },
+  {
+    "headline": "American Airlines announces Trump Accounts matching program",
+    "summary": "To help fund Trump Accounts, American Airlines said it will match the federal $1,000 contribution for employees' children.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/trump-accounts-american-airlines-matching-program.html",
+    "image_url": null,
+    "published_at": "2026-08-31T17:19:46.000Z"
+  },
+  {
+    "headline": "Broadcom reports earnings this week. Mike Khouw says this trade could be a winner",
+    "summary": "\"The stakes are high\" heading into Broadcom earnings, says Mike Khouw.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/broadcom-reports-earnings-this-week-mike-khouw-says-this-trade-could-be-a-winner.html",
+    "image_url": null,
+    "published_at": "2026-08-31T17:18:15.000Z"
+  },
+  {
+    "headline": "Waiting for homebuying to get more affordable? Here's what to expect in 2027",
+    "summary": "Mortgage rates aren't expected to get much cheaper for homebuyers in 2027, especially if inflation stays high.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/what-homebuyers-can-expect-in-2027.html",
+    "image_url": null,
+    "published_at": "2026-08-31T17:16:59.000Z"
+  },
+  {
+    "headline": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
+    "summary": "OpenAI's move to serve ads in ChatGPT earlier this year drew ridicule from its chief rival, Anthropic, in the form of a Super Bowl commercial.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+    "image_url": null,
+    "published_at": "2026-08-31T16:33:46.000Z"
+  },
+  {
+    "headline": "Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report",
+    "summary": "The latest attacks prompted oil prices to climb above $90 a barrel, as energy market participants monitored the prospect of renewed supply risks.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
     "image_url": null,
-    "published_at": "2026-08-31T08:42:40.000Z"
+    "published_at": "2026-08-31T15:33:30.000Z"
+  },
+  {
+    "headline": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
+    "summary": "An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
+    "image_url": null,
+    "published_at": "2026-08-31T15:22:43.000Z"
+  },
+  {
+    "headline": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
+    "summary": "The insurance broker said the merger will create the premiere U.S. middle-market platform.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
+    "image_url": null,
+    "published_at": "2026-08-31T15:15:22.000Z"
+  },
+  {
+    "headline": "Bank of England chief warns new AI models threaten global financial stability",
+    "summary": "Bank of England Governor Andrew Bailey has warned that frontier AI could materially increase cyber risks to the global financial system.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+    "image_url": null,
+    "published_at": "2026-08-31T13:35:11.000Z"
+  },
+  {
+    "headline": "When someone talks down to you, use Dolly Parton's simple trick to 'maintain your dignity and disarm' them, says expert",
+    "summary": "Communication expert Dorie Clark calls it the \"label upgrade\" strategy. \"It's a powerful move,\" she says. \"Own the truth,\" then redefine their label. Here's how.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/when-someone-talks-down-use-dolly-partons-simple-trick-maintain-dignity-disarm-communication-expert.html",
+    "image_url": null,
+    "published_at": "2026-08-31T13:34:01.000Z"
+  },
+  {
+    "headline": "Santoli: Why investors should be on high alert heading into September",
+    "summary": "Investors should be on high alert because various key market metrics are coiling near consequential thresholds.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
+    "image_url": null,
+    "published_at": "2026-08-31T11:40:29.000Z"
+  },
+  {
+    "headline": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
+    "summary": "New York City brokers said they've seen a surge in the number of wealthy renters, which is driving Manhattan rents to new records.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
+    "image_url": null,
+    "published_at": "2026-08-31T11:27:20.000Z"
   },
   {
     "headline": "Russia preparing 'massive strikes' on Ukraine's energy sites after deadliest attack of the year",
@@ -78,14 +278,6 @@
     "url": "https://www.cnbc.com/2026/08/31/jio-ipo-nse-india-shares-meta-google.html",
     "image_url": null,
     "published_at": "2026-08-31T02:35:53.000Z"
-  },
-  {
-    "headline": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
-    "summary": "Oil rises Monday, amid heightened concerns over supply disruptions after U.S. forces struck two Iranian rocket launchers on Larak Island on Sunday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
-    "image_url": null,
-    "published_at": "2026-08-31T00:46:46.000Z"
   },
   {
     "headline": "K-beauty giant APR's shares up 100% this year ahead of U.S. Costco launch in September",
@@ -568,18 +760,18 @@
     "published_at": "2026-08-28T09:33:45.000Z"
   },
   {
-    "headline": "Businesses are getting tariff refunds. Why aren't consumers getting their cut?",
-    "summary": "A slew of American companies are getting billions of dollars back in tariff refunds after a Supreme Court ruling. Many consumers, though, may never get anything back.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5946782/businesses-getting-tariff-refunds-why-arent-consumers-getting-their-cut",
-    "image_url": null,
-    "published_at": "2026-08-28T09:00:00.000Z"
-  },
-  {
     "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
     "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
+    "image_url": null,
+    "published_at": "2026-08-28T09:00:00.000Z"
+  },
+  {
+    "headline": "Businesses are getting tariff refunds. Why aren't consumers getting their cut?",
+    "summary": "A slew of American companies are getting billions of dollars back in tariff refunds after a Supreme Court ruling. Many consumers, though, may never get anything back.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5946782/businesses-getting-tariff-refunds-why-arent-consumers-getting-their-cut",
     "image_url": null,
     "published_at": "2026-08-28T09:00:00.000Z"
   },
@@ -1406,197 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/25/instagram-adam-mosseri-testifies-california-state-ag-federal-meta.html",
     "image_url": null,
     "published_at": "2026-08-25T22:41:19.000Z"
-  },
-  {
-    "headline": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-    "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-    "image_url": null,
-    "published_at": "2026-08-25T22:09:01.000Z"
-  },
-  {
-    "headline": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
-    "summary": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the U.K., Japan and now Germany.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
-    "image_url": null,
-    "published_at": "2026-08-25T21:47:29.000Z"
-  },
-  {
-    "headline": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
-    "summary": "An OpenAI spokesperson said the company \"recently reorganized our infrastructure organization to support the scale and pace of our work.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
-    "image_url": null,
-    "published_at": "2026-08-25T21:26:00.000Z"
-  },
-  {
-    "headline": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
-    "summary": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
-    "image_url": null,
-    "published_at": "2026-08-25T21:07:56.000Z"
-  },
-  {
-    "headline": "Is the K-shaped economy ending? Finance pros weigh in",
-    "summary": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
-    "image_url": null,
-    "published_at": "2026-08-25T21:05:27.000Z"
-  },
-  {
-    "headline": "Investor competition for commercial real estate sees strongest growth in a year",
-    "summary": "Even though macro uncertainty and volatility continue to show up in the broader economy, bidding keeps rising, according to JLL.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
-    "image_url": null,
-    "published_at": "2026-08-25T20:44:51.000Z"
-  },
-  {
-    "headline": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
-    "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-    "image_url": null,
-    "published_at": "2026-08-25T20:38:59.000Z"
-  },
-  {
-    "headline": "2 of our software stocks face major tests of whether their rallies are for real",
-    "summary": "Here are the questions we are looking to answer when CrowdStrike and Salesforce report earnings Wednesday evening.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/2-of-our-software-stocks-face-major-tests-of-whether-their-rallies-are-for-real.html",
-    "image_url": null,
-    "published_at": "2026-08-25T20:27:12.000Z"
-  },
-  {
-    "headline": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
-    "summary": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
-    "image_url": null,
-    "published_at": "2026-08-25T19:52:43.000Z"
-  },
-  {
-    "headline": "Bond rout ending? Massive bets on bond rally dominate options market",
-    "summary": "There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
-    "image_url": null,
-    "published_at": "2026-08-25T19:42:17.000Z"
-  },
-  {
-    "headline": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html",
-    "image_url": null,
-    "published_at": "2026-08-25T19:01:55.000Z"
-  },
-  {
-    "headline": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-    "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-25T19:00:07.000Z"
-  },
-  {
-    "headline": "Are you richer than you think? How to find out—and what experts say to do if you are",
-    "summary": "States are holding billions of dollars in unclaimed property, and some of it may be yours.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/how-to-find-missing-money-and-what-to-do-if-you-get-it.html",
-    "image_url": null,
-    "published_at": "2026-08-25T19:00:02.000Z"
-  },
-  {
-    "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-    "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-    "image_url": null,
-    "published_at": "2026-08-25T17:48:55.000Z"
-  },
-  {
-    "headline": "Apple’s next chapter: 3 pressing challenges facing Tim Cook’s successor as CEO",
-    "summary": "John Ternus will assume the CEO role on Sept. 1, inheriting the tech giant at a pivotal moment.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/apples-next-chapter-3-pressing-challenges-facing-tim-cooks-successor-as-ceo.html",
-    "image_url": null,
-    "published_at": "2026-08-25T17:21:46.000Z"
-  },
-  {
-    "headline": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-    "summary": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
-    "image_url": null,
-    "published_at": "2026-08-25T17:15:50.000Z"
-  },
-  {
-    "headline": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
-    "summary": "HHS plans to name two deputy commissioners for technology and drugs, said two sources familiar with the matter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
-    "image_url": null,
-    "published_at": "2026-08-25T17:00:01.000Z"
-  },
-  {
-    "headline": "Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace",
-    "summary": "Bitcoin briefly surged past $81,000 as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the recent crypto rally.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-    "image_url": null,
-    "published_at": "2026-08-25T16:46:40.000Z"
-  },
-  {
-    "headline": "Cash is no longer king in home sales",
-    "summary": "Cash buyers are a diminishing share of the overall housing market, as more supply and weaker prices give all buyers more purchasing power.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
-    "image_url": null,
-    "published_at": "2026-08-25T16:38:40.000Z"
-  },
-  {
-    "headline": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
-    "summary": "Zach Witkoff, CEO of Trump-linked World Liberty Financial, said conflict-of-interest concerns related to the Trump family are misplaced.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
-    "image_url": null,
-    "published_at": "2026-08-25T16:15:06.000Z"
-  },
-  {
-    "headline": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-    "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-    "image_url": null,
-    "published_at": "2026-08-25T16:00:40.000Z"
-  },
-  {
-    "headline": "Jim Cramer says this could be the key to sending Apple shares higher",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/jim-cramer-says-this-could-be-the-key-to-sending-apple-shares-higher.html",
-    "image_url": null,
-    "published_at": "2026-08-25T15:49:18.000Z"
-  },
-  {
-    "headline": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-    "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-    "image_url": null,
-    "published_at": "2026-08-25T15:20:18.000Z"
-  },
-  {
-    "headline": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
-    "summary": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
-    "image_url": null,
-    "published_at": "2026-08-25T15:16:02.000Z"
   }
 ]
