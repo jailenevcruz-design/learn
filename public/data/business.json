@@ -1,11 +1,43 @@
 [
   {
-    "headline": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
-    "summary": "A federal lawsuit claims that fuel distributor KRSM failed to pay for $4 million worth of fuel, some of which the company sold to the Freedom Fuel network.",
+    "headline": "K-beauty giant APR's shares up 100% this year ahead of U.S. Costco launch in September",
+    "summary": "APR is accelerating its U.S. retail expansion with a Costco launch in September, as the K-beauty company's shares have surged nearly 100% this year.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
+    "url": "https://www.cnbc.com/2026/08/31/k-beauty-apr-costco-launch-september.html",
     "image_url": null,
-    "published_at": "2026-08-30T18:06:41.000Z"
+    "published_at": "2026-08-30T23:55:09.000Z"
+  },
+  {
+    "headline": "Singapore tackles finances and culture to avert a demographic crisis",
+    "summary": "One challenge for policy makers is that success on many measures won't show up immediately.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html",
+    "image_url": null,
+    "published_at": "2026-08-30T23:31:15.000Z"
+  },
+  {
+    "headline": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
+    "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explores the linkage between Nvidia's stock, the oil market, and the Federal Reserve.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/30/what-caused-nvidias-nasty-reversal-friday-look-to-the-fed-for-clues.html",
+    "image_url": null,
+    "published_at": "2026-08-30T23:26:35.000Z"
+  },
+  {
+    "headline": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
+    "summary": "Aon is nearing a roughly $17 billion deal, including debt, to acquire insurance brokerage USI from KKR, the Journal reported.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
+    "image_url": null,
+    "published_at": "2026-08-30T22:05:32.000Z"
+  },
+  {
+    "headline": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
+    "summary": "The last major U.S. strikes on Iran were carried out in late July.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-30T21:32:59.000Z"
   },
   {
     "headline": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
@@ -13,7 +45,15 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
     "image_url": null,
-    "published_at": "2026-08-30T16:55:14.000Z"
+    "published_at": "2026-08-30T19:40:52.000Z"
+  },
+  {
+    "headline": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
+    "summary": "A federal lawsuit claims that fuel distributor KRSM failed to pay for $4 million worth of fuel, some of which the company sold to the Freedom Fuel network.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
+    "image_url": null,
+    "published_at": "2026-08-30T18:06:41.000Z"
   },
   {
     "headline": "He beat Big Tobacco. Will the same playbook work against Meta and social media?",
@@ -352,6 +392,14 @@
     "published_at": "2026-08-28T14:40:22.000Z"
   },
   {
+    "headline": "China’s super-rich fled Singapore. Now they want to come back",
+    "summary": "Wealthy Chinese are reconsidering Singapore as Beijing’s offshore wealth scrutiny and geopolitical risks make alternatives less attractive.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/28/chinas-super-rich-fled-singapore-now-they-want-to-come-back.html",
+    "image_url": null,
+    "published_at": "2026-08-28T14:24:58.000Z"
+  },
+  {
     "headline": "Trump’s Greenland fixation puts security at the heart of Iceland’s knife-edge EU vote",
     "summary": "Trump’s push to acquire Greenland and growing uncertainty over U.S. security commitments have added a geopolitical dimension to Iceland’s EU debate.",
     "publisher": "CNBC",
@@ -510,14 +558,6 @@
     "url": "https://www.cnbc.com/2026/08/27/texas-senate-james-talarico-mark-cuban-healthcare.html",
     "image_url": null,
     "published_at": "2026-08-27T23:59:05.000Z"
-  },
-  {
-    "headline": "China’s super-rich fled Singapore. Now they want to come back",
-    "summary": "Wealthy Chinese are reconsidering Singapore as Beijing’s offshore wealth scrutiny and geopolitical risks make alternatives less attractive.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/chinas-super-rich-fled-singapore-now-they-want-to-come-back.html",
-    "image_url": null,
-    "published_at": "2026-08-27T23:51:49.000Z"
   },
   {
     "headline": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
     "image_url": null,
     "published_at": "2026-08-25T10:30:00.000Z"
-  },
-  {
-    "headline": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
-    "summary": "India has attracted inflows of $73 billion in 11 weeks, driven mostly by foreign currency bank deposits made by non-resident Indians.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
-    "image_url": null,
-    "published_at": "2026-08-25T10:23:53.000Z"
-  },
-  {
-    "headline": "Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point",
-    "summary": "Kyiv says the attacks are aimed at disrupting Russian supply chains and inflicting further pressure on Putin's wartime economy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/ukraine-war-russia-ozon-wildberries-economy.html",
-    "image_url": null,
-    "published_at": "2026-08-25T10:20:17.000Z"
-  },
-  {
-    "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
-    "summary": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-    "image_url": null,
-    "published_at": "2026-08-25T09:26:05.000Z"
-  },
-  {
-    "headline": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
-    "summary": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
-    "image_url": null,
-    "published_at": "2026-08-25T09:07:09.000Z"
-  },
-  {
-    "headline": "Dragon Ball Z theme park gets $7 billion green light",
-    "summary": "French President Emmanuel Macron and Saudi Arabia's Crown Prince Mohammed bin Salman agree on a $7 bn investment in the anime theme park.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/dragon-ball-z-theme-park-france-paris.html",
-    "image_url": null,
-    "published_at": "2026-08-25T08:53:08.000Z"
   }
 ]
