@@ -1,5 +1,29 @@
 [
   {
+    "headline": "China's factory activity shrinks for second straight month, contracting less than expected",
+    "summary": "China's manufacturing activity shrank for a second straight month, keeping pressure on Beijing to support the economy as growth loses momentum.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+    "image_url": null,
+    "published_at": "2026-08-31T01:40:18.000Z"
+  },
+  {
+    "headline": "U.S., Iran trade attacks as hostilities escalate once again",
+    "summary": "The last major U.S. strikes on Iran were carried out in late July.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-08-31T01:12:29.000Z"
+  },
+  {
+    "headline": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
+    "summary": "Oil rises Monday, amid heightened concerns over supply disruptions after U.S. forces struck two Iranian rocket launchers on Larak Island on Sunday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+    "image_url": null,
+    "published_at": "2026-08-31T00:46:46.000Z"
+  },
+  {
     "headline": "K-beauty giant APR's shares up 100% this year ahead of U.S. Costco launch in September",
     "summary": "APR is accelerating its U.S. retail expansion with a Costco launch in September, as the K-beauty company's shares have surged nearly 100% this year.",
     "publisher": "CNBC",
@@ -30,14 +54,6 @@
     "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
     "image_url": null,
     "published_at": "2026-08-30T22:05:32.000Z"
-  },
-  {
-    "headline": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
-    "summary": "The last major U.S. strikes on Iran were carried out in late July.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-30T21:32:59.000Z"
   },
   {
     "headline": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html",
     "image_url": null,
     "published_at": "2026-08-25T11:30:01.000Z"
-  },
-  {
-    "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
-    "summary": "The AI company said the incident \"illustrates how influence actors can use AI as a supporting tool within a broader effort to manufacture authority.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
-    "image_url": null,
-    "published_at": "2026-08-25T11:21:09.000Z"
-  },
-  {
-    "headline": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
-    "summary": "Investors will buy your life insurance policy today — and collect the payout when you die.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
-    "image_url": null,
-    "published_at": "2026-08-25T10:30:00.000Z"
   }
 ]
