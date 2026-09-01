@@ -1,5 +1,213 @@
 [
   {
+    "headline": "Who is John Ternus, the new Apple CEO?",
+    "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+    "image_url": null,
+    "published_at": "2026-09-01T18:02:00.000Z"
+  },
+  {
+    "headline": "Google Find Hub will soon help you locate things without a tracker",
+    "summary": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in response to a vehicle's…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
+    "image_url": null,
+    "published_at": "2026-09-01T18:00:00.000Z"
+  },
+  {
+    "headline": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "image_url": null,
+    "published_at": "2026-09-01T17:35:37.000Z"
+  },
+  {
+    "headline": "Homey just made the smart home controller I hoped Apple would build",
+    "summary": "Homey’s new tactile touchscreen controller has a rotary dial for controlling lights, climate, music and more. Smart homes have gotten really good at making things really complicated. Turning on a light can involve multiple steps, compared to just flipping a switch. Homey, the Dutch-based smart home platform owned by LG…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987462/homey-lg-smart-portal-smart-home-controller-price-specs-release-date",
+    "image_url": null,
+    "published_at": "2026-09-01T17:00:00.000Z"
+  },
+  {
+    "headline": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "image_url": null,
+    "published_at": "2026-09-01T17:00:00.000Z"
+  },
+  {
+    "headline": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+    "summary": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+    "image_url": null,
+    "published_at": "2026-09-01T16:49:12.000Z"
+  },
+  {
+    "headline": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
+    "summary": "Samsung’s recently released Galaxy Z Fold 8 Ultra. | Image: The Verge If you missed the release promotions for the recent round of Samsung Galaxy phones, you’re in luck. The Samsung Galaxy Z Fold 8 Ultra is $300 off at Best Buy, the best deal we’ve seen since the phone launched last month. The phone impressed us with i…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale",
+    "image_url": null,
+    "published_at": "2026-09-01T16:48:45.000Z"
+  },
+  {
+    "headline": "GoPro has been acquired and is getting into &#8216;defense, government, robotics and aerospace&#8217;",
+    "summary": "GoPro suddenly looks like a very different company than it did just last week. First, YouTuber Mark \"Markiplier\" Fischbach became the company's single largest shareholder, without disclosing that in a sponsored review that came out a week later. Now, almost the entire company has been bought by Starman Holding for $285…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+    "image_url": null,
+    "published_at": "2026-09-01T16:46:08.000Z"
+  },
+  {
+    "headline": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "image_url": null,
+    "published_at": "2026-09-01T16:31:04.000Z"
+  },
+  {
+    "headline": "John Deere launched an AI chatbot for farmers",
+    "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+    "image_url": null,
+    "published_at": "2026-09-01T16:00:52.000Z"
+  },
+  {
+    "headline": "Sony’s new party speakers have more bass, more LEDs, and more connectivity",
+    "summary": "Sony announced three new tower-style party speakers that will now be the largest options in its ULT Power Sound lineup. The new ULT Tower Max, ULT Tower 7, and ULT Tower 5 all feature expanded connectivity including USB-C, RCA, and XLR ports for connecting to audio gear using physical cables. The new models also come w…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds",
+    "image_url": null,
+    "published_at": "2026-09-01T16:00:00.000Z"
+  },
+  {
+    "headline": "Google Pics is like Canva, but with even more AI",
+    "summary": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+    "image_url": null,
+    "published_at": "2026-09-01T16:00:00.000Z"
+  },
+  {
+    "headline": "GoPro to be acquired for $285M, will remain a public company",
+    "summary": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+    "image_url": null,
+    "published_at": "2026-09-01T15:57:23.000Z"
+  },
+  {
+    "headline": "Amazon Alexa can now alert you when something new might tempt you to shop",
+    "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+    "image_url": null,
+    "published_at": "2026-09-01T15:51:55.000Z"
+  },
+  {
+    "headline": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "image_url": null,
+    "published_at": "2026-09-01T15:45:51.000Z"
+  },
+  {
+    "headline": "Microsoft 365 outage drags on, but things are improving",
+    "summary": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+    "image_url": null,
+    "published_at": "2026-09-01T15:23:15.000Z"
+  },
+  {
+    "headline": "Shelly’s new $50 security camera watches your home without a subscription",
+    "summary": "After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.99 security camera today that can be used without any additional subscription fees - although that's still an option if you want to expand its capabilities. The Shelly Camera will be available soon from th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation",
+    "image_url": null,
+    "published_at": "2026-09-01T15:19:17.000Z"
+  },
+  {
+    "headline": "Fambot introduces an ‘AI chief of staff’ for families",
+    "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "image_url": null,
+    "published_at": "2026-09-01T15:10:58.000Z"
+  },
+  {
+    "headline": "Florida and Texas move to block Flock cameras over privacy concerns",
+    "summary": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
+    "image_url": null,
+    "published_at": "2026-09-01T15:00:10.000Z"
+  },
+  {
+    "headline": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
+    "summary": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
+    "image_url": null,
+    "published_at": "2026-09-01T14:52:12.000Z"
+  },
+  {
+    "headline": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego, and Tampa",
+    "summary": "Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
+    "image_url": null,
+    "published_at": "2026-09-01T14:20:44.000Z"
+  },
+  {
+    "headline": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
+    "summary": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-09-01T14:03:00.000Z"
+  },
+  {
+    "headline": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
+    "summary": "The Sonos Ace Ultra are what the original Ace should have been — headphones for the Sonos ecosystem. | Image: Sonos At an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing in early August - and a ma…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement",
+    "image_url": null,
+    "published_at": "2026-09-01T14:00:00.000Z"
+  },
+  {
+    "headline": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+    "summary": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+    "image_url": null,
+    "published_at": "2026-09-01T13:58:42.000Z"
+  },
+  {
+    "headline": "Tim Cook’s legacy isn’t just phones, it’s politics",
+    "summary": "As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat in the US. During his 15 years as CEO, Cook steered Apple through relations with both Chinese President Xi Jinping and US P…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi",
+    "image_url": null,
+    "published_at": "2026-09-01T13:51:02.000Z"
+  },
+  {
+    "headline": "If space data centers feel far-fetched, why not interstellar travel?",
+    "summary": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+    "image_url": null,
+    "published_at": "2026-09-01T10:00:00.000Z"
+  },
+  {
     "headline": "Magna increases bet on battery swapping in India with $35M for Yuma",
     "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
     "publisher": "TechCrunch",
@@ -1390,213 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "image_url": null,
     "published_at": "2026-08-26T00:06:20.000Z"
-  },
-  {
-    "headline": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
-    "summary": "The Garmin Fenix 9. | Image: Garmin Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent more…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
-    "image_url": null,
-    "published_at": "2026-08-25T22:20:17.000Z"
-  },
-  {
-    "headline": "Trump is upping the price of Big Tech’s favorite visa",
-    "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The Associated Press, would be the largest ma…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
-    "image_url": null,
-    "published_at": "2026-08-25T21:45:00.000Z"
-  },
-  {
-    "headline": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-    "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-    "image_url": null,
-    "published_at": "2026-08-25T20:44:12.000Z"
-  },
-  {
-    "headline": "At just $8, you owe it to yourself to grab Inscryption",
-    "summary": "What starts as a roguelite deckbuilder builds into something far more ambitious. | Image: Daniel Mullins Games/Devolver Digital If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-25T20:38:37.000Z"
-  },
-  {
-    "headline": "The Witcher 3 is getting a remaster",
-    "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two ex…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-    "image_url": null,
-    "published_at": "2026-08-25T20:24:24.000Z"
-  },
-  {
-    "headline": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-    "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-    "image_url": null,
-    "published_at": "2026-08-25T19:22:52.000Z"
-  },
-  {
-    "headline": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "summary": "The company's new fundraising total now stands at $232 million.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-    "image_url": null,
-    "published_at": "2026-08-25T19:03:47.000Z"
-  },
-  {
-    "headline": "Dreame’s dream of a rocket-powered car is dead",
-    "summary": "The Dreame NEXT event during the Silicon Valley Summit at the Palace of Fine Arts on April 29, 2026 in San Francisco, CA. | Photo by Kelsey McClellan / The Verge Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the gov…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
-    "image_url": null,
-    "published_at": "2026-08-25T18:52:53.000Z"
-  },
-  {
-    "headline": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-    "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
-    "image_url": null,
-    "published_at": "2026-08-25T18:26:55.000Z"
-  },
-  {
-    "headline": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-    "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-    "image_url": null,
-    "published_at": "2026-08-25T18:22:50.000Z"
-  },
-  {
-    "headline": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
-    "summary": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG Green,\" matching the Xbox Series X25 limited edition console it announ…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
-    "image_url": null,
-    "published_at": "2026-08-25T18:16:29.000Z"
-  },
-  {
-    "headline": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
-    "image_url": null,
-    "published_at": "2026-08-25T18:01:30.000Z"
-  },
-  {
-    "headline": "Claude Cowork finally remembers what you told the app in chat",
-    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "image_url": null,
-    "published_at": "2026-08-25T17:50:33.000Z"
-  },
-  {
-    "headline": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
-    "summary": "The Bose SoundLink Micro is just over four inches square. | Image: The Verge Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact Bluetooth speaker — is c…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-25T17:39:20.000Z"
-  },
-  {
-    "headline": "Waymo robotaxis are headed to Munich",
-    "summary": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-    "image_url": null,
-    "published_at": "2026-08-25T17:32:03.000Z"
-  },
-  {
-    "headline": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-    "summary": "The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also featured a bunch of trailers for others games, including Gears of War: E…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
-    "image_url": null,
-    "published_at": "2026-08-25T17:20:00.000Z"
-  },
-  {
-    "headline": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-    "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement on Tuesday. An example…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-    "image_url": null,
-    "published_at": "2026-08-25T17:12:31.000Z"
-  },
-  {
-    "headline": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-    "summary": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match your wallpaper \"while Not…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-    "image_url": null,
-    "published_at": "2026-08-25T16:58:53.000Z"
-  },
-  {
-    "headline": "GeForce Now is getting support for the Steam Controller",
-    "summary": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on your Steam Deck or Steam Machine. If you're using GeForce No…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-    "image_url": null,
-    "published_at": "2026-08-25T16:47:15.000Z"
-  },
-  {
-    "headline": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-    "summary": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
-    "image_url": null,
-    "published_at": "2026-08-25T16:35:00.000Z"
-  },
-  {
-    "headline": "Polestar claims it was blindsided by sales ban",
-    "summary": "BEVERLY HILLS, CALIFORNIA - JUNE 26: Polestar cars are displayed in the showroom at a Polestar dealership on June 26, 2026 in Beverly Hills, California. Electric car maker Polestar will be barred from selling new vehicles in the United States starting with the 2027 model year after the Commerce Department cited nationa…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
-    "image_url": null,
-    "published_at": "2026-08-25T16:14:45.000Z"
-  },
-  {
-    "headline": "That fake Grand Theft Auto VI demo is actually just malware",
-    "summary": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
-    "image_url": null,
-    "published_at": "2026-08-25T15:48:38.000Z"
-  },
-  {
-    "headline": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-    "summary": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-    "image_url": null,
-    "published_at": "2026-08-25T15:30:00.000Z"
-  },
-  {
-    "headline": "Gamma acquires Accel-backed design startup Lica",
-    "summary": "Lica co-founders are going to work on Gamma's new research team.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-    "image_url": null,
-    "published_at": "2026-08-25T15:00:00.000Z"
-  },
-  {
-    "headline": "Apple rescues Hide My Email feature from the privacy scrap heap",
-    "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-    "image_url": null,
-    "published_at": "2026-08-25T14:46:32.000Z"
-  },
-  {
-    "headline": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
-    "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It doesn't look like anything else has changed, as the description matches an a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-    "image_url": null,
-    "published_at": "2026-08-25T14:25:52.000Z"
   }
 ]

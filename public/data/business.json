@@ -1,5 +1,221 @@
 [
   {
+    "headline": "Bessent touts bond market as 10-year Treasury yield spikes",
+    "summary": "Treasury Secretary Scott Bessent downplayed short-term bond moves even as he touted the U.S. market, saying, \"what happens over a month doesn't matter.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/bessent-trump-bond-yields-g20.html",
+    "image_url": null,
+    "published_at": "2026-09-01T18:52:17.000Z"
+  },
+  {
+    "headline": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
+    "summary": "Canadian Prime Minister Mark Carney said \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+    "image_url": null,
+    "published_at": "2026-09-01T18:52:11.000Z"
+  },
+  {
+    "headline": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
+    "summary": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+    "image_url": null,
+    "published_at": "2026-09-01T18:45:02.000Z"
+  },
+  {
+    "headline": "Penn. Gov. Shapiro says too many data center developers 'don't care about our communities'",
+    "summary": "A Gallup survey released in May found that \"seven in 10 Americans oppose constructing data centers for artificial intelligence in their local area.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
+    "image_url": null,
+    "published_at": "2026-09-01T18:43:05.000Z"
+  },
+  {
+    "headline": "Anthropic changes data retention policy after pushback from customers",
+    "summary": "Anthropic's Enterprise Frontier Safeguards are a response to customer feedback.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html",
+    "image_url": null,
+    "published_at": "2026-09-01T18:29:17.000Z"
+  },
+  {
+    "headline": "Prediction market traders think job creation rebounded in August",
+    "summary": "Traders see 50-50 odds that the U.S. economy added more than 50,000 jobs last month.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
+    "image_url": null,
+    "published_at": "2026-09-01T18:16:44.000Z"
+  },
+  {
+    "headline": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
+    "summary": "The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+    "image_url": null,
+    "published_at": "2026-09-01T18:14:01.000Z"
+  },
+  {
+    "headline": "We're sitting on more cash than at any time this year. Here's why",
+    "summary": "Cash management is an important part of managing risk. This current market demands our attention.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/were-sitting-on-more-cash-than-at-any-time-this-year-heres-why.html",
+    "image_url": null,
+    "published_at": "2026-09-01T18:02:14.000Z"
+  },
+  {
+    "headline": "AI token prices are hitting new record lows",
+    "summary": "A closely followed measure of artificial intelligence token prices touched fresh lows.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
+    "image_url": null,
+    "published_at": "2026-09-01T17:02:53.000Z"
+  },
+  {
+    "headline": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
+    "summary": "Treasury yields increased on Tuesday as investors monitored a reignition of tensions in the Middle East.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+    "image_url": null,
+    "published_at": "2026-09-01T17:01:45.000Z"
+  },
+  {
+    "headline": "Crypto enters September with legislative policy gamble hanging by a thread",
+    "summary": "Comprehensive industry legislation teeters on the brink amid growing doubts the bill will cross the finish line.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/crypto-enters-september-with-policy-gamble-hanging-by-a-thread.html",
+    "image_url": null,
+    "published_at": "2026-09-01T16:43:34.000Z"
+  },
+  {
+    "headline": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI",
+    "summary": "SB Energy hasn't generated any revenue from its data center business, and none of its data centers are operational yet.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
+    "image_url": null,
+    "published_at": "2026-09-01T16:40:27.000Z"
+  },
+  {
+    "headline": "How one of the largest investors in student housing is playing this school year",
+    "summary": "Mike Gordon of Harrison Street Asset Management said funding cuts and enrollment trends are making specialization more vital than ever.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+    "image_url": null,
+    "published_at": "2026-09-01T16:36:55.000Z"
+  },
+  {
+    "headline": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+    "summary": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+    "image_url": null,
+    "published_at": "2026-09-01T16:27:54.000Z"
+  },
+  {
+    "headline": "Students are reconsidering their majors, career paths and industries due to AI: CNBC survey",
+    "summary": "As AI continues to reshape industries, some students are wondering what their careers will look like once they graduate.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/students-are-reconsidering-majors-career-paths-due-to-ai-cnbc-survey.html",
+    "image_url": null,
+    "published_at": "2026-09-01T16:17:59.000Z"
+  },
+  {
+    "headline": "Used cars under $20,000 tend to sell quickly — but there are trade-offs for buyers",
+    "summary": "The share of used cars listed at under $20,000 has dropped from pre-pandemic levels against a backdrop of high inflation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/used-cars-under-20000-sell-quickly-tradeoffs.html",
+    "image_url": null,
+    "published_at": "2026-09-01T15:49:08.000Z"
+  },
+  {
+    "headline": "Bessent reportedly tells Russia it won't get economic relief until it ends Ukraine war",
+    "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
+    "image_url": null,
+    "published_at": "2026-09-01T14:31:10.000Z"
+  },
+  {
+    "headline": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+    "summary": "Indian PM Narendra Modi has urged Russia to end the Ukraine war and to cease hostilities.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+    "image_url": null,
+    "published_at": "2026-09-01T14:23:00.000Z"
+  },
+  {
+    "headline": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+    "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+    "image_url": null,
+    "published_at": "2026-09-01T14:01:27.000Z"
+  },
+  {
+    "headline": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
+    "summary": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
+    "image_url": null,
+    "published_at": "2026-09-01T14:00:01.000Z"
+  },
+  {
+    "headline": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
+    "summary": "Whatnot and TikTok are tapping into its potential livestream shopping in the U.S. after a decade of massive success in China.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html",
+    "image_url": null,
+    "published_at": "2026-09-01T13:40:48.000Z"
+  },
+  {
+    "headline": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
+    "summary": "Trump argued rapid growth should not prompt Fed rate hikes, even as inflation remains above the central bank’s 2% target.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
+    "image_url": null,
+    "published_at": "2026-09-01T13:22:11.000Z"
+  },
+  {
+    "headline": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+    "summary": "Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delivery decisions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
+    "image_url": null,
+    "published_at": "2026-09-01T12:50:57.000Z"
+  },
+  {
+    "headline": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
+    "summary": "Bond yields surged across major markets Tuesday as U.S.-Iran hostilities revived energy and inflation risks, with Japan and U.K. yields at multi-decade highs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html",
+    "image_url": null,
+    "published_at": "2026-09-01T12:39:23.000Z"
+  },
+  {
+    "headline": "Toyota's hybrid RAV4 is in demand as dealers wait for more supply",
+    "summary": "When Toyota announced the new version of its SUV, it said the RAV4 would only be available as a hybrid and that production would be limited at first.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/toyota-rav4-dealer-inventory.html",
+    "image_url": null,
+    "published_at": "2026-09-01T12:00:01.000Z"
+  },
+  {
+    "headline": "'It can outthink me': How a major manufacturer came to embrace AI",
+    "summary": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
+    "image_url": null,
+    "published_at": "2026-09-01T09:00:00.000Z"
+  },
+  {
+    "headline": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+    "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+    "image_url": null,
+    "published_at": "2026-09-01T07:30:49.000Z"
+  },
+  {
     "headline": "These emerging markets are favored to get 'a wall of money' from carry trades",
     "summary": "Emerging markets could attract more capital as Treasury bond buyback plans weaken the dollar and support carry trades, analysts say.",
     "publisher": "CNBC",
@@ -16,14 +232,6 @@
     "published_at": "2026-09-01T03:44:19.000Z"
   },
   {
-    "headline": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
-    "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-    "image_url": null,
-    "published_at": "2026-09-01T03:22:56.000Z"
-  },
-  {
     "headline": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
     "summary": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.",
     "publisher": "CNBC",
@@ -38,14 +246,6 @@
     "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
     "image_url": null,
     "published_at": "2026-09-01T01:56:53.000Z"
-  },
-  {
-    "headline": "Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-    "summary": "Indian PM Narendra Modi has urged Russia to end the Ukraine war and to cease hostilities.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-    "image_url": null,
-    "published_at": "2026-09-01T01:51:28.000Z"
   },
   {
     "headline": "The $3 trillion oil market has just gotten more accessible than ever: No longer a 'rich man's game'",
@@ -118,14 +318,6 @@
     "url": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
     "image_url": null,
     "published_at": "2026-08-31T21:00:15.000Z"
-  },
-  {
-    "headline": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
-    "summary": "Trump argued rapid growth should not prompt Fed rate hikes, even as inflation remains above the central bank’s 2% target.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
-    "image_url": null,
-    "published_at": "2026-08-31T20:50:01.000Z"
   },
   {
     "headline": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
@@ -206,6 +398,14 @@
     "url": "https://www.cnbc.com/2026/08/31/lilly-taps-obesity-windfall-for-more-ma-plus-elon-musk-remarks-pull-ge-vernova-lower.html",
     "image_url": null,
     "published_at": "2026-08-31T18:27:11.000Z"
+  },
+  {
+    "headline": "Trump to meet with U.S. oil refiners as White House pushes to lower gas prices",
+    "summary": "The White House says it is seeking near-term steps to boost refining capacity as affordability and gas prices loom over the midterm election.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html",
+    "image_url": null,
+    "published_at": "2026-08-31T17:44:31.000Z"
   },
   {
     "headline": "Kalshi permanently bans former GOP Rep. George Santos over illegal trading",
@@ -1398,205 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/26/dolly-parton-women-leadership.html",
     "image_url": null,
     "published_at": "2026-08-26T18:04:25.000Z"
-  },
-  {
-    "headline": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-    "summary": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-26T17:54:01.000Z"
-  },
-  {
-    "headline": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus",
-    "summary": "Analysts expect the company to launch new iPhones and Apple Watches at the event, including the company's first folding phone",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/apple-iphone-launch-date-john-ternus.html",
-    "image_url": null,
-    "published_at": "2026-08-26T17:40:28.000Z"
-  },
-  {
-    "headline": "Mark Walter's TWG Global says there's 'no fraud' amid probe of insurers' disclosures",
-    "summary": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
-    "image_url": null,
-    "published_at": "2026-08-26T17:15:22.000Z"
-  },
-  {
-    "headline": "Nvidia, CrowdStike and Salesforce face big tests tonight. Here's what we need to see",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/nvidia-crowdstike-and-salesforce-face-big-tests-tonight.html",
-    "image_url": null,
-    "published_at": "2026-08-26T17:07:35.000Z"
-  },
-  {
-    "headline": "Economists want Warsh to share more on his view of the economy at Jackson Hole, says CNBC survey",
-    "summary": "Eighty percent of CNBC Fed Survey respondents say the Federal Reserve Chairman Warsh should provide more insight into his economic views.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/fed-survey-warsh-economy-view.html",
-    "image_url": null,
-    "published_at": "2026-08-26T17:02:24.000Z"
-  },
-  {
-    "headline": "The post-penny economy: How cash rounding and credit card surcharges are changing what you pay",
-    "summary": "More merchants are rounding change for cash purchases to the nearest nickel due to the end of penny production, or adding surcharges to credit card transactions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/cash-rounding-credit-card-surcharges-penny-production-ends.html",
-    "image_url": null,
-    "published_at": "2026-08-26T16:58:26.000Z"
-  },
-  {
-    "headline": "Meta settles social media addiction case with California, other states for $16.7 billion",
-    "summary": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
-    "image_url": null,
-    "published_at": "2026-08-26T16:33:06.000Z"
-  },
-  {
-    "headline": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-    "summary": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
-    "image_url": null,
-    "published_at": "2026-08-26T16:25:09.000Z"
-  },
-  {
-    "headline": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say",
-    "summary": "The proposal comes weeks before the midterm elections, when food prices and the cost of living are expected to be major issues on voters' minds.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
-    "image_url": null,
-    "published_at": "2026-08-26T14:58:58.000Z"
-  },
-  {
-    "headline": "I manage Dolly Parton’s Imagination Library in Cincinnati—the No. 1 lesson she taught me about success",
-    "summary": "Cincinnati literacy leader Kristy High reflects on Dolly Parton’s Imagination Library and the lesson Parton's philanthropy taught her about success.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/the-no-1-lesson-dolly-parton-taught-me-about-success.html",
-    "image_url": null,
-    "published_at": "2026-08-26T14:56:51.000Z"
-  },
-  {
-    "headline": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
-    "summary": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
-    "image_url": null,
-    "published_at": "2026-08-26T14:55:22.000Z"
-  },
-  {
-    "headline": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
-    "summary": "Paramount Skydance's acquisition of Warner Bros. Discovery is stalled due to an antitrust lawsuit, leaving WBD in limbo during a pivotal moment for media.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
-    "image_url": null,
-    "published_at": "2026-08-26T14:31:47.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield is little changed after PCE inflation report is mostly as expected",
-    "summary": "Treasury yields were broadly flat on Wednesday, as investors assessed the publication of the Federal Reserve's preferred inflation metric.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html",
-    "image_url": null,
-    "published_at": "2026-08-26T14:13:13.000Z"
-  },
-  {
-    "headline": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-    "summary": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
-    "image_url": null,
-    "published_at": "2026-08-26T13:35:50.000Z"
-  },
-  {
-    "headline": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh",
-    "summary": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
-    "image_url": null,
-    "published_at": "2026-08-26T13:35:18.000Z"
-  },
-  {
-    "headline": "Meta, states agree to $17 billion settlement in child safety trial",
-    "summary": "The social media giant also agreed to make sweeping changes to Instagram and Facebook.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
-    "image_url": null,
-    "published_at": "2026-08-26T13:33:39.000Z"
-  },
-  {
-    "headline": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-    "summary": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-    "image_url": null,
-    "published_at": "2026-08-26T13:27:35.000Z"
-  },
-  {
-    "headline": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-    "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-    "image_url": null,
-    "published_at": "2026-08-26T13:24:25.000Z"
-  },
-  {
-    "headline": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
-    "summary": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
-    "image_url": null,
-    "published_at": "2026-08-26T13:20:34.000Z"
-  },
-  {
-    "headline": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-    "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-    "image_url": null,
-    "published_at": "2026-08-26T13:15:24.000Z"
-  },
-  {
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-    "summary": "It's a monumental day of earnings, led by Nvidia.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-    "image_url": null,
-    "published_at": "2026-08-26T12:55:38.000Z"
-  },
-  {
-    "headline": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
-    "summary": "The South Korean automaker wants to keep going by ramping up production at a new $7.6 billion plant in Georgia to capture more sales and market share.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
-    "image_url": null,
-    "published_at": "2026-08-26T12:00:01.000Z"
-  },
-  {
-    "headline": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
-    "summary": "Mortgage rates rose again last week causing demand for both refinances and purchase loans to drop. Rates climbed to their highest level in three weeks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
-    "image_url": null,
-    "published_at": "2026-08-26T11:33:07.000Z"
-  },
-  {
-    "headline": "Haidilao shares jump as delivery growth and new restaurant brands boost outlook",
-    "summary": "Haidilao shares rose after results showed strong growth in delivery and newer restaurant formats, even as revenue from its core hotpot restaurants declined.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
-    "image_url": null,
-    "published_at": "2026-08-26T09:35:08.000Z"
-  },
-  {
-    "headline": "She got an electric bill for $1,373. She's not alone",
-    "summary": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Okla., people are having their power cut when they can't pay their bills.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
-    "image_url": null,
-    "published_at": "2026-08-26T09:01:00.000Z"
   }
 ]

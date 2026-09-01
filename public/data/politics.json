@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Congress averts a government shutdown ahead of the midterms",
+    "summary": "With just a few weeks to spare, the House approved legislation extending funding through mid-December.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
+    "image_url": null,
+    "published_at": "2026-09-01T18:06:33.000Z"
+  },
+  {
+    "headline": "ICE says it has enough body cameras now, after series of deadly shootings",
+    "summary": "Cameras could help alleviate some concerns about ICE transparency and accountability after immigration officers were involved in over two dozen shootings under the Trump administration.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
+    "image_url": null,
+    "published_at": "2026-09-01T17:52:37.000Z"
+  },
+  {
+    "headline": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
+    "summary": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could \"derail\" the midterm election if courts allow it to proceed.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
+    "image_url": null,
+    "published_at": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "headline": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
+    "summary": "Utah District Judge Tony Graf Jr. will hear arguments over evidence introduced in July, to decide if there's enough probable cause for a trial in the shooting of the conservative activist last year.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing",
+    "image_url": null,
+    "published_at": "2026-09-01T09:00:00.000Z"
+  },
+  {
+    "headline": "Affordability is the centerpiece of Democrats' message in Pennsylvania swing district",
+    "summary": "A rematch in a swing district Pennsylvania is showcasing how Republican messaging from 2024 is getting a replay, this time from Democratic candidates.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5938774/affordability-is-the-centerpiece-of-democrats-message-in-pennsylvania-swing-district",
+    "image_url": null,
+    "published_at": "2026-09-01T08:46:53.000Z"
+  },
+  {
+    "headline": "In Massachusetts, Sen. Ed Markey and Rep. Seth Moulton vie for Senate nomination",
+    "summary": "Sen. Ed Markey faces Congressman Seth Moulton in the Massachusetts Senate primary. Both candidates have similar progressive platforms.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5948069/in-massachusetts-sen-ed-markey-and-rep-seth-moulton-vie-for-senate-nomination",
+    "image_url": null,
+    "published_at": "2026-09-01T08:45:49.000Z"
+  },
+  {
     "headline": "Trump officials cut political interference ban after unusual Census Bureau report",
     "summary": "After the Census Bureau issued a report tied to a Trump-aligned think tank, the bureau's parent agency cut language banning political interference from its scientific integrity policy, NPR learned.",
     "publisher": "NPR",
@@ -1550,53 +1598,5 @@
     "url": "https://www.npr.org/2026/07/31/nx-s1-5913739/former-sen-flake-on-what-gop-objections-over-blanches-nomination-means-for-trump",
     "image_url": null,
     "published_at": "2026-07-31T10:42:15.000Z"
-  },
-  {
-    "headline": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
-    "summary": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
-    "image_url": null,
-    "published_at": "2026-07-31T09:00:00.000Z"
-  },
-  {
-    "headline": "Democrats show divisions on Israel amid competitive midterm elections",
-    "summary": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-    "image_url": null,
-    "published_at": "2026-07-31T09:00:00.000Z"
-  },
-  {
-    "headline": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
-    "summary": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-    "image_url": null,
-    "published_at": "2026-07-31T09:00:00.000Z"
-  },
-  {
-    "headline": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
-    "summary": "The accusations against Dr. Anthony Fauci, once the nation's leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
-    "image_url": null,
-    "published_at": "2026-07-30T20:37:48.000Z"
-  },
-  {
-    "headline": "Trump's attorney general pick hits resistance from Republicans",
-    "summary": "Todd Blanche's attorney general nomination has run into resistance from Republicans demanding answers about a Justice Department settlement tied to Trump's tax returns.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5913714/trumps-attorney-general-pick-hits-resistance-from-republicans",
-    "image_url": null,
-    "published_at": "2026-07-30T20:30:40.000Z"
-  },
-  {
-    "headline": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
-    "summary": "Congress allocated $150 million for 250th birthday events. The Trump-backed group that planned the state fair and July 4th fireworks is asking for an additional $10 million in reimbursements.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million",
-    "image_url": null,
-    "published_at": "2026-07-30T17:47:57.000Z"
   }
 ]
