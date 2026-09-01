@@ -1,5 +1,109 @@
 [
   {
+    "headline": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+    "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+    "image_url": null,
+    "published_at": "2026-09-01T21:24:07.000Z"
+  },
+  {
+    "headline": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+    "summary": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-09-01T21:18:02.000Z"
+  },
+  {
+    "headline": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
+    "summary": "Kroenke Sports and Entertainment was valued at more than $26 billion in CNBC's most recent list of the world's most valuable sports empires.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
+    "image_url": null,
+    "published_at": "2026-09-01T21:03:31.000Z"
+  },
+  {
+    "headline": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
+    "summary": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel. Iran said it retaliated.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+    "image_url": null,
+    "published_at": "2026-09-01T20:56:50.000Z"
+  },
+  {
+    "headline": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
+    "summary": "Treasury yields increased on Tuesday as investors monitored a reignition of tensions in the Middle East.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+    "image_url": null,
+    "published_at": "2026-09-01T20:40:30.000Z"
+  },
+  {
+    "headline": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
+    "summary": "The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+    "image_url": null,
+    "published_at": "2026-09-01T20:34:47.000Z"
+  },
+  {
+    "headline": "House to vote on measure condemning socialism ahead of November election",
+    "summary": "Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+    "image_url": null,
+    "published_at": "2026-09-01T20:29:10.000Z"
+  },
+  {
+    "headline": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
+    "summary": "Action camera maker GoPro is merging with private photonics company Starman Optical and joining the AI wave.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
+    "image_url": null,
+    "published_at": "2026-09-01T20:28:08.000Z"
+  },
+  {
+    "headline": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
+    "summary": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+    "image_url": null,
+    "published_at": "2026-09-01T20:20:50.000Z"
+  },
+  {
+    "headline": "Pa. Gov. Shapiro says too many data center developers 'don't care about our communities'",
+    "summary": "A Gallup survey released in May found that \"seven in 10 Americans oppose constructing data centers for artificial intelligence in their local area.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
+    "image_url": null,
+    "published_at": "2026-09-01T20:16:05.000Z"
+  },
+  {
+    "headline": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
+    "summary": "Meta Platforms has become a battleground stock.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
+    "image_url": null,
+    "published_at": "2026-09-01T19:48:20.000Z"
+  },
+  {
+    "headline": "AI token prices are hitting new record lows",
+    "summary": "A closely followed measure of artificial intelligence token prices touched fresh lows.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
+    "image_url": null,
+    "published_at": "2026-09-01T19:26:55.000Z"
+  },
+  {
+    "headline": "Prediction market traders think job creation rebounded in August",
+    "summary": "Traders see 50-50 odds that the U.S. economy added more than 50,000 jobs last month.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
+    "image_url": null,
+    "published_at": "2026-09-01T18:57:14.000Z"
+  },
+  {
     "headline": "Bessent touts bond market as 10-year Treasury yield spikes",
     "summary": "Treasury Secretary Scott Bessent downplayed short-term bond moves even as he touted the U.S. market, saying, \"what happens over a month doesn't matter.\"",
     "publisher": "CNBC",
@@ -16,22 +120,6 @@
     "published_at": "2026-09-01T18:52:11.000Z"
   },
   {
-    "headline": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
-    "summary": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-    "image_url": null,
-    "published_at": "2026-09-01T18:45:02.000Z"
-  },
-  {
-    "headline": "Penn. Gov. Shapiro says too many data center developers 'don't care about our communities'",
-    "summary": "A Gallup survey released in May found that \"seven in 10 Americans oppose constructing data centers for artificial intelligence in their local area.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
-    "image_url": null,
-    "published_at": "2026-09-01T18:43:05.000Z"
-  },
-  {
     "headline": "Anthropic changes data retention policy after pushback from customers",
     "summary": "Anthropic's Enterprise Frontier Safeguards are a response to customer feedback.",
     "publisher": "CNBC",
@@ -40,44 +128,12 @@
     "published_at": "2026-09-01T18:29:17.000Z"
   },
   {
-    "headline": "Prediction market traders think job creation rebounded in August",
-    "summary": "Traders see 50-50 odds that the U.S. economy added more than 50,000 jobs last month.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
-    "image_url": null,
-    "published_at": "2026-09-01T18:16:44.000Z"
-  },
-  {
-    "headline": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
-    "summary": "The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
-    "image_url": null,
-    "published_at": "2026-09-01T18:14:01.000Z"
-  },
-  {
     "headline": "We're sitting on more cash than at any time this year. Here's why",
     "summary": "Cash management is an important part of managing risk. This current market demands our attention.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/01/were-sitting-on-more-cash-than-at-any-time-this-year-heres-why.html",
     "image_url": null,
     "published_at": "2026-09-01T18:02:14.000Z"
-  },
-  {
-    "headline": "AI token prices are hitting new record lows",
-    "summary": "A closely followed measure of artificial intelligence token prices touched fresh lows.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
-    "image_url": null,
-    "published_at": "2026-09-01T17:02:53.000Z"
-  },
-  {
-    "headline": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
-    "summary": "Treasury yields increased on Tuesday as investors monitored a reignition of tensions in the Middle East.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
-    "image_url": null,
-    "published_at": "2026-09-01T17:01:45.000Z"
   },
   {
     "headline": "Crypto enters September with legislative policy gamble hanging by a thread",
@@ -1542,61 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
     "image_url": null,
     "published_at": "2026-08-26T20:50:45.000Z"
-  },
-  {
-    "headline": "The White House's preferred economic tools are hitting snags",
-    "summary": "Tariffs and export controls have been the Trump administration's main economic security tools. Neither is working very well right now.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5928351/white-house-tarifffs-snags",
-    "image_url": null,
-    "published_at": "2026-08-26T20:29:45.000Z"
-  },
-  {
-    "headline": "Meta agrees to $17 billion settlement and new protections for teens",
-    "summary": "Meta and the attorneys general of four states have reached a $17 billion settlement in a landmark federal trial over child safety issues on Facebook and Instagram.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5945010/meta-agrees-to-17-billion-settlement-and-new-protections-for-teens",
-    "image_url": null,
-    "published_at": "2026-08-26T20:09:00.000Z"
-  },
-  {
-    "headline": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
-    "summary": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
-    "image_url": null,
-    "published_at": "2026-08-26T19:15:45.000Z"
-  },
-  {
-    "headline": "Las Vegas Sands shares are about to 'catch a heater,' says Mike Khouw",
-    "summary": "Although named after the Nevada gaming mecca, Las Vegas Sands has largely depended on the Asia/Macau story of the last decade.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/las-vegas-sands-shares-are-about-to-catch-a-heater-says-mike-khouw.html",
-    "image_url": null,
-    "published_at": "2026-08-26T18:17:04.000Z"
-  },
-  {
-    "headline": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
-    "summary": "Hackers targeted networks \"operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contractors,\" a filing said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
-    "image_url": null,
-    "published_at": "2026-08-26T18:16:38.000Z"
-  },
-  {
-    "headline": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
-    "summary": "Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virgina, according to sources.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
-    "image_url": null,
-    "published_at": "2026-08-26T18:07:15.000Z"
-  },
-  {
-    "headline": "How Dolly Parton inspired women in leadership: 'We all owe Dolly a debt'",
-    "summary": "The legendary Dolly Parton inspired women to dream bigger and fight for what they deserve. Female business leaders and workers share what the icon meant to them.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/dolly-parton-women-leadership.html",
-    "image_url": null,
-    "published_at": "2026-08-26T18:04:25.000Z"
   }
 ]

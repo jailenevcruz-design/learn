@@ -1,5 +1,117 @@
 [
   {
+    "headline": "Apple Maps follows Google in renaming Lake Ontario",
+    "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Apple Maps still shows \"…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+    "image_url": null,
+    "published_at": "2026-09-01T21:22:56.000Z"
+  },
+  {
+    "headline": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "image_url": null,
+    "published_at": "2026-09-01T21:06:24.000Z"
+  },
+  {
+    "headline": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+    "summary": "The Lenovo 7i’s 360-degree hinges opens up new usage options. | Image: Lenovo Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+    "image_url": null,
+    "published_at": "2026-09-01T20:54:08.000Z"
+  },
+  {
+    "headline": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "summary": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "image_url": null,
+    "published_at": "2026-09-01T20:53:05.000Z"
+  },
+  {
+    "headline": "X says attackers are targeting user accounts after the launch of X Money",
+    "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+    "image_url": null,
+    "published_at": "2026-09-01T20:48:32.000Z"
+  },
+  {
+    "headline": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "image_url": null,
+    "published_at": "2026-09-01T20:45:49.000Z"
+  },
+  {
+    "headline": "On first listen, the Sonos Beam Ultra sounds great",
+    "summary": "The Beam Ultra is made for TVs up to 65 inches. It will also be available in black. | Photo by Cameron Faulkner / The Verge Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming soon…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+    "image_url": null,
+    "published_at": "2026-09-01T20:08:38.000Z"
+  },
+  {
+    "headline": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+    "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+    "image_url": null,
+    "published_at": "2026-09-01T19:45:28.000Z"
+  },
+  {
+    "headline": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+    "summary": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the company to meet the clima…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+    "image_url": null,
+    "published_at": "2026-09-01T19:43:39.000Z"
+  },
+  {
+    "headline": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "image_url": null,
+    "published_at": "2026-09-01T19:39:22.000Z"
+  },
+  {
+    "headline": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+    "summary": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+    "image_url": null,
+    "published_at": "2026-09-01T19:30:24.000Z"
+  },
+  {
+    "headline": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a co…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "image_url": null,
+    "published_at": "2026-09-01T19:02:54.000Z"
+  },
+  {
+    "headline": "John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;",
+    "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it possible,\" writes Ternus, referring to the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
+    "image_url": null,
+    "published_at": "2026-09-01T18:24:16.000Z"
+  },
+  {
+    "headline": "Apple accuses OpenAI of destroying evidence",
+    "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained d…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "image_url": null,
+    "published_at": "2026-09-01T18:19:26.000Z"
+  },
+  {
     "headline": "Who is John Ternus, the new Apple CEO?",
     "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
     "publisher": "TechCrunch",
@@ -1486,117 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
     "image_url": null,
     "published_at": "2026-08-26T13:30:00.000Z"
-  },
-  {
-    "headline": "Bluesky now lets you upload 10-minute long videos",
-    "summary": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
-    "image_url": null,
-    "published_at": "2026-08-26T13:12:36.000Z"
-  },
-  {
-    "headline": "QueryStory wants you to believe what AI is telling you",
-    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "image_url": null,
-    "published_at": "2026-08-26T13:00:00.000Z"
-  },
-  {
-    "headline": "Ring says its new encryption limits what it can give police",
-    "summary": "All Ring cameras will soon use TAKE encryption by default. | Photo by Jennifer Pattison Tuohy / The Verge Ring has a new way to protect your videos. It's developed an encryption method called TAKE, short for Throw Away the Key Encryption, that the Amazon-owned company says will protect your videos without traditional e…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
-    "image_url": null,
-    "published_at": "2026-08-26T12:55:45.000Z"
-  },
-  {
-    "headline": "Arga Labs is building a better way to train enterprise AI agents",
-    "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-    "image_url": null,
-    "published_at": "2026-08-26T12:55:28.000Z"
-  },
-  {
-    "headline": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
-    "summary": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" Not long after Rockstar posted, another leaked video appeared, this time showing the Jason character pulling off the series' trademark move of…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
-    "image_url": null,
-    "published_at": "2026-08-26T12:04:15.000Z"
-  },
-  {
-    "headline": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "image_url": null,
-    "published_at": "2026-08-26T12:00:00.000Z"
-  },
-  {
-    "headline": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
-    "summary": "The Bose QuietComfort Headphones Gen 2 look a lot like all other Bose headphones from the past few years. Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headphones set the standard. They were the ubiquitous traveler's access…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
-    "image_url": null,
-    "published_at": "2026-08-26T12:00:00.000Z"
-  },
-  {
-    "headline": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-    "summary": "Bill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collectiv…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-    "image_url": null,
-    "published_at": "2026-08-26T11:07:40.000Z"
-  },
-  {
-    "headline": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "image_url": null,
-    "published_at": "2026-08-26T11:00:00.000Z"
-  },
-  {
-    "headline": "Ikea’s Xbox collection includes a giant thumbstick stool",
-    "summary": "Some pieces in the Yxstaby collection are more obviously Xbox-inspired than others. | Image: Ikea Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck p…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
-    "image_url": null,
-    "published_at": "2026-08-26T10:00:00.000Z"
-  },
-  {
-    "headline": "Ventures Platform goes bigger — and broader — with its second Africa fund",
-    "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
-    "image_url": null,
-    "published_at": "2026-08-26T07:00:00.000Z"
-  },
-  {
-    "headline": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "image_url": null,
-    "published_at": "2026-08-26T03:30:00.000Z"
-  },
-  {
-    "headline": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "image_url": null,
-    "published_at": "2026-08-26T00:40:59.000Z"
-  },
-  {
-    "headline": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-    "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "image_url": null,
-    "published_at": "2026-08-26T00:06:20.000Z"
   }
 ]
