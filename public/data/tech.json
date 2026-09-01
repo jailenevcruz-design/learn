@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Magna increases bet on battery swapping in India with $35M for Yuma",
+    "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+    "image_url": null,
+    "published_at": "2026-09-01T05:00:00.000Z"
+  },
+  {
     "headline": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
     "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
     "publisher": "TechCrunch",
@@ -1590,13 +1598,5 @@
     "url": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
     "image_url": null,
     "published_at": "2026-08-25T14:25:52.000Z"
-  },
-  {
-    "headline": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "image_url": null,
-    "published_at": "2026-08-25T14:22:04.000Z"
   }
 ]
