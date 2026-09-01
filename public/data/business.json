@@ -1,5 +1,21 @@
 [
   {
+    "headline": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
+    "summary": "CNBC's Jim Cramer said August was a comeback month for stocks that had been battered by bearish narratives.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
+    "image_url": null,
+    "published_at": "2026-08-31T23:23:38.000Z"
+  },
+  {
+    "headline": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view",
+    "summary": "In many ways it seems that the party has ended for many U.S. and European corporations that once enjoyed a big advantage in China.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/08/31/cnbc-china-connection-newsletter-mckinseys-contrarian-view-economy.html",
+    "image_url": null,
+    "published_at": "2026-08-31T23:00:01.000Z"
+  },
+  {
     "headline": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
     "summary": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
     "publisher": "CNBC",
@@ -62,6 +78,14 @@
     "url": "https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html",
     "image_url": null,
     "published_at": "2026-08-31T20:34:45.000Z"
+  },
+  {
+    "headline": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+    "summary": "Kalshi says Santos did not cooperate with its investigation into bets he placed on his own attendance at the State of the Union. The company also fined the disgraced congressman more than $71,000.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
+    "image_url": null,
+    "published_at": "2026-08-31T20:21:47.000Z"
   },
   {
     "headline": "The U.S. sues Amazon again",
@@ -760,18 +784,18 @@
     "published_at": "2026-08-28T09:33:45.000Z"
   },
   {
-    "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
-    "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
-    "image_url": null,
-    "published_at": "2026-08-28T09:00:00.000Z"
-  },
-  {
     "headline": "Businesses are getting tariff refunds. Why aren't consumers getting their cut?",
     "summary": "A slew of American companies are getting billions of dollars back in tariff refunds after a Supreme Court ruling. Many consumers, though, may never get anything back.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/28/nx-s1-5946782/businesses-getting-tariff-refunds-why-arent-consumers-getting-their-cut",
+    "image_url": null,
+    "published_at": "2026-08-28T09:00:00.000Z"
+  },
+  {
+    "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
+    "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
     "image_url": null,
     "published_at": "2026-08-28T09:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
     "image_url": null,
     "published_at": "2026-08-25T23:35:24.000Z"
-  },
-  {
-    "headline": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-    "summary": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
-    "image_url": null,
-    "published_at": "2026-08-25T22:50:57.000Z"
-  },
-  {
-    "headline": "Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
-    "summary": "CNBC’s Jim Cramer said investors shouldn’t give up on Dick’s after its record 30% plunge.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-worst-day-ever-jim-cramer-advice.html",
-    "image_url": null,
-    "published_at": "2026-08-25T22:47:37.000Z"
-  },
-  {
-    "headline": "Instagram chief Mosseri says in social media addiction trial he doesn't tell team to 'hide anything'",
-    "summary": "Instagram chief Adam Mosseri testified during a federal trial that he doesn't direct employees to withhold information that could pose legal risks to Meta.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/25/instagram-adam-mosseri-testifies-california-state-ag-federal-meta.html",
-    "image_url": null,
-    "published_at": "2026-08-25T22:41:19.000Z"
   }
 ]

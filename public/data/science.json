@@ -1,5 +1,13 @@
 [
   {
+    "headline": "What's the secret ingredient in these cookies? Plastic",
+    "summary": "New research at the American Chemical Society meeting showcased a potentially edible cookie made out of — plastic!",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5947227/whats-the-secret-ingredient-in-these-cookies-plastic",
+    "image_url": null,
+    "published_at": "2026-08-31T21:54:58.000Z"
+  },
+  {
     "headline": "Popular sweeteners may leave effects that last for generations",
     "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes involved in metabolism…",
     "publisher": "ScienceDaily",
@@ -72,18 +80,18 @@
     "published_at": "2026-08-31T09:23:21.000Z"
   },
   {
-    "headline": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
-    "summary": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
-    "image_url": null,
-    "published_at": "2026-08-31T09:00:00.000Z"
-  },
-  {
     "headline": "Why too many women are prescribed antibiotics for UTIs they don't have",
     "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
+    "image_url": null,
+    "published_at": "2026-08-31T09:00:00.000Z"
+  },
+  {
+    "headline": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
+    "summary": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
     "image_url": null,
     "published_at": "2026-08-31T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
     "image_url": null,
     "published_at": "2026-08-15T10:55:39.000Z"
-  },
-  {
-    "headline": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-    "summary": "Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-    "image_url": null,
-    "published_at": "2026-08-14T16:37:54.000Z"
   }
 ]

@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+    "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+    "image_url": null,
+    "published_at": "2026-09-01T00:30:00.000Z"
+  },
+  {
+    "headline": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "image_url": null,
+    "published_at": "2026-09-01T00:13:00.000Z"
+  },
+  {
+    "headline": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+    "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+    "image_url": null,
+    "published_at": "2026-08-31T23:41:10.000Z"
+  },
+  {
+    "headline": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+    "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+    "image_url": null,
+    "published_at": "2026-08-31T23:14:14.000Z"
+  },
+  {
+    "headline": "The Google TV Streamer now costs $50 more",
+    "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new lineup of Pixel 11 phones w…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+    "image_url": null,
+    "published_at": "2026-08-31T22:32:51.000Z"
+  },
+  {
+    "headline": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+    "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+    "image_url": null,
+    "published_at": "2026-08-31T22:14:05.000Z"
+  },
+  {
+    "headline": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
+    "summary": "JMGO’s Iris Ultra Max 4K 120Hz Google TV projector. | Image: JMGO JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
+    "image_url": null,
+    "published_at": "2026-08-31T22:00:00.000Z"
+  },
+  {
+    "headline": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+    "summary": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" According to the com…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+    "image_url": null,
+    "published_at": "2026-08-31T21:41:42.000Z"
+  },
+  {
     "headline": "I went to the loneliest baseball game on Apple Vision Pro",
     "summary": "Ceddanne Rafaela is tagged out at home plate at Yankee Stadium on August 28th. | Getty Images This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple a…",
     "publisher": "The Verge",
@@ -1534,69 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
     "image_url": null,
     "published_at": "2026-08-25T14:22:04.000Z"
-  },
-  {
-    "headline": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-    "summary": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
-    "image_url": null,
-    "published_at": "2026-08-25T14:10:36.000Z"
-  },
-  {
-    "headline": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-    "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
-    "image_url": null,
-    "published_at": "2026-08-25T14:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and hig…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-    "image_url": null,
-    "published_at": "2026-08-25T14:00:00.000Z"
-  },
-  {
-    "headline": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
-    "summary": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
-    "image_url": null,
-    "published_at": "2026-08-25T13:55:06.000Z"
-  },
-  {
-    "headline": "Where to preorder the updated Mac Mini and Mac Studio",
-    "summary": "The updated Mac Mini is a compact machine for home desktop use. | Image: Apple Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
-    "image_url": null,
-    "published_at": "2026-08-25T13:02:18.000Z"
-  },
-  {
-    "headline": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
-    "summary": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
-    "image_url": null,
-    "published_at": "2026-08-25T13:00:00.000Z"
-  },
-  {
-    "headline": "WhatsApp tightens account security with stronger two-step verification and more",
-    "summary": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
-    "image_url": null,
-    "published_at": "2026-08-25T13:00:00.000Z"
-  },
-  {
-    "headline": "Accel-backed Keenable is indexing the web for AI agents",
-    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-    "image_url": null,
-    "published_at": "2026-08-25T13:00:00.000Z"
   }
 ]
