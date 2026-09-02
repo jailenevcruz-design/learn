@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Incumbent Sen. Ed Markey wins Massachusetts' Democratic primary for US Senate",
+    "summary": "Bucking a push for younger leadership this election season, Sen. Ed Markey, 80, won the Democratic nomination against Rep. Seth Moulton, 47, who said that his party needed new leaders.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton",
+    "image_url": null,
+    "published_at": "2026-09-02T00:38:46.000Z"
+  },
+  {
+    "headline": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+    "summary": "The censure vote drew bipartisan support, and followed an investigation by the House Ethics Committee into allegations of sexual harassment against two young female staff members.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
+    "image_url": null,
+    "published_at": "2026-09-01T22:18:20.000Z"
+  },
+  {
     "headline": "Trump's pro-data center stance is putting pressure on Republicans ahead of midterms",
     "summary": "Trump's pro-data center stance is out of step with voters. Republicans are trying to navigate the issue but it's putting them at odds with the president's AI agenda.",
     "publisher": "NPR",
@@ -32,8 +48,8 @@
     "published_at": "2026-09-01T10:00:00.000Z"
   },
   {
-    "headline": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
-    "summary": "Utah District Judge Tony Graf Jr. will hear arguments over evidence introduced in July, to decide if there's enough probable cause for a trial in the shooting of the conservative activist last year.",
+    "headline": "Judge rules man accused in Charlie Kirk murder case will stand trial, facing possible death penalty",
+    "summary": "Utah District Judge Tony Graf heard arguments over evidence introduced in July, to decide whether there was enough probable cause for a trial in the shooting of the conservative activist last year.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing",
     "image_url": null,
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
     "image_url": null,
     "published_at": "2026-07-31T23:24:36.000Z"
-  },
-  {
-    "headline": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
-    "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
-    "image_url": null,
-    "published_at": "2026-07-31T11:30:26.000Z"
-  },
-  {
-    "headline": "Trump says he may pull Todd Blanche's nomination to circumvent GOP holdouts",
-    "summary": "President Trump says he's willing to hold his nomination of Attorney General Todd Blanche until January, when he says he'll have an easier political calculation in the Senate.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/31/nx-s1-5913860/trump-says-he-may-pull-todd-blanches-nomination-to-circumvent-gop-holdouts",
-    "image_url": null,
-    "published_at": "2026-07-31T10:42:20.000Z"
   }
 ]

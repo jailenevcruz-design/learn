@@ -1,11 +1,35 @@
 [
   {
-    "headline": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
-    "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
+    "headline": "U.S. completes fresh strikes on Iran as Mideast tensions flare again",
+    "summary": "U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+    "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
     "image_url": null,
-    "published_at": "2026-09-01T21:24:07.000Z"
+    "published_at": "2026-09-02T00:44:05.000Z"
+  },
+  {
+    "headline": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+    "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+    "image_url": null,
+    "published_at": "2026-09-02T00:11:14.000Z"
+  },
+  {
+    "headline": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+    "summary": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+    "image_url": null,
+    "published_at": "2026-09-01T23:52:21.000Z"
+  },
+  {
+    "headline": "House adopts measure condemning socialism ahead of November election",
+    "summary": "Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+    "image_url": null,
+    "published_at": "2026-09-01T22:13:19.000Z"
   },
   {
     "headline": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
@@ -13,7 +37,7 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
     "image_url": null,
-    "published_at": "2026-09-01T21:18:02.000Z"
+    "published_at": "2026-09-01T21:41:15.000Z"
   },
   {
     "headline": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
@@ -21,7 +45,15 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
     "image_url": null,
-    "published_at": "2026-09-01T21:03:31.000Z"
+    "published_at": "2026-09-01T21:40:30.000Z"
+  },
+  {
+    "headline": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+    "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+    "image_url": null,
+    "published_at": "2026-09-01T21:40:18.000Z"
   },
   {
     "headline": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
@@ -46,14 +78,6 @@
     "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
     "image_url": null,
     "published_at": "2026-09-01T20:34:47.000Z"
-  },
-  {
-    "headline": "House to vote on measure condemning socialism ahead of November election",
-    "summary": "Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
-    "image_url": null,
-    "published_at": "2026-09-01T20:29:10.000Z"
   },
   {
     "headline": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
@@ -262,14 +286,6 @@
     "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
     "image_url": null,
     "published_at": "2026-09-01T09:00:00.000Z"
-  },
-  {
-    "headline": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-    "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-    "image_url": null,
-    "published_at": "2026-09-01T07:30:49.000Z"
   },
   {
     "headline": "These emerging markets are favored to get 'a wall of money' from carry trades",
@@ -1120,18 +1136,18 @@
     "published_at": "2026-08-28T09:33:45.000Z"
   },
   {
-    "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
-    "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
-    "image_url": null,
-    "published_at": "2026-08-28T09:00:00.000Z"
-  },
-  {
     "headline": "Businesses are getting tariff refunds. Why aren't consumers getting their cut?",
     "summary": "A slew of American companies are getting billions of dollars back in tariff refunds after a Supreme Court ruling. Many consumers, though, may never get anything back.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/28/nx-s1-5946782/businesses-getting-tariff-refunds-why-arent-consumers-getting-their-cut",
+    "image_url": null,
+    "published_at": "2026-08-28T09:00:00.000Z"
+  },
+  {
+    "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
+    "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
     "image_url": null,
     "published_at": "2026-08-28T09:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
     "image_url": null,
     "published_at": "2026-08-26T21:27:53.000Z"
-  },
-  {
-    "headline": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-    "summary": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
-    "image_url": null,
-    "published_at": "2026-08-26T21:17:34.000Z"
-  },
-  {
-    "headline": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
-    "summary": "\"We're delivering a dynamic interface that thinks, reasons, and acts,\" Salesforce CEO Marc Benioff said in a statement.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
-    "image_url": null,
-    "published_at": "2026-08-26T20:50:45.000Z"
   }
 ]
