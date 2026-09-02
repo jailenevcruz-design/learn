@@ -1,5 +1,13 @@
 [
   {
+    "headline": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+    "summary": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+    "image_url": null,
+    "published_at": "2026-09-02T06:15:11.000Z"
+  },
+  {
     "headline": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
     "summary": "The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
     "image_url": null,
     "published_at": "2026-08-03T06:49:13.000Z"
-  },
-  {
-    "headline": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-    "summary": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
-    "image_url": null,
-    "published_at": "2026-08-03T05:41:31.000Z"
   }
 ]

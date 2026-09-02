@@ -1,11 +1,43 @@
 [
   {
-    "headline": "U.S. completes fresh strikes on Iran as Mideast tensions flare again",
+    "headline": "Oil major BP completes search for chair after boardroom upheaval",
+    "summary": "BP on Wednesday formally appointed Ian Tyler as chair after a surprise dismissal of former chairman Albert Manifold sparked boardroom turmoil.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
+    "image_url": null,
+    "published_at": "2026-09-02T06:21:36.000Z"
+  },
+  {
+    "headline": "China's Xi keeps Iranian president at arm's length weeks ahead of Trump summit",
+    "summary": "China's Xi gave Iran's Pezeshkian a brief, low-profile audience at the SCO summit, as Beijing seeks to avoid appearing close to Tehran ahead of a high-stakes summit with Trump.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/china-trump-iran-summit-nuclear-trade-tariffs-sanctions-.html",
+    "image_url": null,
+    "published_at": "2026-09-02T05:56:11.000Z"
+  },
+  {
+    "headline": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
     "summary": "U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
     "image_url": null,
-    "published_at": "2026-09-02T00:44:05.000Z"
+    "published_at": "2026-09-02T05:47:59.000Z"
+  },
+  {
+    "headline": "Australia posts second-quarter growth of 2.1%, beating expectations",
+    "summary": "The GDP print will allow the Reserve Bank of Australia room to go ahead with its policy tightening as it seeks to curb inflation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
+    "image_url": null,
+    "published_at": "2026-09-02T03:05:14.000Z"
+  },
+  {
+    "headline": "Japanese green tea giant Ito En surges 8%, defying a broad market sell-off",
+    "summary": "Ito En shares surged, bucking a broader sell-off in Japanese stocks following its fiscal first-quarter results.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
+    "image_url": null,
+    "published_at": "2026-09-02T02:24:30.000Z"
   },
   {
     "headline": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
@@ -22,6 +54,14 @@
     "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
     "image_url": null,
     "published_at": "2026-09-01T23:52:21.000Z"
+  },
+  {
+    "headline": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
+    "summary": "Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn’t equipped for attacks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+    "image_url": null,
+    "published_at": "2026-09-01T23:20:44.000Z"
   },
   {
     "headline": "House adopts measure condemning socialism ahead of November election",
@@ -1558,45 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
     "image_url": null,
     "published_at": "2026-08-27T00:21:44.000Z"
-  },
-  {
-    "headline": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
-    "summary": "The U.S. may be asking allies to step up their own defense, but it still wants them to align on geopolitical interests.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/27/trump-asia-allies-defense-washington-terms-political-analyst.html",
-    "image_url": null,
-    "published_at": "2026-08-26T23:53:45.000Z"
-  },
-  {
-    "headline": "Republicans are dismissing affordability. That could be a problem in November",
-    "summary": "President Donald Trump quipped that affordability was \"devised\" by Democrats, while Vice President JD Vance said groceries \"cost what they cost.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
-    "image_url": null,
-    "published_at": "2026-08-26T23:17:46.000Z"
-  },
-  {
-    "headline": "Salesforce CEO Marc Benioff says the ‘SaaSpocalypse’ is nonsense. Here's why",
-    "summary": "Salesforce CEO Marc Benioff pushed back against “SaaSpocalypse” fears.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
-    "image_url": null,
-    "published_at": "2026-08-26T22:47:37.000Z"
-  },
-  {
-    "headline": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
-    "summary": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
-    "image_url": null,
-    "published_at": "2026-08-26T22:20:20.000Z"
-  },
-  {
-    "headline": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
-    "summary": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
-    "image_url": null,
-    "published_at": "2026-08-26T21:27:53.000Z"
   }
 ]

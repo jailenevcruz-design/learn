@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Too much coffee may weaken bones, study finds",
+    "summary": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five cups a day was linked to lower bone density. The findings suggest tea may offer a small bone-health…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+    "image_url": null,
+    "published_at": "2026-09-02T06:04:39.000Z"
+  },
+  {
+    "headline": "A search for one exotic particle uncovered two strange new structures",
+    "summary": "A search for one mysterious particle unexpectedly revealed evidence for two different structures that may belong to the bizarre family of exotic subatomic particles known as XYZ states. The findings could help physicists uncover new ways that quarks and gluons combine to create matter.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260831015147.htm",
+    "image_url": null,
+    "published_at": "2026-09-02T05:28:30.000Z"
+  },
+  {
+    "headline": "Earth may have lost the Sun’s protective shield millions of years ago",
+    "summary": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain ancient ice ages as well as how early Earth stayed warm enough for liquid water when the Sun was much dimmer.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm",
+    "image_url": null,
+    "published_at": "2026-09-02T04:25:48.000Z"
+  },
+  {
+    "headline": "Your neighborhood in your 20s may shape your heart decades later",
+    "summary": "Where you live in early adulthood may quietly shape your heart health for decades. Researchers found that adverse neighborhood conditions were linked to a higher risk of coronary artery calcification in midlife, an early warning sign of cardiovascular disease.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260830000009.htm",
+    "image_url": null,
+    "published_at": "2026-09-02T03:02:37.000Z"
+  },
+  {
+    "headline": "Obesity leaves a lasting memory in immune cells",
+    "summary": "Obesity appears to leave a molecular imprint on key immune cells that may persist for 5 to 10 years after weight loss. This long-lasting “obesity memory” could help explain why some obesity-related health risks remain elevated even after body weight returns to normal.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260830000013.htm",
+    "image_url": null,
+    "published_at": "2026-09-02T02:30:28.000Z"
+  },
+  {
     "headline": "Mindfulness may lower blood pressure in just 8 weeks",
     "summary": "Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with regular reinforcement, suggesting that improving psychological well-being could become another tool for protecting card…",
     "publisher": "ScienceDaily",
@@ -1558,45 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
     "image_url": null,
     "published_at": "2026-08-17T02:28:23.000Z"
-  },
-  {
-    "headline": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
-    "summary": "An experimental Alzheimer’s compound prevented damaging protein clumps from forming in the brains of mice, helping nerve cells survive longer and reducing amyloid buildup. The treatment also appeared to improve heart health and slow some signs of aging, raising hopes for an entirely new way to combat dementia.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260814235856.htm",
-    "image_url": null,
-    "published_at": "2026-08-17T01:01:15.000Z"
-  },
-  {
-    "headline": "This 10-cent heart drug cuts hospitalizations by 25%",
-    "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the way for its return as a major treatment.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
-    "image_url": null,
-    "published_at": "2026-08-16T12:22:32.000Z"
-  },
-  {
-    "headline": "A little movement in midlife could pay off for your brain years later",
-    "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factors may differ across populations.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
-    "image_url": null,
-    "published_at": "2026-08-16T12:02:14.000Z"
-  },
-  {
-    "headline": "The common mistake that could make aging joints hurt more",
-    "summary": "Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protect joints, and can reduce osteoarthritis pain. Low-impact activities such as swimming, cycling, tai chi, yoga, and walkin…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm",
-    "image_url": null,
-    "published_at": "2026-08-16T11:23:47.000Z"
-  },
-  {
-    "headline": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
-    "summary": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-shaped junction of the gluons connecting them. The finding challenges a decades-old textbook picture…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
-    "image_url": null,
-    "published_at": "2026-08-16T09:55:45.000Z"
   }
 ]
