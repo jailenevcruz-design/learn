@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Politics Is Personal in “Turn the Volume Up!,” a Powerful Show of Protest Art at the Nasher Museum",
+    "summary": "Taking its name from a line from a Zohran Mamdani speech, “Turn the volume up!” at Duke University's Nasher Museum of Art urges visitors to get political this fall.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/politics-is-personal-powerful-show-protest-art-nasher-museum-1234796737/",
+    "image_url": null,
+    "published_at": "2026-09-02T20:38:09.000Z"
+  },
+  {
+    "headline": "Venice Biennale President Defends Russia Inclusion in New Interview",
+    "summary": "Pietrangelo Buttafuoco said he would do “everything” again if he had to, despite the Italian Culture Ministry’s backlash and the European Commission's stripped funding.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/venice-biennale-president-defends-russia-inclusion-in-new-interview/",
+    "image_url": null,
+    "published_at": "2026-09-02T20:29:28.000Z"
+  },
+  {
+    "headline": "Kerstin Brätsch Wins the $160,000 Zurich Art Prize",
+    "summary": "The German artist will receive prize money and a solo exhibition at the Museum Haus Konstruktiv next year.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/kerstin-bratsch-wins-2027-zurich-art-prize-1234796793/",
+    "image_url": null,
+    "published_at": "2026-09-02T19:48:17.000Z"
+  },
+  {
+    "headline": "Remembering Geles Cabrera, Helch, and Jay Maisel",
+    "summary": "This week, we honor a sculptor who explored the body, a street artist who upset Queen Elizabeth, and a commercial photographer who shaped the medium.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/remembering-geles-cabrera-helch-and-jay-maisel/",
+    "image_url": null,
+    "published_at": "2026-09-02T19:44:50.000Z"
+  },
+  {
+    "headline": "Your Fall Guide: 17 Art World Highlights Not to Miss",
+    "summary": "See a survey of essential openings and other kinds of offerings in the art world.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/list/art-in-america/columns/fall-guide-art-world-datebook-1234796445/",
+    "image_url": null,
+    "published_at": "2026-09-02T19:15:57.000Z"
+  },
+  {
+    "headline": "Mildred Howard Wins $25,000 Artist Award, Anonymous Was A Woman Names Environmental Art Grants, and More: Industry Moves for September 2, 2026",
+    "summary": "Plus, the New Yorker profiles Susan Te Kahurangi King.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/market/industry-moves-september-2-2026-mildred-howard-1234796678/",
+    "image_url": null,
+    "published_at": "2026-09-02T19:15:00.000Z"
+  },
+  {
+    "headline": "Dealers Are Betting on the Future of South Korea Despite Measured First-Day Sales at Frieze and Kiaf",
+    "summary": "The fairs saw a bustling VIP day with crowded aisles, though sales moved at a measured pace.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/market/frieze-seoul-kiaf-2026-sales-report-1234796717/",
+    "image_url": null,
+    "published_at": "2026-09-02T19:15:00.000Z"
+  },
+  {
     "headline": "Paul Durand-Ruel’s €43 M. Collection of Monet, Picasso, and Renoir Comes to Christie’s During Paris Art Week",
     "summary": "The October sale will also include works from Pierre-Auguste Renoir, Eugène Boudin, and Alfred Sisley.",
     "publisher": "ARTnews",
@@ -1542,61 +1598,5 @@
     "url": "https://www.artnews.com/art-news/market/south-asian-modern-art-fakes-forgeries-market-1234795249/",
     "image_url": null,
     "published_at": "2026-08-19T18:53:26.000Z"
-  },
-  {
-    "headline": "Remembering Bou Meng, Mary Heilmann, and Kumantjayi (Walala) Tjapaltjarri",
-    "summary": "This week, we honor a figurehead of genocide remembrance, a pioneering abstract artist, and an Aboriginal Australian painter.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/remembering-bou-meng-mary-heilmann-and-kumantjayi-walala-tjapaltjarri/",
-    "image_url": null,
-    "published_at": "2026-08-19T18:44:06.000Z"
-  },
-  {
-    "headline": "New York Museums Reportedly Get a Pass on Fines Resulting From Fire Code Violations",
-    "summary": "Most of the violations result from alarms going off in the absence of an emergency.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/new-york-museums-reportedly-fines-fire-code-violations-1234795275/",
-    "image_url": null,
-    "published_at": "2026-08-19T18:36:52.000Z"
-  },
-  {
-    "headline": "Haroutiun Galentz’s True Colors",
-    "summary": "A new book traces the function of color as both a mask and a mirror in psychological portraits by the modernist painter, who lost his parents during the Armenian Genocide.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/haroutiun-galentzs-true-colors/",
-    "image_url": null,
-    "published_at": "2026-08-19T18:27:02.000Z"
-  },
-  {
-    "headline": "Angie Nixon, Champion of Black Art and Culture, Wins Florida Senate Primary in Upset",
-    "summary": "The 42-year-old Jacksonville native and Democratic Socialist founded the local community bookstore Cafe Resistance and co-authored a comic book with her daughter.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/angie-nixon-champion-of-black-art-and-culture-wins-florida-senate-primary-in-upset/",
-    "image_url": null,
-    "published_at": "2026-08-19T17:24:27.000Z"
-  },
-  {
-    "headline": "MIT Study Finds that AI-Generated Images Often Can’t Be Traced Back to Their Sources",
-    "summary": "The phenomenon, termed attribution decay, may have implications for copyright disputes.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/mit-study-ai-generated-images-trace-back-sources-1234795260/",
-    "image_url": null,
-    "published_at": "2026-08-19T16:29:55.000Z"
-  },
-  {
-    "headline": "Funding International Dialogue: The Asian Cultural Council  Opens 2027 Global Grant Cycle",
-    "summary": "ACC invites artists, arts professionals, scholars, and organizations to apply from Oct 1 to Nov 10, 2026.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/funding-international-dialogue-the-asian-cultural-council-opens-2027-global-grant-cycle/",
-    "image_url": null,
-    "published_at": "2026-08-19T15:56:24.000Z"
-  },
-  {
-    "headline": "MIT Students Can Now Borrow Works by Jennie C. Jones and Nayland Blake",
-    "summary": "The MIT List Visual Arts Center added nine new works to the Student Lending Collection for the program's 49th anniversary.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/mit-students-can-now-borrow-works-by-jennie-c-jones-and-nayland-blake/",
-    "image_url": null,
-    "published_at": "2026-08-19T15:23:23.000Z"
   }
 ]

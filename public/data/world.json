@@ -1,5 +1,13 @@
 [
   {
+    "headline": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
+    "summary": "Investigative journalist Daphne Caruana Galizia had written extensively about suspected corruption in political and business circles in Malta. She was killed by a car bomb in 2017, at age 53.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
+    "image_url": null,
+    "published_at": "2026-09-02T19:48:18.000Z"
+  },
+  {
     "headline": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
     "summary": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump's Republican Party ahead of November midterm elections.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point",
     "image_url": null,
     "published_at": "2026-08-04T20:16:33.000Z"
-  },
-  {
-    "headline": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-    "summary": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-    "image_url": null,
-    "published_at": "2026-08-04T18:01:04.000Z"
   }
 ]
