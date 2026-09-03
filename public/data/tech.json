@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+    "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The software giant has p…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+    "image_url": null,
+    "published_at": "2026-09-03T08:59:09.000Z"
+  },
+  {
+    "headline": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+    "summary": "A projector for people who can afford to call this a “man cave.” | Image: Awol Vision Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an in…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+    "image_url": null,
+    "published_at": "2026-09-03T08:30:00.000Z"
+  },
+  {
+    "headline": "Belkin’s first trackers come ready to attach to your gear.",
+    "summary": "Belkin’s SureFind Loop Cable Tag tracker includes a removable USB-C charging cable. | Image: Belkin After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In additi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+    "image_url": null,
+    "published_at": "2026-09-03T08:00:00.000Z"
+  },
+  {
+    "headline": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+    "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrol…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+    "image_url": null,
+    "published_at": "2026-09-03T08:00:00.000Z"
+  },
+  {
+    "headline": "Anker’s sleep speaker uses radar and flower power to help you relax",
+    "summary": "Peace, man. | Image: Anker Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sleep stage you're in.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+    "image_url": null,
+    "published_at": "2026-09-03T07:30:00.000Z"
+  },
+  {
+    "headline": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
+    "summary": "The Soundcore Space 2 Pro will be the first headphones to run on Anker’s Thus chip. | Image: Soundcore After introducing the Thus processing chip in April and releasing it with the Liberty 5 Pro series earbuds, Soundcore is bringing it to more audio products. The Thus chip is behind the best call quality I've ever hear…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
+    "image_url": null,
+    "published_at": "2026-09-03T07:30:00.000Z"
+  },
+  {
+    "headline": "Anker announces its first over-the-counter hearing aids",
+    "summary": "Anker’s first OTC hearing aids, powered by the Thus chip, are expected in coming months. | Image: Anker In what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026. It was only a couple months ago when LXE Hearing, the parent company for Eargo and…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
+    "image_url": null,
+    "published_at": "2026-09-03T07:30:00.000Z"
+  },
+  {
+    "headline": "Anker’s new printer works directly on fabrics",
+    "summary": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker hasn't yet revealed an…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+    "image_url": null,
+    "published_at": "2026-09-03T07:30:00.000Z"
+  },
+  {
+    "headline": "Anker’s new MindBase is an AI-powered brain for your smart home",
+    "summary": "The Anker MindBase offers a local solution for advanced AI processing of camera footage and is a smart home hub that supports Matter. | Image: Anker Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+    "image_url": null,
+    "published_at": "2026-09-03T07:30:00.000Z"
+  },
+  {
+    "headline": "Philips Hue adds Nanoleaf&#8217;s light panels to its ecosystem with a $40 module",
+    "summary": "Nanoleaf’s colorful wall panels will work in the Hue app thanks to a partnership between the two companies. | Photo by Jennifer Pattison Tuohy / The Verge Philips Hue is finally adding wall panels into its smart lighting portfolio. But instead of developing its own, it's partnered with longtime rival Nanoleaf, the comp…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module",
+    "image_url": null,
+    "published_at": "2026-09-03T07:30:00.000Z"
+  },
+  {
     "headline": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
     "publisher": "TechCrunch",
@@ -1518,85 +1598,5 @@
     "url": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
     "image_url": null,
     "published_at": "2026-08-27T15:49:47.000Z"
-  },
-  {
-    "headline": "This former PG&E engineer is building a ‘Google Maps for the underground’",
-    "summary": "The startup just raised a $26 million Series A to grow its customer base and help reduce red tape for utility and construction work.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
-    "image_url": null,
-    "published_at": "2026-08-27T15:00:00.000Z"
-  },
-  {
-    "headline": "Google launches Pokémon Sleep special-edition Fitbit Air",
-    "summary": "The latest special-edition of Google's Fitbit Air is inspired by the Pokémon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and gold of a Pokémon card pretty closely. The special-edition is available to preorder now for $129 and star…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
-    "image_url": null,
-    "published_at": "2026-08-27T14:58:33.000Z"
-  },
-  {
-    "headline": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-    "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-    "image_url": null,
-    "published_at": "2026-08-27T14:56:52.000Z"
-  },
-  {
-    "headline": "Hold up, there’s a new Twitter in town",
-    "summary": "Former Twitter trademark counsel Stephen Coates said in a LinkedIn post that the company is not trying to re-create Twitter.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/",
-    "image_url": null,
-    "published_at": "2026-08-27T14:40:22.000Z"
-  },
-  {
-    "headline": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
-    "summary": "Test drivers for Waymo and Zoox sustained more than two dozen injuries in 2024 and 2025 from hard braking or other sudden movements made by the autonomous vehicles, according to a TechCrunch review of data submitted to OSHA.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
-    "image_url": null,
-    "published_at": "2026-08-27T14:36:37.000Z"
-  },
-  {
-    "headline": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
-    "summary": "The arrests come after a wave of cyberattacks earlier this year targeting tech companies that rely on high-profile and widely used open source software.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
-    "image_url": null,
-    "published_at": "2026-08-27T14:27:52.000Z"
-  },
-  {
-    "headline": "AI’s memory crunch is coming for Android apps",
-    "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-    "image_url": null,
-    "published_at": "2026-08-27T14:27:04.000Z"
-  },
-  {
-    "headline": "Here’s all the times AI has gone rogue and hacked other companies",
-    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "image_url": null,
-    "published_at": "2026-08-27T14:01:42.000Z"
-  },
-  {
-    "headline": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-    "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-    "image_url": null,
-    "published_at": "2026-08-27T13:00:00.000Z"
-  },
-  {
-    "headline": "Of course Samsung made a 1,100Hz gaming monitor",
-    "summary": "Samsung announced its upcoming lineup of Odyssey gaming monitors today at Gamescom, and says that several will feature \"world-first innovations\" across display speeds and design. This includes the 27-inch Odyssey G6 it initially unveiled in December, which now features a 1,100Hz refresh rate, alongside new OLED Odyssey…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/985476/samsung-odyssey-gaming-monitors-2027-lineup-launch",
-    "image_url": null,
-    "published_at": "2026-08-27T11:38:10.000Z"
   }
 ]

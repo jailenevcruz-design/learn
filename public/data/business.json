@@ -1,5 +1,165 @@
 [
   {
+    "headline": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
+    "summary": "Putin said peace with Ukraine remains possible while calling Kyiv’s warning on Russian airspace “state terrorism,” as NATO flags fresh risks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
+    "image_url": null,
+    "published_at": "2026-09-03T11:41:40.000Z"
+  },
+  {
+    "headline": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
+    "summary": "China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
+    "image_url": null,
+    "published_at": "2026-09-03T11:12:54.000Z"
+  },
+  {
+    "headline": "'No steering wheel, no pedals.' Tesla teases fans ahead of long-awaited Cybercab update",
+    "summary": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
+    "image_url": null,
+    "published_at": "2026-09-03T11:00:02.000Z"
+  },
+  {
+    "headline": "Yen jumps to one-month high as traders weigh chance of further intervention",
+    "summary": "U.S. Treasury Secretary Scott Bessent told CNBC on Monday he believed Japanese authorities would take action to lead to a stronger yen.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/yen-japan-intervention-boj.html",
+    "image_url": null,
+    "published_at": "2026-09-03T10:26:51.000Z"
+  },
+  {
+    "headline": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom",
+    "summary": "U.S. AI data centers rely on China-linked supplies of transformers, batteries and optical gear as Washington moves to tighten restrictions on foreign equipment.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/us-ai-data-centers-china-supply-chain.html",
+    "image_url": null,
+    "published_at": "2026-09-03T09:59:27.000Z"
+  },
+  {
+    "headline": "EnQuest is interested in buying BP’s North Sea assets, CEO tells CNBC",
+    "summary": "EnQuest CEO Amjad Bseisu told CNBC the company is interested in BP’s U.K. North Sea assets as the oil major explores a sale of the business.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/bp-north-sea-oil-gas-enquest.html",
+    "image_url": null,
+    "published_at": "2026-09-03T09:57:33.000Z"
+  },
+  {
+    "headline": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
+    "summary": "DNB said gold stored with the Bank of England is more readily tradable, allowing it to be deployed more quickly in a severe crisis.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
+    "image_url": null,
+    "published_at": "2026-09-03T09:38:05.000Z"
+  },
+  {
+    "headline": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+    "summary": "On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+    "image_url": null,
+    "published_at": "2026-09-03T06:33:19.000Z"
+  },
+  {
+    "headline": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+    "summary": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+    "image_url": null,
+    "published_at": "2026-09-03T04:52:41.000Z"
+  },
+  {
+    "headline": "China's slowdown pushes New Zealand exporters to diversify away from their top buyer, RBNZ official tells CNBC",
+    "summary": "New Zealand exporters are diverting shipments bound for China to new markets, as demand from the country's top buyer cools, a central bank official tells CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/china-new-zealand-dairy-agriculture-exports-slowdown-rbnz.html",
+    "image_url": null,
+    "published_at": "2026-09-03T04:44:31.000Z"
+  },
+  {
+    "headline": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
+    "summary": "The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
+    "image_url": null,
+    "published_at": "2026-09-03T04:39:14.000Z"
+  },
+  {
+    "headline": "Shipping stocks at a crossroads amid their best rally in decades",
+    "summary": "A months-long crisis in the Strait of Hormuz has turned an overlooked corner of the market into one of 2026's hottest trades.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html",
+    "image_url": null,
+    "published_at": "2026-09-03T04:31:06.000Z"
+  },
+  {
+    "headline": "The world appears to be entering a higher-rate era. Here’s who will pay the price",
+    "summary": "The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock that has reignited inflation concerns, and expectations of higher rates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+    "image_url": null,
+    "published_at": "2026-09-03T04:20:20.000Z"
+  },
+  {
+    "headline": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+    "summary": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+    "image_url": null,
+    "published_at": "2026-09-03T03:28:07.000Z"
+  },
+  {
+    "headline": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+    "summary": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+    "image_url": null,
+    "published_at": "2026-09-03T02:39:48.000Z"
+  },
+  {
+    "headline": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
+    "summary": "If growth were to slow in the semiconductor sector, would the slowdown take the Korean economy with it?",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
+    "image_url": null,
+    "published_at": "2026-09-03T01:11:41.000Z"
+  },
+  {
+    "headline": "Why Hilton calls this Asian country the fastest-growing tourism market",
+    "summary": "Hilton says one Asian country is the most exciting global tourism market as regional travel surges.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/hilton-hotel-market-expansion-india-china-southeast-asia.html",
+    "image_url": null,
+    "published_at": "2026-09-03T00:13:33.000Z"
+  },
+  {
+    "headline": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
+    "summary": "India's strong economic growth has surprised every quarter for the last year, but the performance of its key stock benchmarks has been deeply disappointing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
+    "image_url": null,
+    "published_at": "2026-09-03T00:08:50.000Z"
+  },
+  {
+    "headline": "Broadcom guides to big numbers but investors wanted more. Why we're OK to hold for now",
+    "summary": "We recently reduced our position size, which allows us to be more patient with this one.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/broadcom-guides-to-big-numbers-but-investors-wanted-more-why-were-ok-to-hold-for-now.html",
+    "image_url": null,
+    "published_at": "2026-09-02T23:56:43.000Z"
+  },
+  {
+    "headline": "PG&E CEO calls on California to pass wildfire reform after the shelved effort crushed the stock",
+    "summary": "PG&E CEO Patti Poppe said she's hopeful California lawmakers can revive wildfire liability reform after a failed proposal sent the utility’s shares tumbling.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/pge-ceo-calls-on-california-to-pass-wildfire-reform-after-the-shelved-effort-crushed-the-stock.html",
+    "image_url": null,
+    "published_at": "2026-09-02T23:23:44.000Z"
+  },
+  {
     "headline": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks",
     "summary": "CNBC's Jim Cramer said investors aren’t abandoning AI or technology stocks — they’re rotating out of high-multiple names and into cheaper stocks.",
     "publisher": "CNBC",
@@ -24,20 +184,12 @@
     "published_at": "2026-09-02T22:37:13.000Z"
   },
   {
-    "headline": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
-    "summary": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
+    "headline": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
+    "summary": "Trump's summit with Xi is expected to take place less than six weeks before the U.S. election, with polls showing Democrats favored to make gains in Congress.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+    "url": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
     "image_url": null,
-    "published_at": "2026-09-02T22:21:45.000Z"
-  },
-  {
-    "headline": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-    "summary": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-    "image_url": null,
-    "published_at": "2026-09-02T22:17:19.000Z"
+    "published_at": "2026-09-02T22:10:15.000Z"
   },
   {
     "headline": "Travel industry presses Trump to target 100 million international visitors in Oval Office meeting",
@@ -78,6 +230,14 @@
     "url": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
     "image_url": null,
     "published_at": "2026-09-02T20:50:51.000Z"
+  },
+  {
+    "headline": "Snowflake spikes 22% on healthy results and AI coding momentum",
+    "summary": "Snowflake business is growing quickly, in part thanks to adoption of an artificial intelligence agent for writing code.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
+    "image_url": null,
+    "published_at": "2026-09-02T20:28:39.000Z"
   },
   {
     "headline": "10-year U.S. Treasury yield hits highest level since November 2023",
@@ -126,14 +286,6 @@
     "url": "https://www.cnbc.com/2026/09/02/traders-pile-into-this-international-stock-market-thats-beating-the-nasdaq.html",
     "image_url": null,
     "published_at": "2026-09-02T19:11:07.000Z"
-  },
-  {
-    "headline": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
-    "summary": "The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
-    "image_url": null,
-    "published_at": "2026-09-02T18:25:42.000Z"
   },
   {
     "headline": "Does Medicare pay for long-term care? Many people get it wrong — and it may cost them later",
@@ -1446,157 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
     "image_url": null,
     "published_at": "2026-08-28T12:39:02.000Z"
-  },
-  {
-    "headline": "BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds",
-    "summary": "BitGo is expanding its institutional capabilities just as activity in the crypto market is showing signs of picking up after a prolonged trading slump.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/27/bitgo-to-acquire-nydigs-institutional-trading-business-as-crypto-trading-rebounds.html",
-    "image_url": null,
-    "published_at": "2026-08-28T12:27:23.000Z"
-  },
-  {
-    "headline": "Imax says it's open to a sale. Why is no one buying?",
-    "summary": "Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
-    "image_url": null,
-    "published_at": "2026-08-28T11:54:53.000Z"
-  },
-  {
-    "headline": "U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare",
-    "summary": "The U.S. has shifted to a campaign of economic warfare, after a dozen waves of airstrikes in July failed to force Tehran to abandon its claim to Hormuz.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html",
-    "image_url": null,
-    "published_at": "2026-08-28T11:50:45.000Z"
-  },
-  {
-    "headline": "Labor Department to propose expansion of association health plans, which could lower insurance costs for some workers",
-    "summary": "The agency has submitted a rule proposal to the White House that could allow more workers to get health insurance through association health plans.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/trump-labor-department-proposal-association-health-insurance-plans.html",
-    "image_url": null,
-    "published_at": "2026-08-28T11:00:01.000Z"
-  },
-  {
-    "headline": "BioCryst is profitable. Now it wants to buy more rare disease drugs",
-    "summary": "Rare disease drug development is getting a boost from new funding models and a growing group of smaller biotech buyers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/biocryst-is-profitable-now-it-wants-to-buy-more-rare-disease-drugs.html",
-    "image_url": null,
-    "published_at": "2026-08-28T11:00:01.000Z"
-  },
-  {
-    "headline": "Russian forces intensify attacks in Donetsk as Ukraine lauds fresh EU push to unlock frozen assets",
-    "summary": "Russia claims advances toward Sloviansk and Kramatorsk as fighting intensifies in Donetsk.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/russia-donetsk-ukraine-frozen-assets.html",
-    "image_url": null,
-    "published_at": "2026-08-28T09:33:45.000Z"
-  },
-  {
-    "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
-    "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
-    "image_url": null,
-    "published_at": "2026-08-28T09:00:00.000Z"
-  },
-  {
-    "headline": "Businesses are getting tariff refunds. Why aren't consumers getting their cut?",
-    "summary": "A slew of American companies are getting billions of dollars back in tariff refunds after a Supreme Court ruling. Many consumers, though, may never get anything back.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5946782/businesses-getting-tariff-refunds-why-arent-consumers-getting-their-cut",
-    "image_url": null,
-    "published_at": "2026-08-28T09:00:00.000Z"
-  },
-  {
-    "headline": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
-    "summary": "The war has far exceeded the four to six weeks the Trump administration estimated it would take to meet its objectives in Iran.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html",
-    "image_url": null,
-    "published_at": "2026-08-28T05:02:16.000Z"
-  },
-  {
-    "headline": "Mixue shares extend slide after profit drop as ice cream-and-tea chain sees costs rise",
-    "summary": "Mixue shares extended losses after the Chinese ice cream and tea giant reported lower first-half profit despite higher revenue.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/mixue-shares-extend-slide-after-profit-drop-as-drinks-chain-sees-costs-rise.html",
-    "image_url": null,
-    "published_at": "2026-08-28T03:58:46.000Z"
-  },
-  {
-    "headline": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access",
-    "summary": "Ads have been rolled out for free users and those on the 399 rupee ($4) per month 'Go' plan.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html",
-    "image_url": null,
-    "published_at": "2026-08-28T03:29:45.000Z"
-  },
-  {
-    "headline": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
-    "summary": "The Defense Department had barred the U.S. military from using Anthropic's Claude in March",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
-    "image_url": null,
-    "published_at": "2026-08-28T02:50:45.000Z"
-  },
-  {
-    "headline": "DeepSeek looks for fresh capital as founder’s quant empire navigates China’s choppy IPO market",
-    "summary": "High-Flyer Quant, which bankrolled DeepSeek, has come to the fore, making a push into new listings as it chases returns in China's red-hot IPO market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
-    "image_url": null,
-    "published_at": "2026-08-28T02:17:01.000Z"
-  },
-  {
-    "headline": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
-    "summary": "U.S. and Chinese officials met in Beijing this week, despite the White House's tough talk on China.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
-    "image_url": null,
-    "published_at": "2026-08-28T01:35:13.000Z"
-  },
-  {
-    "headline": "Texas Senate hopeful Talarico teams with Mark Cuban on plan to break up healthcare 'monopolies'",
-    "summary": "Texas Democratic Senate candidate James Talarico unveiled a plan to bust what he says are healthcare monopolies in an effort to lower costs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/27/texas-senate-james-talarico-mark-cuban-healthcare.html",
-    "image_url": null,
-    "published_at": "2026-08-27T23:59:05.000Z"
-  },
-  {
-    "headline": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
-    "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
-    "image_url": null,
-    "published_at": "2026-08-27T22:58:01.000Z"
-  },
-  {
-    "headline": "CrowdStrike CEO: AI exposes dangerous cyber gaps that legacy tools can’t handle",
-    "summary": "CrowdStrike CEO said Thursday that AI is allowing attackers to find and exploit vulnerabilities faster, making the company's protection a must.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/27/crowdstrike-ceo-ai-exposes-dangerous-cyber-gaps.html",
-    "image_url": null,
-    "published_at": "2026-08-27T22:45:42.000Z"
-  },
-  {
-    "headline": "Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives",
-    "summary": "CNBC’s Jim Cramer said strong earnings from Nvidia and Salesforce shattered two major bear cases that had weighed on the tech stocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html",
-    "image_url": null,
-    "published_at": "2026-08-27T22:20:14.000Z"
-  },
-  {
-    "headline": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
-    "summary": "Gap announced a new CEO for Old Navy on Thursday as the brand reported a decline in comparable sales for the most recent quarter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-08-27T21:54:18.000Z"
   }
 ]
