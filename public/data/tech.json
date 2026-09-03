@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Oura files to go public",
+    "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+    "image_url": null,
+    "published_at": "2026-09-03T22:35:41.000Z"
+  },
+  {
+    "headline": "Tesla is asking people if they want to buy and run Cybercab fleets",
+    "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+    "image_url": null,
+    "published_at": "2026-09-03T22:18:30.000Z"
+  },
+  {
+    "headline": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+    "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+    "image_url": null,
+    "published_at": "2026-09-03T22:00:00.000Z"
+  },
+  {
     "headline": "Startup ARR is less secure than ever, new research shows",
     "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
     "publisher": "TechCrunch",
@@ -152,18 +176,18 @@
     "published_at": "2026-09-03T16:00:00.000Z"
   },
   {
-    "headline": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
-    "summary": "Tag yourself. I’m spicy gold. | Photo: Antonio G. Di Benedetto / The Verge Lenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with AMD and Qualcomm chip options due out in Oct…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
-    "image_url": null,
-    "published_at": "2026-09-03T16:00:00.000Z"
-  },
-  {
     "headline": "Google launches AI voice features in Gmail, Docs, and Keep",
     "summary": "Users can search for emails or draft documents using the new conversational feature.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+    "image_url": null,
+    "published_at": "2026-09-03T16:00:00.000Z"
+  },
+  {
+    "headline": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
+    "summary": "Tag yourself. I’m spicy gold. | Photo: Antonio G. Di Benedetto / The Verge Lenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with AMD and Qualcomm chip options due out in Oct…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
     "image_url": null,
     "published_at": "2026-09-03T16:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
     "image_url": null,
     "published_at": "2026-08-28T17:09:05.000Z"
-  },
-  {
-    "headline": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-    "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black levels and g…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-28T17:03:07.000Z"
-  },
-  {
-    "headline": "Trump’s EPA wants to let data centers hide their air pollution",
-    "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain i…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "image_url": null,
-    "published_at": "2026-08-28T16:28:40.000Z"
-  },
-  {
-    "headline": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-    "summary": "The unofficial version of DLSS 5 makes Jesse Faden’s features much more pronounced. | Image: gabdeg via YouTube Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27.…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-    "image_url": null,
-    "published_at": "2026-08-28T16:22:16.000Z"
   }
 ]

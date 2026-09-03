@@ -1,11 +1,35 @@
 [
   {
+    "headline": "Laura Dern Pairs a Floral Dress With Low-profile Vivaia Sneakers in Venice",
+    "summary": "The actress wore a style that retails for $159.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-trends/laura-dern-vivaia-lexi-sneakers-venice-film-festival-2026-1239197338/",
+    "image_url": null,
+    "published_at": "2026-09-03T22:17:16.000Z"
+  },
+  {
+    "headline": "No Love for Leggings? Lululemon Sales Drop Ahead of Heidi O’Neill’s Arrival as CEO Next Week",
+    "summary": "Shares of the still-on-the-mend active brand dropped sharply as comparable sales declined 12 percent in the Americas.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/lululemon-q2-2026-earnings-sales-leggings-1239197236/",
+    "image_url": null,
+    "published_at": "2026-09-03T21:39:09.000Z"
+  },
+  {
     "headline": "2026 Was the Summer of Bronzer—These 7 Formulas Give Me My Best Glow",
     "summary": "Shop Vogue’s edit of the best bronzers from Charlotte Tilbury’s Bronzing Powder to Rhode’s viral Pocket Bronze, plus tips on how to apply.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/best-bronzers-powder-cream-liquid",
     "image_url": null,
     "published_at": "2026-09-03T21:23:45.000Z"
+  },
+  {
+    "headline": "Genesco CEO Explains Why Journeys Has Avoided the Same Plight as Foot Locker, JD Sports",
+    "summary": "Its efforts to serve the “style-based customer,” particularly with a tilt toward the teen girl, has helped the merchant.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/journeys-retail-growth-ceo-comments-foot-locker-jd-sports-1239197498/",
+    "image_url": null,
+    "published_at": "2026-09-03T21:17:43.000Z"
   },
   {
     "headline": "The Best Fall Wedding Bouquets and Flowers in Vogue",
@@ -392,18 +416,18 @@
     "published_at": "2026-09-03T10:00:00.000Z"
   },
   {
-    "headline": "There Really Was Nothing Like Oasis’s Knebworth Gigs",
-    "summary": "“Our coach was one of the earliest to arrive and park up, meaning we were among the first fans on site,” remembers Devinder Bains. “We ran, hearts racing, to the front barriers that would divide VIPs from the general public—it was as close to the stage as we could get.”",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-it-felt-to-actually-be-at-oasiss-era-defining-knebworth-gigs",
-    "image_url": null,
-    "published_at": "2026-09-03T10:00:00.000Z"
-  },
-  {
     "headline": "At Last, Victoria Beckham Has a New York Store to Call Her Own",
     "summary": "Victoria Beckham’s new store at 150 Mercer Store is a full-circle moment, after she showed her first collection in the city in 2008.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/at-last-victoria-beckham-has-a-new-york-store-to-call-her-own",
+    "image_url": null,
+    "published_at": "2026-09-03T10:00:00.000Z"
+  },
+  {
+    "headline": "There Really Was Nothing Like Oasis’s Knebworth Gigs",
+    "summary": "“Our coach was one of the earliest to arrive and park up, meaning we were among the first fans on site,” remembers Devinder Bains. “We ran, hearts racing, to the front barriers that would divide VIPs from the general public—it was as close to the stage as we could get.”",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-it-felt-to-actually-be-at-oasiss-era-defining-knebworth-gigs",
     "image_url": null,
     "published_at": "2026-09-03T10:00:00.000Z"
   },
@@ -1572,30 +1596,6 @@
     "summary": "The football superstar chats with Vogue about his new partnership with Tommy Hilfiger—and his hopes for the Chiefs’ coming season.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/travis-kelce-tommy-hilfiger-campaign",
-    "image_url": null,
-    "published_at": "2026-09-01T04:01:00.000Z"
-  },
-  {
-    "headline": "What to Watch: Italy’s Luxury Retailers Face a Great Reset",
-    "summary": "As e-commerce falters and brands tighten control, Italian multibrand retailers are rebuilding around curation, stores and new business models.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/italy-independent-luxury-fashion-retailers-reset-1239097424/",
-    "image_url": null,
-    "published_at": "2026-09-01T04:01:00.000Z"
-  },
-  {
-    "headline": "What to Watch: Saks, Neiman’s and Bergdorf’s — The Challenges Ahead",
-    "summary": "The parent Exemplar Luxury Group has received loans and vendor support to resuscitate its business but must show improved sales, profits and cash flow to manage financial obligations and ensure its future.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/saks-neimansbergdorfs-interest-obligations-1239128033/",
-    "image_url": null,
-    "published_at": "2026-09-01T04:01:00.000Z"
-  },
-  {
-    "headline": "Ulla Johnson Opens First European Flagship on London’s Sloane Street",
-    "summary": "CEO Thibaut Perrin-Faivre called the Chelsea outpost a \"local community hub\" as the New York label steps up its international retail expansion.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/ulla-johnson-first-european-flagship-london-sloane-street-1239147543/",
     "image_url": null,
     "published_at": "2026-09-01T04:01:00.000Z"
   }
