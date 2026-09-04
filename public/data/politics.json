@@ -1,5 +1,13 @@
 [
   {
+    "headline": "The Trump administration still aims to make state citizenship lists ahead of midterms",
+    "summary": "The Trump administration is taking the unprecedented step of creating lists of adult citizens who are eligible to vote in each state – but will not meet its own deadline 60 days before Election Day.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit",
+    "image_url": null,
+    "published_at": "2026-09-03T23:59:35.000Z"
+  },
+  {
     "headline": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
     "summary": "The billionaire investor is under two subpoenas from the House Oversight Committee. But in his lawsuit, Black says the panel doesn't have the authority to compel him to share nondisclosure agreements.",
     "publisher": "NPR",
@@ -40,18 +48,18 @@
     "published_at": "2026-09-03T18:05:57.000Z"
   },
   {
-    "headline": "Democrats demand Homeland Security officials fund election security ahead of midterms",
-    "summary": "The lawmakers wrote that they share \"grave concern that time is running out … to assist state and local election officials in protecting our elections from cyber and mis-and disinformation threats.\"",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
-    "image_url": null,
-    "published_at": "2026-09-03T09:00:00.000Z"
-  },
-  {
     "headline": "Inside the failed mission to eliminate FEMA",
     "summary": "David Richardson worked to eliminate the country's top disaster agency when he led FEMA last year. Now, he says the administration has abandoned that goal.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+    "image_url": null,
+    "published_at": "2026-09-03T09:00:00.000Z"
+  },
+  {
+    "headline": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+    "summary": "The lawmakers wrote that they share \"grave concern that time is running out … to assist state and local election officials in protecting our elections from cyber and mis-and disinformation threats.\"",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
     "image_url": null,
     "published_at": "2026-09-03T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/03/nx-s1-5913239/politics-david-hogg-democrats",
     "image_url": null,
     "published_at": "2026-08-03T08:45:14.000Z"
-  },
-  {
-    "headline": "Trump and Senate GOP deadlocked on key issues as congressional recess approaches",
-    "summary": "With a long congressional recess set to begin at the end of the week, Senate Republicans have a lot they want to accomplish. But they're deadlocked with President Trump on several key GOP priorities.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5914644/trump-and-senate-gop-deadlocked-on-key-issues-as-congressional-recess-approaches",
-    "image_url": null,
-    "published_at": "2026-08-03T08:44:39.000Z"
   }
 ]
