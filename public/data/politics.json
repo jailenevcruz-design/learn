@@ -1,5 +1,21 @@
 [
   {
+    "headline": "El-Sayed divided Michigan Democrats. Whether they unify could decide Senate control",
+    "summary": "After a bruising primary, Democrats in Michigan are working to unify their coalition ahead of what is expected to be a razor-thin Senate race this fall for a seat they need to hold if they hope to retake the Senate majority.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5946840/el-sayed-divided-michigan-democrats-whether-they-unify-could-decide-senate-control",
+    "image_url": null,
+    "published_at": "2026-09-04T20:41:06.000Z"
+  },
+  {
+    "headline": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
+    "summary": "Interior Secretary Doug Burgum says \"excavation work\" will begin in the next two weeks, without approval from a key federal body. Veterans who sued over the arch want a judge to intervene before then.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
+    "image_url": null,
+    "published_at": "2026-09-04T20:15:05.000Z"
+  },
+  {
     "headline": "Wesleyan president calls Trump's tax-exempt proposal 'extraordinary overreach'",
     "summary": "The Trump administration wants to end tax-exempt status for universities with certain race-based programs. Wesleyan President Michael Roth says the plan could frighten schools.",
     "publisher": "NPR",
@@ -56,18 +72,18 @@
     "published_at": "2026-09-03T18:05:57.000Z"
   },
   {
-    "headline": "Democrats demand Homeland Security officials fund election security ahead of midterms",
-    "summary": "The lawmakers wrote that they share \"grave concern that time is running out … to assist state and local election officials in protecting our elections from cyber and mis-and disinformation threats.\"",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
-    "image_url": null,
-    "published_at": "2026-09-03T09:00:00.000Z"
-  },
-  {
     "headline": "Inside the failed mission to eliminate FEMA",
     "summary": "David Richardson worked to eliminate the country's top disaster agency when he led FEMA last year. Now, he says the administration has abandoned that goal.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+    "image_url": null,
+    "published_at": "2026-09-03T09:00:00.000Z"
+  },
+  {
+    "headline": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+    "summary": "The lawmakers wrote that they share \"grave concern that time is running out … to assist state and local election officials in protecting our elections from cyber and mis-and disinformation threats.\"",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
     "image_url": null,
     "published_at": "2026-09-03T09:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
     "image_url": null,
     "published_at": "2026-08-03T19:33:05.000Z"
-  },
-  {
-    "headline": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
-    "summary": "Federal agencies are rushing to move hundreds of workers into new buildings. Employees say the moves are significantly disrupting their work.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
-    "image_url": null,
-    "published_at": "2026-08-03T09:00:00.000Z"
-  },
-  {
-    "headline": "For Republicans planning post-Trump future, one race in Washington is worth watching",
-    "summary": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
-    "image_url": null,
-    "published_at": "2026-08-03T09:00:00.000Z"
   }
 ]
