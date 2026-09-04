@@ -1,5 +1,77 @@
 [
   {
+    "headline": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
+    "summary": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, after saying in the dea…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+    "image_url": null,
+    "published_at": "2026-09-04T18:00:45.000Z"
+  },
+  {
+    "headline": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+    "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+    "image_url": null,
+    "published_at": "2026-09-04T17:52:05.000Z"
+  },
+  {
+    "headline": "Roland is getting into generative AI music with Melody Flip",
+    "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "image_url": null,
+    "published_at": "2026-09-04T17:51:35.000Z"
+  },
+  {
+    "headline": "What will Apple’s John Ternus era look like?",
+    "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "image_url": null,
+    "published_at": "2026-09-04T17:18:00.000Z"
+  },
+  {
+    "headline": "AGI is whatever you want it to be",
+    "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition of Hugging Face. The…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+    "image_url": null,
+    "published_at": "2026-09-04T17:16:49.000Z"
+  },
+  {
+    "headline": "No little kids allowed, and other new info about Tesla’s Cybercab",
+    "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+    "image_url": null,
+    "published_at": "2026-09-04T16:51:23.000Z"
+  },
+  {
+    "headline": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "image_url": null,
+    "published_at": "2026-09-04T16:21:11.000Z"
+  },
+  {
+    "headline": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discove…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "image_url": null,
+    "published_at": "2026-09-04T16:05:57.000Z"
+  },
+  {
+    "headline": "The best tech and gadgets announced at IFA so far",
+    "summary": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including a smartphone that attempts…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+    "image_url": null,
+    "published_at": "2026-09-04T15:41:17.000Z"
+  },
+  {
     "headline": "CD sales are making an unexpected comeback amid a retro tech boom",
     "summary": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
     "publisher": "TechCrunch",
@@ -662,14 +734,6 @@
     "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
     "image_url": null,
     "published_at": "2026-09-02T16:54:23.000Z"
-  },
-  {
-    "headline": "The best tech and gadgets announced at IFA so far",
-    "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including more competi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-    "image_url": null,
-    "published_at": "2026-09-02T16:43:50.000Z"
   },
   {
     "headline": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
@@ -1534,69 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
     "image_url": null,
     "published_at": "2026-08-30T15:35:10.000Z"
-  },
-  {
-    "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "image_url": null,
-    "published_at": "2026-08-30T15:00:00.000Z"
-  },
-  {
-    "headline": "Chess.com launched a poker site and is planning even more classic games",
-    "summary": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking any real money. Now…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
-    "image_url": null,
-    "published_at": "2026-08-30T13:00:00.000Z"
-  },
-  {
-    "headline": "China’s robots race ahead",
-    "summary": "Humanoid robot competes in the optional boxing routine event during the 2nd World Humanoid Robot Games at National Speed Skating Oval on August 26, 2026 in Beijing, China. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots an…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-    "image_url": null,
-    "published_at": "2026-08-30T12:00:00.000Z"
-  },
-  {
-    "headline": "Two new small, powerful Macs",
-    "summary": "Hi, friends! Welcome to Installer No. 142, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, how is it almost September already, and also you can read all the old editions at the Installer homepage.) This week, I've been remembering Dolly Parton, Tim Curry, and Peter Cullen, absorb…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
-    "image_url": null,
-    "published_at": "2026-08-30T12:00:00.000Z"
-  },
-  {
-    "headline": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-    "summary": "Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-    "image_url": null,
-    "published_at": "2026-08-29T20:59:26.000Z"
-  },
-  {
-    "headline": "Alt-right troll Milo Yiannopoulos has been deported",
-    "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration h…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-    "image_url": null,
-    "published_at": "2026-08-29T19:49:59.000Z"
-  },
-  {
-    "headline": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "image_url": null,
-    "published_at": "2026-08-29T18:41:59.000Z"
-  },
-  {
-    "headline": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright d…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-    "image_url": null,
-    "published_at": "2026-08-29T18:19:53.000Z"
   }
 ]
