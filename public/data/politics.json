@@ -1,5 +1,21 @@
 [
   {
+    "headline": "4 things investigators learned about the dysfunction at Trump's Labor Department",
+    "summary": "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department's policy prohibiting harassment. She resigned in April.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
+    "image_url": null,
+    "published_at": "2026-09-04T21:47:19.000Z"
+  },
+  {
+    "headline": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
+    "summary": "The new effort appears to be another tactic in a broader Trump administration strategy to short-circuit immigrants' already limited due process options in order to speed deportations.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
+    "image_url": null,
+    "published_at": "2026-09-04T21:11:56.000Z"
+  },
+  {
     "headline": "El-Sayed divided Michigan Democrats. Whether they unify could decide Senate control",
     "summary": "After a bruising primary, Democrats in Michigan are working to unify their coalition ahead of what is expected to be a razor-thin Senate race this fall for a seat they need to hold if they hope to retake the Senate majority.",
     "publisher": "NPR",
@@ -41,7 +57,7 @@
   },
   {
     "headline": "What to know about the mail-in voting fight at the Supreme Court",
-    "summary": "The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's attempt to restrict mail-in voting for the midterm election.",
+    "summary": "A federal judge has again blocked the U.S. Postal Service plan for President Trump's attempt to limit mail voting for the midterm election, as the legal fight drags on.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
     "image_url": null,
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/03/nx-s1-5918361/ohio-republicans-face-a-deadline-as-rep-max-miller-rejects-calls-to-step-aside",
     "image_url": null,
     "published_at": "2026-08-03T20:31:05.000Z"
-  },
-  {
-    "headline": "Todd Blanche's nomination back on track after GOP deal",
-    "summary": "Todd Blanche's attorney general nomination is moving forward after two Republican senators received written assurances the Justice Department would abandon a controversial compensation fund.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5918071/todd-blanches-nomination-back-on-track-after-gop-deal",
-    "image_url": null,
-    "published_at": "2026-08-03T20:31:02.000Z"
-  },
-  {
-    "headline": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
-    "summary": "Federal prosecutors moved to drop their case against David Hearn, blaming Reflecting Pool damage on a \"botched installation\" rather than vandalism. That has implications for others who were charged.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
-    "image_url": null,
-    "published_at": "2026-08-03T19:33:05.000Z"
   }
 ]

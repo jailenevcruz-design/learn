@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Scientists overturn a theory about this shark’s strange head",
+    "summary": "Scientists have overturned a leading explanation for why male and female bonnethead sharks have differently shaped heads. Instead of males developing a pointed snout at maturity, both sexes actually begin with more pointed heads that become rounder with age, particularly in females.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260902234508.htm",
+    "image_url": null,
+    "published_at": "2026-09-04T22:24:32.000Z"
+  },
+  {
+    "headline": "Harvard scientists turn knitting into shape-shifting smart fabric",
+    "summary": "Harvard researchers have transformed ordinary knitting into a platform for creating fabrics that can snap between different shapes and perform useful functions. Using elastic yarns and industrial knitting techniques, the team engineered thick textiles that naturally curve and lock into multiple stable configurations, m…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm",
+    "image_url": null,
+    "published_at": "2026-09-04T21:43:31.000Z"
+  },
+  {
+    "headline": "This week in science: Archaeology fakes, hurricanes and lizards, and heat health effects",
+    "summary": "NPR's Regina Barber and Nate Rott talk about a new way to spot archaeological fakes, how hurricanes may have influenced lizard evolution and the health effects of extreme heat.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5948029/this-week-in-science-archaeology-fakes-hurricanes-and-lizards-and-heat-health-effects",
+    "image_url": null,
+    "published_at": "2026-09-04T21:01:58.000Z"
+  },
+  {
     "headline": "Stanford scientists discover a seafood that can reverse signs of aging",
     "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage…",
     "publisher": "ScienceDaily",
@@ -456,18 +480,18 @@
     "published_at": "2026-08-31T09:23:21.000Z"
   },
   {
-    "headline": "Why too many women are prescribed antibiotics for UTIs they don't have",
-    "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
-    "image_url": null,
-    "published_at": "2026-08-31T09:00:00.000Z"
-  },
-  {
     "headline": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
     "summary": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
+    "image_url": null,
+    "published_at": "2026-08-31T09:00:00.000Z"
+  },
+  {
+    "headline": "Why too many women are prescribed antibiotics for UTIs they don't have",
+    "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
     "image_url": null,
     "published_at": "2026-08-31T09:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260819041239.htm",
     "image_url": null,
     "published_at": "2026-08-20T04:06:29.000Z"
-  },
-  {
-    "headline": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
-    "summary": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
-    "image_url": null,
-    "published_at": "2026-08-20T02:01:27.000Z"
-  },
-  {
-    "headline": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
-    "summary": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and magnetism develop and co…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
-    "image_url": null,
-    "published_at": "2026-08-20T01:32:04.000Z"
-  },
-  {
-    "headline": "Researchers reveal deeper workings of brain’s information hub",
-    "summary": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
-    "image_url": null,
-    "published_at": "2026-08-20T00:38:34.000Z"
   }
 ]
