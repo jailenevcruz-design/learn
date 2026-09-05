@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Rewriting the narrative: One man's journey through the new era of lung cancer care",
+    "summary": "Lung cancer is still the top cancer killer. But new developments are shifting what the future might hold for patients, as one man's cancer journey shows.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/05/nx-s1-5850255/rewriting-the-narrative-one-mans-journey-through-the-new-era-of-lung-cancer-care",
+    "image_url": null,
+    "published_at": "2026-09-05T11:43:23.000Z"
+  },
+  {
+    "headline": "Whatever happened to the floating schools of Bangladesh?",
+    "summary": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
+    "image_url": null,
+    "published_at": "2026-09-05T11:26:09.000Z"
+  },
+  {
     "headline": "Do you hate being middle-aged? NPR's Allison Aubrey wants to change that",
     "summary": "NPR's Ailsa Chang speaks with Allison Aubrey, health and science correspondent for NPR and the author of Your Turn: How to Create a Midlife You Love.",
     "publisher": "NPR",
@@ -40,18 +56,18 @@
     "published_at": "2026-09-04T10:00:00.000Z"
   },
   {
-    "headline": "Dry eyes are common in women. Here's why you shouldn't ignore them",
-    "summary": "Research suggests that around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do many other factors.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
-    "image_url": null,
-    "published_at": "2026-09-04T09:00:00.000Z"
-  },
-  {
     "headline": "Federal civil rights data about students is finally out. It's different under Trump",
     "summary": "The Education Department gathers a massive tranche of civil rights data about public school students. It's now available but harder to parse than in the past.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump",
+    "image_url": null,
+    "published_at": "2026-09-04T09:00:00.000Z"
+  },
+  {
+    "headline": "Dry eyes are common in women. Here's why you shouldn't ignore them",
+    "summary": "Research suggests that around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do many other factors.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
     "image_url": null,
     "published_at": "2026-09-04T09:00:00.000Z"
   },

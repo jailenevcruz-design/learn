@@ -1,5 +1,21 @@
 [
   {
+    "headline": "From bottles to bakery: How scientists create edible cookies from recycled plastic",
+    "summary": "New research at the American Chemical Society meeting showcased a potentially edible cookie made out of — plastic!",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/05/nx-s1-5947227-e1/from-bottles-to-bakery-how-scientists-create-edible-cookies-from-recycled-plastic",
+    "image_url": null,
+    "published_at": "2026-09-05T11:43:24.000Z"
+  },
+  {
+    "headline": "Biologist Andrew Newhouse on the genetic revival of the American chestnut",
+    "summary": "The American chestnut once dominated the Eastern woodlands. NPR's Scott Simon talks to Andrew Newhouse, an environmental biologist, about efforts to bring these trees back from the brink of extinction.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/05/nx-s1-5954830/biologist-andrew-newhouse-on-the-genetic-revival-of-the-american-chestnut",
+    "image_url": null,
+    "published_at": "2026-09-05T11:43:17.000Z"
+  },
+  {
     "headline": "Life uses 4 DNA letters. Scientists just made 8 work",
     "summary": "Researchers at UC San Diego have demonstrated that a key cellular enzyme can accurately read an eight-letter genetic alphabet, doubling the four letters used by all known life on Earth. Detailed imaging revealed that RNA polymerase handles synthetic DNA letters in surprisingly similar ways to natural ones. The finding…",
     "publisher": "ScienceDaily",
@@ -496,18 +512,18 @@
     "published_at": "2026-08-31T09:23:21.000Z"
   },
   {
-    "headline": "Why too many women are prescribed antibiotics for UTIs they don't have",
-    "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
-    "image_url": null,
-    "published_at": "2026-08-31T09:00:00.000Z"
-  },
-  {
     "headline": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
     "summary": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
+    "image_url": null,
+    "published_at": "2026-08-31T09:00:00.000Z"
+  },
+  {
+    "headline": "Why too many women are prescribed antibiotics for UTIs they don't have",
+    "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
     "image_url": null,
     "published_at": "2026-08-31T09:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260820002454.htm",
     "image_url": null,
     "published_at": "2026-08-20T09:21:01.000Z"
-  },
-  {
-    "headline": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
-    "summary": "Extreme experiments have revealed how diamond behaves at crushing pressures beyond those inside Neptune and Uranus, resolving a decades-old conflict between theory and observation. The results could help scientists boost fusion energy output while revealing more about the exotic diamond rain hidden inside ice giant pla…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
-    "image_url": null,
-    "published_at": "2026-08-20T08:55:15.000Z"
-  },
-  {
-    "headline": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater",
-    "summary": "A discarded SpaceX Falcon 9 stage crashed into the Moon on Aug. 5, leaving behind a newly formed crater about 60 feet wide. NASA’s Lunar Reconnaissance Orbiter captured detailed images showing bright and dark streaks of debris blasted across the surrounding surface. The impact even exposed fresh material buried beneath…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm",
-    "image_url": null,
-    "published_at": "2026-08-20T07:10:38.000Z"
   }
 ]

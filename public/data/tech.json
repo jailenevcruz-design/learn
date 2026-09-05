@@ -1,5 +1,29 @@
 [
   {
+    "headline": "The weird and wonderful headphones of CanJam 2026",
+    "summary": "A collection of headphone manufacturers and fans come together for their love of great sound. | Image: CanJam Global I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state o…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+    "image_url": null,
+    "published_at": "2026-09-05T13:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI admits to German wiki ‘incident’",
+    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "image_url": null,
+    "published_at": "2026-09-05T11:15:55.000Z"
+  },
+  {
+    "headline": "Robotaxis enter their villain era",
+    "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have gone from sci-…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+    "image_url": null,
+    "published_at": "2026-09-05T11:00:00.000Z"
+  },
+  {
     "headline": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "summary": "The round is being raised just months after the robot data startup exited from stealth.",
     "publisher": "TechCrunch",
@@ -1574,29 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
     "image_url": null,
     "published_at": "2026-08-31T02:34:00.000Z"
-  },
-  {
-    "headline": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-    "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promising since 2022.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-    "image_url": null,
-    "published_at": "2026-08-31T02:18:57.000Z"
-  },
-  {
-    "headline": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
-    "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you to let loose, dance like n…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
-    "image_url": null,
-    "published_at": "2026-08-30T21:18:59.000Z"
-  },
-  {
-    "headline": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-    "summary": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-Life 2: Episode 3, content cut from Portal 2, and a build of a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
-    "image_url": null,
-    "published_at": "2026-08-30T19:14:08.000Z"
   }
 ]

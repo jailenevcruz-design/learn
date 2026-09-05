@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Abel: Two ways Berkshire hopes to cash in on AI",
+    "summary": "Berkshire Hathaway CEO Greg Abel tells CNBC the company is pursuing AI opportunities on two paths.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/abel-two-ways-berkshire-hopes-in-cash-in-on-ai.html",
+    "image_url": null,
+    "published_at": "2026-09-05T12:45:44.000Z"
+  },
+  {
+    "headline": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
+    "summary": "Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
+    "image_url": null,
+    "published_at": "2026-09-05T12:20:42.000Z"
+  },
+  {
+    "headline": "With HSAs, employers are turning to the 401(k) playbook",
+    "summary": "More employers are automatically enrolling workers into health savings accounts and paying contributions like a \"match.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/hsa-401k-plan-retirement-automatic-enrollment.html",
+    "image_url": null,
+    "published_at": "2026-09-05T12:15:42.000Z"
+  },
+  {
+    "headline": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
+    "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
+    "image_url": null,
+    "published_at": "2026-09-05T12:14:38.000Z"
+  },
+  {
+    "headline": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
+    "summary": "Despite rising prices and the travel industry focusing on the luxury segment, budget-minded vacationers are still finding ways to get away.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+    "image_url": null,
+    "published_at": "2026-09-05T12:14:21.000Z"
+  },
+  {
+    "headline": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+    "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+    "image_url": null,
+    "published_at": "2026-09-05T12:00:01.000Z"
+  },
+  {
+    "headline": "Meet the CISO: A new front line star in the AI cybersecurity war",
+    "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+    "image_url": null,
+    "published_at": "2026-09-05T12:00:01.000Z"
+  },
+  {
     "headline": "From Trump’s takeover threats to a ‘northern neighborhood,’ why the EU chief is going to Greenland",
     "summary": "The visit comes as Trump renews his push for greater U.S. control of the self-governing Danish territory.",
     "publisher": "CNBC",
@@ -120,12 +176,28 @@
     "published_at": "2026-09-04T18:08:16.000Z"
   },
   {
+    "headline": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
+    "summary": "Filling open commissioner positions at the regulatory agency has been a sticking point in negotiations over the Clarity Act.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html",
+    "image_url": null,
+    "published_at": "2026-09-04T17:53:07.000Z"
+  },
+  {
     "headline": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
     "summary": "Wealthy travelers are moving their typical summer getaways to autumn.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
     "image_url": null,
     "published_at": "2026-09-04T17:31:44.000Z"
+  },
+  {
+    "headline": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+    "summary": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+    "image_url": null,
+    "published_at": "2026-09-04T17:16:37.000Z"
   },
   {
     "headline": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
@@ -158,14 +230,6 @@
     "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
     "image_url": null,
     "published_at": "2026-09-04T14:36:48.000Z"
-  },
-  {
-    "headline": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
-    "summary": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
-    "image_url": null,
-    "published_at": "2026-09-04T14:19:02.000Z"
   },
   {
     "headline": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/31/trump-accounts-american-airlines-matching-program.html",
     "image_url": null,
     "published_at": "2026-08-31T17:19:46.000Z"
-  },
-  {
-    "headline": "Broadcom reports earnings this week. Mike Khouw says this trade could be a winner",
-    "summary": "\"The stakes are high\" heading into Broadcom earnings, says Mike Khouw.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/broadcom-reports-earnings-this-week-mike-khouw-says-this-trade-could-be-a-winner.html",
-    "image_url": null,
-    "published_at": "2026-08-31T17:18:15.000Z"
-  },
-  {
-    "headline": "Waiting for homebuying to get more affordable? Here's what to expect in 2027",
-    "summary": "Mortgage rates aren't expected to get much cheaper for homebuyers in 2027, especially if inflation stays high.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/what-homebuyers-can-expect-in-2027.html",
-    "image_url": null,
-    "published_at": "2026-08-31T17:16:59.000Z"
-  },
-  {
-    "headline": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
-    "summary": "OpenAI's move to serve ads in ChatGPT earlier this year drew ridicule from its chief rival, Anthropic, in the form of a Super Bowl commercial.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
-    "image_url": null,
-    "published_at": "2026-08-31T16:33:46.000Z"
-  },
-  {
-    "headline": "Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report",
-    "summary": "The latest attacks prompted oil prices to climb above $90 a barrel, as energy market participants monitored the prospect of renewed supply risks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-08-31T15:33:30.000Z"
-  },
-  {
-    "headline": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-    "summary": "An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
-    "image_url": null,
-    "published_at": "2026-08-31T15:22:43.000Z"
-  },
-  {
-    "headline": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
-    "summary": "The insurance broker said the merger will create the premiere U.S. middle-market platform.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
-    "image_url": null,
-    "published_at": "2026-08-31T15:15:22.000Z"
-  },
-  {
-    "headline": "Bank of England chief warns new AI models threaten global financial stability",
-    "summary": "Bank of England Governor Andrew Bailey has warned that frontier AI could materially increase cyber risks to the global financial system.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
-    "image_url": null,
-    "published_at": "2026-08-31T13:35:11.000Z"
-  },
-  {
-    "headline": "When someone talks down to you, use Dolly Parton's simple trick to 'maintain your dignity and disarm' them, says expert",
-    "summary": "Communication expert Dorie Clark calls it the \"label upgrade\" strategy. \"It's a powerful move,\" she says. \"Own the truth,\" then redefine their label. Here's how.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/when-someone-talks-down-use-dolly-partons-simple-trick-maintain-dignity-disarm-communication-expert.html",
-    "image_url": null,
-    "published_at": "2026-08-31T13:34:01.000Z"
   }
 ]
