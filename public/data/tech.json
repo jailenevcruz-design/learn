@@ -1,5 +1,29 @@
 [
   {
+    "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "image_url": null,
+    "published_at": "2026-09-05T18:05:27.000Z"
+  },
+  {
+    "headline": "Clucky’s new alarm app wakes you up with a crowing rooster",
+    "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+    "image_url": null,
+    "published_at": "2026-09-05T17:00:00.000Z"
+  },
+  {
+    "headline": "CD sales are booming as physical media continues its resurgence",
+    "summary": "There’s some real gems in there. | Photo: Terrence O’Brien / The Verge According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+    "image_url": null,
+    "published_at": "2026-09-05T16:49:33.000Z"
+  },
+  {
     "headline": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
     "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in…",
     "publisher": "The Verge",
@@ -1574,29 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
     "image_url": null,
     "published_at": "2026-08-31T15:19:32.000Z"
-  },
-  {
-    "headline": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-    "image_url": null,
-    "published_at": "2026-08-31T15:15:25.000Z"
-  },
-  {
-    "headline": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
-    "summary": "MapQuest is getting an unexpected boost from its decision to defy President Trump’s renaming of Lake Ontario.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
-    "image_url": null,
-    "published_at": "2026-08-31T14:51:33.000Z"
-  },
-  {
-    "headline": "New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
-    "summary": "Cody Wilson, the creator of the first 3D-printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting governor Kathy Hochul in the process. But Hochul isn't having it. In this week's episode of Decoder, Hochul responded to Wilson's \"Hochulization…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response",
-    "image_url": null,
-    "published_at": "2026-08-31T14:20:00.000Z"
   }
 ]
