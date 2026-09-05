@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+    "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
+    "image_url": null,
+    "published_at": "2026-09-05T09:00:00.000Z"
+  },
+  {
+    "headline": "Flock cameras draw opposition from across the political spectrum",
+    "summary": "As political races heat up heading into the midterms, candidates from both parties are increasingly joining the fray to voice concerns over Flock surveillance cameras.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
+    "image_url": null,
+    "published_at": "2026-09-05T09:00:00.000Z"
+  },
+  {
     "headline": "4 things investigators learned about the dysfunction at Trump's Labor Department",
     "summary": "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department's policy prohibiting harassment. She resigned in April.",
     "publisher": "NPR",
@@ -14,6 +30,14 @@
     "url": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
     "image_url": null,
     "published_at": "2026-09-04T21:11:56.000Z"
+  },
+  {
+    "headline": "El-Sayed split Michigan Democrats. Whether they unify could decide Senate control",
+    "summary": "After a bruising Senate primary, Michigan Democrats are trying to unify to hold onto a must-win seat. But healing those fissures is proving not so simple.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/03/nx-s1-5946840/abdul-el-sayed-michigan-senate-race",
+    "image_url": null,
+    "published_at": "2026-09-04T20:41:06.000Z"
   },
   {
     "headline": "El-Sayed divided Michigan Democrats. Whether they unify could decide Senate control",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/08/04/nx-s1-5918587/mitch-mcconnells-absence-looms-large-over-annual-kentucky-picnic",
     "image_url": null,
     "published_at": "2026-08-04T08:41:17.000Z"
-  },
-  {
-    "headline": "DNC report on 2024 election outcome missing key chapter, report says",
-    "summary": "NPR's Steve Inskeep speaks with the New York Times' Shane Goldmacher about a missing chapter of the Democratic National Committee's report on Donald Trump's 2024 election win.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/nx-s1-5918331/dnc-report-on-2024-election-outcome-missing-key-chapter-report-says",
-    "image_url": null,
-    "published_at": "2026-08-04T08:40:31.000Z"
-  },
-  {
-    "headline": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
-    "summary": "After a months-long investigation, the ethics committee recommended censure for Edwards because of \"persistent unprofessional and inappropriate conduct towards two young female staffers.\"",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
-    "image_url": null,
-    "published_at": "2026-08-03T21:17:49.000Z"
-  },
-  {
-    "headline": "Ohio Republicans face a deadline as Rep. Max Miller rejects calls to step aside",
-    "summary": "Ohio Congressman Max Miller says he's staying in his reelection race despite abuse allegations. His former father-in-law, US Sen. Bernie Moreno, says Miller should step aside before next week's ballot deadline.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/03/nx-s1-5918361/ohio-republicans-face-a-deadline-as-rep-max-miller-rejects-calls-to-step-aside",
-    "image_url": null,
-    "published_at": "2026-08-03T20:31:05.000Z"
   }
 ]
