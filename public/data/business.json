@@ -1,5 +1,45 @@
 [
   {
+    "headline": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
+    "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+    "image_url": null,
+    "published_at": "2026-09-05T15:43:08.000Z"
+  },
+  {
+    "headline": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
+    "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
+    "image_url": null,
+    "published_at": "2026-09-05T15:11:03.000Z"
+  },
+  {
+    "headline": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
+    "summary": "Walmart's deal to deliver for Dunkin' follows one earlier this year for Subway sandwiches, as the nation's largest retailer targets Uber Eats and DoorDash.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/walmart-dunkin-subway-delivery-uber-eats-doordash.html",
+    "image_url": null,
+    "published_at": "2026-09-05T14:46:14.000Z"
+  },
+  {
+    "headline": "Many truckers don't feel like the rest of America about AI data centers as business booms",
+    "summary": "Sprawling data center components from HVAC systems to tubing, wiring and semiconductors arrive primarily by truck, a boon for a business hit hard by trade wars.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
+    "image_url": null,
+    "published_at": "2026-09-05T13:33:08.000Z"
+  },
+  {
+    "headline": "Icons Dolly Parton and Gloria Steinem never officially retired—why that's a choice for some and requirement for others",
+    "summary": "The idea of never retiring sounds awful to some, but inspiring to others who want to pursue their passions long after they've left full-time work.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/05/dolly-parton-gloria-steinem-never-retired.html",
+    "image_url": null,
+    "published_at": "2026-09-05T13:00:01.000Z"
+  },
+  {
     "headline": "Abel: Two ways Berkshire hopes to cash in on AI",
     "summary": "Berkshire Hathaway CEO Greg Abel tells CNBC the company is pursuing AI opportunities on two paths.",
     "publisher": "CNBC",
@@ -22,14 +62,6 @@
     "url": "https://www.cnbc.com/2026/09/05/hsa-401k-plan-retirement-automatic-enrollment.html",
     "image_url": null,
     "published_at": "2026-09-05T12:15:42.000Z"
-  },
-  {
-    "headline": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
-    "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-    "image_url": null,
-    "published_at": "2026-09-05T12:14:38.000Z"
   },
   {
     "headline": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/08/31/trump-data-centers-backlash-elections-congress.html",
     "image_url": null,
     "published_at": "2026-08-31T18:47:01.000Z"
-  },
-  {
-    "headline": "Lilly taps obesity windfall for more M&A. Plus, Elon Musk remarks pull GE Vernova lower",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/lilly-taps-obesity-windfall-for-more-ma-plus-elon-musk-remarks-pull-ge-vernova-lower.html",
-    "image_url": null,
-    "published_at": "2026-08-31T18:27:11.000Z"
-  },
-  {
-    "headline": "Trump to meet with U.S. oil refiners as White House pushes to lower gas prices",
-    "summary": "The White House says it is seeking near-term steps to boost refining capacity as affordability and gas prices loom over the midterm election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html",
-    "image_url": null,
-    "published_at": "2026-08-31T17:44:31.000Z"
-  },
-  {
-    "headline": "Kalshi permanently bans former GOP Rep. George Santos over illegal trading",
-    "summary": "Former GOP Rep. George Santos, of New York, has drawn fire for allegedly trading on whether he would attend this year's State of the Union address.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/kalshi-perman.html",
-    "image_url": null,
-    "published_at": "2026-08-31T17:36:20.000Z"
-  },
-  {
-    "headline": "American Airlines announces Trump Accounts matching program",
-    "summary": "To help fund Trump Accounts, American Airlines said it will match the federal $1,000 contribution for employees' children.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/trump-accounts-american-airlines-matching-program.html",
-    "image_url": null,
-    "published_at": "2026-08-31T17:19:46.000Z"
   }
 ]
