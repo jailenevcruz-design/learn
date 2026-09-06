@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Indonesia’s most dangerous fires are burning underground",
+    "summary": "Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fires are especially destructive because they release far more fine particles and several pollutants than typical tropical…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
+    "image_url": null,
+    "published_at": "2026-09-06T07:57:45.000Z"
+  },
+  {
+    "headline": "AI can now control fusion plasma faster than humans can react",
+    "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, reacting far faster than a human operator. In one experiment, it predicted a damaging instability about 200 milliseconds before it appeared and adjusted the plasma to stop it from forming.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+    "image_url": null,
+    "published_at": "2026-09-06T07:28:43.000Z"
+  },
+  {
+    "headline": "Scientists find a weak spot in one of the deadliest brain cancers",
+    "summary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer cells more vulnerable to radiation. The strategy works by restoring activity of PP2A, an enzyme that g…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
+    "image_url": null,
+    "published_at": "2026-09-06T06:58:29.000Z"
+  },
+  {
     "headline": "A mysterious signal around Earth could be dark matter",
     "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncovered several intriguing dark photon signals that still need to be explained.",
     "publisher": "ScienceDaily",
@@ -560,18 +584,18 @@
     "published_at": "2026-08-31T09:23:21.000Z"
   },
   {
-    "headline": "Why too many women are prescribed antibiotics for UTIs they don't have",
-    "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
-    "image_url": null,
-    "published_at": "2026-08-31T09:00:00.000Z"
-  },
-  {
     "headline": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
     "summary": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
+    "image_url": null,
+    "published_at": "2026-08-31T09:00:00.000Z"
+  },
+  {
+    "headline": "Why too many women are prescribed antibiotics for UTIs they don't have",
+    "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
     "image_url": null,
     "published_at": "2026-08-31T09:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260820202846.htm",
     "image_url": null,
     "published_at": "2026-08-21T04:54:49.000Z"
-  },
-  {
-    "headline": "Hidden magnetism inside atoms may explain mysterious gamma rays",
-    "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons and neutrons effectively flip their tiny internal magnets. The discovery could sharpen models of every…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
-    "image_url": null,
-    "published_at": "2026-08-21T04:21:34.000Z"
-  },
-  {
-    "headline": "A lost mega-cliff may explain the Grand Canyon’s missing billion years",
-    "summary": "A colossal cliff system created as the supercontinent Rodinia broke apart may have exposed the heart of the Grand Canyon nearly a billion years before the Colorado River carved it. The ancient landscape could also help explain why enormous sections of North America’s geological record appear to be missing.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260820202828.htm",
-    "image_url": null,
-    "published_at": "2026-08-21T03:43:10.000Z"
-  },
-  {
-    "headline": "“One-in-a-million” sea creature fossil preserves soft tissue for 450 million years",
-    "summary": "Scientists have identified exceptionally rare soft tissue preserved in a 450-million-year-old crinoid fossil, more than 200 million years older than the first dinosaurs. Its delicate tube feet offer a remarkable new window into how some of Earth’s earliest reef animals lived, fed, and evolved.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
-    "image_url": null,
-    "published_at": "2026-08-21T01:12:03.000Z"
   }
 ]
