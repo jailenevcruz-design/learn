@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "image_url": null,
+    "published_at": "2026-09-05T22:49:55.000Z"
+  },
+  {
+    "headline": "Explore the globe in field recordings",
+    "summary": "Around the world in 80 WAVs. | Screenshot: Terrence O’Brien / The Verge I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbli…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+    "image_url": null,
+    "published_at": "2026-09-05T21:31:34.000Z"
+  },
+  {
+    "headline": "iPhone Handoff will seamlessly share one number between two phones",
+    "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up the feature running in Xcode…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+    "image_url": null,
+    "published_at": "2026-09-05T20:53:58.000Z"
+  },
+  {
     "headline": "Hikers rescued after using Google Gemini for planning",
     "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
     "publisher": "TechCrunch",
@@ -1574,29 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
     "image_url": null,
     "published_at": "2026-08-31T16:07:46.000Z"
-  },
-  {
-    "headline": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-    "image_url": null,
-    "published_at": "2026-08-31T16:00:00.000Z"
-  },
-  {
-    "headline": "Debian won&#8217;t ban AI code from its Linux distribution",
-    "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-    "image_url": null,
-    "published_at": "2026-08-31T15:34:58.000Z"
-  },
-  {
-    "headline": "Sony’s WH-1000XM5 headphones are back down to their lowest price",
-    "summary": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morning. The comfy over-ear headphones offer some of the best sound quality and active noise cancelling, and are down to $198…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale",
-    "image_url": null,
-    "published_at": "2026-08-31T15:31:59.000Z"
   }
 ]
