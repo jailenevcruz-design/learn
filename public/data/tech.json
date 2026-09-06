@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Authors push back as publishers and agents seek share of Anthropic settlement",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "image_url": null,
+    "published_at": "2026-09-06T20:47:37.000Z"
+  },
+  {
+    "headline": "Europe has its first commercial orbital rocket",
+    "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+    "image_url": null,
+    "published_at": "2026-09-06T19:04:22.000Z"
+  },
+  {
+    "headline": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "image_url": null,
+    "published_at": "2026-09-06T16:45:00.000Z"
+  },
+  {
     "headline": "Boox’s tiny Picco e-reader should land in November",
     "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a phone. The 3.97-inch…",
     "publisher": "The Verge",
@@ -1574,29 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
     "image_url": null,
     "published_at": "2026-08-31T18:35:11.000Z"
-  },
-  {
-    "headline": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-    "summary": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-    "image_url": null,
-    "published_at": "2026-08-31T18:10:09.000Z"
-  },
-  {
-    "headline": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-    "summary": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
-    "image_url": null,
-    "published_at": "2026-08-31T17:14:44.000Z"
-  },
-  {
-    "headline": "Car owners want tech they can ignore",
-    "summary": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to the latest tech survey from JD Power. The consumer research…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
-    "image_url": null,
-    "published_at": "2026-08-31T17:11:17.000Z"
   }
 ]
