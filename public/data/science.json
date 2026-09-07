@@ -1,5 +1,45 @@
 [
   {
+    "headline": "'Her body temperature was 106': How heat is killing Americans in their homes",
+    "summary": "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+    "image_url": null,
+    "published_at": "2026-09-07T09:00:00.000Z"
+  },
+  {
+    "headline": "Popular brain supplement linked to shorter lifespan in men",
+    "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effec…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+    "image_url": null,
+    "published_at": "2026-09-06T21:21:25.000Z"
+  },
+  {
+    "headline": "Scientists find breast cancer cells hiding behind protective “shields”",
+    "summary": "Researchers have mapped breast tumors in striking detail and uncovered hidden pockets of dormant cancer cells that may help explain why cancer can return after treatment. Unlike rapidly dividing cells, these quiet cells can essentially hibernate, allowing them to evade chemotherapy and reactivate later. The team found…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260904000326.htm",
+    "image_url": null,
+    "published_at": "2026-09-06T20:43:10.000Z"
+  },
+  {
+    "headline": "This lifestyle program improved cognition 55% more than basic health advice",
+    "summary": "Older adults at risk of dementia improved their memory and thinking after following lifestyle programs combining exercise, healthy eating, cognitive training, and social engagement. Those who received regular coaching and structured support improved substantially more than participants given general health advice.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
+    "image_url": null,
+    "published_at": "2026-09-06T17:07:44.000Z"
+  },
+  {
+    "headline": "Scientists discover a hidden problem with this popular sugar substitute",
+    "summary": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems. Researchers at Washington University in St. Louis found that the body can convert sorbitol into a form of fructose in the liver, potentially triggering some of the same harmful metabolic ef…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
+    "image_url": null,
+    "published_at": "2026-09-06T15:44:48.000Z"
+  },
+  {
     "headline": "Indonesia’s most dangerous fires are burning underground",
     "summary": "Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fires are especially destructive because they release far more fine particles and several pollutants than typical tropical…",
     "publisher": "ScienceDaily",
@@ -1558,45 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260820202842.htm",
     "image_url": null,
     "published_at": "2026-08-21T10:59:05.000Z"
-  },
-  {
-    "headline": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-    "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic fingerprint, revealing the landscapes surrounding the ship when repairs were made.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
-    "image_url": null,
-    "published_at": "2026-08-21T09:28:51.000Z"
-  },
-  {
-    "headline": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-    "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-    "image_url": null,
-    "published_at": "2026-08-21T09:00:00.000Z"
-  },
-  {
-    "headline": "Federal government thins the herds of wild horses in Colorado",
-    "summary": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-    "image_url": null,
-    "published_at": "2026-08-21T09:00:00.000Z"
-  },
-  {
-    "headline": "A simple at-home test could cut colorectal cancer death risk by 43%",
-    "summary": "People who participated in colorectal cancer screening had a 43% lower risk of dying from the disease, according to long-term data from more than 376,000 people in Sweden. The findings suggest that completing a simple at-home screening test could make a major difference in survival.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260820202833.htm",
-    "image_url": null,
-    "published_at": "2026-08-21T07:37:33.000Z"
-  },
-  {
-    "headline": "A strange new quantum droplet can hold itself together",
-    "summary": "Two very different types of quantum particles may be able to form stable droplets that hold themselves together, challenging decades of conventional thinking. The prediction could soon be tested experimentally and may reveal an unexpectedly rich world of new quantum phases.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260820202846.htm",
-    "image_url": null,
-    "published_at": "2026-08-21T04:54:49.000Z"
   }
 ]

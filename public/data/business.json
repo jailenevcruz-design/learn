@@ -1,11 +1,139 @@
 [
   {
+    "headline": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
+    "summary": "The chair of the National Transportation Safety Board didn't provide details on the cause of the crash in Miami, which killed at least five people.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
+    "image_url": null,
+    "published_at": "2026-09-07T21:36:12.000Z"
+  },
+  {
+    "headline": "Union electricians welcome data center boom",
+    "summary": "The boom in data centers has brought plenty of work and lots of overtime to union electricians, putting them at odds with many communities trying to block new data center construction.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5947245/union-electricians-welcome-data-center-boom",
+    "image_url": null,
+    "published_at": "2026-09-07T20:46:32.000Z"
+  },
+  {
+    "headline": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
+    "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+    "image_url": null,
+    "published_at": "2026-09-07T18:52:24.000Z"
+  },
+  {
+    "headline": "Far-right AfD landslide in German state piles pressure on federal government",
+    "summary": "The \"extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" according to analysts.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+    "image_url": null,
+    "published_at": "2026-09-07T17:04:21.000Z"
+  },
+  {
+    "headline": "'Ah! Rejected, yet again': How this 45-year-old turned his 'demoralizing' job search into a one-man show",
+    "summary": "After months of fruitlessly searching for a job, Tim Millard decided to turn his calamity into comedy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
+    "image_url": null,
+    "published_at": "2026-09-07T15:55:48.000Z"
+  },
+  {
+    "headline": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
+    "summary": "It comes shortly after Icelanders voted to reject restarting EU membership talks and as Trump renews his push to acquire Greenland on national security grounds.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
+    "image_url": null,
+    "published_at": "2026-09-07T13:09:36.000Z"
+  },
+  {
+    "headline": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
+    "summary": "Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
+    "image_url": null,
+    "published_at": "2026-09-07T12:26:40.000Z"
+  },
+  {
+    "headline": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+    "summary": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+    "image_url": null,
+    "published_at": "2026-09-07T12:09:41.000Z"
+  },
+  {
+    "headline": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
+    "summary": "The luxury carmaker is targeting £1.7 billion ($2.3 billion) in savings as it faces Chinese competition, a cyberattack and U.S. tariffs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html",
+    "image_url": null,
+    "published_at": "2026-09-07T11:50:43.000Z"
+  },
+  {
+    "headline": "Top Wall Street analysts like these 3 stocks for the long haul",
+    "summary": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html",
+    "image_url": null,
+    "published_at": "2026-09-07T10:37:16.000Z"
+  },
+  {
+    "headline": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+    "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+    "image_url": null,
+    "published_at": "2026-09-07T09:26:54.000Z"
+  },
+  {
+    "headline": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes",
+    "summary": "Lebanese President Joseph Aoun called on the U.S. to help stop Israeli attacks after Sunday strikes killed at least seven people.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
+    "image_url": null,
+    "published_at": "2026-09-07T09:26:27.000Z"
+  },
+  {
+    "headline": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
+    "summary": "Finance ministry data showed that Japan's official foreign reserves stand at $1.207 trillion, down from July's figure of $1.287 trillion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+    "image_url": null,
+    "published_at": "2026-09-07T07:38:42.000Z"
+  },
+  {
     "headline": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
     "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
     "image_url": null,
-    "published_at": "2026-09-06T19:41:23.000Z"
+    "published_at": "2026-09-07T07:35:18.000Z"
+  },
+  {
+    "headline": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
+    "summary": "",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
+    "image_url": null,
+    "published_at": "2026-09-07T05:56:40.000Z"
+  },
+  {
+    "headline": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
+    "summary": "Treasury yields face a test at 4.8%, with a sustained move above that potentially creating \"meaningful problems\" for other asset classes, said Miller Tabak.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
+    "image_url": null,
+    "published_at": "2026-09-07T02:01:52.000Z"
+  },
+  {
+    "headline": "Volcano eruption disrupts hundreds of flights at Southeast Asia's second-busiest airport",
+    "summary": "Mount Anak Krakatau’s eruption disrupted hundreds of flights across Indonesia, with flight cancellations extending into Monday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/flights-canceled-jakarta-airport-anak-krakatau-eruption-disrupts-regional-travel-volcano.html",
+    "image_url": null,
+    "published_at": "2026-09-07T01:31:03.000Z"
   },
   {
     "headline": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
@@ -1470,133 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
     "image_url": null,
     "published_at": "2026-09-01T14:01:27.000Z"
-  },
-  {
-    "headline": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
-    "summary": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
-    "image_url": null,
-    "published_at": "2026-09-01T14:00:01.000Z"
-  },
-  {
-    "headline": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
-    "summary": "Whatnot and TikTok are tapping into its potential livestream shopping in the U.S. after a decade of massive success in China.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html",
-    "image_url": null,
-    "published_at": "2026-09-01T13:40:48.000Z"
-  },
-  {
-    "headline": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
-    "summary": "Trump argued rapid growth should not prompt Fed rate hikes, even as inflation remains above the central bank’s 2% target.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
-    "image_url": null,
-    "published_at": "2026-09-01T13:22:11.000Z"
-  },
-  {
-    "headline": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
-    "summary": "Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delivery decisions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
-    "image_url": null,
-    "published_at": "2026-09-01T12:50:57.000Z"
-  },
-  {
-    "headline": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
-    "summary": "Bond yields surged across major markets Tuesday as U.S.-Iran hostilities revived energy and inflation risks, with Japan and U.K. yields at multi-decade highs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html",
-    "image_url": null,
-    "published_at": "2026-09-01T12:39:23.000Z"
-  },
-  {
-    "headline": "Toyota's hybrid RAV4 is in demand as dealers wait for more supply",
-    "summary": "When Toyota announced the new version of its SUV, it said the RAV4 would only be available as a hybrid and that production would be limited at first.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/toyota-rav4-dealer-inventory.html",
-    "image_url": null,
-    "published_at": "2026-09-01T12:00:01.000Z"
-  },
-  {
-    "headline": "'It can outthink me': How a major manufacturer came to embrace AI",
-    "summary": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
-    "image_url": null,
-    "published_at": "2026-09-01T09:00:00.000Z"
-  },
-  {
-    "headline": "These emerging markets are favored to get 'a wall of money' from carry trades",
-    "summary": "Emerging markets could attract more capital as Treasury bond buyback plans weaken the dollar and support carry trades, analysts say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
-    "image_url": null,
-    "published_at": "2026-09-01T05:12:38.000Z"
-  },
-  {
-    "headline": "Fast-fashion giant Shein's shares drop 9% in Hong Kong market debut",
-    "summary": "Shein made its Hong Kong market debut on Tuesday after years of attempts to go public.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
-    "image_url": null,
-    "published_at": "2026-09-01T03:44:19.000Z"
-  },
-  {
-    "headline": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
-    "summary": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-    "image_url": null,
-    "published_at": "2026-09-01T02:05:20.000Z"
-  },
-  {
-    "headline": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-    "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-    "image_url": null,
-    "published_at": "2026-09-01T01:56:53.000Z"
-  },
-  {
-    "headline": "The $3 trillion oil market has just gotten more accessible than ever: No longer a 'rich man's game'",
-    "summary": "Oil trading is becoming more accessible to individual investors as smaller futures contracts, ETFs and online brokerages lower longtime barriers to the market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/oil-market-is-getting-more-accessible-what-it-means-for-wti-brent.html",
-    "image_url": null,
-    "published_at": "2026-09-01T00:49:51.000Z"
-  },
-  {
-    "headline": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
-    "summary": "CNBC's Jim Cramer said August was a comeback month for stocks that had been battered by bearish narratives.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
-    "image_url": null,
-    "published_at": "2026-08-31T23:23:38.000Z"
-  },
-  {
-    "headline": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view",
-    "summary": "In many ways it seems that the party has ended for many U.S. and European corporations that once enjoyed a big advantage in China.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/cnbc-china-connection-newsletter-mckinseys-contrarian-view-economy.html",
-    "image_url": null,
-    "published_at": "2026-08-31T23:00:01.000Z"
-  },
-  {
-    "headline": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
-    "summary": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
-    "image_url": null,
-    "published_at": "2026-08-31T21:36:32.000Z"
-  },
-  {
-    "headline": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
-    "summary": "Chief Justice John Roberts dissented with three liberal justices, saying, \"That construction is likely unlawful.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
-    "image_url": null,
-    "published_at": "2026-08-31T21:23:41.000Z"
   }
 ]

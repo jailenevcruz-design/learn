@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Trump's construction projects are transforming the capital",
+    "summary": "President Trump is transforming Washington. New York Magazine's Ben Terris says the ballroom, the planned arch and other changes are an attempt to achieve \"architectural immortality.\"",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital",
+    "image_url": null,
+    "published_at": "2026-09-07T20:32:13.000Z"
+  },
+  {
+    "headline": "With the midterms fast approaching, campaign season begins",
+    "summary": "Labor Day marks the unofficial kickoff of the general election season as Republicans work to maintain control of the House and the Senate amid President Trump's unpopular second term.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5955739/with-the-midterms-fast-approaching-campaign-season-begins",
+    "image_url": null,
+    "published_at": "2026-09-07T08:43:05.000Z"
+  },
+  {
+    "headline": "What to expect as midterm campaign season kicks off",
+    "summary": "NPR's Leila Fadel speaks with Charlie Cook, founder of the nonpartisan Cook Political Report, about the outlook for Democrats and Republicans as midterm campaign season kicks off.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5955604/what-to-expect-as-midterm-campaign-season-kicks-off",
+    "image_url": null,
+    "published_at": "2026-09-07T08:42:57.000Z"
+  },
+  {
     "headline": "Public backlash against data centers is rising. Politicians are playing catchup",
     "summary": "Public sentiment against data centers is running high this election season, leaving politicians of all stripes scrambling to respond. We look at how this is playing out in Pennsylvania.",
     "publisher": "NPR",
@@ -40,18 +64,18 @@
     "published_at": "2026-09-05T11:43:22.000Z"
   },
   {
-    "headline": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-    "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-    "image_url": null,
-    "published_at": "2026-09-05T09:00:00.000Z"
-  },
-  {
     "headline": "Flock cameras draw opposition from across the political spectrum",
     "summary": "As political races heat up heading into the midterms, candidates from both parties are increasingly joining the fray to voice concerns over Flock surveillance cameras.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
+    "image_url": null,
+    "published_at": "2026-09-05T09:00:00.000Z"
+  },
+  {
+    "headline": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+    "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
     "image_url": null,
     "published_at": "2026-09-05T09:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
     "image_url": null,
     "published_at": "2026-08-04T19:40:02.000Z"
-  },
-  {
-    "headline": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-    "summary": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-    "image_url": null,
-    "published_at": "2026-08-04T17:43:06.000Z"
-  },
-  {
-    "headline": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
-    "summary": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
-    "image_url": null,
-    "published_at": "2026-08-04T11:29:23.000Z"
-  },
-  {
-    "headline": "Senate Judiciary Committee to vote on Todd Blanche's nomination for attorney general",
-    "summary": "The Senate Judiciary Committee is expected to vote Tuesday on Todd Blanche's nomination for attorney general after Blanche assuaged concerns from two Republican senators.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/nx-s1-5918355/senate-judiciary-committee-to-vote-on-todd-blanches-nomination-for-attorney-general",
-    "image_url": null,
-    "published_at": "2026-08-04T10:50:35.000Z"
   }
 ]
