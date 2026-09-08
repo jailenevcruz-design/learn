@@ -1,5 +1,77 @@
 [
   {
+    "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "image_url": null,
+    "published_at": "2026-09-08T19:00:00.000Z"
+  },
+  {
+    "headline": "How to watch Apple’s foldable iPhone announcement",
+    "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+    "image_url": null,
+    "published_at": "2026-09-08T17:46:53.000Z"
+  },
+  {
+    "headline": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "image_url": null,
+    "published_at": "2026-09-08T17:32:15.000Z"
+  },
+  {
+    "headline": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+    "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+    "image_url": null,
+    "published_at": "2026-09-08T17:27:31.000Z"
+  },
+  {
+    "headline": "Nintendo isn’t scared of GTA VI",
+    "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. Everyone, that is, except for Nintendo. The company held a 30-minute showcase this morning focused entirely on its Legen…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
+    "image_url": null,
+    "published_at": "2026-09-08T17:13:51.000Z"
+  },
+  {
+    "headline": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "image_url": null,
+    "published_at": "2026-09-08T16:20:31.000Z"
+  },
+  {
+    "headline": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
+    "summary": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas, some riders have discovered the Cybercab's secret manual controls th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
+    "image_url": null,
+    "published_at": "2026-09-08T16:06:56.000Z"
+  },
+  {
+    "headline": "The White House pulls its racist Tetris clone",
+    "summary": "“Build the Wall” was pulled days after the White House launched its “arcade.” | Screenshot: The Verge The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade\" games, as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved stacking different-s…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
+    "image_url": null,
+    "published_at": "2026-09-08T16:00:51.000Z"
+  },
+  {
+    "headline": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+    "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+    "image_url": null,
+    "published_at": "2026-09-08T15:25:35.000Z"
+  },
+  {
     "headline": "Pusheen’s first game is coming to Apple Arcade",
     "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat. In the mix of minigames, you…",
     "publisher": "The Verge",
@@ -33,7 +105,7 @@
   },
   {
     "headline": "Mistral raises €3B as sovereign AI becomes big business",
-    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
     "image_url": null,
@@ -104,18 +176,18 @@
     "published_at": "2026-09-08T13:41:54.000Z"
   },
   {
-    "headline": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-    "summary": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project ti…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-    "image_url": null,
-    "published_at": "2026-09-08T13:00:00.000Z"
-  },
-  {
     "headline": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
     "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+    "image_url": null,
+    "published_at": "2026-09-08T13:00:00.000Z"
+  },
+  {
+    "headline": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+    "summary": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project ti…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
     "image_url": null,
     "published_at": "2026-09-08T13:00:00.000Z"
   },
@@ -1526,77 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
     "image_url": null,
     "published_at": "2026-09-01T17:00:00.000Z"
-  },
-  {
-    "headline": "Homey just made the smart home controller I hoped Apple would build",
-    "summary": "Homey’s new tactile touchscreen controller has a rotary dial for controlling lights, climate, music and more. Smart homes have gotten really good at making things really complicated. Turning on a light can involve multiple steps, compared to just flipping a switch. Homey, the Dutch-based smart home platform owned by LG…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/987462/homey-lg-smart-portal-smart-home-controller-price-specs-release-date",
-    "image_url": null,
-    "published_at": "2026-09-01T17:00:00.000Z"
-  },
-  {
-    "headline": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
-    "summary": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
-    "image_url": null,
-    "published_at": "2026-09-01T16:49:12.000Z"
-  },
-  {
-    "headline": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
-    "summary": "Samsung’s recently released Galaxy Z Fold 8 Ultra. | Image: The Verge If you missed the release promotions for the recent round of Samsung Galaxy phones, you’re in luck. The Samsung Galaxy Z Fold 8 Ultra is $300 off at Best Buy, the best deal we’ve seen since the phone launched last month. The phone impressed us with i…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-01T16:48:45.000Z"
-  },
-  {
-    "headline": "GoPro has been acquired and is getting into &#8216;defense, government, robotics and aerospace&#8217;",
-    "summary": "GoPro suddenly looks like a very different company than it did just last week. First, YouTuber Mark \"Markiplier\" Fischbach became the company's single largest shareholder, without disclosing that in a sponsored review that came out a week later. Now, almost the entire company has been bought by Starman Holding for $285…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
-    "image_url": null,
-    "published_at": "2026-09-01T16:46:08.000Z"
-  },
-  {
-    "headline": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-    "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-    "image_url": null,
-    "published_at": "2026-09-01T16:31:04.000Z"
-  },
-  {
-    "headline": "John Deere launched an AI chatbot for farmers",
-    "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing.…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-    "image_url": null,
-    "published_at": "2026-09-01T16:00:52.000Z"
-  },
-  {
-    "headline": "Sony’s new party speakers have more bass, more LEDs, and more connectivity",
-    "summary": "Sony announced three new tower-style party speakers that will now be the largest options in its ULT Power Sound lineup. The new ULT Tower Max, ULT Tower 7, and ULT Tower 5 all feature expanded connectivity including USB-C, RCA, and XLR ports for connecting to audio gear using physical cables. The new models also come w…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds",
-    "image_url": null,
-    "published_at": "2026-09-01T16:00:00.000Z"
-  },
-  {
-    "headline": "Google Pics is like Canva, but with even more AI",
-    "summary": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-    "image_url": null,
-    "published_at": "2026-09-01T16:00:00.000Z"
-  },
-  {
-    "headline": "GoPro to be acquired for $285M, will remain a public company",
-    "summary": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
-    "image_url": null,
-    "published_at": "2026-09-01T15:57:23.000Z"
   }
 ]

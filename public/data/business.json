@@ -1,11 +1,91 @@
 [
   {
+    "headline": "Chinese giants Xiaomi, Huawei race to get ahead of Apple’s rumored foldable iPhone",
+    "summary": "Xiaomi and Huawei launched new foldables ahead of Apple’s event, where the company is rumored to unveil its first foldable iPhone.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/xiaomi-huawei-apple-foldable-iphone.html",
+    "image_url": null,
+    "published_at": "2026-09-08T18:58:58.000Z"
+  },
+  {
     "headline": "Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
     "summary": "Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
     "image_url": null,
-    "published_at": "2026-09-08T15:21:57.000Z"
+    "published_at": "2026-09-08T18:52:20.000Z"
+  },
+  {
+    "headline": "When someone asks you a loaded question, use Gloria Steinem's powerful trick to reject their 'unfair framing,' says expert",
+    "summary": "Communication expert Dorie Clark calls it the \"word trade\" strategy. You can push back \"without seeming defensive,\" she says. Here's how.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/when-someone-asks-loaded-question-use-gloria-steinem-powerful-trick-reject-unfair-framing.html",
+    "image_url": null,
+    "published_at": "2026-09-08T18:17:46.000Z"
+  },
+  {
+    "headline": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
+    "summary": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+    "image_url": null,
+    "published_at": "2026-09-08T17:54:07.000Z"
+  },
+  {
+    "headline": "New Hampshire goes to the polls in primary for key open Senate seat",
+    "summary": "Incumbent Sen. Jeanne Shaheen, D-N.H., is retiring at the end of her term next year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+    "image_url": null,
+    "published_at": "2026-09-08T17:49:04.000Z"
+  },
+  {
+    "headline": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
+    "summary": "The latest U.S. action under \"Operation Economic Outcast\" targets all Iranian airlines that were not already facing sanctions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
+    "image_url": null,
+    "published_at": "2026-09-08T17:37:49.000Z"
+  },
+  {
+    "headline": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
+    "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+    "image_url": null,
+    "published_at": "2026-09-08T17:08:01.000Z"
+  },
+  {
+    "headline": "This data center stock is up over 1000% in the last five years. Trader Mike Khouw sees more gains",
+    "summary": "Vertiv shares are up a Micron-like 1043% over the past five years, so investors might be forgiven for profit taking.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/this-data-center-stock-is-up-over-1000percent-in-the-last-five-years-trader-mike-khouw-sees-more-gains.html",
+    "image_url": null,
+    "published_at": "2026-09-08T17:06:39.000Z"
+  },
+  {
+    "headline": "Cramer says these 2 stocks are big winners from OpenAI's new model release",
+    "summary": "Nvidia and Broadcom benefit from the success of Astra in their own ways.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/cramer-says-these-2-stocks-are-big-winners-from-openais-new-model-release-.html",
+    "image_url": null,
+    "published_at": "2026-09-08T16:41:42.000Z"
+  },
+  {
+    "headline": "UK announces new Israeli settlement sanctions, despite U.S. warning of economic consequences",
+    "summary": "U.S. officials have warned the U.K. of potential economic consequences if it moves ahead with sanctions targeting Israeli settlements in the West Bank.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/uk-israel-sanctions-miliband-florida-trump.html",
+    "image_url": null,
+    "published_at": "2026-09-08T15:47:26.000Z"
+  },
+  {
+    "headline": "Pharma major Novartis falls 10% after three drug trial setbacks",
+    "summary": "Shares of Novartis tanked on Tuesday after results from its del-desiran drug trial disappointed investors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/novartis-novn-del-desiran-drug-trial.html",
+    "image_url": null,
+    "published_at": "2026-09-08T15:29:52.000Z"
   },
   {
     "headline": "Here’s where rental demand is heading and what it means for future home sales",
@@ -24,30 +104,6 @@
     "published_at": "2026-09-08T15:09:35.000Z"
   },
   {
-    "headline": "Qualcomm issues Amazon warrants to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
-    "summary": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
-    "image_url": null,
-    "published_at": "2026-09-08T14:43:12.000Z"
-  },
-  {
-    "headline": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
-    "summary": "The latest U.S. action under \"Operation Economic Outcast\" targets all Iranian airlines that were not already facing sanctions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
-    "image_url": null,
-    "published_at": "2026-09-08T14:30:01.000Z"
-  },
-  {
-    "headline": "UK announces new Israeli settlement sanctions, despite U.S. warning of economic consequences",
-    "summary": "U.S. officials have warned the U.K. of potential economic consequences if it moves ahead with sanctions targeting Israeli settlements in the West Bank.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/08/uk-israel-sanctions-miliband-florida-trump.html",
-    "image_url": null,
-    "published_at": "2026-09-08T14:15:35.000Z"
-  },
-  {
     "headline": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat",
     "summary": "Sandoz CEO Richard Saynor warns steep U.S. tariffs on imported generic drugs could force manufacturers to raise prices or cut supply.",
     "publisher": "CNBC",
@@ -62,14 +118,6 @@
     "url": "https://www.cnbc.com/2026/09/08/australia-social-media-algorithm-opt-out.html",
     "image_url": null,
     "published_at": "2026-09-08T13:32:06.000Z"
-  },
-  {
-    "headline": "Pharma major Novartis falls 9% after three drug trial setbacks",
-    "summary": "Shares of Novartis tanked on Tuesday after results from its del-desiran drug trial disappointed investors.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/08/novartis-novn-del-desiran-drug-trial.html",
-    "image_url": null,
-    "published_at": "2026-09-08T13:26:15.000Z"
   },
   {
     "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
@@ -214,14 +262,6 @@
     "url": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
     "image_url": null,
     "published_at": "2026-09-08T03:54:54.000Z"
-  },
-  {
-    "headline": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
-    "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-    "image_url": null,
-    "published_at": "2026-09-08T02:05:30.000Z"
   },
   {
     "headline": "Here are the 3 big things we're watching in this holiday-shortened trading week",
@@ -1558,45 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/02/anthony-scaramucci-potomac-fever-bessent-lutnick.html",
     "image_url": null,
     "published_at": "2026-09-02T06:37:08.000Z"
-  },
-  {
-    "headline": "Oil major BP completes search for chair after boardroom upheaval",
-    "summary": "BP on Wednesday formally appointed Ian Tyler as chair after a surprise dismissal of former chairman Albert Manifold sparked boardroom turmoil.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
-    "image_url": null,
-    "published_at": "2026-09-02T06:21:36.000Z"
-  },
-  {
-    "headline": "Australia posts second-quarter growth of 2.1%, beating expectations",
-    "summary": "The GDP print will allow the Reserve Bank of Australia room to go ahead with its policy tightening as it seeks to curb inflation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
-    "image_url": null,
-    "published_at": "2026-09-02T03:05:14.000Z"
-  },
-  {
-    "headline": "Japanese green tea giant Ito En surges 8%, defying a broad market sell-off",
-    "summary": "Ito En shares surged, bucking a broader sell-off in Japanese stocks following its fiscal first-quarter results.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
-    "image_url": null,
-    "published_at": "2026-09-02T02:24:30.000Z"
-  },
-  {
-    "headline": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-    "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-    "image_url": null,
-    "published_at": "2026-09-02T00:11:14.000Z"
-  },
-  {
-    "headline": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
-    "summary": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
-    "image_url": null,
-    "published_at": "2026-09-01T23:52:21.000Z"
   }
 ]
