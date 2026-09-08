@@ -1,5 +1,181 @@
 [
   {
+    "headline": "Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities",
+    "summary": "Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+    "image_url": null,
+    "published_at": "2026-09-08T11:45:54.000Z"
+  },
+  {
+    "headline": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
+    "summary": "The full data reinforces hopes that the drug could be a breakthrough COPD treatment and reach AstraZeneca's peak annual sales forecast of more than $5 billion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/astrazeneca-copd-drug-tozorakimab-shows-positive-late-stage-trial-results.html",
+    "image_url": null,
+    "published_at": "2026-09-08T11:45:17.000Z"
+  },
+  {
+    "headline": "Santoli: One key tech ETF may signal whether this bull market can keep marching on",
+    "summary": "The winds have shifted back in favor of AI consumption plays over AI construction proxies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/santoli-one-key-tech-etf-may-signal-whether-this-bull-market-can-keep-marching-on.html",
+    "image_url": null,
+    "published_at": "2026-09-08T11:42:04.000Z"
+  },
+  {
+    "headline": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+    "summary": "Canada had condemned Iran’s \"destabilizing actions\" in the Middle East, saying that it would work with partners to maintain significant pressure on Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+    "image_url": null,
+    "published_at": "2026-09-08T11:31:38.000Z"
+  },
+  {
+    "headline": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+    "summary": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+    "image_url": null,
+    "published_at": "2026-09-08T11:30:01.000Z"
+  },
+  {
+    "headline": "Australia to let social media users 'opt out' of algorithm-based feeds in fresh blow to big tech",
+    "summary": "Australia plans to give social media users the option to switch off algorithm-based feeds in proposed legislation, serving as the latest blow to tech giants.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/australia-social-media-algorithm-opt-out.html",
+    "image_url": null,
+    "published_at": "2026-09-08T11:11:57.000Z"
+  },
+  {
+    "headline": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against",
+    "summary": "The Department of Energy has given grants to small battery tech companies. But the U.S. has a few years to do what took China decades.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/heres-where-the-us-is-behind-china-on-battery-technology.html",
+    "image_url": null,
+    "published_at": "2026-09-08T11:00:01.000Z"
+  },
+  {
+    "headline": "Has the economy gone C-shaped?",
+    "summary": "A K means the rich and poor are pulling apart. A C supposedly means they're coming back together. We hear the case for both. Which letter you see may depend on what you choose to pay attention to.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+    "image_url": null,
+    "published_at": "2026-09-08T10:30:00.000Z"
+  },
+  {
+    "headline": "Pharma major Novartis falls 9% after three drug trial setbacks",
+    "summary": "Shares of Novartis tanked on Tuesday after results from its del-desiran drug trial disappointed investors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/novartis-novn-del-desiran-drug-trial.html",
+    "image_url": null,
+    "published_at": "2026-09-08T09:23:07.000Z"
+  },
+  {
+    "headline": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand",
+    "summary": "TSMC and Samsung will adopt ASML’s High NA EUV tools for advanced chipmaking as AI drives demand for smaller, more complex semiconductors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html",
+    "image_url": null,
+    "published_at": "2026-09-08T08:32:02.000Z"
+  },
+  {
+    "headline": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+    "summary": "Duties on U.S. steel and aluminum products have doubled to 50% as a war of words between Washington and Ottawa continues.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+    "image_url": null,
+    "published_at": "2026-09-08T08:21:33.000Z"
+  },
+  {
+    "headline": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
+    "summary": "More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
+    "image_url": null,
+    "published_at": "2026-09-08T08:16:11.000Z"
+  },
+  {
+    "headline": "Global shipping authorities warn of maritime trade breakdown amid geopolitical turmoil",
+    "summary": "Eighteen maritime bodies warned Tuesday that geopolitical tensions and a growing shadow fleet threaten to undermine international shipping and weaken trade.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/global-shipping-iran-war-hormuz-rules.html",
+    "image_url": null,
+    "published_at": "2026-09-08T07:28:41.000Z"
+  },
+  {
+    "headline": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+    "summary": "Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+    "image_url": null,
+    "published_at": "2026-09-08T07:27:06.000Z"
+  },
+  {
+    "headline": "It's been a rough month of natural disasters. Here's a review of some of the worst",
+    "summary": "Natural disasters have intensified in the past month as the super El Nino phenomenon takes effect.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/natural-disasters-month-review-earthquake-volcano-flood.html",
+    "image_url": null,
+    "published_at": "2026-09-08T06:05:49.000Z"
+  },
+  {
+    "headline": "What to know about Canada's escalating trade war with the U.S.",
+    "summary": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods. The outcome could resonate far beyond Canada.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
+    "image_url": null,
+    "published_at": "2026-09-08T06:04:43.000Z"
+  },
+  {
+    "headline": "Cholesterol drug setback casts doubt over multibillion-dollar race",
+    "summary": "Novartis’ failure raises the stakes for Amgen and Eli Lilly in the race to turn lower Lp(a) levels into fewer heart attacks and strokes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+    "image_url": null,
+    "published_at": "2026-09-08T05:00:01.000Z"
+  },
+  {
+    "headline": "China's imports in August miss estimates as calls for rebalancing trade grow",
+    "summary": "China's exports and imports gathered momentum in August, as the world's second-largest economy faces mounting pressure to rebalance trade.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+    "image_url": null,
+    "published_at": "2026-09-08T04:45:07.000Z"
+  },
+  {
+    "headline": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+    "summary": "Wistron shares fall Tuesday after announcement of $1.5 billion global share sale",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
+    "image_url": null,
+    "published_at": "2026-09-08T03:54:54.000Z"
+  },
+  {
+    "headline": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
+    "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+    "image_url": null,
+    "published_at": "2026-09-08T02:05:30.000Z"
+  },
+  {
+    "headline": "Here are the 3 big things we're watching in this holiday-shortened trading week",
+    "summary": "The week will be dominated by inflation data. Plus, Apple's new CEO has his first big test.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week.html",
+    "image_url": null,
+    "published_at": "2026-09-07T23:31:25.000Z"
+  },
+  {
+    "headline": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+    "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+    "image_url": null,
+    "published_at": "2026-09-07T23:23:10.000Z"
+  },
+  {
     "headline": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
     "summary": "The chair of the National Transportation Safety Board didn't provide details on the cause of the crash in Miami, which killed at least five people.",
     "publisher": "CNBC",
@@ -14,14 +190,6 @@
     "url": "https://www.npr.org/2026/09/07/nx-s1-5947245/union-electricians-welcome-data-center-boom",
     "image_url": null,
     "published_at": "2026-09-07T20:46:32.000Z"
-  },
-  {
-    "headline": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
-    "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-    "image_url": null,
-    "published_at": "2026-09-07T18:52:24.000Z"
   },
   {
     "headline": "Far-right AfD landslide in German state piles pressure on federal government",
@@ -78,14 +246,6 @@
     "url": "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html",
     "image_url": null,
     "published_at": "2026-09-07T10:37:16.000Z"
-  },
-  {
-    "headline": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-    "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-    "image_url": null,
-    "published_at": "2026-09-07T09:26:54.000Z"
   },
   {
     "headline": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes",
@@ -1438,165 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
     "image_url": null,
     "published_at": "2026-09-01T20:40:30.000Z"
-  },
-  {
-    "headline": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
-    "summary": "The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
-    "image_url": null,
-    "published_at": "2026-09-01T20:34:47.000Z"
-  },
-  {
-    "headline": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
-    "summary": "Action camera maker GoPro is merging with private photonics company Starman Optical and joining the AI wave.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
-    "image_url": null,
-    "published_at": "2026-09-01T20:28:08.000Z"
-  },
-  {
-    "headline": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-    "summary": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
-    "image_url": null,
-    "published_at": "2026-09-01T20:20:50.000Z"
-  },
-  {
-    "headline": "Pa. Gov. Shapiro says too many data center developers 'don't care about our communities'",
-    "summary": "A Gallup survey released in May found that \"seven in 10 Americans oppose constructing data centers for artificial intelligence in their local area.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
-    "image_url": null,
-    "published_at": "2026-09-01T20:16:05.000Z"
-  },
-  {
-    "headline": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
-    "summary": "Meta Platforms has become a battleground stock.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
-    "image_url": null,
-    "published_at": "2026-09-01T19:48:20.000Z"
-  },
-  {
-    "headline": "AI token prices are hitting new record lows",
-    "summary": "A closely followed measure of artificial intelligence token prices touched fresh lows.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
-    "image_url": null,
-    "published_at": "2026-09-01T19:26:55.000Z"
-  },
-  {
-    "headline": "Prediction market traders think job creation rebounded in August",
-    "summary": "Traders see 50-50 odds that the U.S. economy added more than 50,000 jobs last month.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
-    "image_url": null,
-    "published_at": "2026-09-01T18:57:14.000Z"
-  },
-  {
-    "headline": "Bessent touts bond market as 10-year Treasury yield spikes",
-    "summary": "Treasury Secretary Scott Bessent downplayed short-term bond moves even as he touted the U.S. market, saying, \"what happens over a month doesn't matter.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/bessent-trump-bond-yields-g20.html",
-    "image_url": null,
-    "published_at": "2026-09-01T18:52:17.000Z"
-  },
-  {
-    "headline": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-    "summary": "Canadian Prime Minister Mark Carney said \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
-    "image_url": null,
-    "published_at": "2026-09-01T18:52:11.000Z"
-  },
-  {
-    "headline": "Anthropic changes data retention policy after pushback from customers",
-    "summary": "Anthropic's Enterprise Frontier Safeguards are a response to customer feedback.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html",
-    "image_url": null,
-    "published_at": "2026-09-01T18:29:17.000Z"
-  },
-  {
-    "headline": "We're sitting on more cash than at any time this year. Here's why",
-    "summary": "Cash management is an important part of managing risk. This current market demands our attention.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/were-sitting-on-more-cash-than-at-any-time-this-year-heres-why.html",
-    "image_url": null,
-    "published_at": "2026-09-01T18:02:14.000Z"
-  },
-  {
-    "headline": "Crypto enters September with legislative policy gamble hanging by a thread",
-    "summary": "Comprehensive industry legislation teeters on the brink amid growing doubts the bill will cross the finish line.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/crypto-enters-september-with-policy-gamble-hanging-by-a-thread.html",
-    "image_url": null,
-    "published_at": "2026-09-01T16:43:34.000Z"
-  },
-  {
-    "headline": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI",
-    "summary": "SB Energy hasn't generated any revenue from its data center business, and none of its data centers are operational yet.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
-    "image_url": null,
-    "published_at": "2026-09-01T16:40:27.000Z"
-  },
-  {
-    "headline": "How one of the largest investors in student housing is playing this school year",
-    "summary": "Mike Gordon of Harrison Street Asset Management said funding cuts and enrollment trends are making specialization more vital than ever.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
-    "image_url": null,
-    "published_at": "2026-09-01T16:36:55.000Z"
-  },
-  {
-    "headline": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
-    "summary": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
-    "image_url": null,
-    "published_at": "2026-09-01T16:27:54.000Z"
-  },
-  {
-    "headline": "Students are reconsidering their majors, career paths and industries due to AI: CNBC survey",
-    "summary": "As AI continues to reshape industries, some students are wondering what their careers will look like once they graduate.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/students-are-reconsidering-majors-career-paths-due-to-ai-cnbc-survey.html",
-    "image_url": null,
-    "published_at": "2026-09-01T16:17:59.000Z"
-  },
-  {
-    "headline": "Used cars under $20,000 tend to sell quickly — but there are trade-offs for buyers",
-    "summary": "The share of used cars listed at under $20,000 has dropped from pre-pandemic levels against a backdrop of high inflation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/used-cars-under-20000-sell-quickly-tradeoffs.html",
-    "image_url": null,
-    "published_at": "2026-09-01T15:49:08.000Z"
-  },
-  {
-    "headline": "Bessent reportedly tells Russia it won't get economic relief until it ends Ukraine war",
-    "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-    "image_url": null,
-    "published_at": "2026-09-01T14:31:10.000Z"
-  },
-  {
-    "headline": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-    "summary": "Indian PM Narendra Modi has urged Russia to end the Ukraine war and to cease hostilities.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-    "image_url": null,
-    "published_at": "2026-09-01T14:23:00.000Z"
-  },
-  {
-    "headline": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-    "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-    "image_url": null,
-    "published_at": "2026-09-01T14:01:27.000Z"
   }
 ]

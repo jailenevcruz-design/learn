@@ -1,5 +1,45 @@
 [
   {
+    "headline": "LG TVs caught spying even when offline or on standby",
+    "summary": "The LG G5 OLED is one of the TVs tested by Gamers Nexus. | Photo by John Higgins / The Verge LG smart TVs are almost constantly logging and uploading data about owners and their homes, even when offline or on standby mode, according to a new report from YouTube channel Gamers Nexus. The company's TV sets scan Wi-Fi net…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+    "image_url": null,
+    "published_at": "2026-09-08T11:30:05.000Z"
+  },
+  {
+    "headline": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+    "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+    "image_url": null,
+    "published_at": "2026-09-08T09:00:00.000Z"
+  },
+  {
+    "headline": "Xiaomi’s wide foldable promises more power than Samsung’s",
+    "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel like the phone I wish Samsung had…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+    "image_url": null,
+    "published_at": "2026-09-08T07:00:00.000Z"
+  },
+  {
+    "headline": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+    "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+    "image_url": null,
+    "published_at": "2026-09-08T02:16:39.000Z"
+  },
+  {
+    "headline": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+    "summary": "The Xiaomi 18 Fold and its Xring O3 chip. China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+    "image_url": null,
+    "published_at": "2026-09-08T02:00:00.000Z"
+  },
+  {
     "headline": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
     "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surpri…",
     "publisher": "The Verge",
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
     "image_url": null,
     "published_at": "2026-09-01T00:30:00.000Z"
-  },
-  {
-    "headline": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "image_url": null,
-    "published_at": "2026-09-01T00:13:00.000Z"
-  },
-  {
-    "headline": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
-    "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-    "image_url": null,
-    "published_at": "2026-08-31T23:41:10.000Z"
-  },
-  {
-    "headline": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-    "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-    "image_url": null,
-    "published_at": "2026-08-31T23:14:14.000Z"
-  },
-  {
-    "headline": "The Google TV Streamer now costs $50 more",
-    "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new lineup of Pixel 11 phones w…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-    "image_url": null,
-    "published_at": "2026-08-31T22:32:51.000Z"
-  },
-  {
-    "headline": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-    "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-    "image_url": null,
-    "published_at": "2026-08-31T22:14:05.000Z"
   }
 ]
