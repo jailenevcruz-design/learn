@@ -1,11 +1,35 @@
 [
   {
+    "headline": "Australian social media users to be offered choice to opt out of algorithms",
+    "summary": "A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+    "image_url": null,
+    "published_at": "2026-09-08T13:24:00.000Z"
+  },
+  {
+    "headline": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
+    "summary": "Britain announces a ban on goods from Israeli settlements in the occupied West Bank, prompting warnings of US repercussions and an angry response from Israel.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
+    "image_url": null,
+    "published_at": "2026-09-08T13:05:20.000Z"
+  },
+  {
     "headline": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
     "summary": "Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
     "image_url": null,
     "published_at": "2026-09-08T11:20:05.000Z"
+  },
+  {
+    "headline": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+    "summary": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
+    "image_url": null,
+    "published_at": "2026-09-08T10:46:03.000Z"
   },
   {
     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
     "image_url": null,
     "published_at": "2026-08-11T11:11:14.000Z"
-  },
-  {
-    "headline": "Former Syrian President Assad sentenced to death in absentia",
-    "summary": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria's 14-year conflict that left about half a million people dead.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-    "image_url": null,
-    "published_at": "2026-08-11T10:07:14.000Z"
-  },
-  {
-    "headline": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
-    "summary": "Kashmir, the disputed region at the center of the rivalry between Pakistan and India, is now holding elections amid demands for better representation and calls for a boycott.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5927084/pakistan-administered-kashmir-holds-elections-amid-calls-for-a-boycott",
-    "image_url": null,
-    "published_at": "2026-08-11T08:31:41.000Z"
-  },
-  {
-    "headline": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
-    "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-    "image_url": null,
-    "published_at": "2026-08-11T06:03:49.000Z"
   }
 ]
