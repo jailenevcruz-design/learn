@@ -1,5 +1,245 @@
 [
   {
+    "headline": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+    "summary": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images) OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking d…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+    "image_url": null,
+    "published_at": "2026-09-09T21:16:34.000Z"
+  },
+  {
+    "headline": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+    "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+    "image_url": null,
+    "published_at": "2026-09-09T20:58:09.000Z"
+  },
+  {
+    "headline": "Read the Apple document explaining how new listening features still protect your privacy",
+    "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. I…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "image_url": null,
+    "published_at": "2026-09-09T20:44:43.000Z"
+  },
+  {
+    "headline": "How the new Apple Watches compare to the last-gen models",
+    "summary": "The new Apple Watches come in a variety of material and strap combinations. Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at the \"Surprise and shine\" event. The new watches feature sizable improvements to the health sensors and tracking, plus the ability to recite audio transcriptions and summaries…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
+    "image_url": null,
+    "published_at": "2026-09-09T20:42:51.000Z"
+  },
+  {
+    "headline": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "image_url": null,
+    "published_at": "2026-09-09T20:24:48.000Z"
+  },
+  {
+    "headline": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "image_url": null,
+    "published_at": "2026-09-09T20:03:43.000Z"
+  },
+  {
+    "headline": "There are new shiny iPhones, so Apple is making you pay more for older models",
+    "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+    "image_url": null,
+    "published_at": "2026-09-09T19:56:18.000Z"
+  },
+  {
+    "headline": "Verge staffers react to the iPhone Duo: What we love and don’t love",
+    "summary": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software tricks to make iOS feel more at home on the new device. Preorders start on October 16t…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
+    "image_url": null,
+    "published_at": "2026-09-09T19:45:00.000Z"
+  },
+  {
+    "headline": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+    "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and Pro Max will only authen…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+    "image_url": null,
+    "published_at": "2026-09-09T19:30:12.000Z"
+  },
+  {
+    "headline": "iPhone 18 Pro and Pro Max: Our first hands-on impressions",
+    "summary": "The 18 Pro in burgundy is ready for fall. We've just gotten our hands on the iPhone 18 Pro and Pro Max at Apple Park following the company's \"Surprise and shine\" presentation. The new phones look quite similar to the previous iPhone 17 Pro lineup, keeping the same general design, aluminum body, and screen sizes. The 18…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event",
+    "image_url": null,
+    "published_at": "2026-09-09T19:26:36.000Z"
+  },
+  {
+    "headline": "The hinge for Apple’s new foldable phone was built with AI",
+    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "image_url": null,
+    "published_at": "2026-09-09T19:21:48.000Z"
+  },
+  {
+    "headline": "Apple Watch’s new feature listens to your chats and recaps them",
+    "summary": "The Siri Recap feature is similar to other note-taking apps like Granola.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
+    "image_url": null,
+    "published_at": "2026-09-09T19:08:59.000Z"
+  },
+  {
+    "headline": "Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4",
+    "summary": "After Apple wrapped up its \"Surprise and shine\" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Both of the new watches launch September 18th, with preorders available starting today. The Apple Watch Series 12 once again starts at $399 for the aluminum case option in space gray, bl…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
+    "image_url": null,
+    "published_at": "2026-09-09T18:53:48.000Z"
+  },
+  {
+    "headline": "Here’s how the new iPhone 18 Pro stacks up to the last-gen models",
+    "summary": "Apple's release cadence for the latest iPhones is unusual. It'll start with the 18 Pro models, then with the foldable iPhone Duo releasing in October for $1,999. It hasn't confirmed when its base iPhone 18 model will launch. So this post is focused just on the new the 18 Pro and the 18 Pro Max. Both phones are launchin…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features",
+    "image_url": null,
+    "published_at": "2026-09-09T18:53:43.000Z"
+  },
+  {
+    "headline": "Hands-on with the foldable iPhone Duo",
+    "summary": "The first foldable iPhone is finally here, and following its announcement, we got the chance to try the phone for ourselves. We've long been told that Apple would make a foldable iPhone once the tech was good enough - has it been worth the wait? It definitely feels like something different. The inner screen has a decid…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions",
+    "image_url": null,
+    "published_at": "2026-09-09T18:38:40.000Z"
+  },
+  {
+    "headline": "Harvey hits $15.5B valuation, months after reaching $11B",
+    "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+    "image_url": null,
+    "published_at": "2026-09-09T18:34:24.000Z"
+  },
+  {
+    "headline": "Apple is raising iPhone prices by $100 on all of its old models",
+    "summary": "Following Apple's \"Surprise and shine\" event that saw the announcement of the iPhone Duo and the iPhone 18 Pro, the company increased the price on all of its last-gen iPhones that are still available for purchase. The iPhone 16 sold for $699 just last week, and now it's up to $799. The iPhone 17E with 256GB of storage…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
+    "image_url": null,
+    "published_at": "2026-09-09T18:30:24.000Z"
+  },
+  {
+    "headline": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+    "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "image_url": null,
+    "published_at": "2026-09-09T18:16:29.000Z"
+  },
+  {
+    "headline": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+    "summary": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+    "image_url": null,
+    "published_at": "2026-09-09T18:08:46.000Z"
+  },
+  {
+    "headline": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "image_url": null,
+    "published_at": "2026-09-09T18:08:35.000Z"
+  },
+  {
+    "headline": "Apple shows off AirPods 5 with improved active noise cancellation",
+    "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+    "image_url": null,
+    "published_at": "2026-09-09T18:06:40.000Z"
+  },
+  {
+    "headline": "Apple unveils its first foldable, the iPhone Duo",
+    "summary": "Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid in a better aspect ratio while watching videos when the device is unfolded.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+    "image_url": null,
+    "published_at": "2026-09-09T17:58:14.000Z"
+  },
+  {
+    "headline": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "summary": "The company also argued that its on-device models offer consumers more privacy.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "image_url": null,
+    "published_at": "2026-09-09T17:36:05.000Z"
+  },
+  {
+    "headline": "Apple launches iPhone 18 Pro with upgraded camera",
+    "summary": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+    "image_url": null,
+    "published_at": "2026-09-09T17:26:05.000Z"
+  },
+  {
+    "headline": "DOJ wants more answers on Fox’s $22B Roku deal",
+    "summary": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust […]",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+    "image_url": null,
+    "published_at": "2026-09-09T16:44:21.000Z"
+  },
+  {
+    "headline": "Superintelligence is coming. Should we let it?",
+    "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this ep…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+    "image_url": null,
+    "published_at": "2026-09-09T16:05:35.000Z"
+  },
+  {
+    "headline": "Viral AI assistant Instinct now has its own email address",
+    "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "image_url": null,
+    "published_at": "2026-09-09T15:13:12.000Z"
+  },
+  {
+    "headline": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+    "summary": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+    "image_url": null,
+    "published_at": "2026-09-09T15:10:41.000Z"
+  },
+  {
+    "headline": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "image_url": null,
+    "published_at": "2026-09-09T15:02:47.000Z"
+  },
+  {
+    "headline": "Shipt becomes the latest delivery app with an AI shopping assistant",
+    "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "image_url": null,
+    "published_at": "2026-09-09T14:51:45.000Z"
+  },
+  {
     "headline": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
     "summary": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
     "publisher": "TechCrunch",
@@ -1358,245 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
     "image_url": null,
     "published_at": "2026-09-02T20:19:14.000Z"
-  },
-  {
-    "headline": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-    "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-    "image_url": null,
-    "published_at": "2026-09-02T20:12:41.000Z"
-  },
-  {
-    "headline": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "image_url": null,
-    "published_at": "2026-09-02T20:11:40.000Z"
-  },
-  {
-    "headline": "It sure looks like hackers breached a major ID card verification service",
-    "summary": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-    "image_url": null,
-    "published_at": "2026-09-02T19:35:09.000Z"
-  },
-  {
-    "headline": "Delivery Hero board backs Uber’s $15B takeover bid",
-    "summary": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-    "image_url": null,
-    "published_at": "2026-09-02T19:25:35.000Z"
-  },
-  {
-    "headline": "Here are some of REI’s best Labor Day sale deals",
-    "summary": "The discounted Garmin InReach 3 Mini can help you stay in touch when you’re out in the wilderness. | Image: Garmin Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-    "image_url": null,
-    "published_at": "2026-09-02T18:56:59.000Z"
-  },
-  {
-    "headline": "1Password wades into a right-wing mess after funding a Linux project",
-    "summary": "David Faugno, CEO at 1Password, at the Web Summit conference in Lisbon, Portugal, on November 11th, 2025. | Photo: Zed Jameson / Bloomberg via Getty Image 1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularl…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-    "image_url": null,
-    "published_at": "2026-09-02T18:48:14.000Z"
-  },
-  {
-    "headline": "Amazon’s AI assistant can now spot fake emails from the company",
-    "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare it \"against a r…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-    "image_url": null,
-    "published_at": "2026-09-02T17:52:56.000Z"
-  },
-  {
-    "headline": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startu…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "image_url": null,
-    "published_at": "2026-09-02T17:18:13.000Z"
-  },
-  {
-    "headline": "X shifts US creator payouts from Stripe to X Money",
-    "summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-    "image_url": null,
-    "published_at": "2026-09-02T17:12:27.000Z"
-  },
-  {
-    "headline": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "image_url": null,
-    "published_at": "2026-09-02T17:09:06.000Z"
-  },
-  {
-    "headline": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
-    "summary": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spaceship-looking pod as a Range Rover. Sometimes familiar designs are th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
-    "image_url": null,
-    "published_at": "2026-09-02T17:01:08.000Z"
-  },
-  {
-    "headline": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-    "summary": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-    "image_url": null,
-    "published_at": "2026-09-02T16:54:23.000Z"
-  },
-  {
-    "headline": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-    "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\"…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-    "image_url": null,
-    "published_at": "2026-09-02T16:40:50.000Z"
-  },
-  {
-    "headline": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-    "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" i…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-    "image_url": null,
-    "published_at": "2026-09-02T16:12:25.000Z"
-  },
-  {
-    "headline": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-    "image_url": null,
-    "published_at": "2026-09-02T16:04:10.000Z"
-  },
-  {
-    "headline": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-    "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-    "image_url": null,
-    "published_at": "2026-09-02T16:01:48.000Z"
-  },
-  {
-    "headline": "Google is sending MrBeast into the wilderness, armed with AI",
-    "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-    "image_url": null,
-    "published_at": "2026-09-02T15:47:03.000Z"
-  },
-  {
-    "headline": "Google dodges another breakup attempt",
-    "summary": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would adopt most of the behavioral changes proposed by the parties, w…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
-    "image_url": null,
-    "published_at": "2026-09-02T15:42:17.000Z"
-  },
-  {
-    "headline": "Continuous glucose monitors are about to get more complicated",
-    "summary": "The Abbot Libre Duo is the first FDA authorized 2-in-1 continuous glucose monitor. | Image: Abbott This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. My mo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis",
-    "image_url": null,
-    "published_at": "2026-09-02T15:30:00.000Z"
-  },
-  {
-    "headline": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "image_url": null,
-    "published_at": "2026-09-02T15:01:23.000Z"
-  },
-  {
-    "headline": "Belkin’s kid-friendly wireless headphones are 25 percent off",
-    "summary": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you’re willing to spend a bit more. | Image: The Verge Verge readers can get a discount on Belkin’s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a mode th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-02T14:58:15.000Z"
-  },
-  {
-    "headline": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "image_url": null,
-    "published_at": "2026-09-02T14:56:34.000Z"
-  },
-  {
-    "headline": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-    "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, te…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-    "image_url": null,
-    "published_at": "2026-09-02T14:35:03.000Z"
-  },
-  {
-    "headline": "Adobe acquires Indian market intelligence startup Rilo",
-    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "image_url": null,
-    "published_at": "2026-09-02T14:03:57.000Z"
-  },
-  {
-    "headline": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
-    "summary": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
-    "image_url": null,
-    "published_at": "2026-09-02T13:11:47.000Z"
-  },
-  {
-    "headline": "Adobe is making its tools available in Slack",
-    "summary": "Users will be able to access Express, Premiere, and Acrobat in Slack",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
-    "image_url": null,
-    "published_at": "2026-09-02T13:09:27.000Z"
-  },
-  {
-    "headline": "Uber is laying off 10% of staff, or 3,300 people",
-    "summary": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
-    "image_url": null,
-    "published_at": "2026-09-02T12:14:35.000Z"
-  },
-  {
-    "headline": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-    "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-    "image_url": null,
-    "published_at": "2026-09-02T12:09:42.000Z"
-  },
-  {
-    "headline": "This new Roomba seals itself to your carpet",
-    "summary": "The Roomba Max 875 Combo is iRobot’s latest flagship robot vacuum mop. | Image: iRobot iRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner, Picea Robotics, the contr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
-    "image_url": null,
-    "published_at": "2026-09-02T06:00:00.000Z"
-  },
-  {
-    "headline": "Larry Page’s flying car company Pivotal loses its CEO",
-    "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-    "image_url": null,
-    "published_at": "2026-09-01T23:59:59.000Z"
   }
 ]

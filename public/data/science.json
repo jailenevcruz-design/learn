@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Are we any closer to detecting dark matter?",
+    "summary": "NPR's Scott Detrow talks with theoretical astrophysicist Priyamvada Natarajan of Yale University about a strange blip recorded by a dark matter detector in South Dakota and what the fluke could mean.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5954173/are-we-any-closer-to-detecting-dark-matter",
+    "image_url": null,
+    "published_at": "2026-09-09T20:54:52.000Z"
+  },
+  {
     "headline": "Scientists find a bone-building switch that could fight osteoporosis",
     "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to stronger muscles, researchers see intriguing potential for combating age-related decline and osteoporosis…",
     "publisher": "ScienceDaily",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
     "image_url": null,
     "published_at": "2026-08-24T10:31:15.000Z"
-  },
-  {
-    "headline": "Scientists just imaged the hidden quantum shape of a molecule",
-    "summary": "Researchers have found a way to create a complete 3D image of a molecule’s wavefunction, one of quantum mechanics’ most fundamental yet elusive features. By combining advanced photoelectron measurements with newly designed algorithms, the University of Göttingen team reconstructed the molecular orbital of a nanometer-s…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260822015213.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T09:55:19.000Z"
   }
 ]

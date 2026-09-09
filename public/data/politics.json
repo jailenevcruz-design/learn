@@ -1,11 +1,35 @@
 [
   {
+    "headline": "Republicans kick off unconventional midterm convention in Dallas with Trump speech",
+    "summary": "Republicans' first midterm convention, being touted as a \"Trumpapalooza\" by the Republican Party chairman, kicks off in Dallas with a program focused heavily on tax cuts and border security.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5963200/republicans-kick-off-unconventional-midterm-convention-in-dallas-with-trump-speech",
+    "image_url": null,
+    "published_at": "2026-09-09T20:36:20.000Z"
+  },
+  {
+    "headline": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
+    "summary": "Prosecutors told the court that Andrew and Tristan Tate boasted about having multiple passports and flying on private jets. But the Tates' lawyers argued they were only playing a role for their fans.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5954174/andrew-tate-bail-extradition-jail",
+    "image_url": null,
+    "published_at": "2026-09-09T17:23:15.000Z"
+  },
+  {
     "headline": "Trump officials propose sweeping changes to the census that would reshape voting maps",
     "summary": "A Trump census proposal would stop asking about race and exclude millions of U.S. residents from a count that the 14th Amendment says must include the \"whole number of persons in each state.\"",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/09/nx-s1-5845147/trump-us-census-citizenship-question-race-categories",
     "image_url": null,
     "published_at": "2026-09-09T12:58:43.000Z"
+  },
+  {
+    "headline": "National Guard member arrested after drawing gun on fellow soldier in D.C.",
+    "summary": "A member of the Georgia National Guard deployed in Washington, D.C., as part of a task force to fight crime, has been arrested for pulling a gun on a fellow Guard member in an alleged dispute over regulation haircuts.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrest-dc-deployment",
+    "image_url": null,
+    "published_at": "2026-09-09T09:05:03.000Z"
   },
   {
     "headline": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
@@ -24,18 +48,18 @@
     "published_at": "2026-09-09T09:00:00.000Z"
   },
   {
-    "headline": "Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas",
-    "summary": "Republicans have never held a midterm convention before. But there's also never been a president like Donald Trump. Billed as a \"Trumpapalooza,\" the unprecedented event kicks of in Dallas Wednesday.",
+    "headline": "Ballot seizures seemed impossible. But judges and officials are prepping for them now",
+    "summary": "The idea of law enforcement taking possession of ballots in the middle of an active election used to be considered impossible. Now, it's a scenario voting officials — and judges — are training for.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
     "image_url": null,
     "published_at": "2026-09-09T09:00:00.000Z"
   },
   {
-    "headline": "Ballot seizures seemed impossible. Now judges are training on what to do if it happens",
-    "summary": "The idea of law enforcement taking possession of ballots in the middle of an active election used to be considered impossible. Now, it's a scenario voting officials — and judges — are training for.",
+    "headline": "Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas",
+    "summary": "Republicans have never held a midterm convention before. But there's also never been a president like Donald Trump. Billed as a \"Trumpapalooza,\" the unprecedented event kicks of in Dallas Wednesday.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
     "image_url": null,
     "published_at": "2026-09-09T09:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/08/05/nx-s1-5913997/the-local-impact-of-changing-federal-grant-rules",
     "image_url": null,
     "published_at": "2026-08-05T20:22:55.000Z"
-  },
-  {
-    "headline": "Senator Bernie Sanders on the results of this week's primaries",
-    "summary": "NPR's Mary Louise Kelly talks with Senator Bernie Sanders (I-VT) about what voters can take away from the results of this week's primaries, including a major win for progressives in Michigan.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/05/nx-s1-5920320/senator-bernie-sanders-on-the-results-of-this-weeks-primaries",
-    "image_url": null,
-    "published_at": "2026-08-05T20:22:53.000Z"
-  },
-  {
-    "headline": "How Trump made an estimated $2.2 billion during the first year of his second term",
-    "summary": "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
-    "image_url": null,
-    "published_at": "2026-08-05T17:41:17.000Z"
-  },
-  {
-    "headline": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
-    "summary": "A judge has granted the Justice Department's bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
-    "image_url": null,
-    "published_at": "2026-08-05T17:14:46.000Z"
   }
 ]

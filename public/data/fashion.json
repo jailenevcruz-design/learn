@@ -1,5 +1,181 @@
 [
   {
+    "headline": "Adam Lippes Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/adam-lippes",
+    "image_url": null,
+    "published_at": "2026-09-09T21:15:17.000Z"
+  },
+  {
+    "headline": "Rachel Comey Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rachel-comey",
+    "image_url": null,
+    "published_at": "2026-09-09T21:15:17.000Z"
+  },
+  {
+    "headline": "Cult Gaia Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cult-gaia",
+    "image_url": null,
+    "published_at": "2026-09-09T21:15:17.000Z"
+  },
+  {
+    "headline": "Every Celebrity On the Front Row at New York Fashion Week Spring 2027",
+    "summary": "See all of the well-clad stars sitting front row at the spring 2027 shows in New York.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/celebrities-front-row-new-york-fashion-week-spring-2027",
+    "image_url": null,
+    "published_at": "2026-09-09T21:11:15.000Z"
+  },
+  {
+    "headline": "Coco Gauff Comes Back to Reach US Open Semifinals in Custom New Balance Dresses and New Colorway of Her CG2 Signature Shoes",
+    "summary": "The 2023 tournament champion is looking to reclaim the title in her home Grand Slam.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/coco-gauff-us-open-custom-new-balance-dress-shoes-details-1239178455/",
+    "image_url": null,
+    "published_at": "2026-09-09T21:11:11.000Z"
+  },
+  {
+    "headline": "Alibaba.com Touts Cost Savings of Accio AI",
+    "summary": "Alibaba.com released the results from a 107-task benchmark evaluation of its AI agent platform for e-commerce.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/alibaba-touts-cost-savings-of-accio-ai-ecommerce-1239203415/",
+    "image_url": null,
+    "published_at": "2026-09-09T21:05:51.000Z"
+  },
+  {
+    "headline": "First Look: Michael Jordan’s Most Popular Air Jordan Is Getting a New ‘Pink Thunder’ Makeover",
+    "summary": "The women's-exclusive Air Jordan 4 Retro style will arrive at retail this holiday season.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-4-retro-pink-thunder-release-date-hv0823-001-1239204500/",
+    "image_url": null,
+    "published_at": "2026-09-09T20:57:06.000Z"
+  },
+  {
+    "headline": "Vans and SZA Invite Fans to First Look of Their ‘Vansza’ Collection During New York Fashion Week",
+    "summary": "The experience is open to the public on Thursday.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/sneaker-news/vans-sza-collection-new-york-fashion-week-1239204257/",
+    "image_url": null,
+    "published_at": "2026-09-09T20:41:34.000Z"
+  },
+  {
+    "headline": "US-Iran Strikes Push Oil Above $100 as Hormuz Traffic Remains Sluggish",
+    "summary": "Shipping traffic through the Strait of Hormuz fell to six vessels Tuesday as the countries traded attacks in the area, raising more concerns over global energy and supply chains.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/logistics/strait-of-hormuz-us-iran-war-strikes-oil-prices-100-ocean-freight-traffic-1239204188/",
+    "image_url": null,
+    "published_at": "2026-09-09T20:32:36.000Z"
+  },
+  {
+    "headline": "Tracee Ellis Ross on Her Approach to Getting Dressed and the Black Designers That Shaped Her",
+    "summary": "Ross became a sponsor at the Harlem's Fashion Row Fashion Show and Style Awards through her brand Pattern Beauty.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-trends/tracee-ellis-ross-style-harlems-fashion-row-1239204066/",
+    "image_url": null,
+    "published_at": "2026-09-09T20:16:34.000Z"
+  },
+  {
+    "headline": "Exclusive: Rosé Shares the Story Behind Her New Single, “New Trick”",
+    "summary": "The song comes with a Dave Meyers-directed music video shot entirely on an iPhone.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/rose-shares-the-story-behind-new-trick",
+    "image_url": null,
+    "published_at": "2026-09-09T20:11:43.000Z"
+  },
+  {
+    "headline": "Timberland Brings Back Archival Photos of The Notorious B.I.G., Ozzy Osbourne and More for ‘A to Z’ Campaign",
+    "summary": "The photo series also features present-day public figures like Olympian Sha’Carri Richardson.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/timberland-notorious-big-ozzy-osbourne-archive-photos-1239204430/",
+    "image_url": null,
+    "published_at": "2026-09-09T19:29:25.000Z"
+  },
+  {
+    "headline": "Reza Takes Residence at Bergdorf Goodman",
+    "summary": "A space within Bergdorf's first-floor jewelry salon has been reimagined to temporarily spotlight Reza's history, artistry and contemporary vision.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/accessories-news/jewelry/reza-high-jewelry-bergdorf-goodman-1239195118/",
+    "image_url": null,
+    "published_at": "2026-09-09T19:16:13.000Z"
+  },
+  {
+    "headline": "Ari Hoffman Named Board Chairman of TômTex Biomaterials",
+    "summary": "The Brooklyn-based company makes a 100 percent bio-based, plastic-free and fully compostable material.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/ari-hoffman-chairman-tomtex-biomaterials-1239204309/",
+    "image_url": null,
+    "published_at": "2026-09-09T18:57:53.000Z"
+  },
+  {
+    "headline": "Jonathan Anderson to Pick Up Top Award at London Design Festival",
+    "summary": "Dior's creative director and the founder of JW Anderson has won the London Design Medal, which he'll pick up on Monday during an event at RH London, The Gallery in Mayfair during London Design Week.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/jonathan-anderson-wins-top-medal-london-design-festival-1239203638/",
+    "image_url": null,
+    "published_at": "2026-09-09T18:56:40.000Z"
+  },
+  {
+    "headline": "At Reracked Vintage, Roberto Cavalli Like You’ve Never Seen Him Before",
+    "summary": "A Fashion Week exhibition reveals a lesser-known, quieter, and artier side of a designer known for his love of extroverted extravagance.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/at-reracked-vintage-roberto-cavalli-like-youve-never-seen-him-before",
+    "image_url": null,
+    "published_at": "2026-09-09T18:53:44.000Z"
+  },
+  {
+    "headline": "Ashley and Mary-Kate Olsen Have Different Takes on Transeasonal Style",
+    "summary": "The Olsen sisters and designers made a rare appearance on the streets of New York, wearing—and carrying—multiple options for the uncertain September climate.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/ashley-mary-kate-olsen-transeasonal-style-new-york",
+    "image_url": null,
+    "published_at": "2026-09-09T18:33:31.000Z"
+  },
+  {
+    "headline": "How to Add Volume to Thin Hair, According to the Pros",
+    "summary": "Fine, thin hair may need some help when wanting to add volume. Here, experts break down their best tips and products on how to add volume to thin hair.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-to-add-volume-to-thin-hair",
+    "image_url": null,
+    "published_at": "2026-09-09T16:08:11.000Z"
+  },
+  {
+    "headline": "The 2026 CFDA Nominees and Honorees Are In—Anthony Vaccarello Named International Designer of the Year",
+    "summary": "From Ralph Lauren to Carolina Herrera and Public School New York, this year’s CFDA nominees represent an exciting lineup of American fashion legacies.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-2026-cfda-nominees-and-honorees-are-in-anthony-vaccarello-named-international-designer-of-the-year",
+    "image_url": null,
+    "published_at": "2026-09-09T16:00:00.000Z"
+  },
+  {
+    "headline": "Viva Las Lower East Side! Inside NYC’s New Vegas-Style Wedding Chapel",
+    "summary": "Vogue pays a visit to the newly opened Sure Thing Chapel on Allen Street to meet the couples tying the knot there—as well as Hellvis, the signature Elvis impersonator, and Tillie the Clown.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/inside-sure-thing-chapel-nyc-lower-east-side",
+    "image_url": null,
+    "published_at": "2026-09-09T16:00:00.000Z"
+  },
+  {
+    "headline": "Ever Anderson Walks in Her Mother Milla Jovovich’s Footsteps",
+    "summary": "In vintage and Christian Dior, the \"Father Joe\" actress made romance blossom on the red carpet.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/ever-anderson-walks-in-her-mother-milla-jovovich-s-footsteps",
+    "image_url": null,
+    "published_at": "2026-09-09T15:47:51.000Z"
+  },
+  {
+    "headline": "At This Es Devlin-Curated Design Exhibition in Venice, Nothing Is Quite as It Appears",
+    "summary": "At the latest Homo Faber biennial in Venice, the celebrated British artist and designer presents an ode to craft in all its forms.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/homo-faber-2026-design-exhibition-venice-es-devlin",
+    "image_url": null,
+    "published_at": "2026-09-09T15:46:39.000Z"
+  },
+  {
     "headline": "Rag & Bone Spring 2027 Ready-to-Wear",
     "summary": "",
     "publisher": "Vogue",
@@ -104,18 +280,18 @@
     "published_at": "2026-09-09T13:00:17.000Z"
   },
   {
-    "headline": "From a Swiss Forest, Marcela Velez’s New Line of Numerology-Inspired Bags Emerges",
-    "summary": "“There are no coincidences,” says Marcela Velez, whose new made-to-order handbag venture, House Number .01, rethinks the traditional fashion model.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/from-a-swiss-forest-marcela-velezs-new-line-of-numerology-inspired-bags-emerges",
-    "image_url": null,
-    "published_at": "2026-09-09T13:00:00.000Z"
-  },
-  {
     "headline": "Jonathan Cohen Joins J. Mendel",
     "summary": "Jonathan Cohen is J. Mendel’s new resident designer as the 156-year-old brand vies for a revival.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/jonathan-cohen-joins-j-mendel",
+    "image_url": null,
+    "published_at": "2026-09-09T13:00:00.000Z"
+  },
+  {
+    "headline": "From a Swiss Forest, Marcela Velez’s New Line of Numerology-Inspired Bags Emerges",
+    "summary": "“There are no coincidences,” says Marcela Velez, whose new made-to-order handbag venture, House Number .01, rethinks the traditional fashion model.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/from-a-swiss-forest-marcela-velezs-new-line-of-numerology-inspired-bags-emerges",
     "image_url": null,
     "published_at": "2026-09-09T13:00:00.000Z"
   },
@@ -144,22 +320,6 @@
     "published_at": "2026-09-09T10:48:55.000Z"
   },
   {
-    "headline": "“Something Terrible Happened”—Lynn Yaeger on Covering New York Fashion Week During 9/11",
-    "summary": "Twenty-five years ago, Lynn Yaeger covered New York Fashion Week for the Village Voice. This is her 9/11 story.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/something-terrible-happened-lynn-yaeger-on-covering-new-york-fashion-week-during-9-11",
-    "image_url": null,
-    "published_at": "2026-09-09T10:00:00.000Z"
-  },
-  {
-    "headline": "Marc Jacobs Remembers 9/11",
-    "summary": "Marc Jacobs recalls: \"When I think about September 11, I remember walking around the city. I remember all those pictures of people who didn’t come home. And I remember listening to people talk about what had happened.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/marc-jacobs-remembers-9-11",
-    "image_url": null,
-    "published_at": "2026-09-09T10:00:00.000Z"
-  },
-  {
     "headline": "Banana Republic and La Ligne Master the Art of Fall Layering",
     "summary": "The La Ligne cofounders share the inspiration behind the 36-piece collection, built around the brand’s timeless wardrobing ethos, out on September 9.",
     "publisher": "Vogue",
@@ -172,6 +332,22 @@
     "summary": "From Art Deco influence to voluminous silhouettes, these are the four wedding guest dress trends you’ll see at all the chicest weddings in 2026, plus the best wedding guest dresses to shop now.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/top-wedding-guest-dress-trends",
+    "image_url": null,
+    "published_at": "2026-09-09T10:00:00.000Z"
+  },
+  {
+    "headline": "Marc Jacobs Remembers 9/11",
+    "summary": "Marc Jacobs recalls: \"When I think about September 11, I remember walking around the city. I remember all those pictures of people who didn’t come home. And I remember listening to people talk about what had happened.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/marc-jacobs-remembers-9-11",
+    "image_url": null,
+    "published_at": "2026-09-09T10:00:00.000Z"
+  },
+  {
+    "headline": "“Something Terrible Happened”—Lynn Yaeger on Covering New York Fashion Week During 9/11",
+    "summary": "Twenty-five years ago, Lynn Yaeger covered New York Fashion Week for the Village Voice. This is her 9/11 story.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/something-terrible-happened-lynn-yaeger-on-covering-new-york-fashion-week-during-9-11",
     "image_url": null,
     "published_at": "2026-09-09T10:00:00.000Z"
   },
@@ -222,6 +398,14 @@
     "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
     "image_url": null,
     "published_at": "2026-09-09T04:01:00.000Z"
+  },
+  {
+    "headline": "The Vogue Business Fashion Month SS27 Lookback",
+    "summary": "Join Vogue Business editors as we unpack the biggest runway moments and brand winners from the Spring/Summer 2027 season.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-vogue-business-fashion-month-ss27-lookback",
+    "image_url": null,
+    "published_at": "2026-09-09T03:00:00.000Z"
   },
   {
     "headline": "Fashion Forecast: A Psychic, Astrologer, and Tarot Reader Predict Fall Trends",
@@ -1414,189 +1598,5 @@
     "url": "https://www.vogue.com/article/how-to-unshrink-your-clothes",
     "image_url": null,
     "published_at": "2026-09-04T21:20:30.000Z"
-  },
-  {
-    "headline": "Trump Threatens to Halt Trade Following News That US Trade Deficit Grew in July",
-    "summary": "America’s trade deficit with the rest of the world grew in July to the highest level seen in more than a year, prompting an outraged response from the Commander in Chief.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/trade/trump-us-trade-deficit-july-federal-reserve-tariffs-1239199217/",
-    "image_url": null,
-    "published_at": "2026-09-04T21:05:54.000Z"
-  },
-  {
-    "headline": "Lawmakers Press DHS for UFLPA Briefing as Detentions Drop",
-    "summary": "Bipartisan lawmakers say stalling detentions and slow Entity List updates raise questions about how DHS is prioritizing forced labor enforcement.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sustainability/us-lawmakers-uflpa-briefing-homeland-security-1239199060/",
-    "image_url": null,
-    "published_at": "2026-09-04T21:00:00.000Z"
-  },
-  {
-    "headline": "U.S. Open 2026 Celebrity Shoe Style: Thong Sandals and Fall-ready Shoes Are Trending",
-    "summary": "See Mariah the Scientist, Yung Miami, Sophia Bush and more stars' shoes.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/2026-us-open-thong-sandals-shoes-trends-1239199032/",
-    "image_url": null,
-    "published_at": "2026-09-04T20:45:43.000Z"
-  },
-  {
-    "headline": "How Alex Eala Is Winning Over Fans and Rivals With a Mix of Athleticism, Fashion and Personality",
-    "summary": "The 21-year-old Filipino player is the highest ranked Filipino and Southeast Asian — 18th in the world — in the Women's Tennis Association's tour history.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/alex-eala-us-open-tennis-fame-1239198650/",
-    "image_url": null,
-    "published_at": "2026-09-04T20:31:16.000Z"
-  },
-  {
-    "headline": "Kari Vettese Gears Up for New York Fashion Week",
-    "summary": "The emerging designer talks with WWD about her upcoming NYFW show and ongoing partnership with Skims, following her popular collaboration with Kim Kardashian’s intimates apparel brand.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/kari-vettese-new-york-fashion-week-kim-kardashian-skims-1239197529/",
-    "image_url": null,
-    "published_at": "2026-09-04T20:21:48.000Z"
-  },
-  {
-    "headline": "Mexican Truckers’ Border Blockade Puts Cross-Border Freight at Risk",
-    "summary": "Protesters have warned that the blockade could extend to Tijuana's Otay Mesa crossing, which handled nearly $60 billion in U.S.-Mexico freight last year.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/logistics/mexico-truckers-blockade-california-border-b-1-visa-crackdown-1239199059/",
-    "image_url": null,
-    "published_at": "2026-09-04T20:18:23.000Z"
-  },
-  {
-    "headline": "Sydney Sweeney’s Saint Laurent Sandals Elevate Her Breezy Venice Look on an Outing With Scooter Braun",
-    "summary": "The couple was on the move at the 83rd Venice International Film Festival.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/sydney-sweeney-sandals-venice-scooter-braun-1239198727/",
-    "image_url": null,
-    "published_at": "2026-09-04T19:25:40.000Z"
-  },
-  {
-    "headline": "Angie Nixon Has Big Senate Dreams—But Her Feet Are Firmly on the Ground (in Hot Pink Skechers)",
-    "summary": "The Democratic candidate for the Florida Senate talks campaign-trail style, scoring an AOC endorsement, rising above racist criticism and more.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/angie-nixon-interview-2026",
-    "image_url": null,
-    "published_at": "2026-09-04T19:02:00.000Z"
-  },
-  {
-    "headline": "Nicole Kidman Blooms in Erdem Florals at ‘Practical Magic 2’ Special Screening in Sydney",
-    "summary": "The actress' chosen ensemble was from the brand's resort 2027 collection.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/nicole-kidman-erdem-practical-magic-2-screening-sydney-1239198996/",
-    "image_url": null,
-    "published_at": "2026-09-04T19:01:43.000Z"
-  },
-  {
-    "headline": "45 Throwback Photos of a Young Beyoncé on Her 45th Birthday",
-    "summary": "As Beyoncé celebrates her 45th birthday, revisit her early days of fame in the ’90s and aughts.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/45-throwback-photos-of-a-young-beyonce",
-    "image_url": null,
-    "published_at": "2026-09-04T19:00:00.000Z"
-  },
-  {
-    "headline": "Frédéric Fekkai Faces Lawsuit Alleging Ties to Jeffrey Epstein",
-    "summary": "Seven women have filed a lawsuit against celebrity hairstylist Frédéric Fekkai, alleging he acted as an enabler for Jeffrey Epstein's abuse of victims.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/beauty-industry-news/beauty-features/frederic-fekkai-faces-lawsuit-alleging-ties-jeffrey-epstein-1239198946/",
-    "image_url": null,
-    "published_at": "2026-09-04T18:59:37.000Z"
-  },
-  {
-    "headline": "Aaron Esh and AllSaints Fêted a New Era in East London",
-    "summary": "Last night, Aaron Esh—and generations of libertines old and new—brought the legendary British high street brand back to its roots with a ravey launch party.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/aaron-esh-allsaints-east-london-launch-party",
-    "image_url": null,
-    "published_at": "2026-09-04T18:40:18.000Z"
-  },
-  {
-    "headline": "The Best Women’s Shoes for Wide Feet to Shop Online Now — From Running Sneakers to Loafers and Boots",
-    "summary": "You deserve to experience comfort and style in lockstep, even if your feet's bone structure is wider than the average. This footwear is here to help.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-shoes/best-shoes-for-wide-feet-sneakers-flats-loafers-boots-1239198297/",
-    "image_url": null,
-    "published_at": "2026-09-04T18:35:14.000Z"
-  },
-  {
-    "headline": "Solly McLeod Is Feeling the Magic",
-    "summary": "The British actor joins the witchy world of \"Practical Magic 2.\"",
-    "publisher": "WWD",
-    "url": "https://wwd.com/eye/people/solly-mcleod-practical-magic-two-1239176442/",
-    "image_url": null,
-    "published_at": "2026-09-04T18:17:49.000Z"
-  },
-  {
-    "headline": "Helly Hansen Sees Big Opportunity in Work Footwear, Plots Move Into Outdoor",
-    "summary": "Footwear already composes about 20 percent of the business in the work segment.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/helly-hansen-work-outdoor-footwear-strategy-1239198574/",
-    "image_url": null,
-    "published_at": "2026-09-04T18:16:43.000Z"
-  },
-  {
-    "headline": "Chloé, Canada Goose, Ralph Lauren and Others Set to Lose Millions in Harvey Nichols Wind-down",
-    "summary": "FTI Consulting has detailed its plans for the British retailer, which was placed into “pre-pack” administration last month and purchased by Frasers Group in a deal that will leave hundreds of creditors counting losses.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/business-features/canada-goose-ralph-lauren-lose-millions-harvey-nichols-sale-1239198319/",
-    "image_url": null,
-    "published_at": "2026-09-04T18:11:35.000Z"
-  },
-  {
-    "headline": "On the Road With Hilary Duff",
-    "summary": "Before Hilary Duff embarks on the international leg of The Lucky Me Tour—kicking off in Ireland this weekend—she shared some intimate snapshots from her summer on the road.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/on-the-road-with-hilary-duff-lucky-me-tour",
-    "image_url": null,
-    "published_at": "2026-09-04T18:00:02.000Z"
-  },
-  {
-    "headline": "Shuffle Board: Kohl’s Taps Walmart Exec; CreateMe Builds Leadership",
-    "summary": "Walmart fashion executive Ryan Waymire joins Kohl’s while CreateMe adds commercial, operations and marketing leaders as it scales automated apparel manufacturing.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/shuffle-board-kohls-ryan-waymire-createme-executives-1239198354/",
-    "image_url": null,
-    "published_at": "2026-09-04T18:00:00.000Z"
-  },
-  {
-    "headline": "Larry June’s First Adidas Sneaker Release Offers a Vibrant Retro Runner",
-    "summary": "The bright mix of orange, yellow and green is inspired by the rapper's love of fruit and health.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/larry-june-adidas-adistar-control-5-release-date-kz7294-1239198523/",
-    "image_url": null,
-    "published_at": "2026-09-04T17:57:36.000Z"
-  },
-  {
-    "headline": "Inside Finneas and Claudia Sulewski’s Romantic Garden Wedding in Montecito",
-    "summary": "The musician married the beauty founder at a star-studded wedding on a California estate—in a ceremony officiated by the groom’s sister, Billie Eilish.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/finneas-and-claudia-sulewski-wedding",
-    "image_url": null,
-    "published_at": "2026-09-04T17:34:25.000Z"
-  },
-  {
-    "headline": "Georgina Rodríguez Means Business in Dramatic Gucci Court Pumps at the 2026 Venice Film Festival",
-    "summary": "She wore the same shoes to her wedding to Cristiano Ronaldo.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/georgina-rodriguez-gucci-court-pumps-2026-venice-festival-1239198488/",
-    "image_url": null,
-    "published_at": "2026-09-04T17:30:09.000Z"
-  },
-  {
-    "headline": "Northern Europe’s Ports Face Back-to-Back Strikes as Rotterdam Dockworkers Walk Out",
-    "summary": "Labor disruptions at major Dutch and German ports are adding fresh pressure to Northern Europe’s container network, with backlogs expected to linger.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/logistics/port-rotterdam-strike-hamburg-germany-northern-europe-dockworkers-1239198637/",
-    "image_url": null,
-    "published_at": "2026-09-04T17:30:06.000Z"
-  },
-  {
-    "headline": "Vittoria Ceretti Has a Bedazzled New Take on Naked Dressing",
-    "summary": "Stepping out for the “Wild Horse Nine” premiere at the Venice Film Festival, Vittoria Ceretti wore a sheer, delicately embellished Armani gown.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/vittoria-ceretti-venice-film-festival-armani-dress",
-    "image_url": null,
-    "published_at": "2026-09-04T17:14:40.000Z"
   }
 ]
