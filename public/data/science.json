@@ -1,5 +1,93 @@
 [
   {
+    "headline": "Scientists find a bone-building switch that could fight osteoporosis",
+    "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to stronger muscles, researchers see intriguing potential for combating age-related decline and osteoporosis…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T13:52:53.000Z"
+  },
+  {
+    "headline": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
+    "summary": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory benefits in addition to their effects on diabetes and obesity, but clinical trials a…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T13:06:53.000Z"
+  },
+  {
+    "headline": "Have we found alien life? Hundreds of scientists weigh in",
+    "summary": "Two major alien-life announcements in 2025 generated enormous excitement, but most astrobiologists remained unconvinced. Only 6.6% of surveyed experts thought possible biological molecules on K2-18b probably represented extraterrestrial life, while 15.1% said the same about intriguing mineral patterns in a Martian rock…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T11:13:30.000Z"
+  },
+  {
+    "headline": "Interstellar comet 3I/ATLAS is bursting with methanol",
+    "summary": "Interstellar comet 3I/ATLAS contains exceptionally high levels of methanol, suggesting it formed under conditions very different from those that shaped most comets in our solar system. ALMA also revealed that tiny icy grains around the comet are releasing methanol like miniature comets, giving astronomers an unusually…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T08:47:39.000Z"
+  },
+  {
+    "headline": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
+    "summary": "Britain’s towering Devil’s Arrows were built from 25-tonne stones hauled at least 18 kilometers from Brimham Rocks around 4,000 years ago. The discovery reveals an astonishing feat of prehistoric engineering and suggests the stones’ distant source may have been chosen for cultural or spiritual reasons.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T07:41:21.000Z"
+  },
+  {
+    "headline": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
+    "summary": "Insects quietly hold much of the natural world together, yet conservation efforts are overlooking the tropical regions where more than 80 percent of insect species live. Monash University researchers have developed a global framework to close this gap by combining scientific studies with museum collections, local exper…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T06:30:55.000Z"
+  },
+  {
+    "headline": "Chinese scientists find a hidden atomic structure that unlocks methane",
+    "summary": "Scientists found that a tiny atomic structure that forms on nickel oxide during methane conversion is more effective than the metallic nickel long believed to drive the reaction. The discovery allowed a low-nickel catalyst to rival one containing 10 times more metal, potentially opening the door to cheaper and more eff…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T05:33:42.000Z"
+  },
+  {
+    "headline": "Geologists reveal the Americas collided millions of years earlier than thought",
+    "summary": "Volcanic rocks in Colombia are rewriting the timeline of the collision between Central and South America. Their magnetic signatures show that major tectonic deformation had already weakened by the late Miocene, suggesting the most intense collision occurred earlier than previously believed.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260907201608.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T04:35:01.000Z"
+  },
+  {
+    "headline": "Dark energy debunked? Cosmic acceleration may be an illusion",
+    "summary": "A new analysis of more than 1,700 supernovae is questioning whether the universe is really accelerating at all. After accounting for the ages of the stars that produce these explosions, researchers found signs that cosmic expansion may actually be slowing. They also argue that the apparent acceleration changes with dir…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260907201600.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T03:59:08.000Z"
+  },
+  {
+    "headline": "Astronomers detect ancient hydrogen signal that could help map the Universe",
+    "summary": "Astronomers have detected an exceptionally faint hydrogen radio signal from billions of light-years away using South Africa’s MeerKAT telescope. Instead of finding galaxies one at a time, the technique measures their combined hydrogen glow across enormous stretches of space. The successful detection shows that astronom…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260907201556.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T03:06:55.000Z"
+  },
+  {
+    "headline": "Caffeine may flip an ancient cellular switch linked to slower aging",
+    "summary": "Scientists found that caffeine activates an ancient cellular energy system involved in stress resistance, DNA repair, and growth. The discovery could help explain caffeine’s links to healthier aging and may point toward new ways to target the same pathway.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+    "image_url": null,
+    "published_at": "2026-09-09T00:28:13.000Z"
+  },
+  {
     "headline": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
     "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspir…",
     "publisher": "ScienceDaily",
@@ -1510,93 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260822015213.htm",
     "image_url": null,
     "published_at": "2026-08-24T09:55:19.000Z"
-  },
-  {
-    "headline": "NASA is about to launch a powerful new eye on the universe",
-    "summary": "NASA’s Roman Space Telescope has been cleared for final launch preparations ahead of a targeted August 30 liftoff aboard SpaceX’s Falcon Heavy. The powerful new observatory will probe cosmic expansion, the history of the universe, and distant exoplanets.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094140.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T04:45:05.000Z"
-  },
-  {
-    "headline": "Trump to award Congressional Space Medal of Honor to Artemis II astronauts",
-    "summary": "The Artemis II crew will receive the Congressional Space Medal of Honor after becoming the first humans in more than 50 years to travel beyond the Moon. Their 10-day Orion mission also carried them farther into space than anyone in history.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094138.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T04:25:30.000Z"
-  },
-  {
-    "headline": "Scientists discover a real-life “dragon” and name it after Syrax",
-    "summary": "Scientists discovered a small, yellowish mountain horned dragon in Thailand and named it Acanthosaura syrax after a dragon from House of the Dragon. Found only in a narrow band of high-elevation forest, the distinctive new species could become a flagship for protecting its rare mountain habitat.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823015005.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T03:11:22.000Z"
-  },
-  {
-    "headline": "Gut bacteria may unlock a hidden benefit of vegetables",
-    "summary": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and metabolism. In experimental models, higher levels of these compounds were linked to lower blood pressure, better blood sugar control, healthier blood vessels, and less liver f…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T02:48:52.000Z"
-  },
-  {
-    "headline": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
-    "summary": "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making memory circuits unusually active. That early hyperactivity predicted worse memory later in life. Reducin…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260821012234.htm",
-    "image_url": null,
-    "published_at": "2026-08-23T15:15:41.000Z"
-  },
-  {
-    "headline": "Scientists left this farm field alone. Thousands of orchids appeared",
-    "summary": "An abandoned farm field became a flourishing wildflower meadow within little more than a decade, with plant diversity doubling and thousands of orchids appearing naturally. The discovery suggests that simply giving nature time to recover could be a powerful and inexpensive tool for restoring biodiversity.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260822015208.htm",
-    "image_url": null,
-    "published_at": "2026-08-23T15:01:34.000Z"
-  },
-  {
-    "headline": "The dental crown of the future could be 3D-printed while you wait",
-    "summary": "Researchers have found a way to slash the processing time for 3D-printed zirconia crowns from as much as 100 hours to under 30 minutes. The advance could eventually let dentists print strong, customized permanent crowns for patients within a single appointment.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260822015217.htm",
-    "image_url": null,
-    "published_at": "2026-08-23T14:36:33.000Z"
-  },
-  {
-    "headline": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
-    "summary": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ultra-hot matter believed to have filled the cosmos shortly after the Big Bang. Even more intriguingly, the particles le…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
-    "image_url": null,
-    "published_at": "2026-08-23T13:08:55.000Z"
-  },
-  {
-    "headline": "A hidden “on switch” in human DNA has finally been decoded",
-    "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventually contribute to d…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
-    "image_url": null,
-    "published_at": "2026-08-23T12:14:40.000Z"
-  },
-  {
-    "headline": "Experimental compound helps burn fat without muscle loss",
-    "summary": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also pr…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
-    "image_url": null,
-    "published_at": "2026-08-23T10:24:17.000Z"
-  },
-  {
-    "headline": "Scientists turn tiny “defects” into a 5.5x heat transfer boost",
-    "summary": "Scientists have developed an ultrathin coating that could dramatically improve how efficiently heat is transferred during condensation. By turning tiny polymer structures once considered “defects” into places where water droplets can form, then helping those droplets detach quickly, the new surface keeps exposing fresh…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823014940.htm",
-    "image_url": null,
-    "published_at": "2026-08-23T05:49:40.000Z"
   }
 ]
