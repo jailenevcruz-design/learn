@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
+    "summary": "The Pennsylvania Democrat has already had a strained relationship with many inside his party. In the video, he spoke about working with Trump but did not outright praise him.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
+    "image_url": null,
+    "published_at": "2026-09-10T01:17:28.000Z"
+  },
+  {
     "headline": "Republicans kick off unconventional midterm convention in Dallas with Trump speech",
     "summary": "Republicans' first midterm convention, being touted as a \"Trumpapalooza\" by the Republican Party chairman, kicks off in Dallas with a program focused heavily on tax cuts and border security.",
     "publisher": "NPR",
@@ -40,14 +48,6 @@
     "published_at": "2026-09-09T09:05:03.000Z"
   },
   {
-    "headline": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
-    "summary": "Voters and election officials are navigating uncertainty about mail-in voting for the midterms as the legal fight drags on over the U.S. Postal Service plan for President Trump's bid for restrictions.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
-    "image_url": null,
-    "published_at": "2026-09-09T09:00:00.000Z"
-  },
-  {
     "headline": "Ballot seizures seemed impossible. But judges and officials are prepping for them now",
     "summary": "The idea of law enforcement taking possession of ballots in the middle of an active election used to be considered impossible. Now, it's a scenario voting officials — and judges — are training for.",
     "publisher": "NPR",
@@ -56,8 +56,16 @@
     "published_at": "2026-09-09T09:00:00.000Z"
   },
   {
-    "headline": "Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas",
-    "summary": "Republicans have never held a midterm convention before. But there's also never been a president like Donald Trump. Billed as a \"Trumpapalooza,\" the unprecedented event kicks of in Dallas Wednesday.",
+    "headline": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
+    "summary": "Voters and election officials are navigating uncertainty about mail-in voting for the midterms as the legal fight drags on over the U.S. Postal Service plan for President Trump's bid for restrictions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
+    "image_url": null,
+    "published_at": "2026-09-09T09:00:00.000Z"
+  },
+  {
+    "headline": "Trump promises $5,000 dividend in convention speech, but only if Republicans win",
+    "summary": "Calling it a \"Trump dividend,\" the president announced a $5,000 payment for every adult citizen if the Republican Party maintains control of the House and Senate in the midterm election.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
     "image_url": null,
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-connected-texas-law-firm",
     "image_url": null,
     "published_at": "2026-08-05T20:23:02.000Z"
-  },
-  {
-    "headline": "The local impact of changing federal grant rules",
-    "summary": "Democratic policy makers are pushing back on a rule change proposed by the Office of Management and Budget that would grant political appointees veto power over federal research grants. We talk with people at the level of local government about what this could mean for them in areas like public health and research.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/05/nx-s1-5913997/the-local-impact-of-changing-federal-grant-rules",
-    "image_url": null,
-    "published_at": "2026-08-05T20:22:55.000Z"
   }
 ]
