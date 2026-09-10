@@ -1,7 +1,47 @@
 [
   {
+    "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "image_url": null,
+    "published_at": "2026-09-10T20:59:51.000Z"
+  },
+  {
+    "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "image_url": null,
+    "published_at": "2026-09-10T20:57:30.000Z"
+  },
+  {
+    "headline": "Furo’s founders left Silicon Valley — and it’s paying off",
+    "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+    "image_url": null,
+    "published_at": "2026-09-10T20:48:00.000Z"
+  },
+  {
+    "headline": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "image_url": null,
+    "published_at": "2026-09-10T19:50:04.000Z"
+  },
+  {
+    "headline": "Schools are catching on to Big Tech’s playbook",
+    "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on right now, but…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+    "image_url": null,
+    "published_at": "2026-09-10T19:44:20.000Z"
+  },
+  {
     "headline": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-    "summary": "Proxima Fusion's new high-temperature superconducting magnet factory will help supply its commercial power plant.",
+    "summary": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
     "image_url": null,
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
     "image_url": null,
     "published_at": "2026-09-03T20:59:23.000Z"
-  },
-  {
-    "headline": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
-    "summary": "Strahd returned earlier this year in Ravenloft: The Horrors Within. | Image: Wizards of the Coast A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
-    "image_url": null,
-    "published_at": "2026-09-03T20:48:05.000Z"
-  },
-  {
-    "headline": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-    "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-    "image_url": null,
-    "published_at": "2026-09-03T19:42:48.000Z"
-  },
-  {
-    "headline": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "image_url": null,
-    "published_at": "2026-09-03T19:36:29.000Z"
-  },
-  {
-    "headline": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-    "summary": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-    "image_url": null,
-    "published_at": "2026-09-03T19:29:16.000Z"
-  },
-  {
-    "headline": "Abliteration.ai is making a business out of removing AI guardrails",
-    "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "image_url": null,
-    "published_at": "2026-09-03T18:37:57.000Z"
   }
 ]
