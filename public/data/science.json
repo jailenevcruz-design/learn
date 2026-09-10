@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Scientists say August was Earth's hottest month they've measured",
+    "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+    "image_url": null,
+    "published_at": "2026-09-10T08:54:00.000Z"
+  },
+  {
     "headline": "Are we any closer to detecting dark matter?",
     "summary": "NPR's Scott Detrow talks with theoretical astrophysicist Priyamvada Natarajan of Yale University about a strange blip recorded by a dark matter detector in South Dakota and what the fluke could mean.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
     "image_url": null,
     "published_at": "2026-08-24T11:31:44.000Z"
-  },
-  {
-    "headline": "Screen time at ages 1 and 6 may matter more than parents realize",
-    "summary": "More screen time during infancy and around the start of school was linked to poorer academic performance and weaker working memory years later. The findings suggest that early childhood may contain particularly sensitive windows when screen habits can have longer-lasting effects.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094152.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T10:31:15.000Z"
   }
 ]

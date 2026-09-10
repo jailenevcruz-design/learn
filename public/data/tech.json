@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Mathematicians want proof OpenAI didn’t use their work",
+    "summary": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's m…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+    "image_url": null,
+    "published_at": "2026-09-10T11:00:57.000Z"
+  },
+  {
+    "headline": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
+    "summary": "The iPhone 18 Pro’s triple camera setup with a variable aperture in the main (bottom) camera. | Photo: Antonio G. Di Benedetto / The Verge Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture. Both the iPhone 18 Pro and Pr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
+    "image_url": null,
+    "published_at": "2026-09-10T10:00:00.000Z"
+  },
+  {
+    "headline": "The Trump phone just got a $250 price hike",
+    "summary": "It’s going to take a lot more gold coins to buy the Trump Phone now. | Photo: Amelia Holowaty Krales / The Verge Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
+    "image_url": null,
+    "published_at": "2026-09-10T09:13:04.000Z"
+  },
+  {
+    "headline": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
+    "summary": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VRR adjusts a display's refresh rate to match a game's frame rate, smoot…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
+    "image_url": null,
+    "published_at": "2026-09-10T09:07:00.000Z"
+  },
+  {
+    "headline": "Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it",
+    "summary": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, which published both of Kojima Productions' previous Death Stranding g…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+    "image_url": null,
+    "published_at": "2026-09-10T08:22:40.000Z"
+  },
+  {
+    "headline": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+    "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships early next year, the new…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+    "image_url": null,
+    "published_at": "2026-09-10T07:00:00.000Z"
+  },
+  {
     "headline": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
     "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
     "publisher": "TechCrunch",
@@ -1550,53 +1598,5 @@
     "url": "https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled",
     "image_url": null,
     "published_at": "2026-09-03T12:00:00.000Z"
-  },
-  {
-    "headline": "These new robot lawnmowers trim your edges",
-    "summary": "Mammotion’s Luba 4 AWD can clean up the sides of your driveway and flower beds with its edger attachement. | Image: Mammotion Anker's new robot lawnmower might take over for your weedwacker, too. Announced at IFA 2026, the Eufy Robot Lawn Mower S2 Max comes with an extendable trimming arm to clean up the grass around y…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
-    "image_url": null,
-    "published_at": "2026-09-03T11:55:00.000Z"
-  },
-  {
-    "headline": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-    "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The software giant has p…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-    "image_url": null,
-    "published_at": "2026-09-03T08:59:09.000Z"
-  },
-  {
-    "headline": "Here’s the first 4K 120Hz UST projector with optical lens shift",
-    "summary": "A projector for people who can afford to call this a “man cave.” | Image: Awol Vision Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an in…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
-    "image_url": null,
-    "published_at": "2026-09-03T08:30:00.000Z"
-  },
-  {
-    "headline": "Belkin’s first trackers come ready to attach to your gear.",
-    "summary": "Belkin’s SureFind Loop Cable Tag tracker includes a removable USB-C charging cable. | Image: Belkin After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In additi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
-    "image_url": null,
-    "published_at": "2026-09-03T08:00:00.000Z"
-  },
-  {
-    "headline": "Belkin introduces its first longer-lasting semi-solid-state power banks",
-    "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside the liquid electrol…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
-    "image_url": null,
-    "published_at": "2026-09-03T08:00:00.000Z"
-  },
-  {
-    "headline": "Anker’s sleep speaker uses radar and flower power to help you relax",
-    "summary": "Peace, man. | Image: Anker Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sleep stage you're in.…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
-    "image_url": null,
-    "published_at": "2026-09-03T07:30:00.000Z"
   }
 ]
