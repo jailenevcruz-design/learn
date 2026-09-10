@@ -1,11 +1,27 @@
 [
   {
-    "headline": "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles",
+    "headline": "Jim Cramer says this is the key force driving stocks right now",
+    "summary": "CNBC's Jim Cramer said the 30-year Treasury yield is a key force driving stocks as it climbs to roughly 5.3%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
+    "image_url": null,
+    "published_at": "2026-09-10T22:46:54.000Z"
+  },
+  {
+    "headline": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
     "summary": "Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
     "image_url": null,
-    "published_at": "2026-09-10T21:09:37.000Z"
+    "published_at": "2026-09-10T21:42:47.000Z"
+  },
+  {
+    "headline": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
+    "summary": "Nvidia CEO Jensen Huang, Uber CEO Dara Khosrowshahi, and SpaceX CFO Bret Johnsen are set to speak at the Goldman Sachs Communacopia + Technology Conference.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
+    "image_url": null,
+    "published_at": "2026-09-10T21:22:39.000Z"
   },
   {
     "headline": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
@@ -128,14 +144,6 @@
     "published_at": "2026-09-10T17:57:02.000Z"
   },
   {
-    "headline": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
-    "summary": "Nvidia CEO Jensen Huang, Uber CEO Dara Khosrowshahi, and SpaceX CFO Bret Johnsen are set to speak at the Goldman Sachs Communacopia + Technology Conference.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
-    "image_url": null,
-    "published_at": "2026-09-10T17:52:18.000Z"
-  },
-  {
     "headline": "AI is losing its stranglehold on the U.S. stock market. Here's why",
     "summary": "A key tech-stock volatility metric options traders have been watching all year is reversing.",
     "publisher": "CNBC",
@@ -190,6 +198,14 @@
     "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
     "image_url": null,
     "published_at": "2026-09-10T15:25:58.000Z"
+  },
+  {
+    "headline": "Elon Musk threatens to sue over Gibney documentary's \"space lasers\" claim",
+    "summary": "The tech billionaire's attorney has put documentarian Alex Gibney and his production company on legal notice, claiming the Oscar-winning director defamed Musk in his nearly four-hour documentary.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
+    "image_url": null,
+    "published_at": "2026-09-10T15:13:09.000Z"
   },
   {
     "headline": "Our top 3 stocks that bucked the market’s recent pullback — plus, a look at the bottom 3",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/09/04/nx-s1-5946396/how-do-you-know-if-its-real-luxury-reseller-faces-chanel-lawsuit",
     "image_url": null,
     "published_at": "2026-09-04T08:01:10.000Z"
-  },
-  {
-    "headline": "Argentina's Milei escalates Falklands dispute as Trump questions U.S. support for Britain",
-    "summary": "Argentina's President Javier Milei has renewed the country's claim to the Falkland Islands and threatened sanctions on oil companies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
-    "image_url": null,
-    "published_at": "2026-09-04T07:50:49.000Z"
-  },
-  {
-    "headline": "The price of diesel hits a record high",
-    "summary": "The price of diesel has reached an all-time high, a result of the war in Iran and Ukraine's attacks on Russian refineries. That will matter across the supply chain.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/04/nx-s1-5948016/diesel-price-record-high",
-    "image_url": null,
-    "published_at": "2026-09-04T07:44:21.000Z"
   }
 ]

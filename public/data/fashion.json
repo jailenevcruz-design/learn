@@ -1,11 +1,43 @@
 [
   {
+    "headline": "Alice + Olivia Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alice-olivia",
+    "image_url": null,
+    "published_at": "2026-09-10T23:25:06.000Z"
+  },
+  {
+    "headline": "Christian Siriano Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/christian-siriano",
+    "image_url": null,
+    "published_at": "2026-09-10T23:25:06.000Z"
+  },
+  {
+    "headline": "LoveShackFancy Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/loveshackfancy",
+    "image_url": null,
+    "published_at": "2026-09-10T23:25:06.000Z"
+  },
+  {
+    "headline": "R13 Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/r13",
+    "image_url": null,
+    "published_at": "2026-09-10T23:25:06.000Z"
+  },
+  {
     "headline": "A.L.C. Spring 2027 Ready-to-Wear",
     "summary": "",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/a-l-c",
     "image_url": null,
-    "published_at": "2026-09-10T21:10:24.000Z"
+    "published_at": "2026-09-10T23:25:06.000Z"
   },
   {
     "headline": "Nili Lotan Spring 2027 Ready-to-Wear",
@@ -13,7 +45,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/nili-lotan",
     "image_url": null,
-    "published_at": "2026-09-10T21:10:24.000Z"
+    "published_at": "2026-09-10T23:25:06.000Z"
   },
   {
     "headline": "Tommy Hilfiger Spring 2027 Ready-to-Wear",
@@ -21,7 +53,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tommy-hilfiger",
     "image_url": null,
-    "published_at": "2026-09-10T21:10:24.000Z"
+    "published_at": "2026-09-10T23:25:06.000Z"
   },
   {
     "headline": "Bad Binch Tongtong Spring 2027 Ready-to-Wear",
@@ -29,7 +61,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bad-binch-tongtong",
     "image_url": null,
-    "published_at": "2026-09-10T21:10:24.000Z"
+    "published_at": "2026-09-10T23:25:06.000Z"
   },
   {
     "headline": "Proenza Schouler Spring 2027 Ready-to-Wear",
@@ -37,7 +69,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/proenza-schouler",
     "image_url": null,
-    "published_at": "2026-09-10T21:10:24.000Z"
+    "published_at": "2026-09-10T23:25:06.000Z"
   },
   {
     "headline": "TWP Spring 2027 Ready-to-Wear",
@@ -45,7 +77,87 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/twp",
     "image_url": null,
-    "published_at": "2026-09-10T21:10:24.000Z"
+    "published_at": "2026-09-10T23:25:06.000Z"
+  },
+  {
+    "headline": "The Best Backstage Photos From the Spring 2027 Shows in New York",
+    "summary": "Acielle Tanbetova is backstage getting the best behind-the-scenes moments from the spring 2027 shows in New York.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/the-best-backstage-photos-from-the-spring-2027-shows-in-new-york",
+    "image_url": null,
+    "published_at": "2026-09-10T22:28:08.000Z"
+  },
+  {
+    "headline": "I Want My Hair To Grow Longer, Faster. Does It Matter How Often I Wash It?",
+    "summary": "Want longer hair? The experts weigh in on the tips to encourage hair growth that can make a difference—and those that definitely won’t.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/hair-growth-washing",
+    "image_url": null,
+    "published_at": "2026-09-10T22:08:13.000Z"
+  },
+  {
+    "headline": "This DIY Face Mask Maker Has Turned Hundreds of Skeptics Into Fans: ‘I Will Never Go Back to Buying Store Masks’",
+    "summary": "The $60 Amazon bestseller allows you to create gel-like masks from skin-friendly ingredients in your kitchen — strawberries, cucumbers, and teas included.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/shop/shop-beauty/face-mask-machine-about-reviews-price-make-diy-face-mask-1239208601/",
+    "image_url": null,
+    "published_at": "2026-09-10T22:04:46.000Z"
+  },
+  {
+    "headline": "Are EU’s New Procurement Rules Missing Meaningful Human Rights Safeguards?",
+    "summary": "Swedwatch warns the EU’s Public Procurement Act touts \"promising steps\" on quality and transparency but leaves room for exploitative suppliers to win on price alone.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/sustainability/european-union-public-procurement-act-swedwatch-1239208134/",
+    "image_url": null,
+    "published_at": "2026-09-10T22:04:26.000Z"
+  },
+  {
+    "headline": "Amazon Air Pilot Raised Descent Concern Before Fatal Miami Runway Crash",
+    "summary": "Newly released NTSB recordings shed light on the moments before the cargo jet overran the runway, as questions mount over operator 21 Air’s safety practices.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/logistics/amazon-air-cargo-deadly-runway-crash-miami-ntsb-china-qingado-ship-fire-1239208856/",
+    "image_url": null,
+    "published_at": "2026-09-10T21:54:53.000Z"
+  },
+  {
+    "headline": "Inside the Buzziest Parties of New York Fashion Week",
+    "summary": "Beyond the runways and presentations, the Spring 2027 season has also spelled no shortage of parties popping off across Manhattan—with plenty of celebrity names on the guest lists too. Here, Vogue’s look inside the events everyone is still talking about…",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/best-parties-new-york-fashion-week-september-2026",
+    "image_url": null,
+    "published_at": "2026-09-10T21:49:55.000Z"
+  },
+  {
+    "headline": "Alo Kicked Off NYFW with a Chic Night at The Twenty Two",
+    "summary": "To usher in New York Fashion Week and simultaneously unveil the second collection of high-end handbags, Alo hosted a dinner party and late-night bash at The Twenty Two.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/alo-nyfw-party-handbag-launch",
+    "image_url": null,
+    "published_at": "2026-09-10T21:48:48.000Z"
+  },
+  {
+    "headline": "Vans Used One of the World’s Most Famous Fabrics for a Three-pack of Punk Sneakers",
+    "summary": "Harris tweed features on the Old Skool, Slip-On and Loafer.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/sneaker-news/vans-harris-tweed-pack-release-date-1239208359/",
+    "image_url": null,
+    "published_at": "2026-09-10T21:33:19.000Z"
+  },
+  {
+    "headline": "Tommy Hilfiger Spring 2027: Back to the Future",
+    "summary": "The designer offered relaxed and cool, modern interpretations of some of his signature pieces from the '90s.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/runway/spring-2027/new-york/tommy-hilfiger/review/",
+    "image_url": null,
+    "published_at": "2026-09-10T21:22:50.000Z"
+  },
+  {
+    "headline": "Chanel Gets ‘Faked’ Out by Tom Sachs",
+    "summary": "The New York artist has created a replica of Chanel’s famous Paris address in New York City.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/culture-news/chanel-store-fake-tom-sachs-artist-1239207659/",
+    "image_url": null,
+    "published_at": "2026-09-10T21:21:00.000Z"
   },
   {
     "headline": "Diane von Furstenberg Spring 2027 Ready-to-Wear",
@@ -126,14 +238,6 @@
     "url": "https://www.vogue.com/article/simon-stone-korean-cherry-orchard",
     "image_url": null,
     "published_at": "2026-09-10T20:23:22.000Z"
-  },
-  {
-    "headline": "The Best Backstage Photos From the Spring 2027 Shows in New York",
-    "summary": "Acielle Tanbetova is backstage getting the best behind-the-scenes moments from the spring 2027 shows in New York.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/the-best-backstage-photos-from-the-spring-2027-shows-in-new-york",
-    "image_url": null,
-    "published_at": "2026-09-10T20:16:12.000Z"
   },
   {
     "headline": "Dinner & Diamonds: Colman Domingo, Leslie Bibb, and Paul Anthony Kelly Joined Boucheron in Central Park",
@@ -1494,109 +1598,5 @@
     "url": "https://wwd.com/pop-culture/celebrity-news/kate-middleton-emilia-wickstead-dress-eton-college-george-1239200704/",
     "image_url": null,
     "published_at": "2026-09-08T15:06:27.000Z"
-  },
-  {
-    "headline": "Closing Traceability Gaps with Origin Verification: Why Provenance Supports Stronger Risk Management",
-    "summary": "While traceability adoption continues to grow, the need for greater supply chain transparency remains critical.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/closing-traceability-gaps-origin-verification-provenance-stronger-risk-management-1239086136/",
-    "image_url": null,
-    "published_at": "2026-09-08T15:00:00.000Z"
-  },
-  {
-    "headline": "True Religion Brings Y2K Energy Back to NYFW as Brand Builds Business Momentum",
-    "summary": "The brand will kick off the True Religion on Tour Concert Series.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/true-religion-y2k-nyfw-concert-series-michael-buckley-1239199152/",
-    "image_url": null,
-    "published_at": "2026-09-08T15:00:00.000Z"
-  },
-  {
-    "headline": "Why Jewelry’s Biggest Houses Want In on New York Fashion Week",
-    "summary": "Boucheron, Bulgari and Chopard are using the high engagement week to court American consumers, build cultural relevance and make their presence felt beyond the boutique.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/accessories-news/jewelry/jewelrys-houses-in-new-york-fashion-week-bulgari-boucheron-1239197599/",
-    "image_url": null,
-    "published_at": "2026-09-08T14:46:57.000Z"
-  },
-  {
-    "headline": "Burton Snowboards Names Denny Bruce CEO",
-    "summary": "Donna Carpenter, widow of founder Jake Burton Carpenter, will continue as chairman of the board.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/human-resources/burton-snowboards-denny-bruce-ceo-donna-carpenter-1239198427/",
-    "image_url": null,
-    "published_at": "2026-09-08T14:30:00.000Z"
-  },
-  {
-    "headline": "How Factories Are Finally Seeing the Truth—And Profit—In Real Time",
-    "summary": "CreateOne helps apparel companies deal with costly disruptions while driving profits.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/how-factories-are-seeing-the-truthand-profitin-real-time-1239196913/",
-    "image_url": null,
-    "published_at": "2026-09-08T14:00:00.000Z"
-  },
-  {
-    "headline": "Inside the Making of Journeys’ Successful 4.0 Store Concept",
-    "summary": "The new design, launched in 2024, is contributing to sales gains for the 40-year-old retailer.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-features/journeys-store-concept-redesign-1239197305/",
-    "image_url": null,
-    "published_at": "2026-09-08T14:00:00.000Z"
-  },
-  {
-    "headline": "Oeko-Tex Outlines Growth, Opportunities In Annual Report",
-    "summary": "The certifier said it saw significant growth in several of its certification programs in the last year.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sustainability/oeko-tex-outlines-growth-opportunities-annual-report-1239200842/",
-    "image_url": null,
-    "published_at": "2026-09-08T13:47:28.000Z"
-  },
-  {
-    "headline": "Why Taylor Swift’s Favorite Jeweler Made a Baby Signet Ring for Her Newborn Daughter",
-    "summary": "In celebration of the birth of her daughter Posie, Cece Jewellery founder Cece Fein-Huges—who is beloved by Justin Bieber, Margot Robbie, and Taylor Swift—designed a miniature signet ring steeped in Victorian symbolism.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/cece-fein-huges-baby-signet-ring-for-her-daughter",
-    "image_url": null,
-    "published_at": "2026-09-08T13:47:12.000Z"
-  },
-  {
-    "headline": "This Drummer Bride’s Wedding Was Held in a Gas Station Off Route 395",
-    "summary": "Tennessee Thomas staged her wedding at the Whoa Nellie Deli in Tioga Gas Mart—the midpoint between Mount Whitney and Death Valley—and wore three whimsical dresses for the occasion.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/tennessee-thomas-and-ben-goodman-wedding",
-    "image_url": null,
-    "published_at": "2026-09-08T13:38:56.000Z"
-  },
-  {
-    "headline": "Goodbye Sports, Hello Fashion: Inspirations for NYFW Spring 2027",
-    "summary": "Sports fandom has been hovering thick over New York City like a heat dome, but even as the U.S. Open rolls on, fashion is about to get its turn with NYFW starting Thursday.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-features/inspirations-nyfw-spring-2027-1239200227/",
-    "image_url": null,
-    "published_at": "2026-09-08T13:35:29.000Z"
-  },
-  {
-    "headline": "Librarians and Jane Birkin Inspired Kaia Gerber’s Collection for Re/Done",
-    "summary": "The model and actress Kaia Gerber signed on to be an investor at the LA denim brand Re/Done. Here’s a look at her first collection.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/kaia-gerber-redone-jeans-collection",
-    "image_url": null,
-    "published_at": "2026-09-08T12:00:00.000Z"
-  },
-  {
-    "headline": "Making Music: The Young Virtuosos of the Juilliard School and the New York Philharmonic Score a Fashion Rhapsody",
-    "summary": "Conductor Gustavo Dudamel's arrival at the Philharmonic has triggered euphoria within the city's classical music scene.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/young-virtuosos-of-the-juilliard-school-september-2026",
-    "image_url": null,
-    "published_at": "2026-09-08T12:00:00.000Z"
-  },
-  {
-    "headline": "Bravo! The Free-Spirited, Freewheeling Gustavo Dudamel Arrives at the New York Philharmonic",
-    "summary": "The onetime wunderkind conductor—​now a respectable 45—​has been making an ecstatic first impression on his new metropolis.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/gustavo-dudamel-arrives-at-the-ny-phil",
-    "image_url": null,
-    "published_at": "2026-09-08T12:00:00.000Z"
   }
 ]

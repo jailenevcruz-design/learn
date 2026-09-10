@@ -1,5 +1,13 @@
 [
   {
+    "headline": "This summer was hot. August shattered global heat records",
+    "summary": "Scientists say that August was the hottest month ever recorded globally. In the U.S., summer temperatures also shattered heat records.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest",
+    "image_url": null,
+    "published_at": "2026-09-10T21:30:52.000Z"
+  },
+  {
     "headline": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
     "summary": "An extremely well preserved fossil feather could reveal why some birds survived the dinosaur-killing asteroid, and others did not.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260823015000.htm",
     "image_url": null,
     "published_at": "2026-08-24T12:19:34.000Z"
-  },
-  {
-    "headline": "A tiny “rainbow on a chip” could help supercharge 6G networks",
-    "summary": "Researchers have created a tiny chip that produces a stable “rainbow” of light capable of generating multiple high-frequency signals at once, potentially boosting the speed and capacity of future 6G networks. Its extreme precision could also make it valuable for quantum timing, navigation, radar, and even space-based t…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823014946.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T12:07:31.000Z"
   }
 ]
