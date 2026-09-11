@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+    "summary": "I saw the Luna Pro briefly at the IFA trade show, and it looks and feels a lot like the Ultra. | Photo: Dominic Preston / The Verge Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, w…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+    "image_url": null,
+    "published_at": "2026-09-11T11:07:24.000Z"
+  },
+  {
+    "headline": "Apple addresses iPhone Duo copycats",
+    "summary": "John Ternus, Apple CEO, holds an iPhone Duo at the launch event. | Bloomberg via Getty Images Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product developm…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+    "image_url": null,
+    "published_at": "2026-09-11T10:02:58.000Z"
+  },
+  {
     "headline": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
     "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
     "publisher": "TechCrunch",
@@ -17,7 +33,7 @@
   },
   {
     "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
     "image_url": null,
@@ -1582,21 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
     "image_url": null,
     "published_at": "2026-09-04T12:00:00.000Z"
-  },
-  {
-    "headline": "The sameness problem behind those unappetizing AI-generated menus",
-    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "image_url": null,
-    "published_at": "2026-09-04T04:21:03.000Z"
-  },
-  {
-    "headline": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "image_url": null,
-    "published_at": "2026-09-04T00:48:42.000Z"
   }
 ]

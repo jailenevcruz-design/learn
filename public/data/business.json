@@ -1,27 +1,75 @@
 [
   {
-    "headline": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-    "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
+    "headline": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy",
+    "summary": "U.S. diesel prices hit their highest level ever as fuel supply disruption stemming from the Ukraine and Iran wars lifts transportation costs.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+    "url": "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
     "image_url": null,
-    "published_at": "2026-09-11T06:02:40.000Z"
+    "published_at": "2026-09-11T11:27:39.000Z"
   },
   {
-    "headline": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-    "summary": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
+    "headline": "Oracle jumps 6% after reporting 30% revenue growth fueled by AI cloud demand",
+    "summary": "Oracle's cloud infrastructure revenue jumped 121% since last year, reflecting demand for its AI cloud services.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+    "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
     "image_url": null,
-    "published_at": "2026-09-11T05:53:13.000Z"
+    "published_at": "2026-09-11T11:22:05.000Z"
   },
   {
-    "headline": "China's global hunt for tax revenue may be just getting started",
-    "summary": "Beijing's recent push to tax offshore wealth may be only the opening phase of a broader campaign that could eventually reach overseas properties, inheritances.",
+    "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
+    "summary": "Trump said he isn't concerned AI could cause human extinction as researchers at leading AI companies warn about rapid advances and lawmakers propose safeguards.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
+    "url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
     "image_url": null,
-    "published_at": "2026-09-11T04:47:10.000Z"
+    "published_at": "2026-09-11T11:10:36.000Z"
+  },
+  {
+    "headline": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
+    "summary": "Years after 9/11, the U.S. government is walking back some security screenings as threats and technology evolve.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
+    "image_url": null,
+    "published_at": "2026-09-11T11:00:01.000Z"
+  },
+  {
+    "headline": "Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI",
+    "summary": "AI researchers are warning that faster AI self-improvement could eventually make advanced systems harder for humans to control.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html",
+    "image_url": null,
+    "published_at": "2026-09-11T11:00:01.000Z"
+  },
+  {
+    "headline": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market",
+    "summary": "The energy agency warned shrinking inventories and strained refineries could further tighten markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-09-11T10:56:45.000Z"
+  },
+  {
+    "headline": "The oil shock is testing private credit borrowers already burdened by high debt costs",
+    "summary": "Oil near $100 could further squeeze leveraged private credit borrowers as investors weigh the risk that inflation could push interest rates higher again.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/oil-private-credit-refinancing.html",
+    "image_url": null,
+    "published_at": "2026-09-11T10:55:21.000Z"
+  },
+  {
+    "headline": "Oil prices fall sharply after double-digit weekly gains above $100",
+    "summary": "The decline snapped multi-day winning streaks for both Brent and WTI crude oil futures.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html",
+    "image_url": null,
+    "published_at": "2026-09-11T10:39:09.000Z"
+  },
+  {
+    "headline": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+    "summary": "Diesel prices in the U.S. has hit yet another record, soaring past $6 a gallon on average as Washington's war with Iran disrupts the world's flow of fuel",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+    "image_url": null,
+    "published_at": "2026-09-11T10:04:04.000Z"
   },
   {
     "headline": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
@@ -29,7 +77,87 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
     "image_url": null,
-    "published_at": "2026-09-11T04:29:39.000Z"
+    "published_at": "2026-09-11T10:03:44.000Z"
+  },
+  {
+    "headline": "Further European rate hikes 'very much dependent' on energy costs, Bundesbank chief tells CNBC",
+    "summary": "Joachim Nagel told CNBC that a potential move in rates into restrictive territory was \"very much dependent on how the energy prices evolve.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/ecb-nagel-energy-prices-further-interest-rate-hikes.html",
+    "image_url": null,
+    "published_at": "2026-09-11T09:21:51.000Z"
+  },
+  {
+    "headline": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+    "summary": "For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+    "image_url": null,
+    "published_at": "2026-09-11T09:00:00.000Z"
+  },
+  {
+    "headline": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
+    "summary": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
+    "image_url": null,
+    "published_at": "2026-09-11T09:00:00.000Z"
+  },
+  {
+    "headline": "Fintech companies are applying to become banks. Here's what it takes to become one",
+    "summary": "Many financial technology companies are applying to become banks. The Indicator finds out what it takes to go through this process and what benefits come with a bank charter.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5955727/fintech-companies-are-applying-to-become-banks-heres-what-it-takes-to-become-one",
+    "image_url": null,
+    "published_at": "2026-09-11T08:46:42.000Z"
+  },
+  {
+    "headline": "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+    "summary": "The advance raises the threat to shipping near the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden to global markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+    "image_url": null,
+    "published_at": "2026-09-11T08:44:52.000Z"
+  },
+  {
+    "headline": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+    "summary": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+    "image_url": null,
+    "published_at": "2026-09-11T08:13:05.000Z"
+  },
+  {
+    "headline": "Fintechs conquered payments in India. Now they're eyeing credit",
+    "summary": "Fintech companies, the driving force behind the adoption of digital payments in India, are now focusing on offering credit to the underserved population.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/fintechs-upi-india-is-credit-economy-gff.html",
+    "image_url": null,
+    "published_at": "2026-09-11T07:04:56.000Z"
+  },
+  {
+    "headline": "Jamie Dimon joins bankers lobbying the UK ahead of its critical budget — here’s why they’re worried",
+    "summary": "Bankers are pressuring the British government ahead of its Autumn Budget, in which the newly minted leadership will lay out its fiscal plans for Britain.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/jamie-dimon-uk-autumn-budget.html",
+    "image_url": null,
+    "published_at": "2026-09-11T07:03:18.000Z"
+  },
+  {
+    "headline": "China's wealthy brace for a widening tax net as Beijing closes in",
+    "summary": "Beijing's recent push to tax offshore wealth may be only the opening phase of a broader campaign that could eventually reach overseas properties, inheritances.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
+    "image_url": null,
+    "published_at": "2026-09-11T06:53:06.000Z"
+  },
+  {
+    "headline": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+    "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+    "image_url": null,
+    "published_at": "2026-09-11T06:02:40.000Z"
   },
   {
     "headline": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
@@ -1470,133 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
     "image_url": null,
     "published_at": "2026-09-04T20:17:13.000Z"
-  },
-  {
-    "headline": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
-    "summary": "Treasury yields rose as the hot jobs report along with sticky inflation may give the Fed more cover to hike interest rates in September.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html",
-    "image_url": null,
-    "published_at": "2026-09-04T20:12:26.000Z"
-  },
-  {
-    "headline": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
-    "summary": "Tesla's long-awaited Cybercab update failed to dazzle investors.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
-    "image_url": null,
-    "published_at": "2026-09-04T20:06:13.000Z"
-  },
-  {
-    "headline": "Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms",
-    "summary": "Trump's pledge would dramatically increase MAGA Inc.’s spending after the Trump-aligned PAC kept most of its $403 million war chest on the sidelines.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html",
-    "image_url": null,
-    "published_at": "2026-09-04T19:57:35.000Z"
-  },
-  {
-    "headline": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
-    "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-    "image_url": null,
-    "published_at": "2026-09-04T19:48:08.000Z"
-  },
-  {
-    "headline": "WNBA Commissioner Cathy Engelbert to retire at the end of 2026",
-    "summary": "Engelbert oversaw a period of unprecedented growth for the WNBA, but has faced criticism from players over her leadership.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
-    "image_url": null,
-    "published_at": "2026-09-04T19:29:31.000Z"
-  },
-  {
-    "headline": "What strong jobs data means for rates — plus, an out-of-favor trade shines this week",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/what-strong-jobs-data-means-for-rates-plus-an-out-of-favor-trade-shines-this-week.html",
-    "image_url": null,
-    "published_at": "2026-09-04T18:51:01.000Z"
-  },
-  {
-    "headline": "Women accounted for almost all of job gains in August. Here's why",
-    "summary": "Women accounted for virtually all of August's payroll gains, the latest sign of their growing power in the labor market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html",
-    "image_url": null,
-    "published_at": "2026-09-04T18:27:39.000Z"
-  },
-  {
-    "headline": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
-    "summary": "Long-term Treasury yields are being held up by Trump-era policy risk, heavy government borrowing and AI-driven corporate debt.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
-    "image_url": null,
-    "published_at": "2026-09-04T18:08:16.000Z"
-  },
-  {
-    "headline": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
-    "summary": "Filling open commissioner positions at the regulatory agency has been a sticking point in negotiations over the Clarity Act.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html",
-    "image_url": null,
-    "published_at": "2026-09-04T17:53:07.000Z"
-  },
-  {
-    "headline": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
-    "summary": "Wealthy travelers are moving their typical summer getaways to autumn.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
-    "image_url": null,
-    "published_at": "2026-09-04T17:31:44.000Z"
-  },
-  {
-    "headline": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
-    "summary": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
-    "image_url": null,
-    "published_at": "2026-09-04T17:16:37.000Z"
-  },
-  {
-    "headline": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
-    "summary": "Higher prices come as Ukraine pounds Russian refineries, forcing Moscow to ban diesel exports.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
-    "image_url": null,
-    "published_at": "2026-09-04T15:10:20.000Z"
-  },
-  {
-    "headline": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
-    "summary": "Changing SNAP eligibility actually can change consumption habits.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
-    "image_url": null,
-    "published_at": "2026-09-04T15:04:53.000Z"
-  },
-  {
-    "headline": "Back-to-school shopping brought to you by AI — how Amazon, Google are positioned to win",
-    "summary": "The rise of AI-assisted shopping during this year's back-to-school season may be an early window into evolving consumer buying habits.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/back-to-school-shopping-brought-to-you-by-ai-how-amazon-google-are-positioned-to-win.html",
-    "image_url": null,
-    "published_at": "2026-09-04T14:47:15.000Z"
-  },
-  {
-    "headline": "Bitcoin heads for third winning week in a row as macro pressures mount",
-    "summary": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
-    "image_url": null,
-    "published_at": "2026-09-04T14:36:48.000Z"
-  },
-  {
-    "headline": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
-    "summary": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
-    "image_url": null,
-    "published_at": "2026-09-04T14:18:49.000Z"
   }
 ]
