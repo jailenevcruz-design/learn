@@ -1,11 +1,83 @@
 [
   {
+    "headline": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+    "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+    "image_url": null,
+    "published_at": "2026-09-11T06:02:40.000Z"
+  },
+  {
+    "headline": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+    "summary": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+    "image_url": null,
+    "published_at": "2026-09-11T05:53:13.000Z"
+  },
+  {
+    "headline": "China's global hunt for tax revenue may be just getting started",
+    "summary": "Beijing's recent push to tax offshore wealth may be only the opening phase of a broader campaign that could eventually reach overseas properties, inheritances.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
+    "image_url": null,
+    "published_at": "2026-09-11T04:47:10.000Z"
+  },
+  {
     "headline": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
     "summary": "U.S. Treasury Secretary Scott Bessent said that a large bank would be sanctioned next week.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
     "image_url": null,
-    "published_at": "2026-09-11T01:07:44.000Z"
+    "published_at": "2026-09-11T04:29:39.000Z"
+  },
+  {
+    "headline": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
+    "summary": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
+    "image_url": null,
+    "published_at": "2026-09-11T04:29:20.000Z"
+  },
+  {
+    "headline": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
+    "summary": "China and the Philippines have been locked in years of tension over their competing claims in the South China Sea, with friction intensifying in recent months.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/china-philippine-south-china-sea-disputes-tensions-.html",
+    "image_url": null,
+    "published_at": "2026-09-11T03:44:43.000Z"
+  },
+  {
+    "headline": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
+    "summary": "At Y Combinator’s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
+    "image_url": null,
+    "published_at": "2026-09-11T03:39:17.000Z"
+  },
+  {
+    "headline": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+    "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+    "image_url": null,
+    "published_at": "2026-09-11T02:05:24.000Z"
+  },
+  {
+    "headline": "Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy",
+    "summary": "Trump economic advisor Kevin Hassett owned as much as $5 million in Coinbase while serving as the White House's top economic advisor, his disclosure shows.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html",
+    "image_url": null,
+    "published_at": "2026-09-11T01:55:53.000Z"
+  },
+  {
+    "headline": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
+    "summary": "Chinese AI chipmaker Enflame, an Nvidia rival and one of China's \"four little dragons,\" made its Shanghai market debut.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
+    "image_url": null,
+    "published_at": "2026-09-11T01:53:08.000Z"
   },
   {
     "headline": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
@@ -14,14 +86,6 @@
     "url": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
     "image_url": null,
     "published_at": "2026-09-11T00:59:45.000Z"
-  },
-  {
-    "headline": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
-    "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-    "image_url": null,
-    "published_at": "2026-09-11T00:19:54.000Z"
   },
   {
     "headline": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
     "image_url": null,
     "published_at": "2026-09-04T14:18:49.000Z"
-  },
-  {
-    "headline": "The big business of personal protection: How private security became a $50 billion industry",
-    "summary": "Private security spending and guard employment have climbed as companies and communities respond to high-profile attacks, even as violent crime falls.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html",
-    "image_url": null,
-    "published_at": "2026-09-04T14:15:04.000Z"
-  },
-  {
-    "headline": "Volkswagen plans 50,000 job cuts as analysts see ‘halo effect’ for German auto industry",
-    "summary": "Volkswagen shares jumped on Friday after it announced plans to slash a further 50,000 jobs as part of its transformation plan.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html",
-    "image_url": null,
-    "published_at": "2026-09-04T13:04:49.000Z"
-  },
-  {
-    "headline": "Lululemon stock plunges 20% on disappointing earnings and outlook",
-    "summary": "Lululemon posted another quarter of disappointing results and a sales slowdown as the company struggles to turn its business around.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-09-04T12:45:50.000Z"
-  },
-  {
-    "headline": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
-    "summary": "Norway's $2.3 trillion investment fund says it can diversify into new areas with greater risk and returns.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
-    "image_url": null,
-    "published_at": "2026-09-04T12:22:09.000Z"
-  },
-  {
-    "headline": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
-    "summary": "The EU formally joined the U.S.-led sanctions campaign against Iran, while South Korea said it's weighing a military role to help reopen the Strait of Hormuz.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
-    "image_url": null,
-    "published_at": "2026-09-04T12:20:07.000Z"
-  },
-  {
-    "headline": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
-    "summary": "The Treasury has proposed regulations that would strip thousands of private schools of their tax-exempt status and threaten a valuable tax break for donations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
-    "image_url": null,
-    "published_at": "2026-09-04T12:15:44.000Z"
-  },
-  {
-    "headline": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
-    "summary": "The global billionaire count hit a record of 3,795 people last year, with the biggest wealth gains for the richest of the rich, per a recent Altrata report.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
-    "image_url": null,
-    "published_at": "2026-09-04T11:32:55.000Z"
-  },
-  {
-    "headline": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
-    "summary": "Nvidia’s $12.9 billion Hugging Face deal could protect its open AI ecosystem, deepen ties with developers and keep the platform from rivals.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
-    "image_url": null,
-    "published_at": "2026-09-04T11:31:30.000Z"
   }
 ]

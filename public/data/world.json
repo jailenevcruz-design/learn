@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+    "summary": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+    "image_url": null,
+    "published_at": "2026-09-11T05:40:21.000Z"
+  },
+  {
     "headline": "Amid war and sanctions, unemployment worsens in Iran",
     "summary": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
     "image_url": null,
     "published_at": "2026-08-13T06:04:38.000Z"
-  },
-  {
-    "headline": "Photos: See the best photos from this year's total solar eclipse",
-    "summary": "Millions of people in Europe stepped outside Wednesday to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland, Spain and Portugal.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/best-solar-eclipse-photos",
-    "image_url": null,
-    "published_at": "2026-08-13T01:38:01.000Z"
   }
 ]
