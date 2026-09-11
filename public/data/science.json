@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Too much light at night may quietly reshape your heart",
+    "summary": "Nighttime light exposure was linked to thicker, stiffer heart chambers and early signs of reduced heart function in a study of more than 11,000 people. The findings suggest that keeping bedrooms darker could be an overlooked strategy for protecting the heart.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003847.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T12:33:38.000Z"
+  },
+  {
+    "headline": "Your next prescription could be treating a side effect from the last one",
+    "summary": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and automated alerts could help prevent these potentially harmful prescribing cascades.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T12:17:18.000Z"
+  },
+  {
+    "headline": "Tiny nanolaser could cut computer energy use in half",
+    "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient da…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T12:03:26.000Z"
+  },
+  {
+    "headline": "Scientists just made quantum computer operations 1,000 times faster",
+    "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T11:52:30.000Z"
+  },
+  {
+    "headline": "Wasps are disappearing this summer, and scientists are worried",
+    "summary": "Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape insect populations.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T11:38:35.000Z"
+  },
+  {
+    "headline": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
+    "summary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems. People with ADHD had nearly double the odds of constipation, 58% higher odds of irritable bowel syndrome, and more than four times the odds of encopresis.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T11:26:08.000Z"
+  },
+  {
+    "headline": "Physicists just found a tiny glitch in time itself",
+    "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T05:18:44.000Z"
+  },
+  {
+    "headline": "Scientists find signs of extreme aging and youth in the same 117-year-old",
+    "summary": "A remarkably detailed study of Maria Branyas, who lived past 117, reveals that extreme longevity may involve both intense aging and powerful biological protection at the same time. Researchers found signs of advanced aging, but also low inflammation, beneficial gut bacteria, protective genetic features, and a biologica…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231800.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T04:27:25.000Z"
+  },
+  {
+    "headline": "Scientists discover the human heart can regrow muscle after a heart attack",
+    "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists now hope to identify ways to dramatically boost this natural repair process, potentially opening a…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T02:56:49.000Z"
+  },
+  {
+    "headline": "Eating only 8 hours a day may help control Type 1 diabetes",
+    "summary": "Eating only between noon and 8 p.m. improved blood sugar control in a small study of adults with Type 1 diabetes and obesity, while avoiding an increase in serious complications. The promising findings offer the first evidence that time restricted eating could become another tool for managing the condition.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231740.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T02:20:35.000Z"
+  },
+  {
+    "headline": "The Moon may have formed intact just hours after a giant collision",
+    "summary": "Scientists have discovered that the Moon-forming collision may have depended heavily on how hot and physically strong early Earth and Theia were. New simulations found that some impacts create the familiar disk of debris that later becomes the Moon, while others can produce an intact Moon in only about five hours. The…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231729.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T01:40:57.000Z"
+  },
+  {
+    "headline": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
+    "summary": "UCLA researchers developed ready-made cancer-fighting T cells from cord blood stem cells that can attack solid tumors through two separate detection systems. In mice, a single dose controlled cancer and extended survival while avoiding a dangerous complication associated with donor-derived T-cell therapies.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T01:08:27.000Z"
+  },
+  {
     "headline": "This summer was hot. August shattered global heat records",
     "summary": "Scientists say that August was the hottest month ever recorded globally. In the U.S., summer temperatures also shattered heat records.",
     "publisher": "NPR",
@@ -16,12 +112,92 @@
     "published_at": "2026-09-10T18:07:57.000Z"
   },
   {
+    "headline": "Scientists capture two DNA strands zipping together for the first time",
+    "summary": "Scientists have directly observed how two negatively charged DNA molecules can pair up despite normally repelling each other. Positively charged metal ions appear to bridge the gap, helping matching DNA helices align groove for groove like a molecular zipper. The discovery confirms a theory proposed two decades ago and…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T14:33:06.000Z"
+  },
+  {
+    "headline": "DNA solves the mystery of a body found in the Arctic in 1859",
+    "summary": "Scientists have used DNA from living descendants to identify four more members of the doomed Franklin expedition, including Harry Peglar, whose identity had remained uncertain for 166 years. The findings offer new clues about the sailors who survived for years in the Arctic before joining the expedition’s ultimately fa…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231735.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T12:46:43.000Z"
+  },
+  {
+    "headline": "Scientists create brilliant white material without a drop of white pigment",
+    "summary": "Researchers have created a foam-based material that produces intense whiteness and water repellency without titanium dioxide pigments or PFAS chemicals. Inspired by natural structures in snow, clouds, flowers, and lotus leaves, the material uses tiny pores to scatter light while its rough surface repels water. The tech…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231712.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T12:22:11.000Z"
+  },
+  {
+    "headline": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
+    "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as climate-driven flooding…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T10:35:52.000Z"
+  },
+  {
     "headline": "Scientists say August was Earth's hottest month they've measured",
     "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
     "image_url": null,
     "published_at": "2026-09-10T08:54:00.000Z"
+  },
+  {
+    "headline": "Ancient teeth reveal humans were getting high 25,000 years ago",
+    "summary": "Ancient human remains from Sulawesi suggest people were habitually using the psychoactive betel nut as far back as 25,000 years ago. Researchers found both unusual tooth wear and traces of arecoline, the nut’s mind-altering compound, in the teeth of prehistoric hunter-gatherers. The practice may have started partly as…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231705.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T07:58:25.000Z"
+  },
+  {
+    "headline": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
+    "summary": "The Mediterranean may seem far removed from the world’s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis could reach shore in under 10 minutes, while past events have produced waves around two meters high, powe…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T06:35:49.000Z"
+  },
+  {
+    "headline": "DNA treatment cuts bad cholesterol by nearly 50% without statins",
+    "summary": "Researchers have designed a new DNA-based treatment that targets PCSK9, a protein closely tied to high LDL cholesterol and atherosclerosis. Their most effective molecule reduced PCSK9 protein by 87% in human liver cells and lowered cholesterol by 47% in genetically modified mice after a single injection.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909225602.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T03:44:05.000Z"
+  },
+  {
+    "headline": "One sugary drink a day linked to more than double the risk of stomach cancer",
+    "summary": "People who drank at least one sugar-sweetened beverage a day had roughly 2.45 times the risk of gastric cancer compared with those who rarely consumed them, according to a decades-long study of more than 112,000 U.S. adults. Artificially sweetened drinks showed no similar association, though researchers stress that the…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005207.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T02:56:17.000Z"
+  },
+  {
+    "headline": "400,000-year-old teeth reveal a hidden link in human evolution",
+    "summary": "More than 400,000-year-old Homo erectus teeth from China may reveal a surprising link between this ancient human species, Denisovans, and some modern people. Scientists found protein mutations suggesting several East Asian Homo erectus populations belonged to the same evolutionary group, including one mutation previous…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005203.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T02:18:08.000Z"
+  },
+  {
+    "headline": "Raindrops can damage paint with microscopic “lightning”",
+    "summary": "Scientists discovered that charged water droplets can damage protective coatings by releasing tiny electrical discharges when they hit a surface. The hidden effect could help explain weathering and lead to tougher coatings for cars, bridges, buildings, and more.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005159.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T00:44:47.000Z"
   },
   {
     "headline": "Are we any closer to detecting dark matter?",
@@ -1422,181 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260824065510.htm",
     "image_url": null,
     "published_at": "2026-08-26T08:15:18.000Z"
-  },
-  {
-    "headline": "Childhood trauma may leave a lasting “scar” inside brain cells",
-    "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
-    "image_url": null,
-    "published_at": "2026-08-26T07:28:27.000Z"
-  },
-  {
-    "headline": "Your genes may decide whether a low-carb diet sends cholesterol soaring",
-    "summary": "A low-carb diet may raise LDL cholesterol much more sharply in people who are genetically predisposed to high cholesterol, particularly when they consume lots of saturated fat. The findings could help explain why people following seemingly similar diets can have dramatically different results.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823015009.htm",
-    "image_url": null,
-    "published_at": "2026-08-26T01:31:50.000Z"
-  },
-  {
-    "headline": "Three forgotten kings could rewrite the history of ancient Assyria",
-    "summary": "Three forgotten Assyrian kings may have been hiding in plain sight for more than 2,700 years. By piecing together clues from tablets, inscriptions, and an ancient statue, researchers argue that these rulers were omitted from the famous Assyrian King List.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260824065549.htm",
-    "image_url": null,
-    "published_at": "2026-08-26T01:20:06.000Z"
-  },
-  {
-    "headline": "Your brain may not actually “make” decisions",
-    "summary": "A neuroscientist is challenging the idea that the brain contains a central system that actually “makes” our decisions. What we experience as choosing may instead emerge from the continuous interaction of perception, movement, the body, and the world around us.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094148.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T17:53:28.000Z"
-  },
-  {
-    "headline": "Forces deep inside Earth helped Antarctica freeze before the Arctic",
-    "summary": "Scientists may have solved the mystery of why Antarctica froze millions of years before the Arctic. Slow-moving waves deep inside Earth gradually lifted East Antarctica, building mountains and a high plateau where snow and ice could survive even in a much warmer world. Once glaciers took hold, their bright surfaces ref…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094154.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T17:12:46.000Z"
-  },
-  {
-    "headline": "Shingles vaccine linked to 24% lower dementia risk",
-    "summary": "Older adults who received the Shingrix shingles vaccine were 24% less likely to be diagnosed with dementia over four years in a study of more than 500,000 people. Researchers estimate the difference could amount to roughly one dementia case prevented for every 17 people vaccinated.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T13:09:21.000Z"
-  },
-  {
-    "headline": "Supercharged “natural killer” cells could be a powerful new cancer weapon",
-    "summary": "Researchers have found a way to supercharge natural killer cells, powerful immune cells that can attack cancer, so they can penetrate solid tumors and keep fighting once inside. In mice, these specially prepared tissue-resident cells slowed the growth of several tumors, including melanoma and head and neck cancers, and…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T12:56:22.000Z"
-  },
-  {
-    "headline": "A Manhattan-sized ice island just broke free from Greenland",
-    "summary": "A huge section of Greenland’s Petermann Glacier has snapped off, forming an ice island about the size of Manhattan. Satellites watched cracks spread rapidly before the 76-square-kilometer slab finally broke free on August 4. It is the glacier’s biggest calving event since 2012, and scientists say two even larger pieces…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094145.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T12:32:33.000Z"
-  },
-  {
-    "headline": "Atomic catalyst unlocks the hidden value of plant waste",
-    "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic level, the discovery could help turn forestry and agricultural waste into renewable building blocks for…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T10:09:15.000Z"
-  },
-  {
-    "headline": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
-    "summary": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-    "image_url": null,
-    "published_at": "2026-08-25T09:00:00.000Z"
-  },
-  {
-    "headline": "Did climate change cause this heat wave? Most likely, and here's why",
-    "summary": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here's what I tell them.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-    "image_url": null,
-    "published_at": "2026-08-25T09:00:00.000Z"
-  },
-  {
-    "headline": "Scientists find hidden “highways” guiding animal evolution",
-    "summary": "A sweeping analysis of thousands of animal genomes suggests that chromosomes do not evolve randomly but instead follow a limited number of irreversible “evolutionary highways.” These one-way genetic changes preserve clues to more than 600 million years of animal history and could even help researchers explore where evo…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260824065514.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T08:48:49.000Z"
-  },
-  {
-    "headline": "NASA finds Earth microbes could survive on the Moon",
-    "summary": "NASA scientists found that microbes brought by astronauts could survive in cold, shadowed niches around the Moon’s South Pole, potentially complicating future searches for pristine lunar chemistry. Some refuges may be no larger than a footprint, while one hardy fungus could even withstand limited exposure to sunlight.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094142.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T06:30:18.000Z"
-  },
-  {
-    "headline": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-    "summary": "Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
-    "image_url": null,
-    "published_at": "2026-08-25T05:24:16.000Z"
-  },
-  {
-    "headline": "Depression may shut down the brain’s ability to make new neurons",
-    "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to differe…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T05:06:08.000Z"
-  },
-  {
-    "headline": "People who live past 110 have an unusual abundance of killer immune cells",
-    "summary": "People who reach 110 and beyond appear to have unusually large numbers of rare immune cells capable of killing abnormal cells. These CD4 cytotoxic T cells became more common with age and often expanded into large groups of nearly identical cells, suggesting the immune system was repeatedly responding to persistent thre…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823014950.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T04:07:07.000Z"
-  },
-  {
-    "headline": "Newton’s 300-year-old law just passed its biggest test yet",
-    "summary": "A massive test of gravity across the cosmos found that it behaves almost exactly as Newton and Einstein predicted, even across galaxy clusters hundreds of millions of light-years apart. The result weakens some modified-gravity explanations and strengthens the case that dark matter is behind the universe’s mysterious mi…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823015019.htm",
-    "image_url": null,
-    "published_at": "2026-08-25T01:49:06.000Z"
-  },
-  {
-    "headline": "This scientist uses light to perform smarter, cleaner chemistry",
-    "summary": "To create the molecules we need to help us grow food or make fuel, we rely on chemical reactions — and lots of energy. One scientist may have a \"brighter\" approach, controlling chemistry with light.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5940030/this-scientist-uses-light-to-perform-smarter-cleaner-chemistry",
-    "image_url": null,
-    "published_at": "2026-08-24T22:13:31.000Z"
-  },
-  {
-    "headline": "Lab-grown organoids are living longer — offering new insight into the human brain",
-    "summary": "A study in the journal Nature sets a new record for the lifespan of lab-grown cells called organoids. These clusters of human cells in petri dishes are used as models of the human brain.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5939537/lab-grown-organoids-are-living-longer-offering-new-insight-into-the-human-brain",
-    "image_url": null,
-    "published_at": "2026-08-24T22:10:43.000Z"
-  },
-  {
-    "headline": "Common medications may change your gut for years",
-    "summary": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some effects were still detectable…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T13:14:50.000Z"
-  },
-  {
-    "headline": "Bird flu is spreading. Your backyard feeder could make it worse",
-    "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T12:49:08.000Z"
-  },
-  {
-    "headline": "A ghostly ribbon of stars reveals hidden dark matter",
-    "summary": "A faint ribbon of stars around a distant galaxy has become the first globular cluster stellar stream ever identified beyond the Milky Way. Because the stars trace the galaxy’s gravity, researchers used the stream to estimate how much invisible dark matter surrounds it and how that matter is distributed. The breakthroug…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823015000.htm",
-    "image_url": null,
-    "published_at": "2026-08-24T12:19:34.000Z"
   }
 ]
