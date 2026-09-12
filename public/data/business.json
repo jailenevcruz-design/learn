@@ -1,11 +1,99 @@
 [
   {
+    "headline": "Your work manager may be talking with AI about your pay, performance, promotion",
+    "summary": "AI tools let managers rehearse difficult conversations about performance, pay and layoffs, but experts say privacy safeguards and human judgment are essential.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
+    "image_url": null,
+    "published_at": "2026-09-12T14:16:05.000Z"
+  },
+  {
+    "headline": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
+    "summary": "America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
+    "image_url": null,
+    "published_at": "2026-09-12T13:52:03.000Z"
+  },
+  {
+    "headline": "College sticker prices keep rising. Why many schools are still under financial strain",
+    "summary": "Even with soaring price tags, a growing number of private colleges are in financial distress.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/college-costs-top-100000-as-tuition-discounts-strain-schools.html",
+    "image_url": null,
+    "published_at": "2026-09-12T13:30:01.000Z"
+  },
+  {
     "headline": "Trump's America-first world is pushing other powers to hedge their bets",
     "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
     "image_url": null,
-    "published_at": "2026-09-12T06:25:50.000Z"
+    "published_at": "2026-09-12T13:24:33.000Z"
+  },
+  {
+    "headline": "Buffett's confidence in troubled decade-old acquisition finally pays off",
+    "summary": "Warren Buffett has said he paid too much for Precision Castparts in 2016. Now its complex metal castings are in high demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
+    "image_url": null,
+    "published_at": "2026-09-12T13:20:04.000Z"
+  },
+  {
+    "headline": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+    "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
+    "image_url": null,
+    "published_at": "2026-09-12T13:15:04.000Z"
+  },
+  {
+    "headline": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
+    "summary": "Oil prices retreated on Friday on hopes of a resumptions in negotiations, but notched sharp weekly gains after soaring above $100 a barrel.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
+    "image_url": null,
+    "published_at": "2026-09-12T13:02:15.000Z"
+  },
+  {
+    "headline": "I worked with Gloria Steinem for 30 years—This was her No. 1 antidote to fear",
+    "summary": "Take The Lead founder Gloria Feldt recalls working with Gloria Steinem and the part of her legacy she will carry with her.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/i-worked-with-gloria-steinem-for-30-years-this-was-her-no-1-antidote-to-fear.html",
+    "image_url": null,
+    "published_at": "2026-09-12T13:00:01.000Z"
+  },
+  {
+    "headline": "Oil's roundtrip back to $100. Why China could determine what happens next",
+    "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
+    "image_url": null,
+    "published_at": "2026-09-12T12:40:05.000Z"
+  },
+  {
+    "headline": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+    "summary": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+    "image_url": null,
+    "published_at": "2026-09-12T12:00:01.000Z"
+  },
+  {
+    "headline": "Why are the people building the most powerful AI so worried about what it could do?",
+    "summary": "As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+    "image_url": null,
+    "published_at": "2026-09-12T09:00:00.000Z"
+  },
+  {
+    "headline": "Oracle's Larry Ellison adopts trading plan to sell up to $7.5 billion worth of stock",
+    "summary": "Oracle founder Larry Ellison, the world's seventh-richest person, can sell up to 50 million of his shares in the software company under a new trading plan.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/larry-ellison-50-million-trading-plan.html",
+    "image_url": null,
+    "published_at": "2026-09-12T01:36:02.000Z"
   },
   {
     "headline": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
@@ -342,6 +430,14 @@
     "url": "https://www.npr.org/2026/09/11/nx-s1-5955727/fintech-companies-are-applying-to-become-banks-heres-what-it-takes-to-become-one",
     "image_url": null,
     "published_at": "2026-09-11T08:46:42.000Z"
+  },
+  {
+    "headline": "As data centers spread, not all U.S. housing markets react the same way",
+    "summary": "Realtors around the U.S. are being asked to explain how data centers could affect home values. But a new study shows there is no universal answer.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5964912/data-centers-growing-footprint-have-a-varying-effect-on-property-values",
+    "image_url": null,
+    "published_at": "2026-09-11T08:45:46.000Z"
   },
   {
     "headline": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
@@ -1502,101 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
     "image_url": null,
     "published_at": "2026-09-07T15:55:48.000Z"
-  },
-  {
-    "headline": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
-    "summary": "It comes shortly after Icelanders voted to reject restarting EU membership talks and as Trump renews his push to acquire Greenland on national security grounds.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
-    "image_url": null,
-    "published_at": "2026-09-07T13:09:36.000Z"
-  },
-  {
-    "headline": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
-    "summary": "Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
-    "image_url": null,
-    "published_at": "2026-09-07T12:26:40.000Z"
-  },
-  {
-    "headline": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
-    "summary": "The luxury carmaker is targeting £1.7 billion ($2.3 billion) in savings as it faces Chinese competition, a cyberattack and U.S. tariffs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html",
-    "image_url": null,
-    "published_at": "2026-09-07T11:50:43.000Z"
-  },
-  {
-    "headline": "Top Wall Street analysts like these 3 stocks for the long haul",
-    "summary": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html",
-    "image_url": null,
-    "published_at": "2026-09-07T10:37:16.000Z"
-  },
-  {
-    "headline": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes",
-    "summary": "Lebanese President Joseph Aoun called on the U.S. to help stop Israeli attacks after Sunday strikes killed at least seven people.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
-    "image_url": null,
-    "published_at": "2026-09-07T09:26:27.000Z"
-  },
-  {
-    "headline": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
-    "summary": "Finance ministry data showed that Japan's official foreign reserves stand at $1.207 trillion, down from July's figure of $1.287 trillion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
-    "image_url": null,
-    "published_at": "2026-09-07T07:38:42.000Z"
-  },
-  {
-    "headline": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
-    "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-    "image_url": null,
-    "published_at": "2026-09-07T07:35:18.000Z"
-  },
-  {
-    "headline": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
-    "summary": "",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
-    "image_url": null,
-    "published_at": "2026-09-07T05:56:40.000Z"
-  },
-  {
-    "headline": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
-    "summary": "Treasury yields face a test at 4.8%, with a sustained move above that potentially creating \"meaningful problems\" for other asset classes, said Miller Tabak.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
-    "image_url": null,
-    "published_at": "2026-09-07T02:01:52.000Z"
-  },
-  {
-    "headline": "Volcano eruption disrupts hundreds of flights at Southeast Asia's second-busiest airport",
-    "summary": "Mount Anak Krakatau’s eruption disrupted hundreds of flights across Indonesia, with flight cancellations extending into Monday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/flights-canceled-jakarta-airport-anak-krakatau-eruption-disrupts-regional-travel-volcano.html",
-    "image_url": null,
-    "published_at": "2026-09-07T01:31:03.000Z"
-  },
-  {
-    "headline": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
-    "summary": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
-    "image_url": null,
-    "published_at": "2026-09-06T17:53:53.000Z"
-  },
-  {
-    "headline": "'Everyone has an AI secret': This artist has spent a year collecting and sharing hundreds of anonymous AI confessions",
-    "summary": "Through her project \"What We Tell AI,\" Olivia Tai has collected over 350 handwritten secrets about how people use AI to navigate dating, work and life.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/06/artists-ai-secrets-project-collects-hundreds-of-anonymous-confessions.html",
-    "image_url": null,
-    "published_at": "2026-09-06T14:00:01.000Z"
   }
 ]

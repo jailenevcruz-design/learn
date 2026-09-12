@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+    "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name Laika, you probably know the studio's wor…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
+    "image_url": null,
+    "published_at": "2026-09-12T13:00:00.000Z"
+  },
+  {
+    "headline": "Where to preorder the iPhone 18 Pro and Pro Max",
+    "summary": "Which color suits you best? | Photo: Nilay Patel / The Verge The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neura…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+    "image_url": null,
+    "published_at": "2026-09-12T12:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI just wants to win",
+    "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathemat…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "image_url": null,
+    "published_at": "2026-09-12T11:00:00.000Z"
+  },
+  {
     "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
     "publisher": "TechCrunch",
@@ -1574,29 +1598,5 @@
     "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
     "image_url": null,
     "published_at": "2026-09-05T13:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI admits to German wiki ‘incident’",
-    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "image_url": null,
-    "published_at": "2026-09-05T11:15:55.000Z"
-  },
-  {
-    "headline": "Robotaxis enter their villain era",
-    "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have gone from sci-…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
-    "image_url": null,
-    "published_at": "2026-09-05T11:00:00.000Z"
-  },
-  {
-    "headline": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "image_url": null,
-    "published_at": "2026-09-04T23:36:14.000Z"
   }
 ]

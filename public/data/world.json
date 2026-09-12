@@ -1,5 +1,45 @@
 [
   {
+    "headline": "'People are still afraid of those three letters': Fighting the stigma of HIV",
+    "summary": "That's a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the virus.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+    "image_url": null,
+    "published_at": "2026-09-12T13:03:20.000Z"
+  },
+  {
+    "headline": "'BRICS' forum brings together emerging economies, aimed at countering western dominance",
+    "summary": "India hosts the 18th BRICS summit in New Delhi this weekend. BRICS is a grouping of major emerging markets and developing countries.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/12/nx-s1-5965777/brics-forum-brings-together-emerging-economies-aimed-at-countering-western-dominance",
+    "image_url": null,
+    "published_at": "2026-09-12T12:30:55.000Z"
+  },
+  {
+    "headline": "Saudi Arabia forced to shut down crucial Red Sea pipeline after attacks",
+    "summary": "The Iran-backed Houthi militia captured a strategic Red Sea port city this week. NPR's Scott Simon talks to April Longley Alley of the Washington Institute.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/12/nx-s1-5964940/saudi-arabia-forced-to-shut-down-crucial-red-sea-pipeline-after-attacks",
+    "image_url": null,
+    "published_at": "2026-09-12T12:19:22.000Z"
+  },
+  {
+    "headline": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+    "summary": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
+    "image_url": null,
+    "published_at": "2026-09-12T10:00:00.000Z"
+  },
+  {
+    "headline": "BRICS leaders meet in India as wars and US tensions test the bloc",
+    "summary": "Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+    "image_url": null,
+    "published_at": "2026-09-12T07:18:55.000Z"
+  },
+  {
     "headline": "Yemen's Houthis capture a Red Sea island in threat to shipping",
     "summary": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/08/14/nx-s1-5930225/in-van-turkey-iranians-seek-a-respite-from-the-war-between-tehran-and-the-u-s",
     "image_url": null,
     "published_at": "2026-08-14T08:44:56.000Z"
-  },
-  {
-    "headline": "Stanford's director of Iranian Studies on whether there's a path to end the war",
-    "summary": "NPR's Michel Martin asks Abbas Milani, director of Iranian Studies at Stanford, why more Iranians are fleeing their country and whether there's a realistic path to end the U.S.-Iran war.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5930344/stanfords-director-of-iranian-studies-on-whether-theres-a-path-to-end-the-war",
-    "image_url": null,
-    "published_at": "2026-08-14T08:44:49.000Z"
-  },
-  {
-    "headline": "Ukraine's drone campaign is challenging Russia's grip on Crimea",
-    "summary": "Russia had maintained an iron grip on Crimea since it seized the territory in its initial invasion of Ukraine in 2014. But Ukraine is now waging a sustained drone campaign on the peninsula.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5930217/ukraines-drone-campaign-is-challenging-russias-grip-on-crimea",
-    "image_url": null,
-    "published_at": "2026-08-14T08:43:47.000Z"
-  },
-  {
-    "headline": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-    "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-    "image_url": null,
-    "published_at": "2026-08-14T06:31:29.000Z"
-  },
-  {
-    "headline": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
-    "summary": "Search efforts continue though hopes are fading as teams dig for survivors from the 7.4 magnitude earthquake that killed more than 250 people.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
-    "image_url": null,
-    "published_at": "2026-08-13T21:39:19.000Z"
-  },
-  {
-    "headline": "U.S. ambassador slams Israeli settlers besieging home of Palestinian-American",
-    "summary": "U.S. ambassador to Israel Mike Huckabee called settlers besieging a West Bank home of an American-Palestinian family \"terrorists.\"",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/13/nx-s1-5930275/u-s-ambassador-slams-israeli-settlers-besieging-home-of-palestinian-american",
-    "image_url": null,
-    "published_at": "2026-08-13T21:11:59.000Z"
   }
 ]
