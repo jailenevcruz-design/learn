@@ -1,11 +1,35 @@
 [
   {
-    "headline": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks",
+    "headline": "Trump's America-first world is pushing other powers to hedge their bets",
+    "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+    "image_url": null,
+    "published_at": "2026-09-12T06:25:50.000Z"
+  },
+  {
+    "headline": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+    "summary": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
+    "image_url": null,
+    "published_at": "2026-09-11T22:42:14.000Z"
+  },
+  {
+    "headline": "Cramer’s week ahead: Falling oil could help stocks but Fed is the next big test",
+    "summary": "CNBC’s Jim Cramer said falling oil prices helped fuel Friday’s rebound, but warned next week’s Federal Reserve meeting will be the next test for stocks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
+    "image_url": null,
+    "published_at": "2026-09-11T22:35:09.000Z"
+  },
+  {
+    "headline": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
     "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
     "image_url": null,
-    "published_at": "2026-09-11T21:21:28.000Z"
+    "published_at": "2026-09-11T21:35:14.000Z"
   },
   {
     "headline": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
@@ -30,14 +54,6 @@
     "url": "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
     "image_url": null,
     "published_at": "2026-09-11T20:21:01.000Z"
-  },
-  {
-    "headline": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
-    "summary": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary of the attacks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
-    "image_url": null,
-    "published_at": "2026-09-11T20:05:39.000Z"
   },
   {
     "headline": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion",
@@ -304,7 +320,7 @@
     "published_at": "2026-09-11T09:21:51.000Z"
   },
   {
-    "headline": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
+    "headline": "From DOGE to \"space lasers,\" Alex Gibney peels back the many layers of Elon Musk",
     "summary": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/06/artists-ai-secrets-project-collects-hundreds-of-anonymous-confessions.html",
     "image_url": null,
     "published_at": "2026-09-06T14:00:01.000Z"
-  },
-  {
-    "headline": "Parents who are really good at handling tantrums do 5 things—their kids become more emotionally intelligent, says psychologist",
-    "summary": "\"These kids become more emotionally intelligent, which helps them weather setbacks, embrace independence and try new things,\" says Juli Fraga.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/06/parents-who-are-really-good-at-handling-tantrums-do-things-psychologist.html",
-    "image_url": null,
-    "published_at": "2026-09-06T13:36:01.000Z"
-  },
-  {
-    "headline": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
-    "summary": "The sweetener's prices surged last week, reflecting a sharp deterioration in the global supply outlook.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
-    "image_url": null,
-    "published_at": "2026-09-06T13:19:01.000Z"
   }
 ]

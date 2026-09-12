@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "image_url": null,
+    "published_at": "2026-09-11T22:58:17.000Z"
+  },
+  {
     "headline": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
     "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
     "publisher": "TechCrunch",
@@ -8,8 +16,8 @@
     "published_at": "2026-09-11T21:19:05.000Z"
   },
   {
-    "headline": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-    "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+    "headline": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "image_url": null,
@@ -1590,13 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "image_url": null,
     "published_at": "2026-09-04T23:36:14.000Z"
-  },
-  {
-    "headline": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "image_url": null,
-    "published_at": "2026-09-04T23:15:11.000Z"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Ethics watchdogs await RFK Jr.'s financial report",
+    "summary": "Health Secretary RFK Jr.'s annual financial disclosure is late. When it posts, the public could learn how much he has earned from a vaccine-related lawsuit against Merck, which RFK now regulates.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5964970/ethics-watchdogs-await-rfk-jr-s-financial-report",
+    "image_url": null,
+    "published_at": "2026-09-12T00:42:54.000Z"
+  },
+  {
     "headline": "Mayor of the 'Air Capital of the World' reacts to Trump's threats against Bombardier",
     "summary": "NPR's Sacha Pfeiffer talks with Wichita Mayor Lily Wu about President Trump's tariff war with Canada, Bombardier aircrafts, and the trade war's potential impact on her city.",
     "publisher": "NPR",
@@ -24,14 +32,6 @@
     "published_at": "2026-09-11T11:55:49.000Z"
   },
   {
-    "headline": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
-    "summary": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
-    "image_url": null,
-    "published_at": "2026-09-11T09:00:00.000Z"
-  },
-  {
     "headline": "Empty seats, socialism and Trump dominate the Republican midterm convention",
     "summary": "The two day Republican convention in Dallas showcased the party's biggest asset in trying to win competitive midterm races and its greatest obstacle: President Trump.",
     "publisher": "NPR",
@@ -44,6 +44,14 @@
     "summary": "President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
+    "image_url": null,
+    "published_at": "2026-09-11T09:00:00.000Z"
+  },
+  {
+    "headline": "From DOGE to \"space lasers,\" Alex Gibney peels back the many layers of Elon Musk",
+    "summary": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
     "image_url": null,
     "published_at": "2026-09-11T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/08/nx-s1-5923906/minnesota-gop-divided-over-mike-lindells-potential-gubernatorial-nomination",
     "image_url": null,
     "published_at": "2026-08-08T11:43:50.000Z"
-  },
-  {
-    "headline": "Legal scholar Lawrence Lessig on how a Maine law could topple Super PACs",
-    "summary": "NPR's Scott Simon speaks with legal scholar and activist Lawrence Lessig about the influence of outside money in elections and a court challenge to a Maine state law capping donations to Super PACs.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/08/nx-s1-5922464/legal-scholar-lawrence-lessig-on-how-a-maine-law-could-topple-super-pacs",
-    "image_url": null,
-    "published_at": "2026-08-08T11:43:48.000Z"
   }
 ]
