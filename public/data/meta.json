@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-09-12T14:25:35.579Z",
+  "lastUpdated": "2026-09-12T21:43:13.413Z",
   "topStory": {
-    "categoryKey": "fashion",
+    "categoryKey": "tech",
     "article": {
-      "headline": "Todd Snyder Spring 2027 Menswear",
-      "summary": "",
-      "publisher": "Vogue",
-      "url": "https://www.vogue.com/fashion-shows/spring-2027-menswear/todd-snyder",
+      "headline": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \"ma…",
+      "publisher": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "image_url": null,
-      "published_at": "2026-09-12T14:22:53.000Z"
+      "published_at": "2026-09-12T21:41:36.000Z"
     }
   }
 }

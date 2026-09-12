@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Who really needs a heart calcium scan?",
+    "summary": "A 10-year study of more than 6,000 adults found that popular coronary calcium scans may add little to standard heart disease risk estimates for many people. But for patients with borderline or intermediate risk, the scans could make a meaningful difference by revealing who is actually more likely to develop heart disea…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
+    "image_url": null,
+    "published_at": "2026-09-12T14:33:54.000Z"
+  },
+  {
+    "headline": "Tiny sound waves could help solve a major quantum computing problem",
+    "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended its coherence time by roughly threefold. The same phonons could eventually both transmit and protect quantum informatio…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
+    "image_url": null,
+    "published_at": "2026-09-12T14:08:20.000Z"
+  },
+  {
+    "headline": "Scientists find Ozempic may slow aging itself",
+    "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
+    "image_url": null,
+    "published_at": "2026-09-12T13:52:50.000Z"
+  },
+  {
+    "headline": "Researchers find a Wordle strategy that wins 99% of the time",
+    "summary": "Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99% success rate. Instead of simply guessing words packed with common letters or choosing the most likely answer, the method uses Shannon entropy, a measure from information theory, to identify guesses that reveal t…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
+    "image_url": null,
+    "published_at": "2026-09-12T13:35:56.000Z"
+  },
+  {
+    "headline": "Scientists find a way to break pancreatic cancer’s protective shield",
+    "summary": "Researchers found that blocking IL1RAP could disrupt a powerful inflammatory network that helps pancreatic cancer survive treatment. In preclinical experiments, the approach reduced tumor-protecting cells and fibrosis while boosting the activity of cancer-fighting T cells. That could make chemotherapy and immunotherapy…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003856.htm",
+    "image_url": null,
+    "published_at": "2026-09-12T02:34:24.000Z"
+  },
+  {
+    "headline": "Mercury’s surface reveals a surprisingly fiery past",
+    "summary": "Scientists have discovered that Mercury’s surface contains far less silicon dioxide than previously thought, pointing to an unexpectedly hot volcanic past. The finding suggests ancient lava may have originated from deeper, more extensively melted parts of the planet’s mantle.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm",
+    "image_url": null,
+    "published_at": "2026-09-12T01:28:22.000Z"
+  },
+  {
     "headline": "The secret to longer life may be hidden in bat DNA",
     "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
     "publisher": "ScienceDaily",
@@ -1550,53 +1598,5 @@
     "url": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
     "image_url": null,
     "published_at": "2026-08-26T17:29:13.000Z"
-  },
-  {
-    "headline": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
-    "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
-    "image_url": null,
-    "published_at": "2026-08-26T13:00:53.000Z"
-  },
-  {
-    "headline": "190-year-old DNA reveals a hidden pangolin species",
-    "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful new way to trace illegally traded pangolin scales back to the species and regions being targeted by p…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
-    "image_url": null,
-    "published_at": "2026-08-26T12:46:59.000Z"
-  },
-  {
-    "headline": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
-    "summary": "A Manhattan-sized ice island has broken away from Greenland’s Petermann Glacier after years of growing fractures weakened its floating ice tongue. Scientists expect two more huge sections could soon detach, potentially removing about 22 percent of the remaining ice tongue.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
-    "image_url": null,
-    "published_at": "2026-08-26T12:39:11.000Z"
-  },
-  {
-    "headline": "What you eat before age 2 may affect your health 70 years later",
-    "summary": "Britain’s postwar sugar rationing created a rare natural experiment that let researchers examine how early sugar exposure might affect health decades later. People who experienced more rationing during their first 1,000 days had lower rates of several cancers and showed signs of slower biological aging. They were also…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260824065522.htm",
-    "image_url": null,
-    "published_at": "2026-08-26T11:30:35.000Z"
-  },
-  {
-    "headline": "Turmeric compound may protect blood vessels from diabetes damage",
-    "summary": "A compound found in turmeric may help protect blood vessels from some of the damage caused by Type 1 diabetes. In rats, curcumin reduced inflammation, improved cellular signaling, and restored vascular health to levels resembling those of nondiabetic animals. The results hint at a possible new way to reduce the long-te…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260824065543.htm",
-    "image_url": null,
-    "published_at": "2026-08-26T10:49:14.000Z"
-  },
-  {
-    "headline": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
-    "summary": "NASA’s Roman Space Telescope is now enclosed inside its Falcon Heavy fairing and nearly ready for launch. Its mission could uncover thousands of exoplanets while helping scientists investigate dark matter, dark energy, and the accelerating expansion of the universe.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm",
-    "image_url": null,
-    "published_at": "2026-08-26T10:29:17.000Z"
   }
 ]

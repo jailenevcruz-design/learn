@@ -1,5 +1,93 @@
 [
   {
+    "headline": "OpenAI’s rogue AI tried to hack another company in May",
+    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \"ma…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "image_url": null,
+    "published_at": "2026-09-12T21:41:36.000Z"
+  },
+  {
+    "headline": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "image_url": null,
+    "published_at": "2026-09-12T21:16:28.000Z"
+  },
+  {
+    "headline": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "image_url": null,
+    "published_at": "2026-09-12T20:19:16.000Z"
+  },
+  {
+    "headline": "StarCraft returns in 2030 as an open-world shooter",
+    "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Da…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+    "image_url": null,
+    "published_at": "2026-09-12T20:08:09.000Z"
+  },
+  {
+    "headline": "Anthropic CEO outlines plan to slow AI development",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "image_url": null,
+    "published_at": "2026-09-12T19:34:44.000Z"
+  },
+  {
+    "headline": "Tesla says it will finally unveil the second generation Roadster on October 1",
+    "summary": "Tesla’s halo sports car was first announced in November 2017.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+    "image_url": null,
+    "published_at": "2026-09-12T19:21:19.000Z"
+  },
+  {
+    "headline": "Sylvan Esso think you should splurge on good-quality yogurt",
+    "summary": "Sylvan Esso preparing to attend a frutiger aero renfaire. Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of e…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+    "image_url": null,
+    "published_at": "2026-09-12T16:35:00.000Z"
+  },
+  {
+    "headline": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "image_url": null,
+    "published_at": "2026-09-12T16:23:40.000Z"
+  },
+  {
+    "headline": "LG responds to TV spying allegations",
+    "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed to misconceptions abo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+    "image_url": null,
+    "published_at": "2026-09-12T15:19:44.000Z"
+  },
+  {
+    "headline": "Trump is giving data centers a pass to pollute",
+    "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "image_url": null,
+    "published_at": "2026-09-12T14:41:27.000Z"
+  },
+  {
+    "headline": "Revolut confirms customer data breach through fake government requests",
+    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "image_url": null,
+    "published_at": "2026-09-12T14:40:00.000Z"
+  },
+  {
     "headline": "Laika’s stop-motion fantasy Wildwood looks so smooth",
     "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name Laika, you probably know the studio's wor…",
     "publisher": "The Verge",
@@ -1510,93 +1598,5 @@
     "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
     "image_url": null,
     "published_at": "2026-09-06T12:00:00.000Z"
-  },
-  {
-    "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "image_url": null,
-    "published_at": "2026-09-05T22:49:55.000Z"
-  },
-  {
-    "headline": "Explore the globe in field recordings",
-    "summary": "Around the world in 80 WAVs. | Screenshot: Terrence O’Brien / The Verge I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbli…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-    "image_url": null,
-    "published_at": "2026-09-05T21:31:34.000Z"
-  },
-  {
-    "headline": "iPhone Handoff will seamlessly share one number between two phones",
-    "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up the feature running in Xcode…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-    "image_url": null,
-    "published_at": "2026-09-05T20:53:58.000Z"
-  },
-  {
-    "headline": "Hikers rescued after using Google Gemini for planning",
-    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "image_url": null,
-    "published_at": "2026-09-05T19:35:24.000Z"
-  },
-  {
-    "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "image_url": null,
-    "published_at": "2026-09-05T18:05:27.000Z"
-  },
-  {
-    "headline": "Clucky’s new alarm app wakes you up with a crowing rooster",
-    "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-    "image_url": null,
-    "published_at": "2026-09-05T17:00:00.000Z"
-  },
-  {
-    "headline": "CD sales are booming as physical media continues its resurgence",
-    "summary": "There’s some real gems in there. | Photo: Terrence O’Brien / The Verge According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-    "image_url": null,
-    "published_at": "2026-09-05T16:49:33.000Z"
-  },
-  {
-    "headline": "Oura is going public, but these smart ring companies are coming for its crown",
-    "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-    "image_url": null,
-    "published_at": "2026-09-05T15:00:00.000Z"
-  },
-  {
-    "headline": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-    "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-    "image_url": null,
-    "published_at": "2026-09-05T15:00:00.000Z"
-  },
-  {
-    "headline": "Content creators drop the ball",
-    "summary": "The USTA Billie Jean King National Tennis Center. | Getty Images During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeatedly a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-    "image_url": null,
-    "published_at": "2026-09-05T14:00:16.000Z"
-  },
-  {
-    "headline": "The weird and wonderful headphones of CanJam 2026",
-    "summary": "A collection of headphone manufacturers and fans come together for their love of great sound. | Image: CanJam Global I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state o…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-    "image_url": null,
-    "published_at": "2026-09-05T13:00:00.000Z"
   }
 ]

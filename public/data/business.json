@@ -1,11 +1,35 @@
 [
   {
-    "headline": "Your work manager may be talking with AI about your pay, performance, promotion",
-    "summary": "AI tools let managers rehearse difficult conversations about performance, pay and layoffs, but experts say privacy safeguards and human judgment are essential.",
+    "headline": "Musk, Altman support Anthropic’s Amodei as he shares plan to ‘slow the pace’ of advancing AI capabilities",
+    "summary": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+    "image_url": null,
+    "published_at": "2026-09-12T20:55:55.000Z"
+  },
+  {
+    "headline": "Conversations that AIs are having in the office that may influence your performance review and pay",
+    "summary": "AI tools can help find the right tone and language for difficult workplace conversations about performance and pay, and managers are already using them.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
     "image_url": null,
-    "published_at": "2026-09-12T14:16:05.000Z"
+    "published_at": "2026-09-12T17:39:10.000Z"
+  },
+  {
+    "headline": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+    "summary": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+    "image_url": null,
+    "published_at": "2026-09-12T17:14:56.000Z"
+  },
+  {
+    "headline": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
+    "summary": "Stocks came under pressure last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Fed's next move.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
+    "image_url": null,
+    "published_at": "2026-09-12T14:37:07.000Z"
   },
   {
     "headline": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
@@ -64,6 +88,14 @@
     "published_at": "2026-09-12T13:00:01.000Z"
   },
   {
+    "headline": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+    "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+    "image_url": null,
+    "published_at": "2026-09-12T12:49:15.000Z"
+  },
+  {
     "headline": "Oil's roundtrip back to $100. Why China could determine what happens next",
     "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
     "publisher": "CNBC",
@@ -80,8 +112,8 @@
     "published_at": "2026-09-12T12:00:01.000Z"
   },
   {
-    "headline": "Why are the people building the most powerful AI so worried about what it could do?",
-    "summary": "As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag.",
+    "headline": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
+    "summary": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
     "image_url": null,
@@ -94,6 +126,14 @@
     "url": "https://www.cnbc.com/2026/09/11/larry-ellison-50-million-trading-plan.html",
     "image_url": null,
     "published_at": "2026-09-12T01:36:02.000Z"
+  },
+  {
+    "headline": "Cramer: This market has eerie parallels with 2018. Here's what investors should do",
+    "summary": "CNBC's Jim Cramer sees parallels between today’s market and the fall of 2018, when rising rates and geopolitical tensions preceded a 20% S&P 500 sell-off.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/11/cramer-market-eerie-parallels-2018-what-it-means-for-investors.html",
+    "image_url": null,
+    "published_at": "2026-09-11T23:09:35.000Z"
   },
   {
     "headline": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
@@ -1558,45 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/07/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week.html",
     "image_url": null,
     "published_at": "2026-09-07T23:31:25.000Z"
-  },
-  {
-    "headline": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-    "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-    "image_url": null,
-    "published_at": "2026-09-07T23:23:10.000Z"
-  },
-  {
-    "headline": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
-    "summary": "The chair of the National Transportation Safety Board didn't provide details on the cause of the crash in Miami, which killed at least five people.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
-    "image_url": null,
-    "published_at": "2026-09-07T21:36:12.000Z"
-  },
-  {
-    "headline": "Union electricians welcome data center boom",
-    "summary": "The boom in data centers has brought plenty of work and lots of overtime to union electricians, putting them at odds with many communities trying to block new data center construction.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/07/nx-s1-5947245/union-electricians-welcome-data-center-boom",
-    "image_url": null,
-    "published_at": "2026-09-07T20:46:32.000Z"
-  },
-  {
-    "headline": "Far-right AfD landslide in German state piles pressure on federal government",
-    "summary": "The \"extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" according to analysts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
-    "image_url": null,
-    "published_at": "2026-09-07T17:04:21.000Z"
-  },
-  {
-    "headline": "'Ah! Rejected, yet again': How this 45-year-old turned his 'demoralizing' job search into a one-man show",
-    "summary": "After months of fruitlessly searching for a job, Tim Millard decided to turn his calamity into comedy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
-    "image_url": null,
-    "published_at": "2026-09-07T15:55:48.000Z"
   }
 ]
