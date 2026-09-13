@@ -1,5 +1,77 @@
 [
   {
+    "headline": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+    "summary": "Actor Tatyana Ali says her healing journey after a traumatic childbirth has inspired her advocacy for Black maternal health, including support for midwives, doulas and other birth workers.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+    "image_url": null,
+    "published_at": "2026-09-13T14:00:00.000Z"
+  },
+  {
+    "headline": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+    "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously underexplored layer of the disease that could open new paths for understanding and eventually treating A…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
+    "image_url": null,
+    "published_at": "2026-09-13T13:56:06.000Z"
+  },
+  {
+    "headline": "Physicists can’t agree on how the Universe works",
+    "summary": "A massive worldwide survey of physicists has revealed surprisingly little agreement about some of the universe’s biggest mysteries. No majority backed the standard cosmological model, a leading explanation for dark matter, or any single theory of quantum gravity. One area of stronger agreement stood out: 68% said the B…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
+    "image_url": null,
+    "published_at": "2026-09-13T13:15:56.000Z"
+  },
+  {
+    "headline": "Most men don’t know dairy is linked to prostate cancer risk",
+    "summary": "Most men may be missing an important dietary clue about prostate cancer. A new survey found that only 20% knew research has linked dairy consumption with increased prostate cancer risk, while 66% said they would consider avoiding dairy after learning about the connection. Studies have also associated plant-based diets…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
+    "image_url": null,
+    "published_at": "2026-09-13T12:58:06.000Z"
+  },
+  {
+    "headline": "Global warming is breaking a 400-year climate link between two oceans",
+    "summary": "The Indian and Pacific oceans have been climatically linked for centuries, but scientists say that connection is now breaking down in an exceptional way. Ancient climate records suggest volcanoes disrupted the relationship in the past, while today human-caused warming appears to be driving a much more unusual shift.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912220029.htm",
+    "image_url": null,
+    "published_at": "2026-09-13T12:18:05.000Z"
+  },
+  {
+    "headline": "Scientists are building a microscope powered by a quantum computer",
+    "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protect fragile samples that conventional microscopy can damage.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
+    "image_url": null,
+    "published_at": "2026-09-13T12:03:59.000Z"
+  },
+  {
+    "headline": "NASA-backed scientists turn plastic waste into edible cookies",
+    "summary": "Scientists have engineered yeast to turn PET plastic and agricultural waste into ingredients for protein-rich, 3D-printed cookies called µBites. Developed partly for NASA’s Deep Space Food Challenge, the system can produce proteins, fats, vitamins, and even vanilla flavoring from waste materials. Researchers hope the u…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912220033.htm",
+    "image_url": null,
+    "published_at": "2026-09-13T11:54:36.000Z"
+  },
+  {
+    "headline": "Physicists discover a hidden “curveball” in quantum light",
+    "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected shift is similar to the physics that makes a spinning table tennis ball curve through the air. Becau…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
+    "image_url": null,
+    "published_at": "2026-09-13T11:22:01.000Z"
+  },
+  {
+    "headline": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+    "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth stu…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+    "image_url": null,
+    "published_at": "2026-09-13T10:46:19.000Z"
+  },
+  {
     "headline": "Venus’s pale yellow clouds may hide something surprisingly dark",
     "summary": "A century-old mystery in Venus’s clouds just became more intriguing, as scientists calculated how strongly the unidentified material behind its dark ultraviolet patterns must absorb light. The results sharply narrow the possibilities and could help future spacecraft determine whether the mysterious substance is organic…",
     "publisher": "ScienceDaily",
@@ -1526,77 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260827010459.htm",
     "image_url": null,
     "published_at": "2026-08-28T03:48:29.000Z"
-  },
-  {
-    "headline": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
-    "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one that worked at a record-low 500 watts. That could allow GRCop-42, currently difficult and expensive t…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
-    "image_url": null,
-    "published_at": "2026-08-27T13:08:01.000Z"
-  },
-  {
-    "headline": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
-    "summary": "Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help explain Betelgeuse’s changing brightness and may influence its future supernova.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm",
-    "image_url": null,
-    "published_at": "2026-08-27T12:43:27.000Z"
-  },
-  {
-    "headline": "Your dislike of eating bugs may be 9,000 years old",
-    "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regularly. Populations near the tropics also retained genes that make insect exoskeletons easier to diges…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm",
-    "image_url": null,
-    "published_at": "2026-08-27T12:18:38.000Z"
-  },
-  {
-    "headline": "Eating more ultra-processed foods may raise prostate cancer risk by 30%",
-    "summary": "Ultra-processed foods make up a huge share of the American diet, and new research suggests they may carry another serious health risk for men. In a nationally representative study of more than 17,000 U.S. men, those who ate more ultra-processed foods, including soft drinks, packaged snacks, cereals, and processed meats…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
-    "image_url": null,
-    "published_at": "2026-08-27T11:52:35.000Z"
-  },
-  {
-    "headline": "The real cause of most wildfires? People",
-    "summary": "More than three quarters of all wildfires in the U.S. are caused by human behavior including accidents, negligence and arson.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/27/nx-s1-5944328/the-real-cause-of-most-wildfires-people",
-    "image_url": null,
-    "published_at": "2026-08-27T11:30:00.000Z"
-  },
-  {
-    "headline": "Vitamin C won’t prevent most colds, but it may do one small thing",
-    "summary": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not prevent most people from catching a cold, although regularly taking it may make severe symptoms slightly shorter or milder.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
-    "image_url": null,
-    "published_at": "2026-08-27T10:38:30.000Z"
-  },
-  {
-    "headline": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
-    "summary": "Today’s mysterious gravitational-wave background may preserve clues about how the Universe’s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a major portion of the signal, offering a surprising new way to investigate cosmic dawn and dark matter.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
-    "image_url": null,
-    "published_at": "2026-08-27T10:26:04.000Z"
-  },
-  {
-    "headline": "Scientists switch on a strange new form of magnetism in an ultrathin material",
-    "summary": "Scientists have found a surprising way to potentially switch on an unusual form of magnetism in ruthenium dioxide, a material that normally appears nonmagnetic. When the material was made into an ultrathin film only a few atomic layers thick and placed under strain, its electrons developed patterns consistent with alte…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
-    "image_url": null,
-    "published_at": "2026-08-27T09:23:20.000Z"
-  },
-  {
-    "headline": "Nuclear regulator prepares to abandon a decades-old radiation safety rule",
-    "summary": "A push by President Trump could mean the elimination of a safety standard designed to keep radiation exposure as low as possible.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
-    "image_url": null,
-    "published_at": "2026-08-27T09:00:00.000Z"
   }
 ]

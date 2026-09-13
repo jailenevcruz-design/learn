@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Wisconsin congressman survives emergency plane landing, swims to safety",
+    "summary": "Wisconsin Congressman Tom Tiffany escaped a sinking plane and swam to shallow water after an emergency landing in a lake. Tiffany and the pilot called 911 from on top of the plane.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
+    "image_url": null,
+    "published_at": "2026-09-13T17:45:33.000Z"
+  },
+  {
+    "headline": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
+    "summary": "Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
+    "image_url": null,
+    "published_at": "2026-09-13T12:04:27.000Z"
+  },
+  {
+    "headline": "The Social Security trust fund is running out. Why is it not a top campaign issue?",
+    "summary": "Limited public discussion of the trust fund's shortfall has experts worried that most Americans don't fully understand the problems Social Security faces — or weigh in on solutions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5898447-e1/the-social-security-trust-fund-is-running-out-why-is-it-not-a-top-campaign-issue",
+    "image_url": null,
+    "published_at": "2026-09-13T12:04:25.000Z"
+  },
+  {
+    "headline": "How a young woman was recruited to ISIS — and how she eventually escaped",
+    "summary": "A young Canadian mother shares her memories of being an ISIS bride, and her harrowing escape from the extremist group.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
+    "image_url": null,
+    "published_at": "2026-09-13T09:00:00.000Z"
+  },
+  {
     "headline": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
     "summary": "Nazira Haji Zada, a lawful permanent resident, conceded to being an \"alien terrorist.\" It marks the first case in the Alien Terrorist Removal Court.",
     "publisher": "NPR",
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
     "image_url": null,
     "published_at": "2026-08-10T09:00:00.000Z"
-  },
-  {
-    "headline": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
-    "summary": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-    "image_url": null,
-    "published_at": "2026-08-10T09:00:00.000Z"
-  },
-  {
-    "headline": "Faith is a centerpiece of Texas Senate candidate James Talarico's campaign",
-    "summary": "James Talarico, Texas' Democratic Senate nominee, is putting faith at the center of his campaign. Republicans are pushing back. Control over the U.S. Senate hangs in the balance.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/10/nx-s1-5888593/faith-is-a-centerpiece-of-texas-senate-candidate-james-talaricos-campaign",
-    "image_url": null,
-    "published_at": "2026-08-10T08:40:27.000Z"
-  },
-  {
-    "headline": "Max Miller is refusing to drop his bid for reelection. Here's what voters think",
-    "summary": "Voters in Ohio's 7th Congressional district react to calls for Rep. Max Miller to drop his bid for reelection. He ran uncontested in the May 5 GOP primary. The Democratic nominee is Brian Poindexter.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/09/nx-s1-5925302/max-miller-is-refusing-to-drop-his-bid-for-reelection-heres-what-voters-think",
-    "image_url": null,
-    "published_at": "2026-08-09T13:08:23.000Z"
-  },
-  {
-    "headline": "Haunted by Hoover, Trump searches for an endgame in Iran",
-    "summary": "President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
-    "image_url": null,
-    "published_at": "2026-08-09T12:39:47.000Z"
   }
 ]
