@@ -1,5 +1,133 @@
 [
   {
+    "headline": "A Twisted Sculpture Lands on Manhattan's High Line",
+    "summary": "The inflatable cavatappi-shaped artwork, inspired by fashion house Bulgari’s serpent motif, will remain on view through New York Fashion Week.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/a-twisted-sculpture-lands-on-manhattans-high-line/",
+    "image_url": null,
+    "published_at": "2026-09-14T19:13:35.000Z"
+  },
+  {
+    "headline": "Lawsuit Alleges Warhol Forgery Scheme Spanning Florida, Peru, and Philadelphia",
+    "summary": "Real estate investor Richard Perlman and his family say they were duped into buying $6.7 million worth of fakes.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/andy-warhol-foregery-lawsuit-richard-perlman-1234798170/",
+    "image_url": null,
+    "published_at": "2026-09-14T19:10:15.000Z"
+  },
+  {
+    "headline": "Madelon Vriesendorp’s Subconscious Cities",
+    "summary": "An exhibition explores the creativity and imagination of an artist whose way of seeing influences architects and artists.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/madelon-vriesendorps-subconscious-cities/",
+    "image_url": null,
+    "published_at": "2026-09-14T18:34:39.000Z"
+  },
+  {
+    "headline": "Charlie Kirk’s Widow Denounces Vandalism of Statue in Arizona: ‘His Instinct Was Always to Build, Not Destroy’",
+    "summary": "The statue appeared last week outside the Phoenix headquarters of Turning Point USA.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/charlie-kirk-statue-arizona-turning-point-erika-kirk-1234798164/",
+    "image_url": null,
+    "published_at": "2026-09-14T18:09:19.000Z"
+  },
+  {
+    "headline": "Activists Protest Bayeux Tapestry Sponsor’s Ties to Israeli Settlements",
+    "summary": "Demonstrators at the British Museum decried billionaire Igor Tulchinsky’s financing of a community center in an illegal Israeli settlement in the Occupied West Bank.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/activists-protest-bayeux-tapestry-sponsors-ties-to-israeli-settlements/",
+    "image_url": null,
+    "published_at": "2026-09-14T17:39:28.000Z"
+  },
+  {
+    "headline": "Sotheby’s to Offer $90 M. in Art from Richard Hedreen’s Collection, Ahead of Major University Gift",
+    "summary": "The roughly 50 works, led by a $20 million to $30 million Roy Lichtenstein, are being sold as Hedreen moves forward with his major art gift to Seattle University.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/market/sothebys-richard-hedreen-collection-sale-seattle-university-1234798142/",
+    "image_url": null,
+    "published_at": "2026-09-14T16:29:34.000Z"
+  },
+  {
+    "headline": "Kennedy Center’s Future Hangs in the Balance as Report Warns of Imminent Closure",
+    "summary": "In a special meeting on Tuesday, the center's Trump-led board will consider its finances and the building's crumbling infrastructure.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/kennedy-center-possible-imminent-closure-bankruptcy-1234798112/",
+    "image_url": null,
+    "published_at": "2026-09-14T16:25:21.000Z"
+  },
+  {
+    "headline": "Europe’s Art Theft Problem Is Much Bigger Than the Louvre",
+    "summary": "A wave of museum thefts is exposing the vulnerabilities of institutions struggling to protect irreplaceable collections after years of underfunding.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/europes-art-theft-problem-is-much-bigger-than-the-louvre/",
+    "image_url": null,
+    "published_at": "2026-09-14T16:06:14.000Z"
+  },
+  {
+    "headline": "Christie’s to Auction 31 Pablo Picasso Prints, Including Three Rare Portraits of Wife Jacqueline Roque",
+    "summary": "The total 31-piece lot is estimated to fetch between £2.8 million and £4.1 million ($3.8 million and $5.53 million).",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/christies-auction-picasso-prints-jacqueline-roque-1234798135/",
+    "image_url": null,
+    "published_at": "2026-09-14T16:05:15.000Z"
+  },
+  {
+    "headline": "Christie’s to Auction Antonio Homem Sonnabend’s $50 M. Art Collection",
+    "summary": "The lot features works from Jeff Koons, Jasper Johns, Robert Rauschenberg, Roy Lichtenstein, and Andy Warhol.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/christies-auction-antonio-homem-sonnabend-collection-1234798105/",
+    "image_url": null,
+    "published_at": "2026-09-14T16:00:00.000Z"
+  },
+  {
+    "headline": "Net.Art Pioneer Olia Lialina on the Practice of Preservation",
+    "summary": "Lialina is the subject of \"Network Portraits”, a three-decade-spanning survey now on view at Berlin’s Panke Gallery through October 3.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/net-art-pioneer-olia-lialina-on-the-practice-of-preservation-1234798121/",
+    "image_url": null,
+    "published_at": "2026-09-14T15:33:37.000Z"
+  },
+  {
+    "headline": "Thousands of Art Nonprofits Command Billions in Assets. A New York Conference Sheds Light on an Under-Studied Sector",
+    "summary": "Stoa has gathered arts nonprofit founders and leaders in Paris and Venice, and now their starry convening is happening in New York.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/stoa-art-nonprofits-conference-1234798061/",
+    "image_url": null,
+    "published_at": "2026-09-14T15:21:56.000Z"
+  },
+  {
+    "headline": "Arthur Jafa Addresses His Work for Kanye West: ‘I’m Not Into Discarding Black Folk Simply for Things They Say’",
+    "summary": "Jafa praised West as \"clearly a genius.\"",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/arthur-jafa-kanye-west-music-video-response-1234798113/",
+    "image_url": null,
+    "published_at": "2026-09-14T14:52:55.000Z"
+  },
+  {
+    "headline": "Six Decades of David Hockney on View in Gloucester, MA",
+    "summary": "“Hockney Reproduction(s)\" explores the artist's innovation through reproductive media at the Manship Artists Residency. Opens September 11, 2026",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/six-decades-of-david-hockney-on-view-in-gloucester-ma/",
+    "image_url": null,
+    "published_at": "2026-09-14T14:45:52.000Z"
+  },
+  {
+    "headline": "Alice Diop to Take on Miu Miu’s 2026 Art Basel Paris Commission",
+    "summary": "Geste de Consolation (Gesture of Consolation) will be staged at the Palais d’Iéna.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/alice-diop-miu-miu-2026-art-basel-paris-commission-1234798098/",
+    "image_url": null,
+    "published_at": "2026-09-14T12:51:59.000Z"
+  },
+  {
+    "headline": "Good Muslim Artist, Bad Muslim Artist",
+    "summary": "Artist Naeem Mohaiemen reflects on the day of the attacks, Channelle Chevelle Russel reviews Pope.L, and Brooklyn gets a craft supply library.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/good-muslim-artist-bad-muslim-artist/",
+    "image_url": null,
+    "published_at": "2026-09-14T10:00:15.000Z"
+  },
+  {
     "headline": "Trump Demands ‘Strange Modernist’ Sculpture Be Replaced by George Washington Statue",
     "summary": "The sculpture, which stands outside a Smithsonian museum, was the first work of modern art commissioned for the National Mall by the federal government.",
     "publisher": "ARTnews",
@@ -1470,133 +1598,5 @@
     "url": "https://www.artnews.com/art-news/news/aboriginal-giant-rock-art-made-post-colonization-studied-1234796582/",
     "image_url": null,
     "published_at": "2026-09-01T21:07:11.000Z"
-  },
-  {
-    "headline": "An Unprecedented Look at Renowned Photographer Peter Hujar’s New York in “Hujar:Contact”",
-    "summary": "The Morgan Library & Museum presents “Hujar:Contact,” currently on view through October 25.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/an-unprecedented-look-at-renowned-photographer-peter-hujars-new-york-in-hujar-contact/",
-    "image_url": null,
-    "published_at": "2026-09-01T20:37:45.000Z"
-  },
-  {
-    "headline": "The Artists Paddling 350 Miles Up the Erie Canal",
-    "summary": "As part of “Mule’s Passage,” artists Z Behl and Kim Moloney are paddling six hours a day and camping for five weeks.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/the-artists-paddling-350-miles-up-the-erie-canal/",
-    "image_url": null,
-    "published_at": "2026-09-01T20:07:18.000Z"
-  },
-  {
-    "headline": "Art Gallery of Ontario Director Stephan Jost to Depart After a Decade",
-    "summary": "The museum has experienced a period of controversy over the past few years.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/art-gallery-of-ontario-stephan-jost-departure-1234796535/",
-    "image_url": null,
-    "published_at": "2026-09-01T19:57:20.000Z"
-  },
-  {
-    "headline": "ICE Unit Says It Seized 22,000 Ancient Artifacts in Florida",
-    "summary": "The Homeland Security Investigations unit said assessment of the treasures \"will take time.\"",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/ice-unit-seizes-ancient-artifacts-1234796570/",
-    "image_url": null,
-    "published_at": "2026-09-01T19:47:21.000Z"
-  },
-  {
-    "headline": "Christie’s London Offers a Restituted Kandinsky, Long Displayed in a German Museum, for $30 M.",
-    "summary": "The painting has hung in the same Munich museum for some five decades.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/market/christies-london-offers-restituted-kandinsky-german-museum-1234796483/",
-    "image_url": null,
-    "published_at": "2026-09-01T19:46:34.000Z"
-  },
-  {
-    "headline": "Minnesota State Fair Removes Anti-Trump Crop Art After Artist Was Harassed",
-    "summary": "The piece, which read “8647” in yellow corn kernels, was taken down at the artist’s request after she was threatened and doxxed by right-wing agitators.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/minnesota-state-fair-removes-anti-trump-crop-art-after-artist-was-harassed/",
-    "image_url": null,
-    "published_at": "2026-09-01T19:39:40.000Z"
-  },
-  {
-    "headline": "Camille Henrot Will Show 12 Dog Sculptures in Central Park This Fall",
-    "summary": "The leashed canine's will be on view in Doris C. Freedman Plaza for a full year.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/camille-henrot-15-dogs-sculptures-central-park-fall-2026-1234794812/",
-    "image_url": null,
-    "published_at": "2026-09-01T18:22:18.000Z"
-  },
-  {
-    "headline": "French Court Faults Deauville City for Removing AP Photograph of Gaza from Exhibition",
-    "summary": "The city had claimed that the photograph risked opening \"new wounds.\"",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/french-court-faults-deauville-ap-photograph-gaza-1234796450/",
-    "image_url": null,
-    "published_at": "2026-09-01T18:20:18.000Z"
-  },
-  {
-    "headline": "Beeple Artwork at Wisconsin Museum Generates Controversy over Use of AI: ‘Devoid of Any Critical Engagement’",
-    "summary": "Hundreds of signatories added their names to an open letter claiming the piece's use of others' art was unethical.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/beeple-artwork-wisconsin-museum-controversy-ai-1234796433/",
-    "image_url": null,
-    "published_at": "2026-09-01T17:33:11.000Z"
-  },
-  {
-    "headline": "Inside the 3,000-Zine Library in a Texas Living Room",
-    "summary": "Michelle Millette’s Sherwood Forest Zine Library in Austin is part of a growing culture and community surrounding the self-published, easy-to-distribute booklets.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/inside-the-3-000-zine-library-in-a-texas-living-room/",
-    "image_url": null,
-    "published_at": "2026-09-01T17:21:53.000Z"
-  },
-  {
-    "headline": "Opportunities in September 2026",
-    "summary": "Residencies, fellowships, grants, and open calls from the Gulf Coast Journal, the Harry Ransom Center, the Smithsonian American Art Museum, the Vermont Studio Center, and more in our monthly list of opportunities for artists, writers, and art workers.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/opportunities-in-september-2026/",
-    "image_url": null,
-    "published_at": "2026-09-01T16:00:43.000Z"
-  },
-  {
-    "headline": "Your Ultimate NYC Fall Art Guide",
-    "summary": "The best shows to see this season, The Met’s John Galliano exhibition is nixed, and why your City Bike might run slower in certain neighborhoods.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/your-ultimate-nyc-fall-art-guide/",
-    "image_url": null,
-    "published_at": "2026-09-01T15:55:34.000Z"
-  },
-  {
-    "headline": "Divided Supreme Court Rules That Trump’s White House Ballroom Can Proceed",
-    "summary": "“We are living in the Golden Age of America, and this Building will be one of the Greatest ever constructed in Washington, D.C.,” Trump wrote online following the decision.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/supreme-court-white-house-ballroom-ruling-1234796432/",
-    "image_url": null,
-    "published_at": "2026-09-01T15:54:01.000Z"
-  },
-  {
-    "headline": "How Fannuh Baskets Connect Liberia to the US Lowcountry",
-    "summary": "Gullah Geechee basket-weaving is rooted in an oral tradition carried by enslaved people from Liberia’s Windward Coast.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/how-fannuh-baskets-connect-liberia-to-the-us-lowcountry/",
-    "image_url": null,
-    "published_at": "2026-09-01T15:39:49.000Z"
-  },
-  {
-    "headline": "Nazi-Looted Kandinsky Heads to Christie’s, Smithsonian Picks Existing Building as Permanent Site for National Museum of the American Latino, and More: Morning Links for September 1, 2026",
-    "summary": "Here's what we're reading this morning.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/morning-links-september-1-2026-1234796427/",
-    "image_url": null,
-    "published_at": "2026-09-01T12:46:46.000Z"
-  },
-  {
-    "headline": "John Galliano Withdraws From Met Show",
-    "summary": "The British designer was convicted of antisemitic and anti-Asian hate speech. Also: What was Peter Thiel doing at a VIP preview at the British Museum, and should we be scared?",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/john-galliano-withdraws-from-met-show/",
-    "image_url": null,
-    "published_at": "2026-09-01T10:00:25.000Z"
   }
 ]
