@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Trump's EPA repeals pollution limits on fossil fuel power plants",
+    "summary": "The Trump administration is eliminating limits on climate-warming pollution from the nation's fossil fuel power plants. Environmental groups say this will impact the climate and public health.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
+    "image_url": null,
+    "published_at": "2026-09-14T20:34:28.000Z"
+  },
+  {
     "headline": "Cancer is rising in younger adults. Faster biological aging may help explain why",
     "summary": "Cancer rates are rising in adults under 55, and new research suggests accelerated biological aging may be one piece of the puzzle. Scientists found that people from more recent generations tended to have bodies that appeared biologically older than those of earlier generations at the same chronological age. Greater bio…",
     "publisher": "ScienceDaily",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260828005218.htm",
     "image_url": null,
     "published_at": "2026-08-29T03:45:37.000Z"
-  },
-  {
-    "headline": "Scientists discover why damaged nerves struggle to heal",
-    "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with nerve or spinal cord injuries. The discovery could eventually point toward new treatments designed t…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm",
-    "image_url": null,
-    "published_at": "2026-08-29T02:59:06.000Z"
   }
 ]

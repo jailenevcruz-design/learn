@@ -1,5 +1,45 @@
 [
   {
+    "headline": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
+    "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+    "image_url": null,
+    "published_at": "2026-09-14T23:38:40.000Z"
+  },
+  {
+    "headline": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
+    "summary": "McConnell spent weeks in recovery before explaining he was \"briefly unconscious\" following the fall that sent him to the hospital and a weeks-long recovery process.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
+    "image_url": null,
+    "published_at": "2026-09-14T22:36:33.000Z"
+  },
+  {
+    "headline": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+    "summary": "Federal agents may have broken state laws after the Department of Homeland Security began surging personnel for what it called the Unlawful Voter Initiative, a federal whistleblower alleges.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
+    "image_url": null,
+    "published_at": "2026-09-14T22:05:06.000Z"
+  },
+  {
+    "headline": "What's next for Senator John Fetterman?",
+    "summary": "NPR's Juana Summers talks with Adam Jentleson, former chief of staff for Pennsylvania Democratic Senator John Fetterman, about recent revelations about Sen. Fetterman's work performance.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5968629/whats-next-for-senator-john-fetterman",
+    "image_url": null,
+    "published_at": "2026-09-14T20:34:26.000Z"
+  },
+  {
+    "headline": "Inside the unprecedented threats election officials are facing ahead of mid-terms",
+    "summary": "Hundreds of election officials from around the country are meeting to discuss how to defend the integrity of the mid-term elections, including against federal government interference.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5954286/inside-the-unprecedented-threats-election-officials-are-facing-ahead-of-mid-terms",
+    "image_url": null,
+    "published_at": "2026-09-14T20:34:18.000Z"
+  },
+  {
     "headline": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
     "summary": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can \"rescue\" it.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
     "image_url": null,
     "published_at": "2026-08-11T22:39:22.000Z"
-  },
-  {
-    "headline": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
-    "summary": "A federal judge expanded a block on a key part of President Trump's order to restrict mail-in voting for this fall's midterms, banning the Postal Service from carrying out directives in every state.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
-    "image_url": null,
-    "published_at": "2026-08-11T21:11:09.000Z"
-  },
-  {
-    "headline": "5 questions parents may have after Trump's latest vaccine move",
-    "summary": "Parents may be confused about the status of vaccines for their kids after President Trump's new executive order. It's important to know nothing is changing right away.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
-    "image_url": null,
-    "published_at": "2026-08-11T20:20:25.000Z"
-  },
-  {
-    "headline": "Primaries in Wisconsin and Minnesota pit progressives against moderates",
-    "summary": "NPR's Leila Fadel asks Jessica Taylor of the Cook Political Report about battles between moderate and progressive candidates in Tuesday's Democratic primaries in Wisconsin and Minnesota.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5927242/primaries-in-wisconsin-and-minnesota-pit-progressives-against-moderates",
-    "image_url": null,
-    "published_at": "2026-08-11T10:52:52.000Z"
-  },
-  {
-    "headline": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-    "summary": "A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-    "image_url": null,
-    "published_at": "2026-08-11T09:00:00.000Z"
-  },
-  {
-    "headline": "Armed troops have patrolled D.C. for 1 year now. It's challenging democratic norms",
-    "summary": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
-    "image_url": null,
-    "published_at": "2026-08-11T09:00:00.000Z"
   }
 ]

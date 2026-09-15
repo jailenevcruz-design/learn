@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+    "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valve designer Pierre-Lo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+    "image_url": null,
+    "published_at": "2026-09-15T00:13:47.000Z"
+  },
+  {
+    "headline": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at le…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "image_url": null,
+    "published_at": "2026-09-14T22:59:41.000Z"
+  },
+  {
+    "headline": "Apple Home’s new security camera features cost as much as $60 a month",
+    "summary": "New Apple Intelligence features for HomeKit cameras start at $10 a month and go up to $60. | Image: The Verge With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to Hom…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+    "image_url": null,
+    "published_at": "2026-09-14T22:28:52.000Z"
+  },
+  {
+    "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "image_url": null,
+    "published_at": "2026-09-14T21:51:02.000Z"
+  },
+  {
+    "headline": "What execs and politicians are saying about slowing down AI development",
+    "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of them her…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "image_url": null,
+    "published_at": "2026-09-14T21:21:42.000Z"
+  },
+  {
+    "headline": "Trump throws out power plant climate pollution rules",
+    "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a revival of domestic manufacturing drive up power demand. The EPA's pr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+    "image_url": null,
+    "published_at": "2026-09-14T20:45:00.000Z"
+  },
+  {
+    "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "image_url": null,
+    "published_at": "2026-09-14T20:44:14.000Z"
+  },
+  {
+    "headline": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+    "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+    "image_url": null,
+    "published_at": "2026-09-14T20:07:37.000Z"
+  },
+  {
+    "headline": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "image_url": null,
+    "published_at": "2026-09-14T20:03:37.000Z"
+  },
+  {
+    "headline": "Valve&#8217;s virtual reality plans hit actual reality",
+    "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody,\" Valve developer Jeremy S…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+    "image_url": null,
+    "published_at": "2026-09-14T19:48:06.000Z"
+  },
+  {
     "headline": "The best deals from Nintendo’s ‘customer appreciation’ sale",
     "summary": "Super Mario Odyssey is among the discounted games. | Image: Nintendo As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received f…",
     "publisher": "The Verge",
@@ -72,6 +152,14 @@
     "published_at": "2026-09-14T17:08:49.000Z"
   },
   {
+    "headline": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+    "image_url": null,
+    "published_at": "2026-09-14T17:00:00.000Z"
+  },
+  {
     "headline": "The Steam Frame is made for irresponsible hardware nerds like me",
     "summary": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as similar-looking headsets from Met…",
     "publisher": "The Verge",
@@ -112,14 +200,6 @@
     "published_at": "2026-09-14T17:00:00.000Z"
   },
   {
-    "headline": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "image_url": null,
-    "published_at": "2026-09-14T17:00:00.000Z"
-  },
-  {
     "headline": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
     "summary": "Netflix has announced three new adaptations of Sega games: a Crazy Taxi film, a Sonic animated series \"built for kids who want to feel a little edge,\" and a live-action movie based on the upcoming Stranger Than Heaven from Yakuza developer RGG Studio. The Crazy Taxi movie will be the first project released, though it d…",
     "publisher": "The Verge",
@@ -145,7 +225,7 @@
   },
   {
     "headline": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
-    "summary": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+    "summary": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has taken place.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
     "image_url": null,
@@ -161,7 +241,7 @@
   },
   {
     "headline": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "summary": "Fathom said that it has over 400,000 monthly active users.",
+    "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
     "image_url": null,
@@ -1518,85 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
     "image_url": null,
     "published_at": "2026-09-08T19:00:00.000Z"
-  },
-  {
-    "headline": "How to watch Apple’s foldable iPhone announcement",
-    "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-    "image_url": null,
-    "published_at": "2026-09-08T17:46:53.000Z"
-  },
-  {
-    "headline": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "image_url": null,
-    "published_at": "2026-09-08T17:32:15.000Z"
-  },
-  {
-    "headline": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
-    "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-    "image_url": null,
-    "published_at": "2026-09-08T17:27:31.000Z"
-  },
-  {
-    "headline": "Nintendo isn’t scared of GTA VI",
-    "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. Everyone, that is, except for Nintendo. The company held a 30-minute showcase this morning focused entirely on its Legen…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
-    "image_url": null,
-    "published_at": "2026-09-08T17:13:51.000Z"
-  },
-  {
-    "headline": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "image_url": null,
-    "published_at": "2026-09-08T16:20:31.000Z"
-  },
-  {
-    "headline": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
-    "summary": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas, some riders have discovered the Cybercab's secret manual controls th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
-    "image_url": null,
-    "published_at": "2026-09-08T16:06:56.000Z"
-  },
-  {
-    "headline": "The White House pulls its racist Tetris clone",
-    "summary": "“Build the Wall” was pulled days after the White House launched its “arcade.” | Screenshot: The Verge The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade\" games, as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved stacking different-s…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
-    "image_url": null,
-    "published_at": "2026-09-08T16:00:51.000Z"
-  },
-  {
-    "headline": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-    "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-    "image_url": null,
-    "published_at": "2026-09-08T15:25:35.000Z"
-  },
-  {
-    "headline": "Pusheen’s first game is coming to Apple Arcade",
-    "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat. In the mix of minigames, you…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
-    "image_url": null,
-    "published_at": "2026-09-08T15:07:13.000Z"
-  },
-  {
-    "headline": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "image_url": null,
-    "published_at": "2026-09-08T15:04:09.000Z"
   }
 ]
