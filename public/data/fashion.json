@@ -1,11 +1,35 @@
 [
   {
+    "headline": "Maria McManus Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maria-mcmanus",
+    "image_url": null,
+    "published_at": "2026-09-15T06:46:40.000Z"
+  },
+  {
+    "headline": "Snow Xue Gao  Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/snow-xue-gao",
+    "image_url": null,
+    "published_at": "2026-09-15T06:46:40.000Z"
+  },
+  {
+    "headline": "LaQuan Smith Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/laquan-smith",
+    "image_url": null,
+    "published_at": "2026-09-15T06:46:40.000Z"
+  },
+  {
     "headline": "Luar Spring 2027 Ready-to-Wear",
     "summary": "",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/luar",
     "image_url": null,
-    "published_at": "2026-09-15T00:58:33.000Z"
+    "published_at": "2026-09-15T06:46:40.000Z"
   },
   {
     "headline": "Carolina Herrera Spring 2027 Ready-to-Wear",
@@ -13,7 +37,183 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/carolina-herrera",
     "image_url": null,
-    "published_at": "2026-09-15T00:58:33.000Z"
+    "published_at": "2026-09-15T06:46:40.000Z"
+  },
+  {
+    "headline": "Céline Dion’s Paris Comeback Finds Fabulousness in the Fragile",
+    "summary": "Paris is alight with Céline Dion fever, and the first night of her five-week residency marked a powerful new chapter in the performer’s legendary career.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/celine-dion-paris-comeback-residency",
+    "image_url": null,
+    "published_at": "2026-09-15T06:36:05.000Z"
+  },
+  {
+    "headline": "The Best and Most Memorable Moments of the 2026 Emmys",
+    "summary": "Mariska Hargitay as host, a tearjerking Dolly Parton tribute by Reba McEntire, and John Mulaney getting bleeped while quoting DJ Khaled? Yes, please.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-best-and-most-memorable-moments-of-the-2026-emmys",
+    "image_url": null,
+    "published_at": "2026-09-15T05:35:45.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Yang Zi Is Givenchy’s New House Ambassador in China",
+    "summary": "The seasoned actress said she relishes \"the opportunity to explore new expressions of style.\"",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/yang-zi-givenchy-brand-ambassador-china-1239229760/",
+    "image_url": null,
+    "published_at": "2026-09-15T05:00:00.000Z"
+  },
+  {
+    "headline": "Louis Vuitton Writes the Book on Its Menswear",
+    "summary": "The first menswear title in Thames & Hudson’s “Catwalk” series brings together more than 1,200 runway images spanning five creative eras, from Marc Jacobs to Pharrell Williams.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/louis-vuitton-menswear-catwalk-book-30-years-1239230136/",
+    "image_url": null,
+    "published_at": "2026-09-15T05:00:00.000Z"
+  },
+  {
+    "headline": "Autry Names New CEO Tasked With Brand Evolution, International Push",
+    "summary": "Industry veteran Danilo Piarulli has joined the footwear brand from Golden Goose.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/autry-danilo-piarulli-ceo-brand-evolution-1239230627/",
+    "image_url": null,
+    "published_at": "2026-09-15T05:00:00.000Z"
+  },
+  {
+    "headline": "Beyoncé’s Cécred Is Entering Its Next Chapter",
+    "summary": "Beyoncé's Cécred is launching in UK retailer Space NK, as the two-year-old brand continues to grow, based on a strong consumer community. Vogue Business sat down with vice chairwoman Tina Knowles and CEO Grace Ray, to chart the brand’s path.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/beyonces-cecred-is-entering-its-next-chapter",
+    "image_url": null,
+    "published_at": "2026-09-15T04:50:00.000Z"
+  },
+  {
+    "headline": "Is a Runway Show Worth the Investment? These First-Timers Think So",
+    "summary": "Heirlome, Aisling Camps, and 6397 are all putting on their first shows this season. Here’s why — and how.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/is-a-runway-show-worth-the-investment-these-first-timers-think-so",
+    "image_url": null,
+    "published_at": "2026-09-15T04:30:00.000Z"
+  },
+  {
+    "headline": "Serpentine’s Hans Ulrich Obrist: Creatives Must Help Shape AI",
+    "summary": "As Serpentine launches a new R&D fellowship exploring AI’s impact on cultural production, its artistic director argues creatives must be given a say in the tech that will transform their industries.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/serpentines-hans-ulrich-obrist-creatives-must-help-shape-ai",
+    "image_url": null,
+    "published_at": "2026-09-15T04:30:00.000Z"
+  },
+  {
+    "headline": "Saul Nash’s Billboard Coup",
+    "summary": "The designer discusses his partnership with Build Hollywood, which will see his FW26 campaign erected on 37 billboards across London for the two weeks surrounding London Fashion Week.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/saul-nashs-billboard-coup",
+    "image_url": null,
+    "published_at": "2026-09-15T04:30:00.000Z"
+  },
+  {
+    "headline": "Minnow, the Family Lifestyle and Swimwear Brand, Expands Into Cashmere Sweaters",
+    "summary": "The company is seeing sizable growth in its women’s business.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/minnow-family-lifestyle-swimwear-brand-adds-cashmere-sweaters-1239177250/",
+    "image_url": null,
+    "published_at": "2026-09-15T04:01:00.000Z"
+  },
+  {
+    "headline": "The Prestige SPFs That Ruled the Summer",
+    "summary": "Supergoop's grasp on the category is holding strong, but emerging K-beauty and skin care-infused offerings are also gaining popularity.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/skin-care/supergoop-innisfree-top-spfs-prestige-1239206828/",
+    "image_url": null,
+    "published_at": "2026-09-15T04:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Tommy Hilfiger’s Plans for a Women’s Fragrance Comeback",
+    "summary": "Thirty years after Tommy Girl debuted to chart-topping success, the designer is launching his first new prestige women's fragrance in more than a decade with his new licensee, Give Back Beauty.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/fragrance/tommy-hilfiger-womens-fragrance-freedom-camila-cabello-1239207895/",
+    "image_url": null,
+    "published_at": "2026-09-15T04:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Old Navy Propels Activewear Into a Subbrand",
+    "summary": "The Old Navy Sport subbrand launched Tuesday with what executives describe as revamped marketing and an assortment with greater style and fabric innovation.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/old-navy-sport-activewear-line-1239222482/",
+    "image_url": null,
+    "published_at": "2026-09-15T04:01:00.000Z"
+  },
+  {
+    "headline": "Dickies and Budweiser Partner to Celebrate the Beer Brand’s 150th Anniversary",
+    "summary": "The campaign and capsule are also intended to celebrate hardworking Americans.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/dickies-budweiser-capsule-sweepstakes-1239227714/",
+    "image_url": null,
+    "published_at": "2026-09-15T04:01:00.000Z"
+  },
+  {
+    "headline": "Rhone Names Puma, Lululemon Executive as First Chief Merchandising Officer",
+    "summary": "Alexa Andersen has worked at performance brands for more than two decades.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/human-resources/rhone-alex-andersen-puma-lululemon-chief-merchandising-officer-1239227775/",
+    "image_url": null,
+    "published_at": "2026-09-15T04:01:00.000Z"
+  },
+  {
+    "headline": "U.S. Polo Assn. Names A&F’s David Swetman Head of Men’s, Boys’ Design",
+    "summary": "The Central Saint Martins graduate worked for Abercrombie & Fitch for 18 years.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/menswear-news/mens-fashion/u-s-polo-assn-abercrombie-fitch-david-swetman-mens-boys-design-1239228371/",
+    "image_url": null,
+    "published_at": "2026-09-15T04:01:00.000Z"
+  },
+  {
+    "headline": "“This Is Where Everything Started for Prada”: Lorenzo Bertelli on the New Prada Galleria",
+    "summary": "As Prada unveils its new eight-floor complex in Milan’s Galleria Vittorio Emanuele II, Luke Leitch unpacks the company’s strategy for the space with Prada Group CMO Lorenzo Bertelli.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/this-is-where-everything-started-for-prada-lorenzo-bertelli-on-the-new-prada-galleria",
+    "image_url": null,
+    "published_at": "2026-09-15T04:00:00.000Z"
+  },
+  {
+    "headline": "The Best Pictures From Inside the 2026 Emmy Awards",
+    "summary": "Off-camera, the 78th Primetime Emmys featured all manner of charming meet-ups between celebrity friends, co-stars, and plain-old mutual admirers. Here, some of our favorite candid moments.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-best-pictures-from-inside-the-2026-emmy-awards",
+    "image_url": null,
+    "published_at": "2026-09-15T03:12:26.000Z"
+  },
+  {
+    "headline": "Sequins and Butterflies: How Reba McEntire Honored Dolly Parton at the 2026 Emmy Awards",
+    "summary": "Country music star Reba McEntire honored her late friend Dolly Parton with a glittering dress and borrowed jewelry.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/sequins-and-butterflies-how-reba-mcentire-honored-dolly-parton-at-the-2026-emmy-awards",
+    "image_url": null,
+    "published_at": "2026-09-15T02:48:20.000Z"
+  },
+  {
+    "headline": "The Best 2026 Emmys Small Beauty Details",
+    "summary": "For the 2026 Emmys, some of the best beauty moments were also the smallest. Here, we rounded up the 10 best ones.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/small-beauty-details-emmys-9-14-2026",
+    "image_url": null,
+    "published_at": "2026-09-15T02:14:08.000Z"
+  },
+  {
+    "headline": "So, Where Was Taylor Swift Actually During the 2026 Emmys?",
+    "summary": "“Is Taylor Swift going to be there?” is an animating question of pretty much every major awards show, but the answer at the 2026 Emmys was somewhat unexpected.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/so-where-was-taylor-swift-during-the-2026-emmys",
+    "image_url": null,
+    "published_at": "2026-09-15T01:43:53.000Z"
+  },
+  {
+    "headline": "Zendaya and Tom Holland Bring Their Couple Style to the 2026 Emmys",
+    "summary": "Newlyweds Zendaya and Tom Holland are capping off a year of fashion-forward film promotion at the 2026 Emmys.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/zendaya-tom-holland-couple-style-emmys-2026-09-14",
+    "image_url": null,
+    "published_at": "2026-09-15T01:08:27.000Z"
   },
   {
     "headline": "Bibhu Mohapatra Spring 2027 Ready-to-Wear",
@@ -97,7 +297,7 @@
   },
   {
     "headline": "All the Winners at the 2026 Emmy Awards: Live Updates",
-    "summary": "Keep up with all the winners at the 2026 Emmy Awards right here.",
+    "summary": "Catch up on all the winners at the 2026 Emmy Awards right here.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/live/emmys-2026-winners-live-updates",
     "image_url": null,
@@ -256,7 +456,7 @@
     "published_at": "2026-09-14T22:15:29.000Z"
   },
   {
-    "headline": "This Season’s Unlikely LFW It Piece? The British Museum’s Bayeux Tapestry Merch",
+    "headline": "This Season’s LFW It Piece? The British Museum’s Bayeux Tapestry Merch",
     "summary": "No, I haven’t yet secured a ticket to the British Museum’s wildly popular Bayeux Tapestry exhibition—but have I have added some of its merch to my cart? Yes!",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/british-museum-bayeux-tapestry-merch",
@@ -1398,205 +1598,5 @@
     "url": "https://wwd.com/runway/spring-2027/new-york/public-school/review/",
     "image_url": null,
     "published_at": "2026-09-11T20:34:14.000Z"
-  },
-  {
-    "headline": "Elle Fanning and Storm Reid Helped Coach Fete its 85th Birthday",
-    "summary": "Following Coach’s Spring 2027 show at Pier 36, the waterfront venue transformed into a birthday bash fueled by signature Coach 85 cocktails.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/coach-85th-birthday-party-september-2026",
-    "image_url": null,
-    "published_at": "2026-09-11T20:28:06.000Z"
-  },
-  {
-    "headline": "Net-A-Porter Hosted an Incredible Women Party During NYFW—and the Whole Town Showed Up",
-    "summary": "It helped that it was set to be the very first event thrown at Straker’s—Thomas Straker’s first permanent digs in the city—in the former Lucky Strike space on SoHo’s Grand Street.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/net-a-porter-nyfw-incredible-women-party",
-    "image_url": null,
-    "published_at": "2026-09-11T20:26:39.000Z"
-  },
-  {
-    "headline": "RH Estates: The Strategy Behind the Vision",
-    "summary": "RH CEO Gary Friedman discusses the first freestanding RH Estates Gallery opened Thursday in Greenwich, Conn., and what’s in the pipeline for rapid growth of the concept.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/rh-estates-strategy-vision-rh-ceo-interview-1239197349/",
-    "image_url": null,
-    "published_at": "2026-09-11T20:26:39.000Z"
-  },
-  {
-    "headline": "France Slaps Boohoo With Another Fine",
-    "summary": "The U.K. retailer was fined $260,927 for inadequate information about the environmental impact of its products.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/france-boohoo-dgccrf-environmental-impact-watchdog-1239222638/",
-    "image_url": null,
-    "published_at": "2026-09-11T20:19:42.000Z"
-  },
-  {
-    "headline": "Vogue Vacations: 9 Days in Sardinia With Lisa Aiken",
-    "summary": "Vogue’s executive fashion director shares everything she wore, indulged in, and snapped photos of during a late summer trip to the island.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/vogue-vacations-lisa-aiken-sardinia",
-    "image_url": null,
-    "published_at": "2026-09-11T20:16:38.000Z"
-  },
-  {
-    "headline": "Jane Krakowski, Julianna Margulies & More Attend Kallmeyer Spring 2027 During NYFW",
-    "summary": "Krakowski shared Broadway advice for her friend Julia Louis-Dreyfus ahead of her debut this fall.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/eye/people/jane-krakowski-julianna-margulies-front-row-kallmeyer-spring-2027-1239222665/",
-    "image_url": null,
-    "published_at": "2026-09-11T20:11:01.000Z"
-  },
-  {
-    "headline": "44 Best Wedding Guest Dresses in 2026 for Every Type of Ceremony",
-    "summary": "Shop the best wedding guest dresses for every kind of ceremony and dress code—from a garden wedding to a beach wedding and courthouse ceremony.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-wedding-guest-dresses",
-    "image_url": null,
-    "published_at": "2026-09-11T19:57:53.000Z"
-  },
-  {
-    "headline": "Betty Gilpin, Gabrielle Union-Wade, Lea Michele and More Front Row at Michael Kors Spring 2027 During NYFW",
-    "summary": "Danny Ramirez, Grace Van Patten, Olivia Munn and more were also present Friday morning at MoMA.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/eye/people/betty-gilpin-gabrielle-union-lea-michele-michael-kors-spring-2027-front-row-nyfw-1239222645/",
-    "image_url": null,
-    "published_at": "2026-09-11T19:53:29.000Z"
-  },
-  {
-    "headline": "Fashion’s Garden Shoe Trend Keeps Growing for Spring 2027",
-    "summary": "At Proenza Schouler and TWP, last season’s botanical fantasy returned in petal-like details and practical silhouettes made for movement.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/nyfw-spring-2027-garden-shoe-trend-1239222493/",
-    "image_url": null,
-    "published_at": "2026-09-11T19:52:06.000Z"
-  },
-  {
-    "headline": "Brooks Brothers: A 208-year-old Secret",
-    "summary": "The venerable retailer returned to fashion week to take a higher profile and tout its classic heritage.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/runway/spring-2027/new-york/brooks-brothers/review/",
-    "image_url": null,
-    "published_at": "2026-09-11T19:41:13.000Z"
-  },
-  {
-    "headline": "Cinq à Sept Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cinq-a-sept",
-    "image_url": null,
-    "published_at": "2026-09-11T18:44:20.000Z"
-  },
-  {
-    "headline": "NIHL Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/nihl",
-    "image_url": null,
-    "published_at": "2026-09-11T18:44:20.000Z"
-  },
-  {
-    "headline": "A Mega Guest List Came Together For a Major Cause at Kering’s Caring for Women Dinner",
-    "summary": "This year, Kering Foundation co-founders Salma Hayek Pinault and François-Henri Pinault co-hosted the evening alongside Pamela Anderson, Simone Biles, Benicio Del Toro, Nacho Figueras, Dakota Johnson, and Lorna Simpson.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/caring-for-women-dinner-september-2026",
-    "image_url": null,
-    "published_at": "2026-09-11T18:41:10.000Z"
-  },
-  {
-    "headline": "Is Black Friday Losing its Glow?",
-    "summary": "It is still a favorite with shoppers, but more consumers are buying gifts in October and in November prior to Black Friday.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/is-black-friday-losing-its-glow-to-october-oobit-1239221433/",
-    "image_url": null,
-    "published_at": "2026-09-11T18:35:16.000Z"
-  },
-  {
-    "headline": "Gas Prices, Record Household Debt Strain U.S. Consumers",
-    "summary": "Persistent inflation and a record $18.77 trillion in household debt continue to pressure Americans.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/gas-prices-household-debt-strain-consumers-1239221855/",
-    "image_url": null,
-    "published_at": "2026-09-11T18:24:19.000Z"
-  },
-  {
-    "headline": "Julia Roberts, Cher, Anne Hathaway and More Welcome Moncler to New York City",
-    "summary": "Moncler hosted a store cocktail and a private dinner with guests including Serena Williams, Jessica Chastain, Adrien Brody and more.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/eye/parties/julia-roberts-cher-anne-hathaway-moncler-new-york-store-opening-party-1239207905/",
-    "image_url": null,
-    "published_at": "2026-09-11T18:17:49.000Z"
-  },
-  {
-    "headline": "What Does Your New York Fashion Week Show Location Say About You?",
-    "summary": "From New Jersey to Midtown to Queens, New York Fashion Week has become quite the sprint—but it only makes things all the more interesting.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/what-does-your-new-york-fashion-week-show-location-say-about-you",
-    "image_url": null,
-    "published_at": "2026-09-11T18:13:40.000Z"
-  },
-  {
-    "headline": "Anne Hathaway Shows How Fisherman Sandals Hit the Summer-to-fall Sweet Spot at NYFW",
-    "summary": "She paired The Row sandals with a double denim look.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/anne-hathaway-the-row-fisherman-sandals-moncler-nyfw-1239222304/",
-    "image_url": null,
-    "published_at": "2026-09-11T17:35:26.000Z"
-  },
-  {
-    "headline": "Justin Vivian Bond, Jonathan Anderson Reunite for Dior x A24 Event at Cherry Lane Theatre",
-    "summary": "Cabaret star Justin Vivian Bond and designer Jonathan Anderson celebrate Dior’s creative partnership with A24 with a special performance at Cherry Lane Theatre, featuring guests from both film and fashion.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/justin-vivian-bond-jonathan-anderson-dior-a24-1239222405/",
-    "image_url": null,
-    "published_at": "2026-09-11T17:30:07.000Z"
-  },
-  {
-    "headline": "Filipino Tennis Phenom Alexandra Eala Makes Her NYFW Debut",
-    "summary": "The athlete attended the Tory Burch and Michael Kors shows on Thursday and Friday.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/alexandra-eala-nyfw-debut-tory-burch-michael-kors-1239222321/",
-    "image_url": null,
-    "published_at": "2026-09-11T17:08:28.000Z"
-  },
-  {
-    "headline": "What Is Fueling L.A. Design Week/end’s Expansion",
-    "summary": "WWD speaks to L.A. Design Week/end founder Holland Denvir about what makes the Southern California event stand out on a global level.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/home-design/interior-design/los-angeles-design-weekend-2026-expands-creativity-1239221792/",
-    "image_url": null,
-    "published_at": "2026-09-11T16:53:46.000Z"
-  },
-  {
-    "headline": "The 9 Best Snack Options to Support Your Gut Health",
-    "summary": "Snacks can actually help boost your gut health: experts break down the best food options for day’s smallest meal that won’t cause bloating or indigestion.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-snacks-for-gut-health",
-    "image_url": null,
-    "published_at": "2026-09-11T16:44:25.000Z"
-  },
-  {
-    "headline": "At New York Men’s Day, Various Views of Modern Masculinity",
-    "summary": "On the first day of fashion week, New York Men's Day provides emerging designers a platform to present their vision of the future.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/new-york-mens-day-spring-2027",
-    "image_url": null,
-    "published_at": "2026-09-11T16:42:41.000Z"
-  },
-  {
-    "headline": "The New Oasis Documentary Is the Greatest Film Ever Made (for Oasis Fans)",
-    "summary": "How did Liam Gallagher heal things with his brother Noel? As the new film “Don’t Look Back in Anger” shows, they didn’t hug it out—they sorted it onstage, in epic gig after epic gig.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/oasis-documentary-dont-look-back-in-anger",
-    "image_url": null,
-    "published_at": "2026-09-11T16:25:30.000Z"
-  },
-  {
-    "headline": "Nicole Kidman Gets Suited in Chanel",
-    "summary": "The \"Practical Magic 2\" star wore a Matthieu Blazy design on \"The Tonight Show Starring Jimmy Fallon\" on Thursday.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/nicole-kidman-chanel-suit-tonight-show-practical-magic-2-1239221960/",
-    "image_url": null,
-    "published_at": "2026-09-11T16:15:26.000Z"
   }
 ]

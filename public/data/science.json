@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Plague was killing entire families thousands of years before the Black Death",
+    "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerous because they carried a genetic factor capable of provoking severe immune reactions.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T02:54:45.000Z"
+  },
+  {
+    "headline": "A coral reef thought dead for 60 years is teeming with life",
+    "summary": "More than 60 years after surveys suggested a deep coral reef off Benin was probably dead, scientists have found it alive. Cameras revealed healthy-looking coral patches supporting multiple fish species more than 50 meters beneath the surface. The discovery suggests West Africa’s coastal waters may contain other overloo…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260913081927.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T02:18:06.000Z"
+  },
+  {
     "headline": "Trump's EPA repeals pollution limits on fossil fuel power plants",
     "summary": "The Trump administration is eliminating limits on climate-warming pollution from the nation's fossil fuel power plants. Environmental groups say this will impact the climate and public health.",
     "publisher": "NPR",
@@ -296,14 +312,6 @@
     "published_at": "2026-09-11T23:47:16.000Z"
   },
   {
-    "headline": "Too much light at night may quietly reshape your heart",
-    "summary": "Nighttime light exposure was linked to thicker, stiffer heart chambers and early signs of reduced heart function in a study of more than 11,000 people. The findings suggest that keeping bedrooms darker could be an overlooked strategy for protecting the heart.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003847.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T12:33:38.000Z"
-  },
-  {
     "headline": "Your next prescription could be treating a side effect from the last one",
     "summary": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and automated alerts could help prevent these potentially harmful prescribing cascades.",
     "publisher": "ScienceDaily",
@@ -350,6 +358,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
     "image_url": null,
     "published_at": "2026-09-11T05:18:44.000Z"
+  },
+  {
+    "headline": "Too much light at night may quietly reshape your heart",
+    "summary": "Nighttime light exposure was linked to thicker, stiffer heart chambers and early signs of reduced heart function in a study of more than 11,000 people. The findings suggest that keeping bedrooms darker could be an overlooked strategy for protecting the heart.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260911003847.htm",
+    "image_url": null,
+    "published_at": "2026-09-11T04:38:47.000Z"
   },
   {
     "headline": "Scientists find signs of extreme aging and youth in the same 117-year-old",
@@ -1582,21 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
     "image_url": null,
     "published_at": "2026-08-29T10:05:43.000Z"
-  },
-  {
-    "headline": "The U.S. relied on these science advisers. Then the Trump administration cut them",
-    "summary": "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
-    "image_url": null,
-    "published_at": "2026-08-29T10:00:00.000Z"
-  },
-  {
-    "headline": "Your sleep may be hiding an early clue to Alzheimer’s",
-    "summary": "Frequent micro-awakenings during sleep were linked to higher genetic risk for Alzheimer’s in healthy middle-aged adults who had no symptoms. The discovery raises the possibility that subtle changes during sleep could offer an early warning signal years before memory problems appear.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828005218.htm",
-    "image_url": null,
-    "published_at": "2026-08-29T03:45:37.000Z"
   }
 ]
