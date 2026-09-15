@@ -1,5 +1,13 @@
 [
   {
+    "headline": "NASA rushed engineers out of their labs. They say it risks future space missions",
+    "summary": "NASA employees say they've lost vital equipment and staff needed to make sophisticated spacecraft amid the agency's abrupt relocations over the past several months.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
+    "image_url": null,
+    "published_at": "2026-09-15T09:00:00.000Z"
+  },
+  {
     "headline": "Plague was killing entire families thousands of years before the Black Death",
     "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerous because they carried a genetic factor capable of provoking severe immune reactions.",
     "publisher": "ScienceDaily",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
     "image_url": null,
     "published_at": "2026-08-29T10:52:20.000Z"
-  },
-  {
-    "headline": "Australia’s red soil may be hiding a massive clean energy source",
-    "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath the Pilbara could become a major new source of low-emission energy for Australia and potentially th…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
-    "image_url": null,
-    "published_at": "2026-08-29T10:05:43.000Z"
   }
 ]

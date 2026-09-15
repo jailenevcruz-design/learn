@@ -1,27 +1,139 @@
 [
   {
-    "headline": "Oil extends gains following Houthi strikes on Saudi Arabia",
-    "summary": "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-    "image_url": null,
-    "published_at": "2026-09-15T06:39:05.000Z"
-  },
-  {
-    "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-    "summary": "The department revealed that the Iran war had cost an estimated $33.4 billion as of June 29.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-    "image_url": null,
-    "published_at": "2026-09-15T06:31:10.000Z"
-  },
-  {
     "headline": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
     "summary": "The sell-off in U.S. government debt is deepening as investors increasingly price in an interest rate hike this week.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
     "image_url": null,
-    "published_at": "2026-09-15T06:26:51.000Z"
+    "published_at": "2026-09-15T12:07:29.000Z"
+  },
+  {
+    "headline": "Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war",
+    "summary": "Iranian Foreign Minister Abbas Araghchi will visit China on Wednesday for talks, Beijing's foreign ministry announced on Tuesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+    "image_url": null,
+    "published_at": "2026-09-15T11:53:36.000Z"
+  },
+  {
+    "headline": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
+    "summary": "While higher oil is cited as a main reason for the change in view, roughly three quarters of respondents see the inflation problem as broader than just energy prices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
+    "image_url": null,
+    "published_at": "2026-09-15T11:52:33.000Z"
+  },
+  {
+    "headline": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
+    "summary": "Analysts warn oil prices could rally sharply if the pipeline remains offline beyond an estimated five-to-seven-day inventory cushion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
+    "image_url": null,
+    "published_at": "2026-09-15T11:25:12.000Z"
+  },
+  {
+    "headline": "U.S. confirms for first time it has weapons deployed in space",
+    "summary": "U.S. Air Force Secretary Troy Meink said Monday that the U.S. has \"on-orbit space control weapons,\" as he outlined a broader push to modernize the Air Force.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
+    "image_url": null,
+    "published_at": "2026-09-15T11:06:33.000Z"
+  },
+  {
+    "headline": "GM launching new customer software experience with redesigned Chevy, GMC pickups",
+    "summary": "The new system comes as vehicles are becoming more digital, leading GM to also redesign its organizational processes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html",
+    "image_url": null,
+    "published_at": "2026-09-15T11:00:01.000Z"
+  },
+  {
+    "headline": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+    "summary": "Anthropic and OpenAI have called for mandatory safety checks to be put in place as fears intensify that AI can soon be too powerful to control.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
+    "image_url": null,
+    "published_at": "2026-09-15T11:00:01.000Z"
+  },
+  {
+    "headline": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
+    "summary": "Oil and 10-year Treasury yields are moving in near lockstep, with their correlation at its strongest since 2019.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
+    "image_url": null,
+    "published_at": "2026-09-15T10:01:19.000Z"
+  },
+  {
+    "headline": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
+    "summary": "Philadelphia will release more cream cheese flavors as part of Kraft Heinz's turnaround.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
+    "image_url": null,
+    "published_at": "2026-09-15T10:00:01.000Z"
+  },
+  {
+    "headline": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
+    "summary": "Children's clothing brand Carter's is announcing a rebrand as it tries to keep up with the modern parent and its core customer base.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
+    "image_url": null,
+    "published_at": "2026-09-15T10:00:01.000Z"
+  },
+  {
+    "headline": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants",
+    "summary": "Despite growing speculation that it won't be long until Chinese autos are sold in the U.S., John Murphy doesn't expect that to happen by 2030.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/us-auto-market-predictions-2030-john-murphy.html",
+    "image_url": null,
+    "published_at": "2026-09-15T10:00:01.000Z"
+  },
+  {
+    "headline": "Wall Street weighs prospect of an AI slowdown on data center buildout",
+    "summary": "Investors see a potential AI slowdown as problematic for companies tied to the data center buildout.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/investors-ai-slowdown-data-center-buildout.html",
+    "image_url": null,
+    "published_at": "2026-09-15T10:00:01.000Z"
+  },
+  {
+    "headline": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
+    "summary": "Treasury Secretary Scott Bessent may face questions on rising energy prices, Federal Reserve policy, government debt and the Trump team's economic agenda.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+    "image_url": null,
+    "published_at": "2026-09-15T09:00:01.000Z"
+  },
+  {
+    "headline": "Get ready for yet another cost when buying a home: Junk fees",
+    "summary": "Some real estate agents and researchers say home buyers and sellers should not pay this out-of-pocket fee.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
+    "image_url": null,
+    "published_at": "2026-09-15T09:00:00.000Z"
+  },
+  {
+    "headline": "This  bill could reshape crypto in America -- and it's sparking a major battle",
+    "summary": "The legislation would establish rules of the road for the crypto sector for the first time — but opponents are up in arms, and the bill faces an uncertain prospect in the Senate.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+    "image_url": null,
+    "published_at": "2026-09-15T09:00:00.000Z"
+  },
+  {
+    "headline": "Oil extends gains, Brent crude nears $108 following Houthi strikes on Saudi Arabia",
+    "summary": "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+    "image_url": null,
+    "published_at": "2026-09-15T07:22:29.000Z"
+  },
+  {
+    "headline": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers",
+    "summary": "Two Chinese companies, are alleged to have used trading accounts in Binance to launder the illicit proceeds and funnel the funds to Tehran or its proxies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html",
+    "image_url": null,
+    "published_at": "2026-09-15T07:05:14.000Z"
   },
   {
     "headline": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
@@ -38,14 +150,6 @@
     "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
     "image_url": null,
     "published_at": "2026-09-15T05:41:14.000Z"
-  },
-  {
-    "headline": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
-    "summary": "Oil and 10-year Treasury yields are moving in near lockstep, with their correlation at its strongest since 2019.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
-    "image_url": null,
-    "published_at": "2026-09-15T05:22:57.000Z"
   },
   {
     "headline": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
@@ -120,6 +224,14 @@
     "published_at": "2026-09-14T22:15:58.000Z"
   },
   {
+    "headline": "Treasury hits Russia's VTB Bank with new sanctions over Iran ties",
+    "summary": "The new Russian bank sanctions follow a small handful of other actions that the Trump administration has taken since vowing to inflict \"economic D-Day\" on Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/14/treasury-bessent-russia-vtb-bank-iran-sanctions.html",
+    "image_url": null,
+    "published_at": "2026-09-14T21:53:20.000Z"
+  },
+  {
     "headline": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
     "summary": "President Trump has been using his social media site to sound off on Anthropic CEO Dario Amodei's suggestion that the AI industry slow its pace of development.",
     "publisher": "CNBC",
@@ -158,6 +270,14 @@
     "url": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
     "image_url": null,
     "published_at": "2026-09-14T20:54:48.000Z"
+  },
+  {
+    "headline": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
+    "summary": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
+    "image_url": null,
+    "published_at": "2026-09-14T20:49:03.000Z"
   },
   {
     "headline": "Trump administration repeals Biden era greenhouse gas requirements for power plants",
@@ -1478,125 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html",
     "image_url": null,
     "published_at": "2026-09-09T21:14:49.000Z"
-  },
-  {
-    "headline": "Trump says oil and gas prices won't fall until 'right after' midterm election",
-    "summary": "President Donald Trump said energy prices that have been elevated due to the Iran war will not come down until after the midterm elections.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
-    "image_url": null,
-    "published_at": "2026-09-09T19:52:11.000Z"
-  },
-  {
-    "headline": "What a historic summer box office reveals about massive shifts in the theatrical industry",
-    "summary": "The domestic box office posted a record-breaking summer movie season, which was bolstered by an extra week of ticket sales and higher-priced premium screenings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html",
-    "image_url": null,
-    "published_at": "2026-09-09T19:21:58.000Z"
-  },
-  {
-    "headline": "Apple drops its folding iPhone. Our first reaction, plus the other key launch news",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/apple-drops-its-folding-iphone-our-first-reaction-plus-the-other-key-launch-news.html",
-    "image_url": null,
-    "published_at": "2026-09-09T19:17:12.000Z"
-  },
-  {
-    "headline": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
-    "summary": "New Apple CEO John Ternus announces the iPhone Duo, which folds like a passport and is the most radical iPhone design update in nearly 20 years.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
-    "image_url": null,
-    "published_at": "2026-09-09T18:39:57.000Z"
-  },
-  {
-    "headline": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say",
-    "summary": "As the Trump administration ramps up pressure on the Federal Reserve, consumers may be better served if senior officials back off, experts say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
-    "image_url": null,
-    "published_at": "2026-09-09T18:29:51.000Z"
-  },
-  {
-    "headline": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
-    "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-    "image_url": null,
-    "published_at": "2026-09-09T17:43:45.000Z"
-  },
-  {
-    "headline": "These are the top 10 U.S. states for workers' rights, says new report—8 of them have a minimum wage over $15",
-    "summary": "These states provide strong minimum wages, worker protections and rights to organize, according to Oxfam's research.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/the-top-us-states-for-workers-in-2026-according-to-oxfam-report.html",
-    "image_url": null,
-    "published_at": "2026-09-09T17:36:45.000Z"
-  },
-  {
-    "headline": "How much does it cost to move a midterm prediction market? Not much",
-    "summary": "Interested parties could seek to move prediction markets to give a perceived boost to a candidate who is struggling to gain momentum or attention.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/prediction-markets-election-kalshi-polymarket.html",
-    "image_url": null,
-    "published_at": "2026-09-09T17:28:24.000Z"
-  },
-  {
-    "headline": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
-    "summary": "The Rams spent five years building their brand in Australia. This week, Los Angeles will face San Francisco in the NFL’s first regular-season game Down Under.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
-    "image_url": null,
-    "published_at": "2026-09-09T16:47:24.000Z"
-  },
-  {
-    "headline": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-    "summary": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-    "image_url": null,
-    "published_at": "2026-09-09T16:17:46.000Z"
-  },
-  {
-    "headline": "Why Cramer still recommends being 'a little more reserved' about data center stocks",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/why-cramer-still-recommends-being-a-little-more-reserved-about-data-center-stocks.html",
-    "image_url": null,
-    "published_at": "2026-09-09T16:11:20.000Z"
-  },
-  {
-    "headline": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
-    "summary": "Founded in 2024, Covenant is speeding up lower-cost missile manufacturing for the U.S. military.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
-    "image_url": null,
-    "published_at": "2026-09-09T15:20:33.000Z"
-  },
-  {
-    "headline": "Robinhood CEO says companies can't control how their stock is tokenized as AMC clash escalates",
-    "summary": "Robinhood's Vlad Tenev said public companies can’t control financial products built around their stock while acknowledging token holders don’t get voting rights.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html",
-    "image_url": null,
-    "published_at": "2026-09-09T14:38:32.000Z"
-  },
-  {
-    "headline": "Silver Lake merges Cegid and Silae in 10 billion euro bet on AI-era software",
-    "summary": "French firms Cegid, which sells business management software, and Silae, a payroll and HR platform, are set to combine.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html",
-    "image_url": null,
-    "published_at": "2026-09-09T14:26:10.000Z"
-  },
-  {
-    "headline": "Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now'",
-    "summary": "The department is expected to announce around 11 a.m. ET the size of a buyback operation it announced Aug. 19.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/09/bessent-bond-plan-details-to-be-revealed-as-treasury-secretary-warns-fx-traders-hes-the-house-now.html",
-    "image_url": null,
-    "published_at": "2026-09-09T14:20:16.000Z"
   }
 ]

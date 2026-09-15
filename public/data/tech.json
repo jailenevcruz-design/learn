@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing and customer-support tasks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "image_url": null,
+    "published_at": "2026-09-15T12:00:00.000Z"
+  },
+  {
+    "headline": "GM updates its trucks’ native software to coexist with CarPlay",
+    "summary": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spiffy new picture-in-picture displays - which is notable given GM's previ…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+    "image_url": null,
+    "published_at": "2026-09-15T11:00:00.000Z"
+  },
+  {
+    "headline": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+    "summary": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, and gamers. The Sept…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+    "image_url": null,
+    "published_at": "2026-09-15T08:54:48.000Z"
+  },
+  {
+    "headline": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+    "summary": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker revealed the updated PHEV…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+    "image_url": null,
+    "published_at": "2026-09-15T07:00:00.000Z"
+  },
+  {
     "headline": "Jensen Huang took a call from Trump, and showed off something else, too",
     "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
     "publisher": "TechCrunch",
@@ -1566,37 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "image_url": null,
     "published_at": "2026-09-08T21:10:27.000Z"
-  },
-  {
-    "headline": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "image_url": null,
-    "published_at": "2026-09-08T21:04:06.000Z"
-  },
-  {
-    "headline": "Drama swirls around OpenAI’s legendary mathematical milestone",
-    "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an int…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-    "image_url": null,
-    "published_at": "2026-09-08T20:53:52.000Z"
-  },
-  {
-    "headline": "The Exploration Company nabs $450 million to challenge SpaceX",
-    "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-    "image_url": null,
-    "published_at": "2026-09-08T20:47:34.000Z"
-  },
-  {
-    "headline": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
-    "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and software-controlled pedal-by-wire sys…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
-    "image_url": null,
-    "published_at": "2026-09-08T20:46:56.000Z"
   }
 ]

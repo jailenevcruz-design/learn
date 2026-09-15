@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Trump says developing AI is a critical race, downplaying fears",
+    "summary": "President Trump continues to support frontier artificial intelligence development, despite industry fears such technology could destroy humanity, casting AI as a critical race against China.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968682/trump-says-developing-ai-is-a-critical-race-downplaying-fears",
+    "image_url": null,
+    "published_at": "2026-09-15T10:42:20.000Z"
+  },
+  {
+    "headline": "Sen. Bernie Sanders says Congress has gotten a 'wake-up call' on AI risks",
+    "summary": "NPR's Leila Fadel speaks with U.S. Sen. Bernie Sanders,I-Vermont, about his concerns over the risks of artificial intelligence.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968653/sen-bernie-sanders-says-congress-has-gotten-a-wake-up-call-on-ai-risks",
+    "image_url": null,
+    "published_at": "2026-09-15T10:42:15.000Z"
+  },
+  {
+    "headline": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+    "summary": "The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the \"Pro-Human Assembly\" in Washington, D.C., to convince Congress to work faster to curb the impact of AI.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+    "image_url": null,
+    "published_at": "2026-09-15T09:00:00.000Z"
+  },
+  {
+    "headline": "This  bill could reshape crypto in America -- and it's sparking a major battle",
+    "summary": "The legislation would establish rules of the road for the crypto sector for the first time — but opponents are up in arms, and the bill faces an uncertain prospect in the Senate.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+    "image_url": null,
+    "published_at": "2026-09-15T09:00:00.000Z"
+  },
+  {
     "headline": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
     "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election.",
     "publisher": "NPR",
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/08/12/nx-s1-5928112/four-takeaways-primaries-six-states",
     "image_url": null,
     "published_at": "2026-08-12T08:35:50.000Z"
-  },
-  {
-    "headline": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
-    "summary": "David Crowley is the Milwaukee County Executive and could become the state's first Black governor. He narrowly defeated Francesca Hong, a democratic socialist who drew enthusiastic support.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong",
-    "image_url": null,
-    "published_at": "2026-08-12T08:06:55.000Z"
-  },
-  {
-    "headline": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
-    "summary": "Progressive Lt. Gov. Peggy Flanagan won the Democratic primary for Senate from Minnesota. It continues a series of wins for the progressive wing of the party over centrists.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan",
-    "image_url": null,
-    "published_at": "2026-08-12T03:34:54.000Z"
-  },
-  {
-    "headline": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
-    "summary": "Lindell had President Trump's endorsement but he lost to Lisa Demuth, the speaker of the state house. She'll face Democratic Sen. Amy Klobuchar in the fall for governor.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell",
-    "image_url": null,
-    "published_at": "2026-08-12T03:28:31.000Z"
-  },
-  {
-    "headline": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
-    "summary": "Sen. Darline Graham, who is serving out the remainder of her brother's term, and Rep. Ralph Norman advance to the special primary runoff later this month.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
-    "image_url": null,
-    "published_at": "2026-08-11T22:39:22.000Z"
   }
 ]
