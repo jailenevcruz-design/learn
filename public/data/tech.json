@@ -1,5 +1,245 @@
 [
   {
+    "headline": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+    "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+    "image_url": null,
+    "published_at": "2026-09-16T01:00:00.000Z"
+  },
+  {
+    "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "image_url": null,
+    "published_at": "2026-09-16T00:20:39.000Z"
+  },
+  {
+    "headline": "AI and data centers are incredibly unpopular in every poll",
+    "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters s…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "image_url": null,
+    "published_at": "2026-09-15T23:34:25.000Z"
+  },
+  {
+    "headline": "The AI data center boom is colliding with cities scarred by big industry",
+    "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "image_url": null,
+    "published_at": "2026-09-15T21:47:38.000Z"
+  },
+  {
+    "headline": "Microsoft announces Windows and Surface event for October 7th",
+    "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the PC.\" Microsoft CEO Saty…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+    "image_url": null,
+    "published_at": "2026-09-15T20:36:59.000Z"
+  },
+  {
+    "headline": "What if social media isn’t hurting kids?",
+    "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry of the social media b…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+    "image_url": null,
+    "published_at": "2026-09-15T20:13:30.000Z"
+  },
+  {
+    "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "image_url": null,
+    "published_at": "2026-09-15T20:12:53.000Z"
+  },
+  {
+    "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "image_url": null,
+    "published_at": "2026-09-15T19:00:00.000Z"
+  },
+  {
+    "headline": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+    "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its \"uncool\" stigma and finding new fans among an SUV-weary public. I'm here for it. One…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
+    "image_url": null,
+    "published_at": "2026-09-15T18:39:44.000Z"
+  },
+  {
+    "headline": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "image_url": null,
+    "published_at": "2026-09-15T18:29:20.000Z"
+  },
+  {
+    "headline": "SpaceX will try to put Starship in orbit for the first time on September 22",
+    "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+    "image_url": null,
+    "published_at": "2026-09-15T18:16:07.000Z"
+  },
+  {
+    "headline": "One of the best 3D printers for beginners is almost $100 off",
+    "summary": "The Centauri Carbon 2 stores the filament on the outside to fit the bowden tube in the build space. | Image: The Verge If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
+    "image_url": null,
+    "published_at": "2026-09-15T18:02:30.000Z"
+  },
+  {
+    "headline": "AI agents now have a place to snitch",
+    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "image_url": null,
+    "published_at": "2026-09-15T17:42:59.000Z"
+  },
+  {
+    "headline": "US military says it has launched weapons into space",
+    "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+    "image_url": null,
+    "published_at": "2026-09-15T17:09:06.000Z"
+  },
+  {
+    "headline": "Meta expands subscription push with new AI-focused plans",
+    "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "image_url": null,
+    "published_at": "2026-09-15T17:05:24.000Z"
+  },
+  {
+    "headline": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+    "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+    "image_url": null,
+    "published_at": "2026-09-15T17:02:04.000Z"
+  },
+  {
+    "headline": "How The Oregon Trail became a generational icon",
+    "summary": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, our fearless wagon leader David Pierce is joined by gaming journalist Chris Grant and Philip Bouchar…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
+    "image_url": null,
+    "published_at": "2026-09-15T16:18:10.000Z"
+  },
+  {
+    "headline": "Vintage Violence is an absurdist crime thriller for phone addicts",
+    "summary": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream. But the most chaotic to date might just be Vintage Violence, an absurd…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
+    "image_url": null,
+    "published_at": "2026-09-15T16:00:00.000Z"
+  },
+  {
+    "headline": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+    "summary": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
+    "image_url": null,
+    "published_at": "2026-09-15T16:00:00.000Z"
+  },
+  {
+    "headline": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+    "summary": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+    "image_url": null,
+    "published_at": "2026-09-15T15:49:18.000Z"
+  },
+  {
+    "headline": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "image_url": null,
+    "published_at": "2026-09-15T15:47:03.000Z"
+  },
+  {
+    "headline": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "image_url": null,
+    "published_at": "2026-09-15T15:22:48.000Z"
+  },
+  {
+    "headline": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+    "summary": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+    "image_url": null,
+    "published_at": "2026-09-15T15:21:10.000Z"
+  },
+  {
+    "headline": "Now Light’s minimalist phone can easily call an Uber",
+    "summary": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the upcoming Light Flip, they can use it to find pick up / drop off locations, see fares…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
+    "image_url": null,
+    "published_at": "2026-09-15T15:00:00.000Z"
+  },
+  {
+    "headline": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual user…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "image_url": null,
+    "published_at": "2026-09-15T15:00:00.000Z"
+  },
+  {
+    "headline": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "image_url": null,
+    "published_at": "2026-09-15T14:42:37.000Z"
+  },
+  {
+    "headline": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-09-15T14:30:00.000Z"
+  },
+  {
+    "headline": "India ends free ride for larger transactions on its ubiquitous digital payments network",
+    "summary": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+    "image_url": null,
+    "published_at": "2026-09-15T14:22:49.000Z"
+  },
+  {
+    "headline": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+    "summary": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+    "image_url": null,
+    "published_at": "2026-09-15T14:13:59.000Z"
+  },
+  {
+    "headline": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-09-15T14:00:00.000Z"
+  },
+  {
     "headline": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
     "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing and customer-support tasks.",
     "publisher": "TechCrunch",
@@ -1358,245 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
     "image_url": null,
     "published_at": "2026-09-09T18:08:35.000Z"
-  },
-  {
-    "headline": "Apple shows off AirPods 5 with improved active noise cancellation",
-    "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-    "image_url": null,
-    "published_at": "2026-09-09T18:06:40.000Z"
-  },
-  {
-    "headline": "Apple unveils its first foldable, the iPhone Duo",
-    "summary": "Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid in a better aspect ratio while watching videos when the device is unfolded.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-    "image_url": null,
-    "published_at": "2026-09-09T17:58:14.000Z"
-  },
-  {
-    "headline": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "summary": "The company also argued that its on-device models offer consumers more privacy.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "image_url": null,
-    "published_at": "2026-09-09T17:36:05.000Z"
-  },
-  {
-    "headline": "Apple launches iPhone 18 Pro with upgraded camera",
-    "summary": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
-    "image_url": null,
-    "published_at": "2026-09-09T17:26:05.000Z"
-  },
-  {
-    "headline": "DOJ wants more answers on Fox’s $22B Roku deal",
-    "summary": "The investigation also comes as the DOJ has faced criticism over how it handles major mergers, including questions about political influence.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-    "image_url": null,
-    "published_at": "2026-09-09T16:44:21.000Z"
-  },
-  {
-    "headline": "Superintelligence is coming. Should we let it?",
-    "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this ep…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "image_url": null,
-    "published_at": "2026-09-09T16:05:35.000Z"
-  },
-  {
-    "headline": "Viral AI assistant Instinct now has its own email address",
-    "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "image_url": null,
-    "published_at": "2026-09-09T15:13:12.000Z"
-  },
-  {
-    "headline": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-    "summary": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-    "image_url": null,
-    "published_at": "2026-09-09T15:10:41.000Z"
-  },
-  {
-    "headline": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "image_url": null,
-    "published_at": "2026-09-09T15:02:47.000Z"
-  },
-  {
-    "headline": "Shipt becomes the latest delivery app with an AI shopping assistant",
-    "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-    "image_url": null,
-    "published_at": "2026-09-09T14:51:45.000Z"
-  },
-  {
-    "headline": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
-    "summary": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
-    "image_url": null,
-    "published_at": "2026-09-09T14:38:41.000Z"
-  },
-  {
-    "headline": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-    "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-    "image_url": null,
-    "published_at": "2026-09-09T14:18:34.000Z"
-  },
-  {
-    "headline": "My favorite gaming earbuds got their first discount",
-    "summary": "Asus’ Cetra Open wireless earbuds are some of the best that I’ve tested, despite being open-style earbuds. Their drivers sit outside of your ear, which allows outside sounds to mix with audio coming from your console. Some gamers may not want this, but it works well for me as someone who prefers to be aware of their su…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-09T13:53:03.000Z"
-  },
-  {
-    "headline": "Nintendo Direct September 2026: The biggest news and trailers",
-    "summary": "It’s almost time for part two of Nintendo’s double feature this week. On Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date for the Switch 2 Ocarina of Time remake. On Wednesday, the company will be airing its next Nintendo Direct, which wil…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/991547/nintendo-direct-september-2026-news-trailers-announcements",
-    "image_url": null,
-    "published_at": "2026-09-09T13:50:00.000Z"
-  },
-  {
-    "headline": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
-    "summary": "The three Indian companies are accused of using hackers to steal information used to sway litigation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
-    "image_url": null,
-    "published_at": "2026-09-09T13:01:00.000Z"
-  },
-  {
-    "headline": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-    "summary": "Maxton Hall. | Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-    "image_url": null,
-    "published_at": "2026-09-09T13:00:00.000Z"
-  },
-  {
-    "headline": "Instacart launches an AI grocery shopping assistant called Clementine",
-    "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-    "image_url": null,
-    "published_at": "2026-09-09T13:00:00.000Z"
-  },
-  {
-    "headline": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
-    "summary": "Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
-    "image_url": null,
-    "published_at": "2026-09-09T13:00:00.000Z"
-  },
-  {
-    "headline": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-    "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-    "image_url": null,
-    "published_at": "2026-09-09T13:00:00.000Z"
-  },
-  {
-    "headline": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-    "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to [……",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-    "image_url": null,
-    "published_at": "2026-09-09T12:30:00.000Z"
-  },
-  {
-    "headline": "How to watch Apple’s September 9th launch event",
-    "summary": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineup. That could include the long-rumored foldable \"iPhone Duo,\" coming j…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-    "image_url": null,
-    "published_at": "2026-09-09T12:28:56.000Z"
-  },
-  {
-    "headline": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-    "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-    "image_url": null,
-    "published_at": "2026-09-09T12:05:34.000Z"
-  },
-  {
-    "headline": "Students who use AI generally score worse at school",
-    "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess ho…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-    "image_url": null,
-    "published_at": "2026-09-09T12:05:01.000Z"
-  },
-  {
-    "headline": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-    "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-    "image_url": null,
-    "published_at": "2026-09-09T09:56:28.000Z"
-  },
-  {
-    "headline": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-    "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-    "image_url": null,
-    "published_at": "2026-09-09T06:00:00.000Z"
-  },
-  {
-    "headline": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-    "summary": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests it will have a price starting at $2,000 for a model with 256GB of stora…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-    "image_url": null,
-    "published_at": "2026-09-09T05:26:53.000Z"
-  },
-  {
-    "headline": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-    "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-    "image_url": null,
-    "published_at": "2026-09-09T04:01:00.000Z"
-  },
-  {
-    "headline": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-    "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-    "image_url": null,
-    "published_at": "2026-09-08T23:23:23.000Z"
-  },
-  {
-    "headline": "Sony isn’t phasing out discs quite as quickly as we thought",
-    "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that one widely reported de…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
-    "image_url": null,
-    "published_at": "2026-09-08T21:52:13.000Z"
-  },
-  {
-    "headline": "Hackers are stealing Claude tokens from subscribers",
-    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "image_url": null,
-    "published_at": "2026-09-08T21:10:27.000Z"
   }
 ]

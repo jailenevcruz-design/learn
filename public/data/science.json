@@ -1,11 +1,107 @@
 [
   {
+    "headline": "Scientists reversed biological age in older adults in just 4 weeks",
+    "summary": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four weeks. The strongest result appeared in participants eating an omnivorous, lower-fat, higher-carbohydrate diet.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915100000.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T01:35:54.000Z"
+  },
+  {
+    "headline": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
+    "summary": "Antarctic krill serve as a crucial food source for penguins, seals, and whales. They recycle nutrients used by algae. Now researchers say they've found krill in a surprising place: hydrothermal vents.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole",
+    "image_url": null,
+    "published_at": "2026-09-15T16:53:39.000Z"
+  },
+  {
+    "headline": "Scientists stunned as volcano cloud starts destroying methane",
+    "summary": "The Hunga Tonga eruption may have triggered a surprising chemical reaction that destroyed some of the methane released into the atmosphere. Scientists say the discovery could reshape estimates of methane pollution and inspire new methods for slowing near-term global warming.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915095750.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T15:15:31.000Z"
+  },
+  {
+    "headline": "Smelling chocolate helped men complete more reps without feeling more tired",
+    "summary": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may influence appetite and motivation by making the brain anticipate eating.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T15:03:54.000Z"
+  },
+  {
+    "headline": "This Australian cave hid 25,000 years of ritual secrets",
+    "summary": "Microscopic plant remains are revealing how GunaiKurnai ancestors used Cloggs Cave for ritual practices over thousands of years. People deliberately gathered whole grasses, carried them into the dark cave, and burned them in thin layers, leaving behind traces that may span 25,000 years. A standing stone erected around…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102443.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T14:43:23.000Z"
+  },
+  {
+    "headline": "Scientists discover a major brain shift between ages 50 and 75",
+    "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brai…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T14:28:38.000Z"
+  },
+  {
+    "headline": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
+    "summary": "A 125-million-year-old crocodile fossil has revealed preserved skin, possible sensory organs, sophisticated respiratory structures, and an unexpected pattern on its tail. Ultraviolet light exposed alternating bands that may represent ancient camouflage, potentially preserving the oldest known coloration in a crocodylom…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T14:07:13.000Z"
+  },
+  {
+    "headline": "The shape behind the Einstein problem just revealed strange new physics",
+    "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T13:14:55.000Z"
+  },
+  {
+    "headline": "Supermassive black hole winds are 100 times more powerful than scientists thought",
+    "summary": "Astronomers have discovered that winds from a supermassive black hole are about 100 times more powerful than previously thought. XRISM observations showed the resulting turbulence spreading roughly 300,000 light-years, extending far beyond the black hole’s host galaxy. The energy involved rivals several billion superno…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102429.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T12:34:32.000Z"
+  },
+  {
+    "headline": "The U.S. Eradicated this flesh-eating parasite. Now it’s back",
+    "summary": "The flesh eating New World screwworm has returned to the United States, threatening livestock, wildlife, pets and potentially people as it spreads north. A new UC San Diego tracking system aims to predict where the parasite could strike next while officials revive the eradication strategy that defeated it decades ago.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102439.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T10:39:40.000Z"
+  },
+  {
     "headline": "NASA rushed engineers out of their labs. They say it risks future space missions",
     "summary": "NASA employees say they've lost vital equipment and staff needed to make sophisticated spacecraft amid the agency's abrupt relocations over the past several months.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
     "image_url": null,
     "published_at": "2026-09-15T09:00:00.000Z"
+  },
+  {
+    "headline": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
+    "summary": "A major analysis of 139 clinical trials involving nearly 10,000 people suggests that some of the simplest treatments may work best for knee osteoarthritis. Knee braces ranked highest overall for reducing pain, stiffness, and mobility problems, while water-based therapy was especially effective for pain and regular exer…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260913082208.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T03:57:43.000Z"
+  },
+  {
+    "headline": "Tiny cell “antennas” may help explain why some babies are born with heart defects",
+    "summary": "A newly discovered communication system in the microscopic “antennae” of cells may help explain how some congenital heart defects develop. When genetic mutations disrupt this system, the effects may extend beyond the heart to organs including the brain, kidneys, and skeleton.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260912220103.htm",
+    "image_url": null,
+    "published_at": "2026-09-15T03:20:52.000Z"
   },
   {
     "headline": "Plague was killing entire families thousands of years before the Black Death",
@@ -400,14 +496,6 @@
     "published_at": "2026-09-11T02:20:35.000Z"
   },
   {
-    "headline": "The Moon may have formed intact just hours after a giant collision",
-    "summary": "Scientists have discovered that the Moon-forming collision may have depended heavily on how hot and physically strong early Earth and Theia were. New simulations found that some impacts create the familiar disk of debris that later becomes the Moon, while others can produce an intact Moon in only about five hours. The…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260909231729.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T01:40:57.000Z"
-  },
-  {
     "headline": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
     "summary": "UCLA researchers developed ready-made cancer-fighting T cells from cord blood stem cells that can attack solid tumors through two separate detection systems. In mice, a single dose controlled cancer and extended survival while avoiding a dangerous complication associated with donor-derived T-cell therapies.",
     "publisher": "ScienceDaily",
@@ -486,6 +574,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260909225602.htm",
     "image_url": null,
     "published_at": "2026-09-10T03:44:05.000Z"
+  },
+  {
+    "headline": "The Moon may have formed intact just hours after a giant collision",
+    "summary": "Scientists have discovered that the Moon-forming collision may have depended heavily on how hot and physically strong early Earth and Theia were. New simulations found that some impacts create the familiar disk of debris that later becomes the Moon, while others can produce an intact Moon in only about five hours. The…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909231729.htm",
+    "image_url": null,
+    "published_at": "2026-09-10T03:17:29.000Z"
   },
   {
     "headline": "Scientists finally see DNA “zip” itself together for the first time",
@@ -1502,101 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260827010510.htm",
     "image_url": null,
     "published_at": "2026-08-30T11:45:32.000Z"
-  },
-  {
-    "headline": "'A glorious dawn launch': NASA's newest space telescope has left the Earth",
-    "summary": "The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
-    "image_url": null,
-    "published_at": "2026-08-30T10:30:00.000Z"
-  },
-  {
-    "headline": "Seven new frog species were hiding beneath Madagascar’s forest floor",
-    "summary": "Scientists have discovered seven new species of Madagascar’s elusive diamond frogs, using DNA from modern and century-old museum specimens to solve a long-running biological puzzle. The findings reveal surprising hidden diversity and could help protect these little-known amphibians as their forest habitats disappear.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T10:28:59.000Z"
-  },
-  {
-    "headline": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
-    "summary": "Weapons buried with ancient Egyptian princesses may have been more than ceremonial decorations. Researchers studying royal mummies from Dahshur found bone changes consistent with years of archery and other strenuous weapon use. Several women also showed evidence of healed injuries, suggesting surprisingly active lifest…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082348.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T09:30:18.000Z"
-  },
-  {
-    "headline": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-    "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. The carbon-neutral s…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T05:17:05.000Z"
-  },
-  {
-    "headline": "The next Cascadia megaquake could hit Oregon harder than expected",
-    "summary": "The Juan de Fuca plate beneath northern Oregon appears to be shallower than previously estimated, potentially making shaking from a future Cascadia megathrust earthquake significantly stronger. Scientists also found a deep basin beneath Tillamook that could trap seismic waves and intensify the shaking even further.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082350.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T04:12:10.000Z"
-  },
-  {
-    "headline": "Some signs of quantum gravity may be an illusion",
-    "summary": "Quantum mechanics and Einstein’s theory of gravity explain almost everything we see in nature, yet physicists still do not know how to unite them. A new theoretical framework suggests that some experiments that appear to show gravity behaving quantum mechanically may have a much more ordinary explanation. Researchers f…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828005226.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T02:58:40.000Z"
-  },
-  {
-    "headline": "A cancer therapy put severe rheumatoid arthritis into remission",
-    "summary": "CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by clearing out harmful immune cells and effectively rebooting part of the immune system, although much large…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T01:28:13.000Z"
-  },
-  {
-    "headline": "Keto diet cut liver fat by 67% in a clinical trial",
-    "summary": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diet…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
-    "image_url": null,
-    "published_at": "2026-08-29T13:32:50.000Z"
-  },
-  {
-    "headline": "Dogs may hold surprising clues to human longevity",
-    "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifespans in remarkably similar ways to those seen in people. These metabolic “fingerprints” could offer…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
-    "image_url": null,
-    "published_at": "2026-08-29T12:47:55.000Z"
-  },
-  {
-    "headline": "Scientists turn one of the hardest plastics to recycle into high-performance engine lubricant",
-    "summary": "Researchers have discovered a way to turn notoriously difficult-to-recycle PVC plastic into a key ingredient used in high-performance lubricants such as engine oil. The technique could give mountains of plastic waste a valuable second life while making lubricant production more sustainable.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828005220.htm",
-    "image_url": null,
-    "published_at": "2026-08-29T12:24:41.000Z"
-  },
-  {
-    "headline": "The universe is still speeding up, but nobody knows why",
-    "summary": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while leaving scientists with the enduring mystery of what this strange cosmic force actually is.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
-    "image_url": null,
-    "published_at": "2026-08-29T11:41:30.000Z"
-  },
-  {
-    "headline": "Long-term melatonin use linked to 90% higher heart failure risk",
-    "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
-    "image_url": null,
-    "published_at": "2026-08-29T10:52:20.000Z"
   }
 ]
