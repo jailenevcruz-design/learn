@@ -1,5 +1,117 @@
 [
   {
+    "headline": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
+    "summary": "Neuroscientists have made a major advance in modeling the human brain in mice, offering a new way to study conditions like cerebral palsy. Ethicists ask if it changes how these mice should be treated.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
+    "image_url": null,
+    "published_at": "2026-09-16T15:00:16.000Z"
+  },
+  {
+    "headline": "Scientists turn seawater into fresh water without harmful brine",
+    "summary": "Scientists have developed a solar-powered desalination system that turns seawater into fresh water while removing nearly all of the leftover salt as a solid instead of producing harmful brine. The self-cleaning technology could also recover valuable minerals such as lithium, potentially turning desalination waste into…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T14:44:50.000Z"
+  },
+  {
+    "headline": "Scientists find an immune “false alarm” that may drive rapid aging",
+    "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong part of a cell, an immune sensor called cGAS can mistake them for signs of a viral infection, triggering…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T14:05:35.000Z"
+  },
+  {
+    "headline": "A 240-million-year-old fossil just changed the dinosaur timeline",
+    "summary": "A newly identified 240-million-year-old animal from Tanzania is forcing scientists to rethink the early dinosaur timeline. Dinodontosaurus isiyavamanda belongs to a group previously known only from South America, linking fossil deposits on the two continents. That connection suggests Tanzania’s supposed oldest dinosaur…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915232128.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T13:48:08.000Z"
+  },
+  {
+    "headline": "Scientists find the whole grain “sweet spot” for better heart health",
+    "summary": "Eating four to six servings of whole grains a day may deliver meaningful benefits for heart health, according to a large review of 87 clinical trials. Researchers found improvements in body weight, waist size, blood pressure, cholesterol, blood sugar, triglycerides, and some markers of inflammation.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915232126.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T12:52:48.000Z"
+  },
+  {
+    "headline": "Scientists recreated what mice saw from brain activity alone",
+    "summary": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of reality.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T12:33:18.000Z"
+  },
+  {
+    "headline": "Venus may have swallowed its own moon",
+    "summary": "Venus may have once had a moon, but new research suggests the planet’s incredibly slow rotation could have doomed it. Computer simulations showed that instead of gradually drifting away like Earth’s moon, a Venusian moon would likely spiral inward until it crashed into the planet, with larger moons falling even faster.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915232122.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T11:49:57.000Z"
+  },
+  {
+    "headline": "Irrigation’s climate benefit could equal 363 years of its own emissions",
+    "summary": "U.S. irrigation produces some greenhouse gas emissions, but new research suggests it prevents vastly more by allowing farmers to grow more food on less land. Without irrigation, replacing lost crop yields could require converting natural ecosystems into farmland, releasing an estimated 6.86 gigatons of greenhouse gases…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915232119.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T11:34:17.000Z"
+  },
+  {
+    "headline": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
+    "summary": "A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth’s water may have been present much closer to the young Sun than scientists previously thought.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T11:03:10.000Z"
+  },
+  {
+    "headline": "Senators question Trump's picks for top health positions, including surgeon general",
+    "summary": "On Wednesday, the Senate committee on health holds a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third attempt to nominate a surgeon general.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
+    "image_url": null,
+    "published_at": "2026-09-16T10:00:00.000Z"
+  },
+  {
+    "headline": "U.S. acknowledges for the first time that it has deployed weapons in space",
+    "summary": "The remarkable revelation comes after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space",
+    "image_url": null,
+    "published_at": "2026-09-16T07:26:28.000Z"
+  },
+  {
+    "headline": "James Webb reveals Chariklo’s mysterious rings are changing faster than expected",
+    "summary": "The James Webb Space Telescope has revealed surprising changes in the rings around Chariklo, a small object orbiting between Saturn and Uranus. Over just a few years, its inner ring became more opaque while its outer ring became less opaque. The results suggest that rings around small Solar System bodies may be much mo…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260915232124.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T03:51:58.000Z"
+  },
+  {
+    "headline": "Ultra-processed foods linked to hidden muscle fat that may threaten your knees",
+    "summary": "Eating more ultra-processed foods was linked to greater fat buildup inside thigh muscles, according to MRI scans of 615 adults at risk for knee osteoarthritis. Surprisingly, the association remained even after researchers accounted for calorie intake, physical activity, and other factors. Fatty changes in these muscles…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102452.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T03:00:57.000Z"
+  },
+  {
+    "headline": "Scientists find a hidden retinal defense against vision loss",
+    "summary": "A naturally occurring molecule called erucamide may help the retina fight back against diseases that cause progressive vision loss. Restoring the molecule activated protective immune responses that helped stabilize retinal tissue and slow aspects of degeneration in preclinical models.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260914102447.htm",
+    "image_url": null,
+    "published_at": "2026-09-16T02:37:01.000Z"
+  },
+  {
     "headline": "Scientists reversed biological age in older adults in just 4 weeks",
     "summary": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four weeks. The strongest result appeared in participants eating an omnivorous, lower-fat, higher-carbohydrate diet.",
     "publisher": "ScienceDaily",
@@ -1486,117 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
     "image_url": null,
     "published_at": "2026-08-31T10:43:38.000Z"
-  },
-  {
-    "headline": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
-    "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman could uncover cosmic sur…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
-    "image_url": null,
-    "published_at": "2026-08-31T09:23:21.000Z"
-  },
-  {
-    "headline": "Why too many women are prescribed antibiotics for UTIs they don't have",
-    "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
-    "image_url": null,
-    "published_at": "2026-08-31T09:00:00.000Z"
-  },
-  {
-    "headline": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
-    "summary": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
-    "image_url": null,
-    "published_at": "2026-08-31T09:00:00.000Z"
-  },
-  {
-    "headline": "Rocky planets may have formed just 100 million years after the Big Bang",
-    "summary": "Rocky planets may have been able to start forming just 100 million years after the Big Bang, thanks to enormous early supernovae that scattered planet-building elements across space. Simulations found enough solid material and water around a young star to suggest that Earth-like worlds could have appeared far earlier t…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082345.htm",
-    "image_url": null,
-    "published_at": "2026-08-31T05:00:01.000Z"
-  },
-  {
-    "headline": "Scientists discover diamonds can generate electricity",
-    "summary": "Diamond was thought to be incapable of producing electricity through mechanical deformation, but ultrathin flexible diamond membranes have now shown a strong and repeatable piezoelectric effect. The unexpected discovery could open the door to diamond-powered sensors, tiny energy systems, and self-powered medical implan…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
-    "image_url": null,
-    "published_at": "2026-08-31T04:13:53.000Z"
-  },
-  {
-    "headline": "1.4-million-year-old footprints reveal a surprisingly large human relative",
-    "summary": "Ancient footprints in Kenya reveal that eight Paranthropus boisei may have traveled together 1.4 million years ago, with some individuals reaching surprisingly large, human-like body sizes. The tracks offer a rare glimpse of their social behavior and suggest these extinct human relatives may have lived in more complex…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T15:17:06.000Z"
-  },
-  {
-    "headline": "This strange “spacetime crystal” can suddenly become a black hole",
-    "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, potentially giving researchers a new tool for studying primordi…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T15:05:09.000Z"
-  },
-  {
-    "headline": "Common supplements rival antibiotics for severe gum disease",
-    "summary": "Omega-3 and low-dose aspirin matched the effectiveness of antibiotics in a year-long study of patients with severe gum disease, with both approaches helping about 58% reach the treatment goal. The unexpected result could point to a new way to treat some patients while reducing reliance on antibiotics and the growing pr…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T14:35:22.000Z"
-  },
-  {
-    "headline": "IBM quantum computer solves classically intractable problem in 15 minutes",
-    "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T14:08:13.000Z"
-  },
-  {
-    "headline": "HEPA air purifiers may boost brain function after just one month",
-    "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help protect the brain from the effects of traffic-related pollution.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T13:33:54.000Z"
-  },
-  {
-    "headline": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
-    "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break off, capsize, and collide with the glacier. The surge in activity coincided with a period when Thwaite…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T13:07:17.000Z"
-  },
-  {
-    "headline": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
-    "summary": "Dawn was crowned fattest marmot by popular vote.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
-    "image_url": null,
-    "published_at": "2026-08-30T12:45:00.000Z"
-  },
-  {
-    "headline": "Scientists discover a massive heat anomaly deep inside Mars",
-    "summary": "Mars has a hidden temperature divide, with its southern interior potentially hundreds of degrees hotter than the north and partially molten. The discovery could help explain several long-standing Martian mysteries, including unusual magnetism, seismic behavior, and clues to the planet’s ancient water history.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082336.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T12:27:59.000Z"
-  },
-  {
-    "headline": "A new recipe unlocks “impossible” nanocrystals for LEDs, implants, and superconductors",
-    "summary": "Scientists have cracked a long-standing chemistry problem, creating nanocrystals from tough metal nitrides that were previously extremely difficult to produce at this scale. The breakthrough could turn familiar materials used in LEDs, implants, and superconductors into building blocks for flexible electronics, printabl…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260827010510.htm",
-    "image_url": null,
-    "published_at": "2026-08-30T11:45:32.000Z"
   }
 ]

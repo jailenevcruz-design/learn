@@ -1,5 +1,253 @@
 [
   {
+    "headline": "Continental Resources to develop massive oil patch in Venezuela",
+    "summary": "Continental said it will develop and operate a patch in the Orinoco Belt that spans 126,000 acres and possesses an estimated 30 billion barrels of reserves.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
+    "image_url": null,
+    "published_at": "2026-09-16T17:16:00.000Z"
+  },
+  {
+    "headline": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+    "summary": "The pipeline has allowed the Saudis to shift oil exports to the Red Sea while the U.S. and Iran battle for control over Hormuz.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+    "image_url": null,
+    "published_at": "2026-09-16T17:03:21.000Z"
+  },
+  {
+    "headline": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+    "summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:57:42.000Z"
+  },
+  {
+    "headline": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
+    "summary": "American says a minority of its seats now accounts for half of its revenue.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:55:44.000Z"
+  },
+  {
+    "headline": "Hyperscaler debt signals warning sign, Apollo cautions",
+    "summary": "Credit default swaps for companies building data centers are getting pricier, and it's not because banks are hedging more of their bets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:51:18.000Z"
+  },
+  {
+    "headline": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
+    "summary": "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:48:13.000Z"
+  },
+  {
+    "headline": "We're significantly trimming a stock that has not gone to plan",
+    "summary": "We're selling half of our remaining position and downgrading the name to our sell-on-further-strength 3 rating.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/were-significantly-trimming-a-stock-that-has-not-gone-to-plan.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:37:22.000Z"
+  },
+  {
+    "headline": "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
+    "summary": "President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:26:58.000Z"
+  },
+  {
+    "headline": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
+    "summary": "Traders on both Kalshi and Polymarket see Democrats with one of their best chances to flip the U.S. Senate since the contracts on the election opened.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:26:41.000Z"
+  },
+  {
+    "headline": "Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea",
+    "summary": "Anthropic and OpenAI are proposing embedded AI evaluators to help manage risk of models causing catastrophic harm to society, but the idea has some issues.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:25:52.000Z"
+  },
+  {
+    "headline": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
+    "summary": "The New Yorker's Dexter Filkins says while Trump's son-in-law is a U.S. special envoy negotiating peace, he's also working on private business deals, raising billions in some of the same countries.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
+    "image_url": null,
+    "published_at": "2026-09-16T16:14:19.000Z"
+  },
+  {
+    "headline": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
+    "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:08:39.000Z"
+  },
+  {
+    "headline": "Yield on 10-year Treasury below 5% as investors await Fed decision",
+    "summary": "The Federal Reserve is widely expected to hike interest rates on Wednesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+    "image_url": null,
+    "published_at": "2026-09-16T16:07:25.000Z"
+  },
+  {
+    "headline": "OpenAI investors have approached the company about a new funding round",
+    "summary": "OpenAI is gearing up for what is widely expected to be a blockbuster IPO next year, after it confidentially filed its prospectus in June.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+    "image_url": null,
+    "published_at": "2026-09-16T15:18:16.000Z"
+  },
+  {
+    "headline": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+    "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
+    "image_url": null,
+    "published_at": "2026-09-16T14:43:09.000Z"
+  },
+  {
+    "headline": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
+    "summary": "New Zealand's $54 billion pension fund returned 14.2% in the year to June.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
+    "image_url": null,
+    "published_at": "2026-09-16T14:31:24.000Z"
+  },
+  {
+    "headline": "Costco expands Uber Eats delivery partnership to 47 states",
+    "summary": "Uber and Costco announced an expansion of a partnership where Costco members can order delivery from the store on Uber Eats to 47 states, up from 17.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/costco-and-uber-partnership.html",
+    "image_url": null,
+    "published_at": "2026-09-16T14:31:09.000Z"
+  },
+  {
+    "headline": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around'",
+    "summary": "Alexis Ohanian said AI risks are more mundane than the \"Terminator and Skynet\" scenarios some fear.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
+    "image_url": null,
+    "published_at": "2026-09-16T13:57:47.000Z"
+  },
+  {
+    "headline": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
+    "summary": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
+    "image_url": null,
+    "published_at": "2026-09-16T13:42:23.000Z"
+  },
+  {
+    "headline": "How are rising prices affecting you? NPR wants to know",
+    "summary": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
+    "image_url": null,
+    "published_at": "2026-09-16T13:40:12.000Z"
+  },
+  {
+    "headline": "Tropical Smoothie Cafe is getting a makeover as it prepares for its 'next 3,000' locations",
+    "summary": "Tropical Smoothie Cafe unveiled new branding as it grows rapidly under the ownership of private equity firm Blackstone.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/tropical-smoothie-cafe-announces-new-branding-plans-for-new-locations.html",
+    "image_url": null,
+    "published_at": "2026-09-16T13:16:40.000Z"
+  },
+  {
+    "headline": "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
+    "summary": "The biggest trade in options on the Cboe VIX Index Tuesday was an unusual $6 million purchase of deep, deep in-the-money-puts.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/bizarre-volatility-bet-in-the-options-pits-is-a-head-scratcher-ahead-of-fed-rate-decision.html",
+    "image_url": null,
+    "published_at": "2026-09-16T12:14:21.000Z"
+  },
+  {
+    "headline": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
+    "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-09-16T12:06:30.000Z"
+  },
+  {
+    "headline": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+    "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
+    "image_url": null,
+    "published_at": "2026-09-16T12:02:18.000Z"
+  },
+  {
+    "headline": "Mortgage demand from homebuyers drops 19% from a year ago, as interest rates surge abruptly higher",
+    "summary": "Mortgage rates have surged to the highest level since the start of 2025, causing a major pullback in mortgage demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/mortgage-demand-from-homebuyers-drops-19percent-from-a-year-ago.html",
+    "image_url": null,
+    "published_at": "2026-09-16T11:47:11.000Z"
+  },
+  {
+    "headline": "Living abroad doesn't end your U.S. tax obligations. What young expats need to know",
+    "summary": "Americans living overseas may still face U.S. tax-filing and foreign-account reporting rules — even when they ultimately owe no U.S. income tax.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/americans-living-abroad-us-tax-rules-fbar-filing.html",
+    "image_url": null,
+    "published_at": "2026-09-16T11:00:01.000Z"
+  },
+  {
+    "headline": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+    "summary": "Travelers gave higher ratings in part because of the newer gates and terminals many airports have opened in recent years, according to the study.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
+    "image_url": null,
+    "published_at": "2026-09-16T10:00:01.000Z"
+  },
+  {
+    "headline": "When students attend these colleges, taxpayers often pay. Here's why",
+    "summary": "Federal data shows many borrowers who aren't paying their loans went to private, for-profit colleges — schools that often market to low-income students and rely on federal financial aid for revenue.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5946419/student-loans-repayment-for-profit-college",
+    "image_url": null,
+    "published_at": "2026-09-16T09:00:00.000Z"
+  },
+  {
+    "headline": "The Fed is expected to raise interest rates for the first time in 3 years",
+    "summary": "The Fed is widely expected to raise its benchmark interest rate to combat stubborn inflation. That could make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
+    "image_url": null,
+    "published_at": "2026-09-16T09:00:00.000Z"
+  },
+  {
+    "headline": "Why Steve Bannon sided with Sanders, not Trump, on AI",
+    "summary": "Where does Steve Bannon fit in the debate over regulating or slowing AI? He tells Morning Edition where he breaks with Trump and what he thinks Washington should do.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-trump-ai-china-regulation",
+    "image_url": null,
+    "published_at": "2026-09-16T08:43:46.000Z"
+  },
+  {
+    "headline": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+    "summary": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+    "image_url": null,
+    "published_at": "2026-09-16T01:56:47.000Z"
+  },
+  {
     "headline": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
     "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy",
     "publisher": "NPR",
@@ -102,6 +350,14 @@
     "url": "https://www.cnbc.com/2026/09/15/trump-accounts-employer-benefits.html",
     "image_url": null,
     "published_at": "2026-09-15T20:10:47.000Z"
+  },
+  {
+    "headline": "CBO says Iran war driving up inflation, puts price tag at $38 billion",
+    "summary": "Two new, independent reports show detailed looks at the costs of the war in Iran. It's led to shortages in U.S. weapons, supply chain bottlenecks and a price tag in the tens of billions of dollars.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5969793/cbo-says-iran-war-diving-up-inflation-puts-price-tag-at-38-billion",
+    "image_url": null,
+    "published_at": "2026-09-15T20:08:21.000Z"
   },
   {
     "headline": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
@@ -1342,261 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
     "image_url": null,
     "published_at": "2026-09-11T02:05:24.000Z"
-  },
-  {
-    "headline": "Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy",
-    "summary": "Trump economic advisor Kevin Hassett owned as much as $5 million in Coinbase while serving as the White House's top economic advisor, his disclosure shows.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html",
-    "image_url": null,
-    "published_at": "2026-09-11T01:55:53.000Z"
-  },
-  {
-    "headline": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
-    "summary": "Chinese AI chipmaker Enflame, an Nvidia rival and one of China's \"four little dragons,\" made its Shanghai market debut.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
-    "image_url": null,
-    "published_at": "2026-09-11T01:53:08.000Z"
-  },
-  {
-    "headline": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-    "summary": "Anthropic said it detected unauthorized efforts by China-based AI labs including Alibaba and Moonshot AI to use its Claude models to help improve their own AI systems.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
-    "image_url": null,
-    "published_at": "2026-09-11T00:59:45.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
-    "summary": "Treasury yields moved higher on Thursday as U.S. oil prices hit $100 per barrel.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
-    "image_url": null,
-    "published_at": "2026-09-10T23:44:01.000Z"
-  },
-  {
-    "headline": "Jim Cramer says this is the key force driving stocks right now",
-    "summary": "CNBC's Jim Cramer said the 30-year Treasury yield is a key force driving stocks as it climbs to roughly 5.3%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
-    "image_url": null,
-    "published_at": "2026-09-10T22:46:54.000Z"
-  },
-  {
-    "headline": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
-    "summary": "Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
-    "image_url": null,
-    "published_at": "2026-09-10T21:42:47.000Z"
-  },
-  {
-    "headline": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
-    "summary": "Nvidia CEO Jensen Huang, Uber CEO Dara Khosrowshahi, and SpaceX CFO Bret Johnsen are set to speak at the Goldman Sachs Communacopia + Technology Conference.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
-    "image_url": null,
-    "published_at": "2026-09-10T21:22:39.000Z"
-  },
-  {
-    "headline": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
-    "summary": "Macy's posted strong fiscal second-quarter results on Thursday and raised its full-year guidance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-09-10T20:49:05.000Z"
-  },
-  {
-    "headline": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-    "summary": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-    "image_url": null,
-    "published_at": "2026-09-10T20:48:14.000Z"
-  },
-  {
-    "headline": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies",
-    "summary": "Health policy experts said the refunds are unlikely to defray steep premium increases following the lapse of enhanced ACA subsidies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
-    "image_url": null,
-    "published_at": "2026-09-10T20:45:59.000Z"
-  },
-  {
-    "headline": "NFL Commissioner Roger Goodell says league could rework TV packages in next media deal",
-    "summary": "The NFL has an opt-out clause at the end of the 2029-30 season in which it can resell and redistribute its media rights.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/nfl-roger-goodell-tv-packages-deal.html",
-    "image_url": null,
-    "published_at": "2026-09-10T20:44:33.000Z"
-  },
-  {
-    "headline": "Jim Cramer's least-favorite tech stock gets a new analyst endorsement — our take",
-    "summary": "Analysts at Piper called Broadcom the \"ASIC compute king\" in a new note to clients.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/cramers-least-favorite-tech-stock-gets-a-new-bullish-analyst-endorsement.html",
-    "image_url": null,
-    "published_at": "2026-09-10T19:33:25.000Z"
-  },
-  {
-    "headline": "Where investors are finding income outside traditional bonds as brutal drawdown drags on",
-    "summary": "Bond volatility and rising rates have some investors looking beyond traditional bonds for income, from alternative fixed income to stocks and other strategies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/income-alternatives-bond-yields-rates.html",
-    "image_url": null,
-    "published_at": "2026-09-10T19:24:12.000Z"
-  },
-  {
-    "headline": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
-    "summary": "Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-    "image_url": null,
-    "published_at": "2026-09-10T19:23:21.000Z"
-  },
-  {
-    "headline": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
-    "summary": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
-    "image_url": null,
-    "published_at": "2026-09-10T19:18:05.000Z"
-  },
-  {
-    "headline": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-    "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-    "image_url": null,
-    "published_at": "2026-09-10T19:02:58.000Z"
-  },
-  {
-    "headline": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
-    "summary": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
-    "image_url": null,
-    "published_at": "2026-09-10T18:52:34.000Z"
-  },
-  {
-    "headline": "30-year fixed mortgage rate tops 7% for the first time in over a year",
-    "summary": "The average rate on the 30-year fixed mortgage crossed over 7% for the first time in more than a year, as home prices continue to rise and sales drop.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/30-year-fixed-mortgage-rate-crosses.html",
-    "image_url": null,
-    "published_at": "2026-09-10T18:30:08.000Z"
-  },
-  {
-    "headline": "Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy",
-    "summary": "Jim's current faves include three tech names and a bank stock.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html",
-    "image_url": null,
-    "published_at": "2026-09-10T18:20:12.000Z"
-  },
-  {
-    "headline": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
-    "summary": "The Boring Co.'s latest $3 billion financing round was led by the United Arab Emirates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
-    "image_url": null,
-    "published_at": "2026-09-10T18:15:59.000Z"
-  },
-  {
-    "headline": "Home sales fall in August despite the highest supply in over a decade",
-    "summary": "Home sales slowed again despite the highest supply of homes for sale in over a decade. Prices, however, continue to rise.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html",
-    "image_url": null,
-    "published_at": "2026-09-10T17:57:02.000Z"
-  },
-  {
-    "headline": "AI is losing its stranglehold on the U.S. stock market. Here's why",
-    "summary": "A key tech-stock volatility metric options traders have been watching all year is reversing.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html",
-    "image_url": null,
-    "published_at": "2026-09-10T17:42:24.000Z"
-  },
-  {
-    "headline": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-    "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-    "image_url": null,
-    "published_at": "2026-09-10T16:55:17.000Z"
-  },
-  {
-    "headline": "Starbucks CEO Brian Niccol says next stage of turnaround focuses on cafe makeovers, customer experience",
-    "summary": "Starbucks is now two years into its turnaround under CEO Brian Niccol.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/starbucks-ceo-brian-niccol-cafe-renovations-customer-service.html",
-    "image_url": null,
-    "published_at": "2026-09-10T16:49:50.000Z"
-  },
-  {
-    "headline": "Starbucks is back, CEO Brian Niccol says. Here is what he's focused on next",
-    "summary": "Niccol added that he aims to \"finish the job on uplifting all of our coffeehouses.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/starbucks-is-back-ceo-brian-niccol-says-here-is-what-hes-focused-on-next.html",
-    "image_url": null,
-    "published_at": "2026-09-10T15:55:58.000Z"
-  },
-  {
-    "headline": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
-    "summary": "ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
-    "image_url": null,
-    "published_at": "2026-09-10T15:45:09.000Z"
-  },
-  {
-    "headline": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut",
-    "summary": "Goodell spoke with CNBC Sport ahead of the league's first-ever, regular-season game in Australia this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html",
-    "image_url": null,
-    "published_at": "2026-09-10T15:39:23.000Z"
-  },
-  {
-    "headline": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
-    "summary": "Amazon has been hesitant to open its sprawling webstore to external AI platforms.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
-    "image_url": null,
-    "published_at": "2026-09-10T15:25:58.000Z"
-  },
-  {
-    "headline": "Elon Musk threatens to sue over Gibney documentary's \"space lasers\" claim",
-    "summary": "The tech billionaire's attorney has put documentarian Alex Gibney and his production company on legal notice, claiming the Oscar-winning director defamed Musk in his nearly four-hour documentary.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
-    "image_url": null,
-    "published_at": "2026-09-10T15:13:09.000Z"
-  },
-  {
-    "headline": "Our top 3 stocks that bucked the market’s recent pullback — plus, a look at the bottom 3",
-    "summary": "Here's a look at what moved our best and worst performers over the past four weeks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/our-top-3-stocks-that-bucked-the-markets-recent-pullback-plus-a-look-at-the-bottom-3.html",
-    "image_url": null,
-    "published_at": "2026-09-10T15:00:47.000Z"
-  },
-  {
-    "headline": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO",
-    "summary": "In John Ternus' first launch event as CEO, Apple announced its first foldable phone and the iPhone 18 Pro.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
-    "image_url": null,
-    "published_at": "2026-09-10T14:45:52.000Z"
-  },
-  {
-    "headline": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
-    "summary": "U.S. President Donald Trump has urged Iran \"not to get cute\" over activity at a suspected nuclear site on Pickaxe Mountain.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
-    "image_url": null,
-    "published_at": "2026-09-10T14:20:15.000Z"
   }
 ]
