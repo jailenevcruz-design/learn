@@ -1,11 +1,155 @@
 [
   {
-    "headline": "Continental Resources to develop massive oil patch in Venezuela",
-    "summary": "Continental said it will develop and operate a patch in the Orinoco Belt that spans 126,000 acres and possesses an estimated 30 billion barrels of reserves.",
+    "headline": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+    "summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+    "image_url": null,
+    "published_at": "2026-09-16T20:22:24.000Z"
+  },
+  {
+    "headline": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+    "summary": "Billionaire Leon Black is suing the House Oversight and Government Reform Committee seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
+    "image_url": null,
+    "published_at": "2026-09-16T20:18:19.000Z"
+  },
+  {
+    "headline": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+    "summary": "The 10-year yield moved above the 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+    "image_url": null,
+    "published_at": "2026-09-16T20:10:01.000Z"
+  },
+  {
+    "headline": "Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela",
+    "summary": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
     "image_url": null,
-    "published_at": "2026-09-16T17:16:00.000Z"
+    "published_at": "2026-09-16T20:07:55.000Z"
+  },
+  {
+    "headline": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
+    "summary": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+    "image_url": null,
+    "published_at": "2026-09-16T20:00:36.000Z"
+  },
+  {
+    "headline": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
+    "summary": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
+    "image_url": null,
+    "published_at": "2026-09-16T19:56:09.000Z"
+  },
+  {
+    "headline": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+    "summary": "The Fed should have hiked rates by half percentage point rather than a quarter, the investor told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
+    "image_url": null,
+    "published_at": "2026-09-16T19:38:41.000Z"
+  },
+  {
+    "headline": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
+    "summary": "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
+    "image_url": null,
+    "published_at": "2026-09-16T19:36:24.000Z"
+  },
+  {
+    "headline": "White House chief of staff Susie Wiles says she's cancer free",
+    "summary": "Susie Wiles oversaw Trump’s winning 2024 presidential campaign and has wielded major influence in his second administration.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/susie-wiles-trump-cancer.html",
+    "image_url": null,
+    "published_at": "2026-09-16T19:31:11.000Z"
+  },
+  {
+    "headline": "Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea",
+    "summary": "Anthropic and OpenAI are proposing embedded AI evaluators to help manage risk of models causing catastrophic harm to society, but the idea has some issues.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
+    "image_url": null,
+    "published_at": "2026-09-16T19:31:06.000Z"
+  },
+  {
+    "headline": "Hyperscaler debt signals warning sign, Apollo cautions",
+    "summary": "Credit default swaps for companies building data centers are getting pricier, and it's not because banks are hedging more of their bets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
+    "image_url": null,
+    "published_at": "2026-09-16T19:29:18.000Z"
+  },
+  {
+    "headline": "Fed raises rates: What it means for your credit cards, mortgages, savings accounts and auto loans",
+    "summary": "The Fed's quarter-point rate hike will impact a range of consumer borrowing and savings costs, including mortgages, credit cards, car loans and deposit rates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/fed-rate-hike-consumer-borrowing-and-savings-rates.html",
+    "image_url": null,
+    "published_at": "2026-09-16T19:17:38.000Z"
+  },
+  {
+    "headline": "Hegseth avoids impeachment vote with early House election recess",
+    "summary": "The House won't take a vote on impeaching Defense Secretary Pete Hegseth after House leaders decided to leave Washington a day earlier than planned.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/hegseth-impeachment-house-election-recess.html",
+    "image_url": null,
+    "published_at": "2026-09-16T19:12:33.000Z"
+  },
+  {
+    "headline": "Fed delivers its first hike in 3 years. Plus, what's moving Starbucks and GE Vernova",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/fed-delivers-its-first-hike-in-3-years-plus-whats-moving-starbucks-and-ge-vernova.html",
+    "image_url": null,
+    "published_at": "2026-09-16T19:00:14.000Z"
+  },
+  {
+    "headline": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
+    "summary": "American says a minority of its seats now accounts for half of its revenue.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
+    "image_url": null,
+    "published_at": "2026-09-16T18:33:51.000Z"
+  },
+  {
+    "headline": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
+    "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
+    "image_url": null,
+    "published_at": "2026-09-16T18:18:09.000Z"
+  },
+  {
+    "headline": "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
+    "summary": "President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
+    "image_url": null,
+    "published_at": "2026-09-16T17:50:00.000Z"
+  },
+  {
+    "headline": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+    "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
+    "image_url": null,
+    "published_at": "2026-09-16T17:32:22.000Z"
+  },
+  {
+    "headline": "Lagging sector looks poised for a rebound. Here's how Mike Khouw is trading it",
+    "summary": "Quietly, the communications sector has started to claw back some of the year's underperformance.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/16/lagging-sector-looks-poised-for-a-rebound-heres-how-mike-khouw-is-trading-it.html",
+    "image_url": null,
+    "published_at": "2026-09-16T17:21:49.000Z"
   },
   {
     "headline": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
@@ -16,38 +160,6 @@
     "published_at": "2026-09-16T17:03:21.000Z"
   },
   {
-    "headline": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-    "summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-    "image_url": null,
-    "published_at": "2026-09-16T16:57:42.000Z"
-  },
-  {
-    "headline": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-    "summary": "American says a minority of its seats now accounts for half of its revenue.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
-    "image_url": null,
-    "published_at": "2026-09-16T16:55:44.000Z"
-  },
-  {
-    "headline": "Hyperscaler debt signals warning sign, Apollo cautions",
-    "summary": "Credit default swaps for companies building data centers are getting pricier, and it's not because banks are hedging more of their bets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
-    "image_url": null,
-    "published_at": "2026-09-16T16:51:18.000Z"
-  },
-  {
-    "headline": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-    "summary": "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-    "image_url": null,
-    "published_at": "2026-09-16T16:48:13.000Z"
-  },
-  {
     "headline": "We're significantly trimming a stock that has not gone to plan",
     "summary": "We're selling half of our remaining position and downgrading the name to our sell-on-further-strength 3 rating.",
     "publisher": "CNBC",
@@ -56,28 +168,12 @@
     "published_at": "2026-09-16T16:37:22.000Z"
   },
   {
-    "headline": "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
-    "summary": "President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
-    "image_url": null,
-    "published_at": "2026-09-16T16:26:58.000Z"
-  },
-  {
     "headline": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
     "summary": "Traders on both Kalshi and Polymarket see Democrats with one of their best chances to flip the U.S. Senate since the contracts on the election opened.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
     "image_url": null,
     "published_at": "2026-09-16T16:26:41.000Z"
-  },
-  {
-    "headline": "Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea",
-    "summary": "Anthropic and OpenAI are proposing embedded AI evaluators to help manage risk of models causing catastrophic harm to society, but the idea has some issues.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
-    "image_url": null,
-    "published_at": "2026-09-16T16:25:52.000Z"
   },
   {
     "headline": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
@@ -94,14 +190,6 @@
     "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
     "image_url": null,
     "published_at": "2026-09-16T16:08:39.000Z"
-  },
-  {
-    "headline": "Yield on 10-year Treasury below 5% as investors await Fed decision",
-    "summary": "The Federal Reserve is widely expected to hike interest rates on Wednesday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
-    "image_url": null,
-    "published_at": "2026-09-16T16:07:25.000Z"
   },
   {
     "headline": "OpenAI investors have approached the company about a new funding round",
@@ -184,14 +272,6 @@
     "published_at": "2026-09-16T12:06:30.000Z"
   },
   {
-    "headline": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
-    "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
-    "image_url": null,
-    "published_at": "2026-09-16T12:02:18.000Z"
-  },
-  {
     "headline": "Mortgage demand from homebuyers drops 19% from a year ago, as interest rates surge abruptly higher",
     "summary": "Mortgage rates have surged to the highest level since the start of 2025, causing a major pullback in mortgage demand.",
     "publisher": "CNBC",
@@ -224,8 +304,8 @@
     "published_at": "2026-09-16T09:00:00.000Z"
   },
   {
-    "headline": "The Fed is expected to raise interest rates for the first time in 3 years",
-    "summary": "The Fed is widely expected to raise its benchmark interest rate to combat stubborn inflation. That could make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
+    "headline": "The Fed raises interest rates for the first time in over three years",
+    "summary": "The Federal Reserve raised its benchmark interest rate Wednesday to combat stubborn inflation. That will make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
     "image_url": null,
@@ -584,18 +664,18 @@
     "published_at": "2026-09-15T09:00:01.000Z"
   },
   {
-    "headline": "Get ready for yet another cost when buying a home: Junk fees",
-    "summary": "Some real estate agents and researchers say home buyers and sellers should not pay this out-of-pocket fee.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
-    "image_url": null,
-    "published_at": "2026-09-15T09:00:00.000Z"
-  },
-  {
     "headline": "A Trump-backed crypto bill just suffered a bruising defeat in the Senate. Here's why",
     "summary": "The legislation was intended to establish rules of the road for the crypto sector for the first time. But it suffered a stinging defeat in the Senate on Tuesday.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+    "image_url": null,
+    "published_at": "2026-09-15T09:00:00.000Z"
+  },
+  {
+    "headline": "Get ready for yet another cost when buying a home: Junk fees",
+    "summary": "Some real estate agents and researchers say home buyers and sellers should not pay this out-of-pocket fee.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
     "image_url": null,
     "published_at": "2026-09-15T09:00:00.000Z"
   },
@@ -1518,85 +1598,5 @@
     "url": "https://www.npr.org/2026/09/11/nx-s1-5955727/fintech-companies-are-applying-to-become-banks-heres-what-it-takes-to-become-one",
     "image_url": null,
     "published_at": "2026-09-11T08:46:42.000Z"
-  },
-  {
-    "headline": "As data centers spread, not all U.S. housing markets react the same way",
-    "summary": "Realtors around the U.S. are being asked to explain how data centers could affect home values. But a new study shows there is no universal answer.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5964912/data-centers-growing-footprint-have-a-varying-effect-on-property-values",
-    "image_url": null,
-    "published_at": "2026-09-11T08:45:46.000Z"
-  },
-  {
-    "headline": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
-    "summary": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-    "image_url": null,
-    "published_at": "2026-09-11T07:32:27.000Z"
-  },
-  {
-    "headline": "Fintechs conquered payments in India. Now they're eyeing credit",
-    "summary": "Fintech companies, the driving force behind the adoption of digital payments in India, are now focusing on offering credit to the underserved population.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/fintechs-upi-india-is-credit-economy-gff.html",
-    "image_url": null,
-    "published_at": "2026-09-11T07:04:56.000Z"
-  },
-  {
-    "headline": "Jamie Dimon joins bankers lobbying the UK ahead of its critical budget — here’s why they’re worried",
-    "summary": "Bankers are pressuring the British government ahead of its Autumn Budget, in which the newly minted leadership will lay out its fiscal plans for Britain.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/jamie-dimon-uk-autumn-budget.html",
-    "image_url": null,
-    "published_at": "2026-09-11T07:03:18.000Z"
-  },
-  {
-    "headline": "China's wealthy brace for a widening tax net as Beijing closes in",
-    "summary": "Beijing's recent push to tax offshore wealth may be only the opening phase of a broader campaign that could eventually reach overseas properties, inheritances.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
-    "image_url": null,
-    "published_at": "2026-09-11T06:53:06.000Z"
-  },
-  {
-    "headline": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-    "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-    "image_url": null,
-    "published_at": "2026-09-11T06:02:40.000Z"
-  },
-  {
-    "headline": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
-    "summary": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
-    "image_url": null,
-    "published_at": "2026-09-11T04:29:20.000Z"
-  },
-  {
-    "headline": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
-    "summary": "China and the Philippines have been locked in years of tension over their competing claims in the South China Sea, with friction intensifying in recent months.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/china-philippine-south-china-sea-disputes-tensions-.html",
-    "image_url": null,
-    "published_at": "2026-09-11T03:44:43.000Z"
-  },
-  {
-    "headline": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
-    "summary": "At Y Combinator’s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
-    "image_url": null,
-    "published_at": "2026-09-11T03:39:17.000Z"
-  },
-  {
-    "headline": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
-    "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-    "image_url": null,
-    "published_at": "2026-09-11T02:05:24.000Z"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Congress is under pressure to act on AI — here's what that could look like",
+    "summary": "Lawmakers are expressing broader willingness to regulate AI development, but the path forward may not be a quick one.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
+    "image_url": null,
+    "published_at": "2026-09-16T17:32:44.000Z"
+  },
+  {
+    "headline": "DOJ charges Russian agents with plotting attacks, including in US",
+    "summary": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out external attacks\" worldwide.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+    "image_url": null,
+    "published_at": "2026-09-16T17:19:49.000Z"
+  },
+  {
     "headline": "A tumultuous congressional primary season closes with record departures and defeats",
     "summary": "Already, close to 100 lawmakers who started this Congress will not be around for the next one, according to an NPR analysis, driven by record-setting retirements and primary defeats.",
     "publisher": "NPR",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/13/nx-s1-5929260/democratic-socialisms-next-test-is-the-midwest",
     "image_url": null,
     "published_at": "2026-08-13T21:12:53.000Z"
-  },
-  {
-    "headline": "Primary voters send mixed signals about what they want from the Democratic Party",
-    "summary": "Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
-    "image_url": null,
-    "published_at": "2026-08-13T10:59:33.000Z"
-  },
-  {
-    "headline": "Democratic political advisor discusses the party's wins this week",
-    "summary": "NPR's Leila Fadel speaks with Democratic political advisor, Faiz Shakir, about the party's political platform after the wins of this week's primaries.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/13/nx-s1-5928205/democratic-political-advisor-discusses-the-partys-wins-this-week",
-    "image_url": null,
-    "published_at": "2026-08-13T10:59:27.000Z"
   }
 ]
