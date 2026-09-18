@@ -1,11 +1,99 @@
 [
   {
+    "headline": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
+    "summary": "California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+    "image_url": null,
+    "published_at": "2026-09-18T15:02:50.000Z"
+  },
+  {
+    "headline": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+    "summary": "Fed Vice Chair for Supervision Michelle Bowman said a new report indicates the central bank's staff missed signs ahead of Silicon Valley Bank's 2023 failure.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
+    "image_url": null,
+    "published_at": "2026-09-18T14:49:20.000Z"
+  },
+  {
+    "headline": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+    "summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+    "image_url": null,
+    "published_at": "2026-09-18T14:36:55.000Z"
+  },
+  {
+    "headline": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+    "summary": "In an appearance on CNBC's \"Squawk Box,\" Rep. Chip Roy, R-Texas, said he supports congressional hearings on AI, but wasn't keen on additional regulations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
+    "image_url": null,
+    "published_at": "2026-09-18T14:20:46.000Z"
+  },
+  {
+    "headline": "U.S. crude oil rises as market assesses disruption from Saudi pipeline closure",
+    "summary": "Saudi Arabia and the Houthis exchanged fresh attacks across their border, raising concerns that the widening Middle East conflict could further disrupt supplies",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+    "image_url": null,
+    "published_at": "2026-09-18T14:01:51.000Z"
+  },
+  {
+    "headline": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
+    "summary": "Senators elected this November will be in office when Social Security's retirement trust fund is projected to run dry.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/social-security-senate-races-battleground-voters-survey.html",
+    "image_url": null,
+    "published_at": "2026-09-18T13:15:01.000Z"
+  },
+  {
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "summary": "Bonds are misbehaving, and Apple's iPhone 18 hits stores today.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "image_url": null,
+    "published_at": "2026-09-18T13:08:59.000Z"
+  },
+  {
+    "headline": "AI stock swings could affect your 401(k). Here’s what retirement savers need to know",
+    "summary": "Retirement savers may be affected by swings in the artificial intelligence trade. Here is how to assess the risk without making a rash move.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html",
+    "image_url": null,
+    "published_at": "2026-09-18T12:52:14.000Z"
+  },
+  {
     "headline": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
     "summary": "Nestlé is assessing its options after Russia placed the Swiss food giant’s local assets under temporary external administration.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
     "image_url": null,
-    "published_at": "2026-09-18T11:28:45.000Z"
+    "published_at": "2026-09-18T12:18:55.000Z"
+  },
+  {
+    "headline": "IRS tax debt agreements have plummeted: 'I've never seen a number that low,' taxpayer advocate says",
+    "summary": "More taxpayers have been applying for an \"offer in compromise\" since 2023, but the IRS has accepted far fewer requests. Tax experts are unsure why.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/irs-offers-in-compromise.html",
+    "image_url": null,
+    "published_at": "2026-09-18T12:15:01.000Z"
+  },
+  {
+    "headline": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+    "summary": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+    "image_url": null,
+    "published_at": "2026-09-18T12:04:02.000Z"
+  },
+  {
+    "headline": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+    "summary": "The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-09-18T12:03:01.000Z"
   },
   {
     "headline": "AI trade rebound sparks flurry of unusually bullish options activity",
@@ -16,26 +104,18 @@
     "published_at": "2026-09-18T11:20:56.000Z"
   },
   {
-    "headline": "Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-    "summary": "Buffett's son, Howard, will replace him as chairman as dictated by a long-standing succession plan, Berkshire said.",
+    "headline": "Beauty, health and wellness are converging into one retail category",
+    "summary": "As consumers prioritize holistic retail purchases, beauty, health and wellness are increasingly converging into one category and one consumer budget.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+    "url": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
     "image_url": null,
-    "published_at": "2026-09-18T11:11:26.000Z"
+    "published_at": "2026-09-18T11:00:01.000Z"
   },
   {
     "headline": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
     "summary": "At Salesforce's annual mega-conference in San Francisco, attendees said they get enough value from older AI models.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
-    "image_url": null,
-    "published_at": "2026-09-18T11:00:01.000Z"
-  },
-  {
-    "headline": "Beauty, health and wellness are converging into one retail category",
-    "summary": "As consumers prioritize holistic retail purchases, beauty, health and wellness are increasingly converging into one category and one consumer budget.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
     "image_url": null,
     "published_at": "2026-09-18T11:00:01.000Z"
   },
@@ -104,14 +184,6 @@
     "published_at": "2026-09-18T08:41:11.000Z"
   },
   {
-    "headline": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
-    "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-    "image_url": null,
-    "published_at": "2026-09-18T08:29:35.000Z"
-  },
-  {
     "headline": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
     "summary": "The deal comes as Iran-backed Houthis escalate attacks on Saudi Arabia and seek control of the strategically important Bab el-Mandeb Strait.",
     "publisher": "CNBC",
@@ -142,14 +214,6 @@
     "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
     "image_url": null,
     "published_at": "2026-09-18T03:31:45.000Z"
-  },
-  {
-    "headline": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
-    "summary": "The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-09-18T03:09:22.000Z"
   },
   {
     "headline": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
@@ -776,18 +840,18 @@
     "published_at": "2026-09-16T10:00:01.000Z"
   },
   {
-    "headline": "The Fed raises interest rates for the first time in over three years",
-    "summary": "The Federal Reserve raised its benchmark interest rate Wednesday to combat stubborn inflation. That will make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
-    "image_url": null,
-    "published_at": "2026-09-16T09:00:00.000Z"
-  },
-  {
     "headline": "When students attend these colleges, taxpayers often pay. Here's why",
     "summary": "Federal data shows many borrowers who aren't paying their loans went to private, for-profit colleges — schools that often market to low-income students and rely on federal financial aid for revenue.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/16/nx-s1-5946419/student-loans-repayment-for-profit-college",
+    "image_url": null,
+    "published_at": "2026-09-16T09:00:00.000Z"
+  },
+  {
+    "headline": "The Fed raises interest rates for the first time in over three years",
+    "summary": "The Federal Reserve raised its benchmark interest rate Wednesday to combat stubborn inflation. That will make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
     "image_url": null,
     "published_at": "2026-09-16T09:00:00.000Z"
   },
@@ -808,8 +872,8 @@
     "published_at": "2026-09-16T01:56:47.000Z"
   },
   {
-    "headline": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
-    "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy",
+    "headline": "Turkish habit of stashing gold 'under the pillow' hurts economy, government says",
+    "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
     "image_url": null,
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
     "image_url": null,
     "published_at": "2026-09-13T16:38:45.000Z"
-  },
-  {
-    "headline": "I'm a psychologist who studies couples: Emotionally intelligent partners ask 1 question every morning—that most neglect",
-    "summary": "A \"capacity check\" might be the most thoughtful question to ask in the morning, says Mark Travers, a psychologist who studies relationships. How to do it right.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/emotionally-intelligent-couples-ask-question-every-morning-psychologist.html",
-    "image_url": null,
-    "published_at": "2026-09-13T15:09:44.000Z"
-  },
-  {
-    "headline": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
-    "summary": "The U.S.-Iran war has caused oil prices to surge and added to freight stress from tariffs, but no shipping trade has boomed quite like crude oil tanker futures.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
-    "image_url": null,
-    "published_at": "2026-09-13T13:50:00.000Z"
-  },
-  {
-    "headline": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-    "summary": "The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
-    "image_url": null,
-    "published_at": "2026-09-13T13:38:23.000Z"
-  },
-  {
-    "headline": "Taxing high earners to help fund Social Security gains bipartisan attention — what it could mean for benefits",
-    "summary": "With Social Security due to reach a funding shortfall in six years, more lawmakers are opening up to the idea of taxing high earners to help fund the program.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/social-security-payroll-tax-cap.html",
-    "image_url": null,
-    "published_at": "2026-09-13T13:30:01.000Z"
-  },
-  {
-    "headline": "A new tax incentive could lead to more films being made in the U.S. rather than abroad",
-    "summary": "President Trump and Congress are weighing in on potential federal tax incentives for film production. It's hoped the tax credit would keep production of films and TV in the U.S. rather than overseas.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/13/nx-s1-5962169/a-new-tax-incentive-could-lead-to-more-films-being-made-in-the-u-s-rather-than-abroad",
-    "image_url": null,
-    "published_at": "2026-09-13T12:04:25.000Z"
-  },
-  {
-    "headline": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
-    "summary": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-    "image_url": null,
-    "published_at": "2026-09-13T11:53:35.000Z"
-  },
-  {
-    "headline": "NFL and midterm elections set up prediction markets for a critical fall season",
-    "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-    "image_url": null,
-    "published_at": "2026-09-13T11:52:33.000Z"
-  },
-  {
-    "headline": "China's Xi urges BRICS nations to work towards peace in the Middle East",
-    "summary": "China, Iran's biggest trading partner and a key customer of Tehran's energy exports, is willing to work with BRICS towards peace in the region, Xi said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
-    "image_url": null,
-    "published_at": "2026-09-13T09:41:53.000Z"
   }
 ]

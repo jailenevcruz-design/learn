@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Scientists discover cells that cheat death and rebuild damaged tissue",
+    "summary": "Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism that could improve healing but may also help cancers return after treatment.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+    "image_url": null,
+    "published_at": "2026-09-18T12:30:43.000Z"
+  },
+  {
+    "headline": "Scientists just named a new snake after Guns N’ Roses legend Slash",
+    "summary": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake, Lielaphis slashi, is a species scientists had never formally recognized before. The nonvenomous snak…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
+    "image_url": null,
+    "published_at": "2026-09-18T12:07:03.000Z"
+  },
+  {
+    "headline": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
+    "summary": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface. The breakthrough could pave the way for dramatically faster photonic communications, computing, and sensing technologies.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
+    "image_url": null,
+    "published_at": "2026-09-18T11:50:13.000Z"
+  },
+  {
+    "headline": "NASA’s Roman Space Telescope could last more than twice as long as planned",
+    "summary": "NASA’s Roman Space Telescope may now have enough fuel for at least 22 years of science, more than double its original 10 year design life. An extremely precise course correction, extra fuel at launch, and additional expected savings could keep the powerful observatory studying the universe for decades.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+    "image_url": null,
+    "published_at": "2026-09-18T11:31:56.000Z"
+  },
+  {
+    "headline": "Scientists are about to test Einstein’s gravity with exotic matter",
+    "summary": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on second-generation particles exactly as Einstein’s theory predicts. Any unexpected difference would be…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
+    "image_url": null,
+    "published_at": "2026-09-18T11:07:25.000Z"
+  },
+  {
     "headline": "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
     "summary": "NASA’s Lunar Reconnaissance Orbiter has revealed a 728-foot-wide crater that formed on the Moon in 2024, making it the largest newly formed crater ever identified in the solar system. The impact disturbed the surface for miles around it, creating a surprisingly large cold zone and showing how dramatically a single coll…",
     "publisher": "ScienceDaily",
@@ -1558,45 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/08/260831015200.htm",
     "image_url": null,
     "published_at": "2026-09-02T13:23:16.000Z"
-  },
-  {
-    "headline": "He died of 'natural causes.' But his mother says she knows what killed him: heat",
-    "summary": "When Arizona counts heat-related deaths, Adam Willson isn't included. His story shows how thousands of heat deaths can go uncounted every year in the United States.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/02/nx-s1-5887544/heat-deaths-undercount",
-    "image_url": null,
-    "published_at": "2026-09-02T09:00:00.000Z"
-  },
-  {
-    "headline": "Too much coffee may weaken bones, study finds",
-    "summary": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five cups a day was linked to lower bone density. The findings suggest tea may offer a small bone-health…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
-    "image_url": null,
-    "published_at": "2026-09-02T06:04:39.000Z"
-  },
-  {
-    "headline": "A search for one exotic particle uncovered two strange new structures",
-    "summary": "A search for one mysterious particle unexpectedly revealed evidence for two different structures that may belong to the bizarre family of exotic subatomic particles known as XYZ states. The findings could help physicists uncover new ways that quarks and gluons combine to create matter.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260831015147.htm",
-    "image_url": null,
-    "published_at": "2026-09-02T05:28:30.000Z"
-  },
-  {
-    "headline": "Earth may have lost the Sun’s protective shield millions of years ago",
-    "summary": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain ancient ice ages as well as how early Earth stayed warm enough for liquid water when the Sun was much dimmer.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm",
-    "image_url": null,
-    "published_at": "2026-09-02T04:25:48.000Z"
-  },
-  {
-    "headline": "Your neighborhood in your 20s may shape your heart decades later",
-    "summary": "Where you live in early adulthood may quietly shape your heart health for decades. Researchers found that adverse neighborhood conditions were linked to a higher risk of coronary artery calcification in midlife, an early warning sign of cardiovascular disease.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260830000009.htm",
-    "image_url": null,
-    "published_at": "2026-09-02T03:02:37.000Z"
   }
 ]
