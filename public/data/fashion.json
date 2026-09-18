@@ -1,11 +1,51 @@
 [
   {
+    "headline": "Bora Aksu Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bora-aksu",
+    "image_url": null,
+    "published_at": "2026-09-18T11:52:19.000Z"
+  },
+  {
+    "headline": "Petra Fagerström Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/petra-fagerstrom",
+    "image_url": null,
+    "published_at": "2026-09-18T11:52:19.000Z"
+  },
+  {
+    "headline": "H&M Studio Fall 2026 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/hm",
+    "image_url": null,
+    "published_at": "2026-09-18T11:52:19.000Z"
+  },
+  {
+    "headline": "Harris Reed Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/harris-reed",
+    "image_url": null,
+    "published_at": "2026-09-18T11:52:19.000Z"
+  },
+  {
+    "headline": "Lauren Manoogian Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lauren-manoogian",
+    "image_url": null,
+    "published_at": "2026-09-18T11:52:19.000Z"
+  },
+  {
     "headline": "Dagmar Spring 2027 Ready-to-Wear",
     "summary": "",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/dagmar",
     "image_url": null,
-    "published_at": "2026-09-17T20:31:33.000Z"
+    "published_at": "2026-09-18T11:52:19.000Z"
   },
   {
     "headline": "Batsheva Spring 2027 Ready-to-Wear",
@@ -13,7 +53,199 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/batsheva",
     "image_url": null,
-    "published_at": "2026-09-17T20:31:33.000Z"
+    "published_at": "2026-09-18T11:52:19.000Z"
+  },
+  {
+    "headline": "Aperitivo Hour: A Late Summer Dinner with Taylor Sade",
+    "summary": "Jewelry designer Taylor Sade of Vertigo takes us behind the scenes of a late-summer New York City pasta party.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/aperitivo-hour-taylor-sade",
+    "image_url": null,
+    "published_at": "2026-09-18T10:00:00.000Z"
+  },
+  {
+    "headline": "Tove Lo Has a Lot of Feelings and No Solutions",
+    "summary": "The pop pioneer talks her sixth album “Estrus,” returning to Sweden to find herself again, and why there will always be a reason to disappear on the dance floor.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/tove-lo-estrus-interview",
+    "image_url": null,
+    "published_at": "2026-09-18T10:00:00.000Z"
+  },
+  {
+    "headline": "The Booming Business of Hair Loss",
+    "summary": "As hair loss moves from niche concern to mainstream beauty priority, consumers are spending on products spanning scalp serums to LED devices. Now, brands are racing to turn thinning hair into beauty’s next major growth category.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-booming-business-of-hair-loss",
+    "image_url": null,
+    "published_at": "2026-09-18T09:30:00.000Z"
+  },
+  {
+    "headline": "The Vogue Business Beauty Trend Tracker",
+    "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+    "image_url": null,
+    "published_at": "2026-09-18T09:30:00.000Z"
+  },
+  {
+    "headline": "Interparfums’ Roberto Cavalli Fragrance License Extended Through 2046",
+    "summary": "The brand is among Interparfums’ fastest-growing.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/fragrance/interparfums-roberto-cavalli-perfume-license-extended-2046-1239244014/",
+    "image_url": null,
+    "published_at": "2026-09-18T09:25:28.000Z"
+  },
+  {
+    "headline": "Bottega Veneta Names Song Hye Kyo Brand Ambassador",
+    "summary": "The South Korean actress is joining the Italian luxury brand’s roster of ambassadors which includes Jacob Elordi and Julianne Moore, among others.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/song-hye-kyo-bottega-veneta-brand-ambassador-1239241827/",
+    "image_url": null,
+    "published_at": "2026-09-18T05:00:00.000Z"
+  },
+  {
+    "headline": "“I Don’t Want to Be Too Cool for School”: M&S CEO Stuart Machin on Its Fashion Turnaround",
+    "summary": "British high street retailer M&S is staging its debut show at London Fashion Week on Friday. While fashion insiders love its new output, internally, the business has a long way to go.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/i-dont-want-to-be-too-cool-for-school-mands-ceo-stuart-machin-on-its-fashion-turnaround",
+    "image_url": null,
+    "published_at": "2026-09-18T04:50:00.000Z"
+  },
+  {
+    "headline": "Why Nick Knight Used AI to Create H&M’s Interactive Show",
+    "summary": "The photographer turned studio stills into AI-generated fashion films for H&M’s latest London Fashion Week show. Here, he and H&M’s creative director explain why they’re experimenting with a technology that still divides fashion.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/why-nick-knight-used-ai-to-create-handms-interactive-show",
+    "image_url": null,
+    "published_at": "2026-09-18T04:30:00.000Z"
+  },
+  {
+    "headline": "TWP’s Path From Best-Kept Secret to Serious Fashion Player",
+    "summary": "In the midst of a store opening tear, TWP co-founders Trish Wescoat Pound and Andrew Rosen break down the brand’s speedy rise into fashion’s mainstream.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/twps-path-from-best-kept-secret-to-serious-fashion-player",
+    "image_url": null,
+    "published_at": "2026-09-18T04:30:00.000Z"
+  },
+  {
+    "headline": "CEO Gianfranco D’Attis Is Resetting McQueen. Here’s How",
+    "summary": "Ahead of McQueen’s highly anticipated return to London Fashion Week, the newly appointed CEO reveals his transformation strategy.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/ceo-gianfranco-dattis-is-resetting-mcqueen-heres-how",
+    "image_url": null,
+    "published_at": "2026-09-18T04:30:00.000Z"
+  },
+  {
+    "headline": "“Stopping Was Not the Answer”: Fashion Week in a Political Crisis",
+    "summary": "From Kyiv to Tbilisi and Dubai, organizers are producing globally recognized fashion weeks despite instabilities. For designers, it’s a business lifeline.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/stopping-was-not-the-answer-fashion-week-in-a-political-crisis",
+    "image_url": null,
+    "published_at": "2026-09-18T04:30:00.000Z"
+  },
+  {
+    "headline": "The Scoop With Francesca Ragazzi: On a Secret, Special Performance Taking Place at Vogue World",
+    "summary": "This week’s guest is Francesca Ragazzi, head of editorial content at Vogue Italia. Shortly after graduating from Sorbonne University in 2010, Francesca landed an internship at the Paris bureau of Vogue Italia.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-scoop-with-francesca-ragazzi-on-a-secret-special-performance-taking-place-at-vogue-world",
+    "image_url": null,
+    "published_at": "2026-09-18T04:30:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Extravaganza Beauty Buys Roja London Fragrance House, Plans for Growth, New Products",
+    "summary": "Founder Roja Dove will become a consultant, while the company's CEO Audrey Minard will work alongside the Extravaganza team to expand and reinforce the Roja London business in the Middle East.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/fragrance/extravaganza-beauty-buys-roja-london-fragrance-house-growth-1239229813/",
+    "image_url": null,
+    "published_at": "2026-09-18T04:01:00.000Z"
+  },
+  {
+    "headline": "London Scene: Where to Shop, Eat, Stay and Gaze During September’s Fashion Week",
+    "summary": "London is buzzing ahead of fashion week, from a Burberry trenchcoat exhibition at the V&A to a Harrods pop-up celebrating African fashion and a new jewelry gallery at Liberty.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/eye/lifestyle/lifestyle-guide-london-fashion-week-spring-2027-1239235228/",
+    "image_url": null,
+    "published_at": "2026-09-18T04:01:00.000Z"
+  },
+  {
+    "headline": "Pauline Dujancourt Expresses Love and Learning Through Knitwear",
+    "summary": "The designer and 2026 ANDAM Special Prize winner has turned knitwear into a shared language between her knitters in Lima, Peru, and her London studio.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/pauline-dujancourt-expresses-love-learning-through-knitwear-1239235756/",
+    "image_url": null,
+    "published_at": "2026-09-18T04:01:00.000Z"
+  },
+  {
+    "headline": "Retail Applauds NYFW Spring 2027: Herrera, Ralph, Tory, Khaite, Heirlome and More Seen as Standouts",
+    "summary": "Retailers highlighted bursts of color, elevated outerwear, lingerie styles and fringe as among the key trends.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-features/retail-reactioncolors-elevated-outerwear-lingerie-styles-fringe-key-trend-spring-2027-1239238494/",
+    "image_url": null,
+    "published_at": "2026-09-18T04:01:00.000Z"
+  },
+  {
+    "headline": "Plant-Based, Low-Carbon Denim Comes to Climate Week NYC",
+    "summary": "The collection as a tribute to the farmers whose work makes the denim industry possible.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/sj-denim/plant-based-low-carbon-denim-comes-climate-week-nyc-1239239029/",
+    "image_url": null,
+    "published_at": "2026-09-18T04:01:00.000Z"
+  },
+  {
+    "headline": "Aaron Esh Wants His Clothes to Feel ‘Uncomfortable’ to Look At",
+    "summary": "By day, the designer is relaunching AllSaints, while on nights and weekends he's building a London punk wardrobe for his own brand. He craves creative freedom and has no interest in going “universal.”",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/aaron-esh-london-punk-wardrobe-spring-2027-own-label-1239239143/",
+    "image_url": null,
+    "published_at": "2026-09-18T04:01:00.000Z"
+  },
+  {
+    "headline": "Shaun Leane Is Back at Alexander McQueen, Designing Jewelry for the London Runway Show",
+    "summary": "Leane, who worked closely with the late Lee Alexander McQueen for nearly two decades, has created three bespoke jewelry pieces for the brand's runway show, which takes place Sept. 20 during London Fashion Week.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-features/shaun-leane-back-alexander-mcqueen-jewelry-london-runway-1239239931/",
+    "image_url": null,
+    "published_at": "2026-09-18T04:01:00.000Z"
+  },
+  {
+    "headline": "Ones to Watch at London Fashion Week Spring 2027",
+    "summary": "This season, WWD spotlights four emerging designers: Kanyinsola Onalaja, Macy Grimshaw, Francesca Lake, and a collaborative collection from Kai Ghattaura and Fin Forsyth.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/ones-to-watch-london-fashion-week-spring-2027-1239239977/",
+    "image_url": null,
+    "published_at": "2026-09-18T04:01:00.000Z"
+  },
+  {
+    "headline": "54 Thoughts I Had About Episode 1 of ‘Monster: The Lizzie Borden Story’",
+    "summary": "Diva, if he doesn’t want to hear about your dovecote, move on.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/54-thoughts-i-had-about-monster-the-lizzie-borden-story-episode-1",
+    "image_url": null,
+    "published_at": "2026-09-17T23:00:00.000Z"
+  },
+  {
+    "headline": "It Was All Giggles and Gore for Ella Beatty at the Premiere of ‘Monster: The Lizzie Borden Story’",
+    "summary": "The actress took Vogue along with her to the show’s premiere in New York City.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/it-was-all-giggles-and-gore-for-ella-beatty-at-the-premiere-of-monster-the-lizzie-borden-story",
+    "image_url": null,
+    "published_at": "2026-09-17T22:00:00.000Z"
+  },
+  {
+    "headline": "The Most Unusual Celebrity Baby Names: Rose Bean, Rocki Irish, Blue Ivy, and More",
+    "summary": "From Rihanna to the Kardashians—and now Lady Gaga—find inspiration in the most unusual celebrity baby names, and discover the stories behind them.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/celebrity-baby-names-unusual-apple-blue-ivy-suri-pilot-inspektor",
+    "image_url": null,
+    "published_at": "2026-09-17T21:26:35.000Z"
+  },
+  {
+    "headline": "Vogue Beauty’s Spring 2027 NYFW Trend Report",
+    "summary": "Vogue's beauty editors spent New York Fashion Week watching models get made up—here are the biggest trends they saw.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/beauty-spring-2027-nyfw-trend-report",
+    "image_url": null,
+    "published_at": "2026-09-17T21:00:00.000Z"
   },
   {
     "headline": "Mark Fast Spring 2027 Ready-to-Wear",
@@ -1366,237 +1598,5 @@
     "url": "https://wwd.com/business-news/human-resources/jil-sander-names-new-chief-executive-officer-1239234094/",
     "image_url": null,
     "published_at": "2026-09-15T09:03:44.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: From Investor to Muse, Natalia Vodianova on Motherhood and Wearing Cou Cou During Pregnancy",
-    "summary": "Captured by Spanish photographer Carlota Guerrero, the model and philanthropist posed around her family home in Paris for the brand's fall campaign in the pieces she actually lives in.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/intimates/natalia-vodianova-cou-cou-motherhood-growth-fall-campaign-1239229787/",
-    "image_url": null,
-    "published_at": "2026-09-15T09:01:00.000Z"
-  },
-  {
-    "headline": "The Vogue Business AI Tracker",
-    "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-    "image_url": null,
-    "published_at": "2026-09-15T08:00:00.000Z"
-  },
-  {
-    "headline": "Carolina Herrera Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/carolina-herrera",
-    "image_url": null,
-    "published_at": "2026-09-15T06:46:40.000Z"
-  },
-  {
-    "headline": "Céline Dion’s Paris Comeback Finds Fabulousness in the Fragile",
-    "summary": "Paris is alight with Céline Dion fever, and the first night of her five-week residency marked a powerful new chapter in the performer’s legendary career.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/celine-dion-paris-comeback-residency",
-    "image_url": null,
-    "published_at": "2026-09-15T06:36:05.000Z"
-  },
-  {
-    "headline": "The Best and Most Memorable Moments of the 2026 Emmys",
-    "summary": "Mariska Hargitay as host, a tearjerking Dolly Parton tribute by Reba McEntire, and John Mulaney getting bleeped while quoting DJ Khaled? Yes, please.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-best-and-most-memorable-moments-of-the-2026-emmys",
-    "image_url": null,
-    "published_at": "2026-09-15T05:35:45.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Yang Zi Is Givenchy’s New House Ambassador in China",
-    "summary": "The seasoned actress said she relishes \"the opportunity to explore new expressions of style.\"",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/designer-luxury/yang-zi-givenchy-brand-ambassador-china-1239229760/",
-    "image_url": null,
-    "published_at": "2026-09-15T05:00:00.000Z"
-  },
-  {
-    "headline": "Louis Vuitton Writes the Book on Its Menswear",
-    "summary": "The first menswear title in Thames & Hudson’s “Catwalk” series brings together more than 1,200 runway images spanning five creative eras, from Marc Jacobs to Pharrell Williams.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/louis-vuitton-menswear-catwalk-book-30-years-1239230136/",
-    "image_url": null,
-    "published_at": "2026-09-15T05:00:00.000Z"
-  },
-  {
-    "headline": "Autry Names New CEO Tasked With Brand Evolution, International Push",
-    "summary": "Industry veteran Danilo Piarulli has joined the footwear brand from Golden Goose.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/autry-danilo-piarulli-ceo-brand-evolution-1239230627/",
-    "image_url": null,
-    "published_at": "2026-09-15T05:00:00.000Z"
-  },
-  {
-    "headline": "Beyoncé’s Cécred Is Entering Its Next Chapter",
-    "summary": "Beyoncé's Cécred is launching in UK retailer Space NK, as the two-year-old brand continues to grow, based on a strong consumer community. Vogue Business sat down with vice chairwoman Tina Knowles and CEO Grace Ray, to chart the brand’s path.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/beyonces-cecred-is-entering-its-next-chapter",
-    "image_url": null,
-    "published_at": "2026-09-15T04:50:00.000Z"
-  },
-  {
-    "headline": "Is a Runway Show Worth the Investment? These First-Timers Think So",
-    "summary": "Heirlome, Aisling Camps, and 6397 are all putting on their first shows this season. Here’s why — and how.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/is-a-runway-show-worth-the-investment-these-first-timers-think-so",
-    "image_url": null,
-    "published_at": "2026-09-15T04:30:00.000Z"
-  },
-  {
-    "headline": "Serpentine’s Hans Ulrich Obrist: Creatives Must Help Shape AI",
-    "summary": "As Serpentine launches a new R&D fellowship exploring AI’s impact on cultural production, its artistic director argues creatives must be given a say in the tech that will transform their industries.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/serpentines-hans-ulrich-obrist-creatives-must-help-shape-ai",
-    "image_url": null,
-    "published_at": "2026-09-15T04:30:00.000Z"
-  },
-  {
-    "headline": "Saul Nash’s Billboard Coup",
-    "summary": "The designer discusses his partnership with BuildHollywood, which will see his FW26 campaign erected on 37 billboards across London for the two weeks surrounding London Fashion Week.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/saul-nashs-billboard-coup",
-    "image_url": null,
-    "published_at": "2026-09-15T04:30:00.000Z"
-  },
-  {
-    "headline": "Minnow, the Family Lifestyle and Swimwear Brand, Expands Into Cashmere Sweaters",
-    "summary": "The company is seeing sizable growth in its women’s business.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/minnow-family-lifestyle-swimwear-brand-adds-cashmere-sweaters-1239177250/",
-    "image_url": null,
-    "published_at": "2026-09-15T04:01:00.000Z"
-  },
-  {
-    "headline": "The Prestige SPFs That Ruled the Summer",
-    "summary": "Supergoop's grasp on the category is holding strong, but emerging K-beauty and skin care-infused offerings are also gaining popularity.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/beauty-industry-news/skin-care/supergoop-innisfree-top-spfs-prestige-1239206828/",
-    "image_url": null,
-    "published_at": "2026-09-15T04:01:00.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Tommy Hilfiger’s Plans for a Women’s Fragrance Comeback",
-    "summary": "Thirty years after Tommy Girl debuted to chart-topping success, the designer is launching his first new prestige women's fragrance in more than a decade with his new licensee, Give Back Beauty.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/beauty-industry-news/fragrance/tommy-hilfiger-womens-fragrance-freedom-camila-cabello-1239207895/",
-    "image_url": null,
-    "published_at": "2026-09-15T04:01:00.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Old Navy Propels Activewear Into a Subbrand",
-    "summary": "The Old Navy Sport subbrand launched Tuesday with what executives describe as revamped marketing and an assortment with greater style and fabric innovation.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/old-navy-sport-activewear-line-1239222482/",
-    "image_url": null,
-    "published_at": "2026-09-15T04:01:00.000Z"
-  },
-  {
-    "headline": "Dickies and Budweiser Partner to Celebrate the Beer Brand’s 150th Anniversary",
-    "summary": "The campaign and capsule are also intended to celebrate hardworking Americans.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/dickies-budweiser-capsule-sweepstakes-1239227714/",
-    "image_url": null,
-    "published_at": "2026-09-15T04:01:00.000Z"
-  },
-  {
-    "headline": "Rhone Names Puma, Lululemon Executive as First Chief Merchandising Officer",
-    "summary": "Alexa Andersen has worked at performance brands for more than two decades.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/human-resources/rhone-alex-andersen-puma-lululemon-chief-merchandising-officer-1239227775/",
-    "image_url": null,
-    "published_at": "2026-09-15T04:01:00.000Z"
-  },
-  {
-    "headline": "U.S. Polo Assn. Names A&F’s David Swetman Head of Men’s, Boys’ Design",
-    "summary": "The Central Saint Martins graduate worked for Abercrombie & Fitch for 18 years.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/menswear-news/mens-fashion/u-s-polo-assn-abercrombie-fitch-david-swetman-mens-boys-design-1239228371/",
-    "image_url": null,
-    "published_at": "2026-09-15T04:01:00.000Z"
-  },
-  {
-    "headline": "“This Is Where Everything Started for Prada”: Lorenzo Bertelli on the New Prada Galleria",
-    "summary": "As Prada unveils its new eight-floor complex in Milan’s Galleria Vittorio Emanuele II, Luke Leitch unpacks the company’s strategy for the space with Prada Group CMO Lorenzo Bertelli.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/this-is-where-everything-started-for-prada-lorenzo-bertelli-on-the-new-prada-galleria",
-    "image_url": null,
-    "published_at": "2026-09-15T04:00:00.000Z"
-  },
-  {
-    "headline": "The Best Pictures From Inside the 2026 Emmy Awards",
-    "summary": "Off-camera, the 78th Primetime Emmys featured all manner of charming meet-ups between celebrity friends, co-stars, and plain-old mutual admirers. Here, some of our favorite candid moments.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-best-pictures-from-inside-the-2026-emmy-awards",
-    "image_url": null,
-    "published_at": "2026-09-15T03:12:26.000Z"
-  },
-  {
-    "headline": "Reba McEntire Honored Dolly Parton at the 2026 Emmy Awards",
-    "summary": "Country music star Reba McEntire honored her late friend Dolly Parton with a glittering dress and borrowed jewelry.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/sequins-and-butterflies-how-reba-mcentire-honored-dolly-parton-at-the-2026-emmy-awards",
-    "image_url": null,
-    "published_at": "2026-09-15T02:48:20.000Z"
-  },
-  {
-    "headline": "The Best 2026 Emmys Small Beauty Details",
-    "summary": "For the 2026 Emmys, some of the best beauty moments were also the smallest. Here, we rounded up the 10 best ones.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/small-beauty-details-emmys-9-14-2026",
-    "image_url": null,
-    "published_at": "2026-09-15T02:14:08.000Z"
-  },
-  {
-    "headline": "So, Where Was Taylor Swift Actually During the 2026 Emmys?",
-    "summary": "“Is Taylor Swift going to be there?” is an animating question of pretty much every major awards show, but the answer at the 2026 Emmys was somewhat unexpected.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/so-where-was-taylor-swift-during-the-2026-emmys",
-    "image_url": null,
-    "published_at": "2026-09-15T01:43:53.000Z"
-  },
-  {
-    "headline": "Zendaya and Tom Holland Bring Their Couple Style to the 2026 Emmys",
-    "summary": "Newlyweds Zendaya and Tom Holland are capping off a year of fashion-forward film promotion at the 2026 Emmys.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/zendaya-tom-holland-couple-style-emmys-2026-09-14",
-    "image_url": null,
-    "published_at": "2026-09-15T01:08:27.000Z"
-  },
-  {
-    "headline": "Bibhu Mohapatra Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bibhu-mohapatra",
-    "image_url": null,
-    "published_at": "2026-09-15T00:58:33.000Z"
-  },
-  {
-    "headline": "Tanner Fletcher Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tanner-fletcher",
-    "image_url": null,
-    "published_at": "2026-09-15T00:58:33.000Z"
-  },
-  {
-    "headline": "Diotima Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/diotima",
-    "image_url": null,
-    "published_at": "2026-09-15T00:58:33.000Z"
-  },
-  {
-    "headline": "Private Policy Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/private-policy",
-    "image_url": null,
-    "published_at": "2026-09-15T00:58:33.000Z"
   }
 ]

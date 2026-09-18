@@ -1,7 +1,71 @@
 [
   {
+    "headline": "Flash floods can strike without warning — this new technology could change that",
+    "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, and I see pieces of my wood flo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "image_url": null,
+    "published_at": "2026-09-18T11:00:00.000Z"
+  },
+  {
+    "headline": "Waymo says Singapore will be its next international robotaxi city",
+    "summary": "Waymo Ojai fully autonomous ride-hailing vehicle travels along a city street, San Francisco, California, August 20, 2026. | Photo by Smith Collection/Gado/Getty Images Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo'…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+    "image_url": null,
+    "published_at": "2026-09-18T02:00:00.000Z"
+  },
+  {
+    "headline": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+    "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+    "image_url": null,
+    "published_at": "2026-09-18T00:02:36.000Z"
+  },
+  {
+    "headline": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "summary": "The round values the data center giant at $30.9 billion.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "image_url": null,
+    "published_at": "2026-09-17T23:25:52.000Z"
+  },
+  {
+    "headline": "Google DeepMind launches institute to widen the AGI debate",
+    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "image_url": null,
+    "published_at": "2026-09-17T23:21:17.000Z"
+  },
+  {
+    "headline": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+    "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+    "image_url": null,
+    "published_at": "2026-09-17T23:08:24.000Z"
+  },
+  {
+    "headline": "PrismML hopes its tiny LLM will change how we all use AI",
+    "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "image_url": null,
+    "published_at": "2026-09-17T22:34:09.000Z"
+  },
+  {
+    "headline": "The FAA’s plan to fix air traffic? $875M worth of AI",
+    "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "image_url": null,
+    "published_at": "2026-09-17T22:14:59.000Z"
+  },
+  {
     "headline": "The fix for rogue AI agents could be more AI",
-    "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
+    "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
     "image_url": null,
@@ -1534,69 +1598,5 @@
     "url": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
     "image_url": null,
     "published_at": "2026-09-11T14:43:26.000Z"
-  },
-  {
-    "headline": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-    "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the fe…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-    "image_url": null,
-    "published_at": "2026-09-11T14:25:21.000Z"
-  },
-  {
-    "headline": "New York City’s last pickpocket doesn’t need a smartphone",
-    "summary": "Hello once again from Toronto, where for a week every year I watch far too many movies and tell you all about them. The festival, better known as TIFF, is always a great preview of the months ahead in film, with a nice mix of mainstream fare, awards contenders, indie surprises, and genre flicks destined to be cult clas…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york",
-    "image_url": null,
-    "published_at": "2026-09-11T14:15:00.000Z"
-  },
-  {
-    "headline": "Why Apple’s next computer should be for the smart home",
-    "summary": "An Apple Home computer could combine a Wi-Fi router, an AI-powered smart home hub, and local storage into a single device. | Photo by Amelia Holowaty Krales / The Verge John Ternus didn't mention Apple Home once during his first keynote as Apple CEO. But he did open by describing an \"intelligent personal hub\" that prio…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router",
-    "image_url": null,
-    "published_at": "2026-09-11T14:01:55.000Z"
-  },
-  {
-    "headline": "Samsung says &#8216;Tim Cook&#8217; bought a Galaxy Fold",
-    "summary": "That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - \"Tim Cook from Palmerston North\" just happens to have the same name and look a lot like him. Released right as Apple announced its iPhone Duo, the ad mimics Apple's cinematic product launch videos, with \"Tim Cook\" saying \"the future is he…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8",
-    "image_url": null,
-    "published_at": "2026-09-11T13:59:16.000Z"
-  },
-  {
-    "headline": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
-    "summary": "Ikea's new Badkruka wireless Bluetooth speaker is now available in the US for $59.99. It's reminiscent of the colorful and tiny $10 Kallsup speaker that Ikea debuted earlier this year at CES 2026, but at almost seven inches tall, the boxy Badkruka isn't designed with portability in mind as it also lacks a rechargeable…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input",
-    "image_url": null,
-    "published_at": "2026-09-11T13:42:35.000Z"
-  },
-  {
-    "headline": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-    "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-    "image_url": null,
-    "published_at": "2026-09-11T13:32:54.000Z"
-  },
-  {
-    "headline": "Arizona’s lifeline for chip manufacturing is drying up",
-    "summary": "Water intake towers at the Hoover Dam stand next to a bleached \"bathtub ring\" on the banks of Lake Mead on September 1st in Lake Mead National Recreation Area, Arizona. The reservoir has hit historic lows as the Colorado River experiences unprecedented drought. | Photo: Getty Images Arizona, an epicenter for the bipart…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
-    "image_url": null,
-    "published_at": "2026-09-11T12:00:00.000Z"
-  },
-  {
-    "headline": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
-    "summary": "I saw the Luna Pro briefly at the IFA trade show, and it looks and feels a lot like the Ultra. | Photo: Dominic Preston / The Verge Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, w…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
-    "image_url": null,
-    "published_at": "2026-09-11T11:07:24.000Z"
   }
 ]

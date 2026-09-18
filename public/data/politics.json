@@ -1,5 +1,85 @@
 [
   {
+    "headline": "White House withdraws nomination of Lance Schroyer to lead ICE",
+    "summary": "President Trump's nominee to lead U.S. Immigration and Customs Enforcement was former Oklahoma state trooper Lance Schroyer. Three months after tapping him for the job, his name is being withdrawn.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5973272/white-house-withdraws-nomination-of-lance-schroyer-to-lead-ice",
+    "image_url": null,
+    "published_at": "2026-09-18T10:44:40.000Z"
+  },
+  {
+    "headline": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
+    "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+    "image_url": null,
+    "published_at": "2026-09-18T09:00:00.000Z"
+  },
+  {
+    "headline": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
+    "summary": "To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads — primarily in deep red House and Senate races that have now become competitive.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
+    "image_url": null,
+    "published_at": "2026-09-18T09:00:00.000Z"
+  },
+  {
+    "headline": "A DHS email raises new questions about the Trump administration's election plans",
+    "summary": "A heavily redacted email from last year, reported first by NPR, reveals that DHS personnel shared a list of jurisdictions that offer election materials in non-English languages. It's unclear why.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
+    "image_url": null,
+    "published_at": "2026-09-18T09:00:00.000Z"
+  },
+  {
+    "headline": "Some GOP candidates are still making election fraud claims. Voters want to move on",
+    "summary": "President Trump and some Republican battleground candidates are still embracing false claims about widespread election fraud in 2020, even as many GOP voters want them to move on.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5895113/some-gop-candidates-are-still-making-election-fraud-claims-voters-want-to-move-on",
+    "image_url": null,
+    "published_at": "2026-09-18T08:45:52.000Z"
+  },
+  {
+    "headline": "Republican candidate in Florida runs ads criticizing Trump's immigration enforcement",
+    "summary": "In a rare move, a House Republican running in a competitive race in South Florida is publicly breaking with President Trump. Maria Elvira Salazar represents a majority Hispanic district.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5973221/republican-candidate-in-florida-runs-ads-criticizing-trumps-immigration-enforcement",
+    "image_url": null,
+    "published_at": "2026-09-18T08:45:44.000Z"
+  },
+  {
+    "headline": "Texas Republican candidate under fire for comment about university students of color",
+    "summary": "A Texas Republican's complaint that too many people of color were in a video of the crowd at a University of Texas football game set off condemnations.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5971523/texas-republican-candidate-under-fire-for-comment-about-university-students-of-color",
+    "image_url": null,
+    "published_at": "2026-09-18T08:45:14.000Z"
+  },
+  {
+    "headline": "Trump's week of setbacks: The president's priorities get rare pushback",
+    "summary": "President Trump's agenda has run into rare institutional pushback on a variety of issues from mail-in voting to the Federal Reserve.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5973062/trumps-week-of-setbacks-the-presidents-priorities-get-rare-pushback",
+    "image_url": null,
+    "published_at": "2026-09-18T08:44:58.000Z"
+  },
+  {
+    "headline": "What do Trump's supporters think of the political pushback he's faced",
+    "summary": "NPR's Michel Martin speaks with Will Sommer of The Bulwark about the pushback President Trump has faced at home and abroad on some of his policies and initiatives.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5973069/what-do-trumps-supporters-think-of-the-political-pushback-hes-faced",
+    "image_url": null,
+    "published_at": "2026-09-18T08:44:52.000Z"
+  },
+  {
+    "headline": "It's illegal for armed federal officers to be at polls. Lawsuits seek to ensure that",
+    "summary": "The latest lawsuit, first reported by NPR, argues the Trump administration's repeated suggestions that federal officers could be at polling sites is a form of illegal voter intimidation.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5965823/ice-polling-places-concerns-lawsuits",
+    "image_url": null,
+    "published_at": "2026-09-18T07:37:09.000Z"
+  },
+  {
     "headline": "'American Scoundrel' traces Roy Cohn's playbook from McCarthyism to Trump",
     "summary": "In Kai Bird's biography of Cohn, he looks at how the lawyer taught Trump how to deny, delay, attack, sue and countersue, never admit defeat, side-step paying bills and avoid a paper trail.",
     "publisher": "NPR",
@@ -1518,85 +1598,5 @@
     "url": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
     "image_url": null,
     "published_at": "2026-08-17T10:49:59.000Z"
-  },
-  {
-    "headline": "Sen. Mark Kelly discusses conditions aboard the USS Lincoln",
-    "summary": "NPR's Sacha Pfeiffer asks Democratic Sen. Mark Kelly of Arizona about conditions aboard the USS Lincoln and President Trump's multi-billion dollar plan to restore older tech on aircraft carriers.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5933015/sen-mark-kelly-discusses-conditions-aboard-the-uss-lincoln",
-    "image_url": null,
-    "published_at": "2026-08-17T10:49:59.000Z"
-  },
-  {
-    "headline": "Advocates worry new bans on student IDs will trip up younger voters",
-    "summary": "New bans on using student IDs for voting in Indiana and New Hampshire have sparked lawsuits after creating the latest hurdles to the ballot box for the U.S. voting-age group least likely to vote.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-    "image_url": null,
-    "published_at": "2026-08-17T09:00:00.000Z"
-  },
-  {
-    "headline": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
-    "summary": "A longtime Republican living in California says the Trump administration's continuing actions to target transgender youth take a personal toll.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
-    "image_url": null,
-    "published_at": "2026-08-16T11:54:19.000Z"
-  },
-  {
-    "headline": "In Florida, Congressman Byron Donalds' seat is up for grabs for Republicans",
-    "summary": "In southwest Florida, ten Republicans are vying for the nomination to replace Rep. Byron Donalds. With the majority of candidates from outside the state - it's raising questions about representation.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/16/nx-s1-5927132/in-florida-congressman-byron-donalds-seat-is-up-for-grabs-for-republicans",
-    "image_url": null,
-    "published_at": "2026-08-16T11:46:25.000Z"
-  },
-  {
-    "headline": "Polls everywhere in primary season. Can they be trusted?",
-    "summary": "How reliable are political polls right now? NPR's Danielle Kurtzleben speaks to G. Elliott Morris from the data-driven news website, Strength In Numbers.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/16/nx-s1-5929568/polls-everywhere-in-primary-season-can-they-be-trusted",
-    "image_url": null,
-    "published_at": "2026-08-16T11:46:24.000Z"
-  },
-  {
-    "headline": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
-    "summary": "We look at how the Democrats are gearing up for the 2028 presidential primaries, as well as their takeaways from the current batch of primary races.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/16/nx-s1-5929152/politics-chat-democrats-take-lessons-from-the-primaries-set-2028-calendar",
-    "image_url": null,
-    "published_at": "2026-08-16T11:46:22.000Z"
-  },
-  {
-    "headline": "State Department spokesperson on Iran war and U.S. visa revocations",
-    "summary": "NPR's Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoked.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
-    "image_url": null,
-    "published_at": "2026-08-15T21:20:51.000Z"
-  },
-  {
-    "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-    "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-    "image_url": null,
-    "published_at": "2026-08-15T18:21:32.000Z"
-  },
-  {
-    "headline": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
-    "summary": "A shortage of some munitions as well as the problems with the USS Lincoln have the Trump administration on the defensive. Meanwhile, what the latest primaries show about Democratic enthusiasm.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/15/nx-s1-5929131/week-in-politics-uss-lincoln-latest-primaries-and-democrats-white-house-ballroom",
-    "image_url": null,
-    "published_at": "2026-08-15T11:40:15.000Z"
-  },
-  {
-    "headline": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
-    "summary": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
-    "image_url": null,
-    "published_at": "2026-08-15T09:00:00.000Z"
   }
 ]
