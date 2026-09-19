@@ -1,9 +1,73 @@
 [
   {
+    "headline": "Trump treads further on free speech with new journalist bans",
+    "summary": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out i…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+    "image_url": null,
+    "published_at": "2026-09-19T17:10:21.000Z"
+  },
+  {
+    "headline": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+    "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+    "image_url": null,
+    "published_at": "2026-09-19T17:00:00.000Z"
+  },
+  {
+    "headline": "Gemini went rogue, hacked three companies, and Google hid it",
+    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents invol…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "image_url": null,
+    "published_at": "2026-09-19T15:25:03.000Z"
+  },
+  {
+    "headline": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+    "summary": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+    "image_url": null,
+    "published_at": "2026-09-19T15:00:00.000Z"
+  },
+  {
+    "headline": "The colorful, unique Hyte X50 PC case is $50 off",
+    "summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are up to 430mm long, whic…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+    "image_url": null,
+    "published_at": "2026-09-19T15:00:00.000Z"
+  },
+  {
+    "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "image_url": null,
+    "published_at": "2026-09-19T15:00:00.000Z"
+  },
+  {
+    "headline": "AI safety conversations have gotten unbelievable",
+    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "image_url": null,
+    "published_at": "2026-09-19T15:00:00.000Z"
+  },
+  {
     "headline": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
     "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. Th…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "image_url": null,
+    "published_at": "2026-09-19T14:00:00.000Z"
+  },
+  {
+    "headline": "Prices go up in 7 days. Get your Disrupt ticket now.",
+    "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
     "image_url": null,
     "published_at": "2026-09-19T14:00:00.000Z"
   },
@@ -1534,69 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
     "image_url": null,
     "published_at": "2026-09-13T20:28:00.000Z"
-  },
-  {
-    "headline": "What’s behind the AI industry’s latest warnings of doom?",
-    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "image_url": null,
-    "published_at": "2026-09-13T19:40:15.000Z"
-  },
-  {
-    "headline": "Apple is reportedly working on iPhone game controllers",
-    "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game contro…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-    "image_url": null,
-    "published_at": "2026-09-13T18:30:16.000Z"
-  },
-  {
-    "headline": "The Units’ Digital Stimulation is synthpunk perfection",
-    "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock and synthes…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
-    "image_url": null,
-    "published_at": "2026-09-13T17:36:10.000Z"
-  },
-  {
-    "headline": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "image_url": null,
-    "published_at": "2026-09-13T16:30:00.000Z"
-  },
-  {
-    "headline": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-    "image_url": null,
-    "published_at": "2026-09-13T16:04:00.000Z"
-  },
-  {
-    "headline": "Waymo pulls over, calls cops on riders with a ghost gun",
-    "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating the autonomous car,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
-    "image_url": null,
-    "published_at": "2026-09-13T14:28:12.000Z"
-  },
-  {
-    "headline": "Fusion power startups find new partners in the defense world",
-    "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-    "image_url": null,
-    "published_at": "2026-09-13T13:15:00.000Z"
-  },
-  {
-    "headline": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
-    "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospect, though, the disappointing demise of Blade might not be su…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
-    "image_url": null,
-    "published_at": "2026-09-13T13:00:00.000Z"
   }
 ]
