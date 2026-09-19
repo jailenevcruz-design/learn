@@ -1,5 +1,77 @@
 [
   {
+    "headline": "MS NOW, CNN journalists blocked from White House after Trump bans three media outlets",
+    "summary": "Journalists from MS NOW were denied access to the White House grounds early Saturday, one day after Trump banned three media outlets over their coverage of him.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
+    "image_url": null,
+    "published_at": "2026-09-19T14:35:58.000Z"
+  },
+  {
+    "headline": "She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
+    "summary": "Zoe De La Paz quit her corporate job in Chicago and in June moved to Yellowstone to work as a seamstress.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
+    "image_url": null,
+    "published_at": "2026-09-19T14:10:02.000Z"
+  },
+  {
+    "headline": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+    "summary": "Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+    "image_url": null,
+    "published_at": "2026-09-19T13:48:04.000Z"
+  },
+  {
+    "headline": "Student loan borrowers exiting SAVE may face sharply higher payments if they don't take action soon",
+    "summary": "Millions of student loan borrowers could see their monthly bills skyrocket if they don't move into an affordable repayment plan soon. Here's what to know.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/19/save-student-loan-deadline-avoid-higher-payments.html",
+    "image_url": null,
+    "published_at": "2026-09-19T13:30:01.000Z"
+  },
+  {
+    "headline": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+    "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+    "image_url": null,
+    "published_at": "2026-09-19T12:50:49.000Z"
+  },
+  {
+    "headline": "Buffett takes next step in plan to keep Berkshire from straying",
+    "summary": "Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
+    "image_url": null,
+    "published_at": "2026-09-19T12:43:56.000Z"
+  },
+  {
+    "headline": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
+    "summary": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+    "image_url": null,
+    "published_at": "2026-09-19T12:00:01.000Z"
+  },
+  {
+    "headline": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+    "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+    "image_url": null,
+    "published_at": "2026-09-19T10:36:18.000Z"
+  },
+  {
+    "headline": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+    "summary": "The Federal Reserve just raised interest rates this week for the first time this year. So how does it actually work? And what does it mean for the economy — and the rest of us? Here are some answers.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+    "image_url": null,
+    "published_at": "2026-09-19T09:00:00.000Z"
+  },
+  {
     "headline": "A new arms race is unfolding on the ocean floor",
     "summary": "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.",
     "publisher": "CNBC",
@@ -22,14 +94,6 @@
     "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
     "image_url": null,
     "published_at": "2026-09-18T23:43:21.000Z"
-  },
-  {
-    "headline": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-    "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
-    "image_url": null,
-    "published_at": "2026-09-18T23:28:06.000Z"
   },
   {
     "headline": "How a pizza app changed our relationship with waiting",
@@ -70,6 +134,14 @@
     "url": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
     "image_url": null,
     "published_at": "2026-09-18T21:08:28.000Z"
+  },
+  {
+    "headline": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+    "summary": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/trump-election-ad-spend-maga-inc.html",
+    "image_url": null,
+    "published_at": "2026-09-18T20:30:12.000Z"
   },
   {
     "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
@@ -1526,77 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
     "image_url": null,
     "published_at": "2026-09-14T21:32:03.000Z"
-  },
-  {
-    "headline": "Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/not-all-tech-is-under-fire-in-monday-selling-investors-seek-out-defensives.html",
-    "image_url": null,
-    "published_at": "2026-09-14T21:26:56.000Z"
-  },
-  {
-    "headline": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
-    "summary": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-    "image_url": null,
-    "published_at": "2026-09-14T21:15:56.000Z"
-  },
-  {
-    "headline": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-    "summary": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
-    "image_url": null,
-    "published_at": "2026-09-14T20:56:15.000Z"
-  },
-  {
-    "headline": "Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes",
-    "summary": "Community banks fear customers will withdraw deposits to buy stablecoin crypto assets that could pay higher yields.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
-    "image_url": null,
-    "published_at": "2026-09-14T20:54:48.000Z"
-  },
-  {
-    "headline": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
-    "summary": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
-    "image_url": null,
-    "published_at": "2026-09-14T20:49:03.000Z"
-  },
-  {
-    "headline": "Trump administration repeals Biden era greenhouse gas requirements for power plants",
-    "summary": "President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html",
-    "image_url": null,
-    "published_at": "2026-09-14T20:45:52.000Z"
-  },
-  {
-    "headline": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-    "summary": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-    "image_url": null,
-    "published_at": "2026-09-14T20:34:23.000Z"
-  },
-  {
-    "headline": "The stock market could do something strange this week after the Fed decision",
-    "summary": "Odds of more interest rate hikes coming this year have grown.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/the-stock-market-could-do-something-strange-this-week-after-the-fed-decision.html",
-    "image_url": null,
-    "published_at": "2026-09-14T19:49:23.000Z"
-  },
-  {
-    "headline": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
-    "summary": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
-    "image_url": null,
-    "published_at": "2026-09-14T19:47:42.000Z"
   }
 ]

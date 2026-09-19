@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Week in Politics: Trump bans news outlets; Iran War; mail-in voting; interest rates",
+    "summary": "The Trump administration was frustrated both home and abroad this week.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/19/nx-s1-5973250/week-in-politics-trump-bans-news-outlets-iran-war-mail-in-voting-interest-rates",
+    "image_url": null,
+    "published_at": "2026-09-19T11:46:46.000Z"
+  },
+  {
     "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
     "summary": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
     "image_url": null,
     "published_at": "2026-08-17T19:53:37.000Z"
-  },
-  {
-    "headline": "DHS defends investigating agency critics and giving them warning notices",
-    "summary": "Federal officials acknowledged that ICE special agents tracked a New York man to his house, the airport and a hotel to question him about a critical email he sent to the former head of ICE in January.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-    "image_url": null,
-    "published_at": "2026-08-17T13:31:13.000Z"
   }
 ]

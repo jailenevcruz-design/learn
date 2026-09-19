@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+    "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. Th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "image_url": null,
+    "published_at": "2026-09-19T14:00:00.000Z"
+  },
+  {
+    "headline": "It’s not just LG. Every TV company is spying on you",
+    "summary": "The TV in your living room knows more about you than you realize. | Photo by John Higgins / The Verge The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+    "image_url": null,
+    "published_at": "2026-09-19T13:00:00.000Z"
+  },
+  {
+    "headline": "The AI regulation smackdown isn’t over",
+    "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forgi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "image_url": null,
+    "published_at": "2026-09-19T13:00:00.000Z"
+  },
+  {
+    "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "image_url": null,
+    "published_at": "2026-09-19T13:00:00.000Z"
+  },
+  {
     "headline": "India forces caller-ID apps to feed spam reports to telcos",
     "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
     "publisher": "TechCrunch",
@@ -1566,37 +1598,5 @@
     "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
     "image_url": null,
     "published_at": "2026-09-13T13:00:00.000Z"
-  },
-  {
-    "headline": "Your car is selling your data",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Earlier this year, the Federal Trad…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-    "image_url": null,
-    "published_at": "2026-09-13T12:00:00.000Z"
-  },
-  {
-    "headline": "Apple’s new phones are here",
-    "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I've been devouring every iPhone Duo video I can find, clicking on the wonderful w…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-    "image_url": null,
-    "published_at": "2026-09-13T12:00:00.000Z"
-  },
-  {
-    "headline": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-    "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-    "image_url": null,
-    "published_at": "2026-09-12T23:25:38.000Z"
-  },
-  {
-    "headline": "OpenAI’s rogue AI tried to hack another company in May",
-    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \"ma…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "image_url": null,
-    "published_at": "2026-09-12T21:41:36.000Z"
   }
 ]
