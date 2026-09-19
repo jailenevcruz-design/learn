@@ -1,5 +1,13 @@
 [
   {
+    "headline": "A new arms race is unfolding on the ocean floor",
+    "summary": "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
+    "image_url": null,
+    "published_at": "2026-09-19T05:00:01.000Z"
+  },
+  {
     "headline": "Google's Gemini becomes latest AI model to break out and hack computer systems",
     "summary": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
     "publisher": "CNBC",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
     "image_url": null,
     "published_at": "2026-09-14T19:47:42.000Z"
-  },
-  {
-    "headline": "AI infrastructure stocks slump, cyber shares soar on calls for AI slowdown",
-    "summary": "Anthropic CEO Dario Amodei said the industry \"must slow the pace at which we improve the capabilities of AI models,\" amid growing concerns over risks from AI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
-    "image_url": null,
-    "published_at": "2026-09-14T19:16:31.000Z"
   }
 ]
