@@ -1,11 +1,27 @@
 [
   {
+    "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+    "summary": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+    "image_url": null,
+    "published_at": "2026-09-18T20:15:53.000Z"
+  },
+  {
     "headline": "White House withdraws nomination of Lance Schroyer to lead ICE",
     "summary": "President Trump's nominee to lead U.S. Immigration and Customs Enforcement was former Oklahoma state trooper Lance Schroyer. Three months after tapping him for the job, his name is being withdrawn.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/18/nx-s1-5973272/white-house-withdraws-nomination-of-lance-schroyer-to-lead-ice",
     "image_url": null,
     "published_at": "2026-09-18T10:44:40.000Z"
+  },
+  {
+    "headline": "How Google is drafting AI chatbot laws around the country",
+    "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+    "image_url": null,
+    "published_at": "2026-09-18T09:00:00.000Z"
   },
   {
     "headline": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
@@ -20,14 +36,6 @@
     "summary": "A heavily redacted email from last year, reported first by NPR, reveals that DHS personnel shared a list of jurisdictions that offer election materials in non-English languages. It's unclear why.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
-    "image_url": null,
-    "published_at": "2026-09-18T09:00:00.000Z"
-  },
-  {
-    "headline": "How Google is drafting AI chatbot laws around the country",
-    "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
     "image_url": null,
     "published_at": "2026-09-18T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
     "image_url": null,
     "published_at": "2026-08-17T13:31:13.000Z"
-  },
-  {
-    "headline": "Sen. Mark Kelly says 'very difficult situation' unfolding for USS Lincoln sailors",
-    "summary": "NPR's Sacha Pfeiffer talks with Democratic Sen. Mark Kelly of Arizona about conditions aboard the USS Lincoln and his calls for an investigation into sailors' treatment.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
-    "image_url": null,
-    "published_at": "2026-08-17T10:49:59.000Z"
   }
 ]

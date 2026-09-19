@@ -1,19 +1,51 @@
 [
   {
-    "headline": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
-    "summary": "California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears.",
+    "headline": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+    "summary": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+    "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
     "image_url": null,
-    "published_at": "2026-09-18T15:02:50.000Z"
+    "published_at": "2026-09-19T01:41:49.000Z"
   },
   {
-    "headline": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
-    "summary": "Fed Vice Chair for Supervision Michelle Bowman said a new report indicates the central bank's staff missed signs ahead of Silicon Valley Bank's 2023 failure.",
+    "headline": "Trump says he's banning MS NOW, CNN and Politico from White House",
+    "summary": "Trump, who often accuses mainstream media outlets of writing \"fake news,\" said on Truth Social that those outlets shouldn't be allowed to \"FICTION and LIES.\"",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
+    "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
     "image_url": null,
-    "published_at": "2026-09-18T14:49:20.000Z"
+    "published_at": "2026-09-18T23:43:21.000Z"
+  },
+  {
+    "headline": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+    "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+    "image_url": null,
+    "published_at": "2026-09-18T23:28:06.000Z"
+  },
+  {
+    "headline": "How a pizza app changed our relationship with waiting",
+    "summary": "Status trackers are ubiquitous on online apps and ordering. We have the story the seminal Domino's Pizza Tracker that led to many copies, and we check on why many of the trackers now aren't accurate.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5896338/how-a-pizza-app-changed-our-relationship-with-waiting",
+    "image_url": null,
+    "published_at": "2026-09-18T23:04:03.000Z"
+  },
+  {
+    "headline": "Cramer’s week ahead: What to watch as Wall Street navigates a tough September",
+    "summary": "CNBC’s Jim Cramer said investors could be in for a relatively quiet week as Wall Street works its way through a historically difficult September.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/jim-cramer-week-ahead-costco-okta.html",
+    "image_url": null,
+    "published_at": "2026-09-18T22:17:16.000Z"
+  },
+  {
+    "headline": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+    "summary": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+    "image_url": null,
+    "published_at": "2026-09-18T21:37:38.000Z"
   },
   {
     "headline": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
@@ -21,7 +53,175 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
     "image_url": null,
-    "published_at": "2026-09-18T14:36:55.000Z"
+    "published_at": "2026-09-18T21:35:55.000Z"
+  },
+  {
+    "headline": "AI cloud provider Nscale files to go public",
+    "summary": "Nscale is the latest artificial intelligence neocloud to turn to public markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+    "image_url": null,
+    "published_at": "2026-09-18T21:08:28.000Z"
+  },
+  {
+    "headline": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+    "summary": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+    "image_url": null,
+    "published_at": "2026-09-18T20:15:53.000Z"
+  },
+  {
+    "headline": "Nike parts ways with Kylian Mbappé; soccer superstar signs with On",
+    "summary": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+    "image_url": null,
+    "published_at": "2026-09-18T19:30:55.000Z"
+  },
+  {
+    "headline": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+    "summary": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+    "image_url": null,
+    "published_at": "2026-09-18T19:15:24.000Z"
+  },
+  {
+    "headline": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+    "summary": "An informal network of dialogues at think tanks and universities is bringing together experts from the U.S. and China to talk about the shared perils of AI — and possible paths forward.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
+    "image_url": null,
+    "published_at": "2026-09-18T19:14:15.000Z"
+  },
+  {
+    "headline": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
+    "summary": "California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+    "image_url": null,
+    "published_at": "2026-09-18T18:36:21.000Z"
+  },
+  {
+    "headline": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/what-it-will-take-for-us-to-buy-the-dip-in-dupont-plus-profit-taking-hits-cyber-stocks.html",
+    "image_url": null,
+    "published_at": "2026-09-18T18:32:55.000Z"
+  },
+  {
+    "headline": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+    "summary": "Fed Vice Chair for Supervision Michelle Bowman said a new report indicates the central bank's staff missed signs ahead of Silicon Valley Bank's 2023 failure.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
+    "image_url": null,
+    "published_at": "2026-09-18T18:30:23.000Z"
+  },
+  {
+    "headline": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+    "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+    "image_url": null,
+    "published_at": "2026-09-18T18:28:31.000Z"
+  },
+  {
+    "headline": "McDonald's is the new 'Value Meal,' says trader Mike Khouw",
+    "summary": "McDonald's announced this week that it is revising its U.S. value strategy after recording its slowest sales growth in more than a year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/mcdonalds-is-the-new-value-meal-says-trader-mike-khouw.html",
+    "image_url": null,
+    "published_at": "2026-09-18T18:11:47.000Z"
+  },
+  {
+    "headline": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
+    "summary": "Ticket prices are rising for Macklemore's upcoming solo concert after the rapper was removed from Ed Sheeran's tour for making pro-Palestine comments.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/macklemore-ticket-prices-rise-amid-ed-sheeran-tour-fallout.html",
+    "image_url": null,
+    "published_at": "2026-09-18T18:01:39.000Z"
+  },
+  {
+    "headline": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
+    "summary": "SpaceX is getting an extension to an existing contract that will allow three additional crewed Dragon flights to the International Space Station.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html",
+    "image_url": null,
+    "published_at": "2026-09-18T17:41:45.000Z"
+  },
+  {
+    "headline": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+    "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+    "image_url": null,
+    "published_at": "2026-09-18T17:34:49.000Z"
+  },
+  {
+    "headline": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
+    "summary": "Leaders of six major auto trade groups joined to sign a letter to the president.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
+    "image_url": null,
+    "published_at": "2026-09-18T17:11:39.000Z"
+  },
+  {
+    "headline": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+    "summary": "A coalition of over 100 AI experts are urging independence and transparency from Anthropic, OpenAI and other foundation model labs to conduct evaluations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
+    "image_url": null,
+    "published_at": "2026-09-18T17:02:32.000Z"
+  },
+  {
+    "headline": "What expensive sulfur means for your dinner table",
+    "summary": "Oil supplies are falling, sulfur prices are threatening food costs, and we measure Lego against Hollywood",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
+    "image_url": null,
+    "published_at": "2026-09-18T16:40:58.000Z"
+  },
+  {
+    "headline": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
+    "summary": "At Salesforce's annual mega-conference in San Francisco, attendees said they get enough value from older AI models.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
+    "image_url": null,
+    "published_at": "2026-09-18T16:31:03.000Z"
+  },
+  {
+    "headline": "Disney names CTO for the first time as media giant expands tech push",
+    "summary": "Disney has hired a chief technology officer, a newly minted role for the company, as it looks to further its embrace of tech under CEO Josh D'Amaro.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/disney-cto-tech.html",
+    "image_url": null,
+    "published_at": "2026-09-18T16:14:26.000Z"
+  },
+  {
+    "headline": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
+    "summary": "One of Wendy's biggest U.S. franchisees, Meritage Hospitality Group, filed for Chapter 11 bankruptcy protection.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
+    "image_url": null,
+    "published_at": "2026-09-18T16:13:00.000Z"
+  },
+  {
+    "headline": "Sportsbooks remain king this football season, but upstarts are making a run for the money",
+    "summary": "\"Prediction markets are growing the overall market — at least for now,\" said Chris Grove, partner emeritus at Eilers & Krejcik Gaming.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/sportsbooks-remain-king-this-football-season-but-upstarts-are-making-a-run-for-the-money.html",
+    "image_url": null,
+    "published_at": "2026-09-18T15:16:44.000Z"
+  },
+  {
+    "headline": "StubHub shares tick higher for third day in a row after Citi upgrade",
+    "summary": "Analyst Jason Bazinet raised his rating to buy from neutral.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/18/stubhub-shares-tick-higher-for-third-day-in-a-row-after-citi-upgrade.html",
+    "image_url": null,
+    "published_at": "2026-09-18T15:09:10.000Z"
   },
   {
     "headline": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
@@ -108,14 +308,6 @@
     "summary": "As consumers prioritize holistic retail purchases, beauty, health and wellness are increasingly converging into one category and one consumer budget.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
-    "image_url": null,
-    "published_at": "2026-09-18T11:00:01.000Z"
-  },
-  {
-    "headline": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
-    "summary": "At Salesforce's annual mega-conference in San Francisco, attendees said they get enough value from older AI models.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
     "image_url": null,
     "published_at": "2026-09-18T11:00:01.000Z"
   },
@@ -1406,197 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
     "image_url": null,
     "published_at": "2026-09-14T19:16:31.000Z"
-  },
-  {
-    "headline": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
-    "summary": "Following Apple's iPhone launch event last week, the company is releasing a redesigned Siri AI, though users may have to sign up for a waitlist.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
-    "image_url": null,
-    "published_at": "2026-09-14T19:05:40.000Z"
-  },
-  {
-    "headline": "Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
-    "summary": "Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
-    "image_url": null,
-    "published_at": "2026-09-14T18:55:38.000Z"
-  },
-  {
-    "headline": "What Amodei's AI slowdown could mean for Anthropic's imminent IPO",
-    "summary": "As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
-    "image_url": null,
-    "published_at": "2026-09-14T18:54:51.000Z"
-  },
-  {
-    "headline": "Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer",
-    "summary": "Volatility measured by the Cboe VIX Index jumped to 18 Monday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/which-matters-more-to-stocks-the-bond-market-or-ai-risks-the-volatility-gauge-might-offer-an-answer.html",
-    "image_url": null,
-    "published_at": "2026-09-14T18:01:37.000Z"
-  },
-  {
-    "headline": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
-    "summary": "The Federal Reserve is widely expected to raise its benchmark interest rate by a quarter percentage point at its September meeting.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/fed-rate-hike-anticipated-what-it-means-for-your-money.html",
-    "image_url": null,
-    "published_at": "2026-09-14T17:42:05.000Z"
-  },
-  {
-    "headline": "Novo CEO tells CNBC why drugmaker is rebranding, needs to 'rethink' obesity strategy",
-    "summary": "The Danish drugmaker called the changes the beginning of a new chapter for the company, which faces stiff competition from Eli Lilly.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
-    "image_url": null,
-    "published_at": "2026-09-14T17:30:14.000Z"
-  },
-  {
-    "headline": "As the oil surge continues, trader Mike Khouw sees more upside in this surging name",
-    "summary": "Michael Khouw breaks down how he's trading this energy name.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/as-the-oil-surge-continues-trader-mike-khouw-sees-more-upside-in-this-surging-name.html",
-    "image_url": null,
-    "published_at": "2026-09-14T17:16:23.000Z"
-  },
-  {
-    "headline": "Microsoft sets limits for future AI models as industry throttles frontier development",
-    "summary": "Microsoft wants to be seen as a responsible AI entity as it ramps up model development alongside partners Anthropic and OpenAI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
-    "image_url": null,
-    "published_at": "2026-09-14T16:31:00.000Z"
-  },
-  {
-    "headline": "Prediction market traders think gas prices will hit new highs for the year",
-    "summary": "Oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
-    "image_url": null,
-    "published_at": "2026-09-14T15:49:39.000Z"
-  },
-  {
-    "headline": "Why the election could make Washington's looming next fiscal crisis harder",
-    "summary": "Some in the GOP are already disavowing raising the debt ceiling absent deep spending cuts as the national debt balloons past $40 trillion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/election-debt-limit-fiscal-crisis-congress.html",
-    "image_url": null,
-    "published_at": "2026-09-14T15:35:38.000Z"
-  },
-  {
-    "headline": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
-    "summary": "U.S. diesel prices have surpassed $6 a gallon for the first time ever as the Ukraine and Iran wars drive broader energy supply concerns.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
-    "image_url": null,
-    "published_at": "2026-09-14T14:25:00.000Z"
-  },
-  {
-    "headline": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
-    "summary": "OpenAI's chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
-    "image_url": null,
-    "published_at": "2026-09-14T13:38:48.000Z"
-  },
-  {
-    "headline": "Space startups raise big money in funding blitz as Europe aims to challenge U.S. dominance",
-    "summary": "European space startups are attracting fresh funding as the region seeks to build its capabilities and narrow a its gap with the U.S.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/space-startups-funding-spacex.html",
-    "image_url": null,
-    "published_at": "2026-09-14T13:08:29.000Z"
-  },
-  {
-    "headline": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz",
-    "summary": "Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
-    "image_url": null,
-    "published_at": "2026-09-14T13:08:13.000Z"
-  },
-  {
-    "headline": "Car ownership costs an average of $5,851 a year on top of auto loan payments, analysis finds",
-    "summary": "The cost of insurance, gas, and maintenance or repairs can add thousands of dollars a year to the price of owning a car.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/car-ownership-costs-insurance-gas-maintenance-auto-loan-payments.html",
-    "image_url": null,
-    "published_at": "2026-09-14T12:15:01.000Z"
-  },
-  {
-    "headline": "Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies",
-    "summary": "Iran said it downed an advanced American drone over the Strait of Hormuz, as Tehran and Washington trade warnings and strikes with no sign of de-escalation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
-    "image_url": null,
-    "published_at": "2026-09-14T12:02:21.000Z"
-  },
-  {
-    "headline": "LA Clippers owner Steve Ballmer apologizes over team sanctions",
-    "summary": "Ballmer said that the team is complying with the penalties, has paid the fines, and is \"moving forward.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/la-clippers-steve-ballmer-apologizes-kawhi-leonard.html",
-    "image_url": null,
-    "published_at": "2026-09-14T11:34:58.000Z"
-  },
-  {
-    "headline": "The powerful millionaires hiding in plain sight",
-    "summary": "They own car dealerships, law firms, dental practices, and restaurant chains. Collectively, these overlooked business owners hold far more wealth than the Forbes 400 — and wield considerable political power.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
-    "image_url": null,
-    "published_at": "2026-09-14T10:30:00.000Z"
-  },
-  {
-    "headline": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
-    "summary": "Mondelez is expanding its chocolate manufacturing operations in Malaysia, with the company also seeing further room for growth across Southeast Asia.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/cadbury-supply-chain-lead-time-key-ingredient-chocolate-crumble-malaysia.html",
-    "image_url": null,
-    "published_at": "2026-09-14T09:02:13.000Z"
-  },
-  {
-    "headline": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-    "summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-    "image_url": null,
-    "published_at": "2026-09-13T22:21:33.000Z"
-  },
-  {
-    "headline": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-    "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-    "image_url": null,
-    "published_at": "2026-09-13T17:48:53.000Z"
-  },
-  {
-    "headline": "Here are the 2 big things we're watching in this week's stock market",
-    "summary": "We're looking forward to what promises to be a consequential Federal Reserve meeting and a slew of conferences.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
-    "image_url": null,
-    "published_at": "2026-09-13T16:57:43.000Z"
-  },
-  {
-    "headline": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-    "summary": "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-    "image_url": null,
-    "published_at": "2026-09-13T16:39:24.000Z"
-  },
-  {
-    "headline": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-    "summary": "China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-    "image_url": null,
-    "published_at": "2026-09-13T16:38:45.000Z"
   }
 ]
