@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Top Wall Street analysts find these 3 stocks attractive as long-term investments",
+    "summary": "Look beyond short-term noise and focus on stocks with strong growth potential in future years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
+    "image_url": null,
+    "published_at": "2026-09-20T12:01:35.000Z"
+  },
+  {
+    "headline": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+    "summary": "Tariffs, soaring fuel prices and higher interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+    "image_url": null,
+    "published_at": "2026-09-20T12:00:01.000Z"
+  },
+  {
+    "headline": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
+    "summary": "Williams-Sonoma is outperforming the furnishings industry due to its ability to grow profitability despite a weak housing backdrop.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
+    "image_url": null,
+    "published_at": "2026-09-20T12:00:01.000Z"
+  },
+  {
+    "headline": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
+    "summary": "Serial airline investor Bill Franke is embracing more upmarket changes like first-class seats.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
+    "image_url": null,
+    "published_at": "2026-09-20T12:00:01.000Z"
+  },
+  {
+    "headline": "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
+    "summary": "As measured by the iShares Latin America 40 ETF (ILF), the region is handily beating the S&P 500 year to date, up 15% compared to the S&P's 11% move",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
+    "image_url": null,
+    "published_at": "2026-09-20T11:59:45.000Z"
+  },
+  {
+    "headline": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+    "summary": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+    "image_url": null,
+    "published_at": "2026-09-20T11:25:08.000Z"
+  },
+  {
+    "headline": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+    "summary": "Fox Corp. must turn over hundreds of documents that could shed light on how founder Rupert Murdoch handled some of his media companies' biggest scandals.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+    "image_url": null,
+    "published_at": "2026-09-20T10:01:00.000Z"
+  },
+  {
+    "headline": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
+    "summary": "As the French wine industry reaches a crisis point, key players are considering new markets, products and generations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
+    "image_url": null,
+    "published_at": "2026-09-20T05:00:01.000Z"
+  },
+  {
     "headline": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
     "summary": "Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
     "publisher": "CNBC",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
     "image_url": null,
     "published_at": "2026-09-15T00:48:36.000Z"
-  },
-  {
-    "headline": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
-    "summary": "Dutch startup Euclyd raised the funding in a round co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund and Innovation Industries.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
-    "image_url": null,
-    "published_at": "2026-09-14T23:30:02.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
-    "summary": "The 10-year U.S. Treasury note yield moved lower after reaching a multiyear high on Monday ahead of this week's Federal Reserve interest rate decision.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-    "image_url": null,
-    "published_at": "2026-09-14T23:08:41.000Z"
-  },
-  {
-    "headline": "CNBC's The China Connection newsletter: Tech controls expand to employees",
-    "summary": "As the U.S.-China tech rivalry simmers, Beijing is increasing restrictions on how its companies can deploy their tech talent overseas.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html",
-    "image_url": null,
-    "published_at": "2026-09-14T23:00:01.000Z"
-  },
-  {
-    "headline": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
-    "summary": "Broadcom CEO Hock Tan said demand for AI infrastructure remains strong despite growing concerns about increasingly powerful models.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
-    "image_url": null,
-    "published_at": "2026-09-14T22:43:25.000Z"
-  },
-  {
-    "headline": "Mitch McConnell returns to Senate after three-month health absence",
-    "summary": "The 84-year-old Kentucky Republican is back in Washington after a fall, hospitalization, pneumonia and weeks of rehabilitation kept him away from the Senate.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/mitch-mcconnell-returns-senate-capitol-health-fall.html",
-    "image_url": null,
-    "published_at": "2026-09-14T22:23:38.000Z"
-  },
-  {
-    "headline": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
-    "summary": "\"The World's Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran,\" Trump said in a social media post.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
-    "image_url": null,
-    "published_at": "2026-09-14T22:18:56.000Z"
-  },
-  {
-    "headline": "Trump-linked super PAC reports roughly $21 million in spending across key midterm races",
-    "summary": "President Donald Trump's political wartiest has spent much of the 2026 midterm election campaign cycle on the sidelines despite pleas from Republicans.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/trump-super-pac-midterms-no-going-back-pac.html",
-    "image_url": null,
-    "published_at": "2026-09-14T22:15:58.000Z"
-  },
-  {
-    "headline": "Treasury hits Russia's VTB Bank with new sanctions over Iran ties",
-    "summary": "The new Russian bank sanctions follow a small handful of other actions that the Trump administration has taken since vowing to inflict \"economic D-Day\" on Iran.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/14/treasury-bessent-russia-vtb-bank-iran-sanctions.html",
-    "image_url": null,
-    "published_at": "2026-09-14T21:53:20.000Z"
   }
 ]
