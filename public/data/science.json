@@ -1,5 +1,21 @@
 [
   {
+    "headline": "8 common food additives linked to high blood pressure and heart disease",
+    "summary": "Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Researchers identified eight widely used preservatives associated with hypertension, although the observational study cannot pro…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
+    "image_url": null,
+    "published_at": "2026-09-20T12:43:41.000Z"
+  },
+  {
+    "headline": "Scientists discover a hidden “ID card” in cat urine",
+    "summary": "Cats may identify one another through a surprisingly durable chemical “calling card” made from 13 unusual fatty acids in their urine. The compounds appear linked to mysterious fat droplets in the kidneys and may represent a scent-recognition system shared across the cat family.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
+    "image_url": null,
+    "published_at": "2026-09-20T12:24:21.000Z"
+  },
+  {
     "headline": "Monarch butterflies are on their way to Mexico. States are helping them on their way",
     "summary": "Eastern monarch butterflies are flying more than 2,000 miles south, through the central U.S., to overwinter in Mexico. We look at a project aimed to help the pollinators along their journey.",
     "publisher": "NPR",
@@ -8,12 +24,60 @@
     "published_at": "2026-09-20T12:05:40.000Z"
   },
   {
+    "headline": "Scientists may have solved a 2,000-year-old Dead Sea Scrolls mystery",
+    "summary": "Researchers may have solved a long-running mystery surrounding the Dead Sea Scrolls by proposing that the Qumran sect really did use its distinctive 364-day calendar. Its perfectly ordered 52-week system kept holidays on the same weekdays, but it slowly drifted out of sync with the seasons because it was shorter than t…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260919031035.htm",
+    "image_url": null,
+    "published_at": "2026-09-20T11:58:13.000Z"
+  },
+  {
+    "headline": "New nanoparticles make hidden chemical differences light up",
+    "summary": "Scientists have developed ultra-bright nanoparticles that can detect tiny amounts of chemicals and distinguish between molecules that look almost identical. The technology could one day provide a cheaper way to catch dangerous drug impurities or trace pollutants using simple low-cost lasers.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
+    "image_url": null,
+    "published_at": "2026-09-20T11:35:28.000Z"
+  },
+  {
+    "headline": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+    "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to keep scientists wonderin…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+    "image_url": null,
+    "published_at": "2026-09-20T10:30:31.000Z"
+  },
+  {
     "headline": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
     "summary": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers helped ease regulations and negotiations were covered under nondisclosure agreements.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
     "image_url": null,
     "published_at": "2026-09-20T09:00:00.000Z"
+  },
+  {
+    "headline": "Ancient DNA reveals how plague kept returning for 400 years after the Black Death",
+    "summary": "Ancient DNA reveals that plague repeatedly returned to Europe for more than 400 years after the Black Death, evolving into new lineages and spreading through trade, migration, and war. Researchers also developed a method to date ancient plague genomes more precisely, linking many of them to specific outbreaks recorded…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260919031025.htm",
+    "image_url": null,
+    "published_at": "2026-09-20T06:46:18.000Z"
+  },
+  {
+    "headline": "A 66-million-year-old tooth reveals T. rex was nearly as warm as a human",
+    "summary": "Chemical clues preserved inside fossilized T. rex teeth reveal that the dinosaur maintained a body temperature of about 97 degrees Fahrenheit, almost identical to humans. The finding provides direct evidence that the giant predator was warm-blooded, helping explain how it stayed active and survived in chilly environmen…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260919031020.htm",
+    "image_url": null,
+    "published_at": "2026-09-20T05:56:26.000Z"
+  },
+  {
+    "headline": "Einstein’s “spooky action” just survived one of physics’ most extreme tests",
+    "summary": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN’s Large Hadron Collider. The result shows that Einstein’s “spooky action at a distance” survives even under some of the most extreme conditions ever created in a laboratory.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+    "image_url": null,
+    "published_at": "2026-09-20T05:16:00.000Z"
   },
   {
     "headline": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
@@ -1534,69 +1598,5 @@
     "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
     "image_url": null,
     "published_at": "2026-09-04T10:00:00.000Z"
-  },
-  {
-    "headline": "Scientists study how the brain of a fish filters out signals",
-    "summary": "The elephantnose fish is native to Africa and a darling of neuroscientists, for its specialized cerebellum-like brain. Scientists have mapped the neurons in a part of the brain that senses electrical signals in detail, and found that how it filters out electrical noise is more complex than they thought.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/04/nx-s1-5953883/scientists-study-how-the-brain-of-a-fish-filters-out-signals",
-    "image_url": null,
-    "published_at": "2026-09-04T08:02:18.000Z"
-  },
-  {
-    "headline": "Dark matter detector finds a strange signal scientists can’t yet explain",
-    "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint o…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T06:46:01.000Z"
-  },
-  {
-    "headline": "Scientists reveal the hidden instructions that build the human brain",
-    "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Tho…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T06:04:06.000Z"
-  },
-  {
-    "headline": "New injectable treatment helps the brain rebuild after stroke",
-    "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T03:59:21.000Z"
-  },
-  {
-    "headline": "Scientists discover a bizarre “devil flower” hidden in Thailand",
-    "summary": "Scientists have discovered a strange black “devil flower” in Thailand that lives mostly underground, steals nutrients from fungi, and looks strikingly unlike a typical plant. The newly named Thismia daemona is known from fewer than 50 individuals and may already be critically endangered.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T03:25:50.000Z"
-  },
-  {
-    "headline": "Plants may be evolving the wrong traits for a warming world",
-    "summary": "Morning glories may be getting caught in an evolutionary tug-of-war between surviving climate change and attracting increasingly scarce pollinators. Over just nine years, researchers found that the plants’ rate of adaptation plunged by 96%, even though they still had plenty of genetic diversity to evolve.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010719.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T03:02:07.000Z"
-  },
-  {
-    "headline": "Deep beneath Mars, scientists find a vast hidden magma system",
-    "summary": "Deep beneath Mars, scientists have found evidence of enormous magmatic systems once thought to require Earth-like plate tectonics. Seismic measurements suggest molten rock repeatedly evolved and recycled itself through the Martian crust, potentially across hundreds or thousands of kilometers. The discovery challenges l…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T00:52:29.000Z"
-  },
-  {
-    "headline": "Kissing apes, anti-splash urinals: This year's Ig Nobels showcase surprising science",
-    "summary": "The Ig Nobel Prizes were awarded this week for humorous yet thought-provoking research. This year, the ceremony came with a twist.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5950370/ig-nobel-awards-kissing-urinals-move-switzerland",
-    "image_url": null,
-    "published_at": "2026-09-03T17:00:00.000Z"
   }
 ]
