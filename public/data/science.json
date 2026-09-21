@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Black holes of every size follow the same surprising rule",
+    "summary": "Scientists have found evidence that black holes of vastly different sizes may launch powerful jets according to the same universal rule. Supermassive black holes can produce jets soon after tearing apart a star, then fire up again hundreds or thousands of days later when their feeding rate drops to about 2% of the Eddi…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222358.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T13:23:10.000Z"
+  },
+  {
+    "headline": "A new process turns plastic waste into gasoline and diesel fuel",
+    "summary": "Scientists at Oak Ridge National Laboratory have developed a surprisingly simple way to turn polyethylene, the common plastic used in shopping bags and cutting boards, into gasoline and diesel-like fuels. The process uses inexpensive aluminum-based molten salts to break long plastic molecules into smaller hydrocarbons,…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T13:08:40.000Z"
+  },
+  {
+    "headline": "Scientists create a needle-thin brain implant that can do three jobs at once",
+    "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give scientists a more precise, less invasive way to study the brain and may eventually help treat neurological disorders such as epile…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T12:25:22.000Z"
+  },
+  {
+    "headline": "NASA just powered up Roman’s massive 300-megapixel camera",
+    "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working as expected, putting Roman another major step closer to beginning science operations in 2027.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T12:10:58.000Z"
+  },
+  {
+    "headline": "Amazon study reveals the best strategies for protecting biodiversity and carbon",
+    "summary": "A large Amazon study suggests the most powerful conservation move may be protecting the forests that are already standing. Preventing damage from wildfires and logging delivered the greatest biodiversity benefits and nearly matched deforestation prevention for protecting carbon. Restoration remains important, particula…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222356.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T11:54:17.000Z"
+  },
+  {
+    "headline": "Chronic stress may be quietly reshaping your heart",
+    "summary": "Chronic inflammation tied to stress, lifestyle, mental health, and socioeconomic conditions may silently change the heart for years before any symptoms appear. People with the highest inflammation levels faced a 43% greater risk of heart attack and stroke, raising hopes that earlier testing and anti-inflammatory treatm…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222354.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T11:35:13.000Z"
+  },
+  {
+    "headline": "Stanford scientists discover the human brain may actually be two separate organs",
+    "summary": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs. The discovery also allowed researchers to grow human hindbrain neurons in the lab, opening new possibilities for studying ALS, spinal mus…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T10:12:51.000Z"
+  },
+  {
+    "headline": "What kills Schrödinger’s cat? Gravity may not be the answer",
+    "summary": "Physicists have put a decades-old idea about why the strange rules of quantum mechanics disappear in our everyday world to one of its toughest experimental tests yet. Deep beneath Italy’s Gran Sasso mountain, researchers searched for an extremely faint radiation signal predicted by a theory suggesting that tiny fluctua…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T09:24:50.000Z"
+  },
+  {
+    "headline": "This farm raised thousands of pigs for slaughter. Now it's growing mushrooms instead",
+    "summary": "The U.S. gets nearly a third of its pork from Iowa. One family is making the switch from pigs to more sustainable specialty mushrooms and trying to show other pig farmers how they did it.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
+    "image_url": null,
+    "published_at": "2026-09-21T09:00:00.000Z"
+  },
+  {
+    "headline": "Millions take calcium and vitamin D for bone health. A major review finds little benefit",
+    "summary": "A sweeping review of more than 153,000 adults found that calcium and vitamin D supplements, alone or together, do little to prevent fractures or falls in most older people. Researchers say the findings challenge routine supplementation for prevention and point instead toward strategies such as balance and resistance ex…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920030147.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T01:59:17.000Z"
+  },
+  {
     "headline": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
     "summary": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
     "publisher": "NPR",
@@ -56,7 +136,7 @@
     "published_at": "2026-09-20T10:30:31.000Z"
   },
   {
-    "headline": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
+    "headline": "SpaceX has big plans for a new Louisiana 'Star Base,' worrying some near there",
     "summary": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers helped ease regulations and negotiations were covered under nondisclosure agreements.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
@@ -1518,85 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
     "image_url": null,
     "published_at": "2026-09-05T05:25:54.000Z"
-  },
-  {
-    "headline": "Quantum oscillations defy expectations in this exotic material",
-    "summary": "Scientists have uncovered an unusual form of electron behavior in zirconium pentatelluride, a quantum material that can act as both an insulator and a conductor. Under temperatures near absolute zero and magnetic fields reaching 60 tesla, electrons produced quantum oscillations that continued even after conventional ph…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
-    "image_url": null,
-    "published_at": "2026-09-05T04:18:12.000Z"
-  },
-  {
-    "headline": "Scientists overturn a theory about this shark’s strange head",
-    "summary": "Scientists have overturned a leading explanation for why male and female bonnethead sharks have differently shaped heads. Instead of males developing a pointed snout at maturity, both sexes actually begin with more pointed heads that become rounder with age, particularly in females.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234508.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T22:24:32.000Z"
-  },
-  {
-    "headline": "Harvard scientists turn knitting into shape-shifting smart fabric",
-    "summary": "Harvard researchers have transformed ordinary knitting into a platform for creating fabrics that can snap between different shapes and perform useful functions. Using elastic yarns and industrial knitting techniques, the team engineered thick textiles that naturally curve and lock into multiple stable configurations, m…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T21:43:31.000Z"
-  },
-  {
-    "headline": "This week in science: Archaeology fakes, hurricanes and lizards, and heat health effects",
-    "summary": "NPR's Regina Barber and Nate Rott talk about a new way to spot archaeological fakes, how hurricanes may have influenced lizard evolution and the health effects of extreme heat.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/04/nx-s1-5948029/this-week-in-science-archaeology-fakes-hurricanes-and-lizards-and-heat-health-effects",
-    "image_url": null,
-    "published_at": "2026-09-04T21:01:58.000Z"
-  },
-  {
-    "headline": "Stanford scientists discover a seafood that can reverse signs of aging",
-    "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T12:29:06.000Z"
-  },
-  {
-    "headline": "Extreme drought now covers 44% of Puerto Rico",
-    "summary": "Puerto Rico’s normally rainy season has instead brought a severe and fast-growing drought. By August 25, three-quarters of the territory was in at least moderate drought, with extreme drought covering 44 percent and some areas receiving less than 20 percent of their usual rainfall. Water shortages have forced rationing…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234457.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T12:12:53.000Z"
-  },
-  {
-    "headline": "MIT turns bacteria into living transistors",
-    "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable of performing calculations and directing chemical signals. One day, these biological computers could coat plant roots or leaves, detecting environmental threats and automatically triggering defenses.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T11:52:39.000Z"
-  },
-  {
-    "headline": "A longer exhale may push your brain toward bolder decisions",
-    "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T11:33:12.000Z"
-  },
-  {
-    "headline": "Giant Greenland iceberg slams into Joe Island and survives",
-    "summary": "A giant iceberg measuring more than 76 square kilometers broke from Greenland’s Petermann Glacier in August 2026, marking the Arctic’s largest glacier calving event since 2020. The berg later slammed into Joe Island but survived without breaking apart, and satellites are now tracking it as it drifts through Nares Strai…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000316.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T10:56:51.000Z"
-  },
-  {
-    "headline": "Dying radio galaxies fade faster than scientists expected",
-    "summary": "Astronomers have identified a surprisingly young population of fading radio galaxies whose supermassive black holes have already switched off their powerful jets. The confirmed remnants range from about 8 to 42 million years old, suggesting many may disappear from view much faster than previously recognized. More dista…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010656.htm",
-    "image_url": null,
-    "published_at": "2026-09-04T10:07:20.000Z"
   }
 ]
