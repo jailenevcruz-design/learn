@@ -1,11 +1,19 @@
 [
   {
+    "headline": "Lela Rose Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lela-rose",
+    "image_url": null,
+    "published_at": "2026-09-22T01:14:26.000Z"
+  },
+  {
     "headline": "Burberry Spring 2027 Ready-to-Wear",
     "summary": "",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/burberry-prorsum",
     "image_url": null,
-    "published_at": "2026-09-21T19:45:14.000Z"
+    "published_at": "2026-09-22T01:14:26.000Z"
   },
   {
     "headline": "Brooks Brothers Spring 2027 Ready-to-Wear",
@@ -13,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/brooks-brothers",
     "image_url": null,
-    "published_at": "2026-09-21T19:45:14.000Z"
+    "published_at": "2026-09-22T01:14:26.000Z"
   },
   {
     "headline": "Huishan Zhang Spring 2027 Ready-to-Wear",
@@ -21,7 +29,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/huishan-zhang",
     "image_url": null,
-    "published_at": "2026-09-21T19:45:14.000Z"
+    "published_at": "2026-09-22T01:14:26.000Z"
   },
   {
     "headline": "Bianca Saunders Spring 2027 Ready-to-Wear",
@@ -29,7 +37,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bianca-saunders",
     "image_url": null,
-    "published_at": "2026-09-21T19:45:14.000Z"
+    "published_at": "2026-09-22T01:14:26.000Z"
   },
   {
     "headline": "5000 Spring 2027 Ready-to-Wear",
@@ -37,7 +45,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/5000",
     "image_url": null,
-    "published_at": "2026-09-21T19:45:14.000Z"
+    "published_at": "2026-09-22T01:14:26.000Z"
   },
   {
     "headline": "Di Petsa Spring 2027 Ready-to-Wear",
@@ -45,7 +53,55 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/di-petsa",
     "image_url": null,
-    "published_at": "2026-09-21T19:45:14.000Z"
+    "published_at": "2026-09-22T01:14:26.000Z"
+  },
+  {
+    "headline": "‘There a Bit of Eliza Doolittle in Me’: Twiggy on Her Unlikely Story—and New Documentary",
+    "summary": "The model and actor is the focus of a new documentary by Sadie Frost. Here, subject and director discuss how “Twiggy” came to be.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/twiggy-sadie-frost-interview",
+    "image_url": null,
+    "published_at": "2026-09-21T23:46:25.000Z"
+  },
+  {
+    "headline": "Burberry Spring 2027: In Bloom",
+    "summary": "Daniel Lee teamed with British textile designer Celia Birtwell on a collection blooming with floral patterns and ablaze with springtime color.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/runway/spring-2027/london/burberry/review/",
+    "image_url": null,
+    "published_at": "2026-09-21T21:27:58.000Z"
+  },
+  {
+    "headline": "The Best Behind-the-Scenes Moments From the Spring 2027 Shows in London",
+    "summary": "Acielle Tanbetova photographs the best BTS from LFW.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/the-best-behind-the-scenes-moments-from-the-spring-2027-shows-in-london",
+    "image_url": null,
+    "published_at": "2026-09-21T21:26:54.000Z"
+  },
+  {
+    "headline": "Lovebirds Spring 2027: The Inside Crowd",
+    "summary": "Founder-designers Gursi Singh and Amrita Khanna made their London Fashion Week debut with a collection that aimed to swerve away from a few of the clichés about India, and its fashion.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/runway/spring-2027/london/lovebirds/review/",
+    "image_url": null,
+    "published_at": "2026-09-21T21:25:02.000Z"
+  },
+  {
+    "headline": "How to Live the Real La Dolce Vita, According to Italy’s “Pasta Grannies”",
+    "summary": "Vicky Bennison, the author and creator of “Pasta Grannies,” shares the wisdom—and a favorite recipe—of the older women keeping Italian culinary traditions alive.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-to-live-la-dolce-vita-according-to-italy-pasta-grannies",
+    "image_url": null,
+    "published_at": "2026-09-21T20:48:20.000Z"
+  },
+  {
+    "headline": "This Cult London Jewelry Brand Wants to Turn Your Home Into an Heirloom",
+    "summary": "Presenting at London Fashion Week, jewelry studio founder and NewGen recipient Toby Vernon is expanding The Ouze’s raw, modern sensibilities into homeware.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-ouze-jewelry-homeware-spring-2027",
+    "image_url": null,
+    "published_at": "2026-09-21T20:03:08.000Z"
   },
   {
     "headline": "Alessandra Rich Spring 2027 Ready-to-Wear",
@@ -73,15 +129,15 @@
   },
   {
     "headline": "Emma Watson Wore a Dress Made With Real Flowers to the Lucas Museum Opening",
-    "summary": "The design paid homage to “Mother Nature, and drew attention to the natural resources and beauty we so often take for granted.”",
+    "summary": "The design paid homage to “Mother Nature and drew attention to the natural resources and beauty we so often take for granted.”",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/emma-watson-lucas-museum-of-narrative-art-opening",
     "image_url": null,
     "published_at": "2026-09-21T19:00:16.000Z"
   },
   {
-    "headline": "How Italian Girl Beauty Conquered the World — Vogue World 2026: Milano",
-    "summary": "Vogue World Milano celebrates Italian beauty throughout history, exploring aesthetics and social values.",
+    "headline": "How Italian-Girl Beauty Conquered the World — Vogue World 2026: Milano",
+    "summary": "Vogue World Milano celebrates Italian beauty throughout history, exploring its aesthetics and social values.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/how-italian-girl-beauty-conquered-the-world",
     "image_url": null,
@@ -110,6 +166,14 @@
     "url": "https://wwd.com/pop-culture/celebrity-news/taylor-swift-chiefs-game-outfit-sold-out-graphic-tank-1239250847/",
     "image_url": null,
     "published_at": "2026-09-21T17:29:09.000Z"
+  },
+  {
+    "headline": "Di Petsa Spring 2027: Maternal Instincts",
+    "summary": "The designer looked at motherhood through her signature draping, dribbling strings and tethered umbilical cords.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/runway/spring-2027/london/di-petsa/review/",
+    "image_url": null,
+    "published_at": "2026-09-21T17:16:05.000Z"
   },
   {
     "headline": "How to Throw a Garden Party Like the Meyers Family",
@@ -630,14 +694,6 @@
     "url": "https://wwd.com/runway/spring-2027/london/toga/review/",
     "image_url": null,
     "published_at": "2026-09-20T18:11:17.000Z"
-  },
-  {
-    "headline": "The Best Behind-the-Scenes Moments From the Spring 2027 Shows in London",
-    "summary": "Acielle Tanbetova photographs the best BTS from LFW.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/the-best-behind-the-scenes-moments-from-the-spring-2027-shows-in-london",
-    "image_url": null,
-    "published_at": "2026-09-20T18:10:14.000Z"
   },
   {
     "headline": "Hollywood’s Big Night Out: Inside the Lucas Museum of Narrative Art’s Star-Studded Grand Reveal",
@@ -1542,61 +1598,5 @@
     "url": "https://wwd.com/shop/shop-shoes/what-is-the-ugly-shoe-trend-buy-best-ugly-shoes-online-1238918874/",
     "image_url": null,
     "published_at": "2026-09-18T14:26:15.000Z"
-  },
-  {
-    "headline": "EBay’s Endless Runway Spotlights British Fashion Fixtures’ Forever Pieces",
-    "summary": "The auction featured designs contributed by Adwoa Aboah, Harry Lambert, Daisy Edgar-Jones and Charles Jeffrey.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/ebay-endless-runway-british-fashion-fixtures-forever-pieces-1239244145/",
-    "image_url": null,
-    "published_at": "2026-09-18T14:05:44.000Z"
-  },
-  {
-    "headline": "Swatch Art Peace Hotel Celebrates 15th Anniversary With Six Artist Collaborations",
-    "summary": "The six timepieces will be rolled out globally on Sept. 24.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/accessories-news/watches/swatch-art-peace-hotel-celebrate-15-anniversary-six-artist-1239243756/",
-    "image_url": null,
-    "published_at": "2026-09-18T14:03:22.000Z"
-  },
-  {
-    "headline": "Environmental NGO Plans to Develop a Durability Standard for Clothing",
-    "summary": "WRAP’s Global Durability Accelerator Initiative has already worked with over 35 brands to test over 200 garment styles.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sustainability/wrap-plans-to-develop-durability-standard-clothing-1239243495/",
-    "image_url": null,
-    "published_at": "2026-09-18T14:00:00.000Z"
-  },
-  {
-    "headline": "Cara Delevingne Talks Organic and Recycled Cotton in Armedangels Campaign",
-    "summary": "The campaign showcases the German brand’s Detox Denim collection.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/cara-delevingne-organic-recycled-cotton-armedangels-1239243679/",
-    "image_url": null,
-    "published_at": "2026-09-18T13:00:00.000Z"
-  },
-  {
-    "headline": "In Major Move, Kylian Mbappé Leaves Nike for On Running to Be the ‘Heart’ of Its New Football Category",
-    "summary": "To bring its new category to life, On also announced that former soccer star Thierry Henry has joined as director of football.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/mbappe-on-running-soccer-football-expansion-nike-1239244192/",
-    "image_url": null,
-    "published_at": "2026-09-18T12:35:37.000Z"
-  },
-  {
-    "headline": "Dakota Johnson On Having Fun Shooting The Thriller “Verity,” Settling Into A New Home, and Her Hopes For the Future | Vogue’s October 2026 Cover Story",
-    "summary": "See inside Dakota Johnson’s cover story for Vogue’s October 2026 issue.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/dakota-johnson-october-cover-2026-interview",
-    "image_url": null,
-    "published_at": "2026-09-18T12:00:00.000Z"
-  },
-  {
-    "headline": "Prada Taps Into Agentic AI For Procurement",
-    "summary": "Prada is one of the early customers of Iva, an agentic AI developed by Ivalua.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/prada-agentic-ai-ivalua-procurement-1239243432/",
-    "image_url": null,
-    "published_at": "2026-09-18T12:00:00.000Z"
   }
 ]
