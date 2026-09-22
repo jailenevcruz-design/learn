@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
+    "summary": "Oil rose Tuesday, amid concerns of growing Iran-U.S. tensions. after U.S. Treasury Secretary Scott Bessent told CNBC that all Iranian airlines will be shut down from Wednesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+    "image_url": null,
+    "published_at": "2026-09-22T05:55:48.000Z"
+  },
+  {
+    "headline": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+    "summary": "The Treasury Secretary said that Washington was pressuring Iran \"like never before\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-09-22T05:50:50.000Z"
+  },
+  {
+    "headline": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
+    "summary": "Alibaba shares jumped 3% in Hong Kong on Tuesday as the tech giant unveiled a new AI chip and plans to sharply expand its global data center capacity",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+    "image_url": null,
+    "published_at": "2026-09-22T05:15:21.000Z"
+  },
+  {
+    "headline": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dog-sled outpost and reopen Cold War base: report",
+    "summary": "Trump said the agreement with Greenland and Denmark would give the U.S. \"permanent control over security\" in the Danish island territory.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
+    "image_url": null,
+    "published_at": "2026-09-22T05:00:18.000Z"
+  },
+  {
+    "headline": "Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq",
+    "summary": "The $2.3 billion NSE IPO, India's largest public share sale issue so far this year, has drawn strong interest from investors, with bids of more than $10 billion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/india-nse-ipo-billion-nasdaq.html",
+    "image_url": null,
+    "published_at": "2026-09-22T04:00:28.000Z"
+  },
+  {
+    "headline": "Taiwan benchmark Taiex rises to record intraday high as tech stocks advance",
+    "summary": "Taiwan's benchmark Taiex rose to a record intraday high Tuesday, driven by gains in the tech sector, following an AI-driven rally on Wall Street.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/taiwans-taiex-hits-record-intraday-high-as-tech-stocks-advance.html",
+    "image_url": null,
+    "published_at": "2026-09-22T03:33:20.000Z"
+  },
+  {
+    "headline": "Tesla makes a move on Southeast Asia's largest EV market. A homegrown giant awaits",
+    "summary": "Tesla recently set up a subsidiary in Vietnam, taking a step toward a potential entry into a fast-growing EV market dominated by homegrown rival VinFast.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/tesla-vinfast-ev-vietnam.html",
+    "image_url": null,
+    "published_at": "2026-09-22T02:22:23.000Z"
+  },
+  {
+    "headline": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+    "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+    "image_url": null,
+    "published_at": "2026-09-22T01:30:01.000Z"
+  },
+  {
     "headline": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
     "summary": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
     "publisher": "CNBC",
@@ -30,6 +94,14 @@
     "url": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
     "image_url": null,
     "published_at": "2026-09-21T22:46:26.000Z"
+  },
+  {
+    "headline": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+    "summary": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+    "image_url": null,
+    "published_at": "2026-09-21T22:25:33.000Z"
   },
   {
     "headline": "Stock boom is fueling a ‘retirement party,’ economists say — what it means for workers",
@@ -70,6 +142,14 @@
     "url": "https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html",
     "image_url": null,
     "published_at": "2026-09-21T20:34:33.000Z"
+  },
+  {
+    "headline": "Trump media ban lawsuit set for Wednesday court hearing",
+    "summary": "President Donald Trump said he banned the three media outlets because of what he called \"cumulative stories,\" saying, \"You get sick of it.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+    "image_url": null,
+    "published_at": "2026-09-21T20:24:40.000Z"
   },
   {
     "headline": "Investors discover their new favorite consumer AI play in Meta. Options volume is surging",
@@ -118,14 +198,6 @@
     "url": "https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html",
     "image_url": null,
     "published_at": "2026-09-21T18:57:34.000Z"
-  },
-  {
-    "headline": "Trump media ban lawsuit set for Wednesday court hearing",
-    "summary": "President Donald Trump said he banned the three media outlets because of what he called \"cumulative stories,\" saying, \"You get sick of it.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-    "image_url": null,
-    "published_at": "2026-09-21T18:56:39.000Z"
   },
   {
     "headline": "Treasury yields ease as global borrowing costs tumble",
@@ -1526,77 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
     "image_url": null,
     "published_at": "2026-09-16T10:00:01.000Z"
-  },
-  {
-    "headline": "When students attend these colleges, taxpayers often pay. Here's why",
-    "summary": "Federal data shows many borrowers who aren't paying their loans went to private, for-profit colleges — schools that often market to low-income students and rely on federal financial aid for revenue.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/16/nx-s1-5946419/student-loans-repayment-for-profit-college",
-    "image_url": null,
-    "published_at": "2026-09-16T09:00:00.000Z"
-  },
-  {
-    "headline": "The Fed raises interest rates for the first time in over three years",
-    "summary": "The Federal Reserve raised its benchmark interest rate Wednesday to combat stubborn inflation. That will make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
-    "image_url": null,
-    "published_at": "2026-09-16T09:00:00.000Z"
-  },
-  {
-    "headline": "Why Steve Bannon sided with Sanders, not Trump, on AI",
-    "summary": "Where does Steve Bannon fit in the debate over regulating or slowing AI? He tells Morning Edition where he breaks with Trump and what he thinks Washington should do.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-trump-ai-china-regulation",
-    "image_url": null,
-    "published_at": "2026-09-16T08:43:46.000Z"
-  },
-  {
-    "headline": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
-    "summary": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
-    "image_url": null,
-    "published_at": "2026-09-16T01:56:47.000Z"
-  },
-  {
-    "headline": "Turkish habit of stashing gold 'under the pillow' hurts economy, government says",
-    "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
-    "image_url": null,
-    "published_at": "2026-09-16T00:55:41.000Z"
-  },
-  {
-    "headline": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-    "summary": "The BOJ is expected to hike rates by 25 basis points to a fresh three-decade high, a CNBC survey shows.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
-    "image_url": null,
-    "published_at": "2026-09-16T00:22:11.000Z"
-  },
-  {
-    "headline": "Inside South Korea’s university programs offering a direct route to Samsung and SK Hynix",
-    "summary": "Companies are helping universities develop courses, provide financial support and create pathways through which qualifying students can join them.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
-    "image_url": null,
-    "published_at": "2026-09-15T23:52:04.000Z"
-  },
-  {
-    "headline": "Why de-dollarization discussions are more talk, less action",
-    "summary": "BRICS leaders have asserted the need to use local currencies in intra-BRICS trade to cut dependency on dollar.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html",
-    "image_url": null,
-    "published_at": "2026-09-15T23:28:01.000Z"
-  },
-  {
-    "headline": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
-    "summary": "Elon Musk called for the leading AI labs to peer review each others' models before they're released to the public as a way to evaluate their safety.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
-    "image_url": null,
-    "published_at": "2026-09-15T23:25:43.000Z"
   }
 ]

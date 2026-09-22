@@ -1,11 +1,43 @@
 [
   {
+    "headline": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
+    "summary": "Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new treatments that target the brain's dopamine system.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T03:48:58.000Z"
+  },
+  {
+    "headline": "Scientists discover first new penguin species in more than 100 years",
+    "summary": "Genetic evidence has revealed a previously unknown gentoo penguin species on the remote Kerguelen Islands and shown that gentoos actually consist of four distinct species. The discovery also highlights a growing threat, as warming oceans could leave several island populations with little suitable habitat by 2050.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T03:11:46.000Z"
+  },
+  {
+    "headline": "Stem cells reverse stroke damage and restore movement in mice",
+    "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T01:49:32.000Z"
+  },
+  {
     "headline": "What the equinox 'henge' effect tells us about U.S. cities",
     "summary": "The fall equinox, which arrives Tuesday in the U.S., brings shorter days, and chances to witness alignment between Earth and the sun. It's a modern version of ancient observances of a celestial shift.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset",
     "image_url": null,
     "published_at": "2026-09-21T19:50:13.000Z"
+  },
+  {
+    "headline": "Stopping Ozempic may raise heart attack and stroke risk",
+    "summary": "A large study suggests the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can disappear surprisingly quickly when treatment stops. After two years off the medications, patients had a 22% higher risk of heart attack, stroke, and death compared with those who stayed on them.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm",
+    "image_url": null,
+    "published_at": "2026-09-21T13:35:30.000Z"
   },
   {
     "headline": "Black holes of every size follow the same surprising rule",
@@ -1566,37 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260902234505.htm",
     "image_url": null,
     "published_at": "2026-09-05T22:35:48.000Z"
-  },
-  {
-    "headline": "Some joints may be primed for rheumatoid arthritis before birth",
-    "summary": "Scientists have found evidence that vulnerability to rheumatoid arthritis may begin before birth. Finger joints commonly affected by the disease develop with different tissue structures and larger populations of specialized fibroblasts than joints that are usually spared. Those cells also respond differently to inflamm…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901070538.htm",
-    "image_url": null,
-    "published_at": "2026-09-05T22:19:53.000Z"
-  },
-  {
-    "headline": "Compound in blueberries may help muscle cells burn excess fat",
-    "summary": "Scientists in Japan have identified a natural compound found in blueberries, grapes, and other berries that may help muscle cells burn excess fat instead of storing it. The compound, pterostilbene, reduced abnormal fat buildup in cultured mouse muscle cells by boosting fat breakdown and helping stabilize a key protein…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm",
-    "image_url": null,
-    "published_at": "2026-09-05T19:30:40.000Z"
-  },
-  {
-    "headline": "From bottles to bakery: How scientists create edible cookies from recycled plastic",
-    "summary": "New research at the American Chemical Society meeting showcased a potentially edible cookie made out of — plastic!",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/05/nx-s1-5947227-e1/from-bottles-to-bakery-how-scientists-create-edible-cookies-from-recycled-plastic",
-    "image_url": null,
-    "published_at": "2026-09-05T11:43:24.000Z"
-  },
-  {
-    "headline": "Biologist Andrew Newhouse on the genetic revival of the American chestnut",
-    "summary": "The American chestnut once dominated the Eastern woodlands. NPR's Scott Simon talks to Andrew Newhouse, an environmental biologist, about efforts to bring these trees back from the brink of extinction.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/05/nx-s1-5954830/biologist-andrew-newhouse-on-the-genetic-revival-of-the-american-chestnut",
-    "image_url": null,
-    "published_at": "2026-09-05T11:43:17.000Z"
   }
 ]
