@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
+    "summary": "The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+    "image_url": null,
+    "published_at": "2026-09-22T13:30:01.000Z"
+  },
+  {
     "headline": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
     "summary": "CNN, MS NOW and Politico have sued Trump after the networks were suspended from the White House. And, Paramount makes concessions to resolve a lawsuit over its massive Warner Bros. Discovery merger.",
     "publisher": "NPR",
@@ -16,12 +24,20 @@
     "published_at": "2026-09-22T10:59:37.000Z"
   },
   {
-    "headline": "Trump heads to U.N. looking for wins after a rough week",
+    "headline": "Trump heads to the U.N. looking for wins after a rough week",
     "summary": "The past couple of weeks have been particularly challenging for Trump with a series of legal and political setbacks.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
     "image_url": null,
     "published_at": "2026-09-22T09:00:00.000Z"
+  },
+  {
+    "headline": "War between U.S. and Iran becomes a test of who will blink first",
+    "summary": "More than six months into the conflict between the U.S. and Iran, it's become a high-stakes game of endurance.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/22/nx-s1-5966364/war-between-u-s-and-iran-becomes-a-test-of-who-will-blink-first",
+    "image_url": null,
+    "published_at": "2026-09-22T08:47:37.000Z"
   },
   {
     "headline": "Leaders set ambitious goals to better the world by 2030. They've made little progress",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/27/nx-s1-5946443/helicopter-pilot-describes-what-hes-seen-rescuing-people-in-nepal",
     "image_url": null,
     "published_at": "2026-08-27T20:01:44.000Z"
-  },
-  {
-    "headline": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84",
-    "summary": "Ratko Mladic was one of the most notorious figures of a war that killed over 100,000 people in the 1990s. He commanded his troops to \"scorch the brains\" of the Bosnian Muslims and boasted of being a \"Serbian God.\"",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead",
-    "image_url": null,
-    "published_at": "2026-08-27T13:32:43.000Z"
-  },
-  {
-    "headline": "Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule",
-    "summary": "Meta and the states that sued the company have agreed to a $17 billion settlement. And, nuclear regulators are preparing to abandon a decades-old radiation safety rule.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding",
-    "image_url": null,
-    "published_at": "2026-08-27T11:02:41.000Z"
   }
 ]

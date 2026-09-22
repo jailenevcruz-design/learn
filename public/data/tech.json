@@ -1,5 +1,189 @@
 [
   {
+    "headline": "Apple is reportedly working on a Whoop-like fitness tracker",
+    "summary": "The Whoop MG fitness band. | Photo by Amelia Holowaty Krales / The Verge Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped computing module.\" The…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
+    "image_url": null,
+    "published_at": "2026-09-22T17:04:52.000Z"
+  },
+  {
+    "headline": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "image_url": null,
+    "published_at": "2026-09-22T16:34:08.000Z"
+  },
+  {
+    "headline": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "image_url": null,
+    "published_at": "2026-09-22T16:30:07.000Z"
+  },
+  {
+    "headline": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model releas…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "image_url": null,
+    "published_at": "2026-09-22T16:30:00.000Z"
+  },
+  {
+    "headline": "Rivian’s R2 beat its own climate goals four years early",
+    "summary": "Rivian always planned for its all-important R2 vehicle to be less expensive than its pricey R1 predecessors, but also less polluting. The production process for the R2 would rely on more renewable energy, and the vehicle itself would feature more recycled and biodegradable materials than the models that came before it.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/998762/rivian-r2-climate-impact-carbon-lifecycle-half",
+    "image_url": null,
+    "published_at": "2026-09-22T16:03:45.000Z"
+  },
+  {
+    "headline": "Trump says the US is officially renaming AI to ‘super intelligence’",
+    "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a fe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "image_url": null,
+    "published_at": "2026-09-22T16:01:10.000Z"
+  },
+  {
+    "headline": "Stolen passwords are exposing America’s water providers to hackers",
+    "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+    "image_url": null,
+    "published_at": "2026-09-22T15:50:58.000Z"
+  },
+  {
+    "headline": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+    "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+    "image_url": null,
+    "published_at": "2026-09-22T15:00:00.000Z"
+  },
+  {
+    "headline": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "image_url": null,
+    "published_at": "2026-09-22T15:00:00.000Z"
+  },
+  {
+    "headline": "AstroForge is putting AI in command of its next spacecraft",
+    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "image_url": null,
+    "published_at": "2026-09-22T15:00:00.000Z"
+  },
+  {
+    "headline": "Xbox is barely Xbox anymore",
+    "summary": "Xbox has become a shell of its former self - and things are only getting worse. As part of its planned cuts impacting around 3,200 workers, the company announced today more changes that will further dilute the brand. Studios are being consolidated, others are on the brink of being closed altogether, and Xbox's most ico…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/998758/xbox-activision-blizzard",
+    "image_url": null,
+    "published_at": "2026-09-22T14:50:00.000Z"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+    "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+    "image_url": null,
+    "published_at": "2026-09-22T14:30:00.000Z"
+  },
+  {
+    "headline": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+    "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+    "image_url": null,
+    "published_at": "2026-09-22T14:15:00.000Z"
+  },
+  {
+    "headline": "Xbox is merging its Forza developers into a single studio",
+    "summary": "Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators of Forza Motorsport, are merging together to focus on Forza Horizon and Fable. \"Playground and Turn 10 will come together as…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
+    "image_url": null,
+    "published_at": "2026-09-22T14:01:17.000Z"
+  },
+  {
+    "headline": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
+    "summary": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox history.\" Today's layoffs are part of the 3,200 roles that were…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
+    "image_url": null,
+    "published_at": "2026-09-22T14:01:16.000Z"
+  },
+  {
+    "headline": "Activision is taking over Halo as part of a massive Xbox shake-up",
+    "summary": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of Empires. Microsoft is also laying off around 268 Xbox employees as par…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
+    "image_url": null,
+    "published_at": "2026-09-22T14:00:33.000Z"
+  },
+  {
+    "headline": "The Beats 360 are what I’d bring to the gym if I hated earbuds",
+    "summary": "The Beats 360 are designed to last through your sweaty workouts. Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud haters: The new Beats 360 over-ear headphones are durable…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/998566/beats-360-headphones-review",
+    "image_url": null,
+    "published_at": "2026-09-22T14:00:00.000Z"
+  },
+  {
+    "headline": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+    "summary": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+    "image_url": null,
+    "published_at": "2026-09-22T14:00:00.000Z"
+  },
+  {
+    "headline": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+    "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-09-22T14:00:00.000Z"
+  },
+  {
+    "headline": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+    "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+    "image_url": null,
+    "published_at": "2026-09-22T13:20:00.000Z"
+  },
+  {
+    "headline": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
+    "summary": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+    "image_url": null,
+    "published_at": "2026-09-22T13:00:00.000Z"
+  },
+  {
+    "headline": "Everyone can find a reason to dislike data center construction",
+    "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "image_url": null,
+    "published_at": "2026-09-22T13:00:00.000Z"
+  },
+  {
+    "headline": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "image_url": null,
+    "published_at": "2026-09-22T12:23:05.000Z"
+  },
+  {
     "headline": "It’s time for the Mac Neo",
     "summary": "Come on, how adorable would this be? | Image: The Verge, Apple The Mac Mini is a great little desktop computer, and back when it cost $599, it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better, but it starts at $899, and its 12-core CPU and 12-core GPU might…",
     "publisher": "The Verge",
@@ -41,7 +225,7 @@
   },
   {
     "headline": "Morphotonics raises €40M to expand its display tech into data centers",
-    "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+    "summary": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
     "image_url": null,
@@ -1414,189 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
     "image_url": null,
     "published_at": "2026-09-16T13:00:00.000Z"
-  },
-  {
-    "headline": "A brief history of AI executives calling for regulation",
-    "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk.…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-    "image_url": null,
-    "published_at": "2026-09-16T12:00:00.000Z"
-  },
-  {
-    "headline": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-    "summary": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon with Tears of the Kingdom. On the Switch 2 this idea expanded to Mario Kart World and…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-    "image_url": null,
-    "published_at": "2026-09-16T12:00:00.000Z"
-  },
-  {
-    "headline": "The iPhone 18 Pro’s big camera update is all about the small gains",
-    "summary": "Ice cold. | Photo: Amelia Holowaty Krales / The Verge Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct device with the kind of \"I can…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-    "image_url": null,
-    "published_at": "2026-09-16T12:00:00.000Z"
-  },
-  {
-    "headline": "Amazon launches Alexa+ in India with Hindi support",
-    "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-    "image_url": null,
-    "published_at": "2026-09-16T10:34:47.000Z"
-  },
-  {
-    "headline": "Meta is reportedly ready to launch less pervy smart glasses",
-    "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta Connect event…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-    "image_url": null,
-    "published_at": "2026-09-16T08:54:46.000Z"
-  },
-  {
-    "headline": "The Boox Palma 3 gets stylus support and a sleek redesign",
-    "summary": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-    "image_url": null,
-    "published_at": "2026-09-16T02:00:00.000Z"
-  },
-  {
-    "headline": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-    "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-    "image_url": null,
-    "published_at": "2026-09-16T01:00:00.000Z"
-  },
-  {
-    "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "image_url": null,
-    "published_at": "2026-09-16T00:20:39.000Z"
-  },
-  {
-    "headline": "AI and data centers are incredibly unpopular in every poll",
-    "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters s…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-    "image_url": null,
-    "published_at": "2026-09-15T23:34:25.000Z"
-  },
-  {
-    "headline": "The AI data center boom is colliding with cities scarred by big industry",
-    "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "image_url": null,
-    "published_at": "2026-09-15T21:47:38.000Z"
-  },
-  {
-    "headline": "Microsoft announces Windows and Surface event for October 7th",
-    "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the PC.\" Microsoft CEO Saty…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-    "image_url": null,
-    "published_at": "2026-09-15T20:36:59.000Z"
-  },
-  {
-    "headline": "What if social media isn’t hurting kids?",
-    "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry of the social media b…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
-    "image_url": null,
-    "published_at": "2026-09-15T20:13:30.000Z"
-  },
-  {
-    "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "image_url": null,
-    "published_at": "2026-09-15T20:12:53.000Z"
-  },
-  {
-    "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "image_url": null,
-    "published_at": "2026-09-15T19:00:00.000Z"
-  },
-  {
-    "headline": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
-    "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its \"uncool\" stigma and finding new fans among an SUV-weary public. I'm here for it. One…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
-    "image_url": null,
-    "published_at": "2026-09-15T18:39:44.000Z"
-  },
-  {
-    "headline": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "image_url": null,
-    "published_at": "2026-09-15T18:29:20.000Z"
-  },
-  {
-    "headline": "SpaceX will try to put Starship in orbit for the first time on September 22",
-    "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-    "image_url": null,
-    "published_at": "2026-09-15T18:16:07.000Z"
-  },
-  {
-    "headline": "One of the best 3D printers for beginners is almost $100 off",
-    "summary": "The Centauri Carbon 2 stores the filament on the outside to fit the bowden tube in the build space. | Image: The Verge If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-15T18:02:30.000Z"
-  },
-  {
-    "headline": "AI agents now have a place to snitch",
-    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "image_url": null,
-    "published_at": "2026-09-15T17:42:59.000Z"
-  },
-  {
-    "headline": "US military says it has launched weapons into space",
-    "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-    "image_url": null,
-    "published_at": "2026-09-15T17:09:06.000Z"
-  },
-  {
-    "headline": "Meta expands subscription push with new AI-focused plans",
-    "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-    "image_url": null,
-    "published_at": "2026-09-15T17:05:24.000Z"
-  },
-  {
-    "headline": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-    "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
-    "image_url": null,
-    "published_at": "2026-09-15T17:02:04.000Z"
-  },
-  {
-    "headline": "How The Oregon Trail became a generational icon",
-    "summary": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, our fearless wagon leader David Pierce is joined by gaming journalist Chris Grant and Philip Bouchar…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
-    "image_url": null,
-    "published_at": "2026-09-15T16:18:10.000Z"
   }
 ]

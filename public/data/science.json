@@ -1,5 +1,69 @@
 [
   {
+    "headline": "This 'fire amoeba' pushes the limit of what's possible for complex life",
+    "summary": "Scientists have found a species they've named the fire amoeba, which is capable of reproducing at 145°F and continuing to move up to temperatures of 147°F — a record for complex eukaryotic life.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life",
+    "image_url": null,
+    "published_at": "2026-09-22T16:17:37.000Z"
+  },
+  {
+    "headline": "Coffee doesn’t have to keep you awake to disrupt your sleep",
+    "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity varies dramatically, meaning even caffeine consumed earlier in the day could affect nighttime recove…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T13:42:49.000Z"
+  },
+  {
+    "headline": "This emerging treatment could help people avoid knee replacement surgery",
+    "summary": "A minimally invasive procedure called genicular artery embolization could offer a new middle ground between conservative treatments and knee replacement for osteoarthritis. By blocking tiny blood vessels associated with inflammation, GAE can significantly reduce pain, with some patients reporting little or no pain afte…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260922052030.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T13:31:54.000Z"
+  },
+  {
+    "headline": "For the first time, scientists watch sound jump between quantum states",
+    "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based devices.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T13:17:20.000Z"
+  },
+  {
+    "headline": "Humpback whale mother may have mourned her dead calf for days",
+    "summary": "Researchers observed a humpback whale mother staying beside her presumed stillborn calf for hours and possibly days off Australia’s Gold Coast. She maintained eye contact and remained close to the calf in behavior resembling caregiving and nurturing. Scientists say the rare observation may provide new insight into grie…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081050.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T13:05:14.000Z"
+  },
+  {
+    "headline": "MIT’s tiny flying robot gets 450% faster with AI",
+    "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T12:52:43.000Z"
+  },
+  {
+    "headline": "This new concrete is stronger and pulls CO2 from the air",
+    "summary": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile strength by 15% compared with conventional concrete. It also captured about 1.2 grams of CO₂ per day in la…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T11:46:55.000Z"
+  },
+  {
+    "headline": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
+    "summary": "An amateur astronomer searching satellite maps for a Quebec camping spot accidentally discovered a massive ancient impact crater. Scientists later found shatter cones that confirmed the 25-kilometer-wide structure was blasted into Earth roughly 390 million years ago.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T10:43:31.000Z"
+  },
+  {
     "headline": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
     "summary": "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much.",
     "publisher": "NPR",
@@ -14,6 +78,14 @@
     "url": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
     "image_url": null,
     "published_at": "2026-09-22T09:00:00.000Z"
+  },
+  {
+    "headline": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
+    "summary": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic gases. In a worst-case scenario, those signals could culminate in a VEI 8 eruption that blasts ash te…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
+    "image_url": null,
+    "published_at": "2026-09-22T08:32:08.000Z"
   },
   {
     "headline": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
@@ -1526,77 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260906170128.htm",
     "image_url": null,
     "published_at": "2026-09-06T22:54:05.000Z"
-  },
-  {
-    "headline": "Popular brain supplement linked to shorter lifespan in men",
-    "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effec…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T21:21:25.000Z"
-  },
-  {
-    "headline": "Scientists find breast cancer cells hiding behind protective “shields”",
-    "summary": "Researchers have mapped breast tumors in striking detail and uncovered hidden pockets of dormant cancer cells that may help explain why cancer can return after treatment. Unlike rapidly dividing cells, these quiet cells can essentially hibernate, allowing them to evade chemotherapy and reactivate later. The team found…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000326.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T20:43:10.000Z"
-  },
-  {
-    "headline": "This lifestyle program improved cognition 55% more than basic health advice",
-    "summary": "Older adults at risk of dementia improved their memory and thinking after following lifestyle programs combining exercise, healthy eating, cognitive training, and social engagement. Those who received regular coaching and structured support improved substantially more than participants given general health advice.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T17:07:44.000Z"
-  },
-  {
-    "headline": "Scientists discover a hidden problem with this popular sugar substitute",
-    "summary": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems. Researchers at Washington University in St. Louis found that the body can convert sorbitol into a form of fructose in the liver, potentially triggering some of the same harmful metabolic ef…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T15:44:48.000Z"
-  },
-  {
-    "headline": "Indonesia’s most dangerous fires are burning underground",
-    "summary": "Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fires are especially destructive because they release far more fine particles and several pollutants than typical tropical…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T07:57:45.000Z"
-  },
-  {
-    "headline": "AI can now control fusion plasma faster than humans can react",
-    "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, reacting far faster than a human operator. In one experiment, it predicted a damaging instability about 200 milliseconds before it appeared and adjusted the plasma to stop it from forming.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T07:28:43.000Z"
-  },
-  {
-    "headline": "Scientists find a weak spot in one of the deadliest brain cancers",
-    "summary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer cells more vulnerable to radiation. The strategy works by restoring activity of PP2A, an enzyme that g…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T06:58:29.000Z"
-  },
-  {
-    "headline": "A mysterious signal around Earth could be dark matter",
-    "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncovered several intriguing dark photon signals that still need to be explained.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T00:58:46.000Z"
-  },
-  {
-    "headline": "80,000-year-old “arrowheads” rewrite human history",
-    "summary": "Archaeologists have identified tiny 80,000-year-old projectile points in Uzbekistan that may have been used like arrowheads. Their size, design, and impact damage closely resemble weapons found much later at a Homo sapiens site in France. The discovery suggests sophisticated projectile technology may have appeared in C…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T00:46:25.000Z"
   }
 ]
