@@ -1,19 +1,91 @@
 [
   {
-    "headline": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
-    "summary": "Oil rose Tuesday, amid concerns of growing Iran-U.S. tensions. after U.S. Treasury Secretary Scott Bessent told CNBC that all Iranian airlines will be shut down from Wednesday.",
+    "headline": "Flight disruptions ease at Newark, Philadelphia airports following equipment outage",
+    "summary": "Flight delays continued Tuesday but were far fewer compared with Monday, when an FAA flight data system failed and a damaged cable severed a backup system.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/flight-disruptions-ease-at-newark-philadelphia-after-equipment-outage.html",
+    "image_url": null,
+    "published_at": "2026-09-22T11:47:00.000Z"
+  },
+  {
+    "headline": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+    "summary": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
+    "image_url": null,
+    "published_at": "2026-09-22T11:30:01.000Z"
+  },
+  {
+    "headline": "Oil prices fall after report Saudi Arabia aims to restart critical pipeline this week",
+    "summary": "Oil prices reversed early gains on Tuesday amid optimism that prospects for a diplomatic solution to the U.S.-Iran war are improving.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
     "image_url": null,
-    "published_at": "2026-09-22T05:55:48.000Z"
+    "published_at": "2026-09-22T11:28:31.000Z"
   },
   {
-    "headline": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
-    "summary": "The Treasury Secretary said that Washington was pressuring Iran \"like never before\"",
+    "headline": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dogsled outpost and reopen Cold War base: Report",
+    "summary": "Trump said the agreement with Greenland and Denmark would give the U.S. \"permanent control over security\" in the Danish island territory.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
+    "image_url": null,
+    "published_at": "2026-09-22T11:11:32.000Z"
+  },
+  {
+    "headline": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
+    "summary": "The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
+    "image_url": null,
+    "published_at": "2026-09-22T11:00:01.000Z"
+  },
+  {
+    "headline": "Peloton is revamping its treadmills with new features in the next phase of its turnaround",
+    "summary": "With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html",
+    "image_url": null,
+    "published_at": "2026-09-22T11:00:01.000Z"
+  },
+  {
+    "headline": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
+    "summary": "The reports raised hopes of renewed U.S.-Iran diplomacy, with U.S. stock futures mixed and oil prices lower.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
     "image_url": null,
-    "published_at": "2026-09-22T05:50:50.000Z"
+    "published_at": "2026-09-22T10:28:17.000Z"
+  },
+  {
+    "headline": "Novo defends diversification push as CEO eyes deals beyond obesity",
+    "summary": "Novo CEO Mike Doustdar told CNBC that it is considering M&A opportunities as it faces growing competition in the weight-loss market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/novo-nordisk-ceo-interview-weight-loss-drugs-strategy.html",
+    "image_url": null,
+    "published_at": "2026-09-22T10:10:01.000Z"
+  },
+  {
+    "headline": "U.S. Treasury yields ease as investors await fresh jobs data, Fed comments",
+    "summary": "Economic data, the Iran war and looming UN meetings are in focus.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
+    "image_url": null,
+    "published_at": "2026-09-22T09:16:10.000Z"
+  },
+  {
+    "headline": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
+    "summary": "U.S. President Donald Trump said Russia has “lost control” of its diesel oil industry due to the Ukraine war, as he presses Kyiv to agree to an energy truce.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html",
+    "image_url": null,
+    "published_at": "2026-09-22T08:57:24.000Z"
+  },
+  {
+    "headline": "India's large caps stuck in 'bygone economic era', says Bernstein, as foreign investors head for the exit",
+    "summary": "Global brokerage Bernstein said foreign investors had little reason to invest in India as large businesses were struggling to reinvent themselves.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/foreign-investors-bernstein-india-tata-reliance.html",
+    "image_url": null,
+    "published_at": "2026-09-22T07:26:49.000Z"
   },
   {
     "headline": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
@@ -22,14 +94,6 @@
     "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
     "image_url": null,
     "published_at": "2026-09-22T05:15:21.000Z"
-  },
-  {
-    "headline": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dog-sled outpost and reopen Cold War base: report",
-    "summary": "Trump said the agreement with Greenland and Denmark would give the U.S. \"permanent control over security\" in the Danish island territory.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
-    "image_url": null,
-    "published_at": "2026-09-22T05:00:18.000Z"
   },
   {
     "headline": "Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
     "image_url": null,
     "published_at": "2026-09-16T13:57:47.000Z"
-  },
-  {
-    "headline": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
-    "summary": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
-    "image_url": null,
-    "published_at": "2026-09-16T13:42:23.000Z"
-  },
-  {
-    "headline": "How are rising prices affecting you? NPR wants to know",
-    "summary": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
-    "image_url": null,
-    "published_at": "2026-09-16T13:40:12.000Z"
-  },
-  {
-    "headline": "Tropical Smoothie Cafe is getting a makeover as it prepares for its 'next 3,000' locations",
-    "summary": "Tropical Smoothie Cafe unveiled new branding as it grows rapidly under the ownership of private equity firm Blackstone.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/tropical-smoothie-cafe-announces-new-branding-plans-for-new-locations.html",
-    "image_url": null,
-    "published_at": "2026-09-16T13:16:40.000Z"
-  },
-  {
-    "headline": "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
-    "summary": "The biggest trade in options on the Cboe VIX Index Tuesday was an unusual $6 million purchase of deep, deep in-the-money-puts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/bizarre-volatility-bet-in-the-options-pits-is-a-head-scratcher-ahead-of-fed-rate-decision.html",
-    "image_url": null,
-    "published_at": "2026-09-16T12:14:21.000Z"
-  },
-  {
-    "headline": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-    "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-09-16T12:06:30.000Z"
-  },
-  {
-    "headline": "Mortgage demand from homebuyers drops 19% from a year ago, as interest rates surge abruptly higher",
-    "summary": "Mortgage rates have surged to the highest level since the start of 2025, causing a major pullback in mortgage demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/mortgage-demand-from-homebuyers-drops-19percent-from-a-year-ago.html",
-    "image_url": null,
-    "published_at": "2026-09-16T11:47:11.000Z"
-  },
-  {
-    "headline": "Living abroad doesn't end your U.S. tax obligations. What young expats need to know",
-    "summary": "Americans living overseas may still face U.S. tax-filing and foreign-account reporting rules — even when they ultimately owe no U.S. income tax.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/americans-living-abroad-us-tax-rules-fbar-filing.html",
-    "image_url": null,
-    "published_at": "2026-09-16T11:00:01.000Z"
-  },
-  {
-    "headline": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
-    "summary": "Travelers gave higher ratings in part because of the newer gates and terminals many airports have opened in recent years, according to the study.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
-    "image_url": null,
-    "published_at": "2026-09-16T10:00:01.000Z"
   }
 ]

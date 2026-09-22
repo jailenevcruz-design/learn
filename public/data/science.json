@@ -1,5 +1,21 @@
 [
   {
+    "headline": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
+    "summary": "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
+    "image_url": null,
+    "published_at": "2026-09-22T09:01:00.000Z"
+  },
+  {
+    "headline": "Abortion is on the ballot again as post-Roe policies continue to evolve",
+    "summary": "Four states will vote on abortion-related ballot measures in November. The measures follow the Supreme Court's \"Dobbs\" decision, which upended federal abortion protections.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
+    "image_url": null,
+    "published_at": "2026-09-22T09:00:00.000Z"
+  },
+  {
     "headline": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
     "summary": "Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new treatments that target the brain's dopamine system.",
     "publisher": "ScienceDaily",
@@ -1582,21 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
     "image_url": null,
     "published_at": "2026-09-06T00:46:25.000Z"
-  },
-  {
-    "headline": "Heart disease and kidney disease can fuel each other. New guidelines aim to break the cycle",
-    "summary": "Heart disease and chronic kidney disease can accelerate one another, but new guidelines say simple screening and early treatment could substantially reduce the risks. Blood and urine tests, combined with proven heart and kidney therapies, may help catch problems sooner and prevent serious complications.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234447.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T00:23:08.000Z"
-  },
-  {
-    "headline": "This “new” frog was hiding in plain sight for 100 years",
-    "summary": "A common frog found across Ecuador and Colombia has finally been recognized as its own species after more than a century of mistaken identity. Museum specimens from the 1800s helped scientists reveal that Pristimantis milpe had been hiding in plain sight all along.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234505.htm",
-    "image_url": null,
-    "published_at": "2026-09-05T22:35:48.000Z"
   }
 ]

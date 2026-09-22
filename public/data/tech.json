@@ -1,5 +1,45 @@
 [
   {
+    "headline": "It’s time for the Mac Neo",
+    "summary": "Come on, how adorable would this be? | Image: The Verge, Apple The Mac Mini is a great little desktop computer, and back when it cost $599, it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better, but it starts at $899, and its 12-core CPU and 12-core GPU might…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
+    "image_url": null,
+    "published_at": "2026-09-22T12:00:00.000Z"
+  },
+  {
+    "headline": "Meta patches Muse exploit that let attackers control the AI agent",
+    "summary": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "image_url": null,
+    "published_at": "2026-09-22T11:53:58.000Z"
+  },
+  {
+    "headline": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+    "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+    "image_url": null,
+    "published_at": "2026-09-22T11:00:00.000Z"
+  },
+  {
+    "headline": "Can you forget how you feel about Meta?",
+    "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+    "image_url": null,
+    "published_at": "2026-09-22T10:00:01.000Z"
+  },
+  {
+    "headline": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+    "summary": "The venue is opening below Battersea Power Station, also well recognized for featuring on the cover of Pink Floyd’s Animals album. | Image: Apple Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The v…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+    "image_url": null,
+    "published_at": "2026-09-22T08:35:54.000Z"
+  },
+  {
     "headline": "Morphotonics raises €40M to expand its display tech into data centers",
     "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
     "publisher": "TechCrunch",
@@ -9,7 +49,7 @@
   },
   {
     "headline": "A cut cable disrupted hundreds of flights across the US",
-    "summary": "A JetBlue airplane past an FAA air traffic control tower at Philadelphia International Airport (PHL) in Philadelphia, Pennsylvania, US, on Friday, Oct. 24, 2025. JetBlue Airways Corp. is expected to release earnings figures on October 28. Photographer: Ryan Collerd/Bloomberg via Getty Images | Bloomberg via Getty Image…",
+    "summary": "A JetBlue airplane rolls past an FAA air traffic control tower at Philadelphia International Airport (PHL) on Friday, Oct. 24, 2025. | Ryan Collerd/Bloomberg via Getty Images Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for ai…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
     "image_url": null,
@@ -1558,45 +1598,5 @@
     "url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
     "image_url": null,
     "published_at": "2026-09-15T16:18:10.000Z"
-  },
-  {
-    "headline": "Vintage Violence is an absurdist crime thriller for phone addicts",
-    "summary": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream. But the most chaotic to date might just be Vintage Violence, an absurd…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
-    "image_url": null,
-    "published_at": "2026-09-15T16:00:00.000Z"
-  },
-  {
-    "headline": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
-    "summary": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-    "image_url": null,
-    "published_at": "2026-09-15T16:00:00.000Z"
-  },
-  {
-    "headline": "Nitter and XCancel are dead (again) after X’s latest legal actions",
-    "summary": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-    "image_url": null,
-    "published_at": "2026-09-15T15:49:18.000Z"
-  },
-  {
-    "headline": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "image_url": null,
-    "published_at": "2026-09-15T15:47:03.000Z"
-  },
-  {
-    "headline": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "image_url": null,
-    "published_at": "2026-09-15T15:22:48.000Z"
   }
 ]
