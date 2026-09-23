@@ -1,11 +1,139 @@
 [
   {
-    "headline": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+    "headline": "A timely tax strategy that can help bond investors make the best of painful losses",
+    "summary": "Runaway treasury yields and the bond market selloff create sizable tax-loss harvesting trades for investors to offset big gains from stocks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
+    "image_url": null,
+    "published_at": "2026-09-23T23:07:14.000Z"
+  },
+  {
+    "headline": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+    "summary": "As Trump prepares to meet Xi, strains with U.S. allies are complicating Washington’s efforts to marshal pressure against an increasingly resilient China.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
+    "image_url": null,
+    "published_at": "2026-09-23T22:45:50.000Z"
+  },
+  {
+    "headline": "Judge considers restoring journalists' access to White House after Trump's ban",
+    "summary": "Lawyers representing the White House and the three media outlets banned from the property sparred over the constitutional rights of journalists at a hearing in federal court Wednesday.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
+    "image_url": null,
+    "published_at": "2026-09-23T22:40:39.000Z"
+  },
+  {
+    "headline": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
+    "summary": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
+    "image_url": null,
+    "published_at": "2026-09-23T21:26:36.000Z"
+  },
+  {
+    "headline": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+    "summary": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
+    "image_url": null,
+    "published_at": "2026-09-23T21:25:01.000Z"
+  },
+  {
+    "headline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+    "summary": "The DOJ on Tuesday night cited national security concerns in justifying President Trump's ban of MS NOW, CNN and Politico from the White House.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+    "image_url": null,
+    "published_at": "2026-09-23T21:22:30.000Z"
+  },
+  {
+    "headline": "Here's what happens to the economy when Treasury yields soar like they are now",
+    "summary": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+    "image_url": null,
+    "published_at": "2026-09-23T21:11:28.000Z"
+  },
+  {
+    "headline": "Meta's standoff with Amazon over Muse could be a sign of things to come",
+    "summary": "Meta's new Muse AI personal agent is garnering excitement and shows signs of becoming a hit, but Amazon has blocked the app from its site.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
+    "image_url": null,
+    "published_at": "2026-09-23T21:04:47.000Z"
+  },
+  {
+    "headline": "Will the Paramount-Warner Bros. Discovery merger be Hollywood's undoing?",
+    "summary": "Now that Paramount has an antitrust suit, the way is clear for a merger. But many say the deal will be the unmaking of Hollywood. NPR's Scott Detrow speaks with screenwriter and showrunner Mike Schur.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978054/will-the-paramount-warner-bros-discovery-merger-be-hollywoods-undoing",
+    "image_url": null,
+    "published_at": "2026-09-23T20:42:29.000Z"
+  },
+  {
+    "headline": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+    "summary": "Altman is one of several tech executives who's argued that AI companies should temper the pace of AI development in order to manage potential risks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html",
+    "image_url": null,
+    "published_at": "2026-09-23T20:29:20.000Z"
+  },
+  {
+    "headline": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
     "summary": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
     "image_url": null,
-    "published_at": "2026-09-23T17:25:26.000Z"
+    "published_at": "2026-09-23T20:23:52.000Z"
+  },
+  {
+    "headline": "Why McDonald's is following Walmart and Amazon into the advertising business",
+    "summary": "McDonald's is following the lead of Amazon and Walmart as it starts its own media network.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html",
+    "image_url": null,
+    "published_at": "2026-09-23T20:21:17.000Z"
+  },
+  {
+    "headline": "A rare Microsoft bear warms up to the stock. Here's what changed their mind",
+    "summary": "Stifel upgraded the software and cloud giant to buy from hold.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/a-rare-microsoft-bear-warms-up-to-the-stock-heres-what-changed-their-mind.html",
+    "image_url": null,
+    "published_at": "2026-09-23T19:53:16.000Z"
+  },
+  {
+    "headline": "Higher interest rates squeeze younger and lower-income households. 'A rate hike is a blunt tool,' says expert",
+    "summary": "Higher interest rates will significantly affect consumer borrowing costs and savings returns, but the impact will not be felt equally across all households.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/fed-rate-hike-borrowing-costs.html",
+    "image_url": null,
+    "published_at": "2026-09-23T19:31:08.000Z"
+  },
+  {
+    "headline": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
+    "summary": "A diesel export ban would provide only brief relief before prices start to rise again as refiners cut production, experts say.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/trump-diesel-export-ban-gas-prices.html",
+    "image_url": null,
+    "published_at": "2026-09-23T19:30:54.000Z"
+  },
+  {
+    "headline": "Tesla Roadster reveal is creating a unique options opportunity, says Mike Khouw",
+    "summary": "Teslas are expensive cars, and the Roadster, which the company will reveal on October 1st, will likely be the its most expensive.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/tesla-roadster-reveal-is-creating-a-unique-options-opportunity-says-mike-khouw.html",
+    "image_url": null,
+    "published_at": "2026-09-23T18:52:11.000Z"
+  },
+  {
+    "headline": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports",
+    "summary": "A group that advocates for Epstein victims applauded the news that Richard Kahn and Darren Indyke are facing an investigation. No charges have been been filed.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html",
+    "image_url": null,
+    "published_at": "2026-09-23T18:41:23.000Z"
   },
   {
     "headline": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
@@ -13,7 +141,39 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
     "image_url": null,
-    "published_at": "2026-09-23T17:14:13.000Z"
+    "published_at": "2026-09-23T18:12:18.000Z"
+  },
+  {
+    "headline": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
+    "summary": "Meta's latest consumer AI product is sending such big shockwaves through the market that it's even inflaming a long-time rivalry in the brokerage business.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
+    "image_url": null,
+    "published_at": "2026-09-23T18:06:25.000Z"
+  },
+  {
+    "headline": "New Social Security bill would lower retirement age to 60 for some workers",
+    "summary": "Rep. Haley Stevens introduced a bill that would let some workers in physically demanding jobs claim full Social Security retirement benefits at age 60.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
+    "image_url": null,
+    "published_at": "2026-09-23T17:58:47.000Z"
+  },
+  {
+    "headline": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+    "summary": "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese leaders, analysts told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+    "image_url": null,
+    "published_at": "2026-09-23T17:39:36.000Z"
+  },
+  {
+    "headline": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
+    "summary": "Pezeshkian began his address to the U.N. General Assembly in New York City by holding up photos of children he said were killed by U.S. and Israeli bombs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
+    "image_url": null,
+    "published_at": "2026-09-23T17:38:47.000Z"
   },
   {
     "headline": "McDonald's stock falls as it unveils plan to spend big on restaurant upgrades",
@@ -32,14 +192,6 @@
     "published_at": "2026-09-23T16:56:57.000Z"
   },
   {
-    "headline": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
-    "summary": "As Trump prepares to meet Xi, strains with U.S. allies are complicating Washington’s efforts to marshal pressure against an increasingly resilient China.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
-    "image_url": null,
-    "published_at": "2026-09-23T16:47:21.000Z"
-  },
-  {
     "headline": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
     "summary": "Toms, which manages just over $4 billion in assets, says in the letter it is now one of Devon's top five shareholders.",
     "publisher": "CNBC",
@@ -56,36 +208,12 @@
     "published_at": "2026-09-23T16:22:24.000Z"
   },
   {
-    "headline": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
-    "summary": "Pezeshkian began his address to the UN General Assembly in New York City by holding up photos of children he said were killed by U.S. and Israeli bombs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
-    "image_url": null,
-    "published_at": "2026-09-23T16:09:20.000Z"
-  },
-  {
     "headline": "IonQ shares rise after company says it made a major quantum computing breakthrough",
     "summary": "Shares of quantum computing company IonQ rose following its successful test of the industry's first real-time end-to-end error decoder.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html",
     "image_url": null,
     "published_at": "2026-09-23T15:37:43.000Z"
-  },
-  {
-    "headline": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
-    "summary": "Meta's latest consumer AI product is sending such big shockwaves through the market that it's even inflaming a long-time rivalry in the brokerage business.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
-    "image_url": null,
-    "published_at": "2026-09-23T15:30:23.000Z"
-  },
-  {
-    "headline": "Surging yields and big bond losses may offer sizable tax savings opportunity to investors right now",
-    "summary": "Don’t wait until December: The bond market selloff has opened a tax-loss harvesting opportunity for investors to offset big gains from stocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
-    "image_url": null,
-    "published_at": "2026-09-23T15:23:21.000Z"
   },
   {
     "headline": "Affordability concerns loom large for advisors' clients ahead of midterm elections, survey finds",
@@ -128,14 +256,6 @@
     "published_at": "2026-09-23T14:09:10.000Z"
   },
   {
-    "headline": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-    "summary": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-    "image_url": null,
-    "published_at": "2026-09-23T13:29:08.000Z"
-  },
-  {
     "headline": "72% of Americans would slow financial progress to enjoy life now, SoFi survey finds",
     "summary": "SoFi found 72% of Americans are willing to make slower progress on financial goals to prioritize family, travel and meaningful experiences.",
     "publisher": "CNBC",
@@ -150,14 +270,6 @@
     "url": "https://www.cnbc.com/2026/09/23/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
     "image_url": null,
     "published_at": "2026-09-23T13:08:43.000Z"
-  },
-  {
-    "headline": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-    "summary": "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese leaders, analysts told CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
-    "image_url": null,
-    "published_at": "2026-09-23T12:42:03.000Z"
   },
   {
     "headline": "Royal Caribbean agrees to take 50% equity stake in Sandals for $3 billion",
@@ -182,6 +294,14 @@
     "url": "https://www.cnbc.com/2026/09/23/nearly-10percent-of-borrowers-opted-for-riskier-mortgages-last-week.html",
     "image_url": null,
     "published_at": "2026-09-23T11:44:32.000Z"
+  },
+  {
+    "headline": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+    "summary": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
+    "image_url": null,
+    "published_at": "2026-09-23T10:48:47.000Z"
   },
   {
     "headline": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
@@ -1478,125 +1598,5 @@
     "url": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
     "image_url": null,
     "published_at": "2026-09-18T09:00:00.000Z"
-  },
-  {
-    "headline": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-    "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-    "image_url": null,
-    "published_at": "2026-09-18T08:41:11.000Z"
-  },
-  {
-    "headline": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
-    "summary": "The deal comes as Iran-backed Houthis escalate attacks on Saudi Arabia and seek control of the strategically important Bab el-Mandeb Strait.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
-    "image_url": null,
-    "published_at": "2026-09-18T08:02:20.000Z"
-  },
-  {
-    "headline": "Why Japan’s markets flipped the usual script after central bank rate hike",
-    "summary": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
-    "image_url": null,
-    "published_at": "2026-09-18T07:40:29.000Z"
-  },
-  {
-    "headline": "Pokémon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride",
-    "summary": "Mercari shares are clawing back losses after Pokémon card listing restrictions triggered a selloff earlier this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/pokmon-cards-mercari-stock.html",
-    "image_url": null,
-    "published_at": "2026-09-18T04:09:56.000Z"
-  },
-  {
-    "headline": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-    "summary": "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-    "image_url": null,
-    "published_at": "2026-09-18T03:31:45.000Z"
-  },
-  {
-    "headline": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-    "summary": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-    "image_url": null,
-    "published_at": "2026-09-17T23:56:17.000Z"
-  },
-  {
-    "headline": "Jim Cramer says history offers a playbook for navigating a Fed rate-hiking cycle",
-    "summary": "CNBC's Jim Cramer said investors shouldn’t assume stocks will struggle for the entire period.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/jim-cramer-fed-rate-hike-investing.html",
-    "image_url": null,
-    "published_at": "2026-09-17T22:58:28.000Z"
-  },
-  {
-    "headline": "House heads home to campaign amid calls for urgent AI action",
-    "summary": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
-    "image_url": null,
-    "published_at": "2026-09-17T22:48:08.000Z"
-  },
-  {
-    "headline": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-    "summary": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
-    "image_url": null,
-    "published_at": "2026-09-17T22:22:53.000Z"
-  },
-  {
-    "headline": "Jensen Huang says Nvidia will sell twice as many chips next year",
-    "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
-    "image_url": null,
-    "published_at": "2026-09-17T21:00:47.000Z"
-  },
-  {
-    "headline": "Bill to curb AI data center utility costs hits snag in Senate",
-    "summary": "Sen. Martin Heinrich, D-N.M., blocked bipartisan legislation aimed at reining in data center-related utility cost increases, calling the bill a half-measure.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/ai-data-center-utility-cost-senate.html",
-    "image_url": null,
-    "published_at": "2026-09-17T20:56:41.000Z"
-  },
-  {
-    "headline": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
-    "summary": "As the midterm elections approach, Republicans are touting President Donald Trump's \"big beautiful bill\" to voters. Here's who benefited from the tax cuts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
-    "image_url": null,
-    "published_at": "2026-09-17T20:32:07.000Z"
-  },
-  {
-    "headline": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate",
-    "summary": "The problem for investors: much of what's flowing through the airwaves is noise and won't help you make money.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html",
-    "image_url": null,
-    "published_at": "2026-09-17T20:27:19.000Z"
-  },
-  {
-    "headline": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
-    "summary": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-    "image_url": null,
-    "published_at": "2026-09-17T20:22:20.000Z"
-  },
-  {
-    "headline": "A bad year for the crypto industry just got a lot worse",
-    "summary": "The cryptocurrency industry just suffered a major defeat in a bill they had badly wanted to get through the Senate. It's the latest setback in a terrible year for the sector.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/17/nx-s1-5971298/a-bad-year-for-the-crypto-industry-just-got-a-lot-worse",
-    "image_url": null,
-    "published_at": "2026-09-17T20:03:18.000Z"
   }
 ]

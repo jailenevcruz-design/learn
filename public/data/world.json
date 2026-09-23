@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Here's what happened on day 2 of the UN General Assembly",
+    "summary": "Iran and Ukraine take center stage at the UN as diplomats push to contain two wars threatening global stability.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly",
+    "image_url": null,
+    "published_at": "2026-09-23T22:06:37.000Z"
+  },
+  {
+    "headline": "Does the UN have a future?",
+    "summary": "NPR's Mary Louise Kelly speaks with former U.S. Ambassador to the United Nations Susan Rice about the relevance of the United Nations in 2026.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5976846/does-the-un-have-a-future",
+    "image_url": null,
+    "published_at": "2026-09-23T21:58:37.000Z"
+  },
+  {
+    "headline": "Trump and Xi meet at moment of global consequence",
+    "summary": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+    "image_url": null,
+    "published_at": "2026-09-23T18:23:19.000Z"
+  },
+  {
+    "headline": "Iran's president gives a rare wartime speech at the U.N.",
+    "summary": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
+    "image_url": null,
+    "published_at": "2026-09-23T18:14:40.000Z"
+  },
+  {
     "headline": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
     "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
     "publisher": "NPR",
@@ -43,15 +75,15 @@
     "headline": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
     "summary": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
     "image_url": null,
     "published_at": "2026-09-23T10:48:47.000Z"
   },
   {
-    "headline": "U.S. ambassador to the U.N. discusses Trump's address at UNGA",
-    "summary": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's trip to the U.N. General Assembly and whether progress has been made on key issues.",
+    "headline": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+    "summary": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
     "image_url": null,
     "published_at": "2026-09-23T10:48:47.000Z"
   },
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/08/29/nx-s1-5948125/getting-help-to-nepals-flood-survivors-is-proving-difficult",
     "image_url": null,
     "published_at": "2026-08-29T21:14:10.000Z"
-  },
-  {
-    "headline": "Rescuers race to find thousands missing after deadly Himalayan floods",
-    "summary": "Rescue crews are struggling through blocked roads, high mountain canyons and dangerous terrain as they search for thousands of people missing in Nepal and Tibet.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5948040/rescuers-race-to-find-thousands-missing-after-deadly-himalayan-floods",
-    "image_url": null,
-    "published_at": "2026-08-29T21:14:09.000Z"
-  },
-  {
-    "headline": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-    "summary": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
-    "image_url": null,
-    "published_at": "2026-08-29T15:54:40.000Z"
-  },
-  {
-    "headline": "Photos: See the aftermath of deadly flash floods in Nepal",
-    "summary": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
-    "image_url": null,
-    "published_at": "2026-08-29T14:22:19.000Z"
-  },
-  {
-    "headline": "Srebrenica survivor Ahmed Hrustanovic reflects on Ratko Mladic's death",
-    "summary": "Ahmed Hrustanovic reflects on Ratko Mladic's death with NPR's Scott Simon. All of Hrustanovic's adult male relatives died in the Srebrenica Massacre engineered by Mladic.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5947879/srebrenica-survivor-ahmed-hrustanovic-reflects-on-ratko-mladics-death",
-    "image_url": null,
-    "published_at": "2026-08-29T11:40:57.000Z"
   }
 ]

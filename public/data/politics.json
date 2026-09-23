@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Results are in from the newest NPR/PBS News/Marist poll",
+    "summary": "People say they are more likely to choose a Democrat to represent them in Congress, and feel Democrats would be better at tackling top issues like the economy and foreign policy.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978130/results-are-in-from-the-newest-npr-pbs-news-marist-poll",
+    "image_url": null,
+    "published_at": "2026-09-23T21:14:52.000Z"
+  },
+  {
+    "headline": "Trump and Xi meet at moment of global consequence",
+    "summary": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+    "image_url": null,
+    "published_at": "2026-09-23T18:23:19.000Z"
+  },
+  {
     "headline": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
     "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
     "publisher": "NPR",
@@ -32,18 +48,18 @@
     "published_at": "2026-09-23T09:01:00.000Z"
   },
   {
-    "headline": "There's growing concern that Trump may deploy the National Guard ahead of elections",
-    "summary": "Fears are growing that President Trump may deploy the U.S. military to polling places in the upcoming elections, despite strict state and federal laws against such a move.",
+    "headline": "Trump is on voters' minds in the midterms -- and they're not happy, poll shows",
+    "summary": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
     "image_url": null,
     "published_at": "2026-09-23T09:00:00.000Z"
   },
   {
-    "headline": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
-    "summary": "While Senate offices have access to chatbots like ChatGPT, they are not authorized to use any of the more advanced tools that are at the center of regulatory talks and public debate about AI safety.",
+    "headline": "There's growing concern that Trump may deploy the National Guard ahead of elections",
+    "summary": "Fears are growing that President Trump may deploy the U.S. military to polling places in the upcoming elections, despite strict state and federal laws against such a move.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
     "image_url": null,
     "published_at": "2026-09-23T09:00:00.000Z"
   },
@@ -56,10 +72,10 @@
     "published_at": "2026-09-23T09:00:00.000Z"
   },
   {
-    "headline": "Trump is on voters' minds in the midterms -- and they're not happy, poll shows",
-    "summary": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms.",
+    "headline": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
+    "summary": "While Senate offices have access to chatbots like ChatGPT, they are not authorized to use any of the more advanced tools that are at the center of regulatory talks and public debate about AI safety.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
     "image_url": null,
     "published_at": "2026-09-23T09:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
     "image_url": null,
     "published_at": "2026-08-25T05:14:03.000Z"
-  },
-  {
-    "headline": "Trump administration plans to revoke up to 200,000 visas, official says",
-    "summary": "The 200,000 revocations will not happen in one fell swoop, but on a rolling basis, the Trump administration source said. But experts suggest that the revocation, while potentially precedent setting, is largely performative.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
-    "image_url": null,
-    "published_at": "2026-08-25T04:56:29.000Z"
-  },
-  {
-    "headline": "An aluminum smelter becomes part of Oklahoma Republican governor runoff election",
-    "summary": "A proposed $4 billion aluminum smelter pushed by President Trump is splitting Oklahoma Republicans.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5936546/an-aluminum-smelter-becomes-part-of-oklahoma-republican-governor-runoff-election",
-    "image_url": null,
-    "published_at": "2026-08-24T21:17:29.000Z"
   }
 ]
