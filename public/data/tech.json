@@ -1,5 +1,21 @@
 [
   {
+    "headline": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their intera…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "image_url": null,
+    "published_at": "2026-09-23T00:17:17.000Z"
+  },
+  {
+    "headline": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "image_url": null,
+    "published_at": "2026-09-22T23:21:49.000Z"
+  },
+  {
     "headline": "Paramount will need to release way more movies to make this merger work",
     "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in th…",
     "publisher": "The Verge",
@@ -1582,21 +1598,5 @@
     "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
     "image_url": null,
     "published_at": "2026-09-16T17:20:29.000Z"
-  },
-  {
-    "headline": "Your ‘health age’ is fake",
-    "summary": "My villain origin story is my Whoop age. How do you age at 0.9 times your age and end up four to five years older than you are? | Photo by Amelia Holowaty Krales / The Verge This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions tha…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
-    "image_url": null,
-    "published_at": "2026-09-16T17:00:00.000Z"
-  },
-  {
-    "headline": "Google will now let any AI agent run your smart home",
-    "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-    "image_url": null,
-    "published_at": "2026-09-16T17:00:00.000Z"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+    "summary": "Republican lawmakers have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+    "image_url": null,
+    "published_at": "2026-09-22T23:43:48.000Z"
+  },
+  {
+    "headline": "Here's who we know is going to the Trump-Xi dinner so far",
+    "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+    "image_url": null,
+    "published_at": "2026-09-22T23:43:43.000Z"
+  },
+  {
+    "headline": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
+    "summary": "Qantas plans to start selling tickets for its first New York to Sydney nonstop flight.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
+    "image_url": null,
+    "published_at": "2026-09-22T23:00:01.000Z"
+  },
+  {
     "headline": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
     "summary": "The conglomerate built by Warren Buffett and led today by Greg Abel holds a sizable stake in Miami-based homebuilder Lennar.",
     "publisher": "CNBC",
@@ -62,22 +86,6 @@
     "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
     "image_url": null,
     "published_at": "2026-09-22T20:24:20.000Z"
-  },
-  {
-    "headline": "Here's who we know is going to the Trump-Xi dinner so far",
-    "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-    "image_url": null,
-    "published_at": "2026-09-22T20:07:24.000Z"
-  },
-  {
-    "headline": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-    "summary": "Republican lawmakers have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-    "image_url": null,
-    "published_at": "2026-09-22T19:59:05.000Z"
   },
   {
     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
     "image_url": null,
     "published_at": "2026-09-16T20:00:36.000Z"
-  },
-  {
-    "headline": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
-    "summary": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
-    "image_url": null,
-    "published_at": "2026-09-16T19:56:09.000Z"
   }
 ]
