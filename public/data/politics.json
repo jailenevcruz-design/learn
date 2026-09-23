@@ -1,5 +1,13 @@
 [
   {
+    "headline": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+    "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+    "image_url": null,
+    "published_at": "2026-09-23T16:13:52.000Z"
+  },
+  {
     "headline": "Trump touts his economy and U.S. actions in Iran in UNGA address",
     "summary": "President Trump touted what he portrayed as international and domestic triumphs in a speech to the U.N. General Assembly.",
     "publisher": "NPR",
@@ -24,14 +32,6 @@
     "published_at": "2026-09-23T09:01:00.000Z"
   },
   {
-    "headline": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
-    "summary": "While Senate offices have access to chatbots like ChatGPT, they are not authorized to use any of the more advanced tools that are at the center of regulatory talks and public debate about AI safety.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
-    "image_url": null,
-    "published_at": "2026-09-23T09:00:00.000Z"
-  },
-  {
     "headline": "There's growing concern that Trump may deploy the National Guard ahead of elections",
     "summary": "Fears are growing that President Trump may deploy the U.S. military to polling places in the upcoming elections, despite strict state and federal laws against such a move.",
     "publisher": "NPR",
@@ -40,10 +40,10 @@
     "published_at": "2026-09-23T09:00:00.000Z"
   },
   {
-    "headline": "Poll: Most voters agree the 2026 midterms are all about Trump — and they disapprove",
-    "summary": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms.",
+    "headline": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
+    "summary": "While Senate offices have access to chatbots like ChatGPT, they are not authorized to use any of the more advanced tools that are at the center of regulatory talks and public debate about AI safety.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
     "image_url": null,
     "published_at": "2026-09-23T09:00:00.000Z"
   },
@@ -52,6 +52,14 @@
     "summary": "Registered voters are less confident that USPS will deliver election mail on time compared with 2024, an NPR/PBS News/Marist poll finds, after USPS was part of Trump's bid to limit mail voting.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/23/nx-s1-5978081/usps-election-mail-in-ballot",
+    "image_url": null,
+    "published_at": "2026-09-23T09:00:00.000Z"
+  },
+  {
+    "headline": "Trump is on voters' minds in the midterms -- and they're not happy, poll shows",
+    "summary": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
     "image_url": null,
     "published_at": "2026-09-23T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/24/nx-s1-5936546/an-aluminum-smelter-becomes-part-of-oklahoma-republican-governor-runoff-election",
     "image_url": null,
     "published_at": "2026-08-24T21:17:29.000Z"
-  },
-  {
-    "headline": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
-    "summary": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-    "image_url": null,
-    "published_at": "2026-08-24T20:53:45.000Z"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "headline": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+    "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+    "image_url": null,
+    "published_at": "2026-09-23T16:13:52.000Z"
+  },
+  {
+    "headline": "U.S. ambassador to the U.N. discusses progress on key issues",
+    "summary": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's visit to the U.N. General Assembly and whether progress has been made on key issues.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978682/u-s-ambassador-to-the-u-n-discusses-progress-on-key-issues",
+    "image_url": null,
+    "published_at": "2026-09-23T14:00:19.000Z"
+  },
+  {
+    "headline": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
+    "summary": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
+    "image_url": null,
+    "published_at": "2026-09-23T13:31:47.000Z"
+  },
+  {
     "headline": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
     "summary": "Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction.",
     "publisher": "NPR",
@@ -14,6 +38,14 @@
     "url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
     "image_url": null,
     "published_at": "2026-09-23T11:13:32.000Z"
+  },
+  {
+    "headline": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+    "summary": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+    "image_url": null,
+    "published_at": "2026-09-23T10:48:47.000Z"
   },
   {
     "headline": "U.S. ambassador to the U.N. discusses Trump's address at UNGA",
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/08/29/nx-s1-5947879/srebrenica-survivor-ahmed-hrustanovic-reflects-on-ratko-mladics-death",
     "image_url": null,
     "published_at": "2026-08-29T11:40:57.000Z"
-  },
-  {
-    "headline": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-    "summary": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country's untapped oil reserves, at cost.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
-    "image_url": null,
-    "published_at": "2026-08-29T02:07:55.000Z"
-  },
-  {
-    "headline": "After 6 months of war, Iran's battered regime remains entrenched",
-    "summary": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-    "image_url": null,
-    "published_at": "2026-08-28T19:35:24.000Z"
-  },
-  {
-    "headline": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
-    "summary": "As the death toll rises from flash floods that hit the Nepal-Tibet border, experts are warning more flooding could be on the way. And, Fed Chairman Kevin Warsh is expected to give a key address today.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
-    "image_url": null,
-    "published_at": "2026-08-28T11:01:11.000Z"
-  },
-  {
-    "headline": "Hundreds killed, over 1,000 missing after flash floods in Nepal and Tibet",
-    "summary": "Hundreds of people were killed by devastating flash floods that hit the Nepal-Tibet border, sweeping away roads, bridges and entire villages. More than 1,000 people are still missing.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5946732/hundreds-killed-over-1-000-missing-after-flash-floods-in-nepal-and-tibet",
-    "image_url": null,
-    "published_at": "2026-08-28T10:56:17.000Z"
   }
 ]
