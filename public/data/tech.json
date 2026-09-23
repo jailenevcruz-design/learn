@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Comma’s hands-off driving tech under investigation after 2 fatal crashes",
+    "summary": "The investigation involves at least some crashes where it appears drivers were using \"forked\" versions of Comma's software.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+    "image_url": null,
+    "published_at": "2026-09-23T12:12:39.000Z"
+  },
+  {
+    "headline": "Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display",
+    "summary": "Both 18 Pro phones feature rear displays, just like last year’s 17 Pro models. | Image: Xiaomi Xiaomi's new 18 Pro and 18 Pro Max launched in China today, and feature a more flexible take on the privacy display tech introduced this year on Samsung's Galaxy S26 Ultra. They combine it with returning rear screens, two 200…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
+    "image_url": null,
+    "published_at": "2026-09-23T12:04:45.000Z"
+  },
+  {
+    "headline": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "image_url": null,
+    "published_at": "2026-09-23T12:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "summary": "Patreon co-founder Sam Yam is joing OpenAI to lead Creator Product. | Image: The Verge OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI t…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "image_url": null,
+    "published_at": "2026-09-23T11:02:39.000Z"
+  },
+  {
+    "headline": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
+    "summary": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls its new Pod 6 system its \"most significant hardware launch to date,\" and it's centered around a redes…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
+    "image_url": null,
+    "published_at": "2026-09-23T11:00:00.000Z"
+  },
+  {
+    "headline": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "image_url": null,
+    "published_at": "2026-09-23T04:59:08.000Z"
+  },
+  {
+    "headline": "Discord’s age verification era is upon us, despite community backlash",
+    "summary": "According to Discord, 90% of users will not have to verify their age.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+    "image_url": null,
+    "published_at": "2026-09-23T03:31:12.000Z"
+  },
+  {
     "headline": "OpenAI wants to consult elite mathematicians about how to not fumble again",
     "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their intera…",
     "publisher": "The Verge",
@@ -1542,61 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
     "image_url": null,
     "published_at": "2026-09-16T19:35:29.000Z"
-  },
-  {
-    "headline": "Former Waymo CFO jumps to self-driving startup Wayve",
-    "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-    "image_url": null,
-    "published_at": "2026-09-16T19:02:49.000Z"
-  },
-  {
-    "headline": "Resident Evil is a comedy first and a thrilling nightmare second",
-    "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros. still cast a long sh…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
-    "image_url": null,
-    "published_at": "2026-09-16T18:45:35.000Z"
-  },
-  {
-    "headline": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-    "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-09-16T18:45:35.000Z"
-  },
-  {
-    "headline": "AI labs want in-house auditors — but maybe they should shut the front door first",
-    "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-    "image_url": null,
-    "published_at": "2026-09-16T18:25:25.000Z"
-  },
-  {
-    "headline": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
-    "summary": "Samus is geared up for another adventure. | Image: Nintendo The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preordering, yo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-16T18:20:38.000Z"
-  },
-  {
-    "headline": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
-    "summary": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-    "image_url": null,
-    "published_at": "2026-09-16T18:00:54.000Z"
-  },
-  {
-    "headline": "Apple might make servers again to cash in on the AI rush",
-    "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to exp…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-    "image_url": null,
-    "published_at": "2026-09-16T17:20:29.000Z"
   }
 ]

@@ -1,11 +1,171 @@
 [
   {
-    "headline": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+    "headline": "McDonald's will spend big on restaurant upgrades, training to drive growth",
+    "summary": "The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
+    "image_url": null,
+    "published_at": "2026-09-23T12:19:08.000Z"
+  },
+  {
+    "headline": "Royal Caribbean agrees to take 50% equity stake in Sandals for $3 billion",
+    "summary": "Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+    "image_url": null,
+    "published_at": "2026-09-23T12:09:19.000Z"
+  },
+  {
+    "headline": "Treasury yields little changed as oil price oscillates",
+    "summary": "Yields on U.S. Treasurys held steady early Wednesday, as oil prices were volatile.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+    "image_url": null,
+    "published_at": "2026-09-23T12:06:37.000Z"
+  },
+  {
+    "headline": "Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening",
+    "summary": "Tehran's proposal could pave the way for restoring traffic through the Strait of Hormuz, reviving fragile hopes for a diplomatic off-ramp.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-09-23T11:56:04.000Z"
+  },
+  {
+    "headline": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
+    "summary": "Meta's latest consumer AI product is sending such big shockwaves through the market that it's even inflaming a long-time rivalry in the brokerage business.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
+    "image_url": null,
+    "published_at": "2026-09-23T11:51:23.000Z"
+  },
+  {
+    "headline": "Trump administration is examining whether a diesel export ban is feasible, Treasury secretary says",
     "summary": "Republican lawmakers have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
     "image_url": null,
-    "published_at": "2026-09-22T23:43:48.000Z"
+    "published_at": "2026-09-23T11:49:49.000Z"
+  },
+  {
+    "headline": "Zelenskyy says Ukraine ready for ‘energy ceasefire,’ calls for trilateral meeting with Putin, Trump",
+    "summary": "Zelenskyy said Ukraine is ready for an “energy ceasefire” with Russia, provided Moscow stops attacks on critical infrastructure.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
+    "image_url": null,
+    "published_at": "2026-09-23T11:48:04.000Z"
+  },
+  {
+    "headline": "Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7%",
+    "summary": "As mortgage rates rise, borrowers are seeking savings in riskier, adjustable-rate mortgages that offer lower rates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/nearly-10percent-of-borrowers-opted-for-riskier-mortgages-last-week.html",
+    "image_url": null,
+    "published_at": "2026-09-23T11:44:32.000Z"
+  },
+  {
+    "headline": "Texas turning blue may hinge on Democrats harnessing data center opposition",
+    "summary": "Data center opposition is reshaping Texas' 2026 governor and Senate races as voters raise concerns over power, water and utility costs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/texas-data-centers-election.html",
+    "image_url": null,
+    "published_at": "2026-09-23T10:00:01.000Z"
+  },
+  {
+    "headline": "Oil prices mixed after U.S. and Iran talk for hours at UN meeting",
+    "summary": "Oil prices were mixed Wednesday, amid hopes of a diplomatic solution to the conflict in the Middle East after Iran and the U.S. had talks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
+    "image_url": null,
+    "published_at": "2026-09-23T09:50:27.000Z"
+  },
+  {
+    "headline": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
+    "summary": "Tekever is one of a number of European defense tech startups raising sizable rounds amid a rearmament campaign from countries in the region.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html",
+    "image_url": null,
+    "published_at": "2026-09-23T09:47:31.000Z"
+  },
+  {
+    "headline": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
+    "summary": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html",
+    "image_url": null,
+    "published_at": "2026-09-23T09:22:51.000Z"
+  },
+  {
+    "headline": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+    "summary": "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese premiers, analysts told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+    "image_url": null,
+    "published_at": "2026-09-23T09:14:32.000Z"
+  },
+  {
+    "headline": "DOJ defends White House media ban, urges court to reject lawsuit",
+    "summary": "The Department of Justice defended President Trump's recent media ban, arguing that reporting by CNN, MS Now and Politico on a wide range of issues jeopardized national security and spread falsehoods.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
+    "image_url": null,
+    "published_at": "2026-09-23T09:06:47.000Z"
+  },
+  {
+    "headline": "Major news outlets banned by Trump will have their day in court",
+    "summary": "CNN, MS NOW, and Politico are asking a federal judge to hold the president in check for what they say is a violation of their Constitutional rights simply because he doesn't like how they cover him.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
+    "image_url": null,
+    "published_at": "2026-09-23T09:01:00.000Z"
+  },
+  {
+    "headline": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+    "summary": "Critics say a slowdown of AI development among the largest companies could consolidate the power of frontier labs, just as many others are trying to catch up.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+    "image_url": null,
+    "published_at": "2026-09-23T09:00:00.000Z"
+  },
+  {
+    "headline": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
+    "summary": "AI is becoming increasingly adept at tasks usually given to junior employees. Some fear the impact it might have on entry-level hiring.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
+    "image_url": null,
+    "published_at": "2026-09-23T08:42:34.000Z"
+  },
+  {
+    "headline": "Fed's Collins warns inflation could be 'notably' higher after backing rate hike",
+    "summary": "There is \"an increased likelihood\" of inflation staying \"notably\" above the Federal Reserve's 2% target, Boston Federal Reserve President Susan Collins said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
+    "image_url": null,
+    "published_at": "2026-09-23T07:33:14.000Z"
+  },
+  {
+    "headline": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
+    "summary": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
+    "image_url": null,
+    "published_at": "2026-09-23T05:49:57.000Z"
+  },
+  {
+    "headline": "In photos: Key takeaways from day one of the UN General Assembly",
+    "summary": "World leaders descended on New York for the annual United Nations General Assembly, where the agenda covers topics from wars to the risks posed by AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
+    "image_url": null,
+    "published_at": "2026-09-23T03:13:02.000Z"
+  },
+  {
+    "headline": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
+    "summary": "The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
+    "image_url": null,
+    "published_at": "2026-09-23T00:58:16.000Z"
   },
   {
     "headline": "Here's who we know is going to the Trump-Xi dinner so far",
@@ -40,12 +200,12 @@
     "published_at": "2026-09-22T22:03:33.000Z"
   },
   {
-    "headline": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-    "summary": "Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.",
+    "headline": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
+    "summary": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+    "url": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
     "image_url": null,
-    "published_at": "2026-09-22T21:25:42.000Z"
+    "published_at": "2026-09-22T21:09:17.000Z"
   },
   {
     "headline": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
@@ -78,6 +238,14 @@
     "url": "https://www.cnbc.com/2026/09/22/a-top-chip-stock-analyst-sees-big-things-for-nvidia-broadcom-how-his-case-aligns-with-ours.html",
     "image_url": null,
     "published_at": "2026-09-22T20:43:48.000Z"
+  },
+  {
+    "headline": "Lawmakers float gas-tax break, commuter deduction to ease pressure of high prices at the pump",
+    "summary": "With affordability ranking as a major issue ahead of the Nov. 3 midterm elections, lawmakers are introducing bills to reduce the cost of gasoline and diesel.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/22/gas-tax-holiday-commuter-deduction-fuel-prices.html",
+    "image_url": null,
+    "published_at": "2026-09-22T20:27:05.000Z"
   },
   {
     "headline": "Oil prices fall for fifth day after Trump says U.S. met with Iran for three hours",
@@ -1430,173 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
     "image_url": null,
     "published_at": "2026-09-17T12:27:10.000Z"
-  },
-  {
-    "headline": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
-    "summary": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here’s how chipmakers and U.S. universities aim to fix it.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
-    "image_url": null,
-    "published_at": "2026-09-17T12:02:41.000Z"
-  },
-  {
-    "headline": "Charities say gifts by deceased donors are getting held up at financial firms",
-    "summary": "Nonprofits are pushing back against policies by financial institutions to collect personal information of charity employees before releasing a gift.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html",
-    "image_url": null,
-    "published_at": "2026-09-17T11:50:08.000Z"
-  },
-  {
-    "headline": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
-    "summary": "Charles will convene senior tech leaders today as the debate around the risks involved in AI development ramps up.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
-    "image_url": null,
-    "published_at": "2026-09-17T10:23:31.000Z"
-  },
-  {
-    "headline": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
-    "summary": "CEO Steve O’Donnell said NASCAR's media strategy and the upcoming film \"Days of Thunder 2\" will help raise brand awareness and broaden its fan base.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
-    "image_url": null,
-    "published_at": "2026-09-17T10:00:01.000Z"
-  },
-  {
-    "headline": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-    "summary": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-    "image_url": null,
-    "published_at": "2026-09-17T09:00:01.000Z"
-  },
-  {
-    "headline": "Trump gains a tariff weapon against China and India. Will he use it?",
-    "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-    "image_url": null,
-    "published_at": "2026-09-17T08:46:04.000Z"
-  },
-  {
-    "headline": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all",
-    "summary": "India's digital payment system, which processes more than 1 million transactions every two minutes for free now, will start charging fees to merchants.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
-    "image_url": null,
-    "published_at": "2026-09-17T05:10:05.000Z"
-  },
-  {
-    "headline": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
-    "summary": "Russia’s upcoming election is expected to cement United Russia’s dominance, but voter turnout and its margin of victory could offer clues to public discontent.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
-    "image_url": null,
-    "published_at": "2026-09-17T05:00:01.000Z"
-  },
-  {
-    "headline": "Mark Walter and Todd Boehly selling stakes in Chelsea Football Club to Clearlake Capital",
-    "summary": "Two of Walter's insurance companies faces federal criminal and civil investigations into the accounting of roughly $21 billion in financial transactions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
-    "image_url": null,
-    "published_at": "2026-09-17T03:35:26.000Z"
-  },
-  {
-    "headline": "House advances bill to rein in AI data center utility costs",
-    "summary": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
-    "image_url": null,
-    "published_at": "2026-09-17T00:08:01.000Z"
-  },
-  {
-    "headline": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
-    "summary": "Snap is partnering with Nvidia, Amazon Web Services and Salesforce as part of an enterprise sales push centered on its $2,000 Specs AR glasses.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
-    "image_url": null,
-    "published_at": "2026-09-16T23:40:05.000Z"
-  },
-  {
-    "headline": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
-    "summary": "Salesforce issued some updated longer-term financials at its annual Dreamforce conference.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
-    "image_url": null,
-    "published_at": "2026-09-16T23:13:45.000Z"
-  },
-  {
-    "headline": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
-    "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
-    "image_url": null,
-    "published_at": "2026-09-16T23:05:48.000Z"
-  },
-  {
-    "headline": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-    "summary": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
-    "image_url": null,
-    "published_at": "2026-09-16T21:40:18.000Z"
-  },
-  {
-    "headline": "Here are five key takeaways from Wednesday's Fed rate hike",
-    "summary": "The Fed on Wednesday delivered a much-expected interest rate hike.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
-    "image_url": null,
-    "published_at": "2026-09-16T21:23:51.000Z"
-  },
-  {
-    "headline": "Trump's Kennedy Center closure is 'unlawful,' Rep. Beatty tells judge in emergency hearing request",
-    "summary": "President Donald Trump says renovations at the Kennedy Center will not occur until the courts allow his name to be restored on the performing arts center.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/trump-kennedy-center-beatty.html",
-    "image_url": null,
-    "published_at": "2026-09-16T20:32:54.000Z"
-  },
-  {
-    "headline": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-    "summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-    "image_url": null,
-    "published_at": "2026-09-16T20:22:24.000Z"
-  },
-  {
-    "headline": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
-    "summary": "Billionaire Leon Black is suing the House Oversight and Government Reform Committee seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
-    "image_url": null,
-    "published_at": "2026-09-16T20:18:19.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
-    "summary": "The 10-year yield moved above the 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
-    "image_url": null,
-    "published_at": "2026-09-16T20:10:01.000Z"
-  },
-  {
-    "headline": "Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela",
-    "summary": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-    "image_url": null,
-    "published_at": "2026-09-16T20:07:55.000Z"
-  },
-  {
-    "headline": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-    "summary": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-    "image_url": null,
-    "published_at": "2026-09-16T20:00:36.000Z"
   }
 ]

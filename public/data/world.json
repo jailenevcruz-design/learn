@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
+    "summary": "Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
+    "image_url": null,
+    "published_at": "2026-09-23T11:48:00.000Z"
+  },
+  {
+    "headline": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
+    "summary": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into \"mobile detention centers.\"",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
+    "image_url": null,
+    "published_at": "2026-09-23T11:13:32.000Z"
+  },
+  {
+    "headline": "U.S. ambassador to the U.N. discusses Trump's address at UNGA",
+    "summary": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's trip to the U.N. General Assembly and whether progress has been made on key issues.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
+    "image_url": null,
+    "published_at": "2026-09-23T10:48:47.000Z"
+  },
+  {
+    "headline": "Ukraine's Zelenskyy proposes energy truce with Russia during meeting with Trump",
+    "summary": "Ukraine's President Volodymyr Zelenskyy met President Trump at the U.N. and proposed that Ukraine and Russia stop attacking each other's energy systems.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978127/ukraines-zelenskyy-proposes-energy-truce-with-russia-during-meeting-with-trump",
+    "image_url": null,
+    "published_at": "2026-09-23T08:45:17.000Z"
+  },
+  {
+    "headline": "Trump lays out his agenda as middle powers call for more cooperation at UNGA",
+    "summary": "Middle powers plead for more cooperation at the United Nations, as President Trump lays out his America First agenda and defends the U.S. war against Iran.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5976960/trump-lays-out-his-agenda-as-middle-powers-call-for-more-cooperation-at-unga",
+    "image_url": null,
+    "published_at": "2026-09-23T08:41:10.000Z"
+  },
+  {
     "headline": "The United Nations General Assembly is meeting. Is it accomplishing anything?",
     "summary": "NPR's Mary Louise Kelly speaks with Michael Froman, Council on Foreign Relations president, at the UN General Assembly.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/08/28/nx-s1-5946732/hundreds-killed-over-1-000-missing-after-flash-floods-in-nepal-and-tibet",
     "image_url": null,
     "published_at": "2026-08-28T10:56:17.000Z"
-  },
-  {
-    "headline": "'It's essentially been one long day': A daughter details search for parents in Nepal",
-    "summary": "Shreya Ahuja is searching for her parents after devastating floods struck Nepal. She is calling for international help and communications access as her family waits for news.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
-    "image_url": null,
-    "published_at": "2026-08-28T10:54:22.000Z"
-  },
-  {
-    "headline": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
-    "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
-    "image_url": null,
-    "published_at": "2026-08-28T09:00:00.000Z"
-  },
-  {
-    "headline": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
-    "summary": "As the climate continues to warm, scientists warn that the frequency of disasters like the floods in Nepal will increase.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas",
-    "image_url": null,
-    "published_at": "2026-08-28T09:00:00.000Z"
-  },
-  {
-    "headline": "Mike D thought making music was behind him. Then came 'Thank You'",
-    "summary": "His first solo album finds the Beastie Boys rapper making music with his sons and embracing the unpredictability of collaboration.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5846842/mike-d-beastie-boys-thank-you-album",
-    "image_url": null,
-    "published_at": "2026-08-28T08:46:33.000Z"
-  },
-  {
-    "headline": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII",
-    "summary": "King Harald V of Norway, who went into exile in the United States as a child during the Nazi occupation of his homeland and refused a string of European noblewomen to marry his school sweetheart, died Friday.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
-    "image_url": null,
-    "published_at": "2026-08-28T07:11:46.000Z"
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Category 5 Hurricane Polo is 'one of the strongest storms ever'",
+    "summary": "Hurricane Polo has grown into one of the most powerful Pacific cyclones in decades, and it was expected to skirt Mexico's southwestern coast as a Category 5 storm.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo",
+    "image_url": null,
+    "published_at": "2026-09-23T06:13:35.000Z"
+  },
+  {
+    "headline": "The LHC just ruled out another hiding place for quantum black holes",
+    "summary": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make gravity much stronger…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+    "image_url": null,
+    "published_at": "2026-09-23T03:32:54.000Z"
+  },
+  {
+    "headline": "The Solar System chose fire over ice from the very beginning",
+    "summary": "Ancient iron meteorites reveal that some of the Solar System’s first solid bodies were built mostly from tiny heat-forged rock beads called chondrules, while water-rich dust was largely excluded. The finding pushes this selective planet-building process back to within the Solar System’s first million years.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081052.htm",
+    "image_url": null,
+    "published_at": "2026-09-23T03:06:29.000Z"
+  },
+  {
+    "headline": "One of America’s largest reservoirs just hit a record low",
+    "summary": "Lake Powell has fallen to its lowest level on record after an exceptionally dry and warm winter left the Colorado River Basin with little mountain snow to melt. Lake Mead also reached record lows, raising concerns for a river system that supplies water and power to more than 40 million people. Federal officials have ta…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
+    "image_url": null,
+    "published_at": "2026-09-23T02:01:16.000Z"
+  },
+  {
+    "headline": "This new drug could break cancer’s resistance to treatment",
+    "summary": "A new experimental drug called CS18 may help break through cancer drug resistance by disabling several of the defenses tumors use to survive treatment. It strengthened existing therapies, restored drug sensitivity in resistant lung cancer cells, and slowed tumor growth in animal models.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081112.htm",
+    "image_url": null,
+    "published_at": "2026-09-23T01:27:00.000Z"
+  },
+  {
     "headline": "This 'fire amoeba' pushes the limit of what's possible for complex life",
     "summary": "Scientists have found a species they've named the fire amoeba, which is capable of reproducing at 145°F and continuing to move up to temperatures of 147°F — a record for complex eukaryotic life.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260906170129.htm",
     "image_url": null,
     "published_at": "2026-09-07T06:34:24.000Z"
-  },
-  {
-    "headline": "An important step towards detecting fractons in quantum spin liquids",
-    "summary": "A more realistic quantum model has revealed evidence that strange, nearly immobile quasiparticles called fractons could exist in solid materials. Their inability to move freely could make them promising building blocks for unusually robust quantum information storage.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064222.htm",
-    "image_url": null,
-    "published_at": "2026-09-07T05:45:36.000Z"
-  },
-  {
-    "headline": "Cancer cases could surge 67% worldwide by 2050",
-    "summary": "Cancer is becoming an even larger global health threat, with nearly 21 million people diagnosed and 9.8 million dying from the disease in 2024. New estimates suggest about 1 in 5 people worldwide will develop cancer during their lifetime, while cases could climb by 67% to 34 million by 2050 simply because populations a…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260906170142.htm",
-    "image_url": null,
-    "published_at": "2026-09-07T05:05:57.000Z"
-  },
-  {
-    "headline": "MIT scientists develop injectable “mini livers” that work inside the body",
-    "summary": "MIT engineers have developed injectable “mini livers” designed to help support people whose failing livers can no longer perform essential jobs. Instead of replacing the damaged organ, the approach injects liver cells together with tiny hydrogel spheres and supportive cells, creating a pocket of functioning tissue that…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064249.htm",
-    "image_url": null,
-    "published_at": "2026-09-07T03:20:45.000Z"
-  },
-  {
-    "headline": "Scientists find a way to slash computer memory energy use by orders of magnitude",
-    "summary": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today's leading technologies. By mathematically optimizing the pulses used to flip digital bits, the method could reduce energy consumption by several orders of magnitude. Simulations suggest it may bring future memory…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
-    "image_url": null,
-    "published_at": "2026-09-07T01:14:19.000Z"
-  },
-  {
-    "headline": "Antarctica gained a record 695 billion tons of ice. Scientists found the surprising reason",
-    "summary": "East Antarctica gained an astonishing 695 billion tons of ice between 2021 and 2023, temporarily slowing Antarctica’s long-term decline. Researchers found that warming thousands of miles away in the tropical ocean altered atmospheric circulation and funneled moisture toward the continent, triggering exceptionally heavy…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260906170128.htm",
-    "image_url": null,
-    "published_at": "2026-09-06T22:54:05.000Z"
   }
 ]
