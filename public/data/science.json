@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Under Trump, NIH funding disruptions have evolved. Here's what the numbers show",
+    "summary": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump's administration. These six graphics show how those changes have affected U.S. biomedical research.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+    "image_url": null,
+    "published_at": "2026-09-24T09:00:00.000Z"
+  },
+  {
     "headline": "More REM sleep linked to lower risk of 83 diseases",
     "summary": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases. People who spent more time in REM sleep had lower risks of 83 conditions, including dementia, heart failure, and Parkinson’s disease, while more deep sleep was associated with lower ri…",
     "publisher": "ScienceDaily",
@@ -94,6 +102,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
     "image_url": null,
     "published_at": "2026-09-23T10:26:41.000Z"
+  },
+  {
+    "headline": "There are still nearly pristine coral reefs. They're a blueprint for coral restoration",
+    "summary": "Coral reefs are under threat right now due to abnormally warm ocean temperatures. Scientists are studying the healthiest reefs in the world in search of ways to help all reefs with climate change.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5901157/coral-reefs-bleaching",
+    "image_url": null,
+    "published_at": "2026-09-23T08:44:10.000Z"
   },
   {
     "headline": "Category 5 Hurricane Polo is 'one of the strongest storms ever'",
@@ -1582,21 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
     "image_url": null,
     "published_at": "2026-09-08T13:54:56.000Z"
-  },
-  {
-    "headline": "Your personality may be more genetic than scientists realized",
-    "summary": "More than 1,200 genetic variants have been linked to the Big Five personality traits, and many of the same variants are also associated with health, longevity, careers, income, and everyday habits. The findings reveal a surprisingly wide genetic connection between personality and life outcomes while showing that enviro…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm",
-    "image_url": null,
-    "published_at": "2026-09-08T13:40:34.000Z"
-  },
-  {
-    "headline": "Ozempic and Wegovy may have an unexpected mental health benefit",
-    "summary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
-    "image_url": null,
-    "published_at": "2026-09-08T12:59:00.000Z"
   }
 ]
