@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Trump and Xi strike cordial tone at summit amid underlying tensions",
+    "summary": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
+    "image_url": null,
+    "published_at": "2026-09-24T12:43:15.000Z"
+  },
+  {
     "headline": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
     "summary": "A judge has ordered that the Trump administration restore journalists' access to White House. And, Tucker Carlson sits down with Morning Edition's Steve Inskeep for a Newsmakers interview.",
     "publisher": "NPR",
@@ -14,6 +22,14 @@
     "url": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
     "image_url": null,
     "published_at": "2026-09-24T10:43:25.000Z"
+  },
+  {
+    "headline": "Could the White House try its press ban again? A press freedom expert explains",
+    "summary": "A federal judge's ruling restored CNN, MS Now and Politico's access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+    "image_url": null,
+    "published_at": "2026-09-24T08:44:54.000Z"
   },
   {
     "headline": "Israel's prime minister to give an address at the U.N.",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/30/nx-s1-5948789/getting-aid-to-nepals-flood-survivors-is-the-next-challenge",
     "image_url": null,
     "published_at": "2026-08-30T21:01:14.000Z"
-  },
-  {
-    "headline": "Noel Godin, who made powerful people nervous around cream pies, dies at 80",
-    "summary": "For more than 50 years, Noel Godin went after famous and powerful people with cream pies. His targets included politicians, philosophers, filmmakers and, famously, Bill Gates.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/30/nx-s1-5946807/noel-godin-who-made-powerful-people-nervous-around-cream-pies-dies-at-80",
-    "image_url": null,
-    "published_at": "2026-08-30T21:01:12.000Z"
-  },
-  {
-    "headline": "What a Brazilian tradition can teach us about the future of psychedelics",
-    "summary": "Researchers are looking at new ways to use psychedelics to treat depression. Science journalist Marcelo Leite says there's also a lot to learn from indigenous people who have used them for generations.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/30/nx-s1-5945717/what-a-brazilian-tradition-can-teach-us-about-the-future-of-psychedelics",
-    "image_url": null,
-    "published_at": "2026-08-30T21:01:09.000Z"
   }
 ]

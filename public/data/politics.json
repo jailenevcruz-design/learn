@@ -24,7 +24,15 @@
     "published_at": "2026-09-24T09:00:00.000Z"
   },
   {
-    "headline": "Judge orders Trump administration to restore journalists' access to White House",
+    "headline": "Could the White House try its press ban again? A press freedom expert explains",
+    "summary": "A federal judge's ruling restored CNN, MS Now and Politico's access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+    "image_url": null,
+    "published_at": "2026-09-24T08:44:54.000Z"
+  },
+  {
+    "headline": "Journalists for CNN, MS NOW and Politico return to the White House upon judge's orders",
     "summary": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
     "image_url": null,
     "published_at": "2026-08-25T20:47:54.000Z"
-  },
-  {
-    "headline": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
-    "summary": "The Trump administration claimed to have found 250,000 noncitizens on the voter rolls in four states. But the agency's communications with states since then indicate that data was preliminary.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
-    "image_url": null,
-    "published_at": "2026-08-25T18:15:23.000Z"
   }
 ]
