@@ -1,11 +1,43 @@
 [
   {
-    "headline": "A timely tax strategy that can help bond investors make the best of painful losses",
+    "headline": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+    "summary": "Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted to Hong Kong.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
+    "image_url": null,
+    "published_at": "2026-09-24T01:16:34.000Z"
+  },
+  {
+    "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
+    "summary": "Meta CEO Mark Zuckerberg reveals $1,299 Meta VR Glasses and Muse Charm gadget for AI agents.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+    "image_url": null,
+    "published_at": "2026-09-24T01:08:52.000Z"
+  },
+  {
+    "headline": "Inside India newsletter: Apple set to take a bigger bite of the world’s second-largest smartphone market",
+    "summary": "Apple's latest iPhone launch will boost its market share in India at a time when many incumbent Chinese brands that dominate the market are struggling to sell.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
+    "image_url": null,
+    "published_at": "2026-09-24T00:01:54.000Z"
+  },
+  {
+    "headline": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+    "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+    "image_url": null,
+    "published_at": "2026-09-23T23:59:39.000Z"
+  },
+  {
+    "headline": "The timely tax strategy that can help bond investors make the best of runaway yields and big losses",
     "summary": "Runaway treasury yields and the bond market selloff create sizable tax-loss harvesting trades for investors to offset big gains from stocks.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
     "image_url": null,
-    "published_at": "2026-09-23T23:07:14.000Z"
+    "published_at": "2026-09-23T23:47:41.000Z"
   },
   {
     "headline": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
@@ -96,6 +128,14 @@
     "published_at": "2026-09-23T20:21:17.000Z"
   },
   {
+    "headline": "10-year Treasury yield rockets to 19-year high. Here's what's driving the spike",
+    "summary": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+    "image_url": null,
+    "published_at": "2026-09-23T20:07:50.000Z"
+  },
+  {
     "headline": "A rare Microsoft bear warms up to the stock. Here's what changed their mind",
     "summary": "Stifel upgraded the software and cloud giant to buy from hold.",
     "publisher": "CNBC",
@@ -182,14 +222,6 @@
     "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
     "image_url": null,
     "published_at": "2026-09-23T17:09:22.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings",
-    "summary": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
-    "image_url": null,
-    "published_at": "2026-09-23T16:56:57.000Z"
   },
   {
     "headline": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/18/parents-more-involved-in-kids-work-lives.html",
     "image_url": null,
     "published_at": "2026-09-18T10:00:01.000Z"
-  },
-  {
-    "headline": "AirAsia's Fernandes refutes financial concerns, points to new growth plans",
-    "summary": "AirAsia's Tony Fernandes pushed back against a report raising concerns over the airline’s financial health, while signaling plans to resume growth.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html",
-    "image_url": null,
-    "published_at": "2026-09-18T09:44:48.000Z"
-  },
-  {
-    "headline": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-    "summary": "Anthropic and OpenAI have announced a flurry of AI infrastructure deals over the past year as demand booms.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
-    "image_url": null,
-    "published_at": "2026-09-18T09:38:17.000Z"
-  },
-  {
-    "headline": "An intense boardroom battle is brewing at India's giant Tata Group",
-    "summary": "In 10 years, India's leading multinational conglomerate, the Tata Group, is facing a new power struggle between the chairman of Tata Sons and Tata Trusts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html",
-    "image_url": null,
-    "published_at": "2026-09-18T09:29:41.000Z"
-  },
-  {
-    "headline": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
-    "summary": "A bacterial infection is wiping out Florida's citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
-    "image_url": null,
-    "published_at": "2026-09-18T09:00:00.000Z"
   }
 ]
