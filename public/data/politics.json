@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Judge orders Trump administration to restore journalists' access to White House",
+    "summary": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
+    "image_url": null,
+    "published_at": "2026-09-24T06:21:06.000Z"
+  },
+  {
     "headline": "Results are in from the newest NPR/PBS News/Marist poll",
     "summary": "People say they are more likely to choose a Democrat to represent them in Congress, and feel Democrats would be better at tackling top issues like the economy and foreign policy.",
     "publisher": "NPR",
@@ -48,14 +56,6 @@
     "published_at": "2026-09-23T09:01:00.000Z"
   },
   {
-    "headline": "Trump is on voters' minds in the midterms -- and they're not happy, poll shows",
-    "summary": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
-    "image_url": null,
-    "published_at": "2026-09-23T09:00:00.000Z"
-  },
-  {
     "headline": "There's growing concern that Trump may deploy the National Guard ahead of elections",
     "summary": "Fears are growing that President Trump may deploy the U.S. military to polling places in the upcoming elections, despite strict state and federal laws against such a move.",
     "publisher": "NPR",
@@ -76,6 +76,14 @@
     "summary": "While Senate offices have access to chatbots like ChatGPT, they are not authorized to use any of the more advanced tools that are at the center of regulatory talks and public debate about AI safety.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
+    "image_url": null,
+    "published_at": "2026-09-23T09:00:00.000Z"
+  },
+  {
+    "headline": "Trump is on voters' minds in the midterms -- and they're not happy, poll shows",
+    "summary": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
     "image_url": null,
     "published_at": "2026-09-23T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
     "image_url": null,
     "published_at": "2026-08-25T09:07:09.000Z"
-  },
-  {
-    "headline": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
-    "summary": "Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
-    "image_url": null,
-    "published_at": "2026-08-25T05:14:03.000Z"
   }
 ]
