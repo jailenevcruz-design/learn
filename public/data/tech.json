@@ -1,7 +1,103 @@
 [
   {
+    "headline": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+    "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+    "image_url": null,
+    "published_at": "2026-09-24T20:45:00.000Z"
+  },
+  {
+    "headline": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+    "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, L…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "image_url": null,
+    "published_at": "2026-09-24T19:59:26.000Z"
+  },
+  {
+    "headline": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "image_url": null,
+    "published_at": "2026-09-24T19:15:00.000Z"
+  },
+  {
+    "headline": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "image_url": null,
+    "published_at": "2026-09-24T19:00:42.000Z"
+  },
+  {
+    "headline": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+    "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+    "image_url": null,
+    "published_at": "2026-09-24T18:52:38.000Z"
+  },
+  {
+    "headline": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+    "summary": "CyberPowerPC’s RTX 5070-equipped prebuilt. While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel Core i7-14700KF p…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+    "image_url": null,
+    "published_at": "2026-09-24T18:19:23.000Z"
+  },
+  {
+    "headline": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+    "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "image_url": null,
+    "published_at": "2026-09-24T18:11:44.000Z"
+  },
+  {
+    "headline": "Jensen Huang talks about AI and climate change like a supervillain",
+    "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the same accelerationist spin we'v…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+    "image_url": null,
+    "published_at": "2026-09-24T18:04:44.000Z"
+  },
+  {
+    "headline": "Meta is going to let you build games with AI right on your phone",
+    "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in early a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+    "image_url": null,
+    "published_at": "2026-09-24T17:52:29.000Z"
+  },
+  {
+    "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+    "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "image_url": null,
+    "published_at": "2026-09-24T17:39:24.000Z"
+  },
+  {
+    "headline": "Muse will apparently let you download its entire filesystem",
+    "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal docume…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+    "image_url": null,
+    "published_at": "2026-09-24T17:14:12.000Z"
+  },
+  {
+    "headline": "Muse sure looks a lot like OpenClaw",
+    "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, ha…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+    "image_url": null,
+    "published_at": "2026-09-24T17:10:38.000Z"
+  },
+  {
     "headline": "Databricks buys Row Zero and is scouting for more startups to acquire",
-    "summary": "Databricks has brought cloud spreadsheet startup Row Zero adding yet another acquisition to its 2026 shopping spree.",
+    "summary": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
     "image_url": null,
@@ -12,6 +108,14 @@
     "summary": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switching feature is getting a memory upgrade, alongside new capabilities for Gemini in Chrome that can analyze more types of media and generate interactive study qui…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates",
+    "image_url": null,
+    "published_at": "2026-09-24T17:00:00.000Z"
+  },
+  {
+    "headline": "It’s sinister that Meta’s Muse AI mascot is so cute",
+    "summary": "The fireman outfit. Dead. | Photo by Sean Hollister / The Verge This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I name…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
     "image_url": null,
     "published_at": "2026-09-24T17:00:00.000Z"
   },
@@ -32,7 +136,7 @@
     "published_at": "2026-09-24T16:46:47.000Z"
   },
   {
-    "headline": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+    "headline": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
     "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
@@ -64,18 +168,18 @@
     "published_at": "2026-09-24T16:03:36.000Z"
   },
   {
-    "headline": "The Xbox reset gets ugly",
-    "summary": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises around, and continued its Xbox \"reset.\" Layoffs have become a way of life for Xbox employees, after Mi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
-    "image_url": null,
-    "published_at": "2026-09-24T16:00:00.000Z"
-  },
-  {
     "headline": "Google tests letting Gemini call businesses for you",
     "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+    "image_url": null,
+    "published_at": "2026-09-24T16:00:00.000Z"
+  },
+  {
+    "headline": "The Xbox reset gets ugly",
+    "summary": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises around, and continued its Xbox \"reset.\" Layoffs have become a way of life for Xbox employees, after Mi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
     "image_url": null,
     "published_at": "2026-09-24T16:00:00.000Z"
   },
@@ -113,25 +217,25 @@
   },
   {
     "headline": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-    "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+    "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
     "image_url": null,
     "published_at": "2026-09-24T14:31:00.000Z"
   },
   {
-    "headline": "Why can’t we just keep rogue AIs off the internet?",
-    "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-    "image_url": null,
-    "published_at": "2026-09-24T14:30:00.000Z"
-  },
-  {
     "headline": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
     "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+    "image_url": null,
+    "published_at": "2026-09-24T14:30:00.000Z"
+  },
+  {
+    "headline": "Why can’t we just keep rogue AIs off the internet?",
+    "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
     "image_url": null,
     "published_at": "2026-09-24T14:30:00.000Z"
   },
@@ -1494,109 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
     "image_url": null,
     "published_at": "2026-09-19T15:00:00.000Z"
-  },
-  {
-    "headline": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-    "summary": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-    "image_url": null,
-    "published_at": "2026-09-19T15:00:00.000Z"
-  },
-  {
-    "headline": "The colorful, unique Hyte X50 PC case is $50 off",
-    "summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are up to 430mm long, whic…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-19T15:00:00.000Z"
-  },
-  {
-    "headline": "Prices go up in 7 days. Get your Disrupt ticket now.",
-    "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-    "image_url": null,
-    "published_at": "2026-09-19T14:00:00.000Z"
-  },
-  {
-    "headline": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-    "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. Th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-    "image_url": null,
-    "published_at": "2026-09-19T14:00:00.000Z"
-  },
-  {
-    "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "image_url": null,
-    "published_at": "2026-09-19T13:00:00.000Z"
-  },
-  {
-    "headline": "It’s not just LG. Every TV company is spying on you",
-    "summary": "The TV in your living room knows more about you than you realize. | Photo by John Higgins / The Verge The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
-    "image_url": null,
-    "published_at": "2026-09-19T13:00:00.000Z"
-  },
-  {
-    "headline": "The AI regulation smackdown isn’t over",
-    "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forgi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-    "image_url": null,
-    "published_at": "2026-09-19T13:00:00.000Z"
-  },
-  {
-    "headline": "India forces caller-ID apps to feed spam reports to telcos",
-    "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "image_url": null,
-    "published_at": "2026-09-19T01:00:00.000Z"
-  },
-  {
-    "headline": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "image_url": null,
-    "published_at": "2026-09-19T00:12:07.000Z"
-  },
-  {
-    "headline": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "image_url": null,
-    "published_at": "2026-09-18T23:25:01.000Z"
-  },
-  {
-    "headline": "Anthropic is operating a lab that conducts biology experiments",
-    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "image_url": null,
-    "published_at": "2026-09-18T23:13:31.000Z"
-  },
-  {
-    "headline": "AI hallucination nearly triggers US military operation",
-    "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "image_url": null,
-    "published_at": "2026-09-18T23:12:32.000Z"
-  },
-  {
-    "headline": "Anthropic’s first embedded evaluator is … Accenture?",
-    "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-    "image_url": null,
-    "published_at": "2026-09-18T21:44:33.000Z"
   }
 ]
