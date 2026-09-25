@@ -1,5 +1,53 @@
 [
   {
+    "headline": "Here's who attended the Trump-Xi state dinner",
+    "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+    "image_url": null,
+    "published_at": "2026-09-25T06:30:06.000Z"
+  },
+  {
+    "headline": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+    "summary": "",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
+    "image_url": null,
+    "published_at": "2026-09-25T06:13:35.000Z"
+  },
+  {
+    "headline": "Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government",
+    "summary": "Oxygen Forensics counted numerous U.S. government agencies among its customers but lied for years about who really controlled it, prosecutors allege.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/25/tech-ceo-russian-national-charged-with-hiding-firms-russian-ties.html",
+    "image_url": null,
+    "published_at": "2026-09-25T05:59:34.000Z"
+  },
+  {
+    "headline": "Iran says it's up to U.S. to end war as China presses for de-escalation",
+    "summary": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+    "image_url": null,
+    "published_at": "2026-09-25T05:37:21.000Z"
+  },
+  {
+    "headline": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
+    "summary": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
+    "image_url": null,
+    "published_at": "2026-09-25T04:14:11.000Z"
+  },
+  {
+    "headline": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+    "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+    "image_url": null,
+    "published_at": "2026-09-25T02:38:53.000Z"
+  },
+  {
     "headline": "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
     "summary": "Oracle Japan shares surged after the company reported record fiscal first-quarter sales and profits.",
     "publisher": "CNBC",
@@ -30,14 +78,6 @@
     "url": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
     "image_url": null,
     "published_at": "2026-09-25T01:12:19.000Z"
-  },
-  {
-    "headline": "Here's who is attending the Trump-Xi state dinner",
-    "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-    "image_url": null,
-    "published_at": "2026-09-25T01:02:40.000Z"
   },
   {
     "headline": "Costco makes progress on a key membership metric. Here's our new price target on the stock",
@@ -110,14 +150,6 @@
     "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
     "image_url": null,
     "published_at": "2026-09-24T21:46:05.000Z"
-  },
-  {
-    "headline": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
-    "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
-    "image_url": null,
-    "published_at": "2026-09-24T21:40:19.000Z"
   },
   {
     "headline": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
     "image_url": null,
     "published_at": "2026-09-21T00:45:26.000Z"
-  },
-  {
-    "headline": "Here are the 3 big things we're watching in the stock market this week",
-    "summary": "The week ahead is light on macroeconomic data, but investors can still expect plenty of market-moving headlines.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
-    "image_url": null,
-    "published_at": "2026-09-20T23:42:00.000Z"
-  },
-  {
-    "headline": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-    "summary": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-    "image_url": null,
-    "published_at": "2026-09-20T19:06:16.000Z"
-  },
-  {
-    "headline": "The 'robot relations' department may become reality in workplace of the future",
-    "summary": "AI, from chatbots to humanoids and automated management systems, are being widely deployed by corporations with huge repercussions for worker pay and autonomy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
-    "image_url": null,
-    "published_at": "2026-09-20T14:37:34.000Z"
-  },
-  {
-    "headline": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-    "summary": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-09-20T14:23:53.000Z"
   }
 ]

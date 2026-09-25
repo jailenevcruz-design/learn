@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "image_url": null,
+    "published_at": "2026-09-25T05:00:00.000Z"
+  },
+  {
+    "headline": "Here’s the Tesla Semi… again",
+    "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+    "image_url": null,
+    "published_at": "2026-09-25T02:12:57.000Z"
+  },
+  {
     "headline": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
     "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, M…",
     "publisher": "The Verge",
@@ -24,8 +40,8 @@
     "published_at": "2026-09-24T23:42:39.000Z"
   },
   {
-    "headline": "Waymo is scaling fast. Here’s what the fleet data shows.",
-    "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+    "headline": "Waymo is scaling fast: Here’s what the fleet data shows",
+    "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
     "image_url": null,
@@ -1582,21 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
     "image_url": null,
     "published_at": "2026-09-19T20:39:13.000Z"
-  },
-  {
-    "headline": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "image_url": null,
-    "published_at": "2026-09-19T19:57:47.000Z"
-  },
-  {
-    "headline": "Google’s Gemini is the latest AI model to hack other companies",
-    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "image_url": null,
-    "published_at": "2026-09-19T17:30:00.000Z"
   }
 ]

@@ -1,11 +1,35 @@
 [
   {
-    "headline": "ADHD and autism diagnoses have surged. A massive study may help explain why",
-    "summary": "A large Danish study found that children diagnosed with ADHD or autism today more closely resemble their peers in the general population than those diagnosed 10 years ago. The shift suggests that rising diagnosis rates may partly reflect broader identification and changing diagnostic patterns, rather than only an incre…",
+    "headline": "Scientists gave worms magnetic bacteria. They lived 43% longer",
+    "summary": "A magnet-producing bacterium extended the average lifespan of C. elegans worms by more than 43% while helping protect their neurological and intestinal health. Researchers traced much of the effect to suppression of ferroptosis, a damaging form of cell death linked to iron buildup and oxidative stress.",
     "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260924020357.htm",
     "image_url": null,
-    "published_at": "2026-09-24T13:45:17.000Z"
+    "published_at": "2026-09-25T03:52:22.000Z"
+  },
+  {
+    "headline": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+    "summary": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
+    "image_url": null,
+    "published_at": "2026-09-25T03:19:34.000Z"
+  },
+  {
+    "headline": "Ancient meteorites reveal a powerful force that helped build the Solar System",
+    "summary": "Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity to help transform a vast cloud of gas and dust into the sun and planetary disk.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
+    "image_url": null,
+    "published_at": "2026-09-25T02:45:24.000Z"
+  },
+  {
+    "headline": "Scientists discover an “impossible” cellular survival pathway that could help fight cancer",
+    "summary": "Scientists discovered a surprising backup system that lets mammalian cells make the essential amino acid cysteine even when the pathways once considered indispensable are disabled. The same survival mechanism may help cancer cells resist treatment, raising the possibility that shutting it down could make tumors easier…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260923035939.htm",
+    "image_url": null,
+    "published_at": "2026-09-25T01:55:32.000Z"
   },
   {
     "headline": "When what you see doesn’t make sense, your brain does something remarkable",
@@ -70,6 +94,14 @@
     "url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
     "image_url": null,
     "published_at": "2026-09-24T09:00:00.000Z"
+  },
+  {
+    "headline": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+    "summary": "A large Danish study found that children diagnosed with ADHD or autism today more closely resemble their peers in the general population than those diagnosed 10 years ago. The shift suggests that rising diagnosis rates may partly reflect broader identification and changing diagnostic patterns, rather than only an incre…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
+    "image_url": null,
+    "published_at": "2026-09-24T06:03:53.000Z"
   },
   {
     "headline": "More REM sleep linked to lower risk of 83 diseases",
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/09/09/nx-s1-5954173/are-we-any-closer-to-detecting-dark-matter",
     "image_url": null,
     "published_at": "2026-09-09T20:54:52.000Z"
-  },
-  {
-    "headline": "Scientists find a bone-building switch that could fight osteoporosis",
-    "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to stronger muscles, researchers see intriguing potential for combating age-related decline and osteoporosis…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
-    "image_url": null,
-    "published_at": "2026-09-09T13:52:53.000Z"
-  },
-  {
-    "headline": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
-    "summary": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory benefits in addition to their effects on diabetes and obesity, but clinical trials a…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
-    "image_url": null,
-    "published_at": "2026-09-09T13:06:53.000Z"
-  },
-  {
-    "headline": "Have we found alien life? Hundreds of scientists weigh in",
-    "summary": "Two major alien-life announcements in 2025 generated enormous excitement, but most astrobiologists remained unconvinced. Only 6.6% of surveyed experts thought possible biological molecules on K2-18b probably represented extraterrestrial life, while 15.1% said the same about intriguing mineral patterns in a Martian rock…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm",
-    "image_url": null,
-    "published_at": "2026-09-09T11:13:30.000Z"
-  },
-  {
-    "headline": "Interstellar comet 3I/ATLAS is bursting with methanol",
-    "summary": "Interstellar comet 3I/ATLAS contains exceptionally high levels of methanol, suggesting it formed under conditions very different from those that shaped most comets in our solar system. ALMA also revealed that tiny icy grains around the comet are releasing methanol like miniature comets, giving astronomers an unusually…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm",
-    "image_url": null,
-    "published_at": "2026-09-09T08:47:39.000Z"
   }
 ]
