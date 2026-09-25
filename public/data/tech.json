@@ -1,14 +1,62 @@
 [
   {
+    "headline": "Meta opens early access program for new Muse features",
+    "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "image_url": null,
+    "published_at": "2026-09-25T20:34:53.000Z"
+  },
+  {
+    "headline": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+    "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+    "image_url": null,
+    "published_at": "2026-09-25T20:33:58.000Z"
+  },
+  {
+    "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "image_url": null,
+    "published_at": "2026-09-25T19:13:38.000Z"
+  },
+  {
+    "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-09-25T18:48:33.000Z"
+  },
+  {
+    "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "image_url": null,
+    "published_at": "2026-09-25T18:33:59.000Z"
+  },
+  {
+    "headline": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+    "summary": "Roku’s new OLED TVs are already marked down. | Image: The Verge Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is e…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+    "image_url": null,
+    "published_at": "2026-09-25T18:18:57.000Z"
+  },
+  {
     "headline": "Phones don’t have lights",
-    "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: they're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do not. In one of the…",
+    "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do not. In one of the…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
     "image_url": null,
     "published_at": "2026-09-25T17:42:59.000Z"
   },
   {
-    "headline": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+    "headline": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
     "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
@@ -70,6 +118,14 @@
     "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
     "image_url": null,
     "published_at": "2026-09-25T16:16:52.000Z"
+  },
+  {
+    "headline": "Meta’s AI Tamagotchi bet is…working?",
+    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotli…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "image_url": null,
+    "published_at": "2026-09-25T16:00:00.000Z"
   },
   {
     "headline": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
@@ -1542,61 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
     "image_url": null,
     "published_at": "2026-09-21T15:00:00.000Z"
-  },
-  {
-    "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "image_url": null,
-    "published_at": "2026-09-21T14:39:22.000Z"
-  },
-  {
-    "headline": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-    "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-09-21T14:30:00.000Z"
-  },
-  {
-    "headline": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-    "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-09-21T14:15:00.000Z"
-  },
-  {
-    "headline": "Can John Ternus find Apple’s next big thing?",
-    "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-    "image_url": null,
-    "published_at": "2026-09-21T14:00:00.000Z"
-  },
-  {
-    "headline": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
-    "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
-    "image_url": null,
-    "published_at": "2026-09-21T13:49:00.000Z"
-  },
-  {
-    "headline": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-    "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and March 29th, 2025, you can file a cla…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-    "image_url": null,
-    "published_at": "2026-09-21T13:36:52.000Z"
-  },
-  {
-    "headline": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-    "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and Med…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-    "image_url": null,
-    "published_at": "2026-09-21T13:16:25.000Z"
   }
 ]
