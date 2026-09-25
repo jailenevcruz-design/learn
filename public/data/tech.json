@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+    "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, M…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+    "image_url": null,
+    "published_at": "2026-09-25T01:25:53.000Z"
+  },
+  {
+    "headline": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+    "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a rec…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+    "image_url": null,
+    "published_at": "2026-09-24T23:50:55.000Z"
+  },
+  {
+    "headline": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+    "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can connect…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+    "image_url": null,
+    "published_at": "2026-09-24T23:42:39.000Z"
+  },
+  {
+    "headline": "Waymo is scaling fast. Here’s what the fleet data shows.",
+    "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+    "image_url": null,
+    "published_at": "2026-09-24T23:24:33.000Z"
+  },
+  {
+    "headline": "Microsoft puts Brad Smith in charge of communications",
+    "summary": "Microsoft vice chair and president Brad Smith. | Image: Getty Images Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+    "image_url": null,
+    "published_at": "2026-09-24T22:08:22.000Z"
+  },
+  {
     "headline": "Nexterity wants to automate the hard, dangerous part of pipefitting",
     "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
     "publisher": "TechCrunch",
@@ -104,6 +144,14 @@
     "published_at": "2026-09-24T17:07:55.000Z"
   },
   {
+    "headline": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+    "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+    "image_url": null,
+    "published_at": "2026-09-24T17:00:00.000Z"
+  },
+  {
     "headline": "Now Google Chrome shares tabs to new devices that save where you were",
     "summary": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switching feature is getting a memory upgrade, alongside new capabilities for Gemini in Chrome that can analyze more types of media and generate interactive study qui…",
     "publisher": "The Verge",
@@ -116,14 +164,6 @@
     "summary": "The fireman outfit. Dead. | Photo by Sean Hollister / The Verge This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I name…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-    "image_url": null,
-    "published_at": "2026-09-24T17:00:00.000Z"
-  },
-  {
-    "headline": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-    "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
     "image_url": null,
     "published_at": "2026-09-24T17:00:00.000Z"
   },
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
     "image_url": null,
     "published_at": "2026-09-19T17:30:00.000Z"
-  },
-  {
-    "headline": "Trump treads further on free speech with new journalist bans",
-    "summary": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out i…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
-    "image_url": null,
-    "published_at": "2026-09-19T17:10:21.000Z"
-  },
-  {
-    "headline": "The US Navy just told us what’s on its tech wish list for the next several years",
-    "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-    "image_url": null,
-    "published_at": "2026-09-19T17:00:00.000Z"
-  },
-  {
-    "headline": "Gemini went rogue, hacked three companies, and Google hid it",
-    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents invol…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "image_url": null,
-    "published_at": "2026-09-19T15:25:03.000Z"
-  },
-  {
-    "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "image_url": null,
-    "published_at": "2026-09-19T15:00:00.000Z"
-  },
-  {
-    "headline": "AI safety conversations have gotten unbelievable",
-    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "image_url": null,
-    "published_at": "2026-09-19T15:00:00.000Z"
   }
 ]
