@@ -1,5 +1,189 @@
 [
   {
+    "headline": "Phones don’t have lights",
+    "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: they're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do not. In one of the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+    "image_url": null,
+    "published_at": "2026-09-25T17:42:59.000Z"
+  },
+  {
+    "headline": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+    "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+    "image_url": null,
+    "published_at": "2026-09-25T17:30:00.000Z"
+  },
+  {
+    "headline": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "image_url": null,
+    "published_at": "2026-09-25T17:29:46.000Z"
+  },
+  {
+    "headline": "Astra and Opus just passed Turing’s other test",
+    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "image_url": null,
+    "published_at": "2026-09-25T17:24:36.000Z"
+  },
+  {
+    "headline": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+    "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in Auto apertur…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
+    "image_url": null,
+    "published_at": "2026-09-25T17:23:30.000Z"
+  },
+  {
+    "headline": "Tesla&#8217;s Optimus robot is going through growing pains",
+    "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creat…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+    "image_url": null,
+    "published_at": "2026-09-25T17:01:36.000Z"
+  },
+  {
+    "headline": "Meta makes the Muse filesystem even more accessible",
+    "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "image_url": null,
+    "published_at": "2026-09-25T16:49:53.000Z"
+  },
+  {
+    "headline": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+    "summary": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discovered in Apple's own…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+    "image_url": null,
+    "published_at": "2026-09-25T16:22:05.000Z"
+  },
+  {
+    "headline": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "image_url": null,
+    "published_at": "2026-09-25T16:16:52.000Z"
+  },
+  {
+    "headline": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+    "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+    "image_url": null,
+    "published_at": "2026-09-25T15:52:13.000Z"
+  },
+  {
+    "headline": "Sony and UMG are suing Suno again",
+    "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, wh…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+    "image_url": null,
+    "published_at": "2026-09-25T15:51:56.000Z"
+  },
+  {
+    "headline": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+    "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "image_url": null,
+    "published_at": "2026-09-25T15:48:14.000Z"
+  },
+  {
+    "headline": "Anthropic’s founders seek voting control ahead of IPO",
+    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "image_url": null,
+    "published_at": "2026-09-25T15:40:03.000Z"
+  },
+  {
+    "headline": "One company is at the center of a wave of rogue AI attacks",
+    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerou…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "image_url": null,
+    "published_at": "2026-09-25T15:39:48.000Z"
+  },
+  {
+    "headline": "Tesla finally moves to electrify trucking after a decade of work and delays",
+    "summary": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+    "image_url": null,
+    "published_at": "2026-09-25T15:24:50.000Z"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+    "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "image_url": null,
+    "published_at": "2026-09-25T15:00:00.000Z"
+  },
+  {
+    "headline": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
+    "summary": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
+    "image_url": null,
+    "published_at": "2026-09-25T14:21:25.000Z"
+  },
+  {
+    "headline": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "image_url": null,
+    "published_at": "2026-09-25T14:15:00.000Z"
+  },
+  {
+    "headline": "Gaming’s biggest horror series are more vital than ever",
+    "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best not to get brutally murdered by dem…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
+    "image_url": null,
+    "published_at": "2026-09-25T14:10:00.000Z"
+  },
+  {
+    "headline": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
+    "summary": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+    "image_url": null,
+    "published_at": "2026-09-25T14:05:04.000Z"
+  },
+  {
+    "headline": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+    "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+    "image_url": null,
+    "published_at": "2026-09-25T14:00:00.000Z"
+  },
+  {
+    "headline": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+    "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+    "image_url": null,
+    "published_at": "2026-09-25T13:24:34.000Z"
+  },
+  {
+    "headline": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+    "summary": "I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of Gemini for Home, Apple Intelligence for Home, and Amazon’s Ring. | Photo by Jennifer Pattison Tuohy / The Verge A few years back, I was at a beachside Easter egg hunt, watching my k…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+    "image_url": null,
+    "published_at": "2026-09-25T13:00:00.000Z"
+  },
+  {
     "headline": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
     "publisher": "TechCrunch",
@@ -1414,189 +1598,5 @@
     "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
     "image_url": null,
     "published_at": "2026-09-21T13:16:25.000Z"
-  },
-  {
-    "headline": "These are the first five Googlebook laptops",
-    "summary": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preorder starting today and arrive in stores on October 4th. Starting prices range from $899 to $1,299, putting the Googlebo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-    "image_url": null,
-    "published_at": "2026-09-21T13:01:00.000Z"
-  },
-  {
-    "headline": "The long dream of the Googlebook",
-    "summary": "Dell’s XPS Googlebook is just one of the devices Google needs to be great. In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had a big new idea about laptops. In the future, he said, the only thing you'd need on your computer wa…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
-    "image_url": null,
-    "published_at": "2026-09-21T13:00:00.000Z"
-  },
-  {
-    "headline": "I got to see Google&#8217;s wild ideas about the future of laptops",
-    "summary": "Googlebooks look like fancy Chromebooks at first, but there are interesting software ideas. | Photo: Antonio G. Di Benedetto / The Verge There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever us…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
-    "image_url": null,
-    "published_at": "2026-09-21T13:00:00.000Z"
-  },
-  {
-    "headline": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-    "summary": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-09-20T21:41:08.000Z"
-  },
-  {
-    "headline": "No Dogs in Space is back to feed your need for obsessive music history",
-    "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0. The first episode premiere…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-    "image_url": null,
-    "published_at": "2026-09-20T20:51:57.000Z"
-  },
-  {
-    "headline": "World model companies are keeping a lot of secrets",
-    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "image_url": null,
-    "published_at": "2026-09-20T20:29:07.000Z"
-  },
-  {
-    "headline": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-    "summary": "Many of The Boring Company's announced projects have not materialized.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-    "image_url": null,
-    "published_at": "2026-09-20T19:38:48.000Z"
-  },
-  {
-    "headline": "Is the AI industry really ready to slow down?",
-    "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "image_url": null,
-    "published_at": "2026-09-20T18:56:04.000Z"
-  },
-  {
-    "headline": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
-    "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also said of people soundin…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "image_url": null,
-    "published_at": "2026-09-20T18:50:18.000Z"
-  },
-  {
-    "headline": "Vocci’s ring adds a new form factor to meeting note-taking",
-    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "image_url": null,
-    "published_at": "2026-09-20T18:32:52.000Z"
-  },
-  {
-    "headline": "Kojima Productions disputes reports the studio is in trouble",
-    "summary": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was driven by a number of factors, including missed deadlines, budget and…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
-    "image_url": null,
-    "published_at": "2026-09-20T18:15:10.000Z"
-  },
-  {
-    "headline": "ScrollEd wants to turn textbooks into TikTok",
-    "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-    "image_url": null,
-    "published_at": "2026-09-20T18:00:00.000Z"
-  },
-  {
-    "headline": "New California law will penalize influencers who don’t disclose political ads",
-    "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
-    "image_url": null,
-    "published_at": "2026-09-20T16:30:00.000Z"
-  },
-  {
-    "headline": "TechCrunch Mobility: How do we know when an AV is safe enough?",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
-    "image_url": null,
-    "published_at": "2026-09-20T16:02:00.000Z"
-  },
-  {
-    "headline": "Trump now says he wants to form an ‘AI Force’",
-    "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder or stifle…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "image_url": null,
-    "published_at": "2026-09-20T15:39:22.000Z"
-  },
-  {
-    "headline": "A small but growing number of founders are betting on bringing people together offline",
-    "summary": "On the surface, a game console and a leathercraft school don't appear to have much in common. But both founders think there's money in fostering the kind of connection that technology has eroded over the last couple of decades.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-    "image_url": null,
-    "published_at": "2026-09-20T15:00:00.000Z"
-  },
-  {
-    "headline": "A24’s reputation is on the line with the SCP Foundation movie",
-    "summary": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the backlash started, and V/H/S: SCP already appears to be on shaky ground. SCP is…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
-    "image_url": null,
-    "published_at": "2026-09-20T12:45:48.000Z"
-  },
-  {
-    "headline": "A great new video game movie",
-    "summary": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I flew out to Los Angeles to try on and write about Snap's Specs. Along the way, I…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
-    "image_url": null,
-    "published_at": "2026-09-20T12:00:00.000Z"
-  },
-  {
-    "headline": "The hidden monopoly behind your TI graphing calculator",
-    "summary": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, David Pierce is joined by The Verge's Nilay Patel and Victoria Song to tell the story of TI graphing…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
-    "image_url": null,
-    "published_at": "2026-09-20T12:00:00.000Z"
-  },
-  {
-    "headline": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for pub…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "image_url": null,
-    "published_at": "2026-09-20T12:00:00.000Z"
-  },
-  {
-    "headline": "All roads lead to cable",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Before…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-    "image_url": null,
-    "published_at": "2026-09-20T12:00:00.000Z"
-  },
-  {
-    "headline": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-    "image_url": null,
-    "published_at": "2026-09-19T20:44:40.000Z"
-  },
-  {
-    "headline": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "image_url": null,
-    "published_at": "2026-09-19T20:39:13.000Z"
   }
 ]

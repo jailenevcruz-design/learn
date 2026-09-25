@@ -1,5 +1,45 @@
 [
   {
+    "headline": "The Supreme Court revives a controversial data system for citizenship checks",
+    "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
+    "image_url": null,
+    "published_at": "2026-09-25T15:40:57.000Z"
+  },
+  {
+    "headline": "Trump and China's Xi discuss AI, trade and Iran war during state visit",
+    "summary": "U.S. President Trump and Chinese leader Xi Jinping met for the second time this year to much fanfare but little in the way of grand bargains.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/25/nx-s1-5976940/trump-and-chinas-xi-discuss-ai-trade-and-iran-war-during-state-visit",
+    "image_url": null,
+    "published_at": "2026-09-25T10:48:42.000Z"
+  },
+  {
+    "headline": "Americans are confused and worried about elections. Will that impact turnout?",
+    "summary": "New polling shows many voters are concerned about the midterms. But prior elections show no clear link between voter concerns and fewer voters actually casting ballots.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/25/nx-s1-5946736/voting-confusion-turnout",
+    "image_url": null,
+    "published_at": "2026-09-25T09:00:00.000Z"
+  },
+  {
+    "headline": "As election enters its final stretch, some Republicans are distancing from Trump",
+    "summary": "With less than six weeks until Election Day, a growing number of Republicans are breaking from Trump on key issues. It comes as the party is scrambling to hold onto a slim majority in Congress.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/25/nx-s1-5978096/republicans-trump-midterm-elections",
+    "image_url": null,
+    "published_at": "2026-09-25T09:00:00.000Z"
+  },
+  {
+    "headline": "Congress passed $100 million for teen pregnancy prevention. Most of it is untouched",
+    "summary": "With days left to go in the 2026 fiscal year, lawmakers push the health department to spend the money Congress allocated to prevent teen pregnancy. An NPR exclusive.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5974336/teen-pregnancy-prevention-unspent-funding",
+    "image_url": null,
+    "published_at": "2026-09-25T08:40:30.000Z"
+  },
+  {
     "headline": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
     "summary": "A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer — often and glitzier — details of diplomacy as Donald Trump threw a Thursday night state dinner honoring China's leader Xi Jinping.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/08/27/nx-s1-5945134/a-look-at-trumps-inner-circle-and-the-increased-resistance-from-some-of-his-allies",
     "image_url": null,
     "published_at": "2026-08-27T10:45:36.000Z"
-  },
-  {
-    "headline": "NDAs are hiding data center deals, drawing ire from locals — and attention from lawmakers",
-    "summary": "Nondisclosure agreements covered up negotiations between a tech company and several local and state officials, surprising local residents. It's a tactic used around the country in data center deals.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/27/nx-s1-5879528/data-center-nda-disclosure-louisiana",
-    "image_url": null,
-    "published_at": "2026-08-27T09:00:00.000Z"
-  },
-  {
-    "headline": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats",
-    "summary": "Ossoff should be among the most vulnerable Senate incumbents this year. Instead, the Georgia Democrat has opened a steady lead in polls and is increasingly seen as a potential 2028 contender.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/27/nx-s1-5935282/jon-ossoff-georgia-senate-race",
-    "image_url": null,
-    "published_at": "2026-08-27T09:00:00.000Z"
-  },
-  {
-    "headline": "Andrew Tate will stay in jail after judge delays decision on bail in extradition fight",
-    "summary": "In an unusual move, both Andrew Tate and his brother Tristan testified on their own behalf Thursday. They face a total of 59 criminal charges in the U.K., including rape and human trafficking.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/27/nx-s1-5918058/andrew-tate-extradition",
-    "image_url": null,
-    "published_at": "2026-08-27T09:00:00.000Z"
-  },
-  {
-    "headline": "The White House's preferred economic tools are hitting snags",
-    "summary": "Tariffs and export controls have been the Trump administration's main economic security tools. Neither is working very well right now.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5928351/white-house-tarifffs-snags",
-    "image_url": null,
-    "published_at": "2026-08-26T20:29:45.000Z"
-  },
-  {
-    "headline": "Trump touts power of his endorsement following South Sen. Darline Graham's primary win",
-    "summary": "Darline Graham won her primary runoff in the race to replace her late brother in the US Senate. And President Trump can again tout the power of his endorsement.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5945088/trump-touts-power-of-his-endorsement-following-south-sen-darline-grahams-primary-win",
-    "image_url": null,
-    "published_at": "2026-08-26T20:14:48.000Z"
   }
 ]
