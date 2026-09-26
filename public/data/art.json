@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Thanks, I’m Just Looking",
+    "summary": "The New York art fairs, the worst of the Venice Biennale, Taryn Simon’s incomplete detective story, and Damien Hirst’s gay hole.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/thanks-im-just-looking/",
+    "image_url": null,
+    "published_at": "2026-09-26T10:00:17.000Z"
+  },
+  {
     "headline": "No One Is Reading, Except at the New York Art Book Fair",
     "summary": "The overlooked, subversive, and playful currents of politics and queer culture flow freely at the fair’s 20th anniversary edition, held at MoMA PS1.",
     "publisher": "Hyperallergic",
@@ -25,7 +33,7 @@
   },
   {
     "headline": "The Best Booths at Independent 20th Century",
-    "summary": "It’s a big year for the Independent, the art world’s favorite contemporary art fair.",
+    "summary": "It’s a big year for Independent 20th Century, Independent contemporary art fair’s more art-historically minded sister.",
     "publisher": "ARTnews",
     "url": "https://www.artnews.com/list/art-news/market/highlights-independent-20th-century-art-fair-1234799390/",
     "image_url": null,
@@ -1590,13 +1598,5 @@
     "url": "https://hyperallergic.com/applications-open-idsva-low-residency-phd-program-for-artists-and-creative-thinkers/",
     "image_url": null,
     "published_at": "2026-09-15T15:15:20.000Z"
-  },
-  {
-    "headline": "Alfredo Jaar’s America",
-    "summary": "We interview the Chilean artist as an iconic work returns to NYC, Trump’s attacks against abstract sculptures, James McNeill Whistler’s musical paintings, and more.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/alfredo-jaars-america/",
-    "image_url": null,
-    "published_at": "2026-09-15T10:00:36.000Z"
   }
 ]

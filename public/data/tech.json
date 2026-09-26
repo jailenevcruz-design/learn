@@ -1,5 +1,109 @@
 [
   {
+    "headline": "Meta says it will run ads for ‘Musk’ documentary after all",
+    "summary": "At least one social media company seems to be reversing its stance on whether it will accept advertising for Alex Gibney’s upcoming documentary about Elon Musk.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+    "image_url": null,
+    "published_at": "2026-09-26T17:44:00.000Z"
+  },
+  {
+    "headline": "Kids turned the comment section of an NPR podcast into a group chat",
+    "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids getti…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+    "image_url": null,
+    "published_at": "2026-09-26T17:32:35.000Z"
+  },
+  {
+    "headline": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+    "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+    "image_url": null,
+    "published_at": "2026-09-26T17:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI pauses training of its ‘most capable models’",
+    "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident h…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "image_url": null,
+    "published_at": "2026-09-26T16:34:59.000Z"
+  },
+  {
+    "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are even wilder because…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "image_url": null,
+    "published_at": "2026-09-26T14:00:00.000Z"
+  },
+  {
+    "headline": "I created an interactive digital avatar of myself — and you can talk to it",
+    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "image_url": null,
+    "published_at": "2026-09-26T14:00:00.000Z"
+  },
+  {
+    "headline": "Control Resonant is a great game — it’s even better when you read everything",
+    "summary": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optional in Resonant, but it's where some of the game's best details - and…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+    "image_url": null,
+    "published_at": "2026-09-26T13:00:00.000Z"
+  },
+  {
+    "headline": "Pokémon card resellers have turned collecting into an online blood sport",
+    "summary": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not to be mad. But they were…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+    "image_url": null,
+    "published_at": "2026-09-26T12:00:00.000Z"
+  },
+  {
+    "headline": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
+    "summary": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+    "image_url": null,
+    "published_at": "2026-09-26T07:00:00.000Z"
+  },
+  {
+    "headline": "At Meta Connect, the company’s smart glasses were everywhere",
+    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "image_url": null,
+    "published_at": "2026-09-26T01:08:57.000Z"
+  },
+  {
+    "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "image_url": null,
+    "published_at": "2026-09-25T23:11:10.000Z"
+  },
+  {
+    "headline": "Automattic has a new board after failed attempt to put CEO on leave",
+    "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+    "image_url": null,
+    "published_at": "2026-09-25T23:04:34.000Z"
+  },
+  {
+    "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "image_url": null,
+    "published_at": "2026-09-25T22:20:47.000Z"
+  },
+  {
     "headline": "Meta opens early access program for new Muse features",
     "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
     "publisher": "TechCrunch",
@@ -1494,109 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
     "image_url": null,
     "published_at": "2026-09-21T20:29:45.000Z"
-  },
-  {
-    "headline": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "image_url": null,
-    "published_at": "2026-09-21T20:15:58.000Z"
-  },
-  {
-    "headline": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-09-21T19:25:00.000Z"
-  },
-  {
-    "headline": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "image_url": null,
-    "published_at": "2026-09-21T19:19:21.000Z"
-  },
-  {
-    "headline": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-    "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-    "image_url": null,
-    "published_at": "2026-09-21T18:23:05.000Z"
-  },
-  {
-    "headline": "Meta’s AI agent has been blocked from using Amazon.com",
-    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "image_url": null,
-    "published_at": "2026-09-21T17:55:18.000Z"
-  },
-  {
-    "headline": "GM can’t ‘bring back’ Apple CarPlay because it never left",
-    "summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing from its electric vehicles in 2023. Naturally, this led to some confusi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
-    "image_url": null,
-    "published_at": "2026-09-21T17:47:54.000Z"
-  },
-  {
-    "headline": "X will now tell users when governments have forced it to limit their posts",
-    "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-    "image_url": null,
-    "published_at": "2026-09-21T17:45:35.000Z"
-  },
-  {
-    "headline": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-    "summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. According to the proposed consent decree filed with the court, it includ…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
-    "image_url": null,
-    "published_at": "2026-09-21T17:42:15.000Z"
-  },
-  {
-    "headline": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-    "summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-    "image_url": null,
-    "published_at": "2026-09-21T16:45:47.000Z"
-  },
-  {
-    "headline": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "image_url": null,
-    "published_at": "2026-09-21T16:38:51.000Z"
-  },
-  {
-    "headline": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
-    "summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that players had paid to a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
-    "image_url": null,
-    "published_at": "2026-09-21T16:35:59.000Z"
-  },
-  {
-    "headline": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-    "summary": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since it essentially knocks its price down to $30. Another way of…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-21T15:13:32.000Z"
-  },
-  {
-    "headline": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-    "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-09-21T15:00:00.000Z"
   }
 ]

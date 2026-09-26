@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Why this island paradise has the world's fastest-growing HIV epidemic",
+    "summary": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+    "image_url": null,
+    "published_at": "2026-09-26T11:31:18.000Z"
+  },
+  {
+    "headline": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+    "summary": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+    "image_url": null,
+    "published_at": "2026-09-26T09:00:00.000Z"
+  },
+  {
+    "headline": "The U.S. has more thalidomide survivors than the government admits",
+    "summary": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+    "image_url": null,
+    "published_at": "2026-09-26T09:00:00.000Z"
+  },
+  {
     "headline": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
     "summary": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
     "publisher": "NPR",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria",
     "image_url": null,
     "published_at": "2026-07-25T11:51:44.000Z"
-  },
-  {
-    "headline": "U.S. reports highest number of measles cases in 35 years",
-    "summary": "For the second year in a row, the U.S. has reported a record-breaking number of measles cases. The Centers for Disease Control and Prevention on Friday said the country has now confirmed 2,318 measles cases -- the highest case count since 1991.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/24/nx-s1-5905694/u-s-reports-highest-number-of-measles-cases-in-35-years",
-    "image_url": null,
-    "published_at": "2026-07-24T20:32:18.000Z"
-  },
-  {
-    "headline": "15 years later, is the FDA's produce safety overhaul working?",
-    "summary": "Fifteen years ago, the FDA overhauled its safety rules for fruits and vegetables, hoping to prevent outbreaks of foodborne illness. How's that system working today?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/24/nx-s1-5903267-e1/15-years-later-is-the-fdas-produce-safety-overhaul-working",
-    "image_url": null,
-    "published_at": "2026-07-24T20:26:08.000Z"
-  },
-  {
-    "headline": "FDA panel backs easier access to peptides",
-    "summary": "Advisers to the Food and Drug Administration are backing popular peptide therapies. They voted to allow specialized pharmacies to make them despite agency scientists' recommendations against it.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/24/nx-s1-5905770/fda-panel-backs-easier-access-to-peptides",
-    "image_url": null,
-    "published_at": "2026-07-24T10:43:56.000Z"
   }
 ]
