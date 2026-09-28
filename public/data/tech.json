@@ -1,7 +1,151 @@
 [
   {
-    "headline": "Meta says it will run ads for ‘Musk’ documentary after all",
-    "summary": "At least one social media company seems to be reversing its stance on whether it will accept advertising for Alex Gibney’s upcoming documentary about Elon Musk.",
+    "headline": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+    "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+    "image_url": null,
+    "published_at": "2026-09-28T04:30:00.000Z"
+  },
+  {
+    "headline": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+    "summary": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not graphically impressive. It's n…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+    "image_url": null,
+    "published_at": "2026-09-27T21:59:57.000Z"
+  },
+  {
+    "headline": "Engram is a sampler that turns broken AI hallucinations into music",
+    "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating som…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+    "image_url": null,
+    "published_at": "2026-09-27T20:46:36.000Z"
+  },
+  {
+    "headline": "Anthropic’s CEO is about to have dinner with President Trump",
+    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "image_url": null,
+    "published_at": "2026-09-27T20:34:28.000Z"
+  },
+  {
+    "headline": "Can Muse overcome Meta’s trust issues?",
+    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "image_url": null,
+    "published_at": "2026-09-27T19:57:30.000Z"
+  },
+  {
+    "headline": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise t…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "image_url": null,
+    "published_at": "2026-09-27T17:21:07.000Z"
+  },
+  {
+    "headline": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "summary": "\"AI is the devil and I its maker.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "image_url": null,
+    "published_at": "2026-09-27T16:30:00.000Z"
+  },
+  {
+    "headline": "TechCrunch Mobility: AV companies pick their lanes",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+    "image_url": null,
+    "published_at": "2026-09-27T16:02:00.000Z"
+  },
+  {
+    "headline": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+    "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+    "image_url": null,
+    "published_at": "2026-09-27T15:00:00.000Z"
+  },
+  {
+    "headline": "Why OLPC’s $100 laptop never stood a chance",
+    "summary": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, were both more complicate…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+    "image_url": null,
+    "published_at": "2026-09-27T12:25:00.000Z"
+  },
+  {
+    "headline": "Googlebooks might be the real deal",
+    "summary": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) This week, I flew to San Francisco to try out Meta's new hardware, including…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+    "image_url": null,
+    "published_at": "2026-09-27T12:00:00.000Z"
+  },
+  {
+    "headline": "The smart home graveyard is getting crowded",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started A decade ago, a gro…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+    "image_url": null,
+    "published_at": "2026-09-27T12:00:00.000Z"
+  },
+  {
+    "headline": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+    "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+    "image_url": null,
+    "published_at": "2026-09-27T01:40:30.000Z"
+  },
+  {
+    "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "image_url": null,
+    "published_at": "2026-09-27T01:30:00.000Z"
+  },
+  {
+    "headline": "Apple hit with $5.7 billion in damages over haptic patents",
+    "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+    "image_url": null,
+    "published_at": "2026-09-26T21:30:01.000Z"
+  },
+  {
+    "headline": "Insurers claim AI is already increasing healthcare costs",
+    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "image_url": null,
+    "published_at": "2026-09-26T21:02:06.000Z"
+  },
+  {
+    "headline": "TikTok agrees to pay at least $100M in Alabama settlement",
+    "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+    "image_url": null,
+    "published_at": "2026-09-26T20:24:45.000Z"
+  },
+  {
+    "headline": "Decap is the man behind the drums behind your favorite song",
+    "summary": "Drums on film. | Image: Decap I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+    "image_url": null,
+    "published_at": "2026-09-26T19:30:00.000Z"
+  },
+  {
+    "headline": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+    "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
     "image_url": null,
@@ -32,18 +176,18 @@
     "published_at": "2026-09-26T16:34:59.000Z"
   },
   {
-    "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-    "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are even wilder because…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-    "image_url": null,
-    "published_at": "2026-09-26T14:00:00.000Z"
-  },
-  {
     "headline": "I created an interactive digital avatar of myself — and you can talk to it",
     "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "image_url": null,
+    "published_at": "2026-09-26T14:00:00.000Z"
+  },
+  {
+    "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are even wilder because…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
     "image_url": null,
     "published_at": "2026-09-26T14:00:00.000Z"
   },
@@ -1454,149 +1598,5 @@
     "url": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
     "image_url": null,
     "published_at": "2026-09-22T14:01:16.000Z"
-  },
-  {
-    "headline": "Activision is taking over Halo as part of a massive Xbox shake-up",
-    "summary": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of Empires. Microsoft is also laying off around 268 Xbox employees as par…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
-    "image_url": null,
-    "published_at": "2026-09-22T14:00:33.000Z"
-  },
-  {
-    "headline": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
-    "summary": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
-    "image_url": null,
-    "published_at": "2026-09-22T14:00:00.000Z"
-  },
-  {
-    "headline": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-    "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-09-22T14:00:00.000Z"
-  },
-  {
-    "headline": "The Beats 360 are what I’d bring to the gym if I hated earbuds",
-    "summary": "The Beats 360 are designed to last through your sweaty workouts. Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud haters: The new Beats 360 over-ear headphones are durable…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/998566/beats-360-headphones-review",
-    "image_url": null,
-    "published_at": "2026-09-22T14:00:00.000Z"
-  },
-  {
-    "headline": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
-    "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
-    "image_url": null,
-    "published_at": "2026-09-22T13:20:00.000Z"
-  },
-  {
-    "headline": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
-    "summary": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
-    "image_url": null,
-    "published_at": "2026-09-22T13:00:00.000Z"
-  },
-  {
-    "headline": "Everyone can find a reason to dislike data center construction",
-    "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "image_url": null,
-    "published_at": "2026-09-22T13:00:00.000Z"
-  },
-  {
-    "headline": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "image_url": null,
-    "published_at": "2026-09-22T12:23:05.000Z"
-  },
-  {
-    "headline": "It’s time for the Mac Neo",
-    "summary": "Come on, how adorable would this be? | Image: The Verge, Apple The Mac Mini is a great little desktop computer, and back when it cost $599, it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better, but it starts at $899, and its 12-core CPU and 12-core GPU might…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
-    "image_url": null,
-    "published_at": "2026-09-22T12:00:00.000Z"
-  },
-  {
-    "headline": "Meta patches Muse exploit that let attackers control the AI agent",
-    "summary": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-    "image_url": null,
-    "published_at": "2026-09-22T11:53:58.000Z"
-  },
-  {
-    "headline": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
-    "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
-    "image_url": null,
-    "published_at": "2026-09-22T11:00:00.000Z"
-  },
-  {
-    "headline": "Can you forget how you feel about Meta?",
-    "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
-    "image_url": null,
-    "published_at": "2026-09-22T10:00:01.000Z"
-  },
-  {
-    "headline": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
-    "summary": "The venue is opening below Battersea Power Station, also well recognized for featuring on the cover of Pink Floyd’s Animals album. | Image: Apple Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The v…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
-    "image_url": null,
-    "published_at": "2026-09-22T08:35:54.000Z"
-  },
-  {
-    "headline": "Morphotonics raises €40M to expand its display tech into data centers",
-    "summary": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-    "image_url": null,
-    "published_at": "2026-09-22T06:00:00.000Z"
-  },
-  {
-    "headline": "A cut cable disrupted hundreds of flights across the US",
-    "summary": "A JetBlue airplane rolls past an FAA air traffic control tower at Philadelphia International Airport (PHL) on Friday, Oct. 24, 2025. | Ryan Collerd/Bloomberg via Getty Images Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for ai…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
-    "image_url": null,
-    "published_at": "2026-09-21T23:48:56.000Z"
-  },
-  {
-    "headline": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-    "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "image_url": null,
-    "published_at": "2026-09-21T23:44:28.000Z"
-  },
-  {
-    "headline": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
-    "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becomin…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
-    "image_url": null,
-    "published_at": "2026-09-21T23:15:32.000Z"
-  },
-  {
-    "headline": "California tightens rules on AI data center energy and water use",
-    "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-    "image_url": null,
-    "published_at": "2026-09-21T20:29:45.000Z"
   }
 ]

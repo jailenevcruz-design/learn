@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Scientists discover two new species of sea spiders along Canadian coastline",
+    "summary": "So far, scientists have identified more than 1,300 species of sea spiders.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
+    "image_url": null,
+    "published_at": "2026-09-27T22:31:16.000Z"
+  },
+  {
+    "headline": "We're looking for life on other planets. Are we ready to find it?",
+    "summary": "In 1960, astronomer Frank Drake listened for signals from alien worlds. Reporter Brendan Byrne's podcast When We Find Them picks up the search and asks what would happen if we finally find something.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/27/nx-s1-5967513/were-looking-for-life-on-other-planets-are-we-ready-to-find-it",
+    "image_url": null,
+    "published_at": "2026-09-27T21:14:38.000Z"
+  },
+  {
+    "headline": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+    "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical tri…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+    "image_url": null,
+    "published_at": "2026-09-27T13:53:39.000Z"
+  },
+  {
+    "headline": "Atrial fibrillation patients saw 69% lower risk with common blood thinners",
+    "summary": "Direct oral anticoagulants cut the risk of serious clinical events by 69% in atrial fibrillation patients with an intermediate risk of stroke, according to the randomized SINGLE-AF trial. The benefit was driven mainly by fewer ischemic strokes, with no increase in major bleeding.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925005439.htm",
+    "image_url": null,
+    "published_at": "2026-09-27T13:41:36.000Z"
+  },
+  {
+    "headline": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
+    "summary": "A single dose of an experimental CRISPR therapy cut LDL cholesterol and triglycerides by about half in patients with difficult-to-treat lipid disorders. The reductions were still present one year later, with the highest dose lowering LDL by 52.5% and triglycerides by 47.8%.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
+    "image_url": null,
+    "published_at": "2026-09-27T13:15:21.000Z"
+  },
+  {
+    "headline": "New soil test could reveal how soil microbes help feed plants",
+    "summary": "Scientists have streamlined a method for measuring DNA-bound phosphorus in soil, making it cheaper and easier while preserving its accuracy. The technique could reveal how soil microbes help recycle phosphorus and ultimately support more sustainable fertilizer and nutrient management.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925005441.htm",
+    "image_url": null,
+    "published_at": "2026-09-27T12:10:17.000Z"
+  },
+  {
+    "headline": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+    "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea, but only where oxygen was available. Oxygen-free environments contained simpler microbes instead.…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+    "image_url": null,
+    "published_at": "2026-09-27T11:55:50.000Z"
+  },
+  {
+    "headline": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+    "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more personalized treatme…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
+    "image_url": null,
+    "published_at": "2026-09-27T10:49:13.000Z"
+  },
+  {
+    "headline": "These medieval graves looked like family burials. DNA told a different story",
+    "summary": "Ancient DNA shows that adults and children buried together in medieval Sweden were often not members of the same immediate family, suggesting that burial choices reflected more than biological kinship. The research also revealed early gender-based burial customs and uncovered the remarkable story of a young woman who m…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260925005444.htm",
+    "image_url": null,
+    "published_at": "2026-09-27T02:49:07.000Z"
+  },
+  {
+    "headline": "Scientists say house cats could help unlock better cancer treatments for humans",
+    "summary": "Scientists have mapped the genetics of cat cancer on an unprecedented scale and found surprising similarities with tumors in humans. The findings could help bring precision cancer treatments to cats while also revealing new clues about how human cancers develop and respond to drugs.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260924231826.htm",
+    "image_url": null,
+    "published_at": "2026-09-27T02:01:42.000Z"
+  },
+  {
     "headline": "A major risk of breast cancer screening may have been overestimated for decades",
     "summary": "A new analysis suggests mammograms may lead to far less breast cancer overdiagnosis than some earlier studies indicated. Researchers reexamined all eight major randomized screening trials and accounted for differences in follow-up time, screening frequency, and screening after trials ended. Their results were consisten…",
     "publisher": "ScienceDaily",
@@ -1518,85 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260911003856.htm",
     "image_url": null,
     "published_at": "2026-09-12T02:34:24.000Z"
-  },
-  {
-    "headline": "Mercury’s surface reveals a surprisingly fiery past",
-    "summary": "Scientists have discovered that Mercury’s surface contains far less silicon dioxide than previously thought, pointing to an unexpectedly hot volcanic past. The finding suggests ancient lava may have originated from deeper, more extensively melted parts of the planet’s mantle.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm",
-    "image_url": null,
-    "published_at": "2026-09-12T01:28:22.000Z"
-  },
-  {
-    "headline": "The secret to longer life may be hidden in bat DNA",
-    "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
-    "image_url": null,
-    "published_at": "2026-09-12T00:25:05.000Z"
-  },
-  {
-    "headline": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
-    "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesting superior plumage may have helped the ancestors of living birds endure the deadly impact winter.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T23:47:16.000Z"
-  },
-  {
-    "headline": "Your next prescription could be treating a side effect from the last one",
-    "summary": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and automated alerts could help prevent these potentially harmful prescribing cascades.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T12:17:18.000Z"
-  },
-  {
-    "headline": "Tiny nanolaser could cut computer energy use in half",
-    "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient da…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T12:03:26.000Z"
-  },
-  {
-    "headline": "Scientists just made quantum computer operations 1,000 times faster",
-    "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T11:52:30.000Z"
-  },
-  {
-    "headline": "Wasps are disappearing this summer, and scientists are worried",
-    "summary": "Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape insect populations.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T11:38:35.000Z"
-  },
-  {
-    "headline": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
-    "summary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems. People with ADHD had nearly double the odds of constipation, 58% higher odds of irritable bowel syndrome, and more than four times the odds of encopresis.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T11:26:08.000Z"
-  },
-  {
-    "headline": "Physicists just found a tiny glitch in time itself",
-    "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T05:18:44.000Z"
-  },
-  {
-    "headline": "Too much light at night may quietly reshape your heart",
-    "summary": "Nighttime light exposure was linked to thicker, stiffer heart chambers and early signs of reduced heart function in a study of more than 11,000 people. The findings suggest that keeping bedrooms darker could be an overlooked strategy for protecting the heart.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911003847.htm",
-    "image_url": null,
-    "published_at": "2026-09-11T04:38:47.000Z"
   }
 ]
