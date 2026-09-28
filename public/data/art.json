@@ -1,5 +1,149 @@
 [
   {
+    "headline": "Arthur Jafa’s Vital New Museum Survey Is a Horror Show for the Ages",
+    "summary": "The exhibition brings forth all the monsters typically hidden away in the influential artist’s work.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/reviews/arthur-jafa-new-museum-review-1234799785/",
+    "image_url": null,
+    "published_at": "2026-09-28T19:26:44.000Z"
+  },
+  {
+    "headline": "The Rough-and-Ready Brilliance of Barbara Hammer’s “Nitrate Kisses”",
+    "summary": "Newly restored in 4K, the film feels prescient as groups are once again being scapegoated for public health crises and financial instability.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/the-rough-and-ready-brilliance-of-barbara-hammers-nitrate-kisses/",
+    "image_url": null,
+    "published_at": "2026-09-28T18:25:45.000Z"
+  },
+  {
+    "headline": "Remains of a Roman Temple Discovered in Germany’s Taunus Forest",
+    "summary": "Storm damage revealed an unusual arrangement of stones that comprised part of a previously unknown settlement near the Roman fort.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/previously-unknown-roman-temple-found-in-taunus-forest-germany-1234799684/",
+    "image_url": null,
+    "published_at": "2026-09-28T18:16:28.000Z"
+  },
+  {
+    "headline": "Rare Working Apple-1 Signed by Steve Wozniak Could Fetch $800,000 at Auction",
+    "summary": "Fewer than 75 verified Apple-1 computers are known to survive, according to Bonhams, with even fewer remaining operational.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/market/apple-1-steve-wozniak-steve-jobs-bonhams-auction-1234799731/",
+    "image_url": null,
+    "published_at": "2026-09-28T18:05:56.000Z"
+  },
+  {
+    "headline": "Kenzi Shiokava Did It for the Love of It",
+    "summary": "He modeled what a life in art can amount to without acclaim, celebrity, money, and all the other trappings we tell artists are required.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/kenzi-shiokava-did-it-for-the-love-of-it/",
+    "image_url": null,
+    "published_at": "2026-09-28T17:59:07.000Z"
+  },
+  {
+    "headline": "At Amant, ‘Sentient Earth’ Redirects the Corporate Gaze to Climate Change",
+    "summary": "“I think we all can feel it, we’re a bit over the Anthropocene discussion,” said Tobi Maier, head curator at Amant and lead on its newest show.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/reviews/at-amant-sentient-earth-group-show-1234799728/",
+    "image_url": null,
+    "published_at": "2026-09-28T17:26:50.000Z"
+  },
+  {
+    "headline": "Thomas Kaplan’s 18th Rembrandt is St John on Patmos",
+    "summary": "The owner of the Leiden Collection is revealed to have bought the painting for $18 million at auction at Sotheby’s in December 2025.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/thomas-kaplan-bought-st-john-on-patmos-rembrandt-1234799707/",
+    "image_url": null,
+    "published_at": "2026-09-28T17:04:52.000Z"
+  },
+  {
+    "headline": "Pace Gallery Is Seeking a Tenant for Part of Its New York Headquarters",
+    "summary": "A Pace spokesperson confirmed that the gallery is exploring bringing another tenant into the building, though emphasized that the move would not affect its exhibition spaces.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/market/pace-gallery-chelsea-headquarters-tenant-rental-1234799712/",
+    "image_url": null,
+    "published_at": "2026-09-28T17:00:27.000Z"
+  },
+  {
+    "headline": "‘We Can Literally Be in Two Places at Once’: Vancouver Art Gallery Elevates Eva Respini and Sirish Rao to Co-CEOs",
+    "summary": "Respini will also be chief curator, while Rao will serve as executive director.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/vancouver-art-gallery-eva-respini-sirish-rao-co-ceos-1234799172/",
+    "image_url": null,
+    "published_at": "2026-09-28T17:00:00.000Z"
+  },
+  {
+    "headline": "Ann Temkin to Step Down as MoMA’s Chief Painting and Sculpture Curator After 18 Years",
+    "summary": "She will transition into a newly created position as an adviser to director Christophe Cherix, ahead of MoMA's centennial in 2029.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/ann-temkin-retire-moma-chief-painting-sculpture-curator-1234799704/",
+    "image_url": null,
+    "published_at": "2026-09-28T16:48:21.000Z"
+  },
+  {
+    "headline": "Whitney Museum Union Sets Strike Date Ahead of Major Roy Lichtenstein Show",
+    "summary": "“We’d rather be working and doing our jobs, but our wages are untenable for making ends meet in New York City,” said the union's chairperson.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/whitney-museum-union-sets-strike-date-ahead-of-major-roy-lichtenstein-show/",
+    "image_url": null,
+    "published_at": "2026-09-28T16:24:41.000Z"
+  },
+  {
+    "headline": "A Broomstick in a Man's World",
+    "summary": "In Emily Mae Smith's surreal paintings, a symbol of women’s work becomes a weapon.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/a-broomstick-in-a-mans-world/",
+    "image_url": null,
+    "published_at": "2026-09-28T16:07:27.000Z"
+  },
+  {
+    "headline": "Whistleblowers Say Kennedy Center Leaders Put Off Fixing the Same Problems They Now Blame for Closing the Building",
+    "summary": "Kennedy Center leadership refutes this claim, saying the severity of the problems has only recently come to light.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/kennedy-center-whistleblowers-same-problems-blame-closing-1234799696/",
+    "image_url": null,
+    "published_at": "2026-09-28T15:14:58.000Z"
+  },
+  {
+    "headline": "Janine Antoni’s Taste of Vision Graces the Cover of our Icons Issue",
+    "summary": "The artist talks about her 1999 photograph.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-in-america/interviews/janine-antoni-photograph-mortar-pestle-icons-cover-1234799691/",
+    "image_url": null,
+    "published_at": "2026-09-28T14:44:10.000Z"
+  },
+  {
+    "headline": "Ruby City Presents \"Generative Disruption: Feminist Art from the Collection\"",
+    "summary": "This latest exhibition traces the enduring influence of feminist artistic practice on contemporary art. On view Sept 26 - Aug 29, 2027",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/ruby-city-presents-generative-disruption-feminist-art-from-the-collection/",
+    "image_url": null,
+    "published_at": "2026-09-28T14:42:16.000Z"
+  },
+  {
+    "headline": "Museum of the City of New York Inaugurates New Activism Center",
+    "summary": "Two exhibitions at the Puffin Foundation Center chronicle 250 years of organizing, social movements, and civic engagement in the city.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/museum-of-the-city-of-new-york-inaugurates-new-activism-center/",
+    "image_url": null,
+    "published_at": "2026-09-28T14:31:34.000Z"
+  },
+  {
+    "headline": "Announcing the 2026 Center for Craft Archive Fellows",
+    "summary": "The Center for Craft selected four fellows researching Indigenous artistry, Black stonework, Middle Eastern embroidery and weaving, and craft practices implemented by blind individuals for the 2026 cohort.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/announcing-the-2026-center-for-craft-archive-fellows/",
+    "image_url": null,
+    "published_at": "2026-09-28T14:05:11.000Z"
+  },
+  {
+    "headline": "Arthur Jafa’s Elegy to America",
+    "summary": "Stephanie Wambugu on “I Am Tony” at the New Museum; plus, catch up on last week’s NYC fairs.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/arthur-jafas-elegy-to-america/",
+    "image_url": null,
+    "published_at": "2026-09-28T10:00:15.000Z"
+  },
+  {
     "headline": "“From Monet and Manet to Money”: A Berlin Museum Spotlights the Dealer Who Made Impressionism an International Sensation",
     "summary": "“Cassirer: Breakthrough of Impressionism” is on view at Berlin’s Alte Nationalgalerie.",
     "publisher": "ARTnews",
@@ -1454,149 +1598,5 @@
     "url": "https://hyperallergic.com/staff-at-three-major-museums-vote-to-strike/",
     "image_url": null,
     "published_at": "2026-09-15T21:54:05.000Z"
-  },
-  {
-    "headline": "Met Museum Breaks Ground on New Modern and Contemporary Wing",
-    "summary": "Mexican architect Frida Escobedo joined museum leadership and elected officials to celebrate “la primera piedra,” or “the first stone,” of the forthcoming Tang Wing.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/met-museum-breaks-ground-on-new-modern-and-contemporary-wing/",
-    "image_url": null,
-    "published_at": "2026-09-15T21:06:40.000Z"
-  },
-  {
-    "headline": "10 Art Shows to See in DC This Fall",
-    "summary": "Carlotta Corpron photographs light, Ahn Chang-Hong unmasks Korean history, Black women reimagine Shakespeare, three mid-century New York artists paint by the sea, and more.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/10-art-shows-to-see-in-dc-this-fall/",
-    "image_url": null,
-    "published_at": "2026-09-15T20:48:14.000Z"
-  },
-  {
-    "headline": "Staff at Whitney Museum, Brooklyn Museum, and American Folk Art Museum Authorize Strike",
-    "summary": "“Staff should be able to afford to live in the city they work in,” said one of the workers organized with UAW Local 2110.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/staff-at-whitney-museum-brooklyn-museum-and-american-folk-art-museum-authorize-strike/",
-    "image_url": null,
-    "published_at": "2026-09-15T20:38:44.000Z"
-  },
-  {
-    "headline": "Mildred Howard Enters History Through the Everyday",
-    "summary": "In her first museum survey, the Bay Area artist's vibrant, musical, and poetic world is on display, reflecting her own memory with collective histories in America.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/mildred-howard-enters-history-through-the-everyday/",
-    "image_url": null,
-    "published_at": "2026-09-15T20:24:38.000Z"
-  },
-  {
-    "headline": "Painter William T. Williams Has Stayed Curious on the Canvas for Six Decades",
-    "summary": "William T. Williams has been an influential abstract painter, teacher, and art-world infrastructure builder across his six-decade career.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-in-america/features/william-t-williams-painter-icons-profile-1234798420/",
-    "image_url": null,
-    "published_at": "2026-09-15T20:20:45.000Z"
-  },
-  {
-    "headline": "Brooklyn Museum, American Folk Art Museum, and Whitney Museum Unions Vote in Favor of Strikes",
-    "summary": "The respective unions voted in favor of strike action if they do not receive satisfactory offers on their contracts, Local 2110 UAW announced today.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/brooklyn-museum-american-folk-art-whitney-union-vote-strike-1234798412/",
-    "image_url": null,
-    "published_at": "2026-09-15T20:13:00.000Z"
-  },
-  {
-    "headline": "Three Works of Sacred Art Stolen From Spanish Churches as Authorities Warn of Rise in Art Theft",
-    "summary": "Europol has noticed “a clear and pronounced increase in the number of museum robberies” reported by national authorities.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/sacred-art-stolen-churches-valladolid-spain-1234798413/",
-    "image_url": null,
-    "published_at": "2026-09-15T20:09:48.000Z"
-  },
-  {
-    "headline": "Artadia Names Allison Derusha as New Executive Director",
-    "summary": "The arts fundraiser and strategist succeeds interim executive director Bora Kim and previously held positions at the Guggenheim Museum, American Ballet Theatre, and SculptureCenter.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/artadia-allison-derusha-executive-director-1234798373/",
-    "image_url": null,
-    "published_at": "2026-09-15T19:00:00.000Z"
-  },
-  {
-    "headline": "Joan Mitchell Foundation Publishes Extensive Report on Artist Legacy Stewardship",
-    "summary": "The 80-page resource is available for free download online.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/artist-legacy-report-joan-mitchell-foundation-1234798346/",
-    "image_url": null,
-    "published_at": "2026-09-15T18:35:10.000Z"
-  },
-  {
-    "headline": "Federal Judge Again Rules Trump Cannot Add Name to Kennedy Center",
-    "summary": "\"Simply put, defendants cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress’s blessing,” U.S. District Judge Christopher R. Cooper wrote.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/federal-ruling-september-2025-trump-name-kennedy-center-1234798390/",
-    "image_url": null,
-    "published_at": "2026-09-15T18:29:28.000Z"
-  },
-  {
-    "headline": "Why Would the Art World Deceive You?",
-    "summary": "We took the viral Elizabeth Holmes-Nathan Fielder meme and gave it the ol' Hyperallergic spin.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/why-would-the-art-world-deceive-you/",
-    "image_url": null,
-    "published_at": "2026-09-15T18:02:57.000Z"
-  },
-  {
-    "headline": "Painter Lucy Bull Joins Hauser & Wirth as Her Market Continues Its Ascent",
-    "summary": "The artist, a star of the \"ultra-contemporary\" market category, will remain represented by David Kordansky.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/lucy-bull-hauser-and-wirth-representation-1234798169/",
-    "image_url": null,
-    "published_at": "2026-09-15T18:00:00.000Z"
-  },
-  {
-    "headline": "Fresh off Knicks Championship, NBA All-Star Karl-Anthony Towns to Curate a Sotheby’s Contemporary Art Sale with Lifestyle Mogul Jordyn Woods",
-    "summary": "The sale features all-stars like George Condo, Helen Frankenthaler, and Roy Lichtenstein.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/market/nba-knicks-karl-anthony-towns-jordyn-woods-sothebys-1234798353/",
-    "image_url": null,
-    "published_at": "2026-09-15T17:28:32.000Z"
-  },
-  {
-    "headline": "Chelsea Building Housing Two Art Galleries Will Go to Auction, But the Dealers Plan to Stay Put",
-    "summary": "Miles McEnery Gallery and Yancey Richardson have both had galleries in the building for years.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/market/chelsea-building-housing-art-galleries-auction-dealers-stay-1234798371/",
-    "image_url": null,
-    "published_at": "2026-09-15T16:59:59.000Z"
-  },
-  {
-    "headline": "Newsmakers: Studio Ma’s Christiana Moss on Building Museums for a Hotter, More Expensive World",
-    "summary": "\"I think connecting more to nature and the interplay of art and nature is becoming a theme of the work.\"",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/studio-ma-museum-of-the-west-sustainable-architecture-1234796254/",
-    "image_url": null,
-    "published_at": "2026-09-15T16:51:16.000Z"
-  },
-  {
-    "headline": "Barbara Hammer Gets Her Due",
-    "summary": "A tribute for the late queer artist, 15 years of BlackStar Film Festival in Philly, and what two American doctors learned in Gaza.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/barbara-hammer-gets-her-due/",
-    "image_url": null,
-    "published_at": "2026-09-15T16:00:01.000Z"
-  },
-  {
-    "headline": "The Many Islands of “America”",
-    "summary": "A show on art from Cuba, Guam, the Philippines, Puerto Rico, and their diasporas touches on themes of colonization, enslavement, migration, and more.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/the-many-islands-of-america/",
-    "image_url": null,
-    "published_at": "2026-09-15T15:30:50.000Z"
-  },
-  {
-    "headline": "This October, Experience Refract: The Seattle Glass Experience",
-    "summary": "Seattle’s glass festival returns with milestone anniversaries, fresh art, parties, demos, exhibits, and open studios with the vibrant theme Year of Celebration.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/this-october-experience-refract-the-seattle-glass-experience/",
-    "image_url": null,
-    "published_at": "2026-09-15T15:18:05.000Z"
   }
 ]

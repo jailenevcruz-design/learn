@@ -1,19 +1,227 @@
 [
   {
-    "headline": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait",
-    "summary": "Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions.",
+    "headline": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+    "summary": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+    "image_url": null,
+    "published_at": "2026-09-28T19:37:50.000Z"
+  },
+  {
+    "headline": "IRS hires Joseph Velli to help administer Trump accounts",
+    "summary": "Velli previously served on the boards of Paychex, Cognizant and Computershare.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/irs-trump-accounts-joseph-velli.html",
+    "image_url": null,
+    "published_at": "2026-09-28T19:30:50.000Z"
+  },
+  {
+    "headline": "Treasury yields rise as march to multiyear highs continues",
+    "summary": "Treasury yields edged higher on Monday as investors look ahead to fresh economic data releases this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
+    "image_url": null,
+    "published_at": "2026-09-28T19:29:22.000Z"
+  },
+  {
+    "headline": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
+    "summary": "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales, and economic activity",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
+    "image_url": null,
+    "published_at": "2026-09-28T19:27:48.000Z"
+  },
+  {
+    "headline": "Oil prices off highs after reports Saudi pipeline ramping back up",
+    "summary": "The Saudis shutdown the pipeline earlier this month after it sustained damage in a drone strike launched form Iraq.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
     "image_url": null,
-    "published_at": "2026-09-28T04:16:27.000Z"
+    "published_at": "2026-09-28T19:12:45.000Z"
   },
   {
-    "headline": "SpaceX prepares to send Starship rocket to orbit for first time",
-    "summary": "Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday.",
+    "headline": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+    "summary": "The New York City Council issued a subpoena to Musk, requiring that he or another representative of SpaceXAI testify in an investigation concerning AI safety.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
+    "image_url": null,
+    "published_at": "2026-09-28T19:01:56.000Z"
+  },
+  {
+    "headline": "Supreme Court Justice Alito will not participate in big climate change case next week",
+    "summary": "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
+    "image_url": null,
+    "published_at": "2026-09-28T18:58:47.000Z"
+  },
+  {
+    "headline": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+    "summary": "Desai will lead the new Meta Enterprise Platform unit and report to CEO Mark Zuckerberg.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
+    "image_url": null,
+    "published_at": "2026-09-28T18:54:55.000Z"
+  },
+  {
+    "headline": "What the market needs to branch out beyond AI stocks. Plus, a win for CrowdStrike",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/what-the-market-needs-to-branch-out-beyond-ai-stocks-plus-a-win-for-crowdstrike-.html",
+    "image_url": null,
+    "published_at": "2026-09-28T18:54:06.000Z"
+  },
+  {
+    "headline": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+    "summary": "Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+    "image_url": null,
+    "published_at": "2026-09-28T18:47:21.000Z"
+  },
+  {
+    "headline": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
+    "summary": "The judge said FEMA never explained how the election changes it wanted were \"tied to the goal of shoring up vulnerabilities to terrorist attacks.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
+    "image_url": null,
+    "published_at": "2026-09-28T18:41:51.000Z"
+  },
+  {
+    "headline": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
+    "summary": "The company said Sonnet 5.5 doesn't advance the frontier, but that it is better at coding and knowledge work tasks than its predecessor.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
+    "image_url": null,
+    "published_at": "2026-09-28T18:00:06.000Z"
+  },
+  {
+    "headline": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+    "summary": "Almost half of the stocks in the S&P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
+    "image_url": null,
+    "published_at": "2026-09-28T17:53:31.000Z"
+  },
+  {
+    "headline": "A key test looms for the AI trade this week. Here's how Mike Khouw is trading it",
+    "summary": "Micron reports after the bell Wednesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html",
+    "image_url": null,
+    "published_at": "2026-09-28T17:48:15.000Z"
+  },
+  {
+    "headline": "Senate tees up college sports bill aimed at regulating NIL deals",
+    "summary": "The Senate is due to vote Monday on the bill, which would create a national framework for name, image and likeness deals in college athletics.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
+    "image_url": null,
+    "published_at": "2026-09-28T17:17:43.000Z"
+  },
+  {
+    "headline": "The Trump administration weakens fuel efficiency standards for new cars",
+    "summary": "The Trump administration says easing these standards will make cars more affordable. Critics say it's not so simple and could be costly for the environment.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback",
+    "image_url": null,
+    "published_at": "2026-09-28T16:07:15.000Z"
+  },
+  {
+    "headline": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
+    "summary": "Former Disney CEO Bob Chapek was ousted from his role as CEO in late 2022, less than three years after taking the post, and replaced by Iger.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
+    "image_url": null,
+    "published_at": "2026-09-28T16:02:17.000Z"
+  },
+  {
+    "headline": "SpaceX launches its massive Starship rocket into orbit for the first time",
+    "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
     "image_url": null,
-    "published_at": "2026-09-28T04:12:20.000Z"
+    "published_at": "2026-09-28T16:01:50.000Z"
+  },
+  {
+    "headline": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
+    "summary": "U.K. counterterrorism police are understood to be investigating a potential link with Iran after an alleged bomb threat against an air base hosting U.S. forces.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-09-28T15:04:31.000Z"
+  },
+  {
+    "headline": "Nvidia share buyback plan gets $150 billion boost",
+    "summary": "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+    "image_url": null,
+    "published_at": "2026-09-28T14:46:36.000Z"
+  },
+  {
+    "headline": "New grads say employers set the bar too high for entry-level roles: 'No job is willing to give you that first experience'",
+    "summary": "77% of new grads believe businesses call for too much experience when hiring for entry-level jobs, shutting them out of an increasingly competitive market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/new-grads-entry-level-job-experience.html",
+    "image_url": null,
+    "published_at": "2026-09-28T14:26:51.000Z"
+  },
+  {
+    "headline": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+    "summary": "Zervos is joining the Treasury Department as counselor to Bessent, adding a prominent markets voice to the administration's economic policy team.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
+    "image_url": null,
+    "published_at": "2026-09-28T14:14:45.000Z"
+  },
+  {
+    "headline": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+    "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+    "image_url": null,
+    "published_at": "2026-09-28T14:03:43.000Z"
+  },
+  {
+    "headline": "Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+    "summary": "Sen. Elizabeth Warren is asking the leaders of Meta, Google, Amazon and Microsoft about AI and data center subsidies authorized by GOP legislation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
+    "image_url": null,
+    "published_at": "2026-09-28T13:24:39.000Z"
+  },
+  {
+    "headline": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
+    "summary": "Analysts warn an export ban could backfire, pushing up global diesel prices and potentially triggering higher U.S. gasoline prices as refiners adjust.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html",
+    "image_url": null,
+    "published_at": "2026-09-28T13:09:26.000Z"
+  },
+  {
+    "headline": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
+    "summary": "What we know — and still don't — about the suspected terror plot near a U.K. air base. Trump rejects Iran's offer to pause fighting. And CNN prepares for new owners with ties to Trump.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
+    "image_url": null,
+    "published_at": "2026-09-28T12:15:05.000Z"
+  },
+  {
+    "headline": "Oura puts a ring on Wall Street with one of this year's biggest IPOs",
+    "summary": "The leading smart ring manufacturer is betting its trove of health data will be a hit with Wall Street.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/28/nx-s1-5968603/oura-puts-a-ring-on-wall-street-with-one-of-this-years-biggest-ipos",
+    "image_url": null,
+    "published_at": "2026-09-28T08:42:38.000Z"
+  },
+  {
+    "headline": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+    "summary": "The lists included U.S. imports of toys, sports equipment and Christmas decorations, while U.S. farm products appeared on the list of Chinese imports.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+    "image_url": null,
+    "published_at": "2026-09-28T08:31:33.000Z"
   },
   {
     "headline": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
@@ -104,14 +312,6 @@
     "published_at": "2026-09-27T15:22:03.000Z"
   },
   {
-    "headline": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-    "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-    "image_url": null,
-    "published_at": "2026-09-27T14:33:22.000Z"
-  },
-  {
     "headline": "Everyone is racing to create an AI device. Meta thinks it has one",
     "summary": "Tech companies are betting that people will connect with AI using something other than smartphones. Meta is going all-in on glasses, after launching its new AI agent Muse.",
     "publisher": "NPR",
@@ -126,6 +326,14 @@
     "url": "https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
     "image_url": null,
     "published_at": "2026-09-27T11:33:15.000Z"
+  },
+  {
+    "headline": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+    "summary": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+    "image_url": null,
+    "published_at": "2026-09-27T05:00:02.000Z"
   },
   {
     "headline": "Boeing flags 737 Max software glitch affecting some automated approach functions",
@@ -1390,213 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html",
     "image_url": null,
     "published_at": "2026-09-23T09:22:51.000Z"
-  },
-  {
-    "headline": "DOJ defends White House media ban, urges court to reject lawsuit",
-    "summary": "The Department of Justice defended President Trump's recent media ban, arguing that reporting by CNN, MS Now and Politico on a wide range of issues jeopardized national security and spread falsehoods.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
-    "image_url": null,
-    "published_at": "2026-09-23T09:06:47.000Z"
-  },
-  {
-    "headline": "Major news outlets banned by Trump will have their day in court",
-    "summary": "CNN, MS NOW, and Politico are asking a federal judge to hold the president in check for what they say is a violation of their Constitutional rights simply because he doesn't like how they cover him.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
-    "image_url": null,
-    "published_at": "2026-09-23T09:01:00.000Z"
-  },
-  {
-    "headline": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms",
-    "summary": "Critics say a slowdown of AI development among the largest companies could consolidate the power of frontier labs, just as many others are trying to catch up.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
-    "image_url": null,
-    "published_at": "2026-09-23T09:00:00.000Z"
-  },
-  {
-    "headline": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
-    "summary": "AI is becoming increasingly adept at tasks usually given to junior employees. Some fear the impact it might have on entry-level hiring.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
-    "image_url": null,
-    "published_at": "2026-09-23T08:42:34.000Z"
-  },
-  {
-    "headline": "Soybeans, planes and rare earths: What they say about fragile U.S.-China trade truce",
-    "summary": "Uneven delivery on soybean, plane and rare earths commitments points to a fragile U.S.-China trade truce, with both sides upholding a careful détente.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html",
-    "image_url": null,
-    "published_at": "2026-09-23T08:25:41.000Z"
-  },
-  {
-    "headline": "Fed's Collins warns inflation could be 'notably' higher after backing rate hike",
-    "summary": "There is \"an increased likelihood\" of inflation staying \"notably\" above the Federal Reserve's 2% target, Boston Federal Reserve President Susan Collins said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
-    "image_url": null,
-    "published_at": "2026-09-23T07:33:14.000Z"
-  },
-  {
-    "headline": "In photos: Key takeaways from day one of the UN General Assembly",
-    "summary": "World leaders descended on New York for the annual United Nations General Assembly, where the agenda covers topics from wars to the risks posed by AI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
-    "image_url": null,
-    "published_at": "2026-09-23T03:13:02.000Z"
-  },
-  {
-    "headline": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
-    "summary": "The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
-    "image_url": null,
-    "published_at": "2026-09-23T00:58:16.000Z"
-  },
-  {
-    "headline": "Here's who we know is going to the Trump-Xi dinner so far",
-    "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-    "image_url": null,
-    "published_at": "2026-09-22T23:43:43.000Z"
-  },
-  {
-    "headline": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
-    "summary": "Qantas plans to start selling tickets for its first New York to Sydney nonstop flight.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
-    "image_url": null,
-    "published_at": "2026-09-22T23:00:01.000Z"
-  },
-  {
-    "headline": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
-    "summary": "The conglomerate built by Warren Buffett and led today by Greg Abel holds a sizable stake in Miami-based homebuilder Lennar.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
-    "image_url": null,
-    "published_at": "2026-09-22T22:35:50.000Z"
-  },
-  {
-    "headline": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-    "summary": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-    "image_url": null,
-    "published_at": "2026-09-22T22:03:33.000Z"
-  },
-  {
-    "headline": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
-    "summary": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
-    "image_url": null,
-    "published_at": "2026-09-22T21:09:17.000Z"
-  },
-  {
-    "headline": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
-    "summary": "Vice President JD Vance's White House Task Force to Eliminate Fraud estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
-    "image_url": null,
-    "published_at": "2026-09-22T21:07:21.000Z"
-  },
-  {
-    "headline": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
-    "summary": "Cisco stock hit a record over the summer, but Piper Sandler analysts expressed concerns that growth is peaking in the industry.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
-    "image_url": null,
-    "published_at": "2026-09-22T20:49:25.000Z"
-  },
-  {
-    "headline": "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
-    "summary": "State and federal regulators are rushing to fill the void after comprehensive crypto rules failed to clear the Senate.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
-    "image_url": null,
-    "published_at": "2026-09-22T20:46:52.000Z"
-  },
-  {
-    "headline": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
-    "summary": "The bullish sentiment comes despite calls to slow down AI model development and rekindled investor enthusiasm for a competing part of the AI chip ecosystem.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/a-top-chip-stock-analyst-sees-big-things-for-nvidia-broadcom-how-his-case-aligns-with-ours.html",
-    "image_url": null,
-    "published_at": "2026-09-22T20:43:48.000Z"
-  },
-  {
-    "headline": "Lawmakers float gas-tax break, commuter deduction to ease pressure of high prices at the pump",
-    "summary": "With affordability ranking as a major issue ahead of the Nov. 3 midterm elections, lawmakers are introducing bills to reduce the cost of gasoline and diesel.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/gas-tax-holiday-commuter-deduction-fuel-prices.html",
-    "image_url": null,
-    "published_at": "2026-09-22T20:27:05.000Z"
-  },
-  {
-    "headline": "Oil prices fall for fifth day after Trump says U.S. met with Iran for three hours",
-    "summary": "Oil prices reversed early gains on Tuesday amid optimism that prospects for a diplomatic solution to the U.S.-Iran war are improving.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-    "image_url": null,
-    "published_at": "2026-09-22T20:24:20.000Z"
-  },
-  {
-    "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-    "summary": "OpenAI introduced GPT-6 Sol and GPT-6 Luna. Anthropic unveiled Claude Opus 5.5.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-    "image_url": null,
-    "published_at": "2026-09-22T19:43:21.000Z"
-  },
-  {
-    "headline": "Trump slams Iran and Cuba, defends AI growth in boastful UN speech",
-    "summary": "The U.S. \"will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere,\" Trump told the UN leaders.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
-    "image_url": null,
-    "published_at": "2026-09-22T19:00:39.000Z"
-  },
-  {
-    "headline": "U.S. strikes Greenland deal at UN to expand military presence at Arctic outposts",
-    "summary": "Trump said the agreement with Greenland and Denmark would give the U.S. \"permanent control over security\" in the Danish island territory.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
-    "image_url": null,
-    "published_at": "2026-09-22T18:51:44.000Z"
-  },
-  {
-    "headline": "Peloton is revamping its treadmills with new features in the next phase of its turnaround",
-    "summary": "With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html",
-    "image_url": null,
-    "published_at": "2026-09-22T18:49:14.000Z"
-  },
-  {
-    "headline": "No new stock highs, no problem: Options traders bet they're coming in these names",
-    "summary": "Options activity shows traders anticipate fresh highs are around the corner for a handful of names.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/no-new-stock-highs-no-problem-options-traders-bet-theyre-coming-in-these-names.html",
-    "image_url": null,
-    "published_at": "2026-09-22T18:09:32.000Z"
-  },
-  {
-    "headline": "Autonomous trucking company Aurora looks to accelerate toward profitability",
-    "summary": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
-    "image_url": null,
-    "published_at": "2026-09-22T17:57:36.000Z"
-  },
-  {
-    "headline": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
-    "summary": "A curious dynamic is happening in shares of Nvidia ahead of two potential catalysts this month.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html",
-    "image_url": null,
-    "published_at": "2026-09-22T17:36:28.000Z"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "headline": "5 tips for parents worried about their kids' screen time and online safety",
+    "summary": "Parental monitoring can help protect kids from the harms of social media and excess screen time. Screen time boundaries plus early and open conversations about online habits can make kids less vulnerable.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/28/nx-s1-5965849/screens-teens-parents-social-media-safety",
+    "image_url": null,
+    "published_at": "2026-09-28T09:00:00.000Z"
+  },
+  {
     "headline": "Photos: This may be the most inspirational night school on Earth",
     "summary": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.",
     "publisher": "NPR",
@@ -24,18 +32,18 @@
     "published_at": "2026-09-26T11:31:18.000Z"
   },
   {
-    "headline": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
-    "summary": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
-    "image_url": null,
-    "published_at": "2026-09-26T09:00:00.000Z"
-  },
-  {
     "headline": "The U.S. has more thalidomide survivors than the government admits",
     "summary": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+    "image_url": null,
+    "published_at": "2026-09-26T09:00:00.000Z"
+  },
+  {
+    "headline": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+    "summary": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
     "image_url": null,
     "published_at": "2026-09-26T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
     "image_url": null,
     "published_at": "2026-07-26T09:00:00.000Z"
-  },
-  {
-    "headline": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
-    "summary": "Back in the '90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
-    "image_url": null,
-    "published_at": "2026-07-25T12:05:34.000Z"
   }
 ]
