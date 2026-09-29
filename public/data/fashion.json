@@ -1,5 +1,309 @@
 [
   {
+    "headline": "Maison Margiela Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maison-martin-margiela",
+    "image_url": null,
+    "published_at": "2026-09-29T16:36:09.000Z"
+  },
+  {
+    "headline": "Burc Akyol Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/burc-akyol",
+    "image_url": null,
+    "published_at": "2026-09-29T16:36:09.000Z"
+  },
+  {
+    "headline": "Petar Petrov Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/petar-petrov",
+    "image_url": null,
+    "published_at": "2026-09-29T16:36:09.000Z"
+  },
+  {
+    "headline": "Christian Dior Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/christian-dior",
+    "image_url": null,
+    "published_at": "2026-09-29T16:36:09.000Z"
+  },
+  {
+    "headline": "Mame Kurogouchi Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mame-kurogouchi",
+    "image_url": null,
+    "published_at": "2026-09-29T16:36:09.000Z"
+  },
+  {
+    "headline": "Torishéju Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/torisheju",
+    "image_url": null,
+    "published_at": "2026-09-29T16:36:09.000Z"
+  },
+  {
+    "headline": "Marie Adam-Leenaerdt Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marie-adam-leenaerdt",
+    "image_url": null,
+    "published_at": "2026-09-29T16:36:09.000Z"
+  },
+  {
+    "headline": "What the Viral Obsession Top Says About Chasing Trends Today",
+    "summary": "When film costumes inspire fashion trends, what is lost from screen to real life?",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/obsession-costume-princess-polly-trends",
+    "image_url": null,
+    "published_at": "2026-09-29T16:29:24.000Z"
+  },
+  {
+    "headline": "Can Hoka be a $100 Million Brand for Academy?",
+    "summary": "Jefferies analyst Jonathan Matuszewski says the Hoka brand, which launches at Academy Sports + Outdoors later this week, could become a $100 million plus brand for the outdoor retailer by 2030.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/hoka-100-million-plus-brand-academy-sports-outdoors-by-2030-1239286721/",
+    "image_url": null,
+    "published_at": "2026-09-29T15:57:51.000Z"
+  },
+  {
+    "headline": "Asics Just Released a Rugged New Lifestyle Shoe for ‘Everyday Exploration’ and It’s Available Now",
+    "summary": "The all-new Gel-Transcend FJ references archive Asics hiking and walking shoes from the 1990s.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/sneaker-news/asics-gel-transcend-fj-everyday-sneaker-available-1239287655/",
+    "image_url": null,
+    "published_at": "2026-09-29T15:48:32.000Z"
+  },
+  {
+    "headline": "Shai Gilgeous-Alexander Debuts a New Virgil Abloh x Nike Air Force 1",
+    "summary": "The late designer's take on the classic sneaker may get its first release since 2002.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/sneaker-news/virgil-abloh-nike-air-force-1-low-orange-reveal-1239287419/",
+    "image_url": null,
+    "published_at": "2026-09-29T15:44:20.000Z"
+  },
+  {
+    "headline": "Fresh-Faced Silver Surfers Walk Jonathan Anderson’s Spring 2027 Dior Runway",
+    "summary": "Vogue goes backstage for Dior’s spring show.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/beauty-jonathan-andersons-spring-2027-dior-runway",
+    "image_url": null,
+    "published_at": "2026-09-29T15:37:53.000Z"
+  },
+  {
+    "headline": "The Best Behind-the-Scenes Photos From the Spring 2027 Shows in Paris",
+    "summary": "Acielle Tanbetova photographs the best backstage moments from the spring 2027 shows in Paris.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/the-best-behind-the-scenes-photos-from-the-spring-2027-shows-in-paris",
+    "image_url": null,
+    "published_at": "2026-09-29T15:35:56.000Z"
+  },
+  {
+    "headline": "Mame Kurogouchi Spring 2027: On Repeat",
+    "summary": "How students make school uniforms inspired Maiko Kurogouchi's lineup of subtly sophisticated tailoring that played on sheer fabrics, intricate jacquards and generous proportions.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/runway/spring-2027/paris/mame-kurogouchi/review/",
+    "image_url": null,
+    "published_at": "2026-09-29T15:29:28.000Z"
+  },
+  {
+    "headline": "Brooks Makes a Major Leap Into Brick-and-mortar With Boston Play",
+    "summary": "Brooks Running will open its first-ever brick-and-mortar store in Boston at 400 Newbury St.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/brooks-running-first-ever-store-boston-400-newbury-st-1239285795/",
+    "image_url": null,
+    "published_at": "2026-09-29T15:16:04.000Z"
+  },
+  {
+    "headline": "How Women Over 50 Brought Power and Purpose to Le Défilé L’Oréal Paris Runway Show",
+    "summary": "Viola Davis, Heidi Klum and more strut their stuff in sparkles on Monday night.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/le-defile-loreal-paris-runway-show-2026-women-over-50-1239287147/",
+    "image_url": null,
+    "published_at": "2026-09-29T15:12:30.000Z"
+  },
+  {
+    "headline": "A New Book Celebrates the Stylish History of Bolo Ties",
+    "summary": "It’s been a big year for western fashion—and a new Rizzoli title features over 500 unique bolo ties to meet the moment.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/bolo-tie-history-rizzoli-book-william-matthews",
+    "image_url": null,
+    "published_at": "2026-09-29T15:06:35.000Z"
+  },
+  {
+    "headline": "The Vogue Business People Moves Tracker",
+    "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+    "image_url": null,
+    "published_at": "2026-09-29T15:00:43.000Z"
+  },
+  {
+    "headline": "The Vogue Business Funding Tracker",
+    "summary": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
+    "image_url": null,
+    "published_at": "2026-09-29T14:59:46.000Z"
+  },
+  {
+    "headline": "The Best Street Style Photos From the Spring 2027 Shows in Paris",
+    "summary": "Phil Oh photographs the best dressed guests at the spring 2027 shows in Paris.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-paris",
+    "image_url": null,
+    "published_at": "2026-09-29T14:51:19.000Z"
+  },
+  {
+    "headline": "Kendall Jenner and Jacob Elordi Take Their Coordinated Couple Style on the Road",
+    "summary": "Kendall Jenner and Jacob Elordi left Milan for Paris, where they continued to show off their in-sync couple style.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/kendall-jenner-jacob-elordi-couple-style-paris-fashion-week-2026-09-29",
+    "image_url": null,
+    "published_at": "2026-09-29T14:45:13.000Z"
+  },
+  {
+    "headline": "Demi Moore and Tallulah Willis Pile on the Patterns in Mother-daughter Thom Browne Coords",
+    "summary": "The pair attended Step Up's annual Inspiration Awards on Friday.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/demi-moore-tallulah-willis-thom-browne-step-up-inspo-awards-1239286744/",
+    "image_url": null,
+    "published_at": "2026-09-29T14:35:01.000Z"
+  },
+  {
+    "headline": "This Mega Yacht Is Surfing the Wellness Wave, Too",
+    "summary": "Biohacking and antiaging clinic The Longevity Suite unveiled a collaboration with historic Italian luxury shipyard Benetti, bringing its mission on the 230-foot yacht “Clear Waves.”",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/wellness/the-longevity-suite-benetti-luxury-yacht-wellness-design-1239286853/",
+    "image_url": null,
+    "published_at": "2026-09-29T14:31:58.000Z"
+  },
+  {
+    "headline": "Colman Domingo Fronts Away’s Campaign for Series 3 and Signature Bag Collections",
+    "summary": "The Oscar-nominated and Emmy Award-winning actor was tapped for the new travel essentials launch.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/business-features/colman-domingo-away-campaign-series-3-signature-bags-launch-1239285765/",
+    "image_url": null,
+    "published_at": "2026-09-29T14:14:50.000Z"
+  },
+  {
+    "headline": "Tiffany Draws a Glittering Crowd to Jean Schlumberger Conservation Project in Paris",
+    "summary": "Greta Lee, Anya Taylor-Joy, Amanda Seyfried, Adria Arjona, Diane Kruger, Camille Cottin and more gathered at the Musée des Arts Décoratifs.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/eye/parties/tiffany-co-schlumberger-dinner-paris-arts-decoratifs-1239286339/",
+    "image_url": null,
+    "published_at": "2026-09-29T14:07:57.000Z"
+  },
+  {
+    "headline": "H&M, Inditex, Bestseller and Adidas Back Coalition",
+    "summary": "After campaigning for extended producer responsibility fees to follow the flow of used clothing for five years, The Or Foundation — and its new brand partners — will put its theory to the test.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/handm-inditex-bestseller-and-adidas-back-coalition",
+    "image_url": null,
+    "published_at": "2026-09-29T14:00:00.000Z"
+  },
+  {
+    "headline": "An Exclusive Look Inside Dolly Parton’s New Museum in Nashville",
+    "summary": "Dolly’s Life of Many Colors Museum, on the third floor of her SongTeller Hotel in downtown Nashville, features the largest exhibition of Dolly Parton’s personal effects anywhere—including the dress she wore to marry Carl Dean in 1966. Here, Rebecca Seaver, the museum’s executive director—and Parton’s niece—takes Vogue…",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/dolly-partons-life-of-many-colors-museum-first-look",
+    "image_url": null,
+    "published_at": "2026-09-29T14:00:00.000Z"
+  },
+  {
+    "headline": "Inside Dove Cameron and Damiano David’s Timeless Wedding at a Medieval Tuscan Estate",
+    "summary": "Exclusive: Dove Cameron wore a custom Valentino gown with a star-embroidered veil to marry former Måneskin frontman Damiano David in the hilltop village resort of Castiglion del Bosco in Tuscany. See all the photos here.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/dove-cameron-and-damiano-david-wedding",
+    "image_url": null,
+    "published_at": "2026-09-29T14:00:00.000Z"
+  },
+  {
+    "headline": "Julia Jacklin on Her New Album ‘The Gem,’ Early 2000s Pop-Rock, and the Boots That Changed Her Life",
+    "summary": "While making her fourth album with friends in her home city of Melbourne, Jacklin realized: “You can feel freedom in love.”",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/julia-jacklin-the-gem-interview",
+    "image_url": null,
+    "published_at": "2026-09-29T14:00:00.000Z"
+  },
+  {
+    "headline": "In Honor of Tiffany & Co.‘s Partnership With Musée des Arts Décoratifs to Preserve Jean Schlumberger’s Legacy, Take a Look at The Designer’s Work in Vogue",
+    "summary": "A look at the storied jeweler Jean Schlumberger's work in Vogue, to honor Tiffany & Co.'s new partrtnership to preserve his legacy.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/tiffany-co-jean-schlumberger-legacy",
+    "image_url": null,
+    "published_at": "2026-09-29T13:44:14.000Z"
+  },
+  {
+    "headline": "All Hail the Chicory—The Most Wonderful Thing You Can Put On Your Plate",
+    "summary": "The chicory has a flavor so complex, that it seems immune to further seasoning, plenty of vitamin C, and the tendency, due to its bitterness, to make the body release the now-well-known satiety-signaling hormone, GLP-1.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/chicory",
+    "image_url": null,
+    "published_at": "2026-09-29T12:00:00.000Z"
+  },
+  {
+    "headline": "Hernan Diaz Knows Where to Get the Best Cod in Stockholm",
+    "summary": "Diaz's latest, 'Ply,' comes out today. Here he offers his guide to Stockholm, the city in which he spent much of his childhood.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/hernan-diaz-guide-to-stockholm",
+    "image_url": null,
+    "published_at": "2026-09-29T12:00:00.000Z"
+  },
+  {
+    "headline": "Vogue100 Hosted an Intimate Evening at Da Niko—Bvlgari Hotel Milano’s Elegant New Dining Destination",
+    "summary": "A landmark-filled week in the Capitale della Moda wrapped with a night of family-style dishes and fresh-off-the-runway fashion.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/vogue100-milan-fashion-week-da-niko-bvlgari-hotel",
+    "image_url": null,
+    "published_at": "2026-09-29T11:35:23.000Z"
+  },
+  {
+    "headline": "How Milk Is Actually More Hydrating Than Water",
+    "summary": "According to a recent scientific study, milk scores higher on the hydration index than water. Here, experts break down why and how to incorporate it into your meals.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/milk-hydrating",
+    "image_url": null,
+    "published_at": "2026-09-29T11:00:00.000Z"
+  },
+  {
+    "headline": "On the Podcast: Vogue Editors Share Highlights From Milan Fashion Week",
+    "summary": "Nicole Phelps and Luke Leitch have just touched down in the City of Light for Paris Fashion Week—but before heading off to the shows, they sat down to talk about the highlights that emerged during Milan Fashion Week on “The Run-Through.”",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/on-the-podcast-vogue-editors-share-highlights-from-milan-fashion-week",
+    "image_url": null,
+    "published_at": "2026-09-29T10:30:00.000Z"
+  },
+  {
+    "headline": "The 17 Best Airbnbs in Oaxaca Have Plenty of Rustic Appeal",
+    "summary": "For an alternative to Mexico City, stay in one of the best Airbnbs in Oaxaca—from cozy studios to open-air villas, these are the best places to book.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/best-airbnbs-in-oaxaca",
+    "image_url": null,
+    "published_at": "2026-09-29T10:00:00.000Z"
+  },
+  {
+    "headline": "The Best Early Prime Day Deals 2026, According to Vogue Editors",
+    "summary": "Prime Day returns on October 6 and 7—her are the best early Prime Day deals 2026, and what Vogue editors will actually be shopping.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/best-prime-day-deals-editor-picks-09-29-2026",
+    "image_url": null,
+    "published_at": "2026-09-29T10:00:00.000Z"
+  },
+  {
+    "headline": "Rocky Mountain High: Hiking With Moncler Grenoble and Aspen’s Legendary Hotel Jerome",
+    "summary": "A new partnership between Aspen's premier hotel and the high-performance alpine-wear brand is a perfect meeting of the minds (at 8,000 feet)",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/hotel-jerome-treks-by-moncler-grenoble",
+    "image_url": null,
+    "published_at": "2026-09-29T10:00:00.000Z"
+  },
+  {
     "headline": "Juan Vidal Spain Spring 2027",
     "summary": "",
     "publisher": "Vogue",
@@ -1264,14 +1568,6 @@
     "published_at": "2026-09-25T13:13:31.000Z"
   },
   {
-    "headline": "The Vogue Business People Moves Tracker",
-    "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-    "image_url": null,
-    "published_at": "2026-09-25T12:59:34.000Z"
-  },
-  {
     "headline": "Dove Cameron and Damiano David Are Married! See the First Photos Here",
     "summary": "The musicians wed in a civil ceremony in the Tuscan town of Montalcino, wearing coordinating suits.",
     "publisher": "Vogue",
@@ -1302,301 +1598,5 @@
     "url": "https://www.vogue.com/article/best-celebrity-outfits",
     "image_url": null,
     "published_at": "2026-09-25T10:00:00.000Z"
-  },
-  {
-    "headline": "How ‘Primetime’ Reeled In Merritt Wever",
-    "summary": "“There’s much to be said for watching a film and not having seen anything like it before,” Wever says of “Primetime,” her new film starring Robert Pattinson and directed by Lance Oppenheim.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/merritt-wever-primetime-interview",
-    "image_url": null,
-    "published_at": "2026-09-25T10:00:00.000Z"
-  },
-  {
-    "headline": "The Vogue Business Beauty Trend Tracker",
-    "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-    "image_url": null,
-    "published_at": "2026-09-25T09:30:00.000Z"
-  },
-  {
-    "headline": "How Vaseline Became Fluent in Internet Speak",
-    "summary": "Two programs, Vaseline Verified and Vaseline Originals, have used viral product hacks and consumer ideas for innovation to turn the humble household product into a viral one.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-vaseline-became-fluent-in-internet-speak",
-    "image_url": null,
-    "published_at": "2026-09-25T09:30:00.000Z"
-  },
-  {
-    "headline": "Brioni Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/brioni",
-    "image_url": null,
-    "published_at": "2026-09-25T07:05:08.000Z"
-  },
-  {
-    "headline": "Emporio Armani Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/emporio-armani",
-    "image_url": null,
-    "published_at": "2026-09-25T07:05:08.000Z"
-  },
-  {
-    "headline": "Greta Constantine Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/greta-constantine",
-    "image_url": null,
-    "published_at": "2026-09-25T07:05:08.000Z"
-  },
-  {
-    "headline": "Gabe Gordon Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gabe-gordon",
-    "image_url": null,
-    "published_at": "2026-09-25T07:05:08.000Z"
-  },
-  {
-    "headline": "Alberta Ferretti Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alberta-ferretti",
-    "image_url": null,
-    "published_at": "2026-09-25T07:05:08.000Z"
-  },
-  {
-    "headline": "Roberto Cavalli Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/roberto-cavalli",
-    "image_url": null,
-    "published_at": "2026-09-25T07:05:08.000Z"
-  },
-  {
-    "headline": "Could Cardi B Win Best Hair This Fashion Month?",
-    "summary": "See all looks she styled during the spring 2027 runway season.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/cardi-b-fashion-week-hair-1239261762/",
-    "image_url": null,
-    "published_at": "2026-09-25T05:30:00.000Z"
-  },
-  {
-    "headline": "The Scoop With Nikki Campbell and Sophie Coote: On SIR.’s First Solo Paris Showroom",
-    "summary": "This week’s guests are Nikki Campbell and Sophie Coote, who, in 2014, co-founded the contemporary womenswear brand SIR. after seeing a gap in the market for minimalist separates, intimates, and ready-to-wear (which make up the acronym SIR.!)",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-scoop-with-nikki-campbell-and-sophie-coote-on-sirs-first-solo-paris-showroom",
-    "image_url": null,
-    "published_at": "2026-09-25T04:30:00.000Z"
-  },
-  {
-    "headline": "“My Community Made It Happen”: Inside Mexican Brand Neithan Herbert’s Milan Debut",
-    "summary": "Mexican Ecuadorian designer Neithan Herbert Ruiz Pillajo built a solid yet modest business selling artisanal fashion in resort boutiques. Now, he’s ready for the Milan runway.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/my-community-made-it-happen-inside-mexican-brand-neithan-herberts-milan-debut",
-    "image_url": null,
-    "published_at": "2026-09-25T04:30:00.000Z"
-  },
-  {
-    "headline": "EXCLUSIVE: Jessica McCormack to Join Heritage Jewelry Houses, Opening a Store on Place Vendôme",
-    "summary": "The upstart diamond jeweler will be moving into Place Vendôme in Paris in early 2027, its first European unit outside the U.K.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/accessories-news/jewelry/jessica-mccormack-jeweler-first-store-place-vendome-paris-1239258635/",
-    "image_url": null,
-    "published_at": "2026-09-25T04:01:00.000Z"
-  },
-  {
-    "headline": "Locus Solution Improves Fulfillment Accuracy",
-    "summary": "The platform shows delivery options to customers that better reflect what the network can support.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/locus-solution-improves-online-fulfillment-accuracy-1239260013/",
-    "image_url": null,
-    "published_at": "2026-09-25T04:00:00.000Z"
-  },
-  {
-    "headline": "Chanel Names Lucia Pieroni to Top Makeup Role",
-    "summary": "Pieroni is now the house’s creative makeup director.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/beauty-industry-news/color-cosmetics/chanel-names-lucia-pieroni-top-makeup-role-1239260255/",
-    "image_url": null,
-    "published_at": "2026-09-25T04:00:00.000Z"
-  },
-  {
-    "headline": "Tempeh Is the Plant-Based Food With More Protein Than Eggs",
-    "summary": "Tempeh has two things going for it that many other protein-rich, vegetarian foods don’t: a ton of probiotics and all nine essential amino acids.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/tempeh-benefits-2026",
-    "image_url": null,
-    "published_at": "2026-09-25T01:55:57.000Z"
-  },
-  {
-    "headline": "Anteprima Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/anteprima",
-    "image_url": null,
-    "published_at": "2026-09-25T01:55:07.000Z"
-  },
-  {
-    "headline": "Francesco Murano Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/francesco-murano",
-    "image_url": null,
-    "published_at": "2026-09-25T01:55:07.000Z"
-  },
-  {
-    "headline": "Melania Trump is All Wrapped Up in A Bow for State Dinner for China’s President Xi Jinping",
-    "summary": "Ivanka Trump, Lauren Sanchez, Apple's Tim Cook, Open AI's Sam Altman and Citigroup's Jane Fraser turned up at the black tie affair.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/culture-news/melania-trump-bow-state-dinner-china-president-xi-jinping-1239261914/",
-    "image_url": null,
-    "published_at": "2026-09-25T01:00:25.000Z"
-  },
-  {
-    "headline": "Walmart Unveils $45 Cashmere Sweater, Bringing Mongolian Luxury to the Masses",
-    "summary": "The cashmere crewneck can be found as part of the retailer's in-house Free Assembly brand, known for elevated basics and trend-forward pieces for men and women",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-fashion/walmart-cashmere-sweater-men-women-deal-price-buy-online-1239261984/",
-    "image_url": null,
-    "published_at": "2026-09-25T00:47:00.000Z"
-  },
-  {
-    "headline": "15 Vintage Pictures of the Divine Lisa Bonet",
-    "summary": "In September 1987, Lisa Bonet’s Denise Huxtable headed off to Hillman for her sophomore year—and 39 years to the day later, “A Different World” is officially back.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/vintage-pictures-lisa-bonet",
-    "image_url": null,
-    "published_at": "2026-09-24T23:00:00.000Z"
-  },
-  {
-    "headline": "Kate Moss Brings Her Iconic Festival Footwear to the Present Day for Hunter’s 170th Anniversary",
-    "summary": "Moss famously wore Hunter boots at Glastonbury Festival in 2005.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/kate-moss-hunter-boots-170th-anniversary-1239255613/",
-    "image_url": null,
-    "published_at": "2026-09-24T23:00:00.000Z"
-  },
-  {
-    "headline": "H&M-Backed Cotton Project Explores Soil-Free Farming",
-    "summary": "Magtech and H&M Group’s Circular Innovation Lab are working together to scale soil-free cotton production.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/hm-magteech-cotton-project-explores-soil-free-farming-1239257830/",
-    "image_url": null,
-    "published_at": "2026-09-24T22:30:00.000Z"
-  },
-  {
-    "headline": "7 Take-Home Hotel Robes That Merge Plush Comfort With ‘IYKYK’ Status",
-    "summary": "All too familiar with the checkout blues? Now, you can take a piece of your beloved destinations home, courtesy of these luxury, hotel-branded bathrobes found online.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-home/best-luxury-hotel-robes-buy-online-reviews-prices-1239261032/",
-    "image_url": null,
-    "published_at": "2026-09-24T22:28:00.000Z"
-  },
-  {
-    "headline": "How to Wear Purple and Red: 6 Chic Outfit Ideas to Try This Fall",
-    "summary": "Fall’s coolest color clash has arrived. Here are six ways on how to wear purple and red for fall 2026, according to the fashion crowd.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/red-and-purple-color-trend",
-    "image_url": null,
-    "published_at": "2026-09-24T22:05:55.000Z"
-  },
-  {
-    "headline": "Vans Hits the Old Skool With an Elaborate Floral Pattern for Day of the Dead",
-    "summary": "The holiday sneaker appears in a fall-appropriate colorway.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/vans-old-skool-day-of-the-dead-release-date-1239261773/",
-    "image_url": null,
-    "published_at": "2026-09-24T22:03:06.000Z"
-  },
-  {
-    "headline": "Denim Deal Adds New Partner to Advance Denim Repair",
-    "summary": "United Repair Centre is a social impact company that provides repair services to brands like Patagonia and Levi's.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/denim-deal-new-partner-united-repair-centre-circularity-1239256382/",
-    "image_url": null,
-    "published_at": "2026-09-24T22:01:55.000Z"
-  },
-  {
-    "headline": "Canopy, a Nonprofit, has a Business Case to Make",
-    "summary": "Canopy explains why early adoption of an alternative to virgin wood pulp can be beneficial for profit-oriented and risk averse brands.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sustainability/canopy-viscose-business-case-textile-to-textile-1239258335/",
-    "image_url": null,
-    "published_at": "2026-09-24T21:45:10.000Z"
-  },
-  {
-    "headline": "Which Dashwood Sister Are You?",
-    "summary": "Which of “Sense and Sensibility”’s Dashwood sisters has your heart? Here, a short personality quiz to determine where you’d slot in at Barton Cottage.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/which-dashwood-sister-are-you-quiz",
-    "image_url": null,
-    "published_at": "2026-09-24T21:44:24.000Z"
-  },
-  {
-    "headline": "The Bermuda Bag Returns: A Classic Reimagined",
-    "summary": "Once a staple of American prep style, dé Lanthe's Bermuda bag returns with a modern update inspired by its own nostalgic legacy.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/bermuda-bag-returns-a-classic-reimagined-1239261333/",
-    "image_url": null,
-    "published_at": "2026-09-24T21:29:24.000Z"
-  },
-  {
-    "headline": "Walmart Melds Fashion, Beauty and Home in New Style Organization",
-    "summary": "Denise Incandela, who has already remade the retailer’s fashion business, now oversees all three businesses.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/walmart-style-organization-fashion-beauty-home-1239261685/",
-    "image_url": null,
-    "published_at": "2026-09-24T21:21:29.000Z"
-  },
-  {
-    "headline": "The American Horror Story: 13 Cast Reunited for a Fright Night at Hotel Chelsea",
-    "summary": "Jessica Lange, Angela Bassett, Sarah Paulson, Billie Lourd, and more reunited to celebrate the return of the anthology series",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/american-horror-story-13-premiere-party-manhattan",
-    "image_url": null,
-    "published_at": "2026-09-24T20:56:06.000Z"
-  },
-  {
-    "headline": "Marni Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marni",
-    "image_url": null,
-    "published_at": "2026-09-24T20:46:01.000Z"
-  },
-  {
-    "headline": "Fall’s Breakout Manicure Shade is Shocking",
-    "summary": "Feel like shaking up your fall manicure? Hop on the chartreuse nail trend.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/chartreuse-nail-trend-2026",
-    "image_url": null,
-    "published_at": "2026-09-24T20:30:00.000Z"
-  },
-  {
-    "headline": "The Footwear Sector in 2026 Remains Committed to Charitable Efforts",
-    "summary": "The shoe industry is big on philanthropy. Here are the charitable efforts thus far in 2026.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-industry-philanthropy-2026-nike-phil-knight-footwear-1239260852/",
-    "image_url": null,
-    "published_at": "2026-09-24T20:30:00.000Z"
-  },
-  {
-    "headline": "Nike Offers a Second Life to Its Used Sneakers, Apparel at SoHo Pop-up",
-    "summary": "The pop-up coincides with Climate Week taking place in New York City.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-sneaker-repair-vintage-apparel-soho-pop-up-1239261641/",
-    "image_url": null,
-    "published_at": "2026-09-24T20:09:08.000Z"
-  },
-  {
-    "headline": "Sinéad Burke On Launching an Adaptive Fashion Line with Asos",
-    "summary": "How — and why — consultancy Tilting the Lens helped launch Asos Adaptive",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/sinead-burke-on-launching-an-adaptive-fashion-line-with-asos",
-    "image_url": null,
-    "published_at": "2026-09-24T19:44:41.000Z"
   }
 ]
