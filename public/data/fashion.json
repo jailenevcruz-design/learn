@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ganni",
     "image_url": null,
-    "published_at": "2026-09-30T00:45:23.000Z"
+    "published_at": "2026-09-30T06:02:34.000Z"
   },
   {
     "headline": "Tove Spring 2027 Ready-to-Wear",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tove",
     "image_url": null,
-    "published_at": "2026-09-30T00:45:23.000Z"
+    "published_at": "2026-09-30T06:02:34.000Z"
   },
   {
     "headline": "Saint Laurent Spring 2027 Ready-to-Wear",
@@ -21,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/saint-laurent",
     "image_url": null,
-    "published_at": "2026-09-30T00:45:23.000Z"
+    "published_at": "2026-09-30T06:02:34.000Z"
   },
   {
     "headline": "A. Potts Spring 2027 Ready-to-Wear",
@@ -29,7 +29,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/apotts",
     "image_url": null,
-    "published_at": "2026-09-30T00:45:23.000Z"
+    "published_at": "2026-09-30T06:02:34.000Z"
   },
   {
     "headline": "Anrealage Spring 2027 Ready-to-Wear",
@@ -37,7 +37,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/anrealage",
     "image_url": null,
-    "published_at": "2026-09-30T00:45:23.000Z"
+    "published_at": "2026-09-30T06:02:34.000Z"
   },
   {
     "headline": "Maison Margiela Spring 2027 Ready-to-Wear",
@@ -45,7 +45,111 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maison-martin-margiela",
     "image_url": null,
-    "published_at": "2026-09-30T00:45:23.000Z"
+    "published_at": "2026-09-30T06:02:34.000Z"
+  },
+  {
+    "headline": "Balmain Opened a Gallery-like Boutique in Milan",
+    "summary": "The new two-level store at 23 Via della Spiga balances \"architectural rigor with sensorial warmth,\" according to the Paris-based house.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/balmain-boutique-milan-new-1239251458/",
+    "image_url": null,
+    "published_at": "2026-09-30T06:00:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Rhode Expands Into Continental Europe With Sephora",
+    "summary": "The beauty brand founded by Hailey Bieber is launching in 19 new European markets through more than 500 Sephora stores.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/rhode-expands-continental-europe-sephora-1239288988/",
+    "image_url": null,
+    "published_at": "2026-09-30T06:00:00.000Z"
+  },
+  {
+    "headline": "Introducing PoloFest: Ralph Lauren’s New Festival of Polo Culture",
+    "summary": "Everything you need to know about PoloFest, Ralph Lauren's new festival of polo culture.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/introducing-polofest-ralph-laurens-new-festival-of-polo-culture",
+    "image_url": null,
+    "published_at": "2026-09-30T05:00:00.000Z"
+  },
+  {
+    "headline": "David Beckham Leans Into British Roots for Fall Boss Collection",
+    "summary": "The former soccer star created a line influenced by U.K. winters.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/david-beckham-british-fall-boss-1239285521/",
+    "image_url": null,
+    "published_at": "2026-09-30T05:00:00.000Z"
+  },
+  {
+    "headline": "The Inside Story of Balmain’s Transformation",
+    "summary": "CEO Matteo Sgarbossa and CMO Bruna Scognamiglio have spent the last two years redefining Balmain across product, retail, and pricing, along with new creative director Antonin Tron. Ahead of tonight’s show, they reveal exactly how they did it.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-inside-story-of-balmains-transformation",
+    "image_url": null,
+    "published_at": "2026-09-30T04:30:00.000Z"
+  },
+  {
+    "headline": "How Claudio Antonioli Rebuilt Ann Demeulemeester’s Cult Following",
+    "summary": "After building and selling New Guards Group to Farfetch, the entrepreneur bought indie label Ann Demeulemeester, which he has spent six years restoring back to its original glory. Ahead of tonight’s Paris store opening and Saturday show, he sits down with Vogue.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-claudio-antonioli-rebuilt-ann-demeulemeesters-cult-following",
+    "image_url": null,
+    "published_at": "2026-09-30T04:30:00.000Z"
+  },
+  {
+    "headline": "Dickies Partners With Pull&Bear on Updated Workwear Capsule",
+    "summary": "The collection of men's and womenswear traces the evolution of the category from true worker pieces to streetwear.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/dickies-pullbear-workwear-1239285102/",
+    "image_url": null,
+    "published_at": "2026-09-30T04:01:00.000Z"
+  },
+  {
+    "headline": "From the Archive: French Class",
+    "summary": "When the French expanded into ready-to-wear, a collaborative effort with American manufacturers helped prepare the category for the world stage.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/french-designers-start-ready-to-wear-1239288128/",
+    "image_url": null,
+    "published_at": "2026-09-30T04:01:00.000Z"
+  },
+  {
+    "headline": "NuFace Teams With Altuzarra for First Fashion Collaboration",
+    "summary": "NuFace partners with Altuzarra to debut a limited-edition Mini+ device and curated skin care essentials in a luxe, co-branded case.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/skin-care/nuface-altuzarra-first-fashion-collaboration-1239288148/",
+    "image_url": null,
+    "published_at": "2026-09-30T04:01:00.000Z"
+  },
+  {
+    "headline": "Ralph Lauren to Debut PoloFest in Tokyo in October",
+    "summary": "The new festival will feature vintage Polo merchandise, speakers and other activations for fans of the brand.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/marketing-promotion/ralph-lauren-polofest-tokyo-david-lauren-1239288442/",
+    "image_url": null,
+    "published_at": "2026-09-30T04:01:00.000Z"
+  },
+  {
+    "headline": "Nutrafol Expands Hair Health Portfolio With Launch of Strand Serum",
+    "summary": "Nutrafol introduces Strand Serum, its first clinically tested formula dedicated to strand health, aimed at reducing breakage and strengthening hair through its DualFusion Complex.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/hair/nutrafol-expands-hair-health-portfolio-strand-serum-1239288674/",
+    "image_url": null,
+    "published_at": "2026-09-30T04:01:00.000Z"
+  },
+  {
+    "headline": "John Galliano’s Next Move: Remaking The Zara Archives Into Something “Almost Haute Couture”",
+    "summary": "The renowned designer is partnering with the retail giant on a new collection: Re{form} Zara Authored by the Couturier John Galliano.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/john-galliano-zara-collection",
+    "image_url": null,
+    "published_at": "2026-09-30T04:00:00.000Z"
+  },
+  {
+    "headline": "Esmé Creed-Miles Takes Us Behind the Scenes of ‘Sense and Sensibility’",
+    "summary": "A new film adaptation of Jane Austen’s “Sense and Sensibility” reimagines a tale of the unshakeable bonds of sisterhood. On set, actor Esmé Creed-Miles turned the camera on her co-stars, including Daisy Edgar-Jones, capturing moments of boundless creativity and friendship.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/esme-creed-miles-sense-and-sensibility-bts",
+    "image_url": null,
+    "published_at": "2026-09-30T03:40:28.000Z"
   },
   {
     "headline": "Burc Akyol Spring 2027 Ready-to-Wear",
@@ -1494,109 +1598,5 @@
     "url": "https://www.vogue.com/article/at-gucci-demna-wants-you-to-half-wear-a-jacket",
     "image_url": null,
     "published_at": "2026-09-25T20:10:05.000Z"
-  },
-  {
-    "headline": "From the Archive: Dolly Parton’s ‘9 to 5’ and Working Girl Style of the 1980s",
-    "summary": "From coordinated separates to the power suit, WWD revisits 1980s career clothes and the influence of the film \"9 to 5.\"",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-features/from-the-archive-dolly-partons-9-to-5-working-girl-style-1980s-1239263189/",
-    "image_url": null,
-    "published_at": "2026-09-25T20:08:56.000Z"
-  },
-  {
-    "headline": "Uggs Get Bejeweled and Feathered on the Blumarine Runway in Milan",
-    "summary": "The Blumarine spring 2027 show featured exclusive romantic Ugg styles on the runway.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/ugg-blumarine-collaboration-milan-fashion-week-1239264713/",
-    "image_url": null,
-    "published_at": "2026-09-25T20:07:46.000Z"
-  },
-  {
-    "headline": "Aminé’s New Balance 992 ‘Outdoor School’ Is the Perfect Fall Sneaker",
-    "summary": "Inspired by the Oregon field science program of the same name.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/amine-new-balance-992-outdoor-school-release-date-u992ne-1239264987/",
-    "image_url": null,
-    "published_at": "2026-09-25T20:05:10.000Z"
-  },
-  {
-    "headline": "26 Thoughts I Had About Season 13, Episode 3 of ‘American Horror Story’",
-    "summary": "The Black Dahlia (a.k.a. Elizabeth Short?) and the gimp-suit guy are back! Yay, all my close personal friends are here.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/26-thoughts-i-had-about-season-13-episode-3-of-american-horror-story",
-    "image_url": null,
-    "published_at": "2026-09-25T19:37:29.000Z"
-  },
-  {
-    "headline": "34 Thoughts I Had About Season 13, Episode 2 of ‘American Horror Story’",
-    "summary": "Honestly, feed me tree sap and poison, Jessica Lange!",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/34-thoughts-i-had-about-season-13-episode-2-of-american-horror-story",
-    "image_url": null,
-    "published_at": "2026-09-25T19:28:17.000Z"
-  },
-  {
-    "headline": "35 Thoughts I Had About Season 13, Episode 1 of ‘American Horror Story’",
-    "summary": "I fear I screamed at Emma Roberts as Madison Montgomery saying “Surprise, bitch.”",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/35-thoughts-i-had-about-season-13-episode-1-of-american-horror-story",
-    "image_url": null,
-    "published_at": "2026-09-25T19:20:11.000Z"
-  },
-  {
-    "headline": "10 Milan Fashion Week Outfits to Recreate Now",
-    "summary": "From cool everyday looks to statement ensembles, recreate the season’s top fashion week outfits, inspired by the street style scene at Milan Fashion Week.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/fashion-week-trends",
-    "image_url": null,
-    "published_at": "2026-09-25T19:16:19.000Z"
-  },
-  {
-    "headline": "Katie Holmes and Jason Bard Yarmosky Make a Date of Milan Fashion Week",
-    "summary": "Loved-up couple Katie Holmes and Jason Bard Yarmosky spent summer in the Hamptons and made their New York Fashion Week debut. Next stop, Milano!",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/katie-holmes-and-jason-bard-yarmosky-milan-fashion-week",
-    "image_url": null,
-    "published_at": "2026-09-25T18:45:28.000Z"
-  },
-  {
-    "headline": "Best Red Light Therapy Masks of 2026, Our Top LED Face Masks",
-    "summary": "The best red light therapy masks treat acne, fine lines, and more. Shop our top pick, the Omnilux Contour Face Mask, and our other favorite LED face masks.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-led-face-masks",
-    "image_url": null,
-    "published_at": "2026-09-25T18:40:35.000Z"
-  },
-  {
-    "headline": "Lacca Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lacca",
-    "image_url": null,
-    "published_at": "2026-09-25T18:02:15.000Z"
-  },
-  {
-    "headline": "Blumarine Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/blumarine",
-    "image_url": null,
-    "published_at": "2026-09-25T18:02:15.000Z"
-  },
-  {
-    "headline": "Sportmax Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/sportmax",
-    "image_url": null,
-    "published_at": "2026-09-25T18:02:15.000Z"
-  },
-  {
-    "headline": "Institution By Galib Gassanoff Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/institution-by-galib-gassanoff",
-    "image_url": null,
-    "published_at": "2026-09-25T18:02:15.000Z"
   }
 ]
