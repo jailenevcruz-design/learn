@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Cannabis users were twice as likely to commit violence, review finds",
+    "summary": "A review of more than 265,000 people found that cannabis use was associated with higher rates of both committing violence and becoming a victim of it. The researchers say the link is significant but does not prove cannabis itself is the cause.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T12:49:01.000Z"
+  },
+  {
+    "headline": "A record-breaking X-ray flash may reveal the birth of a magnetar",
+    "summary": "Astronomers have found strong evidence that some mysterious, minutes-long X-ray flashes are produced when two neutron stars collide and create a magnetar. One record-setting event glowed in X-rays for nearly 10 minutes, potentially opening a new way to find these extreme cosmic mergers.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T12:27:27.000Z"
+  },
+  {
+    "headline": "Ocean heatwaves are hiding months of extra warming",
+    "summary": "Marine heatwaves may be only the most intense part of much longer warming events, with elevated temperatures sometimes lingering for months. Researchers found that conventional measurements underestimate total heat exposure by more than 150% on average, potentially overlooking a major source of stress on marine ecosyst…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T12:15:10.000Z"
+  },
+  {
+    "headline": "Mulberry may reshape gut bacteria and influence metabolism",
+    "summary": "Mulberry compounds may reshape the gut microbiome in ways that support intestinal health and metabolism, with some combinations showing especially strong effects in animal studies. However, the results vary depending on the plant part and processing method, and the benefits have yet to be confirmed in humans.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T11:45:42.000Z"
+  },
+  {
+    "headline": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
+    "summary": "NASA’s Perseverance rover has uncovered a surprisingly complicated history of water in Jezero Crater. Scientists expected the crater’s Margin Unit to contain lake sediments, but instead found ancient igneous rocks that were altered by water on at least three separate occasions.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T11:34:31.000Z"
+  },
+  {
+    "headline": "Black hole jets may decide the fate of entire galaxies",
+    "summary": "Powerful jets from supermassive black holes can disturb star-forming gas far beyond a galaxy’s visible edge, leaving a glowing trail hundreds of thousands of light-years long. By keeping this gas hot and preventing it from falling inward, the jets may help determine whether a galaxy keeps forming stars or becomes quiet…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260928100527.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T10:51:59.000Z"
+  },
+  {
+    "headline": "Pompeii’s 2,000-year-old eruption just gave scientists a better clock for Earth’s past",
+    "summary": "Mount Vesuvius’ famous 79 CE eruption has given scientists a remarkably precise benchmark for dating events deep in Earth’s past. The improved technique could sharpen the timelines of volcanic eruptions, asteroid impacts, extinctions, and other major moments in geological history.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T09:37:41.000Z"
+  },
+  {
     "headline": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
     "summary": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
     "publisher": "NPR",
@@ -14,6 +70,46 @@
     "url": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
     "image_url": null,
     "published_at": "2026-09-30T09:00:00.000Z"
+  },
+  {
+    "headline": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
+    "summary": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest U.S. spacecraft journey to the ISS in history.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T08:36:42.000Z"
+  },
+  {
+    "headline": "Bats may have first evolved in Europe 65 million years ago",
+    "summary": "A huge genomic and fossil study suggests bats first evolved in Europe around 65 to 60 million years ago before spreading across the globe. The findings also indicate that flight and echolocation emerged near the beginning of bat evolution, potentially helping explain how bats became one of the most successful mammal gr…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T05:12:36.000Z"
+  },
+  {
+    "headline": "NASA’s Curiosity rover just hit 5,000 days on Mars and sent back this stunning view",
+    "summary": "NASA’s Curiosity rover marked 5,000 Martian days by capturing morning and afternoon views that were blended into a striking Mars “postcard.” The panorama shows Curiosity, its tracks, and the enormous landscape surrounding Mount Sharp and Gale Crater.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260928100556.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T04:34:34.000Z"
+  },
+  {
+    "headline": "Sharks can hear nearly 250 feet away and pinpoint the source",
+    "summary": "Wild blacktip sharks can detect low-frequency sounds from nearly 250 feet away, according to experiments conducted off the Florida coast. The sharks not only heard the sounds but sharply changed direction away from them, suggesting they could pinpoint where they were coming from.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T03:58:33.000Z"
+  },
+  {
+    "headline": "Creatine may help build muscle even without exercise, researchers find",
+    "summary": "Creatine helped middle-aged adults gain muscle and strength even without a structured workout program in a new 12-week study. When combined with exercise and a calorie-reduced diet, it produced even greater strength gains while helping participants add lean tissue and lose fat. Researchers say the results strengthen th…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
+    "image_url": null,
+    "published_at": "2026-09-30T03:12:34.000Z"
   },
   {
     "headline": "Historic science museum in Philadelphia to close",
@@ -38,6 +134,46 @@
     "url": "https://www.npr.org/2026/09/29/nx-s1-5980447/macarthur-genius-grants-2026-fellows",
     "image_url": null,
     "published_at": "2026-09-29T16:01:00.000Z"
+  },
+  {
+    "headline": "Forget LASIK: Safer, cheaper vision correction without lasers or incisions",
+    "summary": "Scientists are developing a possible alternative to LASIK that reshapes the cornea without cutting it or using a laser. The technique uses a small electric potential and a specially shaped platinum lens to temporarily soften the cornea, allowing it to be molded in about a minute.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260927034004.htm",
+    "image_url": null,
+    "published_at": "2026-09-29T12:53:00.000Z"
+  },
+  {
+    "headline": "Children at risk for depression get “stuck” on sad faces",
+    "summary": "Depression may change which emotional faces children notice most, but the pattern appears to depend on family history. Children at higher familial risk became increasingly focused on sad faces, while lower-risk children with rising symptoms paid less attention to happy ones.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260927225022.htm",
+    "image_url": null,
+    "published_at": "2026-09-29T12:36:52.000Z"
+  },
+  {
+    "headline": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
+    "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communication, and computing.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
+    "image_url": null,
+    "published_at": "2026-09-29T12:02:30.000Z"
+  },
+  {
+    "headline": "This 245-million-year-old fossil still has its stomach and intestines",
+    "summary": "A 245-million-year-old marine reptile fossil preserves an astonishing amount of detail, including its stomach, liver, and intestines. The discovery reveals that Austronaga minuta was highly adapted for swimming even though its digestive system remained surprisingly simple.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
+    "image_url": null,
+    "published_at": "2026-09-29T11:39:27.000Z"
+  },
+  {
+    "headline": "Brain scans reveal which disorders are linked to faster brain aging",
+    "summary": "A massive MRI study found that Alzheimer’s disease, mild cognitive impairment, psychiatric disorders, and addiction are associated with distinct patterns of accelerated brain aging. The strongest effects appeared in Alzheimer’s and mild cognitive impairment, while ADHD and autism showed no significant overall differenc…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260927225038.htm",
+    "image_url": null,
+    "published_at": "2026-09-29T11:01:18.000Z"
   },
   {
     "headline": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
@@ -1462,141 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
     "image_url": null,
     "published_at": "2026-09-15T14:28:38.000Z"
-  },
-  {
-    "headline": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
-    "summary": "A 125-million-year-old crocodile fossil has revealed preserved skin, possible sensory organs, sophisticated respiratory structures, and an unexpected pattern on its tail. Ultraviolet light exposed alternating bands that may represent ancient camouflage, potentially preserving the oldest known coloration in a crocodylom…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T14:07:13.000Z"
-  },
-  {
-    "headline": "The shape behind the Einstein problem just revealed strange new physics",
-    "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T13:14:55.000Z"
-  },
-  {
-    "headline": "Supermassive black hole winds are 100 times more powerful than scientists thought",
-    "summary": "Astronomers have discovered that winds from a supermassive black hole are about 100 times more powerful than previously thought. XRISM observations showed the resulting turbulence spreading roughly 300,000 light-years, extending far beyond the black hole’s host galaxy. The energy involved rivals several billion superno…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914102429.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T12:34:32.000Z"
-  },
-  {
-    "headline": "The U.S. Eradicated this flesh-eating parasite. Now it’s back",
-    "summary": "The flesh eating New World screwworm has returned to the United States, threatening livestock, wildlife, pets and potentially people as it spreads north. A new UC San Diego tracking system aims to predict where the parasite could strike next while officials revive the eradication strategy that defeated it decades ago.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914102439.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T10:39:40.000Z"
-  },
-  {
-    "headline": "NASA rushed engineers out of their labs. They say it risks future space missions",
-    "summary": "NASA employees say they've lost vital equipment and staff needed to make sophisticated spacecraft amid the agency's abrupt relocations over the past several months.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
-    "image_url": null,
-    "published_at": "2026-09-15T09:00:00.000Z"
-  },
-  {
-    "headline": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
-    "summary": "A major analysis of 139 clinical trials involving nearly 10,000 people suggests that some of the simplest treatments may work best for knee osteoarthritis. Knee braces ranked highest overall for reducing pain, stiffness, and mobility problems, while water-based therapy was especially effective for pain and regular exer…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913082208.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T03:57:43.000Z"
-  },
-  {
-    "headline": "Tiny cell “antennas” may help explain why some babies are born with heart defects",
-    "summary": "A newly discovered communication system in the microscopic “antennae” of cells may help explain how some congenital heart defects develop. When genetic mutations disrupt this system, the effects may extend beyond the heart to organs including the brain, kidneys, and skeleton.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260912220103.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T03:20:52.000Z"
-  },
-  {
-    "headline": "Plague was killing entire families thousands of years before the Black Death",
-    "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerous because they carried a genetic factor capable of provoking severe immune reactions.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T02:54:45.000Z"
-  },
-  {
-    "headline": "A coral reef thought dead for 60 years is teeming with life",
-    "summary": "More than 60 years after surveys suggested a deep coral reef off Benin was probably dead, scientists have found it alive. Cameras revealed healthy-looking coral patches supporting multiple fish species more than 50 meters beneath the surface. The discovery suggests West Africa’s coastal waters may contain other overloo…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913081927.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T02:18:06.000Z"
-  },
-  {
-    "headline": "Trump's EPA repeals pollution limits on fossil fuel power plants",
-    "summary": "The Trump administration is eliminating limits on climate-warming pollution from the nation's fossil fuel power plants. Environmental groups say this will impact the climate and public health.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
-    "image_url": null,
-    "published_at": "2026-09-14T20:34:28.000Z"
-  },
-  {
-    "headline": "Cancer is rising in younger adults. Faster biological aging may help explain why",
-    "summary": "Cancer rates are rising in adults under 55, and new research suggests accelerated biological aging may be one piece of the puzzle. Scientists found that people from more recent generations tended to have bodies that appeared biologically older than those of earlier generations at the same chronological age. Greater bio…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913082200.htm",
-    "image_url": null,
-    "published_at": "2026-09-14T14:47:07.000Z"
-  },
-  {
-    "headline": "Hidden brain wiring may help keep the mind sharp as gray matter shrinks",
-    "summary": "Scientists have discovered that the brain’s short-range wiring may help protect cognition even as gray matter shrinks with age. Healthier connections just beneath the brain’s surface were linked to better language skills and appeared to weaken the impact of gray matter loss.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913081921.htm",
-    "image_url": null,
-    "published_at": "2026-09-14T14:23:40.000Z"
-  },
-  {
-    "headline": "Chemistry textbooks have been getting this wrong for nearly 100 years",
-    "summary": "A foundational chemistry concept found in textbooks for almost 100 years may have been taught incorrectly. Researchers say the inductive effect in neutral molecules appears to extend only across one chemical bond, rather than gradually weakening over three or four bonds as traditionally taught. The team argues that upd…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913082157.htm",
-    "image_url": null,
-    "published_at": "2026-09-14T14:13:47.000Z"
-  },
-  {
-    "headline": "Scientists find a hidden cause of high blood pressure that routine tests can miss",
-    "summary": "A wearable device has revealed nighttime hormone surges that may expose a frequently missed cause of high blood pressure. The discovery could help explain why primary aldosteronism often escapes standard blood tests and point toward a more accurate way to diagnose it.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913081916.htm",
-    "image_url": null,
-    "published_at": "2026-09-14T13:57:49.000Z"
-  },
-  {
-    "headline": "Crocodiles are famous for finding their way home. These ones didn’t",
-    "summary": "Captive-raised saltwater crocodiles released into Bangladesh’s Sundarbans surprised scientists by settling into the wild rather than trying to return to their breeding facility. The result suggests that releasing larger, mature captive crocodiles could help restore depleted populations more successfully than relying on…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913081913.htm",
-    "image_url": null,
-    "published_at": "2026-09-14T13:46:25.000Z"
-  },
-  {
-    "headline": "This German submarine sank in 1917. It’s still leaking TNT",
-    "summary": "A World War I submarine wreck off Denmark is leaking TNT into the surrounding water, seabed, and marine life more than a century after it sank. Scientists warn that thousands of similar wrecks could pose growing environmental risks as they continue to corrode.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913081919.htm",
-    "image_url": null,
-    "published_at": "2026-09-14T13:30:51.000Z"
-  },
-  {
-    "headline": "Scientists discover strange link between low vitamin D and pain",
-    "summary": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain during the first 24 hours after surgery and also used substantially more of the o…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm",
-    "image_url": null,
-    "published_at": "2026-09-14T12:52:54.000Z"
   }
 ]

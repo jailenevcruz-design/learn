@@ -1,5 +1,13 @@
 [
   {
+    "headline": "After failed execution, health workers say Tennessee's method flouts medical ethics",
+    "summary": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, no matter the method.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
+    "image_url": null,
+    "published_at": "2026-09-30T14:30:03.000Z"
+  },
+  {
     "headline": "Travel plans? Here's what to know as measles exposures reach trains and games",
     "summary": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?",
     "publisher": "NPR",
@@ -8,10 +16,10 @@
     "published_at": "2026-09-30T11:00:00.000Z"
   },
   {
-    "headline": "What's behind HHS claims that gender-affirming care 'may' radicalize",
-    "summary": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
+    "headline": "They were promised protection. Instead, these kids with disabilities died in foster care",
+    "summary": "Disabled kids make up the largest group in foster care. They have the worst outcomes. They stay in foster care longest. They're the most likely to die.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5534203/foster-care-disabilities-children-bad-outcomes",
     "image_url": null,
     "published_at": "2026-09-30T09:00:00.000Z"
   },
@@ -24,18 +32,18 @@
     "published_at": "2026-09-30T09:00:00.000Z"
   },
   {
-    "headline": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
-    "summary": "In most states, people with Medicaid coverage will have to prove they're working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it's sowing confusion and anxiety.",
+    "headline": "What's behind HHS claims that gender-affirming care 'may' radicalize",
+    "summary": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
     "image_url": null,
     "published_at": "2026-09-30T09:00:00.000Z"
   },
   {
-    "headline": "They were promised protection. Instead, these kids with disabilities died in foster care",
-    "summary": "Disabled kids make up the largest group in foster care. They have the worst outcomes. They stay in foster care longest. They're the most likely to die.",
+    "headline": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
+    "summary": "In most states, people with Medicaid coverage will have to prove they're working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it's sowing confusion and anxiety.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5534203/foster-care-disabilities-children-bad-outcomes",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
     "image_url": null,
     "published_at": "2026-09-30T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/07/29/nx-s1-5903828/infertility-doctor-secretly-fathered-dozens-of-children-who-created-their-own-family",
     "image_url": null,
     "published_at": "2026-07-29T20:28:42.000Z"
-  },
-  {
-    "headline": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing",
-    "summary": "At a Senate hearing Wednesday, Anthony Fauci is likely to face questions from Sen. Rand Paul related to the origins of the COVID-19 pandemic. Here's what you need to know",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
-    "image_url": null,
-    "published_at": "2026-07-29T09:00:00.000Z"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
+    "summary": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
+    "image_url": null,
+    "published_at": "2026-09-30T17:51:42.000Z"
+  },
+  {
+    "headline": "How Ukrainians are coping with new, more deadly Russian attacks",
+    "summary": "Zanny Minton Beddoes, The Economist's editor in chief, just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+    "image_url": null,
+    "published_at": "2026-09-30T15:33:19.000Z"
+  },
+  {
+    "headline": "A pilot stabs the other pilot and tries to crash their flight to Tel Aviv, Israel says",
+    "summary": "As the plane went into a spin and began to plunge, a passenger and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+    "image_url": null,
+    "published_at": "2026-09-30T13:35:11.000Z"
+  },
+  {
     "headline": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
     "summary": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
     "publisher": "NPR",
@@ -14,6 +38,14 @@
     "url": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
     "image_url": null,
     "published_at": "2026-09-30T08:43:00.000Z"
+  },
+  {
+    "headline": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
+    "summary": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
+    "image_url": null,
+    "published_at": "2026-09-30T08:42:46.000Z"
   },
   {
     "headline": "An 87-year-old woman whose eviction sparked protests in Spain is returning home",
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/09/03/nx-s1-5954190/families-of-the-missing-in-nepals-flash-floods-perform-symbolic-cremations",
     "image_url": null,
     "published_at": "2026-09-03T08:11:30.000Z"
-  },
-  {
-    "headline": "China's Xi visits Egypt for the first time in a decade",
-    "summary": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade",
-    "image_url": null,
-    "published_at": "2026-09-03T08:08:39.000Z"
-  },
-  {
-    "headline": "Critics question legality of Venezuela oil deals",
-    "summary": "Chevron's $7 billion Venezuela bet deepens U.S. ties to the country's oil industry. Critics say the deal poses risks to democracy and could fuel discontent over Washington's embrace of the government.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals",
-    "image_url": null,
-    "published_at": "2026-09-03T08:07:44.000Z"
-  },
-  {
-    "headline": "U.S.-Israel relations are on the rocks ahead of elections",
-    "summary": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
-    "image_url": null,
-    "published_at": "2026-09-03T08:06:18.000Z"
-  },
-  {
-    "headline": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-    "summary": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
-    "image_url": null,
-    "published_at": "2026-09-03T07:04:25.000Z"
   }
 ]

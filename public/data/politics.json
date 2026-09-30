@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
+    "summary": "The Pentagon made last-minute changes to forms that many overseas U.S. citizens use for absentee voting, removing a category of citizens that Republicans have been pushing to block from voting.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
+    "image_url": null,
+    "published_at": "2026-09-30T16:32:12.000Z"
+  },
+  {
+    "headline": "How Trump keeps undercutting his anti-communist message",
+    "summary": "The Trump administration has taken government equity stakes in more than three dozen private companies.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
+    "image_url": null,
+    "published_at": "2026-09-30T14:58:51.000Z"
+  },
+  {
     "headline": "Former special counsel Jack Smith defends investigation into Trump on Capitol Hill",
     "summary": "Former Justice Department special counsel Jack Smith defended two criminal indictments against President Trump on Capitol Hill.",
     "publisher": "NPR",
@@ -22,6 +38,14 @@
     "url": "https://www.npr.org/2026/09/30/nx-s1-5983539/outside-groups-are-spending-millions-on-races-that-could-determine-senate-control",
     "image_url": null,
     "published_at": "2026-09-30T08:43:34.000Z"
+  },
+  {
+    "headline": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
+    "summary": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
+    "image_url": null,
+    "published_at": "2026-09-30T08:42:46.000Z"
   },
   {
     "headline": "Trump says top tech firms have signed accord to 'self-police' AI development",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
     "image_url": null,
     "published_at": "2026-09-01T17:52:37.000Z"
-  },
-  {
-    "headline": "USPS 'carefully reviewing' whistleblower claim on plan for Trump's mail in voting order",
-    "summary": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could \"derail\" the midterm election if courts allow it to proceed.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
-    "image_url": null,
-    "published_at": "2026-09-01T10:00:00.000Z"
-  },
-  {
-    "headline": "Judge rules man accused in Charlie Kirk murder case will stand trial, facing possible death penalty",
-    "summary": "Utah District Judge Tony Graf heard arguments over evidence introduced in July, to decide whether there was enough probable cause for a trial in the shooting of the conservative activist last year.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing",
-    "image_url": null,
-    "published_at": "2026-09-01T09:00:00.000Z"
-  },
-  {
-    "headline": "Affordability is the centerpiece of Democrats' message in Pennsylvania swing district",
-    "summary": "A rematch in a swing district Pennsylvania is showcasing how Republican messaging from 2024 is getting a replay, this time from Democratic candidates.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/01/nx-s1-5938774/affordability-is-the-centerpiece-of-democrats-message-in-pennsylvania-swing-district",
-    "image_url": null,
-    "published_at": "2026-09-01T08:46:53.000Z"
   }
 ]

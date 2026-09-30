@@ -1,11 +1,179 @@
 [
   {
-    "headline": "Boeing rises 3% after securing U.S. Navy deal to develop next-generation fighter jet",
-    "summary": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
+    "headline": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+    "summary": "The Department of Justice seeks the recusal of the judges who spoke to The New York Times from any cases involving the Department of Homeland Security.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
+    "url": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
     "image_url": null,
-    "published_at": "2026-09-30T13:03:11.000Z"
+    "published_at": "2026-09-30T18:24:35.000Z"
+  },
+  {
+    "headline": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+    "summary": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+    "image_url": null,
+    "published_at": "2026-09-30T18:17:24.000Z"
+  },
+  {
+    "headline": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
+    "summary": "Two separate proposals to ban member stock trading while in office and address data center-related utility costs failed Wednesday amid Democratic opposition.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
+    "image_url": null,
+    "published_at": "2026-09-30T17:44:15.000Z"
+  },
+  {
+    "headline": "Trump's latest global tariffs face trade court challenge",
+    "summary": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced labor practices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+    "image_url": null,
+    "published_at": "2026-09-30T17:33:45.000Z"
+  },
+  {
+    "headline": "Kalshi traders see high odds Anthropic's IPO is announced this year",
+    "summary": "The higher odds come after the artificial intelligence company reportedly warned investors in its IPO prospectus that its models could be dangerous.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/kalshi-traders-see-high-odds-anthropics-ipo-is-announced-this-year-.html",
+    "image_url": null,
+    "published_at": "2026-09-30T17:27:49.000Z"
+  },
+  {
+    "headline": "The market search for balance sheet cash cow 'quality' stocks is shifting with mega AI spend",
+    "summary": "With AI spending consuming the cash of the market's richest companies, balance sheet metrics led by free cash flow are getting more investing attention.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
+    "image_url": null,
+    "published_at": "2026-09-30T17:25:44.000Z"
+  },
+  {
+    "headline": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+    "summary": "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
+    "image_url": null,
+    "published_at": "2026-09-30T17:21:23.000Z"
+  },
+  {
+    "headline": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+    "summary": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+    "image_url": null,
+    "published_at": "2026-09-30T17:15:24.000Z"
+  },
+  {
+    "headline": "10-year Treasury yield turns higher as traders look past inflation data, await jobs report",
+    "summary": "Treasury yields were lower on Wednesday following the release of lighter-than-expected U.S. inflation data.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+    "image_url": null,
+    "published_at": "2026-09-30T16:36:47.000Z"
+  },
+  {
+    "headline": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
+    "summary": "Commerce Secretary Howard Lutnick unwound his ties to Cantor Fitzgerald as the billionaire financier joined the Trump administration.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
+    "image_url": null,
+    "published_at": "2026-09-30T16:30:42.000Z"
+  },
+  {
+    "headline": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
+    "summary": "The refunds come after millions of people lost premium subsidies for their health insurance, and right before the midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+    "image_url": null,
+    "published_at": "2026-09-30T16:19:47.000Z"
+  },
+  {
+    "headline": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
+    "summary": "Stellantis CEO Antonio Filosa on Wednesday reconfirmed the company's 2026 guidance and its plans to be cash flow positive by 2027.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
+    "image_url": null,
+    "published_at": "2026-09-30T16:14:12.000Z"
+  },
+  {
+    "headline": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
+    "summary": "The Trump administration announced on Wednesday that it was launching a \"Default Loans Support Center\" for student loan borrowers who've fallen behind.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+    "image_url": null,
+    "published_at": "2026-09-30T15:56:15.000Z"
+  },
+  {
+    "headline": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "summary": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "image_url": null,
+    "published_at": "2026-09-30T15:54:38.000Z"
+  },
+  {
+    "headline": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/nvidia-approaches-a-breakout-level-plus-what-we-want-to-see-from-micron.html",
+    "image_url": null,
+    "published_at": "2026-09-30T15:47:42.000Z"
+  },
+  {
+    "headline": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+    "summary": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+    "image_url": null,
+    "published_at": "2026-09-30T15:36:20.000Z"
+  },
+  {
+    "headline": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+    "summary": "The data on Novo's Wegovy pill suggests that patients may not need to take weekly injections forever, but can instead opt for more convenient treatments.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
+    "image_url": null,
+    "published_at": "2026-09-30T15:19:01.000Z"
+  },
+  {
+    "headline": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+    "summary": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
+    "image_url": null,
+    "published_at": "2026-09-30T15:16:17.000Z"
+  },
+  {
+    "headline": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+    "summary": "Private job creation picked up in September after a brief slowdown.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
+    "image_url": null,
+    "published_at": "2026-09-30T14:42:04.000Z"
+  },
+  {
+    "headline": "Parents who want to help their kids in a tough job market should avoid this 1 move, says career expert",
+    "summary": "Some well-meaning career advice from parents is \"totally useless\" for new grads today, according to journalist Jodi Kantor.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/parents-avoid-meddling-adult-kids-job-search.html",
+    "image_url": null,
+    "published_at": "2026-09-30T14:40:45.000Z"
+  },
+  {
+    "headline": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
+    "summary": "Lilly said it plans to start Phase 3 trials on the combo regimen adding its amylin drug eloralintide to tirzepatide at the end of the year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
+    "image_url": null,
+    "published_at": "2026-09-30T14:32:03.000Z"
+  },
+  {
+    "headline": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
+    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+    "image_url": null,
+    "published_at": "2026-09-30T14:31:26.000Z"
   },
   {
     "headline": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
@@ -13,7 +181,31 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
     "image_url": null,
-    "published_at": "2026-09-30T12:59:56.000Z"
+    "published_at": "2026-09-30T13:56:14.000Z"
+  },
+  {
+    "headline": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+    "summary": "Mattel announced on Wednesday that Roger Lynch would serve as CEO and Chairman, replacing Ynon Kreiz.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
+    "image_url": null,
+    "published_at": "2026-09-30T13:19:37.000Z"
+  },
+  {
+    "headline": "Micron earnings hit Wall Street after the bell. Here's how options traders are positioned into the report",
+    "summary": "In the near term, the market needs to get through Micron earnings. The good news is options traders think it could be a slam dunk.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
+    "image_url": null,
+    "published_at": "2026-09-30T13:07:28.000Z"
+  },
+  {
+    "headline": "Boeing rises 3% after securing U.S. Navy deal to develop next-generation fighter jet",
+    "summary": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
+    "image_url": null,
+    "published_at": "2026-09-30T13:03:11.000Z"
   },
   {
     "headline": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
@@ -32,36 +224,12 @@
     "published_at": "2026-09-30T12:48:46.000Z"
   },
   {
-    "headline": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-    "summary": "Following Trump's lunch with AI leaders at the White House, the industry remains largely unchanged on AI safety.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-    "image_url": null,
-    "published_at": "2026-09-30T12:28:50.000Z"
-  },
-  {
-    "headline": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
-    "summary": "Private job creation picked up in September after a brief slowdown.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
-    "image_url": null,
-    "published_at": "2026-09-30T12:24:21.000Z"
-  },
-  {
     "headline": "More Americans are tapping investments to pay for spending, analysis finds",
     "summary": "Across all age and income groups examined in new research, the share of individuals transferring money from investment accounts to checking accounts has risen.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/30/more-americans-tap-investment-accounts-to-fund-spending-analysis.html",
     "image_url": null,
     "published_at": "2026-09-30T12:15:02.000Z"
-  },
-  {
-    "headline": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
-    "summary": "The data on Novo's Wegovy pill suggests that patients may not need to take weekly injections forever, but can instead opt for more convenient treatments.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
-    "image_url": null,
-    "published_at": "2026-09-30T12:07:08.000Z"
   },
   {
     "headline": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
@@ -110,22 +278,6 @@
     "url": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
     "image_url": null,
     "published_at": "2026-09-30T11:39:07.000Z"
-  },
-  {
-    "headline": "Micron earnings hit Wall Street after the bell. Here's how traders are positioned into the report",
-    "summary": "In the near term, the market needs to get through Micron earnings. The good news is options traders think it could be a slam dunk.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
-    "image_url": null,
-    "published_at": "2026-09-30T11:34:45.000Z"
-  },
-  {
-    "headline": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
-    "summary": "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-    "image_url": null,
-    "published_at": "2026-09-30T10:55:49.000Z"
   },
   {
     "headline": "AI's coming roadblock in regulation: Antitrust hawks",
@@ -1446,157 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
     "image_url": null,
     "published_at": "2026-09-24T23:07:54.000Z"
-  },
-  {
-    "headline": "Trump, Xi to attend state dinner after White House meeting",
-    "summary": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-    "image_url": null,
-    "published_at": "2026-09-24T22:09:33.000Z"
-  },
-  {
-    "headline": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
-    "summary": "Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
-    "image_url": null,
-    "published_at": "2026-09-24T21:46:05.000Z"
-  },
-  {
-    "headline": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-    "summary": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
-    "image_url": null,
-    "published_at": "2026-09-24T20:57:11.000Z"
-  },
-  {
-    "headline": "Senate narrowly votes down resolution calling for end to Iran war",
-    "summary": "The vote came weeks before the midterm election, where President Donald Trump's fellow Republicans are trying to retain their majorities in Congress.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
-    "image_url": null,
-    "published_at": "2026-09-24T20:36:15.000Z"
-  },
-  {
-    "headline": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
-    "summary": "U.S. Treasury yields continued their upward momentum after hitting a 19-year high on Wednesday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
-    "image_url": null,
-    "published_at": "2026-09-24T20:25:07.000Z"
-  },
-  {
-    "headline": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
-    "summary": "Barry Diller's People Inc. has rescinded its offer to buy the remaining public shares of MGM Resorts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
-    "image_url": null,
-    "published_at": "2026-09-24T20:11:24.000Z"
-  },
-  {
-    "headline": "Oracle sends 'force majeure' notice about data center project — stock drops 3%",
-    "summary": "Oracle is reportedly looking to delay payment on Project Jupiter if the data center fails to come online in 2028",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-    "image_url": null,
-    "published_at": "2026-09-24T20:00:31.000Z"
-  },
-  {
-    "headline": "KFC debuts Open House restaurant in Texas to test new customer experiences",
-    "summary": "KFC is opening a new restaurant concept in Texas where it will offer an expanded menu, including breakfast items, and table service.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/kfc-open-house-concept-texas.html",
-    "image_url": null,
-    "published_at": "2026-09-24T19:47:56.000Z"
-  },
-  {
-    "headline": "White House allows blocked reporters in after judge lifts Trump ban",
-    "summary": "District Judge Tim Kelly said the three outlets should have their access immediately restored from the ban the president had announced on Sept. 18.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
-    "image_url": null,
-    "published_at": "2026-09-24T19:46:09.000Z"
-  },
-  {
-    "headline": "What must happen for Boeing stock to get unstuck. The company needs, at least, to do its part",
-    "summary": "Some of the headwinds facing the jetmaker — both in and out of its control — need to clear up.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/what-must-happen-for-boeing-stock-to-get-unstuck-the-company-needs-to-do-its-part.html",
-    "image_url": null,
-    "published_at": "2026-09-24T19:27:25.000Z"
-  },
-  {
-    "headline": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-    "summary": "Cox analysts said Ford and General Motors are seeing sales lag because they don't have many hybrid vehicles.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
-    "image_url": null,
-    "published_at": "2026-09-24T18:46:46.000Z"
-  },
-  {
-    "headline": "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
-    "summary": "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
-    "image_url": null,
-    "published_at": "2026-09-24T18:38:44.000Z"
-  },
-  {
-    "headline": "Bond liquidation wrecks small caps. Here's how bad some traders see it getting",
-    "summary": "While the S&P 500 powers through rising bond yields and higher crude oil prices, one section of the U.S. stock market is falling behind.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/bond-liquidation-wrecks-small-caps-heres-how-bad-some-traders-see-it-getting.html",
-    "image_url": null,
-    "published_at": "2026-09-24T18:22:51.000Z"
-  },
-  {
-    "headline": "FAFSA opens early: Why families should apply for college aid now",
-    "summary": "College-bound students and their families can now complete the 2027-28 Free Application for Federal Student Aid, or FAFSA.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/fafsa-opens-early-college-aid.html",
-    "image_url": null,
-    "published_at": "2026-09-24T18:19:40.000Z"
-  },
-  {
-    "headline": "Rising Treasury yields could push car loan rates higher, experts say. What buyers need to know",
-    "summary": "Bond yields have spiked due to expectations of persistent inflation and further interest rate hikes from the Federal Reserve, which may impact auto loan rates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/car-loan-rates-may-rise-as-treasury-yields-climb.html",
-    "image_url": null,
-    "published_at": "2026-09-24T17:45:53.000Z"
-  },
-  {
-    "headline": "As bond rout worsens, a trade Wall Street uses to replace them booms in popularity",
-    "summary": "The options strategy is known as a \"box spread.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/as-bond-rout-worsens-a-trade-wall-street-uses-to-replace-them-booms-in-popularity.html",
-    "image_url": null,
-    "published_at": "2026-09-24T17:30:23.000Z"
-  },
-  {
-    "headline": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-    "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-    "image_url": null,
-    "published_at": "2026-09-24T17:12:04.000Z"
-  },
-  {
-    "headline": "Meta nears first new high in a year as Muse success showcases winning AI strategy",
-    "summary": "Meta is transforming into more than a social-media juggernaut in the AI era. Muse is the centerpiece of its strategy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html",
-    "image_url": null,
-    "published_at": "2026-09-24T17:07:45.000Z"
-  },
-  {
-    "headline": "Student loan borrowers sue Trump administration over forgiven debts on credit reports",
-    "summary": "Student loan holders sued the Education Department on Thursday, claiming they suffered financial damages despite getting their debts forgiven years ago.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/student-loan-borrowers-sue-credit-reports-forgiven-loans.html",
-    "image_url": null,
-    "published_at": "2026-09-24T16:49:40.000Z"
   }
 ]
