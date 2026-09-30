@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
+    "summary": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick Amazon launched earlier this year. The Fire TV Stick 4K, available star…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
+    "image_url": null,
+    "published_at": "2026-09-30T13:00:16.000Z"
+  },
+  {
+    "headline": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
+    "summary": "The Ace Ultra look like the Ace, but they’re better on the inside. The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are well built, sound good, and are incredibly comfortable,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
+    "image_url": null,
+    "published_at": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "headline": "Potato by air",
+    "summary": "Artist’s rendition | Image:The Verge, Getty Images The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. It has 16 propellers - four for horizontal movement and 12 for vertical - a top speed of 60 miles per hour, a carrying capacity of up to 2.7 pounds, and a delivery radius of about six miles. It is…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
+    "image_url": null,
+    "published_at": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "headline": "You’ll soon be able to order DoorDash by text message",
+    "summary": "DoorDash is also expanding its Dasher returns feature nationwide in November. | Image: DoorDash / The Verge DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on capabilities that the Ask DoorD…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+    "image_url": null,
+    "published_at": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "headline": "Charter Space raises $5M to bring insurance to the stars",
+    "summary": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+    "image_url": null,
+    "published_at": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "headline": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+    "summary": "As younger users grow increasingly tired of the endless scroll, dating apps are scrambling to adapt to a generation that increasingly wants dating to feel more social and rooted in real-world experiences. The latest example comes from Tinder, which on Wednesday announced the launch of “Group Hangouts,” a new feature th…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+    "image_url": null,
+    "published_at": "2026-09-30T13:00:00.000Z"
+  },
+  {
+    "headline": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+    "summary": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+    "image_url": null,
+    "published_at": "2026-09-30T12:24:32.000Z"
+  },
+  {
+    "headline": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
+    "summary": "The Galaxy Tab S12 Plus and Ultra arrive together, with no regular Tab S12 in sight. | Image: Samsung Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra model with few chan…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
+    "image_url": null,
+    "published_at": "2026-09-30T12:00:00.000Z"
+  },
+  {
+    "headline": "Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones",
+    "summary": "Samsung has announced its third-generation Bluetooth tracker, the Galaxy SmartTag 3. It combines a smaller design and improved battery life with a few new tracking and software features, including cross-OS support intended to make it easier to share tracking information with friends and family. As revealed by leaks, th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features",
+    "image_url": null,
+    "published_at": "2026-09-30T12:00:00.000Z"
+  },
+  {
+    "headline": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+    "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+    "image_url": null,
+    "published_at": "2026-09-30T12:00:00.000Z"
+  },
+  {
+    "headline": "Airbnb adds AI search, more social features",
+    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "image_url": null,
+    "published_at": "2026-09-30T12:00:00.000Z"
+  },
+  {
+    "headline": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
+    "summary": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgraded Apple TV device. All three products are set to showcase Siri AI, Apple's overhauled AI-powered assistant. The smart ho…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+    "image_url": null,
+    "published_at": "2026-09-30T11:11:24.000Z"
+  },
+  {
     "headline": "Apple Pay finally launches in India after years on the sidelines",
     "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
     "publisher": "TechCrunch",
@@ -168,14 +264,6 @@
     "published_at": "2026-09-29T17:17:15.000Z"
   },
   {
-    "headline": "OpenAI launches Dots, its Muse competitor",
-    "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connecte…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-    "image_url": null,
-    "published_at": "2026-09-29T17:15:00.000Z"
-  },
-  {
     "headline": "OpenAI gives Codex reusable cloud environments that work across devices",
     "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
     "publisher": "TechCrunch",
@@ -188,6 +276,14 @@
     "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "image_url": null,
+    "published_at": "2026-09-29T17:15:00.000Z"
+  },
+  {
+    "headline": "OpenAI launches Dots, its Muse competitor",
+    "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connecte…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
     "image_url": null,
     "published_at": "2026-09-29T17:15:00.000Z"
   },
@@ -1502,101 +1598,5 @@
     "url": "https://www.theverge.com/games/999464/control-resonant-assist-mode",
     "image_url": null,
     "published_at": "2026-09-24T12:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI agents hacked an Australian government website in search for data",
-    "summary": "Sam Altman attends a UN Security Council meeting on AI. | Getty Images OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a governme…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-    "image_url": null,
-    "published_at": "2026-09-24T11:52:32.000Z"
-  },
-  {
-    "headline": "Gemini 4 is almost ready, says new Google DeepMind chief",
-    "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement sta…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-    "image_url": null,
-    "published_at": "2026-09-24T09:04:18.000Z"
-  },
-  {
-    "headline": "Everything new coming to Meta’s AI agent Muse",
-    "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "image_url": null,
-    "published_at": "2026-09-24T01:13:32.000Z"
-  },
-  {
-    "headline": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "image_url": null,
-    "published_at": "2026-09-24T00:46:17.000Z"
-  },
-  {
-    "headline": "Meta is making a standalone Muse AI gadget",
-    "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for carrying…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-    "image_url": null,
-    "published_at": "2026-09-24T00:15:20.000Z"
-  },
-  {
-    "headline": "Meta Connect 2026: The 7 biggest announcements",
-    "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with some…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-    "image_url": null,
-    "published_at": "2026-09-24T00:00:33.000Z"
-  },
-  {
-    "headline": "Meta is trying VR glasses (again), this time with more IMAX",
-    "summary": "Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-    "image_url": null,
-    "published_at": "2026-09-23T23:47:35.000Z"
-  },
-  {
-    "headline": "Meta’s next VR device isn’t a headset — it’s glasses",
-    "summary": "The Meta VR Glasses. | Photo by Brett Putman / The Verge Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work don…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-    "image_url": null,
-    "published_at": "2026-09-23T23:42:10.000Z"
-  },
-  {
-    "headline": "Muse is coming to Meta smart glasses",
-    "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging meals, o…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-    "image_url": null,
-    "published_at": "2026-09-23T23:40:56.000Z"
-  },
-  {
-    "headline": "Meta introduces camera-free AI glasses",
-    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-    "image_url": null,
-    "published_at": "2026-09-23T23:39:44.000Z"
-  },
-  {
-    "headline": "Meta ditches the camera on its newest smart glasses",
-    "summary": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-    "image_url": null,
-    "published_at": "2026-09-23T23:37:17.000Z"
-  },
-  {
-    "headline": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-    "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-    "image_url": null,
-    "published_at": "2026-09-23T23:33:22.000Z"
   }
 ]

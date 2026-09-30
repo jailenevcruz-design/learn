@@ -1,5 +1,21 @@
 [
   {
+    "headline": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+    "summary": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+    "image_url": null,
+    "published_at": "2026-09-30T09:01:00.000Z"
+  },
+  {
+    "headline": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+    "summary": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a Michigan woman illuminates the wrenching decisions families and guardians face.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
+    "image_url": null,
+    "published_at": "2026-09-30T09:00:00.000Z"
+  },
+  {
     "headline": "Historic science museum in Philadelphia to close",
     "summary": "Philadelphia's Academy of Natural Sciences is set to close down thanks to financial pressures. The 198-year-old museum houses important scientific specimens and a beloved dinosaur exhibit.",
     "publisher": "NPR",
@@ -1582,21 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm",
     "image_url": null,
     "published_at": "2026-09-14T12:52:54.000Z"
-  },
-  {
-    "headline": "New Carlo Rovelli book challenges science's understanding of reality and the universe",
-    "summary": "In his latest book, the world-renowned physicist draws on science and philosophy to explore the notion that the universe and reality are fully knowable.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli",
-    "image_url": null,
-    "published_at": "2026-09-14T09:44:44.000Z"
-  },
-  {
-    "headline": "Scientists find how “zombie” cells fuel inflammation as we age",
-    "summary": "Scientists discovered that aging cells can use malfunctioning mitochondria to unlock inflammatory genes and keep the immune system stuck in a prolonged state of alert. Blocking one part of this process reduced inflammation and improved healthy aging in mice, suggesting a promising new strategy for fighting age-related…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260911214301.htm",
-    "image_url": null,
-    "published_at": "2026-09-14T03:48:19.000Z"
   }
 ]
