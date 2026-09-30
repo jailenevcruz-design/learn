@@ -1,5 +1,221 @@
 [
   {
+    "headline": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "image_url": null,
+    "published_at": "2026-09-30T00:19:13.000Z"
+  },
+  {
+    "headline": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "image_url": null,
+    "published_at": "2026-09-29T23:30:55.000Z"
+  },
+  {
+    "headline": "Trump orders US government to call AI ‘Super Intelligence’",
+    "summary": "Image: Carolyn Van Houten / The Washington Post via Getty Images The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "image_url": null,
+    "published_at": "2026-09-29T22:25:45.000Z"
+  },
+  {
+    "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "image_url": null,
+    "published_at": "2026-09-29T22:20:59.000Z"
+  },
+  {
+    "headline": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+    "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+    "image_url": null,
+    "published_at": "2026-09-29T22:18:35.000Z"
+  },
+  {
+    "headline": "BMW’s revamped i3 boasts up to 468 miles of range",
+    "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+    "image_url": null,
+    "published_at": "2026-09-29T22:01:00.000Z"
+  },
+  {
+    "headline": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+    "summary": "EliseAI raises $350M, doubles valuation in a year.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+    "image_url": null,
+    "published_at": "2026-09-29T21:51:36.000Z"
+  },
+  {
+    "headline": "Suspected ShinyHunters leader arrested in the Netherlands",
+    "summary": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch authorities state that they arrested the suspect on September 15th - j…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+    "image_url": null,
+    "published_at": "2026-09-29T21:50:31.000Z"
+  },
+  {
+    "headline": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "summary": "Elon Musk | Image: Laura Normand / The Verge Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "image_url": null,
+    "published_at": "2026-09-29T21:49:09.000Z"
+  },
+  {
+    "headline": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+    "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+    "image_url": null,
+    "published_at": "2026-09-29T21:20:12.000Z"
+  },
+  {
+    "headline": "OpenAI’s latest features take direct aim at the app store model",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "image_url": null,
+    "published_at": "2026-09-29T20:15:47.000Z"
+  },
+  {
+    "headline": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "image_url": null,
+    "published_at": "2026-09-29T19:52:37.000Z"
+  },
+  {
+    "headline": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+    "summary": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+    "image_url": null,
+    "published_at": "2026-09-29T18:48:03.000Z"
+  },
+  {
+    "headline": "Apple Pay set to launch in India with Axis Bank today, sources say",
+    "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+    "image_url": null,
+    "published_at": "2026-09-29T18:45:00.000Z"
+  },
+  {
+    "headline": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "image_url": null,
+    "published_at": "2026-09-29T18:35:00.000Z"
+  },
+  {
+    "headline": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "image_url": null,
+    "published_at": "2026-09-29T17:45:51.000Z"
+  },
+  {
+    "headline": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a non…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "image_url": null,
+    "published_at": "2026-09-29T17:35:03.000Z"
+  },
+  {
+    "headline": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+    "summary": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+    "image_url": null,
+    "published_at": "2026-09-29T17:27:09.000Z"
+  },
+  {
+    "headline": "AI-powered app maker Wabi pivots to a messaging experience",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "image_url": null,
+    "published_at": "2026-09-29T17:20:00.000Z"
+  },
+  {
+    "headline": "Razer’s low-latency wireless gaming keyboard is almost half off",
+    "summary": "Razer’s DeathStalker V2 Pro is discounted in both black and white. | Image: The Verge Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and low-profile line…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
+    "image_url": null,
+    "published_at": "2026-09-29T17:19:07.000Z"
+  },
+  {
+    "headline": "OpenAI launches Dots, its bubbly agentic avatar",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "image_url": null,
+    "published_at": "2026-09-29T17:17:15.000Z"
+  },
+  {
+    "headline": "OpenAI launches Dots, its Muse competitor",
+    "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connecte…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "image_url": null,
+    "published_at": "2026-09-29T17:15:00.000Z"
+  },
+  {
+    "headline": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "image_url": null,
+    "published_at": "2026-09-29T17:15:00.000Z"
+  },
+  {
+    "headline": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "image_url": null,
+    "published_at": "2026-09-29T17:15:00.000Z"
+  },
+  {
+    "headline": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "image_url": null,
+    "published_at": "2026-09-29T17:15:00.000Z"
+  },
+  {
+    "headline": "Protesters gather at OpenAI’s DevDay",
+    "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outsid…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "image_url": null,
+    "published_at": "2026-09-29T17:12:27.000Z"
+  },
+  {
+    "headline": "Can a chatbot fix the government maze? The White House is about to find out",
+    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "image_url": null,
+    "published_at": "2026-09-29T16:55:56.000Z"
+  },
+  {
     "headline": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
     "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game. \"Mythic Achievements have already been a…",
     "publisher": "The Verge",
@@ -1382,221 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
     "image_url": null,
     "published_at": "2026-09-23T23:33:22.000Z"
-  },
-  {
-    "headline": "Meta is making Muse more powerful and will let you video chat with it, too",
-    "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse agent over the new…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-    "image_url": null,
-    "published_at": "2026-09-23T23:19:42.000Z"
-  },
-  {
-    "headline": "Meta Connect 2026: The biggest news and announcements",
-    "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of ho…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-    "image_url": null,
-    "published_at": "2026-09-23T22:45:00.000Z"
-  },
-  {
-    "headline": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-    "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent essay about AI, smart…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-    "image_url": null,
-    "published_at": "2026-09-23T22:30:00.000Z"
-  },
-  {
-    "headline": "Anthropic says its biology lab has already found something big",
-    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-    "image_url": null,
-    "published_at": "2026-09-23T22:17:39.000Z"
-  },
-  {
-    "headline": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
-    "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-    "image_url": null,
-    "published_at": "2026-09-23T21:21:33.000Z"
-  },
-  {
-    "headline": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-    "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-    "image_url": null,
-    "published_at": "2026-09-23T20:35:17.000Z"
-  },
-  {
-    "headline": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
-    "summary": "The Surface Pro 12-inch Second Edition comes in black, silver, or violet. | Image: Microsoft Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with f…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
-    "image_url": null,
-    "published_at": "2026-09-23T20:30:00.000Z"
-  },
-  {
-    "headline": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-    "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured to work with other shortcuts from the S…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
-    "image_url": null,
-    "published_at": "2026-09-23T20:30:00.000Z"
-  },
-  {
-    "headline": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-    "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-    "image_url": null,
-    "published_at": "2026-09-23T19:31:28.000Z"
-  },
-  {
-    "headline": "Modal Motors is trying to cut China out of electric motors entirely",
-    "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-    "image_url": null,
-    "published_at": "2026-09-23T19:05:00.000Z"
-  },
-  {
-    "headline": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-    "summary": "An adorable little bear that wants to help you buy things. Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and no…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-    "image_url": null,
-    "published_at": "2026-09-23T19:00:00.000Z"
-  },
-  {
-    "headline": "Data centers are black boxes, but California wants to change that",
-    "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructur…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-    "image_url": null,
-    "published_at": "2026-09-23T18:22:57.000Z"
-  },
-  {
-    "headline": "Disney+ and Hulu add to the growing trend of streaming inflation",
-    "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-    "image_url": null,
-    "published_at": "2026-09-23T18:06:27.000Z"
-  },
-  {
-    "headline": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-    "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Clau…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-    "image_url": null,
-    "published_at": "2026-09-23T18:00:00.000Z"
-  },
-  {
-    "headline": "The old cybersecurity model is breaking",
-    "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simil…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-    "image_url": null,
-    "published_at": "2026-09-23T17:44:02.000Z"
-  },
-  {
-    "headline": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
-    "summary": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
-    "image_url": null,
-    "published_at": "2026-09-23T17:28:38.000Z"
-  },
-  {
-    "headline": "ChatGPT mobile app gets voice-based agentic features",
-    "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-    "image_url": null,
-    "published_at": "2026-09-23T17:00:00.000Z"
-  },
-  {
-    "headline": "Even Americans who use AI every day are worried about it",
-    "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-    "image_url": null,
-    "published_at": "2026-09-23T16:49:58.000Z"
-  },
-  {
-    "headline": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-    "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Sup…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-    "image_url": null,
-    "published_at": "2026-09-23T16:23:05.000Z"
-  },
-  {
-    "headline": "YouTube is making comments more fun — and fandom more lucrative for creators",
-    "summary": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
-    "image_url": null,
-    "published_at": "2026-09-23T16:03:44.000Z"
-  },
-  {
-    "headline": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
-    "summary": "The LED control display includes a Yeti mascot, because of course it does. | Image: Logitech G The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds som…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
-    "image_url": null,
-    "published_at": "2026-09-23T16:01:45.000Z"
-  },
-  {
-    "headline": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
-    "summary": "The X3 also comes in black. “Lunar eclipse” remains an option for the $179.99 X2. | Image: Logitech The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allow…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
-    "image_url": null,
-    "published_at": "2026-09-23T16:00:00.000Z"
-  },
-  {
-    "headline": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-    "summary": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-    "image_url": null,
-    "published_at": "2026-09-23T15:46:57.000Z"
-  },
-  {
-    "headline": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
-    "summary": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the Achievements in a game. Mythic Achievements appear on screen with a unique unlock sound,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
-    "image_url": null,
-    "published_at": "2026-09-23T15:45:11.000Z"
-  },
-  {
-    "headline": "YouTube Music gets more conversational with new AI features",
-    "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-    "image_url": null,
-    "published_at": "2026-09-23T15:19:30.000Z"
-  },
-  {
-    "headline": "One of the best Metroid games for the Switch is 30 percent off",
-    "summary": "Nintendo’s “Customer Appreciation” sale continues through September 26th. It includes discounts on Switch games and accessories, and I thought I’d call out one of my favorite games that’s cheaper than ever. Metroid Prime Remastered is down to $27.99 in digital format for the Switch and Switch 2, and it’s among the best…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-23T15:01:50.000Z"
-  },
-  {
-    "headline": "This $199 GPS sports watch is repairable, modular, and open-source",
-    "summary": "The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP LCD display and up to 10 days of battery life, similar to the Garmin Forerunner 70 or the Pebble Rou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular",
-    "image_url": null,
-    "published_at": "2026-09-23T15:01:16.000Z"
   }
 ]

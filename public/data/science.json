@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Historic science museum in Philadelphia to close",
+    "summary": "Philadelphia's Academy of Natural Sciences is set to close down thanks to financial pressures. The 198-year-old museum houses important scientific specimens and a beloved dinosaur exhibit.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/29/nx-s1-5983851/historic-science-museum-in-philadelphia-to-close",
+    "image_url": null,
+    "published_at": "2026-09-29T20:55:36.000Z"
+  },
+  {
     "headline": "This year's MacArthur Fellows include researchers who fuse science and justice",
     "summary": "The MacArthur Foundation has just announced its latest batch of 20 fellows. Among the recipients of the $800,000 \"no-strings-attached\" fellowships are researchers who were recognized for their work at the intersection of science and justice.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260911214301.htm",
     "image_url": null,
     "published_at": "2026-09-14T03:48:19.000Z"
-  },
-  {
-    "headline": "One Mount Etna eruption took weeks. Another happened in hours",
-    "summary": "Mount Etna’s ancient eruptions followed radically different paths, with some magma lingering near the surface for weeks while other magma raced upward from nearly 30 kilometers deep in just hours. Scientists traced the difference to volcanic gases such as carbon dioxide and water, offering a powerful new way to underst…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260912220100.htm",
-    "image_url": null,
-    "published_at": "2026-09-14T03:18:35.000Z"
   }
 ]

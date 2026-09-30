@@ -1,5 +1,13 @@
 [
   {
+    "headline": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
+    "summary": "Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
+    "image_url": null,
+    "published_at": "2026-09-29T17:00:08.000Z"
+  },
+  {
     "headline": "This year's MacArthur Fellows include researchers who fuse science and justice",
     "summary": "The MacArthur Foundation has just announced its latest batch of 20 fellows. Among the recipients of the $800,000 \"no-strings-attached\" fellowships are researchers who were recognized for their work at the intersection of science and justice.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
     "image_url": null,
     "published_at": "2026-07-27T09:00:00.000Z"
-  },
-  {
-    "headline": "More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total",
-    "summary": "NPR's A Martinez asks Dr. Jennifer Nuzzo of Brown University why there have been more measles cases this year so far than in all of last year, and what can be done to stop the resurgence.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/27/nx-s1-5906455/more-than-2-000-measles-cases-reported-in-the-u-s-so-far-outpacing-2025s-total",
-    "image_url": null,
-    "published_at": "2026-07-27T08:40:22.000Z"
   }
 ]
