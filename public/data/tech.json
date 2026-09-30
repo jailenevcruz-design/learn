@@ -1,11 +1,99 @@
 [
   {
+    "headline": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "image_url": null,
+    "published_at": "2026-09-30T21:07:40.000Z"
+  },
+  {
+    "headline": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+    "summary": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons license as required. Seeing an easy PR win, Neon is cashing in by announcing…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
+    "image_url": null,
+    "published_at": "2026-09-30T20:45:00.000Z"
+  },
+  {
+    "headline": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "image_url": null,
+    "published_at": "2026-09-30T20:41:41.000Z"
+  },
+  {
+    "headline": "Factory CEO just accused his VC board advisor of spying for Cognition",
+    "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+    "image_url": null,
+    "published_at": "2026-09-30T20:39:09.000Z"
+  },
+  {
+    "headline": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+    "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+    "image_url": null,
+    "published_at": "2026-09-30T20:20:02.000Z"
+  },
+  {
+    "headline": "Hackers stole millions of US military personnel records during months-long data breach",
+    "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+    "image_url": null,
+    "published_at": "2026-09-30T19:29:08.000Z"
+  },
+  {
+    "headline": "DoorDash’s drone strategy started on the ground",
+    "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+    "image_url": null,
+    "published_at": "2026-09-30T19:22:13.000Z"
+  },
+  {
+    "headline": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+    "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+    "image_url": null,
+    "published_at": "2026-09-30T19:19:40.000Z"
+  },
+  {
+    "headline": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "image_url": null,
+    "published_at": "2026-09-30T19:00:57.000Z"
+  },
+  {
     "headline": "AI voice startup ElevenLabs doubles valuation to $22B",
     "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
     "image_url": null,
     "published_at": "2026-09-30T18:23:57.000Z"
+  },
+  {
+    "headline": "The AI Tamagotchis are coming",
+    "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "image_url": null,
+    "published_at": "2026-09-30T18:07:38.000Z"
+  },
+  {
+    "headline": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+    "summary": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the company says that you'll have to be logged in and have used Old Reddit withi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+    "image_url": null,
+    "published_at": "2026-09-30T17:45:00.000Z"
   },
   {
     "headline": "Reddit is killing RSS feeds and ending public API access because of AI bots",
@@ -22,6 +110,22 @@
     "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
     "image_url": null,
     "published_at": "2026-09-30T17:24:45.000Z"
+  },
+  {
+    "headline": "Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;",
+    "summary": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several thousand captures in a single driver's typical shift,\" which Amazon pla…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+    "image_url": null,
+    "published_at": "2026-09-30T17:21:29.000Z"
+  },
+  {
+    "headline": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+    "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typ…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "image_url": null,
+    "published_at": "2026-09-30T17:15:49.000Z"
   },
   {
     "headline": "This blog could help you poop better",
@@ -128,14 +232,6 @@
     "published_at": "2026-09-30T14:32:03.000Z"
   },
   {
-    "headline": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to c…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-    "image_url": null,
-    "published_at": "2026-09-30T14:30:00.000Z"
-  },
-  {
     "headline": "Instagram rolls out an AI video assistant for creators",
     "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
     "publisher": "TechCrunch",
@@ -148,6 +244,14 @@
     "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-09-30T14:30:00.000Z"
+  },
+  {
+    "headline": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to c…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
     "image_url": null,
     "published_at": "2026-09-30T14:30:00.000Z"
   },
@@ -1494,109 +1598,5 @@
     "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
     "image_url": null,
     "published_at": "2026-09-24T22:08:22.000Z"
-  },
-  {
-    "headline": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-    "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-    "image_url": null,
-    "published_at": "2026-09-24T20:45:00.000Z"
-  },
-  {
-    "headline": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-    "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, L…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-    "image_url": null,
-    "published_at": "2026-09-24T19:59:26.000Z"
-  },
-  {
-    "headline": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "image_url": null,
-    "published_at": "2026-09-24T19:15:00.000Z"
-  },
-  {
-    "headline": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "image_url": null,
-    "published_at": "2026-09-24T19:00:42.000Z"
-  },
-  {
-    "headline": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-    "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-    "image_url": null,
-    "published_at": "2026-09-24T18:52:38.000Z"
-  },
-  {
-    "headline": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
-    "summary": "CyberPowerPC’s RTX 5070-equipped prebuilt. While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel Core i7-14700KF p…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-24T18:19:23.000Z"
-  },
-  {
-    "headline": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-    "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-    "image_url": null,
-    "published_at": "2026-09-24T18:11:44.000Z"
-  },
-  {
-    "headline": "Jensen Huang talks about AI and climate change like a supervillain",
-    "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the same accelerationist spin we'v…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-    "image_url": null,
-    "published_at": "2026-09-24T18:04:44.000Z"
-  },
-  {
-    "headline": "Meta is going to let you build games with AI right on your phone",
-    "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in early a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-    "image_url": null,
-    "published_at": "2026-09-24T17:52:29.000Z"
-  },
-  {
-    "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-    "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-    "image_url": null,
-    "published_at": "2026-09-24T17:39:24.000Z"
-  },
-  {
-    "headline": "Muse will apparently let you download its entire filesystem",
-    "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal docume…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-    "image_url": null,
-    "published_at": "2026-09-24T17:14:12.000Z"
-  },
-  {
-    "headline": "Muse sure looks a lot like OpenClaw",
-    "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, ha…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-    "image_url": null,
-    "published_at": "2026-09-24T17:10:38.000Z"
-  },
-  {
-    "headline": "Databricks buys Row Zero and is scouting for more startups to acquire",
-    "summary": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-    "image_url": null,
-    "published_at": "2026-09-24T17:07:55.000Z"
   }
 ]

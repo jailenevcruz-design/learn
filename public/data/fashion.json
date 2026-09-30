@@ -1,11 +1,27 @@
 [
   {
+    "headline": "Tom Ford Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tom-ford",
+    "image_url": null,
+    "published_at": "2026-09-30T22:40:04.000Z"
+  },
+  {
+    "headline": "L'Agence Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lagence",
+    "image_url": null,
+    "published_at": "2026-09-30T22:40:04.000Z"
+  },
+  {
     "headline": "Jenny Packham Spring 2027 Ready-to-Wear",
     "summary": "",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jenny-packham",
     "image_url": null,
-    "published_at": "2026-09-30T18:37:10.000Z"
+    "published_at": "2026-09-30T22:40:04.000Z"
   },
   {
     "headline": "Ashish Spring 2027 Ready-to-Wear",
@@ -13,7 +29,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ashish",
     "image_url": null,
-    "published_at": "2026-09-30T18:37:10.000Z"
+    "published_at": "2026-09-30T22:40:04.000Z"
   },
   {
     "headline": "Acne Studios Spring 2027 Ready-to-Wear",
@@ -21,7 +37,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/acne-studios",
     "image_url": null,
-    "published_at": "2026-09-30T18:37:10.000Z"
+    "published_at": "2026-09-30T22:40:04.000Z"
   },
   {
     "headline": "Vaquera Spring 2027 Ready-to-Wear",
@@ -29,7 +45,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/vaquera",
     "image_url": null,
-    "published_at": "2026-09-30T18:37:10.000Z"
+    "published_at": "2026-09-30T22:40:04.000Z"
   },
   {
     "headline": "Stella McCartney Spring 2027 Ready-to-Wear",
@@ -37,7 +53,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/stella-mccartney",
     "image_url": null,
-    "published_at": "2026-09-30T18:37:10.000Z"
+    "published_at": "2026-09-30T22:40:04.000Z"
   },
   {
     "headline": "Balmain Spring 2027 Ready-to-Wear",
@@ -45,7 +61,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/balmain",
     "image_url": null,
-    "published_at": "2026-09-30T18:37:10.000Z"
+    "published_at": "2026-09-30T22:40:04.000Z"
   },
   {
     "headline": "Dries Van Noten Spring 2027 Ready-to-Wear",
@@ -53,7 +69,135 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/dries-van-noten",
     "image_url": null,
-    "published_at": "2026-09-30T18:37:10.000Z"
+    "published_at": "2026-09-30T22:40:04.000Z"
+  },
+  {
+    "headline": "When Will Schools Ban Frats Once and for All?",
+    "summary": "How much unreported and largely unchecked abuse has already taken place in male-dominated Greek spaces, and how much more will we allow?",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/when-will-universities-and-colleges-ban-frats-once-and-for-all",
+    "image_url": null,
+    "published_at": "2026-09-30T22:28:47.000Z"
+  },
+  {
+    "headline": "This Cookbook Author Bride Held a Five-Hour Dinner Party for Her Intimate Provence Wedding",
+    "summary": "Chloé Crane-Leroux and Clément Leclerc embraced the spirit and cuisine of Provence at their 30-person wedding within the grounds of an 18th-century villa.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/chloe-crane-leroux-and-clement-leclerc-wedding",
+    "image_url": null,
+    "published_at": "2026-09-30T21:32:50.000Z"
+  },
+  {
+    "headline": "How Miku Martineau’s Sports Background Prepared Her for ‘Crew Girl’",
+    "summary": "The 22-year-old Canadian actress on her new Netflix series and what comes next.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/eye/people/miku-martineau-crew-girl-netflix-1239299102/",
+    "image_url": null,
+    "published_at": "2026-09-30T21:28:51.000Z"
+  },
+  {
+    "headline": "Levi’s Names Skechers Finance Chief John Vandemore CFO",
+    "summary": "He takes the finance reins from Harmit Singh, who revealed his plans to retire in April.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/human-resources/levis-names-skechers-cfo-john-vandemore-1239299043/",
+    "image_url": null,
+    "published_at": "2026-09-30T21:22:09.000Z"
+  },
+  {
+    "headline": "Tom Ford Spring 2027: In the Flesh",
+    "summary": "Haider Ackermann pushed boundaries this season, sending out racy swimsuits, silk robes and those sharply tailored Tom Ford jackets, with nothing underneath.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/runway/spring-2027/paris/tom-ford/review/",
+    "image_url": null,
+    "published_at": "2026-09-30T21:18:05.000Z"
+  },
+  {
+    "headline": "Most Americans Still Prefer to Buy Their Shoes in a Store, Survey Says",
+    "summary": "Survey data from YouGov explores where Americans are shopping for footwear.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-shopping-survey-yougov-americans-footwear-stores-1239298520/",
+    "image_url": null,
+    "published_at": "2026-09-30T21:17:39.000Z"
+  },
+  {
+    "headline": "Ziwe, Soo Joo Park and Ellis Howard Talk Interior Design at Courrèges",
+    "summary": "Guests at Drew Henry’s debut Courrèges show pondered on the eclectic selection of chairs, from midcentury modern to bistro-chic and everything in between, that dominated the decor.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/eye/people/https-wwd-com-eye-people-celebrities-front-row-courreges-spring-2027-show-1239295109/",
+    "image_url": null,
+    "published_at": "2026-09-30T21:16:54.000Z"
+  },
+  {
+    "headline": "Daisy Edgar-Jones Goes Monochrome in White With Trendy Alaïa Pumps for ‘Sense and Sensibility’ Promo",
+    "summary": "The actress attended a photo call for the movie in Sydney, Australia.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-trends/daisy-edgar-jones-alaia-pumps-sense-and-sensibility-promo-1239299161/",
+    "image_url": null,
+    "published_at": "2026-09-30T21:16:43.000Z"
+  },
+  {
+    "headline": "New York Magazine Celebrates First Men’s Style Issue With Mike Faist, Brandon Flynn and More",
+    "summary": "New York Magazine took over Bistrot Ha for a private dinner with the faces behind and in the pages of their first men's style issue.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/eye/parties/new-york-magazine-mens-style-issue-party-1239288765/",
+    "image_url": null,
+    "published_at": "2026-09-30T21:14:39.000Z"
+  },
+  {
+    "headline": "Augustinus Bader’s $145 Sunscreen for Winter Is Worth Every Penny",
+    "summary": "The celeb-adored brand's first sun care offering, launched last year, is already leading the category with its ability to reduce visible signs of aging while keeping sensitive skin happy.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/shop/shop-beauty/augustinus-bader-luxury-mineral-sunscreen-review-buy-online-1239065730/",
+    "image_url": null,
+    "published_at": "2026-09-30T21:13:00.000Z"
+  },
+  {
+    "headline": "6 Best AHA Body Lotions for Smoother Skin All Over",
+    "summary": "The best AHA body lotions use glycolic and lactic acids to resurface skin and address issues like keratosis pilaris and rough skin. Shop our top picks.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/aha-body-lotion",
+    "image_url": null,
+    "published_at": "2026-09-30T21:07:02.000Z"
+  },
+  {
+    "headline": "Denim Mills Detail Modal’s Product Development Potential, Part 2",
+    "summary": "In denim, the more predominant wood-based fiber is lyocell. Here is how some mills are using modal for denim fabrics to achieve different qualities.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/sj-denim/denim-mills-modal-fiber-product-development-1239298830/",
+    "image_url": null,
+    "published_at": "2026-09-30T20:57:25.000Z"
+  },
+  {
+    "headline": "Brazilian Photographer Rafael Pavarotti on Fashion, His First Major Museum Exhibition, and Harry Styles",
+    "summary": "Works by the artist, who has worked with Beyoncé Knowles-Carter, Rihanna and for Chanel and Dior, will be on display at Musée des Arts Décoratifs through May 2, 2027.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/eye/people/rafael-pavarotti-paris-exhibit-fashion-heritage-1239298359/",
+    "image_url": null,
+    "published_at": "2026-09-30T20:53:20.000Z"
+  },
+  {
+    "headline": "A Close Look At the 7 Key Autumn/Winter 2026 Bag Trends",
+    "summary": "Vogue highlights the key fall 2026 handbag trends to shop now. From super shoulder bags to new-gen clutches, these are styles to bookmark now.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/fall-2026-handbag-trends",
+    "image_url": null,
+    "published_at": "2026-09-30T20:32:51.000Z"
+  },
+  {
+    "headline": "Rebecca Hall’s Paris Itinerary Includes the Maison Margiela Show, Hotel Pastries, and Proust’s Bedroom",
+    "summary": "Here, Rebecca Hall brings Vogue along to the Maison Margiela show in Paris.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/rebecca-hall-maison-margiela-spring-2027-diary",
+    "image_url": null,
+    "published_at": "2026-09-30T19:42:10.000Z"
+  },
+  {
+    "headline": "Everyone Wore These 8 Things at Milan Fashion Week",
+    "summary": "Petite Prada pouches, leopard-print outerwear, and statement-making skirts lead the charge.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/top-of-the-carts-fashion-week",
+    "image_url": null,
+    "published_at": "2026-09-30T19:21:49.000Z"
   },
   {
     "headline": "Inside Sephora’s Marks & Spencer and U.K. Strategy",
@@ -128,8 +272,8 @@
     "published_at": "2026-09-30T17:35:42.000Z"
   },
   {
-    "headline": "I Tried HigherDose’s Red Light Hat for Hair Growth—Here’s What Happened",
-    "summary": "One Vogue writer reviews the HigherDose’s red light therapy hat after experiencing stress hair loss. Read about her four-month trial with the device.",
+    "headline": "I Tried HigherDose’s Red-Light Hat for Hair Growth—Here’s What Happened",
+    "summary": "One Vogue writer reviews the HigherDose’s red-light-therapy hat after experiencing stress hair loss. Read about her four-month trial with the device.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/higherdose-red-light-therapy-hat-review",
     "image_url": null,
@@ -1454,149 +1598,5 @@
     "url": "https://www.vogue.com/article/dakota-johnson-2026-vmas",
     "image_url": null,
     "published_at": "2026-09-28T01:25:55.000Z"
-  },
-  {
-    "headline": "George Michael in 20 Vintage Pictures",
-    "summary": "We’ve taken a dive into the archives to revisit some mesmerizing old pictures of one of England’s most iconic pop stars.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/vintage-pictures-of-george-michael",
-    "image_url": null,
-    "published_at": "2026-09-28T01:17:53.000Z"
-  },
-  {
-    "headline": "Raye Brings Sheer and Shimmer Together on the 2026 MTV VMAs Red Carpet",
-    "summary": "The singer wore a look from designer Georges Hobeika's fall 2027 couture collection.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/raye-georges-hobeika-dress-mtv-vmas-2026-1239283051/",
-    "image_url": null,
-    "published_at": "2026-09-28T00:55:44.000Z"
-  },
-  {
-    "headline": "Could Coal Eyes Be the Next Big Thing in Beauty?",
-    "summary": "Charli XCX, Teyana Taylor and more stars at the 2026 MTV VMAs make a case for the moody eye makeup.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/coal-eyes-makeup-trend-indie-sleaze-mtv-vmas-2026-1239283032/",
-    "image_url": null,
-    "published_at": "2026-09-28T00:48:28.000Z"
-  },
-  {
-    "headline": "Madonna, Sabrina Carpenter, Charli XCX and More Opened the 2026 MTV VMAs",
-    "summary": "Leave it to the Queen of Pop to open the 2026 VMAs on a star-studded (and sickening) note.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/madonna-sabrina-carpenter-charli-xcx-2026-mtv-vmas-opening-performance",
-    "image_url": null,
-    "published_at": "2026-09-28T00:45:03.000Z"
-  },
-  {
-    "headline": "Raye Sticks With Her Barefoot Performance Look at the 2026 MTV VMAs — Here’s Why She Skips Shoes on Stage",
-    "summary": "She appeared on the red carpet, however, in a pair of icy silvery-blue satin pumps.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/raye-performance-barefoot-trend-vmas-2026-1239282994/",
-    "image_url": null,
-    "published_at": "2026-09-28T00:34:59.000Z"
-  },
-  {
-    "headline": "All the Winners at the 2026 MTV VMAs: Live Updates",
-    "summary": "Catch up on all the winners at the 2026 Video Music Awards, hosted by Snoop Dogg, right here.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/live/all-the-winners-2026-vmas",
-    "image_url": null,
-    "published_at": "2026-09-27T23:54:49.000Z"
-  },
-  {
-    "headline": "8 Break Out Beauty Looks from The 2026 MTV VMAs",
-    "summary": "Taylor Swift's Italian cinema eyeliner is just one of the best beauty looks of the night.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/beauty-2026-mtv-vmas-09-27-2026",
-    "image_url": null,
-    "published_at": "2026-09-27T23:34:55.000Z"
-  },
-  {
-    "headline": "Taylor Swift Is Dressed to Make History at the 2026 VMAs",
-    "summary": "Tonight, Taylor Swift will receive the inaugural Artist Director Honors, which will make her the most-awarded person in VMAs history.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/taylor-swift-2026-vmas-2026-09-27",
-    "image_url": null,
-    "published_at": "2026-09-27T23:30:27.000Z"
-  },
-  {
-    "headline": "Things Are Getting Spooky Scary on the 2026 MTV VMAs Red Carpet",
-    "summary": "Charli xcx, Teyana Taylor, and Ella Bright are getting into the witchy spirit on the 2026 MTV VMAs red carpet in Los Angeles.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/witchy-fashion-2026-mtv-vmas-red-carpet-2026-09-27",
-    "image_url": null,
-    "published_at": "2026-09-27T23:20:12.000Z"
-  },
-  {
-    "headline": "Ella Bright Ditches Her Signature Hair Color for Something Witchy at the 2026 VMAs",
-    "summary": "Forget the good-girl look of Hannah “Wellsy” Wells—Bright has gone dark for fall.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/ella-bright-dark-hair-vmas-2026-09-27-2026",
-    "image_url": null,
-    "published_at": "2026-09-27T22:40:22.000Z"
-  },
-  {
-    "headline": "Giambattista Valli Acquires Full Ownership of His Brand From Artémis",
-    "summary": "The Italian designer has acquired full ownership of his brand from the Pinault family’s holding company, with which he went into partnership in 2021.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/giambattista-valli-acquires-full-ownership-of-his-brand-from-artemis",
-    "image_url": null,
-    "published_at": "2026-09-27T20:59:45.000Z"
-  },
-  {
-    "headline": "The Best Dressed Stars of the Week Weren’t Afraid to Get Theatrical",
-    "summary": "Naked dressing! Voluminous shapes! This week, the red carpets were home to serious statement dressing.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-kate-middleton-rihanna-emma-darcy",
-    "image_url": null,
-    "published_at": "2026-09-27T16:54:08.000Z"
-  },
-  {
-    "headline": "Gianvito Rossi Marked 20 Years of Fabulous Footwear and a New Rizzoli Tome",
-    "summary": "For the brand’s 20th anniversary celebration at Palazzo Serbelloni during Milan Fashion Week, both Naomi Watts and Paloma Elsesser turned up in the Jessica—and told Vogue they were more than happy to spend the evening on their feet.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/gianvito-rossi-20-anniversary-new-rizzoli-book",
-    "image_url": null,
-    "published_at": "2026-09-27T14:03:09.000Z"
-  },
-  {
-    "headline": "Cashmere Headphones and a Punk Rock Performance: Inside Thom Browne and Bose’s Bash at The Lotos Club",
-    "summary": "Thom Browne celebrated his Bose launch with an experiential event in the Upper East Side gilded age mansion, featuring a performance by Danish group Iceage.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/thom-brown-bose-headphones-collaboration-launch",
-    "image_url": null,
-    "published_at": "2026-09-27T13:12:45.000Z"
-  },
-  {
-    "headline": "Rosalía and Loli Bahia Turn a Paris PDA Into a Couples Style Moment",
-    "summary": "The musician and model looked loved up on the streets of Paris, while very much sticking to their own codes of style.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/rosalia-and-loli-bahia-paris-couple-style",
-    "image_url": null,
-    "published_at": "2026-09-27T12:19:49.000Z"
-  },
-  {
-    "headline": "To Celebrate Their Collaboration, Old Navy x Altuzarra Brought Literary Romance to Life at McNally Jackson",
-    "summary": "Inside the Old Navy x Altuzarra launch party with Zac Posen, Joseph Altuzarra, and Alexa Chung at McNally Jackson Books Rockefeller Center.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/old-navy-altuzarra-launch-party",
-    "image_url": null,
-    "published_at": "2026-09-27T12:09:23.000Z"
-  },
-  {
-    "headline": "From the Archives: Revisiting the Inception of Isaac Mizrahi’s Documentary, Unzipped",
-    "summary": "Unzipped, a delightful documentary about the life and times of Isaac Mizrahi, tells you everything you ever wanted to know about the fashion industry—and then some.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/from-the-archives-zippity-do-da",
-    "image_url": null,
-    "published_at": "2026-09-27T12:00:00.000Z"
-  },
-  {
-    "headline": "Exclusive: Gucci Got the Gang Together for a Late Night After-Party",
-    "summary": "Hours after presenting his Spring 2027 show, Demna gathered his crew from the front row and runway for an intimate dinner that began in the courtyard of Il Bolognese over Negronis.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/gucci-after-show-dinner-milan-september-2026",
-    "image_url": null,
-    "published_at": "2026-09-27T11:06:37.000Z"
   }
 ]
