@@ -1,19 +1,91 @@
 [
   {
+    "headline": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
+    "summary": "One of the pilots on a FlyDubai flight headed for Israel stabbed the second pilot, according to Israeli Prime Minister Benjamin Netanyahu.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html",
+    "image_url": null,
+    "published_at": "2026-10-01T01:09:18.000Z"
+  },
+  {
+    "headline": "OpenAI flags Chinese-linked effort to extract AI model reasoning",
+    "summary": "OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+    "image_url": null,
+    "published_at": "2026-10-01T01:06:02.000Z"
+  },
+  {
+    "headline": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
+    "summary": "Foreign insurers brace for another set of policy changes in India's insurance market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
+    "image_url": null,
+    "published_at": "2026-10-01T00:23:44.000Z"
+  },
+  {
+    "headline": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+    "summary": "California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
+    "image_url": null,
+    "published_at": "2026-09-30T23:50:01.000Z"
+  },
+  {
+    "headline": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+    "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+    "image_url": null,
+    "published_at": "2026-09-30T23:44:28.000Z"
+  },
+  {
+    "headline": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
+    "summary": "Paramount CEO David Ellison announced outgoing Mattel chief Ynon Kreiz will serve as the co-CEO of the anticipated combination of Paramount and WBD.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
+    "image_url": null,
+    "published_at": "2026-09-30T23:01:40.000Z"
+  },
+  {
+    "headline": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that",
+    "summary": "CNBC's Jim Cramer said Wednesday that several key parts of the U.S. economy have effectively frozen.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/jim-cramer-frozen-markets-stocks.html",
+    "image_url": null,
+    "published_at": "2026-09-30T23:00:52.000Z"
+  },
+  {
+    "headline": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
+    "summary": "Trump recently said he was \"very seriously\" considering a diesel export ban, despite warnings from the U.S. oil industry that doing so would raise prices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
+    "image_url": null,
+    "published_at": "2026-09-30T22:43:53.000Z"
+  },
+  {
+    "headline": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
+    "summary": "Lilly said it plans to start Phase 3 trials on the combo regimen adding its amylin drug eloralintide to tirzepatide at the end of the year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
+    "image_url": null,
+    "published_at": "2026-09-30T22:40:47.000Z"
+  },
+  {
+    "headline": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+    "summary": "Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+    "image_url": null,
+    "published_at": "2026-09-30T22:27:09.000Z"
+  },
+  {
     "headline": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
     "summary": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
     "image_url": null,
     "published_at": "2026-09-30T22:26:49.000Z"
-  },
-  {
-    "headline": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data",
-    "summary": "Kashkari will sit down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-    "image_url": null,
-    "published_at": "2026-09-30T22:21:27.000Z"
   },
   {
     "headline": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
@@ -32,12 +104,12 @@
     "published_at": "2026-09-30T22:11:08.000Z"
   },
   {
-    "headline": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
-    "summary": "Paramount CEO David Ellison announced outgoing Mattel chief Ynon Kreiz will serve as the co-CEO of the anticipated combination of Paramount and WBD.",
+    "headline": "Meta stock enjoys best month since 2022 on AI momentum",
+    "summary": "Meta stock had its best month in almost four years as investors cheer the social media giant's recent momentum in artificial intelligence.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
+    "url": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
     "image_url": null,
-    "published_at": "2026-09-30T21:51:44.000Z"
+    "published_at": "2026-09-30T21:36:47.000Z"
   },
   {
     "headline": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
@@ -246,14 +318,6 @@
     "url": "https://www.cnbc.com/2026/09/30/parents-avoid-meddling-adult-kids-job-search.html",
     "image_url": null,
     "published_at": "2026-09-30T14:40:45.000Z"
-  },
-  {
-    "headline": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
-    "summary": "Lilly said it plans to start Phase 3 trials on the combo regimen adding its amylin drug eloralintide to tirzepatide at the end of the year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
-    "image_url": null,
-    "published_at": "2026-09-30T14:32:03.000Z"
   },
   {
     "headline": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
@@ -1534,69 +1598,5 @@
     "url": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
     "image_url": null,
     "published_at": "2026-09-25T11:00:00.000Z"
-  },
-  {
-    "headline": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
-    "summary": "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
-    "image_url": null,
-    "published_at": "2026-09-25T10:30:01.000Z"
-  },
-  {
-    "headline": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
-    "summary": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
-    "image_url": null,
-    "published_at": "2026-09-25T10:25:01.000Z"
-  },
-  {
-    "headline": "Pharma stock soars 150% on injectables deal with Wegovy maker Novo",
-    "summary": "Shares in Swedish microcap stock Nanexa more than doubled after the drug-delivery group revealed a licensing deal with European pharma giant Novo Nordisk.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/wegovy-novo-nordisk-obesity-drugs.html",
-    "image_url": null,
-    "published_at": "2026-09-25T09:58:27.000Z"
-  },
-  {
-    "headline": "American farmers are hurting -- and worried about their futures",
-    "summary": "Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
-    "image_url": null,
-    "published_at": "2026-09-25T09:00:00.000Z"
-  },
-  {
-    "headline": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
-    "summary": "The U.S. has tapped into its strategic oil reserve to help drive down rising gasoline prices in the wake of the war with Iran. Can oil from Venezuela help fill it back up?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
-    "image_url": null,
-    "published_at": "2026-09-25T09:00:00.000Z"
-  },
-  {
-    "headline": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
-    "summary": "",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
-    "image_url": null,
-    "published_at": "2026-09-25T06:13:35.000Z"
-  },
-  {
-    "headline": "Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government",
-    "summary": "Oxygen Forensics counted numerous U.S. government agencies among its customers but lied for years about who really controlled it, prosecutors allege.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/tech-ceo-russian-national-charged-with-hiding-firms-russian-ties.html",
-    "image_url": null,
-    "published_at": "2026-09-25T05:59:34.000Z"
-  },
-  {
-    "headline": "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
-    "summary": "Oracle Japan shares surged after the company reported record fiscal first-quarter sales and profits.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html",
-    "image_url": null,
-    "published_at": "2026-09-25T01:56:24.000Z"
   }
 ]

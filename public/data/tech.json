@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+    "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grok…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+    "image_url": null,
+    "published_at": "2026-10-01T00:23:45.000Z"
+  },
+  {
+    "headline": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "image_url": null,
+    "published_at": "2026-09-30T23:43:07.000Z"
+  },
+  {
+    "headline": "The new and huger Paramount has a new co-CEO",
+    "summary": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, \"Ellison will focus on the company's long-term strategy, c…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
+    "image_url": null,
+    "published_at": "2026-09-30T23:08:49.000Z"
+  },
+  {
+    "headline": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+    "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+    "image_url": null,
+    "published_at": "2026-09-30T23:08:00.000Z"
+  },
+  {
     "headline": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
     "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
     "publisher": "TechCrunch",
@@ -24,8 +56,8 @@
     "published_at": "2026-09-30T20:41:41.000Z"
   },
   {
-    "headline": "Factory CEO just accused his VC board advisor of spying for Cognition",
-    "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+    "headline": "Factory CEO just accused his VC board adviser of spying for Cognition",
+    "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
     "image_url": null,
@@ -168,18 +200,18 @@
     "published_at": "2026-09-30T16:00:24.000Z"
   },
   {
-    "headline": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
-    "summary": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but it offers more finite…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
-    "image_url": null,
-    "published_at": "2026-09-30T16:00:00.000Z"
-  },
-  {
     "headline": "Destro AI’s secret sauce is getting robots and humans on the same page",
     "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "image_url": null,
+    "published_at": "2026-09-30T16:00:00.000Z"
+  },
+  {
+    "headline": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
+    "summary": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but it offers more finite…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
     "image_url": null,
     "published_at": "2026-09-30T16:00:00.000Z"
   },
@@ -1566,37 +1598,5 @@
     "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
     "image_url": null,
     "published_at": "2026-09-25T01:25:53.000Z"
-  },
-  {
-    "headline": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-    "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a rec…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-    "image_url": null,
-    "published_at": "2026-09-24T23:50:55.000Z"
-  },
-  {
-    "headline": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-    "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can connect…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-    "image_url": null,
-    "published_at": "2026-09-24T23:42:39.000Z"
-  },
-  {
-    "headline": "Waymo is scaling fast: Here’s what the fleet data shows",
-    "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-    "image_url": null,
-    "published_at": "2026-09-24T23:24:33.000Z"
-  },
-  {
-    "headline": "Microsoft puts Brad Smith in charge of communications",
-    "summary": "Microsoft vice chair and president Brad Smith. | Image: Getty Images Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
-    "image_url": null,
-    "published_at": "2026-09-24T22:08:22.000Z"
   }
 ]
