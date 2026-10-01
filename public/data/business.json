@@ -1,19 +1,59 @@
 [
   {
+    "headline": "The U.S. just made it much easier for retail investors to access private markets",
+    "summary": "The Securities and Exchange Commission has approved new plans to open private markets up to retail investors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
+    "image_url": null,
+    "published_at": "2026-10-01T07:23:01.000Z"
+  },
+  {
+    "headline": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+    "summary": "The U.S. announced plans for up to $200 billion in South Korean investment, though Seoul has yet to finalize the participation in the Alaska LNG project.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+    "image_url": null,
+    "published_at": "2026-10-01T05:44:18.000Z"
+  },
+  {
+    "headline": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
+    "summary": "RAF Fairford has been used as the U.S. Air Force's command outpost for operations from Europe and for American strikes on Iranian missile sites.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-10-01T05:08:23.000Z"
+  },
+  {
+    "headline": "In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday",
+    "summary": "China began its seven-day National Day holiday on Thursday after President Xi Jinping used his annual speech to sharpen Beijing's message on Taiwan.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html",
+    "image_url": null,
+    "published_at": "2026-10-01T03:25:38.000Z"
+  },
+  {
+    "headline": "AI race heats up as OpenAI flags alleged model-copying campaign",
+    "summary": "OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+    "image_url": null,
+    "published_at": "2026-10-01T02:14:43.000Z"
+  },
+  {
+    "headline": "Trump’s AI lunch included every major tech company. Except Apple",
+    "summary": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
+    "image_url": null,
+    "published_at": "2026-10-01T02:07:06.000Z"
+  },
+  {
     "headline": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
     "summary": "One of the pilots on a FlyDubai flight headed for Israel stabbed the second pilot, according to Israeli Prime Minister Benjamin Netanyahu.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html",
     "image_url": null,
     "published_at": "2026-10-01T01:09:18.000Z"
-  },
-  {
-    "headline": "OpenAI flags Chinese-linked effort to extract AI model reasoning",
-    "summary": "OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
-    "image_url": null,
-    "published_at": "2026-10-01T01:06:02.000Z"
   },
   {
     "headline": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
@@ -1558,45 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
     "image_url": null,
     "published_at": "2026-09-25T13:32:57.000Z"
-  },
-  {
-    "headline": "Top 10 things to watch in the stock market Friday",
-    "summary": "Stocks are heading for a higher open, and the S&P 500 and Nasdaq are poised to post winning weeks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/top-10-things-to-watch-in-the-stock-market-friday.html",
-    "image_url": null,
-    "published_at": "2026-09-25T13:09:58.000Z"
-  },
-  {
-    "headline": "Russia could attack a NATO country within months, Danish intelligence warns",
-    "summary": "The new threat assessment joins a growing chorus of Russia warnings from top European security officials and lawmakers in recent days.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html",
-    "image_url": null,
-    "published_at": "2026-09-25T13:00:55.000Z"
-  },
-  {
-    "headline": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
-    "summary": "As Novo works to turn itself around, some analysts say Lilly has advantages that could help it maintain its position at the top of the obesity drug market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
-    "image_url": null,
-    "published_at": "2026-09-25T12:51:39.000Z"
-  },
-  {
-    "headline": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
-    "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
-    "image_url": null,
-    "published_at": "2026-09-25T11:08:05.000Z"
-  },
-  {
-    "headline": "Why this Pokémon set is dropping in value",
-    "summary": "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week's Indicator newsletter.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
-    "image_url": null,
-    "published_at": "2026-09-25T11:00:00.000Z"
   }
 ]
