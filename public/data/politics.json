@@ -1,19 +1,27 @@
 [
   {
+    "headline": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
+    "summary": "Citing \"exceptional circumstances,\" a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to do so.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
+    "image_url": null,
+    "published_at": "2026-10-01T18:22:59.000Z"
+  },
+  {
+    "headline": "AI data centers: How much are ratepayers on the hook for?",
+    "summary": "Data centers consume large amounts of power and require upgrading infrastructure. But it's difficult to determine how much residential customers benefit and how much they actually pay for the benefit.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
+    "image_url": null,
+    "published_at": "2026-10-01T16:47:53.000Z"
+  },
+  {
     "headline": "California gubernatorial candidates face off in debate",
     "summary": "California's candidates for governor square off in a debate while the blue-leaning state grapples with affordability and other issues.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/01/nx-s1-5986313/california-gubernatorial-candidates-face-off-in-debate",
     "image_url": null,
     "published_at": "2026-10-01T10:48:03.000Z"
-  },
-  {
-    "headline": "Along U.S. Route 1, Maine voters worry about heating oil, gas and Canadian tariffs",
-    "summary": "Home to both Republican Sen. Susan Collins and Democratic candidate Troy Jackson, Maine's senate race has put rural Aroostook County in the spotlight.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5969830/maine-senate-collins-jackson-aroostook-county",
-    "image_url": null,
-    "published_at": "2026-10-01T09:00:00.000Z"
   },
   {
     "headline": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
@@ -28,6 +36,14 @@
     "summary": "The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he's trying again ahead of 2030.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes",
+    "image_url": null,
+    "published_at": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "headline": "Along U.S. Route 1, Maine voters worry about heating oil, gas and Canadian tariffs",
+    "summary": "Home to both Republican Sen. Susan Collins and Democratic candidate Troy Jackson, Maine's senate race has put rural Aroostook County in the spotlight.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5969830/maine-senate-collins-jackson-aroostook-county",
     "image_url": null,
     "published_at": "2026-10-01T09:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/09/03/nx-s1-5910644/veteran-political-journalist-on-division-among-democrats-over-democratic-socialism",
     "image_url": null,
     "published_at": "2026-09-03T08:08:56.000Z"
-  },
-  {
-    "headline": "Ex-National Security Council director on administration's plan for Venezuela oil",
-    "summary": "NPR's Michel Martin asks former Obama administration official Benjamin Gedan about the viability of the Trump administration's plan for Venezuelan oil.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5954063/ex-national-security-council-director-on-administrations-plan-for-venezuela-oil",
-    "image_url": null,
-    "published_at": "2026-09-03T08:08:17.000Z"
-  },
-  {
-    "headline": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
-    "summary": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
-    "image_url": null,
-    "published_at": "2026-09-02T09:00:00.000Z"
   }
 ]

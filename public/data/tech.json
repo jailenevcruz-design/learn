@@ -1,5 +1,189 @@
 [
   {
+    "headline": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+    "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside Apple's rumored smart h…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+    "image_url": null,
+    "published_at": "2026-10-01T22:51:36.000Z"
+  },
+  {
+    "headline": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+    "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+    "image_url": null,
+    "published_at": "2026-10-01T21:57:08.000Z"
+  },
+  {
+    "headline": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+    "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+    "image_url": null,
+    "published_at": "2026-10-01T21:55:22.000Z"
+  },
+  {
+    "headline": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "image_url": null,
+    "published_at": "2026-10-01T21:08:11.000Z"
+  },
+  {
+    "headline": "Google’s new Guided Vision feature can help you read the fine print",
+    "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or id…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "image_url": null,
+    "published_at": "2026-10-01T19:47:51.000Z"
+  },
+  {
+    "headline": "ChatGPT can now virtually try on clothes for you",
+    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "image_url": null,
+    "published_at": "2026-10-01T19:21:53.000Z"
+  },
+  {
+    "headline": "Android Central &#8216;will continue&#8217; despite laying off its staff",
+    "summary": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly about the layoffs, including Shruti Shekar, Derrek Lee, Harish Jonnal…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1003735/android-central-layoffs",
+    "image_url": null,
+    "published_at": "2026-10-01T19:20:29.000Z"
+  },
+  {
+    "headline": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "image_url": null,
+    "published_at": "2026-10-01T19:18:03.000Z"
+  },
+  {
+    "headline": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+    "summary": "The Steam Deck LCD’s “Aerith” APU. | Photo by Fritzchens Fritz The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reas…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+    "image_url": null,
+    "published_at": "2026-10-01T18:52:58.000Z"
+  },
+  {
+    "headline": "World’s first enhanced geothermal power plant completed in just 23 months",
+    "summary": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+    "image_url": null,
+    "published_at": "2026-10-01T18:35:55.000Z"
+  },
+  {
+    "headline": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "image_url": null,
+    "published_at": "2026-10-01T18:14:42.000Z"
+  },
+  {
+    "headline": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "image_url": null,
+    "published_at": "2026-10-01T17:50:19.000Z"
+  },
+  {
+    "headline": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+    "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wedne…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "image_url": null,
+    "published_at": "2026-10-01T17:12:21.000Z"
+  },
+  {
+    "headline": "This startup wants to turn idle car inventory into rental revenue",
+    "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
+    "image_url": null,
+    "published_at": "2026-10-01T17:09:00.000Z"
+  },
+  {
+    "headline": "Sony brings AI graphics upscaling to the regular PS5",
+    "summary": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, according to a blog post. Sony says that PlayStation Spectral Super Resolut…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+    "image_url": null,
+    "published_at": "2026-10-01T16:53:39.000Z"
+  },
+  {
+    "headline": "Amazon releases its own Jev clone as decision models flood the web",
+    "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "image_url": null,
+    "published_at": "2026-10-01T16:49:22.000Z"
+  },
+  {
+    "headline": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "image_url": null,
+    "published_at": "2026-10-01T16:44:35.000Z"
+  },
+  {
+    "headline": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
+    "summary": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+    "image_url": null,
+    "published_at": "2026-10-01T16:35:25.000Z"
+  },
+  {
+    "headline": "Can VR glasses save VR?",
+    "summary": "Sean wears the Meta VR Glasses. | Photo: Meta I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to understand that Meta just changed the game. We've had glasses, but we've never had glasses like this.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+    "image_url": null,
+    "published_at": "2026-10-01T16:10:32.000Z"
+  },
+  {
+    "headline": "Microsoft’s Office and Teams chief is leaving",
+    "summary": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then took control of Microsoft Teams earlier this year. Roslansky's departure has triggered another leadership shuffle inside Mi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+    "image_url": null,
+    "published_at": "2026-10-01T16:02:37.000Z"
+  },
+  {
+    "headline": "Inside Microsoft’s big Copilot rethink",
+    "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS f…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+    "image_url": null,
+    "published_at": "2026-10-01T16:00:00.000Z"
+  },
+  {
+    "headline": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+    "summary": "The CEO promised to get more specific about his vision. But the details are still absent.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+    "image_url": null,
+    "published_at": "2026-10-01T15:50:10.000Z"
+  },
+  {
+    "headline": "Brian Chesky interview: AI agents need their own operating system",
+    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "image_url": null,
+    "published_at": "2026-10-01T15:12:00.000Z"
+  },
+  {
     "headline": "NYC is now the first city in America that bans sketchy subscriptions",
     "summary": "Image: Angela Weiss / AFP via Getty Images | AFP via Getty Images New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subs…",
     "publisher": "The Verge",
@@ -16,18 +200,18 @@
     "published_at": "2026-10-01T14:36:50.000Z"
   },
   {
-    "headline": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-    "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire st…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-    "image_url": null,
-    "published_at": "2026-10-01T14:00:00.000Z"
-  },
-  {
     "headline": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
     "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "image_url": null,
+    "published_at": "2026-10-01T14:00:00.000Z"
+  },
+  {
+    "headline": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+    "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire st…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
     "image_url": null,
     "published_at": "2026-10-01T14:00:00.000Z"
   },
@@ -54,38 +238,6 @@
     "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
     "image_url": null,
     "published_at": "2026-10-01T13:17:16.000Z"
-  },
-  {
-    "headline": "Gears of War: E-Day is a great game launching at a terrible time",
-    "summary": "There are few blockbuster games that are as confident as Gears of War: E-Day. A prequel to one of Xbox's most transformative titles, E-Day knows exactly what it wants to be: a brutal, tense, and self-aware action game, one that is stronger because it doesn't deviate from that premise. Twenty years since the original Ge…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
-    "image_url": null,
-    "published_at": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "headline": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
-    "summary": "The base Kindle (shown here), Kindle Paperwhite, and Colorsoft come in aluminum options, not just plastic. | Photo: Cameron Faulkner / The Verge Kindles don't usually change much with each new version, but Amazon is launching next-generation models today that look and feel a whole lot nicer. The base Kindle, Kindle Pap…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
-    "image_url": null,
-    "published_at": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "headline": "Amazon’s Carrie is a cyberbullying nightmare",
-    "summary": "Do we really need a new version of Carrie? That's the question that plagues any attempt to reimagine the classic horror tale. Stephen King's 1974 novel remains one of his most iconic, and the film version from Brian De Palma and Sissy Spacek two years later remains unsurpassed, despite a handful adaptations that follow…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video",
-    "image_url": null,
-    "published_at": "2026-10-01T13:00:00.000Z"
-  },
-  {
-    "headline": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
-    "summary": "Does this range of colors look a little familiar? | Image: HP HP is announcing a new laptop that's squarely aimed at Apple's MacBook Neo. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 \"Wildcat Lake\" processor, 8GB of RAM, and a 256GB SSD. Much of that sounds pretty familiar, being in lockstep wit…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
-    "image_url": null,
-    "published_at": "2026-10-01T13:00:00.000Z"
   },
   {
     "headline": "Hearing tech startup Legato launches its AI hearing glasses",
@@ -116,6 +268,38 @@
     "summary": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Gears of War: E-Day is a great game launching at a terrible time",
+    "summary": "There are few blockbuster games that are as confident as Gears of War: E-Day. A prequel to one of Xbox's most transformative titles, E-Day knows exactly what it wants to be: a brutal, tense, and self-aware action game, one that is stronger because it doesn't deviate from that premise. Twenty years since the original Ge…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
+    "summary": "The base Kindle (shown here), Kindle Paperwhite, and Colorsoft come in aluminum options, not just plastic. | Photo: Cameron Faulkner / The Verge Kindles don't usually change much with each new version, but Amazon is launching next-generation models today that look and feel a whole lot nicer. The base Kindle, Kindle Pap…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Amazon’s Carrie is a cyberbullying nightmare",
+    "summary": "Do we really need a new version of Carrie? That's the question that plagues any attempt to reimagine the classic horror tale. Stephen King's 1974 novel remains one of his most iconic, and the film version from Brian De Palma and Sissy Spacek two years later remains unsurpassed, despite a handful adaptations that follow…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+    "summary": "Does this range of colors look a little familiar? | Image: HP HP is announcing a new laptop that's squarely aimed at Apple's MacBook Neo. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 \"Wildcat Lake\" processor, 8GB of RAM, and a 256GB SSD. Much of that sounds pretty familiar, being in lockstep wit…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
     "image_url": null,
     "published_at": "2026-10-01T13:00:00.000Z"
   },
@@ -1414,189 +1598,5 @@
     "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
     "image_url": null,
     "published_at": "2026-09-26T13:00:00.000Z"
-  },
-  {
-    "headline": "Pokémon card resellers have turned collecting into an online blood sport",
-    "summary": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not to be mad. But they were…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-    "image_url": null,
-    "published_at": "2026-09-26T12:00:00.000Z"
-  },
-  {
-    "headline": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
-    "summary": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-    "image_url": null,
-    "published_at": "2026-09-26T07:00:00.000Z"
-  },
-  {
-    "headline": "At Meta Connect, the company’s smart glasses were everywhere",
-    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "image_url": null,
-    "published_at": "2026-09-26T01:08:57.000Z"
-  },
-  {
-    "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "image_url": null,
-    "published_at": "2026-09-25T23:11:10.000Z"
-  },
-  {
-    "headline": "Automattic has a new board after failed attempt to put CEO on leave",
-    "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-    "image_url": null,
-    "published_at": "2026-09-25T23:04:34.000Z"
-  },
-  {
-    "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "image_url": null,
-    "published_at": "2026-09-25T22:20:47.000Z"
-  },
-  {
-    "headline": "Meta opens early access program for new Muse features",
-    "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "image_url": null,
-    "published_at": "2026-09-25T20:34:53.000Z"
-  },
-  {
-    "headline": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-    "summary": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-    "image_url": null,
-    "published_at": "2026-09-25T20:33:58.000Z"
-  },
-  {
-    "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "image_url": null,
-    "published_at": "2026-09-25T19:13:38.000Z"
-  },
-  {
-    "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-09-25T18:48:33.000Z"
-  },
-  {
-    "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-    "image_url": null,
-    "published_at": "2026-09-25T18:33:59.000Z"
-  },
-  {
-    "headline": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
-    "summary": "Roku’s new OLED TVs are already marked down. | Image: The Verge Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is e…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-25T18:18:57.000Z"
-  },
-  {
-    "headline": "Phones don’t have lights",
-    "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do not. In one of the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
-    "image_url": null,
-    "published_at": "2026-09-25T17:42:59.000Z"
-  },
-  {
-    "headline": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-    "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-    "image_url": null,
-    "published_at": "2026-09-25T17:30:00.000Z"
-  },
-  {
-    "headline": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-    "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-    "image_url": null,
-    "published_at": "2026-09-25T17:29:46.000Z"
-  },
-  {
-    "headline": "Astra and Opus just passed Turing’s other test",
-    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-    "image_url": null,
-    "published_at": "2026-09-25T17:24:36.000Z"
-  },
-  {
-    "headline": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
-    "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in Auto apertur…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
-    "image_url": null,
-    "published_at": "2026-09-25T17:23:30.000Z"
-  },
-  {
-    "headline": "Tesla&#8217;s Optimus robot is going through growing pains",
-    "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creat…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-    "image_url": null,
-    "published_at": "2026-09-25T17:01:36.000Z"
-  },
-  {
-    "headline": "Meta makes the Muse filesystem even more accessible",
-    "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-    "image_url": null,
-    "published_at": "2026-09-25T16:49:53.000Z"
-  },
-  {
-    "headline": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
-    "summary": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discovered in Apple's own…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
-    "image_url": null,
-    "published_at": "2026-09-25T16:22:05.000Z"
-  },
-  {
-    "headline": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "image_url": null,
-    "published_at": "2026-09-25T16:16:52.000Z"
-  },
-  {
-    "headline": "Meta’s AI Tamagotchi bet is…working?",
-    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotli…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-    "image_url": null,
-    "published_at": "2026-09-25T16:00:00.000Z"
-  },
-  {
-    "headline": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-    "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-    "image_url": null,
-    "published_at": "2026-09-25T15:52:13.000Z"
   }
 ]

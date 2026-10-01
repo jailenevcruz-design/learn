@@ -1,5 +1,37 @@
 [
   {
+    "headline": "This week in science: Loud birds, eating with company, and asteroid samples",
+    "summary": "NPR's Short Wave podcast talks about really loud birds, the benefits of eating with company and what asteroid samples could tell us about the early Earth.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5978049/this-week-in-science-loud-birds-eating-with-company-and-asteroid-samples",
+    "image_url": null,
+    "published_at": "2026-10-01T21:12:36.000Z"
+  },
+  {
+    "headline": "'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy",
+    "summary": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
+    "image_url": null,
+    "published_at": "2026-10-01T19:49:45.000Z"
+  },
+  {
+    "headline": "Google launches Project Suncatcher, a step towards AI data centers in space",
+    "summary": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+    "image_url": null,
+    "published_at": "2026-10-01T18:41:07.000Z"
+  },
+  {
+    "headline": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
+    "summary": "The crew of four — two NASA astronauts, one from Canada, and a Russian cosmonaut — heads to the International Space Station after liftoff from the Cape Canaveral Space Force Station in Florida.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
+    "image_url": null,
+    "published_at": "2026-10-01T15:21:33.000Z"
+  },
+  {
     "headline": "This giant stick insect fooled scientists for decades",
     "summary": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a familiar stick insect had been misidentified for decades, showing how much biodiversity may still be hiding in plain si…",
     "publisher": "ScienceDaily",
@@ -1566,37 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
     "image_url": null,
     "published_at": "2026-09-16T12:33:18.000Z"
-  },
-  {
-    "headline": "Venus may have swallowed its own moon",
-    "summary": "Venus may have once had a moon, but new research suggests the planet’s incredibly slow rotation could have doomed it. Computer simulations showed that instead of gradually drifting away like Earth’s moon, a Venusian moon would likely spiral inward until it crashed into the planet, with larger moons falling even faster.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260915232122.htm",
-    "image_url": null,
-    "published_at": "2026-09-16T11:49:57.000Z"
-  },
-  {
-    "headline": "Irrigation’s climate benefit could equal 363 years of its own emissions",
-    "summary": "U.S. irrigation produces some greenhouse gas emissions, but new research suggests it prevents vastly more by allowing farmers to grow more food on less land. Without irrigation, replacing lost crop yields could require converting natural ecosystems into farmland, releasing an estimated 6.86 gigatons of greenhouse gases…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260915232119.htm",
-    "image_url": null,
-    "published_at": "2026-09-16T11:34:17.000Z"
-  },
-  {
-    "headline": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
-    "summary": "A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth’s water may have been present much closer to the young Sun than scientists previously thought.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm",
-    "image_url": null,
-    "published_at": "2026-09-16T11:03:10.000Z"
-  },
-  {
-    "headline": "Senators question Trump's picks for top health positions, including surgeon general",
-    "summary": "On Wednesday, the Senate committee on health held a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third attempt to nominate a surgeon general.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
-    "image_url": null,
-    "published_at": "2026-09-16T10:00:00.000Z"
   }
 ]

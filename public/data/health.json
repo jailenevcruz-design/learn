@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Heat-related deaths in Phoenix rise, after two years of decline",
+    "summary": "Metro Phoenix has so far seen twice as many heat deaths as this time last year. Authorities are trying to understand why and how to intervene.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5936538/heat-related-deaths-in-phoenix-rise-after-two-years-of-decline",
+    "image_url": null,
+    "published_at": "2026-10-01T22:24:30.000Z"
+  },
+  {
+    "headline": "'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy",
+    "summary": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
+    "image_url": null,
+    "published_at": "2026-10-01T19:49:45.000Z"
+  },
+  {
+    "headline": "A new California law bans child marriage. What's the global outlook on the practice?",
+    "summary": "The governor of California has signed into law a ban on child marriage. What is the status of other efforts to ban the practice? And do bans prove effective?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
+    "image_url": null,
+    "published_at": "2026-10-01T19:44:41.000Z"
+  },
+  {
     "headline": "Trump administration reverses stance on integration of people with disabilities",
     "summary": "Disability rights advocates are angered by the latest reversal but are rallying behind proposed legislation and working with states to strengthen protections for community integration.",
     "publisher": "NPR",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/07/30/nx-s1-5891818/digital-habits-that-rob-attention-and-energy-and-how-to-combat-them",
     "image_url": null,
     "published_at": "2026-07-30T09:00:00.000Z"
-  },
-  {
-    "headline": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
-    "summary": "The release of Dr. Anthony Fauci's pandemic diaries has rekindled the debate over the origins of SARS-CoV-2. Here's how scientists have weighed in.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
-    "image_url": null,
-    "published_at": "2026-07-29T23:02:53.000Z"
-  },
-  {
-    "headline": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
-    "summary": "Federal subsidies that have helped defray insurers' Medicare drug costs will disappear at the end of the year. Millions of beneficiaries could face higher premiums in 2027.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
-    "image_url": null,
-    "published_at": "2026-07-29T20:58:03.000Z"
-  },
-  {
-    "headline": "The White House pushes healthy eating. It cut a landmark nutrition education program",
-    "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate the landmark nutrition education program SNAP-Ed.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/29/nx-s1-5896280-e1/the-white-house-pushes-healthy-eating-it-cut-a-landmark-nutrition-education-program",
-    "image_url": null,
-    "published_at": "2026-07-29T20:28:52.000Z"
   }
 ]
