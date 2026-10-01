@@ -1,5 +1,85 @@
 [
   {
+    "headline": "This giant stick insect fooled scientists for decades",
+    "summary": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a familiar stick insect had been misidentified for decades, showing how much biodiversity may still be hiding in plain si…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T13:59:22.000Z"
+  },
+  {
+    "headline": "New “plant armor” more than triples strawberry yields",
+    "summary": "A new protective fabric boosted strawberry yields by as much as 3.56 times while blocking insects and still allowing sunlight, rain, and airflow to reach the plants. Originally inspired by research on military clothing, Plant Armor could also help farms reduce pesticide and water use.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T13:43:15.000Z"
+  },
+  {
+    "headline": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+    "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s superconducting qubits or serve as a new ki…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T13:17:13.000Z"
+  },
+  {
+    "headline": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+    "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T13:03:50.000Z"
+  },
+  {
+    "headline": "This diet may slow brain aging by 2.5 years",
+    "summary": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes, while sweets and fried fast foods were associated with grea…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T12:26:47.000Z"
+  },
+  {
+    "headline": "1 in 13 adults under 30 already had hidden artery plaque",
+    "summary": "More than half of 16,000 apparently healthy adults had signs of atherosclerosis, with arterial plaques already detectable in about 1 in 13 people ages 18 to 29. Researchers say directly imaging the arteries could reveal hidden cardiovascular disease years or even decades before symptoms appear.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260929053541.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T11:46:21.000Z"
+  },
+  {
+    "headline": "Could quitting ultra-processed food boost your mental health?",
+    "summary": "People with depression who dramatically cut ultra-processed foods experienced notable improvements in their symptoms in a small preliminary study. Researchers suspect healthier eating may benefit the brain partly by reducing gut damage and chronic inflammation.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T06:34:01.000Z"
+  },
+  {
+    "headline": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
+    "summary": "The Alzheimer’s risk gene APOE4 may actively damage brain blood vessels and sabotage the cellular systems that remove harmful proteins. Researchers were able to reverse some of these effects in experiments, revealing promising new targets for Alzheimer’s, Parkinson’s, and other neurodegenerative diseases.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T04:45:26.000Z"
+  },
+  {
+    "headline": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
+    "summary": "Researchers have experimentally observed energy patterns that physicists have predicted for about 40 years. By arranging laser-trapped atoms into a quantum simulator, they recreated two different quantum tipping points and watched the atoms fall into the exact energy ratios predicted by theory. The technique could now…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T03:06:56.000Z"
+  },
+  {
+    "headline": "This common mistake can add nearly 7 points to your blood pressure reading",
+    "summary": "A common mistake during blood pressure checks could make readings appear substantially higher than they really are. Johns Hopkins researchers found that leaving the arm unsupported can raise systolic readings by about 6.5 mmHg, potentially affecting a hypertension diagnosis.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260928100606.htm",
+    "image_url": null,
+    "published_at": "2026-10-01T02:11:51.000Z"
+  },
+  {
     "headline": "Cannabis users were twice as likely to commit violence, review finds",
     "summary": "A review of more than 265,000 people found that cannabis use was associated with higher rates of both committing violence and becoming a victim of it. The researchers say the link is significant but does not prove cannabis itself is the cause.",
     "publisher": "ScienceDaily",
@@ -1518,85 +1598,5 @@
     "url": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
     "image_url": null,
     "published_at": "2026-09-16T10:00:00.000Z"
-  },
-  {
-    "headline": "U.S. acknowledges for the first time that it has deployed weapons in space",
-    "summary": "The remarkable revelation comes after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space",
-    "image_url": null,
-    "published_at": "2026-09-16T07:26:28.000Z"
-  },
-  {
-    "headline": "James Webb reveals Chariklo’s mysterious rings are changing faster than expected",
-    "summary": "The James Webb Space Telescope has revealed surprising changes in the rings around Chariklo, a small object orbiting between Saturn and Uranus. Over just a few years, its inner ring became more opaque while its outer ring became less opaque. The results suggest that rings around small Solar System bodies may be much mo…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260915232124.htm",
-    "image_url": null,
-    "published_at": "2026-09-16T03:51:58.000Z"
-  },
-  {
-    "headline": "Ultra-processed foods linked to hidden muscle fat that may threaten your knees",
-    "summary": "Eating more ultra-processed foods was linked to greater fat buildup inside thigh muscles, according to MRI scans of 615 adults at risk for knee osteoarthritis. Surprisingly, the association remained even after researchers accounted for calorie intake, physical activity, and other factors. Fatty changes in these muscles…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914102452.htm",
-    "image_url": null,
-    "published_at": "2026-09-16T03:00:57.000Z"
-  },
-  {
-    "headline": "Scientists find a hidden retinal defense against vision loss",
-    "summary": "A naturally occurring molecule called erucamide may help the retina fight back against diseases that cause progressive vision loss. Restoring the molecule activated protective immune responses that helped stabilize retinal tissue and slow aspects of degeneration in preclinical models.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914102447.htm",
-    "image_url": null,
-    "published_at": "2026-09-16T02:37:01.000Z"
-  },
-  {
-    "headline": "Scientists reversed biological age in older adults in just 4 weeks",
-    "summary": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four weeks. The strongest result appeared in participants eating an omnivorous, lower-fat, higher-carbohydrate diet.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260915100000.htm",
-    "image_url": null,
-    "published_at": "2026-09-16T01:35:54.000Z"
-  },
-  {
-    "headline": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
-    "summary": "Antarctic krill serve as a crucial food source for penguins, seals, and whales. They recycle nutrients used by algae. Now researchers say they've found krill in a surprising place: hydrothermal vents.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole",
-    "image_url": null,
-    "published_at": "2026-09-15T16:53:39.000Z"
-  },
-  {
-    "headline": "Scientists stunned as volcano cloud starts destroying methane",
-    "summary": "The Hunga Tonga eruption may have triggered a surprising chemical reaction that destroyed some of the methane released into the atmosphere. Scientists say the discovery could reshape estimates of methane pollution and inspire new methods for slowing near-term global warming.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260915095750.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T15:15:31.000Z"
-  },
-  {
-    "headline": "Smelling chocolate helped men complete more reps without feeling more tired",
-    "summary": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may influence appetite and motivation by making the brain anticipate eating.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T15:03:54.000Z"
-  },
-  {
-    "headline": "This Australian cave hid 25,000 years of ritual secrets",
-    "summary": "Microscopic plant remains are revealing how GunaiKurnai ancestors used Cloggs Cave for ritual practices over thousands of years. People deliberately gathered whole grasses, carried them into the dark cave, and burned them in thin layers, leaving behind traces that may span 25,000 years. A standing stone erected around…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914102443.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T14:43:23.000Z"
-  },
-  {
-    "headline": "Scientists discover a major brain shift between ages 50 and 75",
-    "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brai…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
-    "image_url": null,
-    "published_at": "2026-09-15T14:28:38.000Z"
   }
 ]

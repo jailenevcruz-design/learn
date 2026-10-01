@@ -1,11 +1,67 @@
 [
   {
-    "headline": "The U.S. just made it much easier for retail investors to access private markets",
-    "summary": "The Securities and Exchange Commission has approved new plans to open private markets up to retail investors.",
+    "headline": "Judge dismisses Reflecting Pool case against Olympian, bars DOJ from refiling charges",
+    "summary": "President Donald Trump had criticized D.C. U.S. Attorney Jeanine Pirro after she moved to drop the Reflecting Pool case.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
+    "url": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
     "image_url": null,
-    "published_at": "2026-10-01T07:23:01.000Z"
+    "published_at": "2026-10-01T14:48:19.000Z"
+  },
+  {
+    "headline": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
+    "summary": "More than 60 million children have been automatically enrolled in Trump Accounts, according to a Treasury Department announcement exclusively provided to CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
+    "image_url": null,
+    "published_at": "2026-10-01T14:39:56.000Z"
+  },
+  {
+    "headline": "10-year Treasury yield climbs to a 24-year high amid relentless global bond sell-off",
+    "summary": "Treasury yields were higher on Thursday as investors kept selling government debt.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
+    "image_url": null,
+    "published_at": "2026-10-01T14:39:19.000Z"
+  },
+  {
+    "headline": "SEC proposes investor exam to expand private market access — here's how it could work",
+    "summary": "The SEC proposed expanding accredited investor eligibility beyond traditional income and net worth thresholds, including through a new exam.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/sec-accredited-investor-exam-private-markets.html",
+    "image_url": null,
+    "published_at": "2026-10-01T14:33:08.000Z"
+  },
+  {
+    "headline": "Social Security claiming ages may soon get new names. What retirees need to know",
+    "summary": "President Donald Trump may sign a bill into law that would change the way Social Security retirement ages are described.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/claiming-age-clarity-act-social-security.html",
+    "image_url": null,
+    "published_at": "2026-10-01T14:20:23.000Z"
+  },
+  {
+    "headline": "Racehorse market breaks records riding high on tax breaks, stock market gains",
+    "summary": "Keeneland's 2026 September Yearling Sale, the world's largest thoroughbred auction, grossed a record $536.7 million.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/racehorse-market-breaks-records-on-tax-breaks-stock-market-gains.html",
+    "image_url": null,
+    "published_at": "2026-10-01T14:00:48.000Z"
+  },
+  {
+    "headline": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+    "summary": "Micron is up over 500% in the past year as the company benefits from soaring AI demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+    "image_url": null,
+    "published_at": "2026-10-01T13:59:54.000Z"
+  },
+  {
+    "headline": "AI is operating inside the healthcare billing system. Patients may already be paying the price",
+    "summary": "As AI codes billing inside hospitals, insurers say costs are being added to a bloated health care system. Blue Cross Blue Shield put the tab near $1 billion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/health-care-costs-insurance-claims-billing-ai.html",
+    "image_url": null,
+    "published_at": "2026-10-01T13:57:03.000Z"
   },
   {
     "headline": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
@@ -13,7 +69,95 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
     "image_url": null,
-    "published_at": "2026-10-01T05:44:18.000Z"
+    "published_at": "2026-10-01T13:40:27.000Z"
+  },
+  {
+    "headline": "The U.S. just made it much easier for retail investors to access private markets",
+    "summary": "The Securities and Exchange Commission has approved new plans to open private markets up to retail investors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
+    "image_url": null,
+    "published_at": "2026-10-01T13:38:32.000Z"
+  },
+  {
+    "headline": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+    "summary": "California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
+    "image_url": null,
+    "published_at": "2026-10-01T13:21:11.000Z"
+  },
+  {
+    "headline": "Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude near $100",
+    "summary": "It comes after a report that Chinese refiners suspended October fuel exports to protect domestic supplies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
+    "image_url": null,
+    "published_at": "2026-10-01T13:20:02.000Z"
+  },
+  {
+    "headline": "Walmart is using light-up digital shelf labels to help shoppers and employees find items",
+    "summary": "Walmart is rolling out a light-up shelf label feature connected to its app to help customers better find the items they're looking for.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/walmart-digital-shelf-label-tools.html",
+    "image_url": null,
+    "published_at": "2026-10-01T13:18:47.000Z"
+  },
+  {
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "summary": "Micron shares should be higher after that spectacular quarter.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:03.000Z"
+  },
+  {
+    "headline": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
+    "summary": "SpaceX plans to launch Google tensor processing units into orbit on Planet Labs satellites.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+    "image_url": null,
+    "published_at": "2026-10-01T11:20:15.000Z"
+  },
+  {
+    "headline": "Japan's prime minister says her policies will boost confidence in the yen after U.S. intervention falls short",
+    "summary": "Japan's Prime Minister said her government's policies will lift confidence in the yen, following underwhelming success in prior efforts to boost the currency.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/japan-yen-dollar-trump-intervention.html",
+    "image_url": null,
+    "published_at": "2026-10-01T11:13:25.000Z"
+  },
+  {
+    "headline": "Bargain Britain lures foreign buyers as hostile takeovers surge",
+    "summary": "International capital is driving a surge in public takeovers in the G7’s fastest-growing economy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/hostile-takeovers-mergers-acquisitions-uk.html",
+    "image_url": null,
+    "published_at": "2026-10-01T10:53:11.000Z"
+  },
+  {
+    "headline": "Russia launches massive strikes on Ukraine’s energy grid, forcing power cuts ahead of winter",
+    "summary": "Seven people were killed in the attack and emergency power cuts were imposed in Kyiv and three other regions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html",
+    "image_url": null,
+    "published_at": "2026-10-01T09:48:06.000Z"
+  },
+  {
+    "headline": "Trade tensions mean fewer Canadians flocking to South Florida",
+    "summary": "This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5971507/trade-tensions-fewer-canadians-south-florida",
+    "image_url": null,
+    "published_at": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "headline": "Egg prices have tumbled since Trump returned to office. Here's why",
+    "summary": "Agriculture experts say high egg prices were the result of severe avian flu outbreaks, but the Trump administration's tariffs and the war with Iran have also put pressure on farmers.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5978076/egg-prices-trump-affordability",
+    "image_url": null,
+    "published_at": "2026-10-01T09:00:00.000Z"
   },
   {
     "headline": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
@@ -62,14 +206,6 @@
     "url": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
     "image_url": null,
     "published_at": "2026-10-01T00:23:44.000Z"
-  },
-  {
-    "headline": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
-    "summary": "California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
-    "image_url": null,
-    "published_at": "2026-09-30T23:50:01.000Z"
   },
   {
     "headline": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
@@ -166,14 +302,6 @@
     "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
     "image_url": null,
     "published_at": "2026-09-30T21:09:42.000Z"
-  },
-  {
-    "headline": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-    "summary": "Micron is up over 500% in the past year as the company benefits from soaring AI demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
-    "image_url": null,
-    "published_at": "2026-09-30T20:59:05.000Z"
   },
   {
     "headline": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
@@ -1470,133 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/25/oil-falls-as-potential-diplomatic-solution-to-iran-conflict-arises.html",
     "image_url": null,
     "published_at": "2026-09-25T19:38:31.000Z"
-  },
-  {
-    "headline": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
-    "summary": "Saudi exports are rising despite escalating attacks on its infrastructure from Iran-backed militants in Yemen and Iraq.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
-    "image_url": null,
-    "published_at": "2026-09-25T18:46:23.000Z"
-  },
-  {
-    "headline": "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
-    "summary": "Incumbents hold commanding cash advantages in many of the U.S. House 2026 midterm election races expected to help decide control of Congress.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
-    "image_url": null,
-    "published_at": "2026-09-25T18:10:20.000Z"
-  },
-  {
-    "headline": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
-    "summary": "With a brilliant hardware funnel and an options market pricing in juicy short-term premiums, Meta looks primed for a powerful breakout into 2027.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/-metas-powerful-breakout-sets-up-a-unique-trading-strategy-says-mike-khouw.html",
-    "image_url": null,
-    "published_at": "2026-09-25T17:57:14.000Z"
-  },
-  {
-    "headline": "The iced coffee debate reflects 'everything wrong with hiring right now,' says career expert",
-    "summary": "Iced coffee is at the center of an intergenerational hiring debate taking place across the internet. A career expert says it reflects a broken job market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/iced-coffee-job-interview.html",
-    "image_url": null,
-    "published_at": "2026-09-25T17:50:49.000Z"
-  },
-  {
-    "headline": "Trump says Scott Bessent won't be AI czar",
-    "summary": "President Donald Trump said Treasury Secretary Bessent doesn't want to be what the president is calling the \"Super Intelligence czar.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
-    "image_url": null,
-    "published_at": "2026-09-25T17:28:32.000Z"
-  },
-  {
-    "headline": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-    "summary": "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-    "image_url": null,
-    "published_at": "2026-09-25T17:19:19.000Z"
-  },
-  {
-    "headline": "NIH funding cuts delayed a promising childhood brain cancer trial. Patients lost time they didn't have",
-    "summary": "A delayed clinical trial underscores the stakes of federal research funding cuts for children with DIPG, a deadly brain tumor with few treatment options.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/nih-cuts-delayed-a-cancer-trial-patients-lost-time-they-didnt-have.html",
-    "image_url": null,
-    "published_at": "2026-09-25T16:43:02.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield hit a 19-year high—and some investors see opportunity to buy bonds",
-    "summary": "The 10-year Treasury yield hit its highest level since 2007. Here’s what higher yields can mean for bond investors and borrowers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/treasury-yield-buy-bonds.html",
-    "image_url": null,
-    "published_at": "2026-09-25T16:40:09.000Z"
-  },
-  {
-    "headline": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
-    "summary": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
-    "image_url": null,
-    "published_at": "2026-09-25T16:20:40.000Z"
-  },
-  {
-    "headline": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-    "summary": "With Microsoft still searching for a winning AI strategy, the company its updating its Copilot app to combine more capabilities.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
-    "image_url": null,
-    "published_at": "2026-09-25T15:51:25.000Z"
-  },
-  {
-    "headline": "India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters",
-    "summary": "India’s Cockroach Janta Party demanded election chief Gyanesh Kumar resign after reported internal objections over voter-roll revisions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/india-cockroach-party-election-protest-democracy.html",
-    "image_url": null,
-    "published_at": "2026-09-25T15:24:20.000Z"
-  },
-  {
-    "headline": "New study reveals the estate-planning choices that are likely to pit heirs against each other",
-    "summary": "The study identified contested trust disputes by examining thousands of civil filings that were scheduled to come before San Francisco Superior Court.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/study-estate-planning-heirs-legal-battles.html",
-    "image_url": null,
-    "published_at": "2026-09-25T15:01:50.000Z"
-  },
-  {
-    "headline": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
-    "summary": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
-    "image_url": null,
-    "published_at": "2026-09-25T14:43:23.000Z"
-  },
-  {
-    "headline": "Here's who attended the Trump-Xi state dinner",
-    "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-    "image_url": null,
-    "published_at": "2026-09-25T14:41:24.000Z"
-  },
-  {
-    "headline": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
-    "summary": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
-    "image_url": null,
-    "published_at": "2026-09-25T13:45:18.000Z"
-  },
-  {
-    "headline": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-    "summary": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
-    "image_url": null,
-    "published_at": "2026-09-25T13:32:57.000Z"
   }
 ]

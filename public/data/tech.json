@@ -1,5 +1,133 @@
 [
   {
+    "headline": "NYC is now the first city in America that bans sketchy subscriptions",
+    "summary": "Image: Angela Weiss / AFP via Getty Images | AFP via Getty Images New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subs…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+    "image_url": null,
+    "published_at": "2026-10-01T14:49:25.000Z"
+  },
+  {
+    "headline": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+    "summary": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Al…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+    "image_url": null,
+    "published_at": "2026-10-01T14:36:50.000Z"
+  },
+  {
+    "headline": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+    "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire st…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+    "image_url": null,
+    "published_at": "2026-10-01T14:00:00.000Z"
+  },
+  {
+    "headline": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "image_url": null,
+    "published_at": "2026-10-01T14:00:00.000Z"
+  },
+  {
+    "headline": "The best early October Prime Day deals happening now",
+    "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+    "image_url": null,
+    "published_at": "2026-10-01T13:35:15.000Z"
+  },
+  {
+    "headline": "What even is a ‘microdrama’?",
+    "summary": "On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours \"into microdramas.\" These clips will be available on Epis, a short-form vertical video streaming platform. Though Neighbours ran for 41 seasons from 1985 to 2025, at launch, RoseBerry is only recutting two sto…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
+    "image_url": null,
+    "published_at": "2026-10-01T13:30:00.000Z"
+  },
+  {
+    "headline": "Samsung raised prices on the Galaxy S26 by $100",
+    "summary": "The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports. The Galaxy S26 and S26 Plus were already $100 more expensive than their S25 predecessors when they launched earlier this year, which Samsung said RAM price hikes were partly to blame…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
+    "image_url": null,
+    "published_at": "2026-10-01T13:17:16.000Z"
+  },
+  {
+    "headline": "Gears of War: E-Day is a great game launching at a terrible time",
+    "summary": "There are few blockbuster games that are as confident as Gears of War: E-Day. A prequel to one of Xbox's most transformative titles, E-Day knows exactly what it wants to be: a brutal, tense, and self-aware action game, one that is stronger because it doesn't deviate from that premise. Twenty years since the original Ge…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
+    "summary": "The base Kindle (shown here), Kindle Paperwhite, and Colorsoft come in aluminum options, not just plastic. | Photo: Cameron Faulkner / The Verge Kindles don't usually change much with each new version, but Amazon is launching next-generation models today that look and feel a whole lot nicer. The base Kindle, Kindle Pap…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Amazon’s Carrie is a cyberbullying nightmare",
+    "summary": "Do we really need a new version of Carrie? That's the question that plagues any attempt to reimagine the classic horror tale. Stephen King's 1974 novel remains one of his most iconic, and the film version from Brian De Palma and Sissy Spacek two years later remains unsurpassed, despite a handful adaptations that follow…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+    "summary": "Does this range of colors look a little familiar? | Image: HP HP is announcing a new laptop that's squarely aimed at Apple's MacBook Neo. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 \"Wildcat Lake\" processor, 8GB of RAM, and a 256GB SSD. Much of that sounds pretty familiar, being in lockstep wit…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Hearing tech startup Legato launches its AI hearing glasses",
+    "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+    "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+    "summary": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+    "summary": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+    "image_url": null,
+    "published_at": "2026-10-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "image_url": null,
+    "published_at": "2026-10-01T12:00:00.000Z"
+  },
+  {
     "headline": "Vivo’s X Fold 6 accidentally feels like a throwback",
     "summary": "The X Fold 6 looks like foldables did three months ago. It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's p…",
     "publisher": "The Verge",
@@ -128,18 +256,18 @@
     "published_at": "2026-09-30T18:07:38.000Z"
   },
   {
-    "headline": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
-    "summary": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the company says that you'll have to be logged in and have used Old Reddit withi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
-    "image_url": null,
-    "published_at": "2026-09-30T17:45:00.000Z"
-  },
-  {
     "headline": "Reddit is killing RSS feeds and ending public API access because of AI bots",
     "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "image_url": null,
+    "published_at": "2026-09-30T17:45:00.000Z"
+  },
+  {
+    "headline": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+    "summary": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the company says that you'll have to be logged in and have used Old Reddit withi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
     "image_url": null,
     "published_at": "2026-09-30T17:45:00.000Z"
   },
@@ -710,14 +838,6 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
     "image_url": null,
     "published_at": "2026-09-29T14:08:21.000Z"
-  },
-  {
-    "headline": "The best early October Prime Day deals happening now",
-    "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-    "image_url": null,
-    "published_at": "2026-09-29T14:00:00.000Z"
   },
   {
     "headline": "SteelSeries’ new mice are super light, with ultra-wideband and swappable batteries",
@@ -1478,125 +1598,5 @@
     "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
     "image_url": null,
     "published_at": "2026-09-25T15:52:13.000Z"
-  },
-  {
-    "headline": "Sony and UMG are suing Suno again",
-    "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, wh…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-    "image_url": null,
-    "published_at": "2026-09-25T15:51:56.000Z"
-  },
-  {
-    "headline": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-    "summary": "The latest unauthorized agent swarms were discovered by researchers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "image_url": null,
-    "published_at": "2026-09-25T15:48:14.000Z"
-  },
-  {
-    "headline": "Anthropic’s founders seek voting control ahead of IPO",
-    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-    "image_url": null,
-    "published_at": "2026-09-25T15:40:03.000Z"
-  },
-  {
-    "headline": "One company is at the center of a wave of rogue AI attacks",
-    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-    "image_url": null,
-    "published_at": "2026-09-25T15:39:48.000Z"
-  },
-  {
-    "headline": "Tesla finally moves to electrify trucking after a decade of work and delays",
-    "summary": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-    "image_url": null,
-    "published_at": "2026-09-25T15:24:50.000Z"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-    "image_url": null,
-    "published_at": "2026-09-25T15:00:00.000Z"
-  },
-  {
-    "headline": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
-    "summary": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
-    "image_url": null,
-    "published_at": "2026-09-25T14:21:25.000Z"
-  },
-  {
-    "headline": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "image_url": null,
-    "published_at": "2026-09-25T14:15:00.000Z"
-  },
-  {
-    "headline": "Gaming’s biggest horror series are more vital than ever",
-    "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best not to get brutally murdered by dem…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
-    "image_url": null,
-    "published_at": "2026-09-25T14:10:00.000Z"
-  },
-  {
-    "headline": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-    "summary": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
-    "image_url": null,
-    "published_at": "2026-09-25T14:05:04.000Z"
-  },
-  {
-    "headline": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-    "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-    "image_url": null,
-    "published_at": "2026-09-25T14:00:00.000Z"
-  },
-  {
-    "headline": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
-    "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
-    "image_url": null,
-    "published_at": "2026-09-25T13:24:34.000Z"
-  },
-  {
-    "headline": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-    "summary": "I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of Gemini for Home, Apple Intelligence for Home, and Amazon’s Ring. | Photo by Jennifer Pattison Tuohy / The Verge A few years back, I was at a beachside Easter egg hunt, watching my k…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-    "image_url": null,
-    "published_at": "2026-09-25T13:00:00.000Z"
-  },
-  {
-    "headline": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-    "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-    "image_url": null,
-    "published_at": "2026-09-25T05:00:00.000Z"
-  },
-  {
-    "headline": "Here’s the Tesla Semi… again",
-    "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
-    "image_url": null,
-    "published_at": "2026-09-25T02:12:57.000Z"
   }
 ]
