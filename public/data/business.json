@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+    "summary": "Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+    "image_url": null,
+    "published_at": "2026-10-02T09:01:37.000Z"
+  },
+  {
+    "headline": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
+    "summary": "After 32 years in Congress, Ohio's Sherrod Brown lost his Senate seat in 2024 as many working class voters turned out for Trump. Now Brown is counting on union voters to send him back to Washington.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
+    "image_url": null,
+    "published_at": "2026-10-02T09:00:00.000Z"
+  },
+  {
+    "headline": "Oil prices extend losses after reports of potential European diesel, crude stock release",
+    "summary": "It comes after Reuters reported that EU nations were discussing a proposal to release diesel reserves following pressure from the Trump administration.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+    "image_url": null,
+    "published_at": "2026-10-02T08:51:49.000Z"
+  },
+  {
+    "headline": "U.S. urges Europe to ‘immediately’ release diesel reserves as Iran war fuels record prices",
+    "summary": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+    "image_url": null,
+    "published_at": "2026-10-02T07:51:56.000Z"
+  },
+  {
+    "headline": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes",
+    "summary": "The U.S. is reportedly sending a third aircraft carrier strike group to the Middle East, as Trump weighs resuming bombing Iran after the midterms.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html",
+    "image_url": null,
+    "published_at": "2026-10-02T06:51:41.000Z"
+  },
+  {
+    "headline": "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
+    "summary": "\"As this is a matter concerning the honor of the Republic of Korea's people and nation, we cannot overlook it,\" he said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html",
+    "image_url": null,
+    "published_at": "2026-10-02T06:36:56.000Z"
+  },
+  {
+    "headline": "Jewelry giant Pandora is getting in on lab-grown diamonds and hoping a new Vietnam plant helps growth in Asia",
+    "summary": "Pandora is expanding its manufacturing footprint beyond Thailand with a new $150 million Vietnam facility as the Danish jeweler eyes further growth across Asia.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/-jewelry-giant-pandora-vietnam-asia-growth-.html",
+    "image_url": null,
+    "published_at": "2026-10-02T06:27:58.000Z"
+  },
+  {
+    "headline": "Washington’s big crypto bill is stuck. The SEC is pushing ahead anyway",
+    "summary": "The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+    "image_url": null,
+    "published_at": "2026-10-02T06:15:49.000Z"
+  },
+  {
+    "headline": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
+    "summary": "Bitget has frozen a tiny fraction of the $387.5 million stolen in last week’s hack, and restored much of its protection fund.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+    "image_url": null,
+    "published_at": "2026-10-02T06:03:23.000Z"
+  },
+  {
+    "headline": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
+    "summary": "Britain voted to leave the European Union in 2016.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
+    "image_url": null,
+    "published_at": "2026-10-02T05:00:01.000Z"
+  },
+  {
+    "headline": "AI is making cyberattacks faster and harder to detect, Interpol warns. Here’s what companies should watch",
+    "summary": "An Interpol executive warns AI is making existing cyber threats faster and harder to detect, while companies face new risks from the rise of agentic AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html",
+    "image_url": null,
+    "published_at": "2026-10-02T04:57:38.000Z"
+  },
+  {
+    "headline": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+    "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+    "image_url": null,
+    "published_at": "2026-10-02T04:07:54.000Z"
+  },
+  {
     "headline": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
     "summary": "The U.S. announced plans for up to $200 billion in South Korean investment, though Seoul has yet to finalize the participation in the Alaska LNG project.",
     "publisher": "CNBC",
@@ -1502,101 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/27/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
     "image_url": null,
     "published_at": "2026-09-27T16:16:43.000Z"
-  },
-  {
-    "headline": "Debt-hungry AI companies face increased risk as bond yields spike",
-    "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-    "image_url": null,
-    "published_at": "2026-09-27T15:35:34.000Z"
-  },
-  {
-    "headline": "At NFL games this season, drone defense tech aims to bring down disruptions",
-    "summary": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
-    "image_url": null,
-    "published_at": "2026-09-27T15:22:03.000Z"
-  },
-  {
-    "headline": "Everyone is racing to create an AI device. Meta thinks it has one",
-    "summary": "Tech companies are betting that people will connect with AI using something other than smartphones. Meta is going all-in on glasses, after launching its new AI agent Muse.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/27/nx-s1-5980407/everyone-is-racing-to-create-an-ai-device-meta-thinks-it-has-one",
-    "image_url": null,
-    "published_at": "2026-09-27T12:17:42.000Z"
-  },
-  {
-    "headline": "Top Wall Street analysts like these 3 dividend stocks for steady income",
-    "summary": "Investors seeking a stable income stream can enhance their portfolios with the addition of dividend stocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
-    "image_url": null,
-    "published_at": "2026-09-27T11:33:15.000Z"
-  },
-  {
-    "headline": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
-    "summary": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
-    "image_url": null,
-    "published_at": "2026-09-27T05:00:02.000Z"
-  },
-  {
-    "headline": "Boeing flags 737 Max software glitch affecting some automated approach functions",
-    "summary": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
-    "image_url": null,
-    "published_at": "2026-09-26T21:55:01.000Z"
-  },
-  {
-    "headline": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-    "summary": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-    "image_url": null,
-    "published_at": "2026-09-26T21:21:04.000Z"
-  },
-  {
-    "headline": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
-    "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-    "image_url": null,
-    "published_at": "2026-09-26T19:23:56.000Z"
-  },
-  {
-    "headline": "White House moves to block $810 million in funding through pocket rescission",
-    "summary": "The White House is moving to block $810 million in appropriated funds days before the fiscal year ends, drawing objections over the maneuver.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
-    "image_url": null,
-    "published_at": "2026-09-26T18:46:48.000Z"
-  },
-  {
-    "headline": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-    "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
-    "image_url": null,
-    "published_at": "2026-09-26T17:10:32.000Z"
-  },
-  {
-    "headline": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-    "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
-    "image_url": null,
-    "published_at": "2026-09-26T16:57:57.000Z"
-  },
-  {
-    "headline": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-    "summary": "Trump expects renewed U.S. bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
-    "image_url": null,
-    "published_at": "2026-09-26T15:05:38.000Z"
   }
 ]
