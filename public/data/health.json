@@ -1,5 +1,13 @@
 [
   {
+    "headline": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
+    "summary": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
+    "image_url": null,
+    "published_at": "2026-10-02T18:16:07.000Z"
+  },
+  {
     "headline": "Heat-related deaths in Phoenix rise, after two years of decline",
     "summary": "Metro Phoenix has so far seen twice as many heat deaths as this time last year. Authorities are trying to understand why and how to intervene.",
     "publisher": "NPR",
@@ -48,14 +56,6 @@
     "published_at": "2026-09-30T11:00:00.000Z"
   },
   {
-    "headline": "What's behind HHS claims that gender-affirming care 'may' radicalize",
-    "summary": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
-    "image_url": null,
-    "published_at": "2026-09-30T09:00:00.000Z"
-  },
-  {
     "headline": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
     "summary": "In most states, people with Medicaid coverage will have to prove they're working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it's sowing confusion and anxiety.",
     "publisher": "NPR",
@@ -76,6 +76,14 @@
     "summary": "Disabled kids make up the largest group in foster care. They have the worst outcomes. They stay in foster care longest. They're the most likely to die.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/09/30/nx-s1-5534203/foster-care-disabilities-children-bad-outcomes",
+    "image_url": null,
+    "published_at": "2026-09-30T09:00:00.000Z"
+  },
+  {
+    "headline": "What's behind HHS claims that gender-affirming care 'may' radicalize",
+    "summary": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
     "image_url": null,
     "published_at": "2026-09-30T09:00:00.000Z"
   },
@@ -1588,14 +1596,6 @@
     "summary": "The Trump administration's upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their own.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
-    "image_url": null,
-    "published_at": "2026-07-30T09:00:00.000Z"
-  },
-  {
-    "headline": "Digital habits that rob attention and energy — and how to combat them",
-    "summary": "There's a reason why double- or triple-screening your devices makes you feel tired, says NPR's Manoush Zomorodi. She explains the science of information overload and how to reclaim calm and focus.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5891818/digital-habits-that-rob-attention-and-energy-and-how-to-combat-them",
     "image_url": null,
     "published_at": "2026-07-30T09:00:00.000Z"
   }

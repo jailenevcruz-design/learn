@@ -1,5 +1,45 @@
 [
   {
+    "headline": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
+    "summary": "Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month's midterms.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
+    "image_url": null,
+    "published_at": "2026-10-02T21:44:07.000Z"
+  },
+  {
+    "headline": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+    "summary": "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+    "image_url": null,
+    "published_at": "2026-10-02T18:43:30.000Z"
+  },
+  {
+    "headline": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
+    "summary": "San Francisco leaders say AI-powered cameras helped drive a dramatic decline in car crime. We examine the evidence — and whether the city can keep its high-tech dragnet without sacrificing civil liberties.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+    "image_url": null,
+    "published_at": "2026-10-02T10:30:00.000Z"
+  },
+  {
+    "headline": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
+    "summary": "The botched execution in Tennessee of Christa Pike, who survived despite being subject to two doses of lethal injection on Wednesday, has reignited furious debate about the death penalty in the U.S.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
+    "image_url": null,
+    "published_at": "2026-10-02T10:25:03.000Z"
+  },
+  {
+    "headline": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
+    "summary": "After 32 years in Congress, Ohio's Sherrod Brown lost his Senate seat in 2024 as many working class voters turned out for Trump. Now Brown is counting on union voters to send him back to Washington.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
+    "image_url": null,
+    "published_at": "2026-10-02T09:00:00.000Z"
+  },
+  {
     "headline": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
     "summary": "Citing \"exceptional circumstances,\" a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to do so.",
     "publisher": "NPR",
@@ -24,22 +64,6 @@
     "published_at": "2026-10-01T10:48:03.000Z"
   },
   {
-    "headline": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
-    "summary": "Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino",
-    "image_url": null,
-    "published_at": "2026-10-01T09:00:00.000Z"
-  },
-  {
-    "headline": "COMIC: How the census gives your state power (and what Trump wants to change)",
-    "summary": "The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he's trying again ahead of 2030.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes",
-    "image_url": null,
-    "published_at": "2026-10-01T09:00:00.000Z"
-  },
-  {
     "headline": "Trade tensions mean fewer Canadians flocking to South Florida",
     "summary": "This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming.",
     "publisher": "NPR",
@@ -52,6 +76,22 @@
     "summary": "Home to both Republican Sen. Susan Collins and Democratic candidate Troy Jackson, Maine's senate race has put rural Aroostook County in the spotlight.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/01/nx-s1-5969830/maine-senate-collins-jackson-aroostook-county",
+    "image_url": null,
+    "published_at": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "headline": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
+    "summary": "Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino",
+    "image_url": null,
+    "published_at": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "headline": "COMIC: How the census gives your state power (and what Trump wants to change)",
+    "summary": "The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he's trying again ahead of 2030.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes",
     "image_url": null,
     "published_at": "2026-10-01T09:00:00.000Z"
   },
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
     "image_url": null,
     "published_at": "2026-09-03T19:04:19.000Z"
-  },
-  {
-    "headline": "ICE officer faces federal charges for lying over shooting of Venezuelan immigrant",
-    "summary": "The charges represent a rare moment of the Justice Department seeking to hold immigration officers accountable.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer",
-    "image_url": null,
-    "published_at": "2026-09-03T18:14:53.000Z"
-  },
-  {
-    "headline": "Fox News abruptly parts ways with scandal-tarred star Maria Bartiromo",
-    "summary": "Fox News abruptly announced it had cut ties with anchor Maria Bartiromo after more than a dozen years.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
-    "image_url": null,
-    "published_at": "2026-09-03T18:05:57.000Z"
-  },
-  {
-    "headline": "Inside the failed mission to eliminate FEMA",
-    "summary": "David Richardson worked to eliminate the country's top disaster agency when he led FEMA last year. Now, he says the administration has abandoned that goal.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
-    "image_url": null,
-    "published_at": "2026-09-03T09:00:00.000Z"
-  },
-  {
-    "headline": "Democrats demand Homeland Security officials fund election security ahead of midterms",
-    "summary": "The lawmakers wrote that they share \"grave concern that time is running out … to assist state and local election officials in protecting our elections from cyber and mis-and disinformation threats.\"",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
-    "image_url": null,
-    "published_at": "2026-09-03T09:00:00.000Z"
-  },
-  {
-    "headline": "Veteran political journalist on division among Democrats over democratic socialism",
-    "summary": "NPR's Michel Martin speaks with CNN senior political analyst Ron Brownstein about the Democratic Party's division over embracing democratic socialism.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5910644/veteran-political-journalist-on-division-among-democrats-over-democratic-socialism",
-    "image_url": null,
-    "published_at": "2026-09-03T08:08:56.000Z"
   }
 ]
