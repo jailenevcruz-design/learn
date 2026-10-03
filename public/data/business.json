@@ -1,11 +1,107 @@
 [
   {
+    "headline": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
+    "summary": "Gen Alpha kids are earning and spending their own money. Parents can use savings, investing and education tools to build healthy habits.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/investing-for-kids-accounts.html",
+    "image_url": null,
+    "published_at": "2026-10-03T14:00:01.000Z"
+  },
+  {
+    "headline": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
+    "summary": "Novig's \"Just Sports\" campaign drew backlash from some female athletes but also brought in a rush of trading volume.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+    "image_url": null,
+    "published_at": "2026-10-03T13:30:48.000Z"
+  },
+  {
+    "headline": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+    "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+    "image_url": null,
+    "published_at": "2026-10-03T13:12:27.000Z"
+  },
+  {
+    "headline": "High interest rates are foreclosing on the American home remodeling dream",
+    "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+    "image_url": null,
+    "published_at": "2026-10-03T13:11:37.000Z"
+  },
+  {
+    "headline": "Berkshire buys more Lennar shares, but pace of purchases slows",
+    "summary": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+    "image_url": null,
+    "published_at": "2026-10-03T12:55:31.000Z"
+  },
+  {
     "headline": "America’s data center fight is a preview of what's to come for the rest of the world",
     "summary": "America’s fight over data centers is going global. Communities across Europe and Asia are pushing back over the rising costs of the AI infrastructure boom.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
     "image_url": null,
-    "published_at": "2026-10-03T05:00:01.000Z"
+    "published_at": "2026-10-03T12:39:29.000Z"
+  },
+  {
+    "headline": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+    "summary": "The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+    "image_url": null,
+    "published_at": "2026-10-03T12:34:59.000Z"
+  },
+  {
+    "headline": "Private capital is reshaping Hollywood moviemaking",
+    "summary": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
+    "image_url": null,
+    "published_at": "2026-10-03T12:00:01.000Z"
+  },
+  {
+    "headline": "High-tech vehicles are driving up auto repair costs for shops and consumers",
+    "summary": "Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even a windshield replacement or an oil change.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
+    "image_url": null,
+    "published_at": "2026-10-03T12:00:01.000Z"
+  },
+  {
+    "headline": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+    "summary": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+    "image_url": null,
+    "published_at": "2026-10-03T11:47:09.000Z"
+  },
+  {
+    "headline": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+    "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+    "image_url": null,
+    "published_at": "2026-10-03T11:00:01.000Z"
+  },
+  {
+    "headline": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+    "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+    "image_url": null,
+    "published_at": "2026-10-03T11:00:01.000Z"
+  },
+  {
+    "headline": "Top McKinsey executive reveals Asian owner-CEOs' secrets to success",
+    "summary": "Gautam Kumra, Asia chairman at consultancy McKinsey & Co., researched the qualities of Asia's best owner-CEOs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/mckinsey-asian-leaders-success-ambani-mahindra.html",
+    "image_url": null,
+    "published_at": "2026-10-03T06:00:01.000Z"
   },
   {
     "headline": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
@@ -1502,101 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
     "image_url": null,
     "published_at": "2026-09-29T08:43:59.000Z"
-  },
-  {
-    "headline": "News organizations ask court to bar White House enforcement of access ban",
-    "summary": "Three news outlets that President Trump banished from White House grounds asked a federal court to block the ban until the case is resolved.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
-    "image_url": null,
-    "published_at": "2026-09-29T08:13:11.000Z"
-  },
-  {
-    "headline": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
-    "summary": "Iranian and U.S. officials reportedly met separately with mediators Monday to push for a ceasefire, as Middle Eastern crude exports rebounded to war-time high.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html",
-    "image_url": null,
-    "published_at": "2026-09-29T04:02:47.000Z"
-  },
-  {
-    "headline": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
-    "summary": "The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
-    "image_url": null,
-    "published_at": "2026-09-28T23:19:46.000Z"
-  },
-  {
-    "headline": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
-    "summary": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
-    "image_url": null,
-    "published_at": "2026-09-28T19:37:50.000Z"
-  },
-  {
-    "headline": "IRS hires Joseph Velli to help administer Trump accounts",
-    "summary": "Velli previously served on the boards of Paychex, Cognizant and Computershare.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/irs-trump-accounts-joseph-velli.html",
-    "image_url": null,
-    "published_at": "2026-09-28T19:30:50.000Z"
-  },
-  {
-    "headline": "Treasury yields rise as march to multiyear highs continues",
-    "summary": "Treasury yields edged higher on Monday as investors look ahead to fresh economic data releases this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
-    "image_url": null,
-    "published_at": "2026-09-28T19:29:22.000Z"
-  },
-  {
-    "headline": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
-    "summary": "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales, and economic activity",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
-    "image_url": null,
-    "published_at": "2026-09-28T19:27:48.000Z"
-  },
-  {
-    "headline": "Oil prices off highs after reports Saudi pipeline ramping back up",
-    "summary": "The Saudis shutdown the pipeline earlier this month after it sustained damage in a drone strike launched form Iraq.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-    "image_url": null,
-    "published_at": "2026-09-28T19:12:45.000Z"
-  },
-  {
-    "headline": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
-    "summary": "The New York City Council issued a subpoena to Musk, requiring that he or another representative of SpaceXAI testify in an investigation concerning AI safety.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
-    "image_url": null,
-    "published_at": "2026-09-28T19:01:56.000Z"
-  },
-  {
-    "headline": "Supreme Court Justice Alito will not participate in big climate change case next week",
-    "summary": "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
-    "image_url": null,
-    "published_at": "2026-09-28T18:58:47.000Z"
-  },
-  {
-    "headline": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
-    "summary": "Desai will lead the new Meta Enterprise Platform unit and report to CEO Mark Zuckerberg.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
-    "image_url": null,
-    "published_at": "2026-09-28T18:54:55.000Z"
-  },
-  {
-    "headline": "What the market needs to branch out beyond AI stocks. Plus, a win for CrowdStrike",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/what-the-market-needs-to-branch-out-beyond-ai-stocks-plus-a-win-for-crowdstrike-.html",
-    "image_url": null,
-    "published_at": "2026-09-28T18:54:06.000Z"
   }
 ]
