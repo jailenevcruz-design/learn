@@ -1,5 +1,13 @@
 [
   {
+    "headline": "The Supreme Court faces another term jam-packed with controversy",
+    "summary": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+    "image_url": null,
+    "published_at": "2026-10-03T09:00:00.000Z"
+  },
+  {
     "headline": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
     "summary": "Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month's midterms.",
     "publisher": "NPR",
@@ -64,6 +72,14 @@
     "published_at": "2026-10-01T10:48:03.000Z"
   },
   {
+    "headline": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
+    "summary": "Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino",
+    "image_url": null,
+    "published_at": "2026-10-01T09:00:00.000Z"
+  },
+  {
     "headline": "Trade tensions mean fewer Canadians flocking to South Florida",
     "summary": "This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming.",
     "publisher": "NPR",
@@ -76,14 +92,6 @@
     "summary": "Home to both Republican Sen. Susan Collins and Democratic candidate Troy Jackson, Maine's senate race has put rural Aroostook County in the spotlight.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/01/nx-s1-5969830/maine-senate-collins-jackson-aroostook-county",
-    "image_url": null,
-    "published_at": "2026-10-01T09:00:00.000Z"
-  },
-  {
-    "headline": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
-    "summary": "Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino",
     "image_url": null,
     "published_at": "2026-10-01T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
     "image_url": null,
     "published_at": "2026-09-03T20:48:21.000Z"
-  },
-  {
-    "headline": "Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill",
-    "summary": "Women in politics and pop culture are paying tribute to Gloria Steinem after her death at 92. Many called her not only an inspiration but a friend.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
-    "image_url": null,
-    "published_at": "2026-09-03T19:04:19.000Z"
   }
 ]

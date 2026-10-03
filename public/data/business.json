@@ -1,5 +1,13 @@
 [
   {
+    "headline": "America’s data center fight is a preview of what's to come for the rest of the world",
+    "summary": "America’s fight over data centers is going global. Communities across Europe and Asia are pushing back over the rising costs of the AI infrastructure boom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+    "image_url": null,
+    "published_at": "2026-10-03T05:00:01.000Z"
+  },
+  {
     "headline": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
     "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
     "publisher": "CNBC",
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/28/what-the-market-needs-to-branch-out-beyond-ai-stocks-plus-a-win-for-crowdstrike-.html",
     "image_url": null,
     "published_at": "2026-09-28T18:54:06.000Z"
-  },
-  {
-    "headline": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
-    "summary": "Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
-    "image_url": null,
-    "published_at": "2026-09-28T18:47:21.000Z"
   }
 ]
