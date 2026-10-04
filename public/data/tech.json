@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "image_url": null,
+    "published_at": "2026-10-03T19:33:15.000Z"
+  },
+  {
+    "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "image_url": null,
+    "published_at": "2026-10-03T18:43:57.000Z"
+  },
+  {
+    "headline": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for the N…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "image_url": null,
+    "published_at": "2026-10-03T16:49:10.000Z"
+  },
+  {
+    "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "image_url": null,
+    "published_at": "2026-10-03T16:30:01.000Z"
+  },
+  {
+    "headline": "The best early October Prime Day deals happening now",
+    "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+    "image_url": null,
+    "published_at": "2026-10-03T16:22:40.000Z"
+  },
+  {
+    "headline": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+    "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+    "image_url": null,
+    "published_at": "2026-10-03T15:02:01.000Z"
+  },
+  {
+    "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "image_url": null,
+    "published_at": "2026-10-03T15:00:00.000Z"
+  },
+  {
     "headline": "Vessev built an electric ferry that almost flies",
     "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
     "publisher": "TechCrunch",
@@ -502,14 +558,6 @@
     "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
     "image_url": null,
     "published_at": "2026-10-01T14:00:00.000Z"
-  },
-  {
-    "headline": "The best early October Prime Day deals happening now",
-    "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-    "image_url": null,
-    "published_at": "2026-10-01T13:35:15.000Z"
   },
   {
     "headline": "What even is a ‘microdrama’?",
@@ -1550,53 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
     "image_url": null,
     "published_at": "2026-09-28T17:00:00.000Z"
-  },
-  {
-    "headline": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "image_url": null,
-    "published_at": "2026-09-28T16:52:38.000Z"
-  },
-  {
-    "headline": "The iPhone Duo may already have its first killer app: a virtual Walkman",
-    "summary": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
-    "image_url": null,
-    "published_at": "2026-09-28T16:47:49.000Z"
-  },
-  {
-    "headline": "Walmart won’t hike prices based on your shopping history, CEO says",
-    "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rather than dynamically ch…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-    "image_url": null,
-    "published_at": "2026-09-28T16:44:57.000Z"
-  },
-  {
-    "headline": "Volkswagen replaces ID.4 with all-electric Tiguan",
-    "summary": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recognizable nameplates like Tiguan are likely an easier sell with consumers, especially when it comes to E…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
-    "image_url": null,
-    "published_at": "2026-09-28T15:43:09.000Z"
-  },
-  {
-    "headline": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-09-28T15:30:00.000Z"
-  },
-  {
-    "headline": "Physical AI chip developer SiMa AI hits $1.45B valuation",
-    "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-    "image_url": null,
-    "published_at": "2026-09-28T15:29:21.000Z"
   }
 ]

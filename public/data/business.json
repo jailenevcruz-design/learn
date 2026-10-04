@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
+    "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+    "image_url": null,
+    "published_at": "2026-10-04T05:00:01.000Z"
+  },
+  {
+    "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+    "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+    "image_url": null,
+    "published_at": "2026-10-03T23:37:23.000Z"
+  },
+  {
+    "headline": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+    "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+    "image_url": null,
+    "published_at": "2026-10-03T20:29:07.000Z"
+  },
+  {
+    "headline": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
+    "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+    "image_url": null,
+    "published_at": "2026-10-03T17:57:40.000Z"
+  },
+  {
+    "headline": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
+    "summary": "Here's a closer look at the three developments that drove the action in our portfolio last week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
+    "image_url": null,
+    "published_at": "2026-10-03T15:06:10.000Z"
+  },
+  {
     "headline": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
     "summary": "Gen Alpha kids are earning and spending their own money. Parents can use savings, investing and education tools to build healthy habits.",
     "publisher": "CNBC",
@@ -22,14 +62,6 @@
     "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
     "image_url": null,
     "published_at": "2026-10-03T13:12:27.000Z"
-  },
-  {
-    "headline": "High interest rates are foreclosing on the American home remodeling dream",
-    "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
-    "image_url": null,
-    "published_at": "2026-10-03T13:11:37.000Z"
   },
   {
     "headline": "Berkshire buys more Lennar shares, but pace of purchases slows",
@@ -56,18 +88,18 @@
     "published_at": "2026-10-03T12:34:59.000Z"
   },
   {
-    "headline": "Private capital is reshaping Hollywood moviemaking",
-    "summary": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
-    "image_url": null,
-    "published_at": "2026-10-03T12:00:01.000Z"
-  },
-  {
     "headline": "High-tech vehicles are driving up auto repair costs for shops and consumers",
     "summary": "Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even a windshield replacement or an oil change.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
+    "image_url": null,
+    "published_at": "2026-10-03T12:00:01.000Z"
+  },
+  {
+    "headline": "Private capital is reshaping Hollywood moviemaking",
+    "summary": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
     "image_url": null,
     "published_at": "2026-10-03T12:00:01.000Z"
   },
@@ -84,14 +116,6 @@
     "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-    "image_url": null,
-    "published_at": "2026-10-03T11:00:01.000Z"
-  },
-  {
-    "headline": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-    "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
     "image_url": null,
     "published_at": "2026-10-03T11:00:01.000Z"
   },
@@ -728,18 +752,18 @@
     "published_at": "2026-10-01T09:48:06.000Z"
   },
   {
-    "headline": "Egg prices have tumbled since Trump returned to office. Here's why",
-    "summary": "Agriculture experts say high egg prices were the result of severe avian flu outbreaks, but the Trump administration's tariffs and the war with Iran have also put pressure on farmers.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5978076/egg-prices-trump-affordability",
-    "image_url": null,
-    "published_at": "2026-10-01T09:00:00.000Z"
-  },
-  {
     "headline": "Trade tensions mean fewer Canadians flocking to South Florida",
     "summary": "This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/01/nx-s1-5971507/trade-tensions-fewer-canadians-south-florida",
+    "image_url": null,
+    "published_at": "2026-10-01T09:00:00.000Z"
+  },
+  {
+    "headline": "Egg prices have tumbled since Trump returned to office. Here's why",
+    "summary": "Agriculture experts say high egg prices were the result of severe avian flu outbreaks, but the Trump administration's tariffs and the war with Iran have also put pressure on farmers.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5978076/egg-prices-trump-affordability",
     "image_url": null,
     "published_at": "2026-10-01T09:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/29/higher-rates-are-wreaking-havoc-on-these-two-etfs-traders-see-one-bouncing-back.html",
     "image_url": null,
     "published_at": "2026-09-29T11:28:27.000Z"
-  },
-  {
-    "headline": "How to hide your spending habits from retailers (so you don't get ripped off)",
-    "summary": "Companies have changed the way they price their products — and shoppers are getting deliberately overcharged. Here are steps you can take to ensure you are getting the best deal.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert",
-    "image_url": null,
-    "published_at": "2026-09-29T09:01:00.000Z"
-  },
-  {
-    "headline": "Democrat Pete Buttigieg criticizes Trump's rollback of fuel-economy standards",
-    "summary": "The former transportation secretary says weaker fuel-economy standards could raise long-term costs for drivers and leave U.S. automakers further behind China.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/29/nx-s1-5983537/pete-buttigieg-reaction-trump-fuel-economy-standards-rollback",
-    "image_url": null,
-    "published_at": "2026-09-29T08:46:41.000Z"
-  },
-  {
-    "headline": "Anthropic warns investors of AI’s 'existential risk to humanity' in IPO prospectus, reports say",
-    "summary": "Anthropic's IPO filing dedicates 80 pages to the risks of AI, nearly double the 48 pages it spends discussing its business plans, according to Reuters.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
-    "image_url": null,
-    "published_at": "2026-09-29T08:43:59.000Z"
   }
 ]
