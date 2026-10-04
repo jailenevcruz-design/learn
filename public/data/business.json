@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+    "summary": "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+    "image_url": null,
+    "published_at": "2026-10-04T20:28:47.000Z"
+  },
+  {
+    "headline": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+    "summary": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+    "image_url": null,
+    "published_at": "2026-10-04T17:53:11.000Z"
+  },
+  {
+    "headline": "Here are 3 things we're watching in the stock market in the week ahead",
+    "summary": "The oil and bond markets will remain a critical driver of stocks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/04/here-are-3-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+    "image_url": null,
+    "published_at": "2026-10-04T15:33:05.000Z"
+  },
+  {
+    "headline": "This NYC startup requires 4 days in office but just let everyone work remote for a whole month",
+    "summary": "SolComms, a New York City-based PR firm, says letting employees work from anywhere in the world boosted revenue, productivity and happiness.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html",
+    "image_url": null,
+    "published_at": "2026-10-04T14:00:01.000Z"
+  },
+  {
+    "headline": "Starting a watch collection? What beginners should know before buying",
+    "summary": "Watch experts explain how beginners can start a collection, what tends to hold value, when to buy used and how to avoid costly mistakes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/watch-collecting-beginners.html",
+    "image_url": null,
+    "published_at": "2026-10-04T13:44:31.000Z"
+  },
+  {
+    "headline": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+    "summary": "Investors with a long-term horizon can track ratings from top Wall Street analysts to find stocks with solid growth prospects.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
+    "image_url": null,
+    "published_at": "2026-10-04T13:24:16.000Z"
+  },
+  {
+    "headline": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+    "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+    "image_url": null,
+    "published_at": "2026-10-04T13:22:39.000Z"
+  },
+  {
+    "headline": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
+    "summary": "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+    "image_url": null,
+    "published_at": "2026-10-04T12:57:45.000Z"
+  },
+  {
     "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
     "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy.",
     "publisher": "CNBC",
@@ -32,18 +96,18 @@
     "published_at": "2026-10-04T12:08:54.000Z"
   },
   {
-    "headline": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-    "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
-    "image_url": null,
-    "published_at": "2026-10-04T12:00:01.000Z"
-  },
-  {
     "headline": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
     "summary": "E.l.f. Beauty released an album titled \"Mirror Mix\" as the brand plans to increase its marketing spend for the rest of the year.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+    "image_url": null,
+    "published_at": "2026-10-04T12:00:01.000Z"
+  },
+  {
+    "headline": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+    "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
     "image_url": null,
     "published_at": "2026-10-04T12:00:01.000Z"
   },
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/29/microsoft-shares-might-be-rangebound-heres-how-you-can-still-make-money.html",
     "image_url": null,
     "published_at": "2026-09-29T15:56:13.000Z"
-  },
-  {
-    "headline": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
-    "summary": "The Conference Board's Consumer Confidence Index tumbled to 81.9, a decline of 6.7 points and a reading well below the forecast for 89.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
-    "image_url": null,
-    "published_at": "2026-09-29T15:48:24.000Z"
-  },
-  {
-    "headline": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
-    "summary": "The decree marks the fourth increase in Russia’s military staffing levels this year as the war in Ukraine continues into a fifth winter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html",
-    "image_url": null,
-    "published_at": "2026-09-29T14:41:19.000Z"
-  },
-  {
-    "headline": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-    "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-    "image_url": null,
-    "published_at": "2026-09-29T14:37:07.000Z"
-  },
-  {
-    "headline": "Rep. James Comer expands House investigation into prediction market insider trading",
-    "summary": "House Oversight Committee Chair James Comer, R-Ky., announced an expanded investigation into prediction market insider trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html",
-    "image_url": null,
-    "published_at": "2026-09-29T14:00:01.000Z"
-  },
-  {
-    "headline": "Smart ring maker Oura postpones IPO due to market 'uncertainty'",
-    "summary": "Oura said the delay comes despite \"strong demand\" and a strengthenthing of the business since the start of the IPO process.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html",
-    "image_url": null,
-    "published_at": "2026-09-29T13:50:01.000Z"
-  },
-  {
-    "headline": "House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction",
-    "summary": "House Speaker Mike Johnson is scheduled for lunch Tuesday with President Trump and AI industry executives.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
-    "image_url": null,
-    "published_at": "2026-09-29T13:37:49.000Z"
-  },
-  {
-    "headline": "Investors who have shunned diversification face maybe the best buying opportunity for bonds in decades",
-    "summary": "No diversification needed: The 10-year total return stocks minus bonds is near the highest in history.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/investors-who-have-shunned-diversification-face-maybe-the-best-buying-opportunity-for-bonds-in-decades.html",
-    "image_url": null,
-    "published_at": "2026-09-29T13:22:56.000Z"
-  },
-  {
-    "headline": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist",
-    "summary": "Nvidia is looking to spend hundreds of billions of dollars buying its stock at a time when it's historically cheap based on earnings expectations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html",
-    "image_url": null,
-    "published_at": "2026-09-29T13:09:30.000Z"
   }
 ]
