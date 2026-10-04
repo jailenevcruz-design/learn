@@ -1,19 +1,83 @@
 [
   {
+    "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
+    "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+    "image_url": null,
+    "published_at": "2026-10-04T12:53:12.000Z"
+  },
+  {
+    "headline": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
+    "summary": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade and economic warfare, and the release of Iranian assets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+    "image_url": null,
+    "published_at": "2026-10-04T12:35:35.000Z"
+  },
+  {
+    "headline": "G7 countries reluctantly agree to tap their fuel reserves to help the U.S.",
+    "summary": "G7 nations plan to release large amounts of diesel fuel soon, but European countries were not entirely happy about the agreement.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s",
+    "image_url": null,
+    "published_at": "2026-10-04T12:29:38.000Z"
+  },
+  {
+    "headline": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
+    "summary": "Chick-fil-A has been expanding into new international markets and growing its menu under CEO Andrew Cathy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
+    "image_url": null,
+    "published_at": "2026-10-04T12:08:54.000Z"
+  },
+  {
+    "headline": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+    "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
+    "image_url": null,
+    "published_at": "2026-10-04T12:00:01.000Z"
+  },
+  {
+    "headline": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
+    "summary": "E.l.f. Beauty released an album titled \"Mirror Mix\" as the brand plans to increase its marketing spend for the rest of the year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+    "image_url": null,
+    "published_at": "2026-10-04T12:00:01.000Z"
+  },
+  {
+    "headline": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+    "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+    "image_url": null,
+    "published_at": "2026-10-04T10:00:00.000Z"
+  },
+  {
+    "headline": "Berkshire buys more Lennar shares, but pace of purchases slows",
+    "summary": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+    "image_url": null,
+    "published_at": "2026-10-04T09:33:19.000Z"
+  },
+  {
+    "headline": "Singapore debuts a state-backed dating app for young government workers as it works to slow a demographic crisis",
+    "summary": "Singapore's government is playing matchmaker for young public officials against a backdrop of ultra-low fertility.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/government-dating-app-fertility-singapore-asia.html",
+    "image_url": null,
+    "published_at": "2026-10-04T05:09:49.000Z"
+  },
+  {
     "headline": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
     "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
     "image_url": null,
     "published_at": "2026-10-04T05:00:01.000Z"
-  },
-  {
-    "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
-    "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-    "image_url": null,
-    "published_at": "2026-10-03T23:37:23.000Z"
   },
   {
     "headline": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
@@ -62,14 +126,6 @@
     "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
     "image_url": null,
     "published_at": "2026-10-03T13:12:27.000Z"
-  },
-  {
-    "headline": "Berkshire buys more Lennar shares, but pace of purchases slows",
-    "summary": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
-    "image_url": null,
-    "published_at": "2026-10-03T12:55:31.000Z"
   },
   {
     "headline": "America’s data center fight is a preview of what's to come for the rest of the world",
@@ -1542,61 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html",
     "image_url": null,
     "published_at": "2026-09-29T13:09:30.000Z"
-  },
-  {
-    "headline": "Some wealthy Americans are spending up to $250,000 a year on longevity care. Here's what doctors say about the practice",
-    "summary": "The wealthy and ultra-wealthy are spending more on longevity care than ever before. Should you invest your money into similar therapeutics? Experts weigh in.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/longevity-clinic-costs.html",
-    "image_url": null,
-    "published_at": "2026-09-29T13:09:15.000Z"
-  },
-  {
-    "headline": "Coinbase Ventures and CMCC Global close strategic funding round with trading firm Raven",
-    "summary": "Raven is an institutional market-maker for prediction markets, generating constant buy and sell orders on contracts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/coinbase-ventures-and-cmcc-global-close-strategic-funding-round-with-raven.html",
-    "image_url": null,
-    "published_at": "2026-09-29T13:05:06.000Z"
-  },
-  {
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "summary": "Reuters got a look at Anthropic's IPO filing, and OpenAI scrapped a model release over safety concerns.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/jim-cramers-top-10-things-to-watch-in-the-stock-market-.html",
-    "image_url": null,
-    "published_at": "2026-09-29T13:02:41.000Z"
-  },
-  {
-    "headline": "These private and public colleges have the best return on investment, according to The Princeton Review",
-    "summary": "With increasing emphasis on the return on investment, The Princeton Review's new college ranking measures academics, affordability and career outcomes.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/private-public-colleges-best-roi-return-on-investment-the-princeton-review.html",
-    "image_url": null,
-    "published_at": "2026-09-29T13:00:01.000Z"
-  },
-  {
-    "headline": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market",
-    "summary": "Following the success of its Muse personal AI agent, Meta is introducing a specialized version for small businesses.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html",
-    "image_url": null,
-    "published_at": "2026-09-29T12:43:08.000Z"
-  },
-  {
-    "headline": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
-    "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-    "image_url": null,
-    "published_at": "2026-09-29T12:00:33.000Z"
-  },
-  {
-    "headline": "Higher rates are wreaking havoc on these two ETFs. Traders see one bouncing back",
-    "summary": "The relentless surge in rates is breaking the back of two key macro trades that had been holding firm.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/higher-rates-are-wreaking-havoc-on-these-two-etfs-traders-see-one-bouncing-back.html",
-    "image_url": null,
-    "published_at": "2026-09-29T11:28:27.000Z"
   }
 ]
