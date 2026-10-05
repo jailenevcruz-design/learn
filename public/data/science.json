@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Scientists reveal what seven days of fasting does to the human body",
+    "summary": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that go beyond weight loss and could eventually inspire treatments that mimic its effec…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
+    "image_url": null,
+    "published_at": "2026-10-05T12:26:03.000Z"
+  },
+  {
+    "headline": "Vagus Nerve Stimulation Could Help New Skills Stick",
+    "summary": "Stimulating the vagus nerve after practice helped mice develop stronger long-term motor learning, revealing a potentially important window when the brain is still locking in a new skill. The effect was linked to rhythmic changes in brain blood vessels, hinting that body-to-brain signals may help prepare the brain for l…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
+    "image_url": null,
+    "published_at": "2026-10-05T12:13:07.000Z"
+  },
+  {
+    "headline": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
+    "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the best viewing should come before dawn after the Moon sets.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
+    "image_url": null,
+    "published_at": "2026-10-05T11:59:17.000Z"
+  },
+  {
+    "headline": "A new kind of magnetism could unlock faster, more efficient computers",
+    "summary": "Scientists have discovered evidence of altermagnetism in a thin, highly tunable material that could help electronics use electron spin instead of relying only on electrical charge. The unusual magnetic state may enable faster, more energy-efficient devices without the unwanted magnetic interference caused by convention…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261002080015.htm",
+    "image_url": null,
+    "published_at": "2026-10-05T11:35:24.000Z"
+  },
+  {
+    "headline": "Scientists just found a way to fight lung cancer and muscle wasting at the same time",
+    "summary": "A new nanoparticle therapy reduced lung tumors in mice while also targeting cachexia, the severe muscle wasting that can accompany cancer. By delivering follistatin mRNA directly to tumors, the approach could eventually offer a way to fight both the disease and one of its most dangerous complications.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261001214129.htm",
+    "image_url": null,
+    "published_at": "2026-10-05T11:11:21.000Z"
+  },
+  {
+    "headline": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+    "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+    "image_url": null,
+    "published_at": "2026-10-05T10:11:33.000Z"
+  },
+  {
+    "headline": "Scientists discover a human brain gene that can jump through DNA",
+    "summary": "Scientists have discovered a human gene with a remarkable double life: it appears to play an important role in brain cells while still retaining the ability to jump around the genome. Called BC200, the gene evolved millions of years ago from a mobile piece of DNA known as a transposon, but unlike most genes that arose…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261002080013.htm",
+    "image_url": null,
+    "published_at": "2026-10-05T10:06:28.000Z"
+  },
+  {
+    "headline": "Cancer-fighting t cells burn out. Scientists may have found a fix",
+    "summary": "Cancer immunotherapy can lose its punch when tumor-fighting T cells become exhausted, but researchers may have found a way to keep them going longer. Scientists at Memorial Sloan Kettering Cancer Center identified a signaling molecule called MEK that can push T cells to burn through their energy while producing cancer-…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261001214127.htm",
+    "image_url": null,
+    "published_at": "2026-10-05T09:24:29.000Z"
+  },
+  {
+    "headline": "This mysterious hole on the Moon may open into a giant cave",
+    "summary": "NASA has selected the GIMLI project to investigate whether the Marius Hill Pit opens into a vast underground cave or lava tube. Using radar, seismic sensors, gravity measurements, and cameras, researchers will search beneath the lunar surface and estimate the size of any hidden void. Such caves could preserve clues to…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
+    "image_url": null,
+    "published_at": "2026-10-05T04:47:40.000Z"
+  },
+  {
+    "headline": "The “glue” holding your cells together has a surprising second job",
+    "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+    "image_url": null,
+    "published_at": "2026-10-05T03:12:55.000Z"
+  },
+  {
     "headline": "Easing constipation: A 20-minute walk can get your gut moving almost immediately",
     "summary": "Researchers found that just 20 minutes of comfortable walking can rapidly stimulate the gut. Within one to two minutes after exercise, bowel sounds became stronger, more frequent, and lasted longer, suggesting increased intestinal movement. The boost was brief, fading within a few minutes, but it may help explain why w…",
     "publisher": "ScienceDaily",
@@ -1518,85 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm",
     "image_url": null,
     "published_at": "2026-09-19T12:12:41.000Z"
-  },
-  {
-    "headline": "This deep-sea enzyme survives heat that destroys most proteins",
-    "summary": "A deep-sea microbe uses an exceptionally heat-resistant enzyme to turn atmospheric nitrogen into ammonia at temperatures that would destroy most proteins. Its unusual structure and a newly observed reaction state may reveal an ancient, shared mechanism behind nitrogen fixation and could eventually inspire cleaner biote…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260918024810.htm",
-    "image_url": null,
-    "published_at": "2026-09-19T11:49:45.000Z"
-  },
-  {
-    "headline": "This tiny organism can shrink to one quarter its size in milliseconds",
-    "summary": "A single-celled organism can shrink to one-quarter of its length in milliseconds using a remarkable calcium-powered protein “fishnet.” Scientists hope its unusual machinery could inspire artificial muscles capable of moving far faster than today’s designs.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260918024812.htm",
-    "image_url": null,
-    "published_at": "2026-09-19T11:39:22.000Z"
-  },
-  {
-    "headline": "Scientists find that “perfect” systems may be surprisingly fragile",
-    "summary": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability compared with completely u…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
-    "image_url": null,
-    "published_at": "2026-09-19T11:26:53.000Z"
-  },
-  {
-    "headline": "Scientists solve a 50-year mystery and discover a new human blood group",
-    "summary": "Scientists have identified the genetic cause behind the mysterious AnWj blood group antigen, solving a puzzle that began in 1972 and establishing a new blood group system called MAL. The discovery could make it much easier to find extremely rare AnWj-negative patients and donors and protect them from potentially danger…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
-    "image_url": null,
-    "published_at": "2026-09-19T10:14:15.000Z"
-  },
-  {
-    "headline": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
-    "summary": "Last year, remnants of a typhoon damaged homes, infrastructure and an archaeological dig site. Now, archaeologists are trying to get as many objects out as possible before the next storm.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
-    "image_url": null,
-    "published_at": "2026-09-19T09:01:00.000Z"
-  },
-  {
-    "headline": "Scientists discover the first diplodocus ever found outside North America",
-    "summary": "A 150-million-year-old dinosaur fossil from Spain has been identified as the first confirmed Diplodocus ever found outside North America. The giant sauropod measured about 25 meters long and was preserved well enough for researchers to match distinctive features in its tail bones to the famous genus. Its unexpected app…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260918024807.htm",
-    "image_url": null,
-    "published_at": "2026-09-19T02:51:08.000Z"
-  },
-  {
-    "headline": "Billions in rare earth elements may be hiding in America’s coal ash",
-    "summary": "Scientists are looking to diatoms, sea sponges, and plants for a cleaner way to recover rare earth elements and other valuable minerals hidden inside coal ash, red mud, and mine tailings. The bio-inspired approach could turn massive industrial waste piles into useful materials while reducing energy use, harsh chemicals…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260918024759.htm",
-    "image_url": null,
-    "published_at": "2026-09-19T02:08:56.000Z"
-  },
-  {
-    "headline": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
-    "summary": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
-    "image_url": null,
-    "published_at": "2026-09-18T21:13:14.000Z"
-  },
-  {
-    "headline": "Scientists discover cells that cheat death and rebuild damaged tissue",
-    "summary": "Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism that could improve healing but may also help cancers return after treatment.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
-    "image_url": null,
-    "published_at": "2026-09-18T12:30:43.000Z"
-  },
-  {
-    "headline": "Scientists just named a new snake after Guns N’ Roses legend Slash",
-    "summary": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake, Lielaphis slashi, is a species scientists had never formally recognized before. The nonvenomous snak…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
-    "image_url": null,
-    "published_at": "2026-09-18T12:07:03.000Z"
   }
 ]

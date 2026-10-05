@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Supreme Court's new term kicks off with blockbuster climate change case",
+    "summary": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+    "image_url": null,
+    "published_at": "2026-10-05T09:00:00.000Z"
+  },
+  {
+    "headline": "People are asking ChatGPT to help them decide how to vote in the midterms",
+    "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+    "image_url": null,
+    "published_at": "2026-10-05T09:00:00.000Z"
+  },
+  {
     "headline": "Trump names national intelligence chief Jay Clayton as new AI czar",
     "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
     "publisher": "NPR",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
     "image_url": null,
     "published_at": "2026-09-04T21:47:19.000Z"
-  },
-  {
-    "headline": "'Hidden tribunals': Immigration court due process in tumult with new locations",
-    "summary": "The new effort appears to be another tactic in a broader Trump administration strategy to short-circuit immigrants' already limited due process options in order to speed deportations.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
-    "image_url": null,
-    "published_at": "2026-09-04T21:11:56.000Z"
-  },
-  {
-    "headline": "El-Sayed split Michigan Democrats. Whether they unify could decide Senate control",
-    "summary": "After a bruising Senate primary, Michigan Democrats are trying to unify to hold onto a must-win seat. But healing those fissures is proving not so simple.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5946840/abdul-el-sayed-michigan-senate-race",
-    "image_url": null,
-    "published_at": "2026-09-04T20:41:06.000Z"
   }
 ]

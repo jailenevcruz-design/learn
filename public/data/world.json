@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+    "summary": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+    "image_url": null,
+    "published_at": "2026-10-05T12:33:20.000Z"
+  },
+  {
+    "headline": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
+    "summary": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
+    "image_url": null,
+    "published_at": "2026-10-05T11:47:36.000Z"
+  },
+  {
+    "headline": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+    "summary": "Talks between Khan's party and the government failed two days ago. Besides Khan's release, protesters demand his transfer to a hospital and family visits.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed",
+    "image_url": null,
+    "published_at": "2026-10-05T11:38:26.000Z"
+  },
+  {
+    "headline": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+    "summary": "The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+    "image_url": null,
+    "published_at": "2026-10-05T11:07:09.000Z"
+  },
+  {
+    "headline": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+    "summary": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+    "image_url": null,
+    "published_at": "2026-10-05T10:53:46.000Z"
+  },
+  {
+    "headline": "U.S. Marine suspected in woman's death arrested in Japan",
+    "summary": "A U.S. Marine has been arrested on suspicion of murder in Okinawa, prompting renewed Japanese criticism of the conduct of American military personnel.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5990879/u-s-marine-suspected-in-womans-death-arrested-in-japan",
+    "image_url": null,
+    "published_at": "2026-10-05T10:53:37.000Z"
+  },
+  {
+    "headline": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+    "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+    "image_url": null,
+    "published_at": "2026-10-05T10:11:33.000Z"
+  },
+  {
+    "headline": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
+    "summary": "A judicial spokesperson confirmed that Andrew Mountbatten-Windsor had filed a claim with the High Court in London and a hearing would take place Thursday.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action",
+    "image_url": null,
+    "published_at": "2026-10-05T10:01:19.000Z"
+  },
+  {
+    "headline": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
+    "summary": "Spanish Prime Minister Pedro Sánchez announced early elections Monday after his government suffered a bruising legislative defeat last week on emergency measures related to the country's housing crisis.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+    "image_url": null,
+    "published_at": "2026-10-05T09:15:55.000Z"
+  },
+  {
+    "headline": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+    "summary": "Russia's jet-powered drones are targeting bridges in the Ukrainian capital, an escalation after more than a month of day-and-night strikes that have left Kyiv feeling almost like a frontline city.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
+    "image_url": null,
+    "published_at": "2026-10-05T08:44:06.000Z"
+  },
+  {
     "headline": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
     "summary": "Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely.",
     "publisher": "NPR",
@@ -1518,85 +1598,5 @@
     "url": "https://www.npr.org/2026/09/08/nx-s1-5951962/world-food-programmes-carl-skau-discusses-yemens-food-insecurity-crisis",
     "image_url": null,
     "published_at": "2026-09-08T08:41:54.000Z"
-  },
-  {
-    "headline": "What to know about Canada's escalating trade war with the U.S.",
-    "summary": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods. The outcome could resonate far beyond Canada.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
-    "image_url": null,
-    "published_at": "2026-09-08T06:04:43.000Z"
-  },
-  {
-    "headline": "King Charles III clarifies status of Prince Harry and his wife, Meghan",
-    "summary": "King Charles III has reiterated that Prince Harry and his wife, Meghan, remain non-working members of the royal family following their return to the United Kingdom.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/08/g-s1-142289/king-charles-prince-harry",
-    "image_url": null,
-    "published_at": "2026-09-08T06:00:57.000Z"
-  },
-  {
-    "headline": "Russia and North Korea open the first road across their shared border",
-    "summary": "Relations between Russia and North Korea have been flourishing, with North Korea supplying ammunition and troops to support Russia's war against Ukraine in return for economic and military assistance.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
-    "image_url": null,
-    "published_at": "2026-09-08T05:40:44.000Z"
-  },
-  {
-    "headline": "The UN passed resolution ahead of General Assembly calling for end to child marriage",
-    "summary": "The UN estimates 650 million women and girls currently alive were married before age 18. A new resolution aims to bring awareness and push countries to act to end child marriage.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/07/nx-s1-5954226/the-un-passed-resolution-ahead-of-general-assembly-calling-for-end-to-child-marriage",
-    "image_url": null,
-    "published_at": "2026-09-07T21:30:59.000Z"
-  },
-  {
-    "headline": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
-    "summary": "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
-    "image_url": null,
-    "published_at": "2026-09-07T13:31:16.000Z"
-  },
-  {
-    "headline": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
-    "summary": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
-    "image_url": null,
-    "published_at": "2026-09-07T11:11:51.000Z"
-  },
-  {
-    "headline": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
-    "summary": "For the first time, Trump's top envoys take their peace push to Kyiv — after talks with Putin in Moscow.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/07/nx-s1-5959692/kushner-and-witkoff-visit-ukraine-with-hopes-of-restarting-peace-talks-with-russia",
-    "image_url": null,
-    "published_at": "2026-09-07T10:43:43.000Z"
-  },
-  {
-    "headline": "Former U.S. ambassador to Ukraine on efforts to strike a compromise with Russia",
-    "summary": "NPR's Leila Fadel asks William Taylor, former U.S. ambassador to Ukraine, about efforts made by U.S. emissaries toward a compromise between Russia and Ukraine.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/07/nx-s1-5959696/former-u-s-ambassador-to-ukraine-on-efforts-to-strike-a-compromise-with-russia",
-    "image_url": null,
-    "published_at": "2026-09-07T10:42:26.000Z"
-  },
-  {
-    "headline": "Rubio to visit 3 Latin American countries this week",
-    "summary": "Secretary of State Marco Rubio heads to Colombia, Peru and Ecuador as President Trump hails a shift to the right in regional politics and a new era of U.S. dominance.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/07/nx-s1-5953950/rubio-to-visit-3-latin-american-countries-this-week",
-    "image_url": null,
-    "published_at": "2026-09-07T08:43:28.000Z"
-  },
-  {
-    "headline": "U.S. envoys visit Kyiv for first time after meeting Putin in Moscow",
-    "summary": "US envoys Jared Kushner and Steve Witkoff made their first trip to Kyiv, one day after meeting Vladimir Putin in Moscow.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow",
-    "image_url": null,
-    "published_at": "2026-09-06T21:06:49.000Z"
   }
 ]

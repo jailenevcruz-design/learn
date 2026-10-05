@@ -1,5 +1,213 @@
 [
   {
+    "headline": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
+    "summary": "Melius Research's Ben Reitzes has warned about AI disrupting legacy software providers for years. Now, he loves Microsoft's place in the AI race.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html",
+    "image_url": null,
+    "published_at": "2026-10-05T18:43:12.000Z"
+  },
+  {
+    "headline": "Starbucks recovery plan is working. Here's how Mike Khouw says to trade the coffee giant",
+    "summary": "Mike Khouw breaks down how he's trading Starbucks through options.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/starbucks-recovery-plan-is-working-heres-how-mike-khouw-says-to-trade-the-coffee-giant.html",
+    "image_url": null,
+    "published_at": "2026-10-05T18:40:35.000Z"
+  },
+  {
+    "headline": "Fairshake crypto PAC network backs 32 House candidates in midterms",
+    "summary": "The CLARITY Act failed in the Senate, raising the stakes for which lawmakers return to Congress to shape crypto regulation after the midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/fairshake-crypto-super-pac-house-races.html",
+    "image_url": null,
+    "published_at": "2026-10-05T18:12:16.000Z"
+  },
+  {
+    "headline": "TNT Sports head Luis Silberwasser to depart Skydance as CBS Sports chief David Berson takes over combined global sports group",
+    "summary": "TNT Sports chief Luis Silberwasser will be leaving a combined Paramount Skydance-Warner Bros. Discovery company, sources tell CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/cbs-sports-head-david-berson-takes-over-skydance-global-sports-group.html",
+    "image_url": null,
+    "published_at": "2026-10-05T18:05:14.000Z"
+  },
+  {
+    "headline": "These are the cheapest and most expensive U.S. flights this November",
+    "summary": "Holiday airplane tickets are up more than 23% this year, according to Hopper.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
+    "image_url": null,
+    "published_at": "2026-10-05T17:59:51.000Z"
+  },
+  {
+    "headline": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+    "summary": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+    "image_url": null,
+    "published_at": "2026-10-05T17:43:34.000Z"
+  },
+  {
+    "headline": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
+    "summary": "After succeeding Steve Ballmer in 2014, Satya Nadella turned Microsoft into a cloud giant. Now he's tasked with making the company a force in AI.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
+    "image_url": null,
+    "published_at": "2026-10-05T17:40:13.000Z"
+  },
+  {
+    "headline": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
+    "summary": "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
+    "image_url": null,
+    "published_at": "2026-10-05T16:41:00.000Z"
+  },
+  {
+    "headline": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+    "summary": "Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+    "image_url": null,
+    "published_at": "2026-10-05T16:14:02.000Z"
+  },
+  {
+    "headline": "Russia plague: What we know about the suspected case reportedly linked to a lab worker’s death",
+    "summary": "According to local media reports, as many as 189 people have also been placed under medical observation in Irkutsk in eastern Russia.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
+    "image_url": null,
+    "published_at": "2026-10-05T15:57:36.000Z"
+  },
+  {
+    "headline": "David Ellison and Ynon Kreiz announce Skydance leadership team",
+    "summary": "The leadership team for Skydance, the merged entity of Paramount Skydance and Warner Bros. Discovery, will include Bari Weiss, Mark Thompson and Casey Bloys.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html",
+    "image_url": null,
+    "published_at": "2026-10-05T15:51:15.000Z"
+  },
+  {
+    "headline": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+    "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a run-off on Oct. 25.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+    "image_url": null,
+    "published_at": "2026-10-05T15:47:42.000Z"
+  },
+  {
+    "headline": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
+    "summary": "The case alleges that the licensing deal \"squeezed out\" stockholders by giving them a \"lowball price.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
+    "image_url": null,
+    "published_at": "2026-10-05T15:46:49.000Z"
+  },
+  {
+    "headline": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+    "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+    "image_url": null,
+    "published_at": "2026-10-05T15:29:13.000Z"
+  },
+  {
+    "headline": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+    "summary": "Trump renewed a $5,000 check pledge tied to Republican control of Congress as $500 ACA refunds go out and $90 Medicare rebates are scheduled.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+    "image_url": null,
+    "published_at": "2026-10-05T14:30:34.000Z"
+  },
+  {
+    "headline": "Nvidia's $6 trillion milestone looms. Here's when options traders see it happening",
+    "summary": "Nvidia will likely cross the $6 trillion threshold by the end of this month, according to options traders.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/nvidias-6-trillion-milestone-looms-heres-when-options-traders-see-it-happening.html",
+    "image_url": null,
+    "published_at": "2026-10-05T13:56:58.000Z"
+  },
+  {
+    "headline": "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
+    "summary": "Cerebras stock climbed in premarket trading after OpenAI's CEO Sam Altman reassured investors that the firm is a \"close partner.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
+    "image_url": null,
+    "published_at": "2026-10-05T13:37:15.000Z"
+  },
+  {
+    "headline": "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
+    "summary": "Hybrids are growing in popularity, as sales of the vehicles keep climbing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html",
+    "image_url": null,
+    "published_at": "2026-10-05T12:30:01.000Z"
+  },
+  {
+    "headline": "Trump's nemesis in Europe: Why Spain's Sanchez is calling a snap election",
+    "summary": "Pedro Sánchez has been Europe's voice of dissent on U.S. foreign policy. Back home, the plight of an 87-year-old woman has ignited public anger.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
+    "image_url": null,
+    "published_at": "2026-10-05T12:11:58.000Z"
+  },
+  {
+    "headline": "Why airfares could rise even more, but airline profits won't",
+    "summary": "Airlines are trimming capacity as jet fuel prices keep climbing and travelers keep booking.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
+    "image_url": null,
+    "published_at": "2026-10-05T12:06:44.000Z"
+  },
+  {
+    "headline": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
+    "summary": "Saudi Aramco's CEO warned it could take up to two years to rebuild global oil inventories, saying the squeeze could worsen as the U.S.-Iran war continues.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html",
+    "image_url": null,
+    "published_at": "2026-10-05T11:00:27.000Z"
+  },
+  {
+    "headline": "Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments",
+    "summary": "Goldman Sachs' Anthony Gutman said lower fiscal deficits are needed tackle surging bond yields.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/goldman-sachs-fiscal-deficit-bond-yields.html",
+    "image_url": null,
+    "published_at": "2026-10-05T10:33:45.000Z"
+  },
+  {
+    "headline": "Three tax votes in November that will affect high earners",
+    "summary": "Voters will decide whether to raise or lower taxes on the wealthy in multiple states next month, with California leading the way with a potential wealth tax.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/three-tax-votes-in-november-that-will-affect-high-earners.html",
+    "image_url": null,
+    "published_at": "2026-10-05T10:00:02.000Z"
+  },
+  {
+    "headline": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks",
+    "summary": "Russia has pledged to intensify strikes on Kyiv and other Ukrainian cities after a drone attack damaged the capital’s key Northern Bridge over the weekend.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html",
+    "image_url": null,
+    "published_at": "2026-10-05T08:12:21.000Z"
+  },
+  {
+    "headline": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
+    "summary": "Political and fiscal concerns are mounting in two of the euro area's biggest economies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
+    "image_url": null,
+    "published_at": "2026-10-05T08:04:35.000Z"
+  },
+  {
+    "headline": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
+    "summary": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
+    "image_url": null,
+    "published_at": "2026-10-05T05:00:01.000Z"
+  },
+  {
     "headline": "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
     "summary": "Treasury yields above 5% are raising fears that higher borrowing costs could fuel a debt spiral.",
     "publisher": "CNBC",
@@ -24,14 +232,6 @@
     "published_at": "2026-10-05T01:08:10.000Z"
   },
   {
-    "headline": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
-    "summary": "Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
-    "image_url": null,
-    "published_at": "2026-10-05T00:47:47.000Z"
-  },
-  {
     "headline": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
     "summary": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
     "publisher": "CNBC",
@@ -54,14 +254,6 @@
     "url": "https://www.cnbc.com/investingclub/2026/10/04/its-time-for-us-to-put-cash-to-work-in-this-ugly-market-heres-where-we-will-do-our-buying.html",
     "image_url": null,
     "published_at": "2026-10-04T20:32:16.000Z"
-  },
-  {
-    "headline": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-    "summary": "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-    "image_url": null,
-    "published_at": "2026-10-04T20:28:47.000Z"
   },
   {
     "headline": "Here are 3 things we're watching in the stock market in the week ahead",
@@ -270,14 +462,6 @@
     "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
     "image_url": null,
     "published_at": "2026-10-03T11:47:09.000Z"
-  },
-  {
-    "headline": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-    "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-    "image_url": null,
-    "published_at": "2026-10-03T11:00:01.000Z"
   },
   {
     "headline": "Top McKinsey executive reveals Asian owner-CEOs' secrets to success",
@@ -1414,189 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
     "image_url": null,
     "published_at": "2026-09-30T03:39:35.000Z"
-  },
-  {
-    "headline": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-    "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-    "image_url": null,
-    "published_at": "2026-09-30T03:39:08.000Z"
-  },
-  {
-    "headline": "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
-    "summary": "BlueFive Capital CEO Hazem Ben-Gacem talks about his preferred investment areas and strategies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
-    "image_url": null,
-    "published_at": "2026-09-30T02:37:21.000Z"
-  },
-  {
-    "headline": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-    "summary": "Hedge funds can boost Treasury market liquidity, but their growing role also risks creating financial instability.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
-    "image_url": null,
-    "published_at": "2026-09-30T00:19:09.000Z"
-  },
-  {
-    "headline": "Clients said to be sticking with Morgan Stanley even after leaked deal pipeline",
-    "summary": "Morgan Stanley’s deal leak may not necessarily translate into lost mandates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/morgan-stanleys-deal-leak-mandates-.html",
-    "image_url": null,
-    "published_at": "2026-09-29T23:00:01.000Z"
-  },
-  {
-    "headline": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
-    "summary": "Trump shrugged when asked if he is concerned that his support for AI and data centers could hurt Republicans in the upcoming midterm election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
-    "image_url": null,
-    "published_at": "2026-09-29T22:42:35.000Z"
-  },
-  {
-    "headline": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
-    "summary": "No one knows what AI will mean for jobs long-term, but the layoffs are likely to hit first without proper planning, says former US Commerce Sec. Gina Raimondo.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
-    "image_url": null,
-    "published_at": "2026-09-29T22:40:20.000Z"
-  },
-  {
-    "headline": "Cramer warns the narrative around AI is turning — and stocks could pay the price",
-    "summary": "CNBC’s Jim Cramer said the AI industry is losing the battle over public perception.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/jim-cramer-ai-public-perception.html",
-    "image_url": null,
-    "published_at": "2026-09-29T22:20:49.000Z"
-  },
-  {
-    "headline": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
-    "summary": "The Treasury Department announced that Trump Accounts will begin auto-enrolling eligible children. Here's what families need to know.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
-    "image_url": null,
-    "published_at": "2026-09-29T21:43:50.000Z"
-  },
-  {
-    "headline": "IPO postponements are accelerating in third quarter, even beyond Oura",
-    "summary": "It's been a strong year for IPOs. But now, more companies are deciding to stay on the sidelines.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html",
-    "image_url": null,
-    "published_at": "2026-09-29T21:05:26.000Z"
-  },
-  {
-    "headline": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-    "summary": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
-    "image_url": null,
-    "published_at": "2026-09-29T20:51:43.000Z"
-  },
-  {
-    "headline": "Goldman Sachs CEO succession planning faces one big problem",
-    "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-    "image_url": null,
-    "published_at": "2026-09-29T20:50:10.000Z"
-  },
-  {
-    "headline": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
-    "summary": "The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
-    "image_url": null,
-    "published_at": "2026-09-29T20:33:08.000Z"
-  },
-  {
-    "headline": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
-    "summary": "Alaska Airlines is overhauling its Alaska and Hawaiian cabins to include brand-new top-tier suites, a premium economy class and other features.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html",
-    "image_url": null,
-    "published_at": "2026-09-29T20:25:51.000Z"
-  },
-  {
-    "headline": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
-    "summary": "The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S. adults.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/ozempiz-counterfeit-china-smuggling-doj.html",
-    "image_url": null,
-    "published_at": "2026-09-29T20:18:32.000Z"
-  },
-  {
-    "headline": "30-year Treasury bond yield scales to highest level since 2002",
-    "summary": "U.S. Treasury yields largely rose Tuesday, adding to the gains that catapulted them to multi-year highs amid central bank monetary policy concerns.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
-    "image_url": null,
-    "published_at": "2026-09-29T20:03:39.000Z"
-  },
-  {
-    "headline": "Homeowners are sitting on record equity – and not using it",
-    "summary": "U.S. homeowners have more housing wealth than ever before, thanks to fast-rising home prices over the last several years. But they aren't spending much of it.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-    "image_url": null,
-    "published_at": "2026-09-29T19:23:06.000Z"
-  },
-  {
-    "headline": "Trump government ads were funded by Homeland Security, WSJ reports",
-    "summary": "CBP funded government-paid Trump TV ads as Democratic appropriators say DHS dedicated $20 million to the campaign ahead of the midterm election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
-    "image_url": null,
-    "published_at": "2026-09-29T19:16:35.000Z"
-  },
-  {
-    "headline": "John Ternus' vision for Apple is coming into view, and we like what we see",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/john-ternus-vision-for-apple-is-coming-into-view-and-we-like-what-we-see.html",
-    "image_url": null,
-    "published_at": "2026-09-29T19:08:43.000Z"
-  },
-  {
-    "headline": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
-    "summary": "El Pollo Loco will open its first New York City restaurant next year in Queens as it aims to become a national chicken chain.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
-    "image_url": null,
-    "published_at": "2026-09-29T18:57:36.000Z"
-  },
-  {
-    "headline": "Education Department extends deadline for student loan interest rate discount",
-    "summary": "The Trump administration announced it will extend the deadline for federal student loan borrowers to sign up for autopay and get a reduced interest rate.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
-    "image_url": null,
-    "published_at": "2026-09-29T18:28:03.000Z"
-  },
-  {
-    "headline": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro",
-    "summary": "Disney warned about the most recent round of cuts in its August earnings report as one of the levers it was evaluating to reduce costs at the company.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html",
-    "image_url": null,
-    "published_at": "2026-09-29T18:21:27.000Z"
-  },
-  {
-    "headline": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
-    "summary": "Alaska Airlines CEO downplayed concerns about a new delay to the Boeing Max 10's certification.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
-    "image_url": null,
-    "published_at": "2026-09-29T18:03:56.000Z"
-  },
-  {
-    "headline": "Jamie Dimon has a plan to revive the West: A 'big, beautiful' deal with Europe",
-    "summary": "\"Many of the current disputes between Europe and the U.S. are minor compared with this agreement's size and benefits,\" the JPMorgan boss wrote this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/jamie-dimon-europe-trade.html",
-    "image_url": null,
-    "published_at": "2026-09-29T17:34:18.000Z"
   }
 ]

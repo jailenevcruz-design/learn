@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
+    "summary": "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating them now.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5943563/pharmacy-benefit-managers-pbms-tennessee-arkansas-regulation",
+    "image_url": null,
+    "published_at": "2026-10-05T09:00:00.000Z"
+  },
+  {
+    "headline": "From floating saunas to clinical trials: How heat might help mental health",
+    "summary": "While scientists have a decent understanding of how sauna and other forms of heat exposure exercises our cardiovascular system, they know relatively little about its impact on mental health.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5979044/sauna-heat-therapy-mental-health-depression",
+    "image_url": null,
+    "published_at": "2026-10-05T09:00:00.000Z"
+  },
+  {
     "headline": "What does marathon training do to your body? A reporter becomes the test subject",
     "summary": "Before running the New York City Marathon, NPR's Elissa Nadworny gets a bone scan, blood work and a treadmill test to settle a question from Mom: Is this bad for my body?",
     "publisher": "NPR",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
     "image_url": null,
     "published_at": "2026-07-30T20:37:48.000Z"
-  },
-  {
-    "headline": "How cyclospora's biology has created the perfect infectious storm",
-    "summary": "Cyclospora, the parasite that's been wreaking havoc in people's digestive systems over the past month, starts with a single cell. The parasite passes through human intestines to reproduce. Their complex biology contributes to why it's so hard to kick, leading to infections that can last for weeks or months.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5909644/how-cyclosporas-biology-has-created-the-perfect-infectious-storm",
-    "image_url": null,
-    "published_at": "2026-07-30T20:30:32.000Z"
-  },
-  {
-    "headline": "An infertility doctor secretly fathered dozens of children: how strangers became family. Part 2",
-    "summary": "Dozens of people who grew up around Philadelphia learned decades later they shared the same biological father, a pioneering infertility doctor. Many bonded, created a family and hold reunions.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/30/nx-s1-5903829/an-infertility-doctor-secretly-fathered-dozens-of-children-how-strangers-became-family-part-2",
-    "image_url": null,
-    "published_at": "2026-07-30T20:30:31.000Z"
   }
 ]
