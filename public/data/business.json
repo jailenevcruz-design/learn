@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
+    "summary": "The U.S. national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the country.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
+    "image_url": null,
+    "published_at": "2026-10-06T06:17:40.000Z"
+  },
+  {
+    "headline": "How quant funds beat the market by being 'early, contrarian and right'",
+    "summary": "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
+    "image_url": null,
+    "published_at": "2026-10-06T05:00:01.000Z"
+  },
+  {
+    "headline": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+    "summary": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+    "image_url": null,
+    "published_at": "2026-10-06T04:07:24.000Z"
+  },
+  {
+    "headline": "Little room for ‘giving and taking’: India’s finance minister confirms trade impasse with the U.S.",
+    "summary": "In the latest sign of growing skepticism around the closure of the trade deal between New Delhi and Washington, an Indian minister said there is little room for ‘giving and taking.’",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html",
+    "image_url": null,
+    "published_at": "2026-10-06T02:39:19.000Z"
+  },
+  {
+    "headline": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan",
+    "summary": "Former Army Maj. Nidal Hassan was sentenced to death after a court-martial that convicted him of killing 13 and wounding 32 others at an Army base in Texas.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
+    "image_url": null,
+    "published_at": "2026-10-06T02:23:18.000Z"
+  },
+  {
+    "headline": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
+    "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+    "image_url": null,
+    "published_at": "2026-10-06T01:55:50.000Z"
+  },
+  {
+    "headline": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
+    "summary": "WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
+    "image_url": null,
+    "published_at": "2026-10-06T01:47:32.000Z"
+  },
+  {
     "headline": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
     "summary": "Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
     "publisher": "CNBC",
@@ -16,12 +72,12 @@
     "published_at": "2026-10-05T23:28:31.000Z"
   },
   {
-    "headline": "Trump says he'll pay for TV ads that praised him and which government funded",
-    "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+    "headline": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
+    "summary": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+    "url": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
     "image_url": null,
-    "published_at": "2026-10-05T23:25:38.000Z"
+    "published_at": "2026-10-05T23:14:39.000Z"
   },
   {
     "headline": "Stocks are hitting records despite surging yields. Cramer explains why",
@@ -1542,61 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
     "image_url": null,
     "published_at": "2026-09-30T12:48:46.000Z"
-  },
-  {
-    "headline": "More Americans are tapping investments to pay for spending, analysis finds",
-    "summary": "Across all age and income groups examined in new research, the share of individuals transferring money from investment accounts to checking accounts has risen.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/more-americans-tap-investment-accounts-to-fund-spending-analysis.html",
-    "image_url": null,
-    "published_at": "2026-09-30T12:15:02.000Z"
-  },
-  {
-    "headline": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
-    "summary": "CEO Jim Farley's warning comes on the heels of a high-profile visit last week by Chinese President Xi Jinping with President Donald Trump",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
-    "image_url": null,
-    "published_at": "2026-09-30T12:05:32.000Z"
-  },
-  {
-    "headline": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
-    "summary": "Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market with Dots.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
-    "image_url": null,
-    "published_at": "2026-09-30T12:04:46.000Z"
-  },
-  {
-    "headline": "Tennis star Jessica Pegula says helping her family run the Buffalo Bills could be in her future",
-    "summary": "Tennis star Jessica Pegula says she's open to helping her family run the Buffalo Bills after her playing career is over.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/tennis-star-jessica-pegula-on-buffalo-bills-sabres-family-ownership.html",
-    "image_url": null,
-    "published_at": "2026-09-30T12:00:01.000Z"
-  },
-  {
-    "headline": "Dan Ives prepares to debut fund offering access to private companies fueling AI boom",
-    "summary": "Yorkville Ives priced a fund aiming to give investors access to the private companies helping develop artificial intelligence.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/dan-ives-ai-private-companies-ivai.html",
-    "image_url": null,
-    "published_at": "2026-09-30T11:56:51.000Z"
-  },
-  {
-    "headline": "Man City guilty of ‘sham’ sponsorship deals after decade of English soccer dominance",
-    "summary": "English soccer club Manchester City has been found guilty of breaking Premier League financial rules over nine seasons.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/manchester-city-guilty-premier-league-financial-rules.html",
-    "image_url": null,
-    "published_at": "2026-09-30T11:55:22.000Z"
-  },
-  {
-    "headline": "Mortgage rates jump for the sixth straight week, hitting both refinance and homebuyer demand hard",
-    "summary": "Mortgage demand dropped for the 7th straight week, as rates surged well over 7% on the 30-year fixed.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
-    "image_url": null,
-    "published_at": "2026-09-30T11:39:07.000Z"
   }
 ]
