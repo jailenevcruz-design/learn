@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "image_url": null,
+    "published_at": "2026-10-05T23:09:55.000Z"
+  },
+  {
+    "headline": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+    "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+    "image_url": null,
+    "published_at": "2026-10-05T21:54:01.000Z"
+  },
+  {
+    "headline": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+    "summary": "It’s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the original game. Ever imagined skateboarding in Call of Duty? Or p…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+    "image_url": null,
+    "published_at": "2026-10-05T21:17:45.000Z"
+  },
+  {
+    "headline": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+    "summary": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the original Matic, model 4MA0001, and its charging dock model 4DK0008 to its ba…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+    "image_url": null,
+    "published_at": "2026-10-05T21:15:05.000Z"
+  },
+  {
+    "headline": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "image_url": null,
+    "published_at": "2026-10-05T20:36:48.000Z"
+  },
+  {
+    "headline": "Etched fields funding offers at $40B+ valuation, sources say",
+    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+    "image_url": null,
+    "published_at": "2026-10-05T20:24:09.000Z"
+  },
+  {
+    "headline": "This startup is issuing AI-generated acne prescriptions",
+    "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "image_url": null,
+    "published_at": "2026-10-05T20:14:57.000Z"
+  },
+  {
+    "headline": "After Factory’s public spat with Khosla, Menlo proudly invests",
+    "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+    "image_url": null,
+    "published_at": "2026-10-05T19:38:07.000Z"
+  },
+  {
+    "headline": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "image_url": null,
+    "published_at": "2026-10-05T19:33:53.000Z"
+  },
+  {
+    "headline": "All the drama around AI&#8217;s takeover of mathematics",
+    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley st…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "image_url": null,
+    "published_at": "2026-10-05T19:28:59.000Z"
+  },
+  {
+    "headline": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+    "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "image_url": null,
+    "published_at": "2026-10-05T19:05:19.000Z"
+  },
+  {
+    "headline": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "image_url": null,
+    "published_at": "2026-10-05T18:54:30.000Z"
+  },
+  {
     "headline": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
     "summary": "Hyundai CEO José Muñoz, center, doesn’t think his company needs a strategy to combat Chinese imports. | Image: Andrew J. Hawkins / The Verge There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chines…",
     "publisher": "The Verge",
@@ -81,7 +177,7 @@
   },
   {
     "headline": "OpenAI launches visual ads that appear alongside image generation results",
-    "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
     "image_url": null,
@@ -136,18 +232,18 @@
     "published_at": "2026-10-05T14:35:09.000Z"
   },
   {
-    "headline": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-    "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech industry at this mom…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-    "image_url": null,
-    "published_at": "2026-10-05T14:30:00.000Z"
-  },
-  {
     "headline": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
     "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+    "image_url": null,
+    "published_at": "2026-10-05T14:30:00.000Z"
+  },
+  {
+    "headline": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+    "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech industry at this mom…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
     "image_url": null,
     "published_at": "2026-10-05T14:30:00.000Z"
   },
@@ -1502,101 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
     "image_url": null,
     "published_at": "2026-09-29T17:35:03.000Z"
-  },
-  {
-    "headline": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
-    "summary": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
-    "image_url": null,
-    "published_at": "2026-09-29T17:27:09.000Z"
-  },
-  {
-    "headline": "AI-powered app maker Wabi pivots to a messaging experience",
-    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "image_url": null,
-    "published_at": "2026-09-29T17:20:00.000Z"
-  },
-  {
-    "headline": "Razer’s low-latency wireless gaming keyboard is almost half off",
-    "summary": "Razer’s DeathStalker V2 Pro is discounted in both black and white. | Image: The Verge Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and low-profile line…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
-    "image_url": null,
-    "published_at": "2026-09-29T17:19:07.000Z"
-  },
-  {
-    "headline": "OpenAI launches Dots, its bubbly agentic avatar",
-    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-    "image_url": null,
-    "published_at": "2026-09-29T17:17:15.000Z"
-  },
-  {
-    "headline": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "image_url": null,
-    "published_at": "2026-09-29T17:15:00.000Z"
-  },
-  {
-    "headline": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-    "image_url": null,
-    "published_at": "2026-09-29T17:15:00.000Z"
-  },
-  {
-    "headline": "OpenAI launches Dots, its Muse competitor",
-    "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connecte…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-    "image_url": null,
-    "published_at": "2026-09-29T17:15:00.000Z"
-  },
-  {
-    "headline": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-    "image_url": null,
-    "published_at": "2026-09-29T17:15:00.000Z"
-  },
-  {
-    "headline": "Protesters gather at OpenAI’s DevDay",
-    "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outsid…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-    "image_url": null,
-    "published_at": "2026-09-29T17:12:27.000Z"
-  },
-  {
-    "headline": "Can a chatbot fix the government maze? The White House is about to find out",
-    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-    "image_url": null,
-    "published_at": "2026-09-29T16:55:56.000Z"
-  },
-  {
-    "headline": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
-    "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game. \"Mythic Achievements have already been a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
-    "image_url": null,
-    "published_at": "2026-09-29T16:17:01.000Z"
-  },
-  {
-    "headline": "Apple&#8217;s new CEO could change when it launches phones and laptops",
-    "summary": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company. Apple regularly holds iPhone launch events in September and often announces products later in the y…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
-    "image_url": null,
-    "published_at": "2026-09-29T16:09:44.000Z"
   }
 ]

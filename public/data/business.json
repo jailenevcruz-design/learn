@@ -1,5 +1,93 @@
 [
   {
+    "headline": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
+    "summary": "Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html",
+    "image_url": null,
+    "published_at": "2026-10-05T23:41:11.000Z"
+  },
+  {
+    "headline": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+    "summary": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+    "image_url": null,
+    "published_at": "2026-10-05T23:28:31.000Z"
+  },
+  {
+    "headline": "Trump says he'll pay for TV ads that praised him and which government funded",
+    "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+    "image_url": null,
+    "published_at": "2026-10-05T23:25:38.000Z"
+  },
+  {
+    "headline": "Stocks are hitting records despite surging yields. Cramer explains why",
+    "summary": "CNBC’s Jim Cramer said Nvidia, Microsoft and Meta are helping push stocks to records even as surging Treasury yields pressure much of the broader market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
+    "image_url": null,
+    "published_at": "2026-10-05T22:18:13.000Z"
+  },
+  {
+    "headline": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
+    "summary": "The Nokia CEO's comments underscores continued demand for AI even as top executives debate slowing down the pace of development.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
+    "image_url": null,
+    "published_at": "2026-10-05T22:00:01.000Z"
+  },
+  {
+    "headline": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+    "summary": "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+    "image_url": null,
+    "published_at": "2026-10-05T21:24:25.000Z"
+  },
+  {
+    "headline": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
+    "summary": "Lucid delivered 3,806 EVs and produced 2,954 vehicles during the third quarter. That compared with 4,078 deliveries on production of 3,891 vehicles a year earlier.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
+    "image_url": null,
+    "published_at": "2026-10-05T21:04:17.000Z"
+  },
+  {
+    "headline": "'We had a threat': Trump explains U.S. moving long-range bombers from UK",
+    "summary": "The U.S. Air Force B-1 bombers removed from England have been used in strikes on Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html",
+    "image_url": null,
+    "published_at": "2026-10-05T20:53:33.000Z"
+  },
+  {
+    "headline": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+    "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a runoff on Oct. 25.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+    "image_url": null,
+    "published_at": "2026-10-05T20:41:23.000Z"
+  },
+  {
+    "headline": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+    "summary": "SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+    "image_url": null,
+    "published_at": "2026-10-05T20:10:13.000Z"
+  },
+  {
+    "headline": "TNT Sports head Luis Silberwasser to depart Skydance as CBS Sports chief David Berson takes over combined global sports group",
+    "summary": "TNT Sports chief Luis Silberwasser will be leaving a combined Paramount Skydance-Warner Bros. Discovery company, sources tell CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/cbs-sports-head-david-berson-takes-over-skydance-global-sports-group.html",
+    "image_url": null,
+    "published_at": "2026-10-05T19:39:22.000Z"
+  },
+  {
     "headline": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
     "summary": "Melius Research's Ben Reitzes has warned about AI disrupting legacy software providers for years. Now, he loves Microsoft's place in the AI race.",
     "publisher": "CNBC",
@@ -24,28 +112,12 @@
     "published_at": "2026-10-05T18:12:16.000Z"
   },
   {
-    "headline": "TNT Sports head Luis Silberwasser to depart Skydance as CBS Sports chief David Berson takes over combined global sports group",
-    "summary": "TNT Sports chief Luis Silberwasser will be leaving a combined Paramount Skydance-Warner Bros. Discovery company, sources tell CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/cbs-sports-head-david-berson-takes-over-skydance-global-sports-group.html",
-    "image_url": null,
-    "published_at": "2026-10-05T18:05:14.000Z"
-  },
-  {
     "headline": "These are the cheapest and most expensive U.S. flights this November",
     "summary": "Holiday airplane tickets are up more than 23% this year, according to Hopper.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
     "image_url": null,
     "published_at": "2026-10-05T17:59:51.000Z"
-  },
-  {
-    "headline": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
-    "summary": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-    "image_url": null,
-    "published_at": "2026-10-05T17:43:34.000Z"
   },
   {
     "headline": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
@@ -86,14 +158,6 @@
     "url": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html",
     "image_url": null,
     "published_at": "2026-10-05T15:51:15.000Z"
-  },
-  {
-    "headline": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-    "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a run-off on Oct. 25.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-    "image_url": null,
-    "published_at": "2026-10-05T15:47:42.000Z"
   },
   {
     "headline": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
@@ -728,7 +792,7 @@
     "published_at": "2026-10-02T09:01:37.000Z"
   },
   {
-    "headline": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
+    "headline": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working-class votes?",
     "summary": "After 32 years in Congress, Ohio's Sherrod Brown lost his Senate seat in 2024 as many working class voters turned out for Trump. Now Brown is counting on union voters to send him back to Washington.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
     "image_url": null,
     "published_at": "2026-09-30T11:39:07.000Z"
-  },
-  {
-    "headline": "AI's coming roadblock in regulation: Antitrust hawks",
-    "summary": "Top AI executives have asked for narrow antitrust exemptions or waivers so they can collaborate on safety.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/ai-regulation-congress-antitrust.html",
-    "image_url": null,
-    "published_at": "2026-09-30T10:26:36.000Z"
-  },
-  {
-    "headline": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
-    "summary": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-09-30T09:45:54.000Z"
-  },
-  {
-    "headline": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-    "summary": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
-    "image_url": null,
-    "published_at": "2026-09-30T09:01:00.000Z"
-  },
-  {
-    "headline": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
-    "summary": "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
-    "image_url": null,
-    "published_at": "2026-09-30T09:00:01.000Z"
-  },
-  {
-    "headline": "One year after the end of the EV tax credit, is the future still electric?",
-    "summary": "Congress got rid of a $7,500 federal tax credit for new electric vehicle buyers. One year later, are people still buying EVs?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5979915/ev-hybrid-sales-2026-federal-tax-credit",
-    "image_url": null,
-    "published_at": "2026-09-30T09:00:00.000Z"
-  },
-  {
-    "headline": "Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’",
-    "summary": "Russia intensifies attacks on Ukraine’s data centers and communications infrastructure, targeting facilities in Kyiv.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/ukraine-war-russia-nato-nuclear-kyiv.html",
-    "image_url": null,
-    "published_at": "2026-09-30T08:33:09.000Z"
-  },
-  {
-    "headline": "AI broke the job application. What replaces it?",
-    "summary": "Candidates can use AI to create endless resumes and cover letters. It's forcing businesses to rethink how they hire.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/ai-resume-cv-job-application-interview.html",
-    "image_url": null,
-    "published_at": "2026-09-30T05:00:01.000Z"
-  },
-  {
-    "headline": "China factory activity snaps 2-month contractionary streak in September",
-    "summary": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
-    "image_url": null,
-    "published_at": "2026-09-30T03:39:35.000Z"
   }
 ]
