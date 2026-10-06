@@ -1,11 +1,195 @@
 [
   {
+    "headline": "What Marvell's rosy long-term guidance means for our AI chip stocks",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/06/what-marvells-rosy-long-term-guidance-means-for-our-ai-chip-stocks.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:51:01.000Z"
+  },
+  {
+    "headline": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
+    "summary": "Meta and OpenAI Chairman Bret Taylor’s startup Sierra are building a set of tech standards to make it easier to do business with AI bots.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:48:36.000Z"
+  },
+  {
+    "headline": "How event contract bundles are boosting volume on prediction markets",
+    "summary": "Combo contracts are driving volume growth even as they make up a small, albeit consistent, share of transactions.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:46:16.000Z"
+  },
+  {
+    "headline": "Treasury yields slide as surge to multiyear highs cools",
+    "summary": "U.S. Treasury yields were broadly lower on Tuesday morning after reaching fresh highs the previous day.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:44:05.000Z"
+  },
+  {
+    "headline": "Boomers' dividend stocks take beating as bond yields rise, with retirement income on the line",
+    "summary": "As interest rates and bond yields rise, dividend stocks many boomers rely on for income are taking a beating. There are ways to blunt the portfolio impact.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:41:02.000Z"
+  },
+  {
+    "headline": "Kalshi launches transparency features on its election contracts ahead of midterms",
+    "summary": "The platform will now provide tags that indicate which election markets have low volumes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:34:49.000Z"
+  },
+  {
+    "headline": "Govt airs new ad after Trump says MAGA Inc. PAC will pay for controversial TV spots",
+    "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:22:05.000Z"
+  },
+  {
+    "headline": "Young voters struggle to afford housing. But they don't expect help from political candidates",
+    "summary": "Pennsylvania's competitive U.S. House districts showcase how housing affordability challenges for young voters may play into control of the next Congress.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/housing-affordability-election.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:11:51.000Z"
+  },
+  {
+    "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+    "summary": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:06:40.000Z"
+  },
+  {
+    "headline": "Alito plans to stay on Supreme Court, even if Democrats regain Senate: Report",
+    "summary": "Samuel Alito is one of six conservative justices on the Supreme Court, three of whom were nominated by President Donald Trump.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/alito-supreme-court-democrats-senate.html",
+    "image_url": null,
+    "published_at": "2026-10-06T18:04:56.000Z"
+  },
+  {
+    "headline": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
+    "summary": "British Airways is ripping out coach-class seats and building a giant premium economy and business class in a bet on the high-end travel boom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
+    "image_url": null,
+    "published_at": "2026-10-06T17:53:27.000Z"
+  },
+  {
+    "headline": "Why deep-red Kansas has become an unexpected Senate battleground",
+    "summary": "A combination of local, national and international events has contributed to making the Kansas Senate race one to watch.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/kansas-election-senate-marshall-hamilton.html",
+    "image_url": null,
+    "published_at": "2026-10-06T17:43:20.000Z"
+  },
+  {
+    "headline": "Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it",
+    "summary": "If ever there was a stock that personified the promise and peril of the AI trade, it's Salesforce.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
+    "image_url": null,
+    "published_at": "2026-10-06T17:22:20.000Z"
+  },
+  {
+    "headline": "High diesel prices may put 'another squeeze' on the consumer, economist says",
+    "summary": "The impact of soaring diesel prices is less evident to consumers than that of gasoline.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/diesel-prices-inflation.html",
+    "image_url": null,
+    "published_at": "2026-10-06T17:18:32.000Z"
+  },
+  {
     "headline": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
     "summary": "Defense tech leaders are gaining sway in Washington in President Donald Trump's military reindustrialization push",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
     "image_url": null,
-    "published_at": "2026-10-06T13:42:15.000Z"
+    "published_at": "2026-10-06T16:44:22.000Z"
+  },
+  {
+    "headline": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+    "summary": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+    "image_url": null,
+    "published_at": "2026-10-06T16:19:10.000Z"
+  },
+  {
+    "headline": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
+    "summary": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+    "image_url": null,
+    "published_at": "2026-10-06T16:15:07.000Z"
+  },
+  {
+    "headline": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+    "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+    "image_url": null,
+    "published_at": "2026-10-06T15:52:22.000Z"
+  },
+  {
+    "headline": "This startup wants to reduce liquidation risk from margin calls on prediction markets",
+    "summary": "Edge Markets' new infrastructure aims to support institutional trading for markets that operate around the clock.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
+    "image_url": null,
+    "published_at": "2026-10-06T15:26:56.000Z"
+  },
+  {
+    "headline": "Russian lab worker's suspected plague death leaves experts puzzled",
+    "summary": "Russian authorities say the situation is stable and there are no reports of secondary cases.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
+    "image_url": null,
+    "published_at": "2026-10-06T15:23:41.000Z"
+  },
+  {
+    "headline": "UBS CEO warns ‘hard measures’ are needed to tackle French debt crisis, as turmoil worsens",
+    "summary": "UBS CEO Sergio Ermotti warned that \"hard measures\" are needed to tackle France's spiraling debt crisis.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/france-debt-crisis-ubs-ermotti.html",
+    "image_url": null,
+    "published_at": "2026-10-06T15:13:04.000Z"
+  },
+  {
+    "headline": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
+    "summary": "Paramount has faced competing bids and an antitrust hurdle since its earliest attempts to take over WBD. Here's a timeline of key events.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
+    "image_url": null,
+    "published_at": "2026-10-06T15:06:53.000Z"
+  },
+  {
+    "headline": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
+    "summary": "Lithuania is seeking to bolster its security amid growing concerns over Russia.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
+    "image_url": null,
+    "published_at": "2026-10-06T14:33:58.000Z"
+  },
+  {
+    "headline": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
+    "summary": "Google DeepMind Chief AI Readiness Officer Lila Ibrahim may be the only person with that title, and as intelligence risks rise, she takes it very seriously.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
+    "image_url": null,
+    "published_at": "2026-10-06T14:00:01.000Z"
   },
   {
     "headline": "House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline",
@@ -24,60 +208,12 @@
     "published_at": "2026-10-06T13:26:52.000Z"
   },
   {
-    "headline": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-    "summary": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz chokepoint.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-    "image_url": null,
-    "published_at": "2026-10-06T13:17:17.000Z"
-  },
-  {
-    "headline": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-    "summary": "Paramount has faced competing bids and an antitrust hurdle since its earliest attempts to take over WBD. Here's a timeline of key events.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-    "image_url": null,
-    "published_at": "2026-10-06T13:08:32.000Z"
-  },
-  {
-    "headline": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-    "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    "image_url": null,
-    "published_at": "2026-10-06T13:07:57.000Z"
-  },
-  {
-    "headline": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
-    "summary": "Lithuania is seeking to bolster its security amid growing concerns over Russia.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
-    "image_url": null,
-    "published_at": "2026-10-06T13:05:46.000Z"
-  },
-  {
-    "headline": "This startup wants to reduce liquidation risk from margin calls on prediction markets",
-    "summary": "Edge Markets' new infrastructure aims to support institutional trading for markets that operate around the clock.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
-    "image_url": null,
-    "published_at": "2026-10-06T13:01:20.000Z"
-  },
-  {
     "headline": "Mistral unveils new AI model it says rivals best open systems from China",
     "summary": "Western developers are racing to compete with Chinese companies in open weight and open source AI.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
     "image_url": null,
     "published_at": "2026-10-06T13:00:01.000Z"
-  },
-  {
-    "headline": "Russian lab worker's suspected plague death leaves experts puzzled",
-    "summary": "Russian authorities say the situation is stable and there are no reports of secondary cases.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
-    "image_url": null,
-    "published_at": "2026-10-06T12:59:40.000Z"
   },
   {
     "headline": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
@@ -96,14 +232,6 @@
     "published_at": "2026-10-06T12:47:59.000Z"
   },
   {
-    "headline": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
-    "summary": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-    "image_url": null,
-    "published_at": "2026-10-06T12:18:28.000Z"
-  },
-  {
     "headline": "Car buyers are stretching loans to afford payments — it's a 'potential warning light,' analyst says",
     "summary": "A record number of car buyers took out 84-month or longer loans in the third quarter, but rising amounts financed are pushing monthly payments to new highs.",
     "publisher": "CNBC",
@@ -118,6 +246,14 @@
     "url": "https://www.cnbc.com/2026/10/06/spacex-stock-is-taking-off-again-but-with-one-key-difference-this-time.html",
     "image_url": null,
     "published_at": "2026-10-06T11:44:11.000Z"
+  },
+  {
+    "headline": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years",
+    "summary": "See an AI-generated hypothetical portfolio derived from my TV talk and this column's archives.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/06/unsure-how-long-this-ai-bull-has-bonds-now-offer-a-cushion-at-the-best-values-in-years.html",
+    "image_url": null,
+    "published_at": "2026-10-06T11:08:28.000Z"
   },
   {
     "headline": "What voters in 6 key states could tell us about the 2026 midterms",
@@ -150,14 +286,6 @@
     "url": "https://www.cnbc.com/2026/10/06/mattel-barbie-ariel-sale-investor-pressure.html",
     "image_url": null,
     "published_at": "2026-10-06T10:07:03.000Z"
-  },
-  {
-    "headline": "Why deep-red Kansas has become an unexpected Senate battleground",
-    "summary": "A combination of local, national and international events has contributed to making the Kansas Senate race one to watch.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/kansas-election-senate-marshall-hamilton.html",
-    "image_url": null,
-    "published_at": "2026-10-06T10:00:01.000Z"
   },
   {
     "headline": "Student riots engulf France as far-right presidential frontrunner Le Pen vows fiscal turnaround",
@@ -230,14 +358,6 @@
     "url": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
     "image_url": null,
     "published_at": "2026-10-06T02:23:18.000Z"
-  },
-  {
-    "headline": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
-    "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-    "image_url": null,
-    "published_at": "2026-10-06T01:55:50.000Z"
   },
   {
     "headline": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
@@ -1478,125 +1598,5 @@
     "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
     "image_url": null,
     "published_at": "2026-09-30T23:01:40.000Z"
-  },
-  {
-    "headline": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that",
-    "summary": "CNBC's Jim Cramer said Wednesday that several key parts of the U.S. economy have effectively frozen.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/jim-cramer-frozen-markets-stocks.html",
-    "image_url": null,
-    "published_at": "2026-09-30T23:00:52.000Z"
-  },
-  {
-    "headline": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
-    "summary": "Trump recently said he was \"very seriously\" considering a diesel export ban, despite warnings from the U.S. oil industry that doing so would raise prices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
-    "image_url": null,
-    "published_at": "2026-09-30T22:43:53.000Z"
-  },
-  {
-    "headline": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
-    "summary": "Lilly said it plans to start Phase 3 trials on the combo regimen adding its amylin drug eloralintide to tirzepatide at the end of the year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
-    "image_url": null,
-    "published_at": "2026-09-30T22:40:47.000Z"
-  },
-  {
-    "headline": "Google rolls out Gemini 4 Argon, its most advanced AI model",
-    "summary": "Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
-    "image_url": null,
-    "published_at": "2026-09-30T22:27:09.000Z"
-  },
-  {
-    "headline": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-    "summary": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-    "image_url": null,
-    "published_at": "2026-09-30T22:26:49.000Z"
-  },
-  {
-    "headline": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
-    "summary": "The Trump administration announced on Wednesday that it was launching a \"Default Loans Support Center\" for student loan borrowers who've fallen behind.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
-    "image_url": null,
-    "published_at": "2026-09-30T22:15:29.000Z"
-  },
-  {
-    "headline": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
-    "summary": "The refunds come after millions of people lost premium subsidies for their health insurance and right before the midterm elections.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
-    "image_url": null,
-    "published_at": "2026-09-30T22:11:08.000Z"
-  },
-  {
-    "headline": "Meta stock enjoys best month since 2022 on AI momentum",
-    "summary": "Meta stock had its best month in almost four years as investors cheer the social media giant's recent momentum in artificial intelligence.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
-    "image_url": null,
-    "published_at": "2026-09-30T21:36:47.000Z"
-  },
-  {
-    "headline": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
-    "summary": "Pete Hegseth, in remarks about the state of the military, announced a project led by two GOP-supporting tech executives to examine military capabilities.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
-    "image_url": null,
-    "published_at": "2026-09-30T21:21:10.000Z"
-  },
-  {
-    "headline": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-    "image_url": null,
-    "published_at": "2026-09-30T21:09:42.000Z"
-  },
-  {
-    "headline": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-    "summary": "A Senate subcommittee on Wednesday is examining rogue AI, after a series of AI cyberattacks and increasing warnings about the risks of the technology.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
-    "image_url": null,
-    "published_at": "2026-09-30T20:51:44.000Z"
-  },
-  {
-    "headline": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed",
-    "summary": "Grindr is buying PrEP provider Freddie for $250 million, expanding into healthcare and seeking to make HIV prevention more accessible to its users.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/grindr-purposemed-freddie-telehealth-acquisition.html",
-    "image_url": null,
-    "published_at": "2026-09-30T20:45:01.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
-    "summary": "Treasury yields were lower on Wednesday following the release of lighter-than-expected U.S. inflation data.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
-    "image_url": null,
-    "published_at": "2026-09-30T20:33:30.000Z"
-  },
-  {
-    "headline": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
-    "summary": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
-    "image_url": null,
-    "published_at": "2026-09-30T20:17:49.000Z"
-  },
-  {
-    "headline": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
-    "summary": "It is unclear how long the recovery can be sustained given that it relies on the U.S. military protecting tankers in the Persian Gulf.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
-    "image_url": null,
-    "published_at": "2026-09-30T20:16:17.000Z"
   }
 ]

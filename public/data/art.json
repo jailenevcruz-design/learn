@@ -1,5 +1,93 @@
 [
   {
+    "headline": "Ayé A. Aton Returns to His Earthly Roots",
+    "summary": "The former percussionist for Sun Ra's band has turned to art in a self-directed inquiry into the visual culture of West and Central Africa.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/aye-a-aton-returns-to-his-earthly-roots/",
+    "image_url": null,
+    "published_at": "2026-10-06T18:40:59.000Z"
+  },
+  {
+    "headline": "Phoenix Art Museum Receives $5 M. Donation to Expand Sri Lankan and South Asian Art Galleries",
+    "summary": "Philanthropist Sukumar Nagendran's gift will also support acquisitions, scholarly research, and public programs on Sri Lankan art.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/phoenix-art-museum-sukumar-nagendran-donation-1234801217/",
+    "image_url": null,
+    "published_at": "2026-10-06T18:37:04.000Z"
+  },
+  {
+    "headline": "These Are the Artists in the 2027 New Museum Triennial",
+    "summary": "The show will feature 36 artists and collectives representing 34 nations, making it the most internationally focused edition to date.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/these-are-the-artists-in-the-2027-new-museum-triennial/",
+    "image_url": null,
+    "published_at": "2026-10-06T17:24:49.000Z"
+  },
+  {
+    "headline": "The State Russian Museum Has Restored Ivan Aivazovsky Seascape Painting Ahead of Major Retrospective",
+    "summary": "The restoration of the painting started in June and will be exhibited in the Benois Wing of the museum.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/state-russian-museum-ivan-aivazovskys-the-ninth-wave-1234801236/",
+    "image_url": null,
+    "published_at": "2026-10-06T17:23:58.000Z"
+  },
+  {
+    "headline": "New Museum Announces 36 Artists and Collectives for Upcoming Triennial, Including Virginia Chihota, Mandy El-Sayegh, Josi, Jota Mombaça, and Agnes Questionmark",
+    "summary": "The featured artists hail from 34 countries, or “the widest international representation in a New Museum Triennial to date,” per a release.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/new-museum-triennial-2027-artist-list-1234801235/",
+    "image_url": null,
+    "published_at": "2026-10-06T17:04:29.000Z"
+  },
+  {
+    "headline": "Art Collector Beth Rudin DeWoody Lists Upper East Side Co-Op for $12 M.",
+    "summary": "This is the second time she listed the New York apartment since 2018; she previously took it off the market in 2020.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/beth-rudin-dewoody-upper-east-side-co-op-hits-the-market-1234801219/",
+    "image_url": null,
+    "published_at": "2026-10-06T16:57:02.000Z"
+  },
+  {
+    "headline": "A Triumphant Tribute to Latine Visual Culture",
+    "summary": "Forty-six entities displayed zines, academic books, textiles, and artwork — some even made in real time — at the third edition of The Latinx Project’s La Feria.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/a-triumphant-tribute-to-latine-visual-culture/",
+    "image_url": null,
+    "published_at": "2026-10-06T16:36:24.000Z"
+  },
+  {
+    "headline": "Dalí-Designed Bronze ‘Livre de l’Apocalypse’ Book Cover Stolen from French Museum",
+    "summary": "The Surrealist artwork was made in collaboration with 14 artists and writers between 1958 and 1961, but only its interior parchments were spared.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/dali-designed-bronze-apocalypse-book-cover-stolen-in-france-1234801226/",
+    "image_url": null,
+    "published_at": "2026-10-06T16:29:49.000Z"
+  },
+  {
+    "headline": "Independent Art Fair Purchased by British Conglomerate",
+    "summary": "News that the show was acquired by Informa in 2025 comes after the show’s controversial debut in the landmark Breuer building.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/independent-art-fair-purchased-by-british-conglomerate/",
+    "image_url": null,
+    "published_at": "2026-10-06T15:08:49.000Z"
+  },
+  {
+    "headline": "Discover Carl Sprinchorn at Two Maine Museums This Fall",
+    "summary": "The Ogunquit Museum of American Art and Bates College Museum of Art chronicle the life and work of under-recognized modern artist Carl Sprinchorn.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall/",
+    "image_url": null,
+    "published_at": "2026-10-06T14:47:35.000Z"
+  },
+  {
+    "headline": "Bold New Books in Art and Visual Culture from the MIT Press",
+    "summary": "From activist art and trans aesthetics to lowriders, global skateboarding culture, and Vilém Flusser’s prescient vision of the screen age.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/bold-new-books-in-art-and-visual-culture-from-the-mit-press/",
+    "image_url": null,
+    "published_at": "2026-10-06T14:36:17.000Z"
+  },
+  {
     "headline": "Dali-Designed Bronze Book of Revelations Cover Stolen from French Museum, Sotheby’s to Auction Nanotyrannus Fossil, and More: Morning Links for October 6, 2026",
     "summary": "Here's what we're reading this morning.",
     "publisher": "ARTnews",
@@ -1510,93 +1598,5 @@
     "url": "https://www.artnews.com/art-news/reviews/vincent-dubourg-london-design-festival-london-fashion-week-1234798974/",
     "image_url": null,
     "published_at": "2026-09-24T11:30:25.000Z"
-  },
-  {
-    "headline": "Ari Emanuel Doesn't Want to Hear the G-Word",
-    "summary": "The Frieze owner criticizes rapper Macklemore's pro-Palestinian statements, the overlooked artisans who built Ancient Egypt, and other stories.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/ari-emanuel-doesnt-want-to-hear-the-g-word/",
-    "image_url": null,
-    "published_at": "2026-09-24T10:00:34.000Z"
-  },
-  {
-    "headline": "A Leonor Fini Retrospective Provokes Surrealism’s Fascination with Youthful Femininity",
-    "summary": "The show opens at Frankfurt's Schirn Kunsthalle in October.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-in-america/columns/leonor-fini-schrin-kunsthalle-frankfurt-youthful-femininity-surrealism-1234799151/",
-    "image_url": null,
-    "published_at": "2026-09-24T09:00:00.000Z"
-  },
-  {
-    "headline": "After a $105 M. Memorabilia Blockbuster, Christie’s Launches a Pop Culture Division",
-    "summary": "“I sat in the Jim Irsay sale room, and that was an experience like I’ve never seen,” Christie's Bonnie Brennan said.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/christies-pop-culture-division-josh-benesh-jim-irsay-1234799208/",
-    "image_url": null,
-    "published_at": "2026-09-23T21:23:54.000Z"
-  },
-  {
-    "headline": "The Met to Present First Major Felix Gonzalez-Torres Show in NYC in Decades",
-    "summary": "Scattered across the museum's permanent collection galleries, \"The Spaces Between\" brings together more than 40 works from the late conceptual artist.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/the-met-to-present-first-major-felix-gonzalez-torres-show-in-nyc-in-decades/",
-    "image_url": null,
-    "published_at": "2026-09-23T20:31:03.000Z"
-  },
-  {
-    "headline": "Bavarian State Painting Collections in Munich Returns Painting to Great-Grandson of Jewish Collector Who Fled Germany in 1938",
-    "summary": "The artwork, by the German painter Albert Lang, was returned to Sofie Heilbronner’s heirs in a ceremony on September 22 at the German Embassy in Washington, DC.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/bavarian-state-painting-collections-munich-returns-painting-nazi-repatriation-albert-lang-1234799202/",
-    "image_url": null,
-    "published_at": "2026-09-23T20:15:32.000Z"
-  },
-  {
-    "headline": "An Unequal Artist Legacy Field Defines Who Gets to Be Remembered",
-    "summary": "A new report from the Joan Mitchell Foundation highlights deep structural issues affecting legacy work across the arts.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/an-unequal-artist-legacy-field-defines-who-gets-to-be-remembered/",
-    "image_url": null,
-    "published_at": "2026-09-23T20:07:21.000Z"
-  },
-  {
-    "headline": "Frieze Owner Ari Emanuel Criticizes Macklemore Over Pro-Palestinian Comments",
-    "summary": "The Hollywood billionaire also objected to using the term \"genocide\" to describe Israel's actions in Palestine.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/frieze-owner-ari-emanuel-criticizes-macklemore-over-pro-palestinian-comments/",
-    "image_url": null,
-    "published_at": "2026-09-23T19:41:32.000Z"
-  },
-  {
-    "headline": "The Unsung Craftspeople Who Built Ancient Egypt",
-    "summary": "A new publication reflects a growing interest in the lives of the makers behind the civilization’s arts and crafts, long marginalized and erased by mythologized depictions of the ancient world.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/the-unsung-craftspeople-who-built-ancient-egypt/",
-    "image_url": null,
-    "published_at": "2026-09-23T19:15:30.000Z"
-  },
-  {
-    "headline": "Sotheby’s to Sell a $37 M. Cache of Works Once Owned by Armand Hammer, National Gallery of Art Names New Head of Art of Americas Department, and More: Industry Moves for September 23, 2026",
-    "summary": "Plus, Julia Phillips wins the €100,000 K21 Global Art Award.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/market/sothebys-armand-hammer-auction-industry-moves-september-23-2026-1234799166/",
-    "image_url": null,
-    "published_at": "2026-09-23T18:30:23.000Z"
-  },
-  {
-    "headline": "How Collectors Jon and Kim Shirley Stepped In to Restore the Senate Building’s Famed Calder",
-    "summary": "The couple are longtime collectors of Alexander Calder, having donated 48 works by the artist to the Seattle Art Museum in 2023.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/market/alexander-calder-senate-hart-building-restoration-shirley-1234799100/",
-    "image_url": null,
-    "published_at": "2026-09-23T18:15:24.000Z"
-  },
-  {
-    "headline": "El Museo del Barrio Apologizes for Renting Space to Event that Aired 9/11 Conspiracy Theories",
-    "summary": "New York City's Department of Cultural Affairs called the event \"reprehensible.\"",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/el-museo-del-barrio-apologizes-9-11-event-1234799186/",
-    "image_url": null,
-    "published_at": "2026-09-23T18:14:55.000Z"
   }
 ]

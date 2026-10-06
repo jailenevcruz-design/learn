@@ -1,5 +1,13 @@
 [
   {
+    "headline": "France's police fire tear gas and water cannons as school protests sweep the country",
+    "summary": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+    "image_url": null,
+    "published_at": "2026-10-06T18:05:44.000Z"
+  },
+  {
     "headline": "What to know about nationwide protests in India over voter list changes",
     "summary": "The campaign is led in part by India's \"Cockroach\" youth movement, which previously forced the education minister to resign.",
     "publisher": "NPR",
@@ -46,6 +54,14 @@
     "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
     "image_url": null,
     "published_at": "2026-10-06T10:16:28.000Z"
+  },
+  {
+    "headline": "'They don't invest in us': French students protest for more resources in schools",
+    "summary": "High school students in France are fighting for more resources in schools. Some of the protests have turned violent, but it's not clear whether students or the police are to blame.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/06/nx-s1-5991807/they-dont-invest-in-us-french-students-protest-for-more-resources-in-schools",
+    "image_url": null,
+    "published_at": "2026-10-06T08:51:06.000Z"
   },
   {
     "headline": "A plague research employee in Russia died from an unknown cause. Here's what we know",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
     "image_url": null,
     "published_at": "2026-09-09T11:12:27.000Z"
-  },
-  {
-    "headline": "Citing the 'Deep State,' Trump overhauls the intelligence community",
-    "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
-    "image_url": null,
-    "published_at": "2026-09-09T09:00:00.000Z"
-  },
-  {
-    "headline": "Iceland summons U.S. ambassador after Trump posts countries draped with American flag",
-    "summary": "Iceland summoned the U.S. ambassador after President Trump posted a map on Truth Social that showed the country, along with a number of other nations, covered with an American flag.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/09/nx-s1-5961412/iceland-summons-u-s-ambassador-after-trump-posts-countries-draped-with-american-flag",
-    "image_url": null,
-    "published_at": "2026-09-09T08:44:40.000Z"
   }
 ]
