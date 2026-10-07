@@ -1,11 +1,219 @@
 [
   {
+    "headline": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+    "summary": "Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
+    "image_url": null,
+    "published_at": "2026-10-07T16:40:50.000Z"
+  },
+  {
+    "headline": "Disney+ to stream upcoming Super Bowl",
+    "summary": "Disney+ will also air two Monday Night Football games leading up to the championship game.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html",
+    "image_url": null,
+    "published_at": "2026-10-07T16:36:26.000Z"
+  },
+  {
+    "headline": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+    "summary": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+    "image_url": null,
+    "published_at": "2026-10-07T16:32:30.000Z"
+  },
+  {
+    "headline": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
+    "summary": "Used vehicle prices are forecast to fall more than previously expected this year, according to Cox Automotive.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html",
+    "image_url": null,
+    "published_at": "2026-10-07T16:25:52.000Z"
+  },
+  {
+    "headline": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+    "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+    "image_url": null,
+    "published_at": "2026-10-07T16:18:22.000Z"
+  },
+  {
+    "headline": "Jim Cramer's key to Wednesday's market — plus, relief for Intel after a concerning report",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/07/jim-cramers-key-to-wednesday-market-plus-relief-for-intel-after-a-concerning-report.html",
+    "image_url": null,
+    "published_at": "2026-10-07T15:38:22.000Z"
+  },
+  {
+    "headline": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
+    "summary": "Meta’s Muse is free for now as the company searches for a business surrounding its personal AI agent.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
+    "image_url": null,
+    "published_at": "2026-10-07T15:01:41.000Z"
+  },
+  {
+    "headline": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+    "summary": "Iran has failed to take advantage of \"multiple opportunities\" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-10-07T14:17:49.000Z"
+  },
+  {
+    "headline": "Stocks made a record high. Two big bearish trades point to skepticism",
+    "summary": "In the State Street SPDR S&P 500 ETF Trust (SPY), about an hour after the opening bell on Tuesday, someone traded a 100,000-lot put spread.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/stocks-made-a-record-high-two-big-bearish-trades-point-to-skepticism.html",
+    "image_url": null,
+    "published_at": "2026-10-07T13:59:16.000Z"
+  },
+  {
+    "headline": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
+    "summary": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+    "image_url": null,
+    "published_at": "2026-10-07T13:46:28.000Z"
+  },
+  {
+    "headline": "France is caught between angry students and unforgiving bond markets",
+    "summary": "France's student protests took a breather on Wednesday after weeks of unrest, but market pressure on the French government intensified ahead of budget talks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html",
+    "image_url": null,
+    "published_at": "2026-10-07T13:23:31.000Z"
+  },
+  {
+    "headline": "Refinance demand is now half what it was a year ago, as mortgage rates rise again",
+    "summary": "Mortgage rates rose to the highest level in nearly three years, causing demand for both refinancing and homebuying to decline even further.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
+    "image_url": null,
+    "published_at": "2026-10-07T13:02:18.000Z"
+  },
+  {
+    "headline": "Home heating oil prices are soaring — and users' winter bills could rise 21%, federal outlook shows",
+    "summary": "A tight global diesel market is driving up heating oil prices, with households in the Northeast facing the biggest impact.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/home-heating-oil-costs-winter.html",
+    "image_url": null,
+    "published_at": "2026-10-07T12:35:01.000Z"
+  },
+  {
+    "headline": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
+    "summary": "His comments come as rising Middle East crude exports and an emergency G7 stockpile release appear to have helped to ease supply fears.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
+    "image_url": null,
+    "published_at": "2026-10-07T12:25:52.000Z"
+  },
+  {
+    "headline": "ICE came to town and left behind weakened economies",
+    "summary": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
+    "image_url": null,
+    "published_at": "2026-10-07T12:24:32.000Z"
+  },
+  {
+    "headline": "Oil edges higher as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+    "summary": "Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-10-07T12:23:28.000Z"
+  },
+  {
+    "headline": "The SALT deduction limit is $40,400 for 2026. Here's how to maximize it",
+    "summary": "The SALT deduction limit is $40,400 for 2026. Experts cover how to maximize the tax break before year-end.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/salt-deduction-limit-2026.html",
+    "image_url": null,
+    "published_at": "2026-10-07T12:15:01.000Z"
+  },
+  {
+    "headline": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+    "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+    "image_url": null,
+    "published_at": "2026-10-07T11:55:36.000Z"
+  },
+  {
+    "headline": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
+    "summary": "France is facing a fresh political crisis, as its debt levels and borrowing costs continue to rise.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html",
+    "image_url": null,
+    "published_at": "2026-10-07T11:09:30.000Z"
+  },
+  {
+    "headline": "Who will win the 2026 Nobel Prize in economics?",
+    "summary": "A thinly traded prediction market offers a starting point. We explore potential winners and the big ideas that could earn them economics' biggest prize.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics",
+    "image_url": null,
+    "published_at": "2026-10-07T10:30:00.000Z"
+  },
+  {
+    "headline": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
+    "summary": "Finland has emerged as a key location for data centers amid the AI boom.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+    "image_url": null,
+    "published_at": "2026-10-07T09:26:02.000Z"
+  },
+  {
+    "headline": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
+    "summary": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
+    "image_url": null,
+    "published_at": "2026-10-07T09:18:30.000Z"
+  },
+  {
+    "headline": "Here's the latest sticker shock: Borrowing for a mortgage -- or a car",
+    "summary": "It's not just mortgages being at their highest level in almost three years — but the cost of loans for cars and higher education are among the borrowing costs affected, too.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds",
+    "image_url": null,
+    "published_at": "2026-10-07T09:00:00.000Z"
+  },
+  {
+    "headline": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+    "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+    "image_url": null,
+    "published_at": "2026-10-07T06:16:39.000Z"
+  },
+  {
+    "headline": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
+    "summary": "Unwinding of the artificial intelligence trade poses the biggest risk to markets, according to Singapore state-owned investment giant Temasek.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
+    "image_url": null,
+    "published_at": "2026-10-07T05:25:29.000Z"
+  },
+  {
+    "headline": "Luxury developers flocked to the 'Hamptons of Hungary' — but some projects are stalling",
+    "summary": "Lake Balaton in south-west Hungary has been a popular vacation destination for decades, but average transaction prices are falling.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/07/lake-balaton-tihany-balatonfred-hungary-luxury-developers.html",
+    "image_url": null,
+    "published_at": "2026-10-07T05:00:01.000Z"
+  },
+  {
     "headline": "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
     "summary": "Trump says he will speak with Putin “very soon” over a plague incident in Russia as CDC monitor the situation.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html",
     "image_url": null,
-    "published_at": "2026-10-07T02:26:49.000Z"
+    "published_at": "2026-10-07T04:12:27.000Z"
   },
   {
     "headline": "Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister",
@@ -14,14 +222,6 @@
     "url": "https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html",
     "image_url": null,
     "published_at": "2026-10-07T02:10:52.000Z"
-  },
-  {
-    "headline": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-    "summary": "Oil rose Wednesday, as concerns over attacks by Yemen's Iran-backed Houthis on Saudi Arabia outweigh a higher crude supply in Middle East.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-10-07T02:09:50.000Z"
   },
   {
     "headline": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
@@ -1398,205 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
     "image_url": null,
     "published_at": "2026-10-01T20:31:42.000Z"
-  },
-  {
-    "headline": "New York City's 'click to cancel' subscription rule takes effect, joining states with similar laws",
-    "summary": "The Big Apple joins a growing number of jurisdictions adopting 'click to cancel' rules as the future of a federal standard remains unsettled.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html",
-    "image_url": null,
-    "published_at": "2026-10-01T20:15:30.000Z"
-  },
-  {
-    "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-    "summary": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-    "image_url": null,
-    "published_at": "2026-10-01T19:43:04.000Z"
-  },
-  {
-    "headline": "Former LinkedIn chief Roslansky to leave Microsoft, following other exec departures",
-    "summary": "Gaming head Phil Spencer and Office leader Rajesh Jha both left this year, and Charlie Bell, the company's head of security, became an individual contributor.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/linkedin-chief-roslansky-microsoft-exit.html",
-    "image_url": null,
-    "published_at": "2026-10-01T19:36:42.000Z"
-  },
-  {
-    "headline": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
-    "summary": "Oil prices rose sharply Thursday following a report the U.S. is sending a third aircraft carrier strike group to the Middle East.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
-    "image_url": null,
-    "published_at": "2026-10-01T19:29:26.000Z"
-  },
-  {
-    "headline": "Jim Cramer sees a huge catalyst on the horizon for Apple. How to play the stock",
-    "summary": "The iPhone Duo is what will drive Apple's next leg higher, Jim Cramer predicted.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/jim-cramer-sees-a-huge-catalyst-on-the-horizon-for-apple-how-to-play-the-stock.html",
-    "image_url": null,
-    "published_at": "2026-10-01T19:23:49.000Z"
-  },
-  {
-    "headline": "The September jobs report will be released Friday. Here's what to expect",
-    "summary": "Wall Street is looking for job growth of 84,000 to close out the summer.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
-    "image_url": null,
-    "published_at": "2026-10-01T18:55:02.000Z"
-  },
-  {
-    "headline": "Google launches Project Suncatcher, a step towards AI data centers in space",
-    "summary": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
-    "image_url": null,
-    "published_at": "2026-10-01T18:41:07.000Z"
-  },
-  {
-    "headline": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
-    "summary": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
-    "image_url": null,
-    "published_at": "2026-10-01T18:37:16.000Z"
-  },
-  {
-    "headline": "Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
-    "summary": "President Donald Trump had criticized U.S. Attorney for D.C. Jeanine Pirro after she moved to drop the Reflecting Pool case.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
-    "image_url": null,
-    "published_at": "2026-10-01T16:56:34.000Z"
-  },
-  {
-    "headline": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-    "summary": "More than 60 million children have been automatically enrolled in Trump Accounts, according to a Treasury Department announcement exclusively provided to CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-    "image_url": null,
-    "published_at": "2026-10-01T16:52:22.000Z"
-  },
-  {
-    "headline": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing",
-    "summary": "The SEC wants retail investors to access private markets, and with all the hype around tech darlings going public, there's plenty of potential reward and risk.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/sec-private-equity-hedge-funds-stock-investing.html",
-    "image_url": null,
-    "published_at": "2026-10-01T16:50:28.000Z"
-  },
-  {
-    "headline": "Billionaire family offices bet on geothermal energy, brain implants in September",
-    "summary": "Personal investment firms of John Arnold, Stanley Druckenmiller are investing in cutting-edge technology such as geothermal energy and brain implants.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/billionaire-family-offices-back-geothermal-energy-in-september.html",
-    "image_url": null,
-    "published_at": "2026-10-01T15:57:41.000Z"
-  },
-  {
-    "headline": "Trump’s AI lunch included every major tech company. Except Apple",
-    "summary": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
-    "image_url": null,
-    "published_at": "2026-10-01T15:48:20.000Z"
-  },
-  {
-    "headline": "Social Security claiming ages may soon get new names. What retirees need to know",
-    "summary": "President Donald Trump may sign a bill into law that would change the way Social Security retirement ages are described.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/claiming-age-clarity-act-social-security.html",
-    "image_url": null,
-    "published_at": "2026-10-01T15:19:27.000Z"
-  },
-  {
-    "headline": "SEC proposes investor exam to expand private market access — here's how it could work",
-    "summary": "The SEC proposed expanding accredited investor eligibility beyond traditional income and net worth thresholds, including through a new exam.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/sec-accredited-investor-exam-private-markets.html",
-    "image_url": null,
-    "published_at": "2026-10-01T14:33:08.000Z"
-  },
-  {
-    "headline": "Racehorse market breaks records riding high on tax breaks, stock market gains",
-    "summary": "Keeneland's 2026 September Yearling Sale, the world's largest thoroughbred auction, grossed a record $536.7 million.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/racehorse-market-breaks-records-on-tax-breaks-stock-market-gains.html",
-    "image_url": null,
-    "published_at": "2026-10-01T14:00:48.000Z"
-  },
-  {
-    "headline": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-    "summary": "Micron is up over 500% in the past year as the company benefits from soaring AI demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
-    "image_url": null,
-    "published_at": "2026-10-01T13:59:54.000Z"
-  },
-  {
-    "headline": "AI is operating inside the healthcare billing system. Patients may already be paying the price",
-    "summary": "As AI codes billing inside hospitals, insurers say costs are being added to a bloated health care system. Blue Cross Blue Shield put the tab near $1 billion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/health-care-costs-insurance-claims-billing-ai.html",
-    "image_url": null,
-    "published_at": "2026-10-01T13:57:03.000Z"
-  },
-  {
-    "headline": "The U.S. just made it much easier for retail investors to access private markets",
-    "summary": "The Securities and Exchange Commission has approved new plans to open private markets up to retail investors.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
-    "image_url": null,
-    "published_at": "2026-10-01T13:38:32.000Z"
-  },
-  {
-    "headline": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
-    "summary": "California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
-    "image_url": null,
-    "published_at": "2026-10-01T13:21:11.000Z"
-  },
-  {
-    "headline": "Walmart is using light-up digital shelf labels to help shoppers and employees find items",
-    "summary": "Walmart is rolling out a light-up shelf label feature connected to its app to help customers better find the items they're looking for.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/walmart-digital-shelf-label-tools.html",
-    "image_url": null,
-    "published_at": "2026-10-01T13:18:47.000Z"
-  },
-  {
-    "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-    "summary": "Micron shares should be higher after that spectacular quarter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-    "image_url": null,
-    "published_at": "2026-10-01T13:00:03.000Z"
-  },
-  {
-    "headline": "Japan's prime minister says her policies will boost confidence in the yen after U.S. intervention falls short",
-    "summary": "Japan's Prime Minister said her government's policies will lift confidence in the yen, following underwhelming success in prior efforts to boost the currency.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/japan-yen-dollar-trump-intervention.html",
-    "image_url": null,
-    "published_at": "2026-10-01T11:13:25.000Z"
-  },
-  {
-    "headline": "Bargain Britain lures foreign buyers as hostile takeovers surge",
-    "summary": "International capital is driving a surge in public takeovers in the G7’s fastest-growing economy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/hostile-takeovers-mergers-acquisitions-uk.html",
-    "image_url": null,
-    "published_at": "2026-10-01T10:53:11.000Z"
-  },
-  {
-    "headline": "Russia launches massive strikes on Ukraine’s energy grid, forcing power cuts ahead of winter",
-    "summary": "Seven people were killed in the attack and emergency power cuts were imposed in Kyiv and three other regions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html",
-    "image_url": null,
-    "published_at": "2026-10-01T09:48:06.000Z"
   }
 ]

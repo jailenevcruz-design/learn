@@ -1,5 +1,53 @@
 [
   {
+    "headline": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
+    "summary": "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
+    "image_url": null,
+    "published_at": "2026-10-07T16:15:26.000Z"
+  },
+  {
+    "headline": "Gut microbes followed migrating humans across continents, new study suggests",
+    "summary": "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
+    "image_url": null,
+    "published_at": "2026-10-07T15:00:47.000Z"
+  },
+  {
+    "headline": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
+    "summary": "It's hard enough being a small-scale farmer. Then the Iran war drove up fertilizer prices. So farmers are using a traditional Asian recipe to make their own. They call it a \"labor of love.\"",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
+    "image_url": null,
+    "published_at": "2026-10-07T13:32:37.000Z"
+  },
+  {
+    "headline": "An early flu season means it might be time to think about a flu shot",
+    "summary": "Flu season typically starts in October or November. But it looks like the flu started to pick up in September this year.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5992940/early-flu-season-vaccine",
+    "image_url": null,
+    "published_at": "2026-10-07T09:00:00.000Z"
+  },
+  {
+    "headline": "'Medicare for All' message attracts midterm voters buckling under medical bills",
+    "summary": "Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability",
+    "image_url": null,
+    "published_at": "2026-10-07T09:00:00.000Z"
+  },
+  {
+    "headline": "5 things civil rights data says about public schools",
+    "summary": "The federal Civil Rights Data Collection, for the first time in decades, tells us about the teacher workforce and reminds us racial disparities are still stark in American public schools.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump",
+    "image_url": null,
+    "published_at": "2026-10-07T09:00:00.000Z"
+  },
+  {
     "headline": "An early start to flu season moves up vaccination timing",
     "summary": "This year's flu season is unusual. It started early and in the West, instead of the South. A new variant with a mutation that helps the virus evade immunity may be playing a role.",
     "publisher": "NPR",
@@ -1550,53 +1598,5 @@
     "url": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak",
     "image_url": null,
     "published_at": "2026-08-02T09:00:00.000Z"
-  },
-  {
-    "headline": "Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease",
-    "summary": "NPR's Scott Simons asks University of Kentucky entomologist Stephen Dobson about mosquito control using modified mosquitoes released into the wild.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5913746/entomologist-stephen-dobson-on-releasing-modified-mosquitoes-to-fight-disease",
-    "image_url": null,
-    "published_at": "2026-08-01T11:46:46.000Z"
-  },
-  {
-    "headline": "How these slum dwellers went from one-room shacks to beautiful new apartments",
-    "summary": "It's a bold new experiment and it's already won a prize. Residents in a jam-packed slum, many of them living in one-room tin shacks, help design their apartments in a brand new building.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
-    "image_url": null,
-    "published_at": "2026-08-01T11:14:58.000Z"
-  },
-  {
-    "headline": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
-    "summary": "The FDA is poised to render a decision on Moderna's mRNA-based flu shot, which could be the first of its kind to market. The decision is expected to reverberate throughout the biotech industry.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
-    "image_url": null,
-    "published_at": "2026-08-01T11:00:00.000Z"
-  },
-  {
-    "headline": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
-    "summary": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
-    "image_url": null,
-    "published_at": "2026-08-01T09:00:00.000Z"
-  },
-  {
-    "headline": "What's it like to be on the frontlines of the Cyclosporiasis outbreak?",
-    "summary": "What it's like on the on the frontlines of the public health investigation into cyclosporiasis, in Washtenaw County, Michigan, which just finished with a measles outbreak?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/31/nx-s1-5910699/whats-it-like-to-be-on-the-frontlines-of-the-cyclosporiasis-outbreak",
-    "image_url": null,
-    "published_at": "2026-07-31T20:20:20.000Z"
-  },
-  {
-    "headline": "Keeping cool without AC: Our readers share their tips",
-    "summary": "We asked our readers to tell us how they've fended off heat without the refrigerant blasts of an air conditioner. Here's what they shared.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
-    "image_url": null,
-    "published_at": "2026-07-31T14:44:47.000Z"
   }
 ]

@@ -1,5 +1,117 @@
 [
   {
+    "headline": "Gut microbes followed migrating humans across continents, new study suggests",
+    "summary": "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
+    "image_url": null,
+    "published_at": "2026-10-07T15:00:47.000Z"
+  },
+  {
+    "headline": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+    "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the sca…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T13:09:15.000Z"
+  },
+  {
+    "headline": "Taking antibiotics? Sugar may be making the damage worse",
+    "summary": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after antibiotic treatment could be a simple way to reduce this damage, though clinical trials are still n…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T13:06:21.000Z"
+  },
+  {
+    "headline": "Scientists changed how zoo lions eat. Their wild side came out",
+    "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fasting period, closely r…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T12:46:44.000Z"
+  },
+  {
+    "headline": "Physicists just found the ‘ghost’ of superconductivity",
+    "summary": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly, these patterns appear to survive after ordinary superconductivity disappears, suggesting that the electr…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T12:34:39.000Z"
+  },
+  {
+    "headline": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
+    "summary": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repurpose existing drugs for conditions including traumatic brain injury, Alzheimer’s, Parkinson’s, depr…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T12:13:35.000Z"
+  },
+  {
+    "headline": "Webb finds a surprising atmosphere on a scorching lava world",
+    "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth may once have looke…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T11:58:25.000Z"
+  },
+  {
+    "headline": "Earth’s center is moving, and NASA just measured it",
+    "summary": "Earth’s center of mass is constantly on the move, shifting by a few millimeters as enormous amounts of water, ice, and even air migrate around the planet with the seasons. NASA scientists have developed a more precise way to track these tiny swings using laser-ranging satellites, GPS data, and measurements of how water…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T11:30:51.000Z"
+  },
+  {
+    "headline": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+    "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
+    "image_url": null,
+    "published_at": "2026-10-07T10:05:54.000Z"
+  },
+  {
+    "headline": "Scientists reprogram immune cells inside the body to fight cancer",
+    "summary": "Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineering, and reinfusing a patient’s immune cells. Using a two-particle delivery system, the researchers sent CRISPR gene-edit…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T09:50:16.000Z"
+  },
+  {
+    "headline": "A new way to fight gum disease without wiping out good bacteria",
+    "summary": "Scientists discovered that disrupting the chemical messages bacteria use to communicate can push dental plaque toward a healthier microbial balance. The approach could lead to new treatments for gum disease that control harmful bacteria without destroying beneficial species.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T03:55:00.000Z"
+  },
+  {
+    "headline": "Humans may not be as hardwired for violence as we thought",
+    "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild aggression are not necessarily more likely to kill rivals, while extreme acts such as infanticide and l…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T03:22:55.000Z"
+  },
+  {
+    "headline": "Animals may have evolved 200 million years earlier than we thought",
+    "summary": "New research suggests animals could have evolved as early as 800 to 700 million years ago, roughly 200 million years earlier than some previous estimates. If so, the first animals may have lived before or during Snowball Earth, leaving behind little trace because their soft bodies were rarely preserved.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261003234023.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T02:29:56.000Z"
+  },
+  {
+    "headline": "What happens in the brain when cannabis makes you anxious?",
+    "summary": "Cannabinoids may intensify anxiety by removing a natural brake on specific neurons in the brain’s fear center, particularly during stressful situations. In mice, shutting down those neurons sharply reduced cannabinoid-related anxious behavior.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261003234021.htm",
+    "image_url": null,
+    "published_at": "2026-10-07T01:26:07.000Z"
+  },
+  {
     "headline": "The 2026 Nobel Prize in Physics has gone to a neutrino detector in Antarctica",
     "summary": "The Nobel Prize in Physics was awarded Francis Halzen of the University of Wisconsin Madison, who built an observatory under Antarctica.",
     "publisher": "NPR",
@@ -1486,117 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
     "image_url": null,
     "published_at": "2026-09-22T01:49:32.000Z"
-  },
-  {
-    "headline": "What the equinox 'henge' effect tells us about U.S. cities",
-    "summary": "The fall equinox, which arrives Tuesday in the U.S., brings shorter days, and chances to witness alignment between Earth and the sun. It's a modern version of ancient observances of a celestial shift.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset",
-    "image_url": null,
-    "published_at": "2026-09-21T19:50:13.000Z"
-  },
-  {
-    "headline": "Stopping Ozempic may raise heart attack and stroke risk",
-    "summary": "A large study suggests the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can disappear surprisingly quickly when treatment stops. After two years off the medications, patients had a 22% higher risk of heart attack, stroke, and death compared with those who stayed on them.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T13:35:30.000Z"
-  },
-  {
-    "headline": "Black holes of every size follow the same surprising rule",
-    "summary": "Scientists have found evidence that black holes of vastly different sizes may launch powerful jets according to the same universal rule. Supermassive black holes can produce jets soon after tearing apart a star, then fire up again hundreds or thousands of days later when their feeding rate drops to about 2% of the Eddi…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222358.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T13:23:10.000Z"
-  },
-  {
-    "headline": "A new process turns plastic waste into gasoline and diesel fuel",
-    "summary": "Scientists at Oak Ridge National Laboratory have developed a surprisingly simple way to turn polyethylene, the common plastic used in shopping bags and cutting boards, into gasoline and diesel-like fuels. The process uses inexpensive aluminum-based molten salts to break long plastic molecules into smaller hydrocarbons,…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T13:08:40.000Z"
-  },
-  {
-    "headline": "Scientists create a needle-thin brain implant that can do three jobs at once",
-    "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give scientists a more precise, less invasive way to study the brain and may eventually help treat neurological disorders such as epile…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T12:25:22.000Z"
-  },
-  {
-    "headline": "NASA just powered up Roman’s massive 300-megapixel camera",
-    "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working as expected, putting Roman another major step closer to beginning science operations in 2027.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T12:10:58.000Z"
-  },
-  {
-    "headline": "Amazon study reveals the best strategies for protecting biodiversity and carbon",
-    "summary": "A large Amazon study suggests the most powerful conservation move may be protecting the forests that are already standing. Preventing damage from wildfires and logging delivered the greatest biodiversity benefits and nearly matched deforestation prevention for protecting carbon. Restoration remains important, particula…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222356.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T11:54:17.000Z"
-  },
-  {
-    "headline": "Chronic stress may be quietly reshaping your heart",
-    "summary": "Chronic inflammation tied to stress, lifestyle, mental health, and socioeconomic conditions may silently change the heart for years before any symptoms appear. People with the highest inflammation levels faced a 43% greater risk of heart attack and stroke, raising hopes that earlier testing and anti-inflammatory treatm…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222354.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T11:35:13.000Z"
-  },
-  {
-    "headline": "Stanford scientists discover the human brain may actually be two separate organs",
-    "summary": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs. The discovery also allowed researchers to grow human hindbrain neurons in the lab, opening new possibilities for studying ALS, spinal mus…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T10:12:51.000Z"
-  },
-  {
-    "headline": "What kills Schrödinger’s cat? Gravity may not be the answer",
-    "summary": "Physicists have put a decades-old idea about why the strange rules of quantum mechanics disappear in our everyday world to one of its toughest experimental tests yet. Deep beneath Italy’s Gran Sasso mountain, researchers searched for an extremely faint radiation signal predicted by a theory suggesting that tiny fluctua…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T09:24:50.000Z"
-  },
-  {
-    "headline": "This farm raised thousands of pigs for slaughter. Now it's growing mushrooms instead",
-    "summary": "The U.S. gets nearly a third of its pork from Iowa. One family is making the switch from pigs to more sustainable specialty mushrooms and trying to show other pig farmers how they did it.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
-    "image_url": null,
-    "published_at": "2026-09-21T09:00:00.000Z"
-  },
-  {
-    "headline": "Millions take calcium and vitamin D for bone health. A major review finds little benefit",
-    "summary": "A sweeping review of more than 153,000 adults found that calcium and vitamin D supplements, alone or together, do little to prevent fractures or falls in most older people. Researchers say the findings challenge routine supplementation for prevention and point instead toward strategies such as balance and resistance ex…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920030147.htm",
-    "image_url": null,
-    "published_at": "2026-09-21T01:59:17.000Z"
-  },
-  {
-    "headline": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-    "summary": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-    "image_url": null,
-    "published_at": "2026-09-20T21:39:24.000Z"
-  },
-  {
-    "headline": "8 common food additives linked to high blood pressure and heart disease",
-    "summary": "Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Researchers identified eight widely used preservatives associated with hypertension, although the observational study cannot pro…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
-    "image_url": null,
-    "published_at": "2026-09-20T12:43:41.000Z"
   }
 ]
