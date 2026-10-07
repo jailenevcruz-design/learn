@@ -8,18 +8,18 @@
     "published_at": "2026-10-06T11:19:25.000Z"
   },
   {
-    "headline": "A history of presidents naming things after themselves (It's short. They rarely do)",
-    "summary": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
-    "image_url": null,
-    "published_at": "2026-10-06T11:00:00.000Z"
-  },
-  {
     "headline": "What voters in 6 key states could tell us about the 2026 midterms",
     "summary": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+    "image_url": null,
+    "published_at": "2026-10-06T11:00:00.000Z"
+  },
+  {
+    "headline": "A history of presidents naming things after themselves (It's short. They rarely do)",
+    "summary": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
     "image_url": null,
     "published_at": "2026-10-06T11:00:00.000Z"
   },
@@ -48,18 +48,18 @@
     "published_at": "2026-10-06T09:17:00.000Z"
   },
   {
-    "headline": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries",
-    "summary": "Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai",
-    "image_url": null,
-    "published_at": "2026-10-06T09:00:00.000Z"
-  },
-  {
     "headline": "Democrats' advantage is clear with less than a month to go in the midterm elections",
     "summary": "President Trump is facing low approval ratings, and voters are blaming him for rising costs. Republicans are likely to pay the price at the ballot box next month.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress",
+    "image_url": null,
+    "published_at": "2026-10-06T09:00:00.000Z"
+  },
+  {
+    "headline": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries",
+    "summary": "Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai",
     "image_url": null,
     "published_at": "2026-10-06T09:00:00.000Z"
   },
@@ -70,6 +70,14 @@
     "url": "https://www.npr.org/2026/10/06/g-s1-145511/fbi-trump-counterintelligence-units-cuts",
     "image_url": null,
     "published_at": "2026-10-06T09:00:00.000Z"
+  },
+  {
+    "headline": "Democrats need to reel in more men. These Mainers say the party needs better bait",
+    "summary": "Democrats are trying to win back male voters ahead of the midterms. In Maine, some fly fishermen say frustration with both parties is shaping their votes.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/06/nx-s1-5989427/maine-men-democrats-male-voters-midterms",
+    "image_url": null,
+    "published_at": "2026-10-06T08:50:17.000Z"
   },
   {
     "headline": "Supreme Court's new term kicks off with blockbuster climate change case",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital",
     "image_url": null,
     "published_at": "2026-09-07T20:32:13.000Z"
-  },
-  {
-    "headline": "With the midterms fast approaching, campaign season begins",
-    "summary": "Labor Day marks the unofficial kickoff of the general election season as Republicans work to maintain control of the House and the Senate amid President Trump's unpopular second term.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/07/nx-s1-5955739/with-the-midterms-fast-approaching-campaign-season-begins",
-    "image_url": null,
-    "published_at": "2026-09-07T08:43:05.000Z"
   }
 ]
