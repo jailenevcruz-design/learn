@@ -1,11 +1,19 @@
 [
   {
+    "headline": "Telfar Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/telfar",
+    "image_url": null,
+    "published_at": "2026-10-08T09:31:46.000Z"
+  },
+  {
     "headline": "Tokyo James Spring 2027 Ready-to-Wear",
     "summary": "",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tokyo-james",
     "image_url": null,
-    "published_at": "2026-10-08T02:15:03.000Z"
+    "published_at": "2026-10-08T09:31:46.000Z"
   },
   {
     "headline": "Lee Mathews Spring 2027 Ready-to-Wear",
@@ -13,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lee-mathews",
     "image_url": null,
-    "published_at": "2026-10-08T02:15:03.000Z"
+    "published_at": "2026-10-08T09:31:46.000Z"
   },
   {
     "headline": "Melitta Baumeister Spring 2027 Ready-to-Wear",
@@ -21,7 +29,127 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/melitta-baumeister",
     "image_url": null,
-    "published_at": "2026-10-08T02:15:03.000Z"
+    "published_at": "2026-10-08T09:31:46.000Z"
+  },
+  {
+    "headline": "Would You Pay to Redesign Your Clothes Rather Than Get Rid of Them?",
+    "summary": "Beyond donation and resale, a new wave of businesses is cropping up to help consumers find new life in their old favorites. Vogue Business is putting them to the test, and London redesign studio Phini is up first.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/would-you-pay-to-redesign-your-clothes-rather-than-get-rid-of-them",
+    "image_url": null,
+    "published_at": "2026-10-08T09:30:00.000Z"
+  },
+  {
+    "headline": "Textile Waste Crisis: After 10 Years, Fabscrap Knows What Circular Fashion Is Missing",
+    "summary": "The New York non-profit has spent the last decade sorting and recirculating fashion’s pre-consumer waste. The next decade is all about collaboration and scale, says co-founder Camille Tagle.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/after-10-years-fabscrap-knows-what-circular-fashion-is-missing",
+    "image_url": null,
+    "published_at": "2026-10-08T09:30:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Freitag Takes Its Upcycled DNA Upscale With New ‘Reference’ Handbag Line",
+    "summary": "CEO Janine Weiz-Bühler and cofounder Markus Freitag talk how the Swiss brand is moving upmarket without abandoning its core circularity goals in a challenging market.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sustainability/business/freitag-reference-line-upcycled-sustainable-handbags-1239319389/",
+    "image_url": null,
+    "published_at": "2026-10-08T05:00:00.000Z"
+  },
+  {
+    "headline": "How Isamu Noguchi, Ruth Asawa, and More Japanese American Artists Changed American Design",
+    "summary": "“Noguchi to Asawa: Designing Postwar America” is on view at the Barnes Foundation through January 10, 2027.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/noguchi-to-asawa-designing-postwar-america-barnes-foundation",
+    "image_url": null,
+    "published_at": "2026-10-08T04:54:22.000Z"
+  },
+  {
+    "headline": "Is Commercial Still a Dirty Word in Fashion?",
+    "summary": "Until recently, commercial was shorthand for bland. Now, fashion houses are re-appraising the term, using it as a creative constraint to build viable runway collections that excite insiders while generating strong return on investment.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/is-commercial-still-a-dirty-word-in-fashion",
+    "image_url": null,
+    "published_at": "2026-10-08T04:30:00.000Z"
+  },
+  {
+    "headline": "The Re-See: From Industry Affair to Content Machine",
+    "summary": "Once reserved for editors and buyers, the re-see is evolving into a content opportunity — and a way for brands to reach more fashion fans.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/from-industry-affair-to-content-machine-the-evolution-of-the-re-see",
+    "image_url": null,
+    "published_at": "2026-10-08T04:30:00.000Z"
+  },
+  {
+    "headline": "Chanel Opens New Boutique in San Diego Designed by Peter Marino, Highlighting Indoor-Outdoor Quality",
+    "summary": "The new boutique brings together fashion, watches and jewelry, and fragrance and beauty in a setting that reflects both the heritage of Chanel and its Southern California surroundings.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/chanel-new-boutique-san-diego-peter-marino-1239288891/",
+    "image_url": null,
+    "published_at": "2026-10-08T04:01:00.000Z"
+  },
+  {
+    "headline": "Mitchells Family Marks 20 Years of Supporting Breast Cancer Patients",
+    "summary": "The family created Pink Aid to provide emergency financial assistance to patients and also works with the Breast Cancer Alliance.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/mitchells-family-breast-cancer-pink-aid-andrew-mitchell-namdar-1239313173/",
+    "image_url": null,
+    "published_at": "2026-10-08T04:01:00.000Z"
+  },
+  {
+    "headline": "Kujten Sets Retail Rollout in U.S.",
+    "summary": "The Parisian cashmere brand will open three stores in SoHo, Aspen and Miami, bringing its total in the U.S. to four.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/kujten-retail-u-s-carole-benaroya-soho-aspen-miami-1239313699/",
+    "image_url": null,
+    "published_at": "2026-10-08T04:01:00.000Z"
+  },
+  {
+    "headline": "Rhone Extends NBA Licensed Collection to Women",
+    "summary": "The brand has had a deal with the league since 2024.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/rhone-nba-licensed-collection-women-1239314182/",
+    "image_url": null,
+    "published_at": "2026-10-08T04:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Seiya Nakamura Expands Brand Development Model From Japan to China",
+    "summary": "The company is betting beyond wholesale with retail projects to help international labels build a presence in Japan, and now China.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/seiya-nakamura-the-frankie-shop-paloma-wool-shanghai-pop-up-1239315190/",
+    "image_url": null,
+    "published_at": "2026-10-08T04:01:00.000Z"
+  },
+  {
+    "headline": "Net-a-porter Taps Devina Foley as President, Americas",
+    "summary": "She reports to Heather Kaminetsky, chief executive officer of Net-a-porter.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/net-a-porter-devina-foley-president-americas-1239315748/",
+    "image_url": null,
+    "published_at": "2026-10-08T04:01:00.000Z"
+  },
+  {
+    "headline": "Rituals Ramps Up Mental Health Support for Young People With Multimillion-Euro Pledge",
+    "summary": "The beauty and wellness company said it will invest 20 million euros over two years in youth mental health programs \"focused on creating resilience, connection and emotional well-being.\"",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/wellness/rituals-mental-health-support-young-people-millions-euros-1239318217/",
+    "image_url": null,
+    "published_at": "2026-10-08T04:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Wolford, Woolmark Collaborate on Collection",
+    "summary": "For the first time, the two companies have partnered on an innovative merino wool bodywear capsule, launching Thursday.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/wolford-woolmark-collaboration-capsule-collection-1239318266/",
+    "image_url": null,
+    "published_at": "2026-10-08T04:01:00.000Z"
+  },
+  {
+    "headline": "Inside Jennifer Chamandi’s First Boutique in London",
+    "summary": "The 10-year-old footwear label opened a Mayfair store as it expands into new categories.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/jennifer-chamandi-london-store-opening-1239319266/",
+    "image_url": null,
+    "published_at": "2026-10-08T04:01:00.000Z"
   },
   {
     "headline": "Hormuz Freight Shock May Have Peaked, But Elevated Rates Are Here to Stay",
@@ -360,18 +488,18 @@
     "published_at": "2026-10-07T10:11:10.000Z"
   },
   {
-    "headline": "Decoding the Fall 2026 Leather Jacket Trend",
-    "summary": "Let the fall/winter 2026 runways and the latest street style show how to wear fall’s top leather jacket trend.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/leather-jacket-trend",
-    "image_url": null,
-    "published_at": "2026-10-07T10:00:00.000Z"
-  },
-  {
     "headline": "How to Style a Slip Dress for 5 Different Weddings",
     "summary": "A bridal stylist shares five ways to wear a slip dress as a wedding guest—whether you're attending a courthouse ceremony or a black-tie soiree.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/slip-dress-wedding-guest-styling-ideas",
+    "image_url": null,
+    "published_at": "2026-10-07T10:00:00.000Z"
+  },
+  {
+    "headline": "Decoding the Fall 2026 Leather Jacket Trend",
+    "summary": "Let the fall/winter 2026 runways and the latest street style show how to wear fall’s top leather jacket trend.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/leather-jacket-trend",
     "image_url": null,
     "published_at": "2026-10-07T10:00:00.000Z"
   },
@@ -1470,133 +1598,5 @@
     "url": "https://wwd.com/shop/shop-home/best-removable-peel-and-stick-wallpaper-buy-online-reviews-1239286903/",
     "image_url": null,
     "published_at": "2026-10-05T00:59:26.000Z"
-  },
-  {
-    "headline": "Jean Paul Gaultier Spring 2027: Giving the Side Eye",
-    "summary": "Some of Duran Lantink’s best ideas were in the construction of his silhouettes, but his impish impulses and the Gaultier hedonism and joy were missing.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/runway/spring-2027/paris/jean-paul-gaultier/review/",
-    "image_url": null,
-    "published_at": "2026-10-05T00:33:57.000Z"
-  },
-  {
-    "headline": "Zoey Deutch Makes Her Leopard-Printed Outerwear the Focal Point While Attending Valentino’s Spring 2027 Show",
-    "summary": "The actress made her striking outerwear the focal point of her Valentino ensemble.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/zoey-deutch-leopard-printed-outerwear-valentino-spring-2027-1239311317/",
-    "image_url": null,
-    "published_at": "2026-10-04T23:37:24.000Z"
-  },
-  {
-    "headline": "Natasha Lyonne Models Glittering Gladiator-Style Platform Heels on Vivienne Westwood Spring 2027 Runway",
-    "summary": "The shoe came from the mind of Andreas Kronthaler, Vivienne Westwood's creative director.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/natasha-lyonne-gladiator-heel-vivienne-westwood-spring-2027-1239311285/",
-    "image_url": null,
-    "published_at": "2026-10-04T23:03:14.000Z"
-  },
-  {
-    "headline": "Olivia Colman Tries Her Hand at Modeling in Sleek Leather Formalwear on Miu Miu’s Spring 2027 Runway",
-    "summary": "The actress made her runway debut at the Oct. 4 show.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/olivia-colman-sleek-leather-formalwear-miu-mius-spring-2027-1239311243/",
-    "image_url": null,
-    "published_at": "2026-10-04T22:16:55.000Z"
-  },
-  {
-    "headline": "Venus Williams Laces Up Sporty & Fashionable Sneaker Heels at the Lacoste Spring 2027 Show in Paris",
-    "summary": "The footwear presented during Lacoste's spring 2027 show blended traditional athletic silhouettes with something more fashion-forward.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/venus-williams-sneaker-heels-lacoste-spring-2027-show-1239311203/",
-    "image_url": null,
-    "published_at": "2026-10-04T22:16:24.000Z"
-  },
-  {
-    "headline": "Plot Twist! All the Books Guests Brought to the Valentino Show",
-    "summary": "Alessandro Michele asked attendees to his spring 2027 show—titled Antibiblioteca: Catalogue of the Unread—to bring a book that would be donated to a local library.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/valentino-spring-2027-show-guests-books",
-    "image_url": null,
-    "published_at": "2026-10-04T21:48:25.000Z"
-  },
-  {
-    "headline": "Valentino Spring 2027: Book Smart",
-    "summary": "Alessandro Michele scored points against AI slop with his ode to the human touch.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/runway/spring-2027/paris/valentino/review/",
-    "image_url": null,
-    "published_at": "2026-10-04T21:31:00.000Z"
-  },
-  {
-    "headline": "Björk Performs in the Mugler Collection She Inspired, the Same Day It Debuted in Paris",
-    "summary": "For his third collection at Mugler, Miguel Castro Freitas looked to nature, animal instinct, and the radical freedom of Björk. In tandem, the Icelandic artist wore a look straight from the runway to the DJ booth in Poland.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/bjork-mugler-miguel-castro-freitas-10-04-2026",
-    "image_url": null,
-    "published_at": "2026-10-04T20:22:52.000Z"
-  },
-  {
-    "headline": "Behind the Scenes: Duran Lantink Defines His Vision for Ready-to-Wear at Jean Paul Gaultier",
-    "summary": "Vogue Business was a fly on the wall during creative director Lantink’s show fittings at the house HQ.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/behind-the-scenes-duran-lantink-defines-his-vision-for-ready-to-wear-at-jean-paul-gaultier",
-    "image_url": null,
-    "published_at": "2026-10-04T18:47:04.000Z"
-  },
-  {
-    "headline": "Polo Ralph Lauren Spring 2027: A Collector’s Wardrobe",
-    "summary": "Ralph Lauren returned to Paris to present its spring 2027 Polo women's collection, which evoked the wardrobe of a world traveler through a mix of brand signatures heightened by artisanal details and relaxed silhouettes.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/runway/spring-2027/paris/polo-ralph-lauren/review/",
-    "image_url": null,
-    "published_at": "2026-10-04T18:36:22.000Z"
-  },
-  {
-    "headline": "Stylist Talia Cassel on Dressing Lena Dunham, Collecting Chanel, and The Nanny",
-    "summary": "The stylist responsible for dressing Lena Dunham (and others), talks about how she got one of fashion's most-watched gigs.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/talia-cassel-stylist-lena-dunham-10-04-2026",
-    "image_url": null,
-    "published_at": "2026-10-04T18:02:11.000Z"
-  },
-  {
-    "headline": "Miu Miu Spring 2027: Olivia Colman — and Other Good Sports",
-    "summary": "Miuccia Prada embraced lace-front Wrangler jeans, colorful New Balance sneakers, retro athleticwear — and kilts galore.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/runway/spring-2027/paris/miu-miu/review/",
-    "image_url": null,
-    "published_at": "2026-10-04T17:40:51.000Z"
-  },
-  {
-    "headline": "Introducing Brock, Designer Kris Brock’s New Namesake Label",
-    "summary": "A first look at Kris Brock's new Brock.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/introducing-brock-designer-kris-brocks-new-namesake-label",
-    "image_url": null,
-    "published_at": "2026-10-04T17:38:20.000Z"
-  },
-  {
-    "headline": "Naomi Watts, Alexander Skarsgård Were Feeling Bookish at Valentino",
-    "summary": "Alessandro Michele asked guests including Zoey Deutch and Jeff Satur to bring a favorite book to the spring show held at France's first library.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/eye/parties/valentino-fw23-show-celebrities-books-library-1239310674/",
-    "image_url": null,
-    "published_at": "2026-10-04T17:16:46.000Z"
-  },
-  {
-    "headline": "Gigi Hadid Debuts the Next Collab Sneaker from Miu Miu and New Balance on the Runway in Paris: Why It’s an Instant Hit",
-    "summary": "The brands continue their collaboration with the RC150, an under-the-radar racing style from the 1990s.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/new-balance-miu-miu-spring-2027-rc150-sneaker-collaboration-1239310337/",
-    "image_url": null,
-    "published_at": "2026-10-04T17:07:00.000Z"
-  },
-  {
-    "headline": "Nike Is Bringing Back This Spooky Air Max ‘Spider Web’ Sneaker for Halloween",
-    "summary": "The glow-in-the-dark style was originally released in 2020.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-plus-halloween-spider-web-release-date-dd4004-001-1239310704/",
-    "image_url": null,
-    "published_at": "2026-10-04T16:57:26.000Z"
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
+    "summary": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
+    "image_url": null,
+    "published_at": "2026-10-08T09:00:00.000Z"
+  },
+  {
+    "headline": "Scientists warn a popular vitamin D supplement may have a hidden downside",
+    "summary": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body's levels of vitamin D3, the form naturally produced by sunlight and more effective at boosting overall vitamin D. Previous…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
+    "image_url": null,
+    "published_at": "2026-10-08T04:06:26.000Z"
+  },
+  {
+    "headline": "Not all trans fats are bad, major review finds",
+    "summary": "A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt, and cheese do not appear to raise the risk of heart disease or type 2 diabetes. Unlike industrial trans fats from partially hydrogenated oils, dairy trans fats showed no meaningful harmful effects on…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261006234505.htm",
+    "image_url": null,
+    "published_at": "2026-10-08T03:00:54.000Z"
+  },
+  {
+    "headline": "Dads are dying after their kids are born, and almost no one is tracking it",
+    "summary": "A study of more than 130,000 babies born in Georgia found that hundreds of fathers died within the first five years of their child’s life, and about 60% of those deaths were potentially preventable. Homicide, accidental injuries, suicide, and drug overdoses accounted for most of the preventable deaths, highlighting wha…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071537.htm",
+    "image_url": null,
+    "published_at": "2026-10-08T02:05:55.000Z"
+  },
+  {
+    "headline": "Stanford scientists turn a cancer driver into a kill switch",
+    "summary": "A Stanford-designed molecule turns a major lymphoma-promoting protein against cancer cells, activating their own self-destruct machinery instead of simply blocking tumor growth. In mice, the treatment completely eliminated aggressive human lymphoma tumors within 11 days, although much more testing is needed before it c…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
+    "image_url": null,
+    "published_at": "2026-10-08T00:52:42.000Z"
+  },
+  {
     "headline": "This surprising mammal fossil is giving scientists something to chew on",
     "summary": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs still reigned.",
     "publisher": "NPR",
@@ -72,8 +112,8 @@
     "published_at": "2026-10-07T11:30:51.000Z"
   },
   {
-    "headline": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
-    "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.",
+    "headline": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs",
+    "summary": "Scientists Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry for untangling mysterious mirror images in molecules, a discovery that has been used to develop countless drugs.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
     "image_url": null,
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
     "image_url": null,
     "published_at": "2026-09-22T09:01:00.000Z"
-  },
-  {
-    "headline": "Abortion is on the ballot again as post-Roe policies continue to evolve",
-    "summary": "Four states will vote on abortion-related ballot measures in November. The measures follow the Supreme Court's \"Dobbs\" decision, which upended federal abortion protections.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
-    "image_url": null,
-    "published_at": "2026-09-22T09:00:00.000Z"
-  },
-  {
-    "headline": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
-    "summary": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic gases. In a worst-case scenario, those signals could culminate in a VEI 8 eruption that blasts ash te…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
-    "image_url": null,
-    "published_at": "2026-09-22T08:32:08.000Z"
-  },
-  {
-    "headline": "The LHC just ruled out another hiding place for quantum black holes",
-    "summary": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make gravity much stronger…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
-    "image_url": null,
-    "published_at": "2026-09-22T04:56:49.000Z"
-  },
-  {
-    "headline": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
-    "summary": "Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new treatments that target the brain's dopamine system.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
-    "image_url": null,
-    "published_at": "2026-09-22T03:48:58.000Z"
-  },
-  {
-    "headline": "Scientists discover first new penguin species in more than 100 years",
-    "summary": "Genetic evidence has revealed a previously unknown gentoo penguin species on the remote Kerguelen Islands and shown that gentoos actually consist of four distinct species. The discovery also highlights a growing threat, as warming oceans could leave several island populations with little suitable habitat by 2050.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
-    "image_url": null,
-    "published_at": "2026-09-22T03:11:46.000Z"
   }
 ]

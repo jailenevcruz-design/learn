@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
+    "summary": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
+    "image_url": null,
+    "published_at": "2026-10-08T09:00:00.000Z"
+  },
+  {
+    "headline": "Former ambassador on NATO's meeting in Ukraine and the ongoing war",
+    "summary": "Military representatives from all 32 NATO member states met in Kyiv. NPR's Steve Inskeep speaks with Kurt Volker, former U.S. ambassador to NATO, about the meeting and the ongoing war.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war",
+    "image_url": null,
+    "published_at": "2026-10-08T08:44:37.000Z"
+  },
+  {
+    "headline": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+    "summary": "María del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
+    "image_url": null,
+    "published_at": "2026-10-08T05:56:02.000Z"
+  },
+  {
     "headline": "What is the pneumonic plague?",
     "summary": "The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker.",
     "publisher": "NPR",
@@ -48,8 +72,8 @@
     "published_at": "2026-10-07T10:45:38.000Z"
   },
   {
-    "headline": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
-    "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.",
+    "headline": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs",
+    "summary": "Scientists Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry for untangling mysterious mirror images in molecules, a discovery that has been used to develop countless drugs.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
     "image_url": null,
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
     "image_url": null,
     "published_at": "2026-09-12T05:57:08.000Z"
-  },
-  {
-    "headline": "The other side of 9/11: Afghans reckon with America's long shadow",
-    "summary": "It's been nearly 25 years since the start of the U.S- led invasion of Afghanistan. NPR returns to Kabul to see how Afghans, now back under Taliban rule, are coping with the legacy of that 20 year war.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5949270/the-other-side-of-9-11-afghans-reckon-with-americas-long-shadow",
-    "image_url": null,
-    "published_at": "2026-09-11T21:36:20.000Z"
-  },
-  {
-    "headline": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-    "summary": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-    "image_url": null,
-    "published_at": "2026-09-11T19:39:35.000Z"
-  },
-  {
-    "headline": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
-    "summary": "For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
-    "image_url": null,
-    "published_at": "2026-09-11T09:00:00.000Z"
   }
 ]

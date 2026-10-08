@@ -1,5 +1,13 @@
 [
   {
+    "headline": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+    "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+    "image_url": null,
+    "published_at": "2026-10-08T06:14:11.000Z"
+  },
+  {
     "headline": "Robot data startup Mecka AI nabs $60M from Sequoia",
     "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
     "publisher": "TechCrunch",
@@ -1590,13 +1598,5 @@
     "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
     "image_url": null,
     "published_at": "2026-10-01T18:52:58.000Z"
-  },
-  {
-    "headline": "World’s first enhanced geothermal power plant completed in just 23 months",
-    "summary": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-    "image_url": null,
-    "published_at": "2026-10-01T18:35:55.000Z"
   }
 ]
