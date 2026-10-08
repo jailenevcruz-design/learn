@@ -1,5 +1,13 @@
 [
   {
+    "headline": "This surprising mammal fossil is giving scientists something to chew on",
+    "summary": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs still reigned.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
+    "image_url": null,
+    "published_at": "2026-10-07T19:59:16.000Z"
+  },
+  {
     "headline": "Gut microbes followed migrating humans across continents, new study suggests",
     "summary": "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
     "image_url": null,
     "published_at": "2026-09-22T03:11:46.000Z"
-  },
-  {
-    "headline": "Stem cells reverse stroke damage and restore movement in mice",
-    "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
-    "image_url": null,
-    "published_at": "2026-09-22T01:49:32.000Z"
   }
 ]

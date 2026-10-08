@@ -1,5 +1,13 @@
 [
   {
+    "headline": "What is the pneumonic plague?",
+    "summary": "The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
+    "image_url": null,
+    "published_at": "2026-10-07T21:06:31.000Z"
+  },
+  {
     "headline": "Gut microbes followed migrating humans across continents, new study suggests",
     "summary": "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
     "image_url": null,
     "published_at": "2026-09-11T09:00:00.000Z"
-  },
-  {
-    "headline": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
-    "summary": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-    "image_url": null,
-    "published_at": "2026-09-11T07:32:27.000Z"
   }
 ]
