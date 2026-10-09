@@ -1,11 +1,43 @@
 [
   {
+    "headline": "U.S. East Asian envoy says investors are overpricing Taiwan risk",
+    "summary": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+    "image_url": null,
+    "published_at": "2026-10-09T01:37:01.000Z"
+  },
+  {
+    "headline": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+    "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+    "image_url": null,
+    "published_at": "2026-10-09T01:02:38.000Z"
+  },
+  {
+    "headline": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+    "summary": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+    "image_url": null,
+    "published_at": "2026-10-09T00:25:15.000Z"
+  },
+  {
+    "headline": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+    "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+    "image_url": null,
+    "published_at": "2026-10-08T23:57:23.000Z"
+  },
+  {
     "headline": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
     "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
     "image_url": null,
-    "published_at": "2026-10-08T22:30:26.000Z"
+    "published_at": "2026-10-08T22:55:46.000Z"
   },
   {
     "headline": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/03/investing-for-kids-accounts.html",
     "image_url": null,
     "published_at": "2026-10-03T14:00:01.000Z"
-  },
-  {
-    "headline": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
-    "summary": "Novig's \"Just Sports\" campaign drew backlash from some female athletes but also brought in a rush of trading volume.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
-    "image_url": null,
-    "published_at": "2026-10-03T13:30:48.000Z"
-  },
-  {
-    "headline": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-    "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
-    "image_url": null,
-    "published_at": "2026-10-03T13:12:27.000Z"
-  },
-  {
-    "headline": "America’s data center fight is a preview of what's to come for the rest of the world",
-    "summary": "America’s fight over data centers is going global. Communities across Europe and Asia are pushing back over the rising costs of the AI infrastructure boom.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
-    "image_url": null,
-    "published_at": "2026-10-03T12:39:29.000Z"
-  },
-  {
-    "headline": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
-    "summary": "The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
-    "image_url": null,
-    "published_at": "2026-10-03T12:34:59.000Z"
   }
 ]

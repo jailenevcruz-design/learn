@@ -1,5 +1,13 @@
 [
   {
+    "headline": "The long-deployed USS Lincoln returns home to San Diego Bay",
+    "summary": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+    "image_url": null,
+    "published_at": "2026-10-09T00:05:48.000Z"
+  },
+  {
     "headline": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
     "summary": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
     "image_url": null,
     "published_at": "2026-09-13T21:03:12.000Z"
-  },
-  {
-    "headline": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
-    "summary": "Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
-    "image_url": null,
-    "published_at": "2026-09-13T10:31:10.000Z"
   }
 ]
