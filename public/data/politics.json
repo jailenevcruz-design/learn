@@ -1,17 +1,33 @@
 [
   {
-    "headline": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-    "summary": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
+    "headline": "Trump's Affordable Suit",
+    "summary": "NPR's Mary Louise Kelly speaks with New York Times fashion reporter Jacob Gallagher about President Trump's apparent choice to wear a suit from the budget menswear chain Jos. A. Bank.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5996586/trumps-affordable-suit",
     "image_url": null,
-    "published_at": "2026-10-09T09:00:00.000Z"
+    "published_at": "2026-10-09T20:03:22.000Z"
+  },
+  {
+    "headline": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
+    "summary": "The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
+    "image_url": null,
+    "published_at": "2026-10-09T17:49:28.000Z"
   },
   {
     "headline": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
     "summary": "If you're using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
+    "image_url": null,
+    "published_at": "2026-10-09T09:00:00.000Z"
+  },
+  {
+    "headline": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+    "summary": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
     "image_url": null,
     "published_at": "2026-10-09T09:00:00.000Z"
   },
@@ -30,6 +46,14 @@
     "url": "https://www.npr.org/2026/10/09/nx-s1-5995532/trumps-war-in-iran-in-spotlight-ahead-of-midterms",
     "image_url": null,
     "published_at": "2026-10-09T08:23:40.000Z"
+  },
+  {
+    "headline": "A congressman wants his House colleagues to pledge to accept election results",
+    "summary": "Rep. Josh Gottheimer, D-N.J., is co-leading an effort to get colleagues to pledge they'll accept this fall's election results and oppose any effort to block the seating of fellow members next year.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5995371/a-congressman-wants-his-colleagues-to-pledge-to-accept-election-results",
+    "image_url": null,
+    "published_at": "2026-10-08T21:19:55.000Z"
   },
   {
     "headline": "White House correspondent April Ryan reflects on reporting while under attack",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
     "image_url": null,
     "published_at": "2026-09-10T09:00:00.000Z"
-  },
-  {
-    "headline": "Vance, Trump issue plea for Americans to vote Republican on last night of convention",
-    "summary": "President Trump again touted his \"Trump dividend\" in his closing speech at the Republican convention. Vice President Vance used his remarks to urge voters to back Republicans, even if they disagree.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-    "image_url": null,
-    "published_at": "2026-09-10T09:00:00.000Z"
-  },
-  {
-    "headline": "Missouri clerk on what the battle over the state's electoral maps means for voters",
-    "summary": "NPR's Michel Martin asks Boone County, Missouri, clerk Brianna Lennon what the legal battle over the state's electoral maps means for voters there.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/nx-s1-5962890/missouri-clerk-on-what-the-battle-over-the-states-electoral-maps-means-for-voters",
-    "image_url": null,
-    "published_at": "2026-09-10T08:41:24.000Z"
-  },
-  {
-    "headline": "Trump gave Natalie Harp and 2 other aides $45,000 as gifts, report says",
-    "summary": "The Washington Post is reporting that the president gave $45,000 cash gifts to executive assistant Natalie Harp and two other White House aides.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/nx-s1-5962896/trump-gave-natalie-harp-and-2-other-aides-45-000-as-gifts-report-says",
-    "image_url": null,
-    "published_at": "2026-09-10T08:40:40.000Z"
   }
 ]

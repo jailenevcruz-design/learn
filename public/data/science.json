@@ -40,7 +40,7 @@
     "published_at": "2026-10-09T08:25:24.000Z"
   },
   {
-    "headline": "'Life-threatening' Isaias is now a major hurricane as it nears the Gulf Coast",
+    "headline": "'Life-threatening' Isaias, a major hurricane, starts to affect Gulf Coast",
     "summary": "Hurricane Isaias is growing stronger, bringing a dangerous storm surge to the Gulf Coast. With landfall expected Friday night, Florida Gov. Ron DeSantis urged people to evacuate if needed.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
@@ -78,6 +78,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/10/261006234531.htm",
     "image_url": null,
     "published_at": "2026-10-09T01:15:59.000Z"
+  },
+  {
+    "headline": "Margaret Hamilton, whose software sent humans to the moon, dies at 90",
+    "summary": "Hamilton was in her early thirties when she led the team of software engineers that powered NASA's Apollo missions. She later said, \"There was no choice but to be pioneers.\"",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5994972/margaret-hamilton-obituary-software-engineer-apollo",
+    "image_url": null,
+    "published_at": "2026-10-08T21:38:36.000Z"
   },
   {
     "headline": "Study finds 194-year-old tortoise is 'aging more slowly than you would expect'",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260922005653.htm",
     "image_url": null,
     "published_at": "2026-09-23T13:11:59.000Z"
-  },
-  {
-    "headline": "Breakthrough drug reverses skin aging and dramatically speeds healing",
-    "summary": "A topical drug that removes aging, damaged cells helped older mice heal skin wounds significantly faster. The treatment appeared to reactivate repair pathways involved in inflammation, collagen production, and new blood vessel growth.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm",
-    "image_url": null,
-    "published_at": "2026-09-23T12:32:35.000Z"
   }
 ]

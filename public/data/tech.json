@@ -1,5 +1,133 @@
 [
   {
+    "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "image_url": null,
+    "published_at": "2026-10-09T19:36:56.000Z"
+  },
+  {
+    "headline": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, exc…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "image_url": null,
+    "published_at": "2026-10-09T19:09:44.000Z"
+  },
+  {
+    "headline": "Batteries are now cheaper than natural gas turbines used at many data centers",
+    "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+    "image_url": null,
+    "published_at": "2026-10-09T18:57:58.000Z"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+    "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+    "image_url": null,
+    "published_at": "2026-10-09T18:57:06.000Z"
+  },
+  {
+    "headline": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
+    "summary": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreamed, suggesting it'll appear on an online platform beyond the FCC's juri…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
+    "image_url": null,
+    "published_at": "2026-10-09T18:30:48.000Z"
+  },
+  {
+    "headline": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "summary": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "image_url": null,
+    "published_at": "2026-10-09T18:06:57.000Z"
+  },
+  {
+    "headline": "Google teases Fitbit Edge launch next week",
+    "summary": "Google shared a closeup of its upcoming fitness tracker. | Image: Google It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on your health. 10.12.26…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
+    "image_url": null,
+    "published_at": "2026-10-09T18:05:55.000Z"
+  },
+  {
+    "headline": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
+    "summary": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable privacy display, which can hide your entire screen, or just portions of it, from onlookers and strangers. It doesn’t meaning…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-09T17:41:24.000Z"
+  },
+  {
+    "headline": "Amazon’s new Kindles appear to have a light leak problem",
+    "summary": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great… as long as you keep the lights on. But things can change once you turn down the lights and turn up…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
+    "image_url": null,
+    "published_at": "2026-10-09T17:25:39.000Z"
+  },
+  {
+    "headline": "Microsoft tries to spark new life into Windows",
+    "summary": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like it's here to stay, forming the foundatio…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
+    "image_url": null,
+    "published_at": "2026-10-09T17:00:00.000Z"
+  },
+  {
+    "headline": "LumenUs helps automate tedious paperwork in times of grief",
+    "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+    "image_url": null,
+    "published_at": "2026-10-09T17:00:00.000Z"
+  },
+  {
+    "headline": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisc…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "image_url": null,
+    "published_at": "2026-10-09T16:56:42.000Z"
+  },
+  {
+    "headline": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
+    "summary": "NEW YORK, NEW YORK - OCTOBER 04: Frances Haugen attends the Social Reckoning world premiere at Regal Union Square on October 04, 2026 in New York City. (Photo by Sean Zanni/Getty Images for Sony Pictures Entertainment) | Getty Images for Sony Pictures E Facebook whistleblower Frances Haugen was mostly unfazed watching…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
+    "image_url": null,
+    "published_at": "2026-10-09T16:50:40.000Z"
+  },
+  {
+    "headline": "Apple and LG leak shows new &#8216;tap to control&#8217; HomeKit features",
+    "summary": "A post on X from \"pdfu,\" who has previously posted leaks and renders of suspected Apple features and LG smart home gear, shows new details of rumored Apple Home accessories from LG. According to the new leak, they could include an NFC-based \"Proximity Control\" feature that pops up a hint for a device's controls in the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor",
+    "image_url": null,
+    "published_at": "2026-10-09T16:45:31.000Z"
+  },
+  {
+    "headline": "Danu Robotics’ fight to build a better recycling robot",
+    "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+    "image_url": null,
+    "published_at": "2026-10-09T16:45:00.000Z"
+  },
+  {
+    "headline": "We can’t help treating AI like it’s human. But should we?",
+    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "image_url": null,
+    "published_at": "2026-10-09T16:40:14.000Z"
+  },
+  {
     "headline": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
     "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
     "publisher": "TechCrunch",
@@ -40,7 +168,7 @@
     "published_at": "2026-10-09T15:10:12.000Z"
   },
   {
-    "headline": "Automattic loses its interim CFO just weeks after boardroom shakeup",
+    "headline": "Automattic interim CFO resigns just weeks after boardroom shakeup",
     "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
@@ -56,14 +184,6 @@
     "published_at": "2026-10-09T14:42:34.000Z"
   },
   {
-    "headline": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-    "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-    "image_url": null,
-    "published_at": "2026-10-09T14:30:00.000Z"
-  },
-  {
     "headline": "Trump’s attempt to rename AI is looking awfully artificial",
     "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's…",
     "publisher": "The Verge",
@@ -72,18 +192,18 @@
     "published_at": "2026-10-09T14:25:43.000Z"
   },
   {
-    "headline": "Instinct was the buzziest AI agent around — can it survive Muse?",
-    "summary": "Instinct’s agent is always just a text away. Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-    "image_url": null,
-    "published_at": "2026-10-09T14:00:00.000Z"
-  },
-  {
     "headline": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
     "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+    "image_url": null,
+    "published_at": "2026-10-09T14:00:00.000Z"
+  },
+  {
+    "headline": "Instinct was the buzziest AI agent around — can it survive Muse?",
+    "summary": "Instinct’s agent is always just a text away. Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
     "image_url": null,
     "published_at": "2026-10-09T14:00:00.000Z"
   },
@@ -1478,125 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
     "image_url": null,
     "published_at": "2026-10-05T12:00:00.000Z"
-  },
-  {
-    "headline": "The new Fitbit Edge leaks",
-    "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and the Fitbit Ai…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-    "image_url": null,
-    "published_at": "2026-10-04T21:02:09.000Z"
-  },
-  {
-    "headline": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "summary": "AI slop seems to be overwhelming bug bounty programs.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "image_url": null,
-    "published_at": "2026-10-04T20:31:07.000Z"
-  },
-  {
-    "headline": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "image_url": null,
-    "published_at": "2026-10-04T20:08:34.000Z"
-  },
-  {
-    "headline": "Prick’s theatrical industrial punk is perfect for spooky season",
-    "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled debut record, his fi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-    "image_url": null,
-    "published_at": "2026-10-04T20:00:00.000Z"
-  },
-  {
-    "headline": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-    "summary": "Well, if AI said it, it must be true. | Bloomberg via Getty Images New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds tryi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-    "image_url": null,
-    "published_at": "2026-10-04T16:16:04.000Z"
-  },
-  {
-    "headline": "TechCrunch Mobility: Reining in robotaxis",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-    "image_url": null,
-    "published_at": "2026-10-04T16:05:00.000Z"
-  },
-  {
-    "headline": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-    "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-    "image_url": null,
-    "published_at": "2026-10-04T15:21:59.000Z"
-  },
-  {
-    "headline": "Trump unveils his new Super Intelligence Force",
-    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "image_url": null,
-    "published_at": "2026-10-04T15:15:10.000Z"
-  },
-  {
-    "headline": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
-    "summary": "The OhSnap Wallet 2. | Photo by Sean Hollister / The Verge This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
-    "image_url": null,
-    "published_at": "2026-10-04T15:00:00.000Z"
-  },
-  {
-    "headline": "The AirPods Pro 3 are a fantastic deal at $179",
-    "summary": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-04T13:00:00.000Z"
-  },
-  {
-    "headline": "The MacBook Air M5 is $200 off for the first time in months",
-    "summary": "Pictured: The 15-inch Apple MacBook Air. | Photo: Antonio G. Di Benedetto / The Verge Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a ma…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-04T12:34:01.000Z"
-  },
-  {
-    "headline": "The iPad Mini is slightly cheaper again during Prime Day",
-    "summary": "Apple’s iPad Mini is temporarily on sale for its old price. | Photo: David Pierce / The Verge Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
-    "image_url": null,
-    "published_at": "2026-10-04T12:31:50.000Z"
-  },
-  {
-    "headline": "The forgotten Chromebook that started it all",
-    "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's episode of Version History, The Verge's Nilay Patel and MKBHD's Marques…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
-    "image_url": null,
-    "published_at": "2026-10-04T12:00:00.000Z"
-  },
-  {
-    "headline": "The rise, fall, and rise of portable MP3 players",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started We are sp…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
-    "image_url": null,
-    "published_at": "2026-10-04T12:00:00.000Z"
-  },
-  {
-    "headline": "Amazon’s colorful and sturdy new Kindles",
-    "summary": "Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions at the Installer homepage.) This week, I'm wishing I could do Walmart potato drone delivery in Portland, watching Mike Toml…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
-    "image_url": null,
-    "published_at": "2026-10-04T12:00:00.000Z"
   }
 ]

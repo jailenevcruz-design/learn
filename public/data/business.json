@@ -1,11 +1,67 @@
 [
   {
-    "headline": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+    "headline": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+    "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+    "image_url": null,
+    "published_at": "2026-10-09T20:51:25.000Z"
+  },
+  {
+    "headline": "How the beverage aisle got so wild",
+    "summary": "Planet Money traced many new beverage flavors to one laboratory that serves dozens of companies to see how new flavors are created and why we're seeing such an explosion of options right now.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5991779/how-the-beverage-aisle-got-so-wild",
+    "image_url": null,
+    "published_at": "2026-10-09T20:38:42.000Z"
+  },
+  {
+    "headline": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+    "summary": "President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
+    "image_url": null,
+    "published_at": "2026-10-09T20:20:57.000Z"
+  },
+  {
+    "headline": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
     "summary": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
     "image_url": null,
-    "published_at": "2026-10-09T16:26:44.000Z"
+    "published_at": "2026-10-09T20:16:58.000Z"
+  },
+  {
+    "headline": "Despite the controversy, data centers could be attractive to struggling rural towns",
+    "summary": "There's lots of debate over data centers and where they should be located. In a struggling rural town data center development can look a lot more attractive.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5966615/despite-the-controversy-data-centers-could-be-attractive-to-struggling-rural-towns",
+    "image_url": null,
+    "published_at": "2026-10-09T20:03:15.000Z"
+  },
+  {
+    "headline": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+    "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+    "image_url": null,
+    "published_at": "2026-10-09T19:25:28.000Z"
+  },
+  {
+    "headline": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+    "summary": "German regulators called Tesla's \"Full Self-Driving\" brand name \"somewhat misleading.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
+    "image_url": null,
+    "published_at": "2026-10-09T19:21:14.000Z"
+  },
+  {
+    "headline": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    "summary": "Trump’s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    "image_url": null,
+    "published_at": "2026-10-09T19:19:00.000Z"
   },
   {
     "headline": "Americans' debt problems are flashing a warning not seen since the Great Recession",
@@ -13,7 +69,31 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
     "image_url": null,
-    "published_at": "2026-10-09T16:10:41.000Z"
+    "published_at": "2026-10-09T19:18:24.000Z"
+  },
+  {
+    "headline": "NBA commissioner says league wants access to prediction market data to detect manipulation",
+    "summary": "The NBA commissioner further called it \"odd behavior\" to have contracts related to whether a coach may be fired or not.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-says-league-wants-access-to-prediction-market-data-to-detect-manipulation.html",
+    "image_url": null,
+    "published_at": "2026-10-09T19:11:09.000Z"
+  },
+  {
+    "headline": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/09/whats-behind-the-recovery-rally-in-tech-stocks-plus-musks-good-week.html",
+    "image_url": null,
+    "published_at": "2026-10-09T19:02:29.000Z"
+  },
+  {
+    "headline": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
+    "summary": "Bears continued to build up positions against the semiconductor group on Friday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
+    "image_url": null,
+    "published_at": "2026-10-09T18:50:21.000Z"
   },
   {
     "headline": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
@@ -21,7 +101,23 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
     "image_url": null,
-    "published_at": "2026-10-09T16:10:02.000Z"
+    "published_at": "2026-10-09T17:56:24.000Z"
+  },
+  {
+    "headline": "The used car market is stagnant. Here's how to profit anyway",
+    "summary": "Michael Khouw breaks down this short strangle options trade.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/the-used-car-market-is-stagnant-heres-how-to-profit-anyway.html",
+    "image_url": null,
+    "published_at": "2026-10-09T17:37:31.000Z"
+  },
+  {
+    "headline": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+    "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+    "image_url": null,
+    "published_at": "2026-10-09T17:12:17.000Z"
   },
   {
     "headline": "How the oil industry is preparing for Hurricane Isaias",
@@ -86,22 +182,6 @@
     "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
     "image_url": null,
     "published_at": "2026-10-09T14:50:32.000Z"
-  },
-  {
-    "headline": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
-    "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
-    "image_url": null,
-    "published_at": "2026-10-09T14:13:40.000Z"
-  },
-  {
-    "headline": "NBA commissioner says league wants access to prediction market data to detect manipulation",
-    "summary": "The NBA Commissioner further called it \"odd behavior\" to have contracts related to whether a coach may be fired or not.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-says-league-wants-access-to-prediction-market-data-to-detect-manipulation.html",
-    "image_url": null,
-    "published_at": "2026-10-09T14:12:35.000Z"
   },
   {
     "headline": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
@@ -936,6 +1016,14 @@
     "published_at": "2026-10-07T09:00:00.000Z"
   },
   {
+    "headline": "Jennifer Welch isn't holding back on Trump, Democrats or political division",
+    "summary": "The podcaster talks to Leila Fadel about her new book, her evolving politics and what it means to build a future with people whose views she strongly opposes.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/07/nx-s1-5709016/jennifer-welch-not-today-fascists-book",
+    "image_url": null,
+    "published_at": "2026-10-07T08:44:47.000Z"
+  },
+  {
     "headline": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
     "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
     "publisher": "CNBC",
@@ -1510,93 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
     "image_url": null,
     "published_at": "2026-10-05T17:59:51.000Z"
-  },
-  {
-    "headline": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
-    "summary": "After succeeding Steve Ballmer in 2014, Satya Nadella turned Microsoft into a cloud giant. Now he's tasked with making the company a force in AI.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
-    "image_url": null,
-    "published_at": "2026-10-05T17:40:13.000Z"
-  },
-  {
-    "headline": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
-    "summary": "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
-    "image_url": null,
-    "published_at": "2026-10-05T16:41:00.000Z"
-  },
-  {
-    "headline": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
-    "summary": "Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
-    "image_url": null,
-    "published_at": "2026-10-05T16:14:02.000Z"
-  },
-  {
-    "headline": "Russia plague: What we know about the suspected case reportedly linked to a lab worker’s death",
-    "summary": "According to local media reports, as many as 189 people have also been placed under medical observation in Irkutsk in eastern Russia.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
-    "image_url": null,
-    "published_at": "2026-10-05T15:57:36.000Z"
-  },
-  {
-    "headline": "David Ellison and Ynon Kreiz announce Skydance leadership team",
-    "summary": "The leadership team for Skydance, the merged entity of Paramount Skydance and Warner Bros. Discovery, will include Bari Weiss, Mark Thompson and Casey Bloys.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html",
-    "image_url": null,
-    "published_at": "2026-10-05T15:51:15.000Z"
-  },
-  {
-    "headline": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
-    "summary": "The case alleges that the licensing deal \"squeezed out\" stockholders by giving them a \"lowball price.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
-    "image_url": null,
-    "published_at": "2026-10-05T15:46:49.000Z"
-  },
-  {
-    "headline": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-    "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-    "image_url": null,
-    "published_at": "2026-10-05T15:29:13.000Z"
-  },
-  {
-    "headline": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-    "summary": "Trump renewed a $5,000 check pledge tied to Republican control of Congress as $500 ACA refunds go out and $90 Medicare rebates are scheduled.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-    "image_url": null,
-    "published_at": "2026-10-05T14:30:34.000Z"
-  },
-  {
-    "headline": "Nvidia's $6 trillion milestone looms. Here's when options traders see it happening",
-    "summary": "Nvidia will likely cross the $6 trillion threshold by the end of this month, according to options traders.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/nvidias-6-trillion-milestone-looms-heres-when-options-traders-see-it-happening.html",
-    "image_url": null,
-    "published_at": "2026-10-05T13:56:58.000Z"
-  },
-  {
-    "headline": "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
-    "summary": "Cerebras stock climbed in premarket trading after OpenAI's CEO Sam Altman reassured investors that the firm is a \"close partner.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
-    "image_url": null,
-    "published_at": "2026-10-05T13:37:15.000Z"
-  },
-  {
-    "headline": "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
-    "summary": "Hybrids are growing in popularity, as sales of the vehicles keep climbing.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html",
-    "image_url": null,
-    "published_at": "2026-10-05T12:30:01.000Z"
   }
 ]
