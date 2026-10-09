@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-menswear/derrick",
     "image_url": null,
-    "published_at": "2026-10-09T02:34:29.000Z"
+    "published_at": "2026-10-09T09:36:59.000Z"
   },
   {
     "headline": "Julie de Libran Spring 2027 Ready-to-Wear",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/julie-de-libran",
     "image_url": null,
-    "published_at": "2026-10-09T02:34:29.000Z"
+    "published_at": "2026-10-09T09:36:59.000Z"
   },
   {
     "headline": "Telfar Spring 2027 Ready-to-Wear",
@@ -21,7 +21,127 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/telfar",
     "image_url": null,
-    "published_at": "2026-10-09T02:34:29.000Z"
+    "published_at": "2026-10-09T09:36:59.000Z"
+  },
+  {
+    "headline": "The Vogue Business Beauty Trend Tracker",
+    "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+    "image_url": null,
+    "published_at": "2026-10-09T09:30:00.000Z"
+  },
+  {
+    "headline": "Anthony Vaccarello Bows Out at Saint Laurent",
+    "summary": "After 10 years, the creative director is stepping down. A successor has yet to be named.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/anthony-vaccarello-bows-out-at-yves-saint-laurent",
+    "image_url": null,
+    "published_at": "2026-10-09T06:31:54.000Z"
+  },
+  {
+    "headline": "Saint Laurent Has Confirmed the Departure of Anthony Vaccarello",
+    "summary": "The Paris-based fashion house, part of Kering group, said it would \"soon announce its new creative leadership.\"",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/anthony-vaccarello-leaves-saint-laurent-exit-1239319050/",
+    "image_url": null,
+    "published_at": "2026-10-09T06:24:45.000Z"
+  },
+  {
+    "headline": "Karl Lagerfeld Is Designing Luxury Residences in Mexico City",
+    "summary": "Overlooking a golf course and other greenery, the 38-story tower will house 73 units and is expected to be completed in early 2029.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/home-design/home-decor/karl-lagerfeld-residences-mexico-city-1239315206/",
+    "image_url": null,
+    "published_at": "2026-10-09T05:00:00.000Z"
+  },
+  {
+    "headline": "In the Age of AI, Fashion Wants to Turn You On",
+    "summary": "From PDA catwalks to climaxing soundtracks, designers took a turn to the erotic this season.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/in-the-age-of-ai-fashion-wants-to-turn-you-on",
+    "image_url": null,
+    "published_at": "2026-10-09T04:30:00.000Z"
+  },
+  {
+    "headline": "The Scoop With Guess’s Nicolai Marciano: On the Brand’s Latest Campaign and New Ambassador",
+    "summary": "This week’s guest is Guess Inc.’s chief new business development officer, Nicolai Marciano. Nicolai has officially worked for the company for 13 years, but as the son of co-founder Paul Marciano, that really means he started the job when he was zero.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-scoop-with-guesss-nicolai-marciano-on-the-brands-latest-campaign-and-new-ambassador",
+    "image_url": null,
+    "published_at": "2026-10-09T04:30:00.000Z"
+  },
+  {
+    "headline": "How the Estée Lauder Cos. Keeps the Spirit of Innovation Alive",
+    "summary": "The company, which is celebrating 80 years in business, has created some of beauty's most recognizable heroes — and plans to inaugurate many more.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-product-innovation-makeup-skin-fragrance-1239221249/",
+    "image_url": null,
+    "published_at": "2026-10-09T04:01:00.000Z"
+  },
+  {
+    "headline": "Why India Is a Key Emerging Market for the Estée Lauder Cos.",
+    "summary": "The runway there is huge for recruiting prestige beauty consumers.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/india-key-emerging-market-the-estee-lauder-cos-1239239406/",
+    "image_url": null,
+    "published_at": "2026-10-09T04:01:00.000Z"
+  },
+  {
+    "headline": "How Tom Ford Crossed the $1 Billion Mark and What’s Next",
+    "summary": "The brand, with beauty, fashion and eyewear, is a unicorn in many ways at the Estée Lauder Cos.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/how-tom-ford-crossed-the-1-billion-mark-whats-next-1239239632/",
+    "image_url": null,
+    "published_at": "2026-10-09T04:01:00.000Z"
+  },
+  {
+    "headline": "Icons Only: How the Estée Lauder Cos. Built Its Billion-dollar Brand Club",
+    "summary": "The Estée Lauder Cos. marks 80 years in business, with six billion-dollar brands, more on deck and a focus on long-term growth.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/how-estee-lauder-cos-built-billion-dollar-brand-club-1239239914/",
+    "image_url": null,
+    "published_at": "2026-10-09T04:01:00.000Z"
+  },
+  {
+    "headline": "What Consumer Centricity Means Today at the Estée Lauder Cos.",
+    "summary": "Much has changed at the Estée Lauder Cos. in 80 years, but not the group's commitment to staying in tune with its consumers.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-beauty-consumer-strategy-1239239972/",
+    "image_url": null,
+    "published_at": "2026-10-09T04:01:00.000Z"
+  },
+  {
+    "headline": "Next-gen Leaders at the Estée Lauder Cos. Talk Honoring Heritage and Forging the Future of Beauty",
+    "summary": "Six twentysomething employees from across the business reflect on how best to build momentum for generations to come.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-cos-future-roundtable-1239240015/",
+    "image_url": null,
+    "published_at": "2026-10-09T04:01:00.000Z"
+  },
+  {
+    "headline": "How Estée Lauder Cos. CEO Stéphane de La Faverie Is Transforming the Culture of the Company",
+    "summary": "After taking the reins during one of the most tumultuous times in the company's history, de La Faverie is set not just on restoring growth and profitability but on a total transformation to ready it for the future.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/how-estee-lauder-cos-ceo-stephane-de-la-faverie-transforming-the-culture-of-the-company-1239240265/",
+    "image_url": null,
+    "published_at": "2026-10-09T04:01:00.000Z"
+  },
+  {
+    "headline": "The Estée Lauder Cos. Flexes Around the World",
+    "summary": "The group’s geographic zone leaders talk strategy.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/estee-lauder-cos-flexes-around-the-world-1239241288/",
+    "image_url": null,
+    "published_at": "2026-10-09T04:01:00.000Z"
+  },
+  {
+    "headline": "‘It’s My Most Experimental Album Yet’: Troye Sivan on ‘She’s the Best’ and His Sultry ‘FF’ Music Video",
+    "summary": "On the eve of the release of his fourth album, Sivan talks to Vogue about vulnerability, visual references, and his desire to make an album that feels truly alive.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/troye-sivan-shes-the-best-interview",
+    "image_url": null,
+    "published_at": "2026-10-09T04:00:00.000Z"
   },
   {
     "headline": "Inside Jordan Brand’s Ambitious ‘Space Jam’ 30th Anniversary Collection Including Three Air Jordan 11s",
@@ -240,10 +360,10 @@
     "published_at": "2026-10-08T10:00:00.000Z"
   },
   {
-    "headline": "On the Podcast: Vogue Editors Share Their Thoughts From Paris Fashion Week",
-    "summary": "As the marathon that is fashion month finally came to an end, “The Run-Through” co-hosts Chloe, Chioma, and Nicole gathered with Claire Thomson-Jonville, Vogue France’s head of editorial content, in Paris to break down their favorite moments.",
+    "headline": "The 28 Best Destination Wedding Guest Dresses for Every Exotic Locale",
+    "summary": "If you’re traveling for a loved one’s ceremony, consider Vogue’s edit of the best destination wedding guest dresses fit for any setting and theme.",
     "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/on-the-podcast-vogue-editors-thoughts-from-paris-fashion-week-the-bra-is-the-new-shirt",
+    "url": "https://www.vogue.com/article/best-destination-wedding-guest-dresses",
     "image_url": null,
     "published_at": "2026-10-08T10:00:00.000Z"
   },
@@ -264,10 +384,10 @@
     "published_at": "2026-10-08T10:00:00.000Z"
   },
   {
-    "headline": "The 28 Best Destination Wedding Guest Dresses for Every Exotic Locale",
-    "summary": "If you’re traveling for a loved one’s ceremony, consider Vogue’s edit of the best destination wedding guest dresses fit for any setting and theme.",
+    "headline": "On the Podcast: Vogue Editors Share Their Thoughts From Paris Fashion Week",
+    "summary": "As the marathon that is fashion month finally came to an end, “The Run-Through” co-hosts Chloe, Chioma, and Nicole gathered with Claire Thomson-Jonville, Vogue France’s head of editorial content, in Paris to break down their favorite moments.",
     "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-destination-wedding-guest-dresses",
+    "url": "https://www.vogue.com/article/on-the-podcast-vogue-editors-thoughts-from-paris-fashion-week-the-bra-is-the-new-shirt",
     "image_url": null,
     "published_at": "2026-10-08T10:00:00.000Z"
   },
@@ -1478,125 +1598,5 @@
     "url": "https://wwd.com/footwear-news/shoe-trends/dua-lipa-chanel-mushroom-shoes-paris-fashion-week-1239313358/",
     "image_url": null,
     "published_at": "2026-10-05T21:35:05.000Z"
-  },
-  {
-    "headline": "The Most Flattering Long Hairstyles for Women Over 50, As Seen on Celebrities",
-    "summary": "From Sarah Jessica Parker to Naomi Campbell, a look at the most flattering long hairstyles for women over 50.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/long-hairstyles-for-women-over-50",
-    "image_url": null,
-    "published_at": "2026-10-05T21:30:00.000Z"
-  },
-  {
-    "headline": "Signet’s Blue Nile Partners With Royal Asscher",
-    "summary": "The agreement comes amid efforts to reposition and elevate Blue Nile and other brands in the Signet portfolio.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/signets-blue-nile-brand-partners-with-royal-asscher-1239312283/",
-    "image_url": null,
-    "published_at": "2026-10-05T21:06:17.000Z"
-  },
-  {
-    "headline": "Paris, Le Soir! Inside the Chicest Fashion Parties of the Season",
-    "summary": "You hardly thought everyone went home after the runway wraps, did you? Beyond the collection unveilings, the Spring 2027 season has seen no shortage of parties popping off across Paris. Here’s Vogue’s fly-on-the-wall look at who’s out and about—and why…",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/paris-fashion-week-chicest-parties-september-october-2026",
-    "image_url": null,
-    "published_at": "2026-10-05T21:00:20.000Z"
-  },
-  {
-    "headline": "Adidas vs. Nike: Who Has the Better Innovation Pipeline",
-    "summary": "Nike shows it can innovate, and the new Pace operating model could bring the new shoes to market faster than before.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/nike-innovate-pace-operating-model-new-shoes-market-faster-1239313238/",
-    "image_url": null,
-    "published_at": "2026-10-05T20:45:11.000Z"
-  },
-  {
-    "headline": "The Couple Wed in an 18th-Century Hacienda Set Among Agave Fields and Golden Hills in Jalisco",
-    "summary": "Schuyler Ebersol and Clementina Davila exchanged vows in a historic hacienda, blending Mexican and American traditions throughout their wedding weekend.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/schuyler-ebersol-clementina-davila-wedding",
-    "image_url": null,
-    "published_at": "2026-10-05T20:35:42.000Z"
-  },
-  {
-    "headline": "Vera Wang to Present Solstiss-Academy Award to Top Fashion Student",
-    "summary": "The inaugural event is set for Oct. 23 at the Cultural Services of the French Embassy of New York, also known as Villa Albertine.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/vera-wang-solstiss-academy-fashion-student-inaugural-award-1239313843/",
-    "image_url": null,
-    "published_at": "2026-10-05T20:35:03.000Z"
-  },
-  {
-    "headline": "After Jisoo’s Big Salomon Debut, This Latest Collaboration Reinforces the Brand’s Commitment to Women",
-    "summary": "Salomon has teamed up with Free People’s activewear brand FP Movement on updates to the XT-Whisper and XT-6 models.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/salomon-fp-movement-xt-whisper-xt-6-sneakers-details-1239314008/",
-    "image_url": null,
-    "published_at": "2026-10-05T20:28:34.000Z"
-  },
-  {
-    "headline": "A Birder’s Guide to Cape May, New Jersey",
-    "summary": "Cape May, New Jersey is on most birder bucket lists for a reason—it's perfectly situated to spot birds migrating for the season. Come for the incredible bird spotting, stay for the absolutely charming seaside town.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/a-birders-guide-to-cape-may-new-jersey",
-    "image_url": null,
-    "published_at": "2026-10-05T20:26:12.000Z"
-  },
-  {
-    "headline": "11 Winter Wedding Floral Ideas for Cold-Weather Ceremonies, From Vogue Weddings",
-    "summary": "Celebrate the cold with bright and beautiful winter wedding florals and bouquets for any ceremony.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/winter-wedding-bouquets",
-    "image_url": null,
-    "published_at": "2026-10-05T20:09:40.000Z"
-  },
-  {
-    "headline": "Margaret Howell Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/margaret-howell",
-    "image_url": null,
-    "published_at": "2026-10-05T18:50:07.000Z"
-  },
-  {
-    "headline": "Sacai Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/sacai",
-    "image_url": null,
-    "published_at": "2026-10-05T18:50:07.000Z"
-  },
-  {
-    "headline": "A.W.A.K.E. Mode Spring 2027 Ready-to-Wear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/a-w-a-k-e",
-    "image_url": null,
-    "published_at": "2026-10-05T18:50:07.000Z"
-  },
-  {
-    "headline": "Patagonia Shifts Living Wage Strategy After 2025 Goal Falls Short",
-    "summary": "The outdoor brand is joining ACT, turning to collective bargaining and purchasing-practice reform after a decade of factory-level efforts.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/patagonia-act-living-wages-1239313126/",
-    "image_url": null,
-    "published_at": "2026-10-05T18:45:44.000Z"
-  },
-  {
-    "headline": "Trump Threatens 300% Tariffs on Foreign Countries and Enterprises That Fail to Invest in US",
-    "summary": "The president took his tariff talk to new heights over the weekend, suggesting that the United States hit offshore companies with triple-digit duties unless they invest in American manufacturing.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/trade/trump-tariffs-trade-south-korea-canada-china-1239313760/",
-    "image_url": null,
-    "published_at": "2026-10-05T18:41:36.000Z"
-  },
-  {
-    "headline": "Was Dakota Johnson’s Birthday Dinner ‘Practical Magic’ Themed?",
-    "summary": "Johnson and friend Jennifer Lawrence were spotted at Via Carota last night—wearing wonderfully witchy looks.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/dakota-johnson-jennifer-lawrence-birthday-dinner-10-05-2026",
-    "image_url": null,
-    "published_at": "2026-10-05T18:30:27.000Z"
   }
 ]
