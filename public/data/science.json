@@ -1,11 +1,83 @@
 [
   {
-    "headline": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
-    "summary": "The first hurricane of the Atlantic season was forecast to intensify rapidly and cause dangerous conditions in the Florida Panhandle, southern Alabama and southern Mississippi when it makes landfall late Friday or early Saturday.",
+    "headline": "Only one workout helped older adults lose fat and keep muscle",
+    "summary": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it while also improving body composition around the waist.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
+    "image_url": null,
+    "published_at": "2026-10-09T10:57:40.000Z"
+  },
+  {
+    "headline": "Scientists find hidden materials that could improve batteries and solar fuels",
+    "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to help produce clean hyd…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+    "image_url": null,
+    "published_at": "2026-10-09T10:20:23.000Z"
+  },
+  {
+    "headline": "Bacteria turn a virus’ own weapon against it",
+    "summary": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective phage therapies against antibiotic-resistant bacteria and provide insight into ancient immune mechanisms…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
+    "image_url": null,
+    "published_at": "2026-10-09T09:51:19.000Z"
+  },
+  {
+    "headline": "A 9-billion-year-old signal could help explain dark energy",
+    "summary": "A Canadian radio telescope has detected the faint glow of hydrogen from billions of years ago using only its own observations, proving a long-awaited way to map the distant universe can actually work. CHIME can use this hydrogen signal to trace how matter is spread across space and measure how the universe has expanded…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
+    "image_url": null,
+    "published_at": "2026-10-09T08:53:28.000Z"
+  },
+  {
+    "headline": "A quantum prediction from 1931 just came to life",
+    "summary": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as “Bethe strings” in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny one-dimensional tubes, researchers were able to make groups…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
+    "image_url": null,
+    "published_at": "2026-10-09T08:25:24.000Z"
+  },
+  {
+    "headline": "'Life-threatening' Isaias is now a major hurricane as it nears the Gulf Coast",
+    "summary": "Hurricane Isaias is growing stronger, bringing a dangerous storm surge to the Gulf Coast. With landfall expected Friday night, Florida Gov. Ron DeSantis urged people to evacuate if needed.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
     "image_url": null,
     "published_at": "2026-10-09T05:20:03.000Z"
+  },
+  {
+    "headline": "NASA astronauts splash down after 100 million miles in space",
+    "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+    "image_url": null,
+    "published_at": "2026-10-09T03:56:28.000Z"
+  },
+  {
+    "headline": "October’s night sky is full of cosmic tricks and treats",
+    "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
+    "image_url": null,
+    "published_at": "2026-10-09T02:37:22.000Z"
+  },
+  {
+    "headline": "Nearly 30,000 people tested quit-smoking methods. One stood out",
+    "summary": "Nicotine e-cigarettes appear to help more smokers quit than patches, gum, and several other common approaches, according to a major review of 80 clinical trials. Researchers say regulated vaping products are not risk-free, but may be a significantly less harmful alternative for people who would otherwise continue smoki…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261006234524.htm",
+    "image_url": null,
+    "published_at": "2026-10-09T02:07:28.000Z"
+  },
+  {
+    "headline": "Scientists tested 5 natural compounds on cancer cells. One stood out",
+    "summary": "Five natural compounds, including curcumin and berberine, were tested for their effects on cancer cells and healthy muscle cells. All disrupted cancer cell energy production and pushed many of the cells into a non-dividing state, with curcumin producing the strongest overall effect. Curcumin also showed a relatively fa…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261006234531.htm",
+    "image_url": null,
+    "published_at": "2026-10-09T01:15:59.000Z"
   },
   {
     "headline": "Study finds 194-year-old tortoise is 'aging more slowly than you would expect'",
@@ -1526,77 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm",
     "image_url": null,
     "published_at": "2026-09-23T12:32:35.000Z"
-  },
-  {
-    "headline": "These tropical trees breathe at night to survive drought",
-    "summary": "Some tropical trees have evolved a clever way to survive drought by taking in carbon dioxide at night, allowing them to keep their pores closed during the hot daytime and conserve water. By comparing three Clusia species, researchers discovered that this water-saving form of photosynthesis, known as CAM, did not arise…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260922005712.htm",
-    "image_url": null,
-    "published_at": "2026-09-23T12:05:24.000Z"
-  },
-  {
-    "headline": "The Arctic sea ice melt season grew longer for decades, but something strange happened around 2010",
-    "summary": "The Arctic sea ice melt season is roughly 40 days longer than it was in 1979, yet its rapid expansion unexpectedly leveled off around 2010. Scientists say changing clouds and increasingly thin ice may explain the pause, but continued Arctic warming could eventually trigger another period of rapid change.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260922005658.htm",
-    "image_url": null,
-    "published_at": "2026-09-23T11:39:23.000Z"
-  },
-  {
-    "headline": "First stellar stream beyond the Milky Way could reveal dark matter",
-    "summary": "Astronomers have discovered the first globular cluster stellar stream beyond the Milky Way, opening a new way to study dark matter in distant galaxies. These faint trails of stars trace a galaxy’s gravitational structure and could eventually help scientists map invisible matter across the universe.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260921081110.htm",
-    "image_url": null,
-    "published_at": "2026-09-23T11:23:11.000Z"
-  },
-  {
-    "headline": "Why Viking museums still can’t escape the warrior myth",
-    "summary": "Scandinavian museums are trying to move beyond the familiar image of Vikings as sword-wielding male warriors, highlighting women, farmers, traders, and a far more complicated society. But the enduring popularity of the Viking myth means exhibitions often balance historical accuracy with stories that reflect modern idea…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260922005805.htm",
-    "image_url": null,
-    "published_at": "2026-09-23T10:58:43.000Z"
-  },
-  {
-    "headline": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
-    "summary": "Stonehenge’s six-ton Altar Stone may have been carried from Scotland to Dogger Bank by glaciers before prehistoric people transported it hundreds of kilometers to Salisbury Plain. The possible multistage journey suggests remarkable organization and raises the possibility that the stone was valued long before it became…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
-    "image_url": null,
-    "published_at": "2026-09-23T10:26:41.000Z"
-  },
-  {
-    "headline": "There are still nearly pristine coral reefs. They're a blueprint for coral restoration",
-    "summary": "Coral reefs are under threat right now due to abnormally warm ocean temperatures. Scientists are studying the healthiest reefs in the world in search of ways to help all reefs with climate change.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5901157/coral-reefs-bleaching",
-    "image_url": null,
-    "published_at": "2026-09-23T08:44:10.000Z"
-  },
-  {
-    "headline": "Category 5 Hurricane Polo is 'one of the strongest storms ever'",
-    "summary": "Hurricane Polo has grown into one of the most powerful Pacific cyclones in decades, and it was expected to skirt Mexico's southwestern coast as a Category 5 storm.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo",
-    "image_url": null,
-    "published_at": "2026-09-23T06:13:35.000Z"
-  },
-  {
-    "headline": "Scientists say a critical Atlantic Ocean current is weakening and the effects could be global",
-    "summary": "Scientists have found strong observational evidence that a key part of the Atlantic Meridional Overturning Circulation has been weakening across a wide stretch of ocean for nearly two decades. The slowdown could eventually reshape weather patterns, rainfall, storms, winters, and coastal sea levels around the Atlantic.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260922222558.htm",
-    "image_url": null,
-    "published_at": "2026-09-23T05:09:29.000Z"
-  },
-  {
-    "headline": "The Solar System chose fire over ice from the very beginning",
-    "summary": "Ancient iron meteorites reveal that some of the Solar System’s first solid bodies were built mostly from tiny heat-forged rock beads called chondrules, while water-rich dust was largely excluded. The finding pushes this selective planet-building process back to within the Solar System’s first million years.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260921081052.htm",
-    "image_url": null,
-    "published_at": "2026-09-23T03:06:29.000Z"
   }
 ]

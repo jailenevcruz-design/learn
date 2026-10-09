@@ -1,11 +1,235 @@
 [
   {
-    "headline": "South Africa lawyer Navanethm 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes and genocide",
+    "headline": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+    "summary": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+    "image_url": null,
+    "published_at": "2026-10-09T16:26:44.000Z"
+  },
+  {
+    "headline": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "image_url": null,
+    "published_at": "2026-10-09T16:10:41.000Z"
+  },
+  {
+    "headline": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+    "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+    "image_url": null,
+    "published_at": "2026-10-09T16:10:02.000Z"
+  },
+  {
+    "headline": "How the oil industry is preparing for Hurricane Isaias",
+    "summary": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
+    "image_url": null,
+    "published_at": "2026-10-09T16:03:32.000Z"
+  },
+  {
+    "headline": "Jim Cramer sets a Starbucks buy level — plus his take on 3 stocks we just bought",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/09/cramer-sets-starbucks-buy-level-and-reviews-3-stocks-we-bought.html",
+    "image_url": null,
+    "published_at": "2026-10-09T15:47:15.000Z"
+  },
+  {
+    "headline": "ICE won't pause enforcement in NY after Bronx shooting, DHS' Mullin says",
+    "summary": "New York Gov. Kathy Hochul said she asked Homeland Security Secretary Mullin and President Donald Trump to immediately halt ICE operations in her state.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
+    "image_url": null,
+    "published_at": "2026-10-09T15:20:56.000Z"
+  },
+  {
+    "headline": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
+    "summary": "Wall Street firms are bringing AI data center investments to public markets as political, liquidity and project risks grow.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
+    "image_url": null,
+    "published_at": "2026-10-09T15:08:20.000Z"
+  },
+  {
+    "headline": "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common Sense Media finds",
+    "summary": "Common Sense Media released its report about ChatGPT for Teens' new features, concluding the tool does not meet the safety standards OpenAI set.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html",
+    "image_url": null,
+    "published_at": "2026-10-09T15:07:53.000Z"
+  },
+  {
+    "headline": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-10-09T15:07:46.000Z"
+  },
+  {
+    "headline": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
+    "summary": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
+    "image_url": null,
+    "published_at": "2026-10-09T15:03:10.000Z"
+  },
+  {
+    "headline": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
+    "summary": "NBA Commissioner Adam Silver expressed confidence on Friday that the league will get a deal done with EuroLeague to help launch NBA Europe.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
+    "image_url": null,
+    "published_at": "2026-10-09T14:50:32.000Z"
+  },
+  {
+    "headline": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+    "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+    "image_url": null,
+    "published_at": "2026-10-09T14:13:40.000Z"
+  },
+  {
+    "headline": "NBA commissioner says league wants access to prediction market data to detect manipulation",
+    "summary": "The NBA Commissioner further called it \"odd behavior\" to have contracts related to whether a coach may be fired or not.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-says-league-wants-access-to-prediction-market-data-to-detect-manipulation.html",
+    "image_url": null,
+    "published_at": "2026-10-09T14:12:35.000Z"
+  },
+  {
+    "headline": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
     "summary": "Navanethem \"Navi\" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
     "image_url": null,
-    "published_at": "2026-10-09T09:35:17.000Z"
+    "published_at": "2026-10-09T14:12:23.000Z"
+  },
+  {
+    "headline": "Kalshi traders see high odds that more than 5,100 data centers will be planned or operating before 2027",
+    "summary": "Despite the growing backlash against data centers, Kalshi odds show the buildout will continue to expand.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/kalshi-traders-see-high-odds-of-5000-plus-data-centers-by-2027.html",
+    "image_url": null,
+    "published_at": "2026-10-09T13:53:52.000Z"
+  },
+  {
+    "headline": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+    "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+    "image_url": null,
+    "published_at": "2026-10-09T13:52:27.000Z"
+  },
+  {
+    "headline": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+    "summary": "AI labs have been looking to people with political experience as frontier tech is increasingly viewed as a national security issue.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
+    "image_url": null,
+    "published_at": "2026-10-09T13:49:54.000Z"
+  },
+  {
+    "headline": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+    "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+    "image_url": null,
+    "published_at": "2026-10-09T13:09:19.000Z"
+  },
+  {
+    "headline": "Tech stocks' resilience has puzzled investors. The options market could hold some clues",
+    "summary": "In the options pits, traders are the most prepared for a tech pullback since early Summer.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html",
+    "image_url": null,
+    "published_at": "2026-10-09T13:07:30.000Z"
+  },
+  {
+    "headline": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
+    "summary": "Margin debt has surged to record levels as investors like 29-year-old Hy Luu borrow more against their portfolios. Here’s how leverage can amplify stock losses.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
+    "image_url": null,
+    "published_at": "2026-10-09T13:03:19.000Z"
+  },
+  {
+    "headline": "How to navigate new tax rules in year-end planning, according to top-ranked advisors",
+    "summary": "Top-ranked advisors from CNBC's Financial Advisor 100 list for 2026 share tax planning strategies for 2026.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/year-end-tax-strategies-2026.html",
+    "image_url": null,
+    "published_at": "2026-10-09T12:15:01.000Z"
+  },
+  {
+    "headline": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
+    "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+    "image_url": null,
+    "published_at": "2026-10-09T12:01:26.000Z"
+  },
+  {
+    "headline": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
+    "summary": "Delta is weighing whether to continue with its Riyadh, Saudi Arabia flight debut as planned.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
+    "image_url": null,
+    "published_at": "2026-10-09T11:57:05.000Z"
+  },
+  {
+    "headline": "Ferrari’s chairman is bullish on AI. He’s less certain how businesses will cash in",
+    "summary": "Ferrari chair John Elkann played down AI bubble fears, but acknowledged investment in the technology could outpace revenue generation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/john-elkann-ferrari-ai-technology.html",
+    "image_url": null,
+    "published_at": "2026-10-09T11:54:21.000Z"
+  },
+  {
+    "headline": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
+    "summary": "Two attacks were launched on Saudi Arabia's King Khalid International Airport Thursday, officials said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-10-09T11:51:11.000Z"
+  },
+  {
+    "headline": "For the final 10% of cystic fibrosis patients, the breakthrough still hasn't come",
+    "summary": "For the final 10% of cystic fibrosis patients who cannot benefit from breakthrough drugs, Emily's Entourage is funding research to find treatments.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/for-the-final-10percent-of-cystic-fibrosis-the-breakthrough-hasnt-come.html",
+    "image_url": null,
+    "published_at": "2026-10-09T11:43:02.000Z"
+  },
+  {
+    "headline": "Nobel winner Krugman says France may have become 'too big to save'",
+    "summary": "Economist Paul Krugman sounded the alarm on a looming \"ugly crisis,\" while former ECB head Jean-Claude Trichet said French politicians must compromise.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html",
+    "image_url": null,
+    "published_at": "2026-10-09T11:33:48.000Z"
+  },
+  {
+    "headline": "Why American investors love European defense startups",
+    "summary": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European investment firms have restrictions on how they can invest.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+    "image_url": null,
+    "published_at": "2026-10-09T11:00:00.000Z"
+  },
+  {
+    "headline": "India calls JD Vance's comments about immigrants 'deeply offensive'",
+    "summary": "India calls comments of U.S. Vice President J.D. Vance about immigrants from the country \"deeply offensive.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html",
+    "image_url": null,
+    "published_at": "2026-10-09T10:38:15.000Z"
   },
   {
     "headline": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
@@ -13,7 +237,7 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
     "image_url": null,
-    "published_at": "2026-10-09T08:33:53.000Z"
+    "published_at": "2026-10-09T10:12:53.000Z"
   },
   {
     "headline": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
@@ -54,14 +278,6 @@
     "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
     "image_url": null,
     "published_at": "2026-10-09T00:25:15.000Z"
-  },
-  {
-    "headline": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-    "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-    "image_url": null,
-    "published_at": "2026-10-08T22:55:46.000Z"
   },
   {
     "headline": "Pepsi shares rallied despite cutting profit guidance. Where Cramer stands on the stock now",
@@ -1382,221 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html",
     "image_url": null,
     "published_at": "2026-10-05T12:30:01.000Z"
-  },
-  {
-    "headline": "Trump's nemesis in Europe: Why Spain's Sanchez is calling a snap election",
-    "summary": "Pedro Sánchez has been Europe's voice of dissent on U.S. foreign policy. Back home, the plight of an 87-year-old woman has ignited public anger.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
-    "image_url": null,
-    "published_at": "2026-10-05T12:11:58.000Z"
-  },
-  {
-    "headline": "Why airfares could rise even more, but airline profits won't",
-    "summary": "Airlines are trimming capacity as jet fuel prices keep climbing and travelers keep booking.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
-    "image_url": null,
-    "published_at": "2026-10-05T12:06:44.000Z"
-  },
-  {
-    "headline": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
-    "summary": "Saudi Aramco's CEO warned it could take up to two years to rebuild global oil inventories, saying the squeeze could worsen as the U.S.-Iran war continues.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html",
-    "image_url": null,
-    "published_at": "2026-10-05T11:00:27.000Z"
-  },
-  {
-    "headline": "Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments",
-    "summary": "Goldman Sachs' Anthony Gutman said lower fiscal deficits are needed tackle surging bond yields.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/goldman-sachs-fiscal-deficit-bond-yields.html",
-    "image_url": null,
-    "published_at": "2026-10-05T10:33:45.000Z"
-  },
-  {
-    "headline": "Three tax votes in November that will affect high earners",
-    "summary": "Voters will decide whether to raise or lower taxes on the wealthy in multiple states next month, with California leading the way with a potential wealth tax.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/three-tax-votes-in-november-that-will-affect-high-earners.html",
-    "image_url": null,
-    "published_at": "2026-10-05T10:00:02.000Z"
-  },
-  {
-    "headline": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks",
-    "summary": "Russia has pledged to intensify strikes on Kyiv and other Ukrainian cities after a drone attack damaged the capital’s key Northern Bridge over the weekend.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html",
-    "image_url": null,
-    "published_at": "2026-10-05T08:12:21.000Z"
-  },
-  {
-    "headline": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
-    "summary": "Political and fiscal concerns are mounting in two of the euro area's biggest economies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
-    "image_url": null,
-    "published_at": "2026-10-05T08:04:35.000Z"
-  },
-  {
-    "headline": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
-    "summary": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
-    "image_url": null,
-    "published_at": "2026-10-05T05:00:01.000Z"
-  },
-  {
-    "headline": "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
-    "summary": "Treasury yields above 5% are raising fears that higher borrowing costs could fuel a debt spiral.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
-    "image_url": null,
-    "published_at": "2026-10-05T02:24:07.000Z"
-  },
-  {
-    "headline": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
-    "summary": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
-    "image_url": null,
-    "published_at": "2026-10-05T02:15:12.000Z"
-  },
-  {
-    "headline": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
-    "summary": "Japan’s century-old businesses face mounting pressures from rising costs, labor shortages, a shrinking market and succession challenges.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
-    "image_url": null,
-    "published_at": "2026-10-05T01:08:10.000Z"
-  },
-  {
-    "headline": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
-    "summary": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
-    "image_url": null,
-    "published_at": "2026-10-04T22:08:34.000Z"
-  },
-  {
-    "headline": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
-    "summary": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade and economic warfare, and the release of Iranian assets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-    "image_url": null,
-    "published_at": "2026-10-04T21:46:15.000Z"
-  },
-  {
-    "headline": "It's time for us to put cash to work in this ugly market. Here's where we will do our buying",
-    "summary": "In his Sunday column, Jim Cramer explains why investors need to hold their nose and do some buying.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/04/its-time-for-us-to-put-cash-to-work-in-this-ugly-market-heres-where-we-will-do-our-buying.html",
-    "image_url": null,
-    "published_at": "2026-10-04T20:32:16.000Z"
-  },
-  {
-    "headline": "Here are 3 things we're watching in the stock market in the week ahead",
-    "summary": "The oil and bond markets will remain a critical driver of stocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/04/here-are-3-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-    "image_url": null,
-    "published_at": "2026-10-04T15:33:05.000Z"
-  },
-  {
-    "headline": "This NYC startup requires 4 days in office but just let everyone work remote for a whole month",
-    "summary": "SolComms, a New York City-based PR firm, says letting employees work from anywhere in the world boosted revenue, productivity and happiness.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html",
-    "image_url": null,
-    "published_at": "2026-10-04T14:00:01.000Z"
-  },
-  {
-    "headline": "Starting a watch collection? What beginners should know before buying",
-    "summary": "Watch experts explain how beginners can start a collection, what tends to hold value, when to buy used and how to avoid costly mistakes.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/watch-collecting-beginners.html",
-    "image_url": null,
-    "published_at": "2026-10-04T13:44:31.000Z"
-  },
-  {
-    "headline": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
-    "summary": "Investors with a long-term horizon can track ratings from top Wall Street analysts to find stocks with solid growth prospects.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
-    "image_url": null,
-    "published_at": "2026-10-04T13:24:16.000Z"
-  },
-  {
-    "headline": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-    "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-    "image_url": null,
-    "published_at": "2026-10-04T13:22:39.000Z"
-  },
-  {
-    "headline": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
-    "summary": "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
-    "image_url": null,
-    "published_at": "2026-10-04T12:57:45.000Z"
-  },
-  {
-    "headline": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
-    "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-    "image_url": null,
-    "published_at": "2026-10-04T12:53:12.000Z"
-  },
-  {
-    "headline": "G7 countries reluctantly agree to tap their fuel reserves to help the U.S.",
-    "summary": "G7 nations plan to release large amounts of diesel fuel soon, but European countries were not entirely happy about the agreement.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s",
-    "image_url": null,
-    "published_at": "2026-10-04T12:29:38.000Z"
-  },
-  {
-    "headline": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
-    "summary": "Chick-fil-A has been expanding into new international markets and growing its menu under CEO Andrew Cathy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
-    "image_url": null,
-    "published_at": "2026-10-04T12:08:54.000Z"
-  },
-  {
-    "headline": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
-    "summary": "E.l.f. Beauty released an album titled \"Mirror Mix\" as the brand plans to increase its marketing spend for the rest of the year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
-    "image_url": null,
-    "published_at": "2026-10-04T12:00:01.000Z"
-  },
-  {
-    "headline": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-    "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
-    "image_url": null,
-    "published_at": "2026-10-04T12:00:01.000Z"
-  },
-  {
-    "headline": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-    "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-    "image_url": null,
-    "published_at": "2026-10-04T10:00:00.000Z"
-  },
-  {
-    "headline": "Berkshire buys more Lennar shares, but pace of purchases slows",
-    "summary": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
-    "image_url": null,
-    "published_at": "2026-10-04T09:33:19.000Z"
   }
 ]
