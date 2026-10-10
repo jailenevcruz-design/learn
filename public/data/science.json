@@ -1,5 +1,13 @@
 [
   {
+    "headline": "The origin of the chew: When did we learn to eat like this?",
+    "summary": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs still reigned.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5991361-e1/the-origin-of-the-chew-when-did-we-learn-to-eat-like-this",
+    "image_url": null,
+    "published_at": "2026-10-10T11:40:49.000Z"
+  },
+  {
     "headline": "Only one workout helped older adults lose fat and keep muscle",
     "summary": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it while also improving body composition around the waist.",
     "publisher": "ScienceDaily",
@@ -40,8 +48,8 @@
     "published_at": "2026-10-09T08:25:24.000Z"
   },
   {
-    "headline": "'Life-threatening' Isaias, a major hurricane, starts to affect Gulf Coast",
-    "summary": "Hurricane Isaias is growing stronger, bringing a dangerous storm surge to the Gulf Coast. With landfall expected Friday night, Florida Gov. Ron DeSantis urged people to evacuate if needed.",
+    "headline": "'Life-threatening' Isaias pummels the Florida Gulf Coast",
+    "summary": "Hurricane Isaias landed Friday night on the Florida Gulf Coast. The storm is expected to bring life-threatening storm surge, damaging winds, flooding and the possibility of tornados.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
     "image_url": null,
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260922222730.htm",
     "image_url": null,
     "published_at": "2026-09-24T01:07:40.000Z"
-  },
-  {
-    "headline": "Rare pregnancy infections may triple the risk of autism",
-    "summary": "A major Swedish study of 3.7 million people has found that rare TORCH infections passed from a pregnant woman to the fetus are linked to much higher risks of autism and intellectual disability later in life. Children with a congenital TORCH infection were about three times more likely to be diagnosed with autism, more…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260922005653.htm",
-    "image_url": null,
-    "published_at": "2026-09-23T13:11:59.000Z"
   }
 ]

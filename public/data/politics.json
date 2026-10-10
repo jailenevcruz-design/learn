@@ -1,5 +1,45 @@
 [
   {
+    "headline": "U.S. imposes sweeping sanctions on International Criminal Court",
+    "summary": "The U.S. has announced sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the world's only permanent war crimes tribunal.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court",
+    "image_url": null,
+    "published_at": "2026-10-10T11:40:51.000Z"
+  },
+  {
+    "headline": "Week in Politics: Hegseth's livestream backlash; Greece ambassador Guilfoyle scandal",
+    "summary": "Bipartisan blowback on Defense Secretary Pete Hegseth's plans to livestream a military execution, plus a scandal involving Kimberly Guilfoyle, the US Ambassador to Greece.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5995114/week-in-politics-hegseths-livestream-backlash-greece-ambassador-guilfoyle-scandal",
+    "image_url": null,
+    "published_at": "2026-10-10T11:40:48.000Z"
+  },
+  {
+    "headline": "On the ground in Ohio's 9th District: The battleground shaping next month's midterms",
+    "summary": "Ohio is a critical battleground in next month's midterms elections. NPR's Scott Simon traveled to the state's 9th Congressional District to hear from voters about their priorities.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5965798/on-the-ground-in-ohios-9th-district-the-battleground-shaping-next-months-midterms",
+    "image_url": null,
+    "published_at": "2026-10-10T11:40:46.000Z"
+  },
+  {
+    "headline": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+    "summary": "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+    "image_url": null,
+    "published_at": "2026-10-10T09:00:00.000Z"
+  },
+  {
+    "headline": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+    "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+    "image_url": null,
+    "published_at": "2026-10-09T21:24:13.000Z"
+  },
+  {
     "headline": "Trump's Affordable Suit",
     "summary": "NPR's Mary Louise Kelly speaks with New York Times fashion reporter Jacob Gallagher about President Trump's apparent choice to wear a suit from the budget menswear chain Jos. A. Bank.",
     "publisher": "NPR",
@@ -16,18 +56,18 @@
     "published_at": "2026-10-09T17:49:28.000Z"
   },
   {
-    "headline": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
-    "summary": "If you're using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
-    "image_url": null,
-    "published_at": "2026-10-09T09:00:00.000Z"
-  },
-  {
     "headline": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
     "summary": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+    "image_url": null,
+    "published_at": "2026-10-09T09:00:00.000Z"
+  },
+  {
+    "headline": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
+    "summary": "If you're using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
     "image_url": null,
     "published_at": "2026-10-09T09:00:00.000Z"
   },
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/09/10/nx-s1-5777636/in-divided-times-gov-cox-prescribes-passionate-disagreement-minus-contempt",
     "image_url": null,
     "published_at": "2026-09-10T20:07:57.000Z"
-  },
-  {
-    "headline": "Elon Musk threatens to sue over Gibney documentary's \"space lasers\" claim",
-    "summary": "The tech billionaire's attorney has put documentarian Alex Gibney and his production company on legal notice, claiming the Oscar-winning director defamed Musk in his nearly four-hour documentary.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
-    "image_url": null,
-    "published_at": "2026-09-10T15:13:09.000Z"
-  },
-  {
-    "headline": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
-    "summary": "President Trump tries to incentivize voters by promising $5,000 to Americans if the GOP wins the midterms. And, young conservatives reflect on the party one year after Charlie Kirk's death.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
-    "image_url": null,
-    "published_at": "2026-09-10T11:27:14.000Z"
-  },
-  {
-    "headline": "Trump gives primetime speech at GOP convention, promising payout if Republicans win",
-    "summary": "President Trump kicked off the Republican midterm convention with a primetime speech, outlining the Republican message and promising Americans a payout if the GOP wins the upcoming election.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/nx-s1-5963201/trump-gives-primetime-speech-at-gop-convention-promising-payout-if-republicans-win",
-    "image_url": null,
-    "published_at": "2026-09-10T10:47:24.000Z"
-  },
-  {
-    "headline": "Veteran pollster shares takeaways from Trump's convention speech",
-    "summary": "Veteran pollster and political consultant Frank Luntz gives an analysis of President Trump's speech at the Republicans' midterm convention.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/nx-s1-5962893/veteran-pollster-shares-takeaways-from-trumps-convention-speech",
-    "image_url": null,
-    "published_at": "2026-09-10T10:47:15.000Z"
-  },
-  {
-    "headline": "One year after Charlie Kirk's death, Turning Point USA faces an uncertain future",
-    "summary": "The death of Charlie Kirk was seen as a rallying call for young conservatives. But as his supporters reflect on the past year, some paint a more complicated picture of the organization he left behind.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
-    "image_url": null,
-    "published_at": "2026-09-10T09:00:00.000Z"
   }
 ]

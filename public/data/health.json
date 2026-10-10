@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
+    "summary": "Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
+    "image_url": null,
+    "published_at": "2026-10-10T11:00:00.000Z"
+  },
+  {
     "headline": "Did Russia play by the rules in reporting lab worker's death?",
     "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
     "publisher": "NPR",
@@ -8,10 +16,10 @@
     "published_at": "2026-10-09T16:43:45.000Z"
   },
   {
-    "headline": "A student hated reading for years. Her podcast explores finding the right diagnosis",
-    "summary": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia.",
+    "headline": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+    "summary": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
     "image_url": null,
     "published_at": "2026-10-09T09:00:00.000Z"
   },
@@ -24,10 +32,10 @@
     "published_at": "2026-10-09T09:00:00.000Z"
   },
   {
-    "headline": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
-    "summary": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.",
+    "headline": "A student hated reading for years. Her podcast explores finding the right diagnosis",
+    "summary": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
     "image_url": null,
     "published_at": "2026-10-09T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
     "image_url": null,
     "published_at": "2026-08-05T08:01:00.000Z"
-  },
-  {
-    "headline": "How a community in Maine is fighting to save their birthing center",
-    "summary": "With maternity care deserts growing around the country, a grassroots coalition in Maine launched a strategic attack to prevent the proposed closure of a rural labor and delivery center.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
-    "image_url": null,
-    "published_at": "2026-08-04T20:16:26.000Z"
   }
 ]
