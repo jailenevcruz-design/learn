@@ -1,5 +1,61 @@
 [
   {
+    "headline": "The eye has a hidden cleanup system scientists never knew existed",
+    "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T06:01:54.000Z"
+  },
+  {
+    "headline": "Eating olive oil before carbs has a surprising effect on blood sugar",
+    "summary": "A simple change in the order you eat your food could help prevent blood sugar spikes. Scientists discovered that giving mice olive oil before carbohydrates slowed digestion and activated a surprising combination of hormones and nerve signals that helped regulate blood sugar, even in mice with type 2 diabetes.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102700.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T04:32:03.000Z"
+  },
+  {
+    "headline": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+    "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium atoms, which are far le…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T03:06:35.000Z"
+  },
+  {
+    "headline": "A plastic once thought harmless may be fueling fatty liver disease",
+    "summary": "One of the world's most common plastics may pose a hidden threat to liver health. Texas A&M researchers discovered that polyethylene microplastics can contribute to fatty liver disease, with potentially worse effects when combined with an unhealthy diet. Even more surprising, this widely used plastic was previously con…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T00:47:05.000Z"
+  },
+  {
+    "headline": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+    "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infections. Previously kno…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T00:45:37.000Z"
+  },
+  {
+    "headline": "Scientists created a tiny device that can control your nerves to treat chronic pain",
+    "summary": "Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly from outside the body, the seed-sized technology has shown promising results in early testing.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T00:23:19.000Z"
+  },
+  {
+    "headline": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
+    "summary": "A surprisingly simple change in how you walk could help relieve knee arthritis pain and even slow joint damage. In a year-long clinical trial, researchers found that adjusting the angle of a person's foot while walking reduced osteoarthritis pain by an amount comparable to medication, without requiring drugs or surgery…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261009025434.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T00:00:24.000Z"
+  },
+  {
     "headline": "Scientists may have found a shortcut to fusion energy",
     "summary": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could help future reactors reach self-sustaining fusion with far less energy while avoiding hidden problems…",
     "publisher": "ScienceDaily",
@@ -1542,61 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
     "image_url": null,
     "published_at": "2026-09-25T03:19:34.000Z"
-  },
-  {
-    "headline": "Ancient meteorites reveal a powerful force that helped build the Solar System",
-    "summary": "Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity to help transform a vast cloud of gas and dust into the sun and planetary disk.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T02:45:24.000Z"
-  },
-  {
-    "headline": "Scientists discover an “impossible” cellular survival pathway that could help fight cancer",
-    "summary": "Scientists discovered a surprising backup system that lets mammalian cells make the essential amino acid cysteine even when the pathways once considered indispensable are disabled. The same survival mechanism may help cancer cells resist treatment, raising the possibility that shutting it down could make tumors easier…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260923035939.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T01:55:32.000Z"
-  },
-  {
-    "headline": "When what you see doesn’t make sense, your brain does something remarkable",
-    "summary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the brain turns many speci…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
-    "image_url": null,
-    "published_at": "2026-09-24T13:28:15.000Z"
-  },
-  {
-    "headline": "Distant time crystals can somehow fall into the same rhythm",
-    "summary": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried by spin-polarized electrons, allowing time crystals separated by up to 40 micrometers to lock to a common frequency. The…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
-    "image_url": null,
-    "published_at": "2026-09-24T13:16:41.000Z"
-  },
-  {
-    "headline": "Scientists thought they knew how this 70-year-old leukemia drug worked",
-    "summary": "A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected result points to a hidden cellular role that could help explain why people respond differently to ce…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260923035932.htm",
-    "image_url": null,
-    "published_at": "2026-09-24T12:47:28.000Z"
-  },
-  {
-    "headline": "Aging muscles may be losing strength for a reason scientists missed",
-    "summary": "A newly identified breakdown in communication between nerves and muscles could help explain why people lose strength as they age. Researchers were able to improve muscle strength in an animal model by targeting a key protein, raising hopes that some age-related weakness could eventually be treated.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260923035924.htm",
-    "image_url": null,
-    "published_at": "2026-09-24T12:25:18.000Z"
-  },
-  {
-    "headline": "Scientists find two tiny new snails with shells that close like doors",
-    "summary": "Scientists discovered two tiny new snail species in Montenegro, showing that even Europe still holds animals unknown to science. One lives in the threatened Komarnica Canyon, where a proposed hydropower reservoir could destroy habitat before its full biodiversity is understood.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260923035936.htm",
-    "image_url": null,
-    "published_at": "2026-09-24T11:59:43.000Z"
   }
 ]
