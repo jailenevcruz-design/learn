@@ -1,11 +1,27 @@
 [
   {
+    "headline": "Justice Department opens antitrust probe as White House press-access fight escalates",
+    "summary": "The Justice Department said in a statement that it is examining whether the White House TV press pool violated the Sherman Act.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+    "image_url": null,
+    "published_at": "2026-10-11T19:07:27.000Z"
+  },
+  {
+    "headline": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
+    "summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+    "image_url": null,
+    "published_at": "2026-10-11T17:08:30.000Z"
+  },
+  {
     "headline": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
     "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
     "image_url": null,
-    "published_at": "2026-10-11T14:09:22.000Z"
+    "published_at": "2026-10-11T16:29:55.000Z"
   },
   {
     "headline": "AI’s quiet safety gatekeepers are stepping into the spotlight",
@@ -38,6 +54,14 @@
     "url": "https://www.cnbc.com/make-it/2026/10/11/psychologist-couples-end-fight-before-escalates-partial-yield.html",
     "image_url": null,
     "published_at": "2026-10-11T12:48:01.000Z"
+  },
+  {
+    "headline": "Justice Department investigates TV networks, citing possible anti-trust violations",
+    "summary": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+    "image_url": null,
+    "published_at": "2026-10-11T12:04:00.000Z"
   },
   {
     "headline": "It's taking longer to find a new job after losing one",
@@ -126,14 +150,6 @@
     "url": "https://www.cnbc.com/2026/10/10/buffetts-trips-down-youtube-rabbit-hole-revealed.html",
     "image_url": null,
     "published_at": "2026-10-10T12:01:16.000Z"
-  },
-  {
-    "headline": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
-    "summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
-    "image_url": null,
-    "published_at": "2026-10-10T12:00:01.000Z"
   },
   {
     "headline": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/10/06/nx-s1-5991929/as-taiwan-expands-arizona-chip-plant-china-warns-against-developing-political-ties",
     "image_url": null,
     "published_at": "2026-10-06T10:52:56.000Z"
-  },
-  {
-    "headline": "A Harvard expert says this ‘sneaky’ communication mistake can lead to worse decisions",
-    "summary": "Harvard professor Leslie John explains why assuming you know what a partner thinks can undermine decisions — and what to do instead.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/10/06/communication-assumptions-decision-making.html",
-    "image_url": null,
-    "published_at": "2026-10-06T10:46:50.000Z"
-  },
-  {
-    "headline": "Barbie maker Mattel faces investor pressure to consider a sale amid stagnating growth",
-    "summary": "Mattel is facing pressure from a major investor to consider a sale amid struggling sales and profitability, according to various reports on Monday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/mattel-barbie-ariel-sale-investor-pressure.html",
-    "image_url": null,
-    "published_at": "2026-10-06T10:07:03.000Z"
   }
 ]
