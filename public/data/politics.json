@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Trump's economic strategy resemble similar policies in East Asia",
+    "summary": "Much of the Trump administration's economic policy has been inspired by successful industrial policies successful in East Asia, including those of competitor, China. Will those policies work in the U.S.?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
+    "image_url": null,
+    "published_at": "2026-10-10T21:40:18.000Z"
+  },
+  {
     "headline": "U.S. imposes sweeping sanctions on International Criminal Court",
     "summary": "The U.S. has announced sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the world's only permanent war crimes tribunal.",
     "publisher": "NPR",
@@ -56,18 +64,18 @@
     "published_at": "2026-10-09T17:49:28.000Z"
   },
   {
-    "headline": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-    "summary": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
-    "image_url": null,
-    "published_at": "2026-10-09T09:00:00.000Z"
-  },
-  {
     "headline": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
     "summary": "If you're using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
+    "image_url": null,
+    "published_at": "2026-10-09T09:00:00.000Z"
+  },
+  {
+    "headline": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+    "summary": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
     "image_url": null,
     "published_at": "2026-10-09T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/10/nx-s1-5947231/anti-muslim-rhetoric-is-finding-a-growing-foothold-in-gop-messaging-ahead-of-november",
     "image_url": null,
     "published_at": "2026-09-10T20:07:58.000Z"
-  },
-  {
-    "headline": "In divided times, Gov. Cox prescribes passionate disagreement, minus contempt",
-    "summary": "NPR's Sacha Pfeiffer talks with Spencer Cox, Republican governor of Utah, about his new book, Off Ramp, and his vision for peacemaking.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/10/nx-s1-5777636/in-divided-times-gov-cox-prescribes-passionate-disagreement-minus-contempt",
-    "image_url": null,
-    "published_at": "2026-09-10T20:07:57.000Z"
   }
 ]

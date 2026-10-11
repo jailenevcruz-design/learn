@@ -1,5 +1,93 @@
 [
   {
+    "headline": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He calls for building a mor…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "image_url": null,
+    "published_at": "2026-10-10T22:10:17.000Z"
+  },
+  {
+    "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "image_url": null,
+    "published_at": "2026-10-10T21:47:51.000Z"
+  },
+  {
+    "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "image_url": null,
+    "published_at": "2026-10-10T19:50:00.000Z"
+  },
+  {
+    "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\"…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "image_url": null,
+    "published_at": "2026-10-10T18:52:07.000Z"
+  },
+  {
+    "headline": "Petra Power looks to modernize energy for data centers and defense vehicles",
+    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+    "image_url": null,
+    "published_at": "2026-10-10T17:00:00.000Z"
+  },
+  {
+    "headline": "Ledger wallet tampering suspected after reports of crypto thefts",
+    "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted u…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+    "image_url": null,
+    "published_at": "2026-10-10T16:36:44.000Z"
+  },
+  {
+    "headline": "Cloudflare acquires Deno to improve its Workers programming model",
+    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "image_url": null,
+    "published_at": "2026-10-10T16:25:42.000Z"
+  },
+  {
+    "headline": "K-pop star Sunmi loves Notion and ear cleaning videos",
+    "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October 2009. In 2010 Sunmi left the group…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+    "image_url": null,
+    "published_at": "2026-10-10T15:00:00.000Z"
+  },
+  {
+    "headline": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "image_url": null,
+    "published_at": "2026-10-10T15:00:00.000Z"
+  },
+  {
+    "headline": "Anthropic is cutting off its internal evaluations from the internet",
+    "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Alth…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "image_url": null,
+    "published_at": "2026-10-10T14:41:16.000Z"
+  },
+  {
+    "headline": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+    "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Br…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
+    "image_url": null,
+    "published_at": "2026-10-10T14:00:00.000Z"
+  },
+  {
     "headline": "Here are the top AI agents that can live in your text messages",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "publisher": "TechCrunch",
@@ -1510,93 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
     "image_url": null,
     "published_at": "2026-10-05T19:28:59.000Z"
-  },
-  {
-    "headline": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-    "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-    "image_url": null,
-    "published_at": "2026-10-05T19:05:19.000Z"
-  },
-  {
-    "headline": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "image_url": null,
-    "published_at": "2026-10-05T18:54:30.000Z"
-  },
-  {
-    "headline": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
-    "summary": "Hyundai CEO José Muñoz, center, doesn’t think his company needs a strategy to combat Chinese imports. | Image: Andrew J. Hawkins / The Verge There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chines…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
-    "image_url": null,
-    "published_at": "2026-10-05T18:41:48.000Z"
-  },
-  {
-    "headline": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "image_url": null,
-    "published_at": "2026-10-05T18:29:00.000Z"
-  },
-  {
-    "headline": "OpenAI is adding text watermarking in ChatGPT and Codex",
-    "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic an…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-    "image_url": null,
-    "published_at": "2026-10-05T18:08:39.000Z"
-  },
-  {
-    "headline": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-    "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-    "image_url": null,
-    "published_at": "2026-10-05T18:07:07.000Z"
-  },
-  {
-    "headline": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-    "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "image_url": null,
-    "published_at": "2026-10-05T17:29:22.000Z"
-  },
-  {
-    "headline": "5 startups that caught VCs’ attention at the latest PearX demo day",
-    "summary": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
-    "image_url": null,
-    "published_at": "2026-10-05T17:26:44.000Z"
-  },
-  {
-    "headline": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-    "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic.…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-    "image_url": null,
-    "published_at": "2026-10-05T16:55:42.000Z"
-  },
-  {
-    "headline": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
-    "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-    "image_url": null,
-    "published_at": "2026-10-05T16:44:21.000Z"
-  },
-  {
-    "headline": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-    "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "image_url": null,
-    "published_at": "2026-10-05T16:43:35.000Z"
   }
 ]

@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+    "summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sud…",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+    "image_url": null,
+    "published_at": "2026-10-10T23:44:15.000Z"
+  },
+  {
+    "headline": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+    "summary": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+    "image_url": null,
+    "published_at": "2026-10-10T21:40:58.000Z"
+  },
+  {
+    "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+    "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+    "image_url": null,
+    "published_at": "2026-10-10T21:32:53.000Z"
+  },
+  {
+    "headline": "Protests against voter roll revisions rock capital of world's largest democracy",
+    "summary": "Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
+    "image_url": null,
+    "published_at": "2026-10-10T21:19:57.000Z"
+  },
+  {
     "headline": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
     "summary": "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.",
     "publisher": "NPR",
@@ -8,7 +40,7 @@
     "published_at": "2026-10-10T11:40:53.000Z"
   },
   {
-    "headline": "A year of ceasefire in Gaza through the lens of NPR's reporter",
+    "headline": "Photos: What a year of ceasefire in Gaza looks like",
     "summary": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
     "publisher": "NPR",
     "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
@@ -17,7 +49,7 @@
   },
   {
     "headline": "India cracks down on youth protests as anger grows against Modi and election chief",
-    "summary": "Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi's government.",
+    "summary": "The protests focus on the Election Commission's voter list revision, which the opposition claims disenfranchises millions. The government denies the allegations, saying the revision aims to eliminate duplicate entries.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
     "image_url": null,
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites",
     "image_url": null,
     "published_at": "2026-09-15T10:42:10.000Z"
-  },
-  {
-    "headline": "Air pollution spiked after the Trump administration stopped embassy monitoring",
-    "summary": "In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
-    "image_url": null,
-    "published_at": "2026-09-15T10:26:08.000Z"
-  },
-  {
-    "headline": "NATO jets shoot down a drone in Lithuanian airspace",
-    "summary": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-    "image_url": null,
-    "published_at": "2026-09-15T09:06:30.000Z"
-  },
-  {
-    "headline": "Anthropic co-founder says slowing AI is a 'collective action problem'",
-    "summary": "Anthropic co-founder Jack Clark discusses growing concerns about artificial intelligence, recent warning signs and what he says companies should do to reduce the risks.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-jack-clark-ai-risks-safety",
-    "image_url": null,
-    "published_at": "2026-09-15T08:45:04.000Z"
-  },
-  {
-    "headline": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
-    "summary": "One of the country's leading human rights organizations says Israel is dismantling all aspects of Palestinian life at a breakneck rate. The group has extensively documented what it says are the mechanisms Israel has used to \"ethnically cleanse\" the West Bank of Palestinians.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
-    "image_url": null,
-    "published_at": "2026-09-14T20:34:20.000Z"
   }
 ]
