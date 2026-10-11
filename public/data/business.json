@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+    "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+    "image_url": null,
+    "published_at": "2026-10-11T14:09:22.000Z"
+  },
+  {
+    "headline": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+    "summary": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+    "image_url": null,
+    "published_at": "2026-10-11T14:08:44.000Z"
+  },
+  {
+    "headline": "AI is automating coding. So why are software developer job postings on the rise?",
+    "summary": "Software developer job postings are rebounding, led by senior and AI-focused roles, even as AI automates more coding and entry-level hiring weakens.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+    "image_url": null,
+    "published_at": "2026-10-11T13:30:01.000Z"
+  },
+  {
+    "headline": "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
+    "summary": "Commissioner Adam Silver says the NBA could begin using a new \"smart ball\" in games as soon as next year, potentially transforming how officials make calls.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
+    "image_url": null,
+    "published_at": "2026-10-11T12:54:04.000Z"
+  },
+  {
+    "headline": "I’m a psychologist who studies couples: The No. 1 way to end a fight before it escalates—it works ‘almost immediately’",
+    "summary": "\"In my experience, nothing de-escalates a conflict faster,\" says psychologist Mark Travers. Why a \"partial yield\" works, and how to use it.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/10/11/psychologist-couples-end-fight-before-escalates-partial-yield.html",
+    "image_url": null,
+    "published_at": "2026-10-11T12:48:01.000Z"
+  },
+  {
+    "headline": "It's taking longer to find a new job after losing one",
+    "summary": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+    "image_url": null,
+    "published_at": "2026-10-11T09:00:00.000Z"
+  },
+  {
+    "headline": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+    "summary": "As retailers turn to AI tools to streamline operations, experts warn that collecting more detailed consumer data increases the risk of personalized pricing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+    "image_url": null,
+    "published_at": "2026-10-11T05:00:01.000Z"
+  },
+  {
     "headline": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
     "summary": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
     "publisher": "CNBC",
@@ -1542,61 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/06/mattel-barbie-ariel-sale-investor-pressure.html",
     "image_url": null,
     "published_at": "2026-10-06T10:07:03.000Z"
-  },
-  {
-    "headline": "Student riots engulf France as far-right presidential frontrunner Le Pen vows fiscal turnaround",
-    "summary": "A teenager reportedly lost a hand in the protests, which have seen over 5,000 people arrested.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/france-student-protests-budget.html",
-    "image_url": null,
-    "published_at": "2026-10-06T09:46:34.000Z"
-  },
-  {
-    "headline": "Disney, ABC battle Trump's FCC in court over free speech protections",
-    "summary": "President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View, accusing it of being unfair.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc",
-    "image_url": null,
-    "published_at": "2026-10-06T09:17:00.000Z"
-  },
-  {
-    "headline": "New Hollywood era begins with an epic mega merger between Paramount and Warner Bros.",
-    "summary": "The Paramount and Warner Bros. merger has survived court challenges, public protests and regulatory scrutiny. Now, the Hollywood heavyweight, named Skydance, begins operating.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/nx-s1-5988283/paramount-warner-bros-skydance-merger-david-ellison",
-    "image_url": null,
-    "published_at": "2026-10-06T09:00:00.000Z"
-  },
-  {
-    "headline": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
-    "summary": "Oil markets remain on edge over potential Middle East supply disruptions, with Brent trading around $100 a barrel as the risk of further escalation persists.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html",
-    "image_url": null,
-    "published_at": "2026-10-06T08:53:50.000Z"
-  },
-  {
-    "headline": "Britain is on 'thin ice,' warns ex-Bank of England chief economist — and it must act to 'appease financial markets'",
-    "summary": "Britain has the highest government borrowing costs in the G7.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/burnham-healey-budget-tax-bonds-gilts.html",
-    "image_url": null,
-    "published_at": "2026-10-06T07:53:22.000Z"
-  },
-  {
-    "headline": "How quant funds beat the market by being 'early, contrarian and right'",
-    "summary": "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
-    "image_url": null,
-    "published_at": "2026-10-06T06:57:42.000Z"
-  },
-  {
-    "headline": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
-    "summary": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
-    "image_url": null,
-    "published_at": "2026-10-06T04:07:24.000Z"
   }
 ]
