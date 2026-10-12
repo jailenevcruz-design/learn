@@ -1,5 +1,93 @@
 [
   {
+    "headline": "Popular weight loss drugs linked to a surprising fingernail problem",
+    "summary": "Popular GLP-1 weight loss drugs, such as Ozempic and Wegovy, have been linked to unexpectedly high rates of nail detachment, hair loss, and scalp inflammation, with some problems occurring several times more frequently among users. Researchers found that weight loss alone could not fully explain the differences, sugges…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
+    "image_url": null,
+    "published_at": "2026-10-12T09:34:48.000Z"
+  },
+  {
+    "headline": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
+    "summary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with a simple amino acid called D-serine improved memory and learning, offering a potential new approach…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
+    "image_url": null,
+    "published_at": "2026-10-12T09:23:55.000Z"
+  },
+  {
+    "headline": "NASA captures a stunning transformation in Australia's red outback",
+    "summary": "Australia's normally dry, rust-colored outback has erupted into a spectacular carpet of wildflowers after unusually heavy rains, potentially producing its most impressive bloom in nearly 20 years. NASA satellite images capture the stunning transformation, which has even brought rare flowers to the grounds of a remote d…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102710.htm",
+    "image_url": null,
+    "published_at": "2026-10-12T08:19:03.000Z"
+  },
+  {
+    "headline": "Scientists discover a hidden factor that can make or break chemical reactions",
+    "summary": "Researchers discovered a hidden factor that can determine whether chemical reactions succeed or fail, and then used it to boost the proportion of the desired product from 16% to 97%. By controlling acidity near electrodes, they developed a promising way to manufacture chemicals for plastics, medicines, and other produc…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
+    "image_url": null,
+    "published_at": "2026-10-12T06:24:46.000Z"
+  },
+  {
+    "headline": "Scientists discover vanilla’s hidden healing potential",
+    "summary": "Scientists have discovered that vanillin, the compound that gives vanilla its distinctive flavor, has powerful properties that could help fight infections, reduce inflammation, and promote wound healing. The inexpensive, widely available ingredient could one day become an important component of advanced wound treatment…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
+    "image_url": null,
+    "published_at": "2026-10-12T04:34:24.000Z"
+  },
+  {
+    "headline": "Just 10 minutes of daily exercise could unlock deeper sleep",
+    "summary": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who exercised more frequently experienced more deep, restorative sleep, which is essential for brain recovery, memory, and emotional well-being. Surprisingly, just 10 minutes of…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
+    "image_url": null,
+    "published_at": "2026-10-12T00:51:31.000Z"
+  },
+  {
+    "headline": "Scientists discover why a 100-year-old mushroom disease won't go away",
+    "summary": "Scientists have uncovered a surprising secret behind a mushroom disease that has frustrated growers for more than a century: It involves more than 17 species of harmful bacteria, not just one. The discovery could explain why treatments have struggled to stop the disease and open the door to more effective, eco-friendly…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T20:01:25.000Z"
+  },
+  {
+    "headline": "The hidden math of Alzheimer's could point to new treatments",
+    "summary": "Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the disease, while also exploring possible ways to stop the process. The findings could help researchers iden…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102714.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T19:24:25.000Z"
+  },
+  {
+    "headline": "Scientists make stunning discovery that could help explain why life exists",
+    "summary": "Scientists have discovered that the universe's fundamental physical constants may be finely balanced to make life possible. Even tiny changes to these constants could make liquids too thick or too thin for essential biological processes, potentially preventing life as we know it. Surprisingly, these life-friendly condi…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T16:35:58.000Z"
+  },
+  {
+    "headline": "NASA spots a giant patch of Moon-like rock on Earth",
+    "summary": "An astronaut aboard the International Space Station photographed a remarkable formation in Madagascar that looks surprisingly similar to the Moon’s bright highlands. Made of anorthosite, a rock abundant on the lunar surface, the formation dates back at least 600 million years and bears the scars of ancient continental…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102707.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T15:30:06.000Z"
+  },
+  {
+    "headline": "New injection makes fat cells self-destruct",
+    "summary": "Scientists have developed an experimental injection that destroys fat cells and significantly reduces dangerous belly fat, potentially opening a new path to treating obesity. Early research also suggests it could help prevent the weight regain that often follows stopping popular weight loss drugs like Ozempic and Wegov…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
+    "image_url": null,
+    "published_at": "2026-10-11T15:08:28.000Z"
+  },
+  {
     "headline": "The eye has a hidden cleanup system scientists never knew existed",
     "summary": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
     "publisher": "ScienceDaily",
@@ -1510,93 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260924020400.htm",
     "image_url": null,
     "published_at": "2026-09-26T02:26:05.000Z"
-  },
-  {
-    "headline": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
-    "summary": "Scientists discovered rare flavoalkaloids in Cannabis leaves for the first time, along with dozens of other phenolic compounds that had never been reported in the plant. The findings suggest that Cannabis leaves, often discarded as waste, may contain a surprisingly rich source of potentially useful chemicals.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924231711.htm",
-    "image_url": null,
-    "published_at": "2026-09-26T01:25:10.000Z"
-  },
-  {
-    "headline": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
-    "summary": "The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn't recorded a single full-blown hurricane. Scientists point to an exceptionally strong El Niño.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
-    "image_url": null,
-    "published_at": "2026-09-25T20:08:40.000Z"
-  },
-  {
-    "headline": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
-    "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites, and researchers say many more undiscovered sea spiders may still be hiding in the region.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T13:56:06.000Z"
-  },
-  {
-    "headline": "This “rare” autism-linked genetic disorder may be far more common than scientists thought",
-    "summary": "A major analysis suggests Phelan-McDermid syndrome, a genetic disorder closely linked to autism, may affect about 1 in 7,300 people and more than 45,000 Americans. Researchers warn that thousands of cases may remain hidden because genetic testing is often not performed, even as targeted treatments move into clinical tr…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T13:32:46.000Z"
-  },
-  {
-    "headline": "CRISPR could help doctors attack blood cancer without destroying healthy cells",
-    "summary": "Researchers used CRISPR to remove CD33 from donor stem cells, potentially giving doctors a way to attack aggressive blood cancers without destroying the healthy cells patients need after a transplant. In a 30-patient trial, the edited cells successfully took hold and appeared to shield blood cells from a CD33-targeted…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924020408.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T13:13:03.000Z"
-  },
-  {
-    "headline": "CERN has begun disconnecting the Large Hadron Collider",
-    "summary": "CERN has started replacing some of the Large Hadron Collider’s most important magnets as part of its High-Luminosity upgrade. The new superconducting magnets will produce fields about 40% stronger, allowing particle beams to be squeezed more tightly before they collide. That should create far more collisions for the AT…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T13:01:20.000Z"
-  },
-  {
-    "headline": "Quantum computing’s “dark horse” just proved it can go universal",
-    "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T12:45:04.000Z"
-  },
-  {
-    "headline": "Earth is tearing apart beneath the Pacific Northwest",
-    "summary": "Scientists have captured a subduction zone off Vancouver Island in the process of tearing itself apart, revealing that these massive tectonic systems may die piece by piece rather than all at once. The discovery could help explain ancient plate fragments, volcanic activity, and how hidden breaks beneath Cascadia may in…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T12:20:18.000Z"
-  },
-  {
-    "headline": "Years after storms, clean-up crews meticulously separate the sentimental from the wreckage",
-    "summary": "Across the country, lost-and-found networks seek to reunite objects with disaster survivors. The work can take years. In some cases, it's impossible to pick up all the pieces.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/25/nx-s1-5844641/hurricane-debris-north-carolina-texas-flood",
-    "image_url": null,
-    "published_at": "2026-09-25T09:00:00.000Z"
-  },
-  {
-    "headline": "Scientists gave worms magnetic bacteria. They lived 43% longer",
-    "summary": "A magnet-producing bacterium extended the average lifespan of C. elegans worms by more than 43% while helping protect their neurological and intestinal health. Researchers traced much of the effect to suppression of ferroptosis, a damaging form of cell death linked to iron buildup and oxidative stress.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924020357.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T03:52:22.000Z"
-  },
-  {
-    "headline": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
-    "summary": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
-    "image_url": null,
-    "published_at": "2026-09-25T03:19:34.000Z"
   }
 ]
