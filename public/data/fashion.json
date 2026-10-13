@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/pronounce",
     "image_url": null,
-    "published_at": "2026-10-13T01:38:25.000Z"
+    "published_at": "2026-10-13T08:30:03.000Z"
   },
   {
     "headline": "Staffonly Shanghai Spring 2027",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/staffonly",
     "image_url": null,
-    "published_at": "2026-10-13T01:38:25.000Z"
+    "published_at": "2026-10-13T08:30:03.000Z"
   },
   {
     "headline": "Yirantian Shanghai Spring 2027",
@@ -21,7 +21,103 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/yirantian",
     "image_url": null,
-    "published_at": "2026-10-13T01:38:25.000Z"
+    "published_at": "2026-10-13T08:30:03.000Z"
+  },
+  {
+    "headline": "Louis Vuitton Debuts New Real Madrid Formalwear and Travel Outfits",
+    "summary": "The French fashion house is entering the second year of its official partnership with the Spanish club's soccer and basketball teams.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/louis-vuitton-real-madrid-partnership-jude-bellingham-1239342545/",
+    "image_url": null,
+    "published_at": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "headline": "Saks Fifth Avenue’s Holiday Campaign Spotlights the Manhattan Flagship",
+    "summary": "The luxury retailer puts playful spin on gift shopping and captures \"a sense of discovery.\"",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/saks-fifth-avenue-holiday-2026-campaign-flagship-1239343379/",
+    "image_url": null,
+    "published_at": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "headline": "Who Won Fashion Month SS27 on Social Media?",
+    "summary": "With less spectacle and fewer surprise celebrity cameos, this season’s front rows took a more traditional turn.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/who-won-fashion-month-ss27-on-social-media",
+    "image_url": null,
+    "published_at": "2026-10-13T04:30:00.000Z"
+  },
+  {
+    "headline": "Veronica Beard Built a $400m Brand By Banking on the Everywoman. What’s Next?",
+    "summary": "With a revamped business, 16 years in, Veronica Beard’s founders aspire to build an American legacy brand with global recognition.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/veronica-beard-built-a-dollar400m-brand-by-banking-on-the-everywoman-whats-next",
+    "image_url": null,
+    "published_at": "2026-10-13T04:30:00.000Z"
+  },
+  {
+    "headline": "Lihi Hod Opened NYBFW With Her First U.S. Flagship",
+    "summary": "The Israeli bridal designer who trained under John Galliano christened it Monday, debuting her fall 2027 collection alongside a fragrance line.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/lihi-hod-flagship-opening-1239335183/",
+    "image_url": null,
+    "published_at": "2026-10-13T04:02:00.000Z"
+  },
+  {
+    "headline": "‘Bride Stole My Look!’ Jaclyn Whyte’s Solution for Wedding Dress Copycats",
+    "summary": "The Toronto-based designer is quitting the bi-seasonal calendar and replacing what would be her fall collection with “The Exhibition,\" a line of eight one-of-a-kind gowns.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-features/jaclyn-whyte-the-exhibition-1239288884/",
+    "image_url": null,
+    "published_at": "2026-10-13T04:01:00.000Z"
+  },
+  {
+    "headline": "Mark Ingram Commissions Bridal Miniature From Vero Studio",
+    "summary": "Honey, I shrunk the… wedding gown?",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/mark-ingram-vero-studio-1239309112/",
+    "image_url": null,
+    "published_at": "2026-10-13T04:01:00.000Z"
+  },
+  {
+    "headline": "Roger Vivier Brings Made-to-Order Service to Saks Fifth Avenue",
+    "summary": "Atelier Vivier makes its U.S. debut in New York with customizable shoes and handbags.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-features/roger-vivier-made-to-order-service-saks-fifth-avenue-nyc-1239317398/",
+    "image_url": null,
+    "published_at": "2026-10-13T04:01:00.000Z"
+  },
+  {
+    "headline": "The Breast Cancer Awareness Initiatives Beauty Brands Are Running This Month",
+    "summary": "From La Bonne Brosse to Lys Beauty and beyond, several brands are running promotions in October to support breast cancer research and treatment.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-brands-breast-cancer-awareness-donation-1239319696/",
+    "image_url": null,
+    "published_at": "2026-10-13T04:01:00.000Z"
+  },
+  {
+    "headline": "Sean Harrington Joins Lempriere Wells as Partner",
+    "summary": "The former Elemis cofounder joins Lempriere Wells — now rebranded as Lempriere Wells Harrington — to advise beauty and wellness brands in the U.S. and globally.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/sean-harrington-joins-lempriere-wells-partner-1239320278/",
+    "image_url": null,
+    "published_at": "2026-10-13T04:01:00.000Z"
+  },
+  {
+    "headline": "Thomas Saujet’s Luxe Fragrance Debut: Lalique Bottles, 60 Percent Concentrations, and a Dash of Mediterranean Glamour",
+    "summary": "Saujet, the haute parfumerie fragrance house, will launch on Oct. 20 with a pop-up in Neiman Marcus Beverly Hills.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/fragrance/thomas-saujet-luxe-fragrance-lalique-1239333882/",
+    "image_url": null,
+    "published_at": "2026-10-13T04:01:00.000Z"
+  },
+  {
+    "headline": "How Beauty Brands Can Ride the Live Shopping Wave",
+    "summary": "Live selling, once a boon for beauty sales in the '90s and 2000s, is back via TikTok Shop. But what does a winning formula look like for brands on the platform?",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/beauty-live-shopping-tiktok-tarte-dr-groot-1239335306/",
+    "image_url": null,
+    "published_at": "2026-10-13T04:01:00.000Z"
   },
   {
     "headline": "Better Cotton Initiative Becomes a Regenerative Standards System",
@@ -1502,101 +1598,5 @@
     "url": "https://wwd.com/footwear-news/shoe-industry-news/jennifer-chamandi-london-store-opening-1239319266/",
     "image_url": null,
     "published_at": "2026-10-08T04:01:00.000Z"
-  },
-  {
-    "headline": "Hormuz Freight Shock May Have Peaked, But Elevated Rates Are Here to Stay",
-    "summary": "China-U.S. container rates have climbed more than 330 percent since the war in Iran began, but Xeneta expects rates to ease gradually rather than collapse as disruptions continue to pressure global shipping.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/logistics/strait-of-hormuz-freight-rates-peaked-iran-war-xeneta-container-shipping-oil-1239320306/",
-    "image_url": null,
-    "published_at": "2026-10-07T22:35:31.000Z"
-  },
-  {
-    "headline": "Vogue Editor-Tested Prime Day Beauty Deals Are Up to 48% Off 2026",
-    "summary": "Shopping Prime Day beauty deals? From up to 46% off high-tech gadgets to skin-care staples, today’s the last day to grab deals.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/prime-day-beauty-deals-10-07-2026",
-    "image_url": null,
-    "published_at": "2026-10-07T22:31:00.000Z"
-  },
-  {
-    "headline": "7 Fascinating Facts I Learned From an NYC Gilded Age Walking Tour",
-    "summary": "Keith Taillon takes a Vogue writer on a Gilded Age tour of Manhattan, stopping at iconic buildings and streets that tell the history of this iconic era.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/gilded-age-walking-tour-nyc",
-    "image_url": null,
-    "published_at": "2026-10-07T22:21:04.000Z"
-  },
-  {
-    "headline": "Footwear Deals to Shop in the Last Hours of October Prime Day, From Timberland Boots at All-Time Low Prices to $60 Nike Sneakers",
-    "summary": "The Amazon Big Deal Days sale must end tonight. Don't miss out on these trendy shoe rack upgrades.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-shoes/amazon-october-prime-day-shoe-deals-footwear-discounts-2026-1239319493/",
-    "image_url": null,
-    "published_at": "2026-10-07T22:19:39.000Z"
-  },
-  {
-    "headline": "The 35 Very Best Final Prime Day Clothing Deals Worth Snagging",
-    "summary": "Shop the best Prime Day clothing deals 2026, curated by Vogue editors. It’s tight edit of fashion finds you want (and none you don’t).",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-prime-day-clothing-deals-10-07-2026",
-    "image_url": null,
-    "published_at": "2026-10-07T22:17:00.000Z"
-  },
-  {
-    "headline": "The Reformer Pilates Boom Has Officially Reached Hotels",
-    "summary": "Across the globe, hotels and resorts are building reformer Pilates studios, catering to a growing class of converts who refuse to forgo their toe taps on a red spring—even while on vacation.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/reformer-pilates-hotel-fitness-travel",
-    "image_url": null,
-    "published_at": "2026-10-07T22:15:10.000Z"
-  },
-  {
-    "headline": "The Best Prime Day Deals 2026, According to Vogue Editors",
-    "summary": "Shop the best Prime Day deals 2026—handpicked by Vogue editors across fashion, beauty, and home.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-prime-day-deals-editor-picks-10-07-2026",
-    "image_url": null,
-    "published_at": "2026-10-07T22:11:00.000Z"
-  },
-  {
-    "headline": "Dancing Queens: Sandy Linter’s Disco Makeup Book Is Back",
-    "summary": "Almost 50 years after it was first published, the definitive guide to Disco Beauty is back.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/disco-beauty-sandy-linter",
-    "image_url": null,
-    "published_at": "2026-10-07T22:00:00.000Z"
-  },
-  {
-    "headline": "America’s Global Trade Deficit Grew in August While Canadian Imports Surged",
-    "summary": "The U.S. trade deficit grew significantly month over month—by 13.7 basis points—hitting a whopping $105.6 billion, the highest level seen since President Donald Trump took office for a second term.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/trade/us-global-trade-deficit-canadian-imports-tariffs-1239320248/",
-    "image_url": null,
-    "published_at": "2026-10-07T21:58:28.000Z"
-  },
-  {
-    "headline": "Cotton’s Next Traceability Tool Is an Old One: Knowing Your Farmer",
-    "summary": "A new report argues that tracing cotton requires looking beyond digital transactions and building lasting relationships with farming communities.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sj-denim/who-made-your-cotton-1239319748/",
-    "image_url": null,
-    "published_at": "2026-10-07T21:49:12.000Z"
-  },
-  {
-    "headline": "Levi’s DTC Sales Take a Q3 Hit as U.S. Marketing Falls Flat",
-    "summary": "The denim brand’s earnings rose for the quarter and CEO Michelle Gass said the business is back on track.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/financial/levi-strauss-q3-earnings-michelle-gass-ceo-dtc-1239319586/",
-    "image_url": null,
-    "published_at": "2026-10-07T21:46:08.000Z"
-  },
-  {
-    "headline": "Shake-up at Lululemon: Athleta’s Maggie Gauger Tapped as President",
-    "summary": "Both activewear brands have been struggling with weak financial performances in recent seasons.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/lululemon-management-shakeup-maggie-gauger-named-president-1239319927/",
-    "image_url": null,
-    "published_at": "2026-10-07T21:36:25.000Z"
   }
 ]

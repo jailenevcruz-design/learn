@@ -1,6 +1,6 @@
 [
   {
-    "headline": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+    "headline": "New White House press secretary a 'devoted fan' of Trump and MAGA",
     "summary": "Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's chief spokesperson.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
@@ -22,6 +22,14 @@
     "url": "https://www.npr.org/2026/10/12/nx-s1-5998040/democratic-senator-talks-trumps-russian-diesel-deal",
     "image_url": null,
     "published_at": "2026-10-12T11:37:00.000Z"
+  },
+  {
+    "headline": "Political strategist on how Trump's personal grievances could affect the GOP",
+    "summary": "NPR's Steve Inskeep speaks with political strategist and former senior Republican congressional adviser Rina Shah about how President Trump's personal grievances and projects are affecting the chances of GOP candidates in the upcoming election.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/12/nx-s1-5996646/political-strategist-on-how-trumps-personal-grievances-could-affect-the-gop",
+    "image_url": null,
+    "published_at": "2026-10-12T08:39:36.000Z"
   },
   {
     "headline": "Republican strategist on how Trump's personal grievances could affect the GOP",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
     "image_url": null,
     "published_at": "2026-09-12T09:00:00.000Z"
-  },
-  {
-    "headline": "Ethics watchdogs await RFK Jr.'s financial report",
-    "summary": "Health Secretary RFK Jr.'s annual financial disclosure is late. When it posts, the public could learn how much he has earned from a vaccine-related lawsuit against Merck, which RFK now regulates.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5964970/ethics-watchdogs-await-rfk-jr-s-financial-report",
-    "image_url": null,
-    "published_at": "2026-09-12T00:42:54.000Z"
   }
 ]

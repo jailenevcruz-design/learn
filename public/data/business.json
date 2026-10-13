@@ -1,5 +1,117 @@
 [
   {
+    "headline": "U.S. Treasury yields fall as energy prices pull back",
+    "summary": "Bond yields fell on Tuesday as investors await more economic data releases this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
+    "image_url": null,
+    "published_at": "2026-10-13T08:31:37.000Z"
+  },
+  {
+    "headline": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
+    "summary": "Hackers targeted hundreds of French supermarkets in a large-scale cyberattack, causing refrigerators to overheat, spoiling food, and sparking fires.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+    "image_url": null,
+    "published_at": "2026-10-13T08:28:59.000Z"
+  },
+  {
+    "headline": "Anthropic warns AI models could soon copy themselves across home devices",
+    "summary": "Anthropic's latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+    "image_url": null,
+    "published_at": "2026-10-13T08:27:20.000Z"
+  },
+  {
+    "headline": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+    "summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "image_url": null,
+    "published_at": "2026-10-13T08:14:01.000Z"
+  },
+  {
+    "headline": "CNBC Daily Open: 'Boring' trumps disorder and volatility",
+    "summary": "Some warning lights are flashing on the global economy dashboard.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/daily-open-imf-disorderly-markets-tech-stocks.html",
+    "image_url": null,
+    "published_at": "2026-10-13T07:24:31.000Z"
+  },
+  {
+    "headline": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+    "summary": "Protests in India demanding the removal of the chief election commissioner for alleged voter fraud have intensified.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
+    "image_url": null,
+    "published_at": "2026-10-13T07:17:46.000Z"
+  },
+  {
+    "headline": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+    "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+    "image_url": null,
+    "published_at": "2026-10-13T06:20:55.000Z"
+  },
+  {
+    "headline": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+    "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+    "image_url": null,
+    "published_at": "2026-10-13T05:24:17.000Z"
+  },
+  {
+    "headline": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+    "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+    "image_url": null,
+    "published_at": "2026-10-13T04:54:07.000Z"
+  },
+  {
+    "headline": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+    "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+    "image_url": null,
+    "published_at": "2026-10-13T04:10:49.000Z"
+  },
+  {
+    "headline": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+    "summary": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-10-13T03:49:23.000Z"
+  },
+  {
+    "headline": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "image_url": null,
+    "published_at": "2026-10-13T02:58:11.000Z"
+  },
+  {
+    "headline": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
+    "summary": "Red Bull Racing is increasingly using AI to help make real-time Formula 1 race decisions, but the team says human judgment remains essential.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+    "image_url": null,
+    "published_at": "2026-10-13T02:37:08.000Z"
+  },
+  {
+    "headline": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+    "summary": "Six Flags shares plunged more than 10% in after-hours trading Monday following reports of a deadly roller coaster incident at its Georgia amusement park.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+    "image_url": null,
+    "published_at": "2026-10-13T02:29:14.000Z"
+  },
+  {
     "headline": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
     "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
     "publisher": "CNBC",
@@ -134,14 +246,6 @@
     "url": "https://www.cnbc.com/2026/10/12/baby-boomers-may-be-driving-resilient-consumer-spending.html",
     "image_url": null,
     "published_at": "2026-10-12T17:23:35.000Z"
-  },
-  {
-    "headline": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-    "image_url": null,
-    "published_at": "2026-10-12T17:15:21.000Z"
   },
   {
     "headline": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
@@ -286,14 +390,6 @@
     "url": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
     "image_url": null,
     "published_at": "2026-10-12T10:25:28.000Z"
-  },
-  {
-    "headline": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-    "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-    "image_url": null,
-    "published_at": "2026-10-12T08:58:54.000Z"
   },
   {
     "headline": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
@@ -1502,101 +1598,5 @@
     "url": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics",
     "image_url": null,
     "published_at": "2026-10-07T10:30:00.000Z"
-  },
-  {
-    "headline": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
-    "summary": "Finland has emerged as a key location for data centers amid the AI boom.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-    "image_url": null,
-    "published_at": "2026-10-07T09:26:02.000Z"
-  },
-  {
-    "headline": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
-    "summary": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
-    "image_url": null,
-    "published_at": "2026-10-07T09:18:30.000Z"
-  },
-  {
-    "headline": "Here's the latest sticker shock: Borrowing for a mortgage -- or a car",
-    "summary": "It's not just mortgages being at their highest level in almost three years — but the cost of loans for cars and higher education are among the borrowing costs affected, too.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds",
-    "image_url": null,
-    "published_at": "2026-10-07T09:00:00.000Z"
-  },
-  {
-    "headline": "Jennifer Welch isn't holding back on Trump, Democrats or political division",
-    "summary": "The podcaster talks to Leila Fadel about her new book, her evolving politics and what it means to build a future with people whose views she strongly opposes.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5709016/jennifer-welch-not-today-fascists-book",
-    "image_url": null,
-    "published_at": "2026-10-07T08:44:47.000Z"
-  },
-  {
-    "headline": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-    "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-    "image_url": null,
-    "published_at": "2026-10-07T06:16:39.000Z"
-  },
-  {
-    "headline": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
-    "summary": "Unwinding of the artificial intelligence trade poses the biggest risk to markets, according to Singapore state-owned investment giant Temasek.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
-    "image_url": null,
-    "published_at": "2026-10-07T05:25:29.000Z"
-  },
-  {
-    "headline": "Luxury developers flocked to the 'Hamptons of Hungary' — but some projects are stalling",
-    "summary": "Lake Balaton in south-west Hungary has been a popular vacation destination for decades, but average transaction prices are falling.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/lake-balaton-tihany-balatonfred-hungary-luxury-developers.html",
-    "image_url": null,
-    "published_at": "2026-10-07T05:00:01.000Z"
-  },
-  {
-    "headline": "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
-    "summary": "Trump says he will speak with Putin “very soon” over a plague incident in Russia as CDC monitor the situation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html",
-    "image_url": null,
-    "published_at": "2026-10-07T04:12:27.000Z"
-  },
-  {
-    "headline": "Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister",
-    "summary": "Trump has said that Asian economies, which are heavily reliant on energy shipped through Hormuz, should shoulder more of the burden of keeping the waterway open.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html",
-    "image_url": null,
-    "published_at": "2026-10-07T02:10:52.000Z"
-  },
-  {
-    "headline": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
-    "summary": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
-    "image_url": null,
-    "published_at": "2026-10-07T00:49:34.000Z"
-  },
-  {
-    "headline": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-    "summary": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-    "image_url": null,
-    "published_at": "2026-10-06T22:23:01.000Z"
-  },
-  {
-    "headline": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
-    "summary": "Jim Cramer said established tech giants with strong businesses and multiple ways to benefit from AI are some of the best places to invest in the boom.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
-    "image_url": null,
-    "published_at": "2026-10-06T22:13:04.000Z"
   }
 ]
