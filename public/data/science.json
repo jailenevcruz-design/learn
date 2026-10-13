@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Researchers are tracking Monarch butterflies to learn more about their journey",
+    "summary": "Researchers all over North America are attaching tiny transmitters to Monarch butterflies as they begin their migration to Mexico, to learn more about their stops and challenges.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/13/nx-s1-5986256-e1/researchers-are-tracking-monarch-butterflies-to-learn-more-about-their-journey",
+    "image_url": null,
+    "published_at": "2026-10-13T20:03:40.000Z"
+  },
+  {
+    "headline": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
+    "summary": "Locals and preservationists have long opposed Trump's plan to redevelop a municipal D.C. golf course. That legal fight escalated after the government cleared hundreds of trees on short notice.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
+    "image_url": null,
+    "published_at": "2026-10-13T19:38:18.000Z"
+  },
+  {
     "headline": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
     "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that could transform how ast…",
     "publisher": "ScienceDaily",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/09/27/nx-s1-5967513/were-looking-for-life-on-other-planets-are-we-ready-to-find-it",
     "image_url": null,
     "published_at": "2026-09-27T21:14:38.000Z"
-  },
-  {
-    "headline": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-    "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although researchers say clinical tri…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-    "image_url": null,
-    "published_at": "2026-09-27T13:53:39.000Z"
-  },
-  {
-    "headline": "Atrial fibrillation patients saw 69% lower risk with common blood thinners",
-    "summary": "Direct oral anticoagulants cut the risk of serious clinical events by 69% in atrial fibrillation patients with an intermediate risk of stroke, according to the randomized SINGLE-AF trial. The benefit was driven mainly by fewer ischemic strokes, with no increase in major bleeding.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260925005439.htm",
-    "image_url": null,
-    "published_at": "2026-09-27T13:41:36.000Z"
   }
 ]

@@ -1,11 +1,51 @@
 [
   {
+    "headline": "Kimberly Guilfoyle has been asked to resign among corruption allegations",
+    "summary": "Kimberly Guilfoyle has been asked to resign as US ambassador to Greece following allegations that she sought payment from a Trump donor in exchange for access to administration officials",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/13/nx-s1-6000216/kimberly-guilfoyle-has-been-asked-to-resign-among-corruption-allegations",
+    "image_url": null,
+    "published_at": "2026-10-13T20:03:45.000Z"
+  },
+  {
+    "headline": "Why does Pete Hegseth want to livestream an execution?",
+    "summary": "Secretary of Defense Pete Hegseth has proposed livestreaming the execution of a man convicted of the 2009 attack on Fort Hood. Some scholars say the idea is rooted in his religious background.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/13/nx-s1-5996831/why-does-pete-hegseth-want-to-livestream-an-execution",
+    "image_url": null,
+    "published_at": "2026-10-13T20:03:42.000Z"
+  },
+  {
+    "headline": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
+    "summary": "Six Democratic and six Republican senators wrote a letter calling on President Trump to withdraw from his recent deal with Russian President Vladimir Putin.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
+    "image_url": null,
+    "published_at": "2026-10-13T19:52:52.000Z"
+  },
+  {
+    "headline": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
+    "summary": "Locals and preservationists have long opposed Trump's plan to redevelop a municipal D.C. golf course. That legal fight escalated after the government cleared hundreds of trees on short notice.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
+    "image_url": null,
+    "published_at": "2026-10-13T19:38:18.000Z"
+  },
+  {
     "headline": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
     "summary": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
     "image_url": null,
     "published_at": "2026-10-13T11:08:14.000Z"
+  },
+  {
+    "headline": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
+    "summary": "With Election Day just a few weeks away — and millions of votes already cast — midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's not a crystal ball.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
+    "image_url": null,
+    "published_at": "2026-10-13T09:00:00.000Z"
   },
   {
     "headline": "Win or lose, independent candidates want to meet voters in the middle",
@@ -20,14 +60,6 @@
     "summary": "Voters in Massachusetts will decide whether to require cities and towns to allow smaller homes on smaller lots. A growing number of states are doing the same to help ease a housing shortage.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
-    "image_url": null,
-    "published_at": "2026-10-13T09:00:00.000Z"
-  },
-  {
-    "headline": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
-    "summary": "With Election Day just a few weeks away — and millions of votes already cast — midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's not a crystal ball.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
     "image_url": null,
     "published_at": "2026-10-13T09:00:00.000Z"
   },
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
     "image_url": null,
     "published_at": "2026-09-14T08:43:06.000Z"
-  },
-  {
-    "headline": "Trump downplays calls for AI slowdown",
-    "summary": "President Trump said the dire warnings about AI were exaggerated and that \"negative forces\" are making claims about things that won't happen. This comes after leaders in the industry called for putting the brakes on AI development.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
-    "image_url": null,
-    "published_at": "2026-09-13T22:32:39.000Z"
-  },
-  {
-    "headline": "Wisconsin congressman survives emergency plane landing, swims to safety",
-    "summary": "Wisconsin Congressman Tom Tiffany escaped a sinking plane and swam to shallow water after an emergency landing in a lake. Tiffany and the pilot called 911 from on top of the plane.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
-    "image_url": null,
-    "published_at": "2026-09-13T17:45:33.000Z"
-  },
-  {
-    "headline": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
-    "summary": "Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
-    "image_url": null,
-    "published_at": "2026-09-13T12:04:27.000Z"
-  },
-  {
-    "headline": "The Social Security trust fund is running out. Why is it not a top campaign issue?",
-    "summary": "Limited public discussion of the trust fund's shortfall has experts worried that most Americans don't fully understand the problems Social Security faces — or weigh in on solutions.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/13/nx-s1-5898447-e1/the-social-security-trust-fund-is-running-out-why-is-it-not-a-top-campaign-issue",
-    "image_url": null,
-    "published_at": "2026-09-13T12:04:25.000Z"
   }
 ]
