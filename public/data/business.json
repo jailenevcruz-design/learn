@@ -1,11 +1,43 @@
 [
   {
+    "headline": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+    "summary": "The GDP print beat expectations of a 5% growth from economists polled by Reuters.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+    "image_url": null,
+    "published_at": "2026-10-14T00:28:34.000Z"
+  },
+  {
     "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
     "summary": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
     "image_url": null,
-    "published_at": "2026-10-13T21:32:28.000Z"
+    "published_at": "2026-10-14T00:13:45.000Z"
+  },
+  {
+    "headline": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+    "image_url": null,
+    "published_at": "2026-10-13T23:05:12.000Z"
+  },
+  {
+    "headline": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+    "summary": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+    "image_url": null,
+    "published_at": "2026-10-13T22:54:21.000Z"
+  },
+  {
+    "headline": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+    "summary": "CNBC’s Jim Cramer said investors should hold off on buying newly public AI infrastructure company Accelevation Holdings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
+    "image_url": null,
+    "published_at": "2026-10-13T22:47:07.000Z"
   },
   {
     "headline": "Six Flags shares decline following deadly roller coaster incident",
@@ -1566,37 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
     "image_url": null,
     "published_at": "2026-10-08T00:51:23.000Z"
-  },
-  {
-    "headline": "Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño",
-    "summary": "The super El Niño weather phenomenon is emerging as the latest headwind for the Indian economy.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/08/el-nino-food-economy-crisis-india.html",
-    "image_url": null,
-    "published_at": "2026-10-08T00:14:40.000Z"
-  },
-  {
-    "headline": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-    "summary": "U.S. Trade Representative Jamieson Greer reported $1.17 million to $3.75 million in assets and disclosed a prior $10,000 payment from Coupang.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-    "image_url": null,
-    "published_at": "2026-10-07T23:10:54.000Z"
-  },
-  {
-    "headline": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
-    "summary": "President Trump is giving awards to a number of top tech executives at a summit on Thursday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
-    "image_url": null,
-    "published_at": "2026-10-07T22:32:14.000Z"
-  },
-  {
-    "headline": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
-    "summary": "Anthropic reportedly plans to list on the Nasdaq before Thanksgiving, and one bearish advisory firm suggests that investors sit this one out.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-    "image_url": null,
-    "published_at": "2026-10-07T22:29:41.000Z"
   }
 ]

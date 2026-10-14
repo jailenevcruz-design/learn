@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "image_url": null,
+    "published_at": "2026-10-13T23:13:31.000Z"
+  },
+  {
+    "headline": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "image_url": null,
+    "published_at": "2026-10-13T23:05:34.000Z"
+  },
+  {
+    "headline": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "image_url": null,
+    "published_at": "2026-10-13T23:00:00.000Z"
+  },
+  {
+    "headline": "Cerebras CEO pushes back on AI doomsday warnings",
+    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "image_url": null,
+    "published_at": "2026-10-13T22:36:59.000Z"
+  },
+  {
+    "headline": "Apple’s HomeView ad is confusing to everyone except parents",
+    "summary": "Nothing like a little family togetherness in the morning. | Image: Apple Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's t…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+    "image_url": null,
+    "published_at": "2026-10-13T22:10:00.000Z"
+  },
+  {
     "headline": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
     "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
     "publisher": "TechCrunch",
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
     "image_url": null,
     "published_at": "2026-10-07T18:30:57.000Z"
-  },
-  {
-    "headline": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-    "image_url": null,
-    "published_at": "2026-10-07T18:15:28.000Z"
-  },
-  {
-    "headline": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
-    "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
-    "image_url": null,
-    "published_at": "2026-10-07T18:10:00.000Z"
-  },
-  {
-    "headline": "Microsoft is giving Copilot more control over Windows and your files",
-    "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of local and cloud AI model…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-    "image_url": null,
-    "published_at": "2026-10-07T18:01:20.000Z"
-  },
-  {
-    "headline": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-    "image_url": null,
-    "published_at": "2026-10-07T18:00:19.000Z"
-  },
-  {
-    "headline": "Greenairy is building smart plant towers to clean the air in your office",
-    "summary": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
-    "image_url": null,
-    "published_at": "2026-10-07T17:30:00.000Z"
   }
 ]
