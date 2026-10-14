@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+    "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+    "image_url": null,
+    "published_at": "2026-10-14T19:42:03.000Z"
+  },
+  {
+    "headline": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+    "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+    "image_url": null,
+    "published_at": "2026-10-14T11:38:51.000Z"
+  },
+  {
+    "headline": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
+    "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
+    "image_url": null,
+    "published_at": "2026-10-14T10:44:30.000Z"
+  },
+  {
+    "headline": "These workers help train robots who could one day steal their jobs",
+    "summary": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
+    "image_url": null,
+    "published_at": "2026-10-14T09:28:47.000Z"
+  },
+  {
+    "headline": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+    "summary": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
+    "image_url": null,
+    "published_at": "2026-10-14T09:09:39.000Z"
+  },
+  {
     "headline": "How will a diesel deal with Russia impact the U.S. market?",
     "summary": "The price of diesel hit an all-time high in the U.S. in September. Can President Trump's deal for Russia to release more diesel onto the market bring the price down?",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
     "image_url": null,
     "published_at": "2026-09-18T08:02:41.000Z"
-  },
-  {
-    "headline": "Behind the overture from the European Union to Canada",
-    "summary": "NPR's Mary Louise Kelly speaks with Ian Bremmer, president and founder of the Eurasia Group, about the latest developments between Canada, the European Union and the U.S.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada",
-    "image_url": null,
-    "published_at": "2026-09-17T20:24:33.000Z"
-  },
-  {
-    "headline": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
-    "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
-    "image_url": null,
-    "published_at": "2026-09-17T19:33:30.000Z"
-  },
-  {
-    "headline": "Greetings from Beijing, where baozi are worth the wait in line",
-    "summary": "The popular fluffy steamed buns are filled with pork, vegetables, tofu — and in one trendy Beijing shop, chocolate and red beans.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
-    "image_url": null,
-    "published_at": "2026-09-17T13:59:17.000Z"
-  },
-  {
-    "headline": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-    "summary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
-    "image_url": null,
-    "published_at": "2026-09-17T12:33:36.000Z"
-  },
-  {
-    "headline": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
-    "summary": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\"",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
-    "image_url": null,
-    "published_at": "2026-09-17T10:54:18.000Z"
   }
 ]

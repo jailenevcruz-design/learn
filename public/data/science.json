@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Scientists reveal why some workout recovery tricks can backfire",
+    "summary": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most effective recovery methods are far simpler and cheaper: getting enough sleep, eat…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T12:04:20.000Z"
+  },
+  {
+    "headline": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+    "summary": "Two unusually long-legged cats have helped scientists uncover the first genetically confirmed cases of Marfan syndrome in domestic felines. Researchers at Cornell University discovered that the brothers carried two altered copies of a gene linked to the rare connective tissue disorder, which can affect the eyes, heart,…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T11:56:22.000Z"
+  },
+  {
+    "headline": "The secret to easier exercise as an adult may start in childhood",
+    "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to carrying weights while growing up could carry those weights as adults without using extra energy, while…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T11:36:23.000Z"
+  },
+  {
+    "headline": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+    "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 that could also play a…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T11:06:19.000Z"
+  },
+  {
+    "headline": "Scientists may have finally solved the mystery of the Moon’s two faces",
+    "summary": "Scientists may have solved a long-standing mystery about why the Moon’s two sides are so different, using samples collected from its farside for the first time. Their findings suggest that uneven heating from Earth's gravitational pull drove enormous flows of ancient magma, creating the dramatically different lunar lan…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261012185019.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T10:38:46.000Z"
+  },
+  {
+    "headline": "Scientists discover how harmful “zombie cells” hide from the immune system",
+    "summary": "Scientists have discovered a protein that may help harmful aging cells hide from the immune system, allowing them to accumulate and fuel age-related health problems. Blocking the protein in mice reduced these cells and inflammation while improving blood sugar regulation and strength, offering a promising new direction…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013015800.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T10:17:58.000Z"
+  },
+  {
+    "headline": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+    "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the legendary Titanoboa. Scientists believe its enormous body made it a slow-moving ambush predator, similar…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T05:44:39.000Z"
+  },
+  {
+    "headline": "New knee arthritis treatment delivers lasting pain relief without surgery",
+    "summary": "A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced clinically meaningful pain relief lasting at least 12 months.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T04:39:11.000Z"
+  },
+  {
+    "headline": "AI can act exactly like a human, but we still don't think it's conscious",
+    "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human. Yet when asked about \"awareness\" instead,…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T01:41:55.000Z"
+  },
+  {
+    "headline": "A planet 320 light-years away confirms what scientists long suspected",
+    "summary": "Astronomers have discovered that a scorching-hot planet 320 light-years away shares a striking chemical similarity with its host star, providing the first direct evidence for a fundamental assumption about planet formation. The breakthrough could help scientists predict what distant rocky planets are made of and identi…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T00:24:40.000Z"
+  },
+  {
+    "headline": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
+    "summary": "Scientists used artificial intelligence to uncover nearly 10,000 chemical reactions involved in transforming carbon dioxide into fuels and chemicals, revealing crucial pathways that traditional models had missed. The discovery dramatically improved predictions of CO2 conversion and uncovered a surprising hydrogen react…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T00:01:11.000Z"
+  },
+  {
+    "headline": "210-million-year-old dinosaur discovery reveals a lost world in Africa",
+    "summary": "A newly identified 210-million-year-old dinosaur from Zimbabwe is helping scientists uncover a surprisingly distinct prehistoric ecosystem. The discovery suggests that ancient climate differences may have separated dinosaur populations across southern Africa, leading to unique species that challenge previous assumption…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
+    "image_url": null,
+    "published_at": "2026-10-13T22:53:03.000Z"
+  },
+  {
     "headline": "Researchers are tracking Monarch butterflies to learn more about their journey",
     "summary": "Researchers all over North America are attaching tiny transmitters to Monarch butterflies as they begin their migration to Mexico, to learn more about their stops and challenges.",
     "publisher": "NPR",
@@ -1502,101 +1598,5 @@
     "url": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
     "image_url": null,
     "published_at": "2026-09-28T13:15:29.000Z"
-  },
-  {
-    "headline": "Blood tests reveal why astronauts get constipated in space",
-    "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an important concern for future missions to Mars.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T12:49:59.000Z"
-  },
-  {
-    "headline": "Scientists were wrong about this strange mammal for nearly 40 years",
-    "summary": "A beautifully preserved fossil from Mongolia’s Gobi Desert has solved a mystery that puzzled paleontologists for nearly 40 years. Tamirkhan balcarceli shows that zhelestids were not early relatives of modern placental mammals, despite having teeth that seemed to suggest they were. Instead, the rabbit-like animal belong…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260925093204.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T12:25:21.000Z"
-  },
-  {
-    "headline": "James Webb reveals why planet formation is a race against time",
-    "summary": "JWST has revealed that young planetary systems lose their planet-building gas through a changing mix of powerful jets, molecular winds, and radiation-driven outflows. As the disks age and their gas disappears, giant planets face a shrinking window to build massive atmospheres.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260925093158.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T12:02:24.000Z"
-  },
-  {
-    "headline": "Pomegranate compound improves heart function by up to 80% in study",
-    "summary": "A compound the body can make after eating pomegranates, walnuts, and some berries improved measures of heart function by up to 80% in animal models of a difficult-to-treat form of heart failure. Urolithin A helped stiff heart tissue relax and reduced scarring and abnormal enlargement. It also improved relaxation in eng…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260925093157.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T10:49:22.000Z"
-  },
-  {
-    "headline": "160-million-year-old proteins show surprising power against superbugs",
-    "summary": "Scientists resurrected antimicrobial peptides from mammals that lived millions of years ago and found that some were more potent against drug-resistant bacteria than modern human versions. These evolutionary relics could provide new clues for designing treatments as antibiotic resistance becomes an increasingly serious…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260925093155.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T09:59:57.000Z"
-  },
-  {
-    "headline": "How to limit the rat numbers? Train the humans",
-    "summary": "D.C.'s Rat Rangers take anyone who is interested on night time safaris through some of the Capitol's filthiest back alleys to learn the way of the rats, and to be better humans.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5980436/rats-dc-new-york-rangers",
-    "image_url": null,
-    "published_at": "2026-09-28T09:00:00.000Z"
-  },
-  {
-    "headline": "Resetting the body clock could help the brain recover after stroke",
-    "summary": "Strengthening the body’s natural daily rhythms helped mice recover after stroke by improving the brain’s waste-clearing system and reducing lingering inflammation. The approach worked even when treatment began three days after the stroke, suggesting circadian-based therapies could eventually offer a new way to support…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260924020407.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T08:35:12.000Z"
-  },
-  {
-    "headline": "Mexico's Baja California braces for Hurricane Polo as Hurricane Nolo threatens Hawaii",
-    "summary": "Hurricane Nolo edged further away from the Hawaiian Islands on Sunday as major Hurricane Polo bore down on Mexico's Baja California peninsula with a threat of storm surge, high winds and heavy rains.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5983317/hurricane-polo-hurricane-nolo",
-    "image_url": null,
-    "published_at": "2026-09-28T07:54:01.000Z"
-  },
-  {
-    "headline": "Is the universe infinite? The answer gets weird fast",
-    "summary": "Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a small patch of a much larger curved universe. Space could even be flat while wrapping around on itself in exotic ways.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T03:18:42.000Z"
-  },
-  {
-    "headline": "Scientists found a surprising driver of Alzheimer’s outside the brain",
-    "summary": "Scientists found that immune cells contributing to Alzheimer’s-related brain damage may be activated in lymph nodes outside the brain before traveling into the nervous system. Blocking this pathway in mice dramatically reduced neurodegeneration and preserved cognitive abilities, pointing to a potentially more accessibl…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260925093150.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T02:39:28.000Z"
-  },
-  {
-    "headline": "Scientists discover two new species of sea spiders along Canadian coastline",
-    "summary": "So far, scientists have identified more than 1,300 species of sea spiders.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
-    "image_url": null,
-    "published_at": "2026-09-27T22:31:16.000Z"
-  },
-  {
-    "headline": "We're looking for life on other planets. Are we ready to find it?",
-    "summary": "In 1960, astronomer Frank Drake listened for signals from alien worlds. Reporter Brendan Byrne's podcast When We Find Them picks up the search and asks what would happen if we finally find something.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/27/nx-s1-5967513/were-looking-for-life-on-other-planets-are-we-ready-to-find-it",
-    "image_url": null,
-    "published_at": "2026-09-27T21:14:38.000Z"
   }
 ]
