@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
+    "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of people turn to GLP-1 med…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
+    "image_url": null,
+    "published_at": "2026-10-15T04:14:55.000Z"
+  },
+  {
+    "headline": "A 47-year study reveals the age when your body starts losing strength",
+    "summary": "A 47-year study has uncovered a surprising turning point in physical aging: fitness and strength begin declining around age 35, even among people who exercise regularly. Researchers found that this decline accelerates as people get older, but starting to exercise in adulthood can still improve physical performance.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
+    "image_url": null,
+    "published_at": "2026-10-15T00:28:19.000Z"
+  },
+  {
+    "headline": "Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years",
+    "summary": "A groundbreaking study suggests that 2.22 million Indigenous Australians lived on the continent before European colonization, far more than previously believed. Researchers estimate that 93% of this population was lost within 73 years, revealing a demographic catastrophe on a scale that dramatically changes our underst…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013015807.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T23:34:00.000Z"
+  },
+  {
+    "headline": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+    "summary": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first evidence of megaraptorans in Europe, helping explain how these mysterious dinosaurs eventually becam…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T22:51:56.000Z"
+  },
+  {
+    "headline": "Cancer is rising in younger adults, and scientists can't fully explain why",
+    "summary": "A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the increase, leaving scientists searching for other possible causes, including changes in the gut microbiome…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
+    "image_url": null,
+    "published_at": "2026-10-14T22:03:26.000Z"
+  },
+  {
     "headline": "Scientists reveal why some workout recovery tricks can backfire",
     "summary": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most effective recovery methods are far simpler and cheaper: getting enough sleep, eat…",
     "publisher": "ScienceDaily",
@@ -1558,45 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260927225017.htm",
     "image_url": null,
     "published_at": "2026-09-29T02:36:52.000Z"
-  },
-  {
-    "headline": "Scientists find new virus behind mysterious tick illness",
-    "summary": "Scientists have discovered a new tick-borne virus in China that causes flu-like illness and may account for previously unexplained cases of fever, fatigue, digestive problems, and low platelet counts. Most patients with ALTNV alone recovered, but coinfections with another dangerous tick-borne virus were linked to more…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260927225027.htm",
-    "image_url": null,
-    "published_at": "2026-09-29T01:45:25.000Z"
-  },
-  {
-    "headline": "The Trump administration weakens fuel efficiency standards for new cars",
-    "summary": "The Trump administration says easing these standards will make cars more affordable. Critics say it's not so simple and could be costly for the environment.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback",
-    "image_url": null,
-    "published_at": "2026-09-28T16:07:15.000Z"
-  },
-  {
-    "headline": "Diabetes study finds keeping blood sugar too steady may come at a price",
-    "summary": "People with diabetes reported better quality of life after days when their glucose stayed largely within a healthy range, even when levels fluctuated more than usual. The unexpected finding suggests that pursuing extremely tight glucose control may sometimes come with a hidden lifestyle burden.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260927225019.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T13:53:25.000Z"
-  },
-  {
-    "headline": "Scientists just discovered what coffee really does to your gut and brain",
-    "summary": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learnin…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
-    "image_url": null,
-    "published_at": "2026-09-28T13:37:05.000Z"
-  },
-  {
-    "headline": "SpaceX's Starship launches on first orbital mission from Texas",
-    "summary": "Starship is key to SpaceX's commercial success and NASA's plans to land humans on the moon. This is the 14th flight of the uncrewed Starship, but the first time it reached orbit.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
-    "image_url": null,
-    "published_at": "2026-09-28T13:15:29.000Z"
   }
 ]
