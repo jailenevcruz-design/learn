@@ -1,5 +1,133 @@
 [
   {
+    "headline": "AI agents are coming to Rivian’s cars",
+    "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "image_url": null,
+    "published_at": "2026-10-15T15:02:36.000Z"
+  },
+  {
+    "headline": "Ramp reaches $60B valuation as it pushes deeper into AI",
+    "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:47:09.000Z"
+  },
+  {
+    "headline": "Google’s Universal Cart shopping tool launches in the US",
+    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:29:33.000Z"
+  },
+  {
+    "headline": "An Israeli firm is sending spyware through online ads, researchers say",
+    "summary": "An Israeli ad tech firm worked with spyware companies to infect devices, including at Al Jazeera, by simply showing users an online ad, according to a joint investigation by security researchers at Citizen Lab and Confiant. It's the first time researchers have found technical evidence of a zero-click attack - a form of…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+    "image_url": null,
+    "published_at": "2026-10-15T14:10:50.000Z"
+  },
+  {
+    "headline": "Prep your cart before iPhone Duo preorders open tomorrow",
+    "summary": "Apple's iPhone Duo foldable phone opens for preorder tomorrow, October 16th, at 8am ET / 5am PT, but you don't have to wait until then to get your order mostly sorted. The company's product page for the phone now lets you select the color you want, along with storage capacity, carrier preference, and whether you want t…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder",
+    "image_url": null,
+    "published_at": "2026-10-15T14:07:33.000Z"
+  },
+  {
+    "headline": "Nobody is safe from celebrity AI deepfakes",
+    "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song \"Single Ladies (Put…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+    "image_url": null,
+    "published_at": "2026-10-15T14:03:42.000Z"
+  },
+  {
+    "headline": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+    "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the creator and media spaces…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+    "image_url": null,
+    "published_at": "2026-10-15T14:00:00.000Z"
+  },
+  {
+    "headline": "Some great games to play before GTA VI and Zelda launch",
+    "summary": "Silver Pines. | Image: Wych Elm You could say we're in the eye of the storm right now. The storm, of course, being the fall and winter release calendar for new video games. Things started out with a hectic few weeks that were packed with major titles like Control Resonant, Marvel's Wolverine, Fire Emblem: Fortune's Wea…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1011816/october-2026-game-reviews-dressmaker-castlevania",
+    "image_url": null,
+    "published_at": "2026-10-15T14:00:00.000Z"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026: Last day",
+    "summary": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:00:00.000Z"
+  },
+  {
+    "headline": "Microsoft says Windows 11 is now &#8216;more responsive&#8217; and runs better on 8GB of RAM",
+    "summary": "Earlier this year Microsoft laid out a plan to fix Windows 11, with a focus on performance, reliability, and the overall OS experience. After months of fixes, Microsoft now says the \"result is a Windows experience that's up to 20 percent more responsive.\" Microsoft has made improvements to Start, File Explorer, Search,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1011891/microsoft-windows-11-speed-memory-improvements",
+    "image_url": null,
+    "published_at": "2026-10-15T13:41:00.000Z"
+  },
+  {
+    "headline": "GTA VI’s new trailer gives you one more look at Vice City",
+    "summary": "The day is almost here, as Grand Theft Auto VI is just about a month away from finally coming out. But before that there's still one more look from Rockstar Games, which just put out a brief \"launch\" trailer for the game. It doesn't reveal much new, but the 90 second clip does give a good sense of the Miami-inflected v…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1011879/gta-6-launch-trailer",
+    "image_url": null,
+    "published_at": "2026-10-15T13:17:17.000Z"
+  },
+  {
+    "headline": "Quick question: Who exactly is iPhone Handoff for?",
+    "summary": "A seamless solution to a problem almost nobody has. | Photo: Allison Johnson / The Verge Last month, Apple announced a feature called iPhone Handoff. Not to be confused with that Handoff; this is a new one. iPhone Handoff allows you to keep your number active on two iPhones at the same time so you can easily switch bet…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1011338/iphone-handoff-t-mobile-work-iphone",
+    "image_url": null,
+    "published_at": "2026-10-15T13:00:00.000Z"
+  },
+  {
+    "headline": "Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
+    "summary": "Save all of the products you’re browsing in one place. | Image: Google Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+    "image_url": null,
+    "published_at": "2026-10-15T13:00:00.000Z"
+  },
+  {
+    "headline": "Ledger’s new hardware wallet is an Android phone without the phone",
+    "summary": "The Atom couldn’t have launched at a worse time for Ledger. | Image: Ledger Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sal…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+    "image_url": null,
+    "published_at": "2026-10-15T12:00:00.000Z"
+  },
+  {
+    "headline": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+    "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "image_url": null,
+    "published_at": "2026-10-15T12:00:00.000Z"
+  },
+  {
+    "headline": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+    "summary": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+    "image_url": null,
+    "published_at": "2026-10-15T10:00:00.000Z"
+  },
+  {
     "headline": "Figma announces new features to define how agents work on its platform",
     "summary": "Figma is also releasing its code layers feature in open beta.",
     "publisher": "TechCrunch",
@@ -33,7 +161,7 @@
   },
   {
     "headline": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread onlin…",
+    "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
     "image_url": null,
@@ -1470,133 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
     "image_url": null,
     "published_at": "2026-10-09T14:42:34.000Z"
-  },
-  {
-    "headline": "Trump’s attempt to rename AI is looking awfully artificial",
-    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-    "image_url": null,
-    "published_at": "2026-10-09T14:25:43.000Z"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-    "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-    "image_url": null,
-    "published_at": "2026-10-09T14:00:00.000Z"
-  },
-  {
-    "headline": "Instinct was the buzziest AI agent around — can it survive Muse?",
-    "summary": "Instinct’s agent is always just a text away. Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-    "image_url": null,
-    "published_at": "2026-10-09T14:00:00.000Z"
-  },
-  {
-    "headline": "Surveillance company Flock cuts staff as privacy backlash grows",
-    "summary": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-    "image_url": null,
-    "published_at": "2026-10-09T13:40:36.000Z"
-  },
-  {
-    "headline": "A week with Googlebooks: four notes from our testing so far",
-    "summary": "Software, software, software. | Photo: Antonio G. Di Benedetto / The Verge Google's new operating system is off to a rocky start. The five newly launched Googlebook laptops have hardware that ranges from great to excellent, but the software in its current state is the weak point. There are four of us on staff at The Ve…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
-    "image_url": null,
-    "published_at": "2026-10-09T13:36:02.000Z"
-  },
-  {
-    "headline": "Meta is banning TikTok ads across its platforms",
-    "summary": "Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by Bloomberg. The ban, which went into effect on Thursday, restricts ads and paid marketing messages from ByteDance, along wi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
-    "image_url": null,
-    "published_at": "2026-10-09T13:12:45.000Z"
-  },
-  {
-    "headline": "The humble Playdate has become one of gaming’s best deals",
-    "summary": "The Playdate, Panic's tiny yellow handheld that launched in 2022, has slowly but surely become a great deal - which is a good thing, because everything else in gaming has only gotten more expensive. Despite being a weird device with a black-and-white screen and a crank jutting out the side, the Playdate has managed to…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
-    "image_url": null,
-    "published_at": "2026-10-09T13:00:00.000Z"
-  },
-  {
-    "headline": "Xona’s commercial GPS alternative is about to go live",
-    "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-    "image_url": null,
-    "published_at": "2026-10-09T12:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
-    "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\"…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-    "image_url": null,
-    "published_at": "2026-10-09T09:48:26.000Z"
-  },
-  {
-    "headline": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-    "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-    "image_url": null,
-    "published_at": "2026-10-09T07:14:32.000Z"
-  },
-  {
-    "headline": "President Trump awards Big Tech donors with nation’s highest science prizes",
-    "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-    "image_url": null,
-    "published_at": "2026-10-08T22:33:59.000Z"
-  },
-  {
-    "headline": "US plans livestream of execution by firing squad",
-    "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is schedule…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
-    "image_url": null,
-    "published_at": "2026-10-08T22:32:04.000Z"
-  },
-  {
-    "headline": "Anthropic launches free AI security scans for open-source projects",
-    "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-    "image_url": null,
-    "published_at": "2026-10-08T21:53:51.000Z"
-  },
-  {
-    "headline": "SpaceX announces plan to become a ‘major mobile carrier’",
-    "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mob…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-    "image_url": null,
-    "published_at": "2026-10-08T21:23:31.000Z"
-  },
-  {
-    "headline": "AMD will bring FSR 4 to handhelds by the end of 2026",
-    "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds by the en…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
-    "image_url": null,
-    "published_at": "2026-10-08T21:01:18.000Z"
-  },
-  {
-    "headline": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "image_url": null,
-    "published_at": "2026-10-08T21:00:00.000Z"
   }
 ]

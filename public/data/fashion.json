@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/shuting-qiu",
     "image_url": null,
-    "published_at": "2026-10-15T10:20:06.000Z"
+    "published_at": "2026-10-15T15:20:13.000Z"
   },
   {
     "headline": "Danielle Frankel Spring 2027 Ready-to-Wear",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/danielle-frankel",
     "image_url": null,
-    "published_at": "2026-10-15T10:20:06.000Z"
+    "published_at": "2026-10-15T15:20:13.000Z"
   },
   {
     "headline": "Jacques Wei Shanghai Spring 2027",
@@ -21,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/jacques-wei",
     "image_url": null,
-    "published_at": "2026-10-15T10:20:06.000Z"
+    "published_at": "2026-10-15T15:20:13.000Z"
   },
   {
     "headline": "Samuel Guì Yang Shanghai Spring 2027",
@@ -29,7 +29,159 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/samuel-gui-yang",
     "image_url": null,
-    "published_at": "2026-10-15T10:20:06.000Z"
+    "published_at": "2026-10-15T15:20:13.000Z"
+  },
+  {
+    "headline": "Bottega Veneta Took Over the Guggenheim for Taryn Simon’s Big Night",
+    "summary": "Bottega Veneta gathered friends of the house at the Guggenheim to experience Father Country I Do Love You, multidisciplinary artist Taryn Simon’s monumental, decade-long undertaking, presented against the backdrop of the nation’s 250th birthday.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/bottega-veneta-guggenheim-dinner-taryn-simons-exhibition",
+    "image_url": null,
+    "published_at": "2026-10-15T15:18:11.000Z"
+  },
+  {
+    "headline": "City Hikes and Day Trips to the DMZ—Eric Ripert’s Guide to Seoul",
+    "summary": "The chef's his latest cookbook, 'Mindful Cooking' takes readers to Seoul. Here he shares his favorite spots in the city.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/eric-riperts-guide-to-seoul",
+    "image_url": null,
+    "published_at": "2026-10-15T15:18:05.000Z"
+  },
+  {
+    "headline": "The Bride Wore Vintage ’60s Christian Dior, Danielle Frankel, and Emilia Wickstead for Her Palm Beach Wedding Weekend",
+    "summary": "Alexa Fama married George Robinson in a romantic ceremony in Palm Beach that celebrated their serendipitous love story.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/alexa-fama-and-george-robinson-wedding",
+    "image_url": null,
+    "published_at": "2026-10-15T15:07:01.000Z"
+  },
+  {
+    "headline": "Veronica Leoni Exits Calvin Klein After Four Seasons",
+    "summary": "The Italian-born designer led the return of Calvin Klein Collection to New York Fashion Week. A successor has not yet been named.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/veronica-leoni-exits-calvin-klein-after-four-seasons",
+    "image_url": null,
+    "published_at": "2026-10-15T15:04:30.000Z"
+  },
+  {
+    "headline": "What Credit Card Data Reveals About the Cautious Holiday Shopper",
+    "summary": "Real-time transaction data highlights a growing squeeze on middle-tier retail brands—and how Levi Strauss recovered just in time for the holiday rush.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/what-credit-card-data-reveals-about-the-cautious-shoppers-1239347564/",
+    "image_url": null,
+    "published_at": "2026-10-15T15:00:00.000Z"
+  },
+  {
+    "headline": "Veronica Leoni Out at Calvin Klein Collection",
+    "summary": "Speculation had been swirling the last few months that Leoni's contract may not be renewed.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/designer-luxury/calvin-klein-collection-veronica-leoni-end-collaboration-1239350691/",
+    "image_url": null,
+    "published_at": "2026-10-15T15:00:00.000Z"
+  },
+  {
+    "headline": "What to Snag (And What to Skip) From Ganni x Lululemon’s Latest Linkup",
+    "summary": "Styles are selling like hot cakes, but not all of them are worth taking out your credit card for.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/shop/shop-fashion/ganni-lululemon-styles-still-in-stock-buy-online-2026-1239350619/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:51:19.000Z"
+  },
+  {
+    "headline": "Selena Gomez Shimmers in Custom Ruby-Red Prada and Diamonds at Fourth Annual Rare Impact Fund Benefit",
+    "summary": "The Rare Beauty founder told WWD on the red carpet why the event and foundation \"means the world\" to her.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/selena-gomez-prada-red-dress-rare-impact-fund-benefit-1239350643/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:33:03.000Z"
+  },
+  {
+    "headline": "Meghan Markle Revisits Her Royal-Era Monochrome Style for First Joint U.K. Outing With Prince Harry Since Their Return to England",
+    "summary": "The Duchess of Sussex wore British labels in Nottingham, where the couple made their first royal joint appearance in 2017.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/meghan-markle-nottingham-visit-royal-era-monochrome-style-1239350597/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:31:13.000Z"
+  },
+  {
+    "headline": "Op-Ed: US-Canada Trade Tensions Put Importers’ Costs and Compliance Under Pressure",
+    "summary": "Importers moving goods between the United States and Canada are facing renewed uncertainty as escalating trade tensions reshape the costs and requirements of cross-border commerce.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/trade/op-ed-us-canada-trade-tensions-importers-costs-compliance-quickcode-ai-1239348123/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:30:00.000Z"
+  },
+  {
+    "headline": "Fauré Le Page’s Saint-Honoré Flagship Is All About Larger-Than-Life Features",
+    "summary": "With its 5,400-square-foot, three-level townhouse, the family-owned brand joins a lineup of French coated-canvas specialists on the tony shopping street.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/faure-le-page-paris-saint-honore-flagship-1239350527/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:27:45.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: The Latest MCM Collaboration Is a Real Hat Trick",
+    "summary": "The all-German trifecta collaboration involves Adidas and the FC Bayern Women’s soccer team and launches Oct. 22.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/accessories-news/leather-goods/mcm-adidas-collaboration-fc-bayern-1239342382/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:17:09.000Z"
+  },
+  {
+    "headline": "The Glance App is Integrated With PayPal, Making Shopping Smoother",
+    "summary": "This allows shoppers to discover and visualize products and build a cart while also completing their purchase.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/glance-is-integrated-with-paypal-making-shopping-smoother-1239350781/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:06:23.000Z"
+  },
+  {
+    "headline": "American Circular Textiles Updates SB 707 Tracker",
+    "summary": "American Circular Textiles’ latest briefing tracks the rollout of California’s textile recovery law, from producer registration to regulatory workshops.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/american-circular-textiles-sb-707-tracker-update-1239346549/",
+    "image_url": null,
+    "published_at": "2026-10-15T14:00:00.000Z"
+  },
+  {
+    "headline": "Meghan Markle Makes Her First UK Public Outing—With a Down-to-Earth New Look",
+    "summary": "Meghan Markle’s latest “official” engagement look is a far cry from her 2017 debut. This afternoon, the Duchess arrived in Nottingham wearing a burgundy double-face cashmere coat and matching knit from Joseph with Jennifer Chamandi heels.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/meghan-markle-first-uk-public-appearance-new-look",
+    "image_url": null,
+    "published_at": "2026-10-15T13:35:30.000Z"
+  },
+  {
+    "headline": "Two Prada Gowns, One Big Cause: Inside Selena Gomez’s Rare Impact Fund Benefit",
+    "summary": "The fourth annual Rare Impact Fund Benefit included the presentation of the inaugural Katherine Short Legacy Award, named for the late daughter of Gomez's Only Murders in the Building costar, Martin Short.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/selena-gomez-rare-impact-fund-benefit",
+    "image_url": null,
+    "published_at": "2026-10-15T13:34:30.000Z"
+  },
+  {
+    "headline": "The Most Saved Images of the Spring 2027 Season",
+    "summary": "Our top 20 most saved images of the season.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/the-most-saved-images-of-the-spring-2027-season",
+    "image_url": null,
+    "published_at": "2026-10-15T13:31:41.000Z"
+  },
+  {
+    "headline": "Cher Talks Being a Style Icon (”It’s Fabulous!”) and Remembers Bob Mackie",
+    "summary": "The enduring icon—who stars in a new Moncler campaign—talks with Vogue about her best red-carpet hits, what’s in her winter wardrobe, and if new music is on the way.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/cher-moncler-campaign-interview-10-14-2026",
+    "image_url": null,
+    "published_at": "2026-10-15T13:00:00.000Z"
+  },
+  {
+    "headline": "The Minnesota Mavericks Women’s Soccer Team Is Bonding Over Hair",
+    "summary": "Mavericks soccer player Ella Huettl has created some of the most viral hairstyles for her teammates. Here, Vogue speaks with Huettl, her teammates, and coaches to talk about the fun styles and the power that hairstyling has on their game.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/ella-huettl-minnesota-mavericks-soccer-viral-hair",
+    "image_url": null,
+    "published_at": "2026-10-15T12:00:00.000Z"
   },
   {
     "headline": "Xu Zhi Shanghai Spring 2027",
@@ -1446,157 +1598,5 @@
     "url": "https://www.vogue.com/article/our-legacy-ceo-talks-betting-on-china-and-its-biggest-store-yet",
     "image_url": null,
     "published_at": "2026-10-11T07:00:00.000Z"
-  },
-  {
-    "headline": "From Princess Diana to Kate Moss, Being a Cool Mom Has Never Been About Perfection",
-    "summary": "In her new book, Terry Newman explores how some of fashion's most recognizable women maintained their individuality, ambition and personal style through motherhood.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/culture-news/cool-mothers-book-kate-moss-princess-diana-style-1239334141/",
-    "image_url": null,
-    "published_at": "2026-10-11T06:30:00.000Z"
-  },
-  {
-    "headline": "Macy’s Is Selling a $60 Hermès Gift Set That Includes Four Luxury ‘Objets’ Inside the Iconic Orange Box",
-    "summary": "This Hermès Fragrance Miniatures Gift Set arrives just in time for the holidays.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-beauty/macys-hermes-perfume-fragrance-gift-set-collection-2026-buy-1239298354/",
-    "image_url": null,
-    "published_at": "2026-10-11T00:03:00.000Z"
-  },
-  {
-    "headline": "Le Creuset Cookware Gets Rare 40% Markdown at Macy’s Ahead of Holiday Entertaining Season",
-    "summary": "Each Le Creuset piece is still hand-crafted and hand-finished in its original foundry in France.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-home/le-creuset-macys-cookware-cast-iron-dutch-oven-sale-2026-1239341956/",
-    "image_url": null,
-    "published_at": "2026-10-10T23:11:35.000Z"
-  },
-  {
-    "headline": "Florence Pugh and Finn Cole Go Red Carpet Official",
-    "summary": "Supporting Cole at the London premiere of ‘In the Shadows,’ Florence Pugh made a compelling case for a softly, softly approach to complementary couple style.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/florence-pugh-and-finn-cole-go-red-carpet-official",
-    "image_url": null,
-    "published_at": "2026-10-10T22:09:29.000Z"
-  },
-  {
-    "headline": "Forget Ferrari Red: Kim Kardashian Pulls up to the Paddock in Pastel Pink",
-    "summary": "Supporting Lewis Hamilton at the Singapore Grand Prix, Kim Kardashian opted for a look that brought together body-conscious dressing and a sporty sensibility.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/kim-kardashian-pulls-up-to-the-paddock-in-pastel-pink",
-    "image_url": null,
-    "published_at": "2026-10-10T21:44:04.000Z"
-  },
-  {
-    "headline": "A Major Haircut and Movie Star Inspo: Inside Amal Clooney’s Glam at the 2026 Albies",
-    "summary": "With a fresh, layered haircut and shimmering golden makeup Amal Clooney brought a modern twist to Old Hollywood beauty at the fifth annual Albies.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/amal-clooney-glam-2026-albies-london",
-    "image_url": null,
-    "published_at": "2026-10-10T21:24:20.000Z"
-  },
-  {
-    "headline": "Mckenna Grace Struts Through NYC in Miu Miu Platform Sandals",
-    "summary": "The actress was seen out and about in New York City this Thursday sporting a chic, semi-casual look.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/mckenna-grace-miu-miu-platform-leather-sandals-nyc-1239341919/",
-    "image_url": null,
-    "published_at": "2026-10-10T21:09:26.000Z"
-  },
-  {
-    "headline": "Vivian Wilson Wants to Play a Villain, but First She’s Having Fun With Fashion",
-    "summary": "At Awe Inspired's Los Angeles celebration, the model talked about her increasingly daring personal style, why Medusa gets a bad rap and what she'd like to do next.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/vivian-wilson-awe-inspired-fashion-interview-1239341815/",
-    "image_url": null,
-    "published_at": "2026-10-10T19:29:57.000Z"
-  },
-  {
-    "headline": "Scarlett Johansson Sports Strappy Manolo Blahnik Sandals During ‘Ray Gun’ Premiere",
-    "summary": "Appearing alongside co-star Sam Rockwell at the BFI Film Festival, the actress appeared to wear bright red Manolo Blahnik sandals.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/scarlett-johansson-bfi-film-fest-manolo-blahnik-sandals-1239341805/",
-    "image_url": null,
-    "published_at": "2026-10-10T19:19:31.000Z"
-  },
-  {
-    "headline": "Emily Ratajkowski Gives the Naked Dress a Floral, Sequined Twist in Gucci at the 2026 Albies",
-    "summary": "The model attended the London gala with boyfriend Romain Gavras, wearing a sheer, long-sleeved gown with strategically paced embellishments and a small train.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/emily-ratajkowski-sheer-gucci-dress-2026-albies-1239341785/",
-    "image_url": null,
-    "published_at": "2026-10-10T18:15:11.000Z"
-  },
-  {
-    "headline": "Giulia Be and Conor Kennedy Are Married! See Her Wedding Dresses by Calvin Klein and Harris Reed",
-    "summary": "Ahead of her wedding to Conor Kennedy in Rio de Janeiro this weekend, the Brazilian singer-songwriter shared her final fittings at Calvin Klein’s New York atelier and with Harris Reed in London with Vogue. At Calvin Klein, her ’90s-inspired slip dress and sheer opera-length gloves recalled the elegant minimalism of Car…",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/giulia-be-conor-kennedy-married-wedding-dress-final-fitting-calvin-klein-harris-reed",
-    "image_url": null,
-    "published_at": "2026-10-10T18:00:00.000Z"
-  },
-  {
-    "headline": "Laura Dern Shimmers in Heart-Shaped Embellished Stella McCartney Look for 2026 Albie Awards",
-    "summary": "The actress opted for a mineral-dotted bodice from Stella McCartney’s fall 2026 ready-to-wear collection.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/laura-dern-stella-mccartney-outfit-2026-albie-awards-1239341772/",
-    "image_url": null,
-    "published_at": "2026-10-10T17:33:18.000Z"
-  },
-  {
-    "headline": "Ines De Ramon Hops on Sheer Gown Trend on 2026 Albies Red Carpet",
-    "summary": "Ines De Ramon wore a sage green sheer gown alongside boyfriend Brad Pitt at Friday’s Albie Awards Ceremony in London.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/ines-de-ramon-sheer-dress-brad-pitt-2026-albies-1239341757/",
-    "image_url": null,
-    "published_at": "2026-10-10T15:53:28.000Z"
-  },
-  {
-    "headline": "On Her Triumphant New Album, Remi Wolf Gets Down in the Mud",
-    "summary": "After a grueling tour, a breakup, and reembracing sobriety, the singer-songwriter decamped to Big Bear and Joshua Tree to craft “Mud,” her most mature, liberating record to date.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/remi-wolf-mud-interview",
-    "image_url": null,
-    "published_at": "2026-10-10T14:59:35.000Z"
-  },
-  {
-    "headline": "Nordstrom Offers Rare Chance to Shop Out-of-Stock Reformation x Alexa Chung Pieces Online",
-    "summary": "The label's much-anticipated collaboration with the quintessential It-girl might be almost sold out, but we found a clever hack for getting the styles still on your wishlist.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/shop/shop-fashion/reformation-alexa-chung-collection-in-stock-pieces-buy-now-1239336422/",
-    "image_url": null,
-    "published_at": "2026-10-10T14:43:40.000Z"
-  },
-  {
-    "headline": "15 Retinol-Rich Foods to Stimulate Collagen and Your Immune System",
-    "summary": "A doctor weighs in on everything you need to know about the trendy “retinol” diet.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/retinol-rich-foods",
-    "image_url": null,
-    "published_at": "2026-10-10T12:30:00.000Z"
-  },
-  {
-    "headline": "9 Unreleased Air Jordans That Nike Should Actually Release",
-    "summary": "There's recently been a lot of talk about releasing fewer Air Jordans, but which unreleased pairs should actually come out?",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/unreleased-air-jordans-nike-should-release-1239313503/",
-    "image_url": null,
-    "published_at": "2026-10-10T12:00:00.000Z"
-  },
-  {
-    "headline": "7 Fall Decor Trends Worth the Investment, According to Interior Designers",
-    "summary": "As temperatures continue to drop, transform your space by shopping our favorite fall home decor essentials—here, interior designers share the trends to know.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/fall-home-decor-trends-2026",
-    "image_url": null,
-    "published_at": "2026-10-10T10:00:00.000Z"
-  },
-  {
-    "headline": "Beauty Marks: The Best Beauty Looks of the Week",
-    "summary": "From razor-sharp eyeliner to romantic curls and soft-focus skin, this week’s best beauty looks found a sweet spot between pretty and punchy.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-october-10",
-    "image_url": null,
-    "published_at": "2026-10-10T08:00:00.000Z"
   }
 ]
