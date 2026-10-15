@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Ah, the Many Smells of Frieze London",
+    "summary": "Among them champagne, new money, and an artist’s custom-scented bathroom installations.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
+    "image_url": null,
+    "published_at": "2026-10-15T19:08:04.000Z"
+  },
+  {
+    "headline": "Valerio Adami’s Hot and Cold Art",
+    "summary": "His syncretic style melds Pop Art’s cool, outlined forms with expressionism’s figural distortions, resulting in a perturbing ambiguity.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/valerio-adamis-hot-and-cold-art/",
+    "image_url": null,
+    "published_at": "2026-10-15T18:31:38.000Z"
+  },
+  {
+    "headline": "Rembrandt’s Ancient Obsessions Are Made Anew in Upcoming Met Exhibition",
+    "summary": "Co-organized with the Louvre, \"Rembrandt and the Ancients\" opens at the Metropolitan Museum of Art in November 2027 and will travel to Paris in 2028.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/rembrandts-ancient-obsessions-are-made-anew-in-upcoming-met-exhibition/",
+    "image_url": null,
+    "published_at": "2026-10-15T18:29:12.000Z"
+  },
+  {
+    "headline": "A Landmark Survey of Native Graphic Arts Defies Expectations",
+    "summary": "The boundaries between craft, graphic arts, and sculpture collapse in “Designed to Be Red,” now on view at New York’s Poster House through next February.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/market/a-landmark-survey-of-native-graphic-arts-defies-expectations-1234802351/",
+    "image_url": null,
+    "published_at": "2026-10-15T17:54:13.000Z"
+  },
+  {
+    "headline": "Previously Unknown Canaletto Drawing Heads to Auction After Centuries in Private Hands",
+    "summary": "A newly authenticated drawing by the Venetian master, depicting an imaginary architectural ruin, will go under the hammer in England on October 21.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/market/canaletto-drawing-discovered-mallams-auction-1234802470/",
+    "image_url": null,
+    "published_at": "2026-10-15T17:46:28.000Z"
+  },
+  {
+    "headline": "Memorial Reflecting Pool Renovation Botched Beyond Previously Reported",
+    "summary": "A report obtained by The Washington Post detailed problems and made no mention of vandalism.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/reflecting-pool-repair-work-failure-report-1234802473/",
+    "image_url": null,
+    "published_at": "2026-10-15T16:14:14.000Z"
+  },
+  {
+    "headline": "French Collector François Pinault Plans Permanent Hang in Venice Museum",
+    "summary": "The 90-year-old collector is planning a first permanent exhibition of 106 artworks by 54 artists at the Palazzo Grassi in Venice, opening in March 2027.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/french-collector-francois-pinault-plans-permanent-hang-venice-museum-1234802468/",
+    "image_url": null,
+    "published_at": "2026-10-15T15:58:25.000Z"
+  },
+  {
+    "headline": "Tate Scoops Up Works by Michaela Yearwood-Dan, Luis Fernando Zapata at Frieze London",
+    "summary": "Neither artist was previously represented in the museum network's collection.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/tate-buys-works-frieze-london-michaela-yearwood-dan-1234802454/",
+    "image_url": null,
+    "published_at": "2026-10-15T15:44:41.000Z"
+  },
+  {
     "headline": "Jazmine Hayes Charts Community Displacement, Resilience in Brownsville Art Commission",
     "summary": "“I genuinely want any child that walks through this door to be and feel protected,” the East New York-raised artist told Hyperallergic.",
     "publisher": "Hyperallergic",
@@ -1534,69 +1598,5 @@
     "url": "https://hyperallergic.com/queer-artists-say-tom-of-finland-foundation-has-lost-its-way/",
     "image_url": null,
     "published_at": "2026-10-02T19:40:54.000Z"
-  },
-  {
-    "headline": "British Museum Refunds Bayeux Tapestry Visitors After Closing Early for Reception Attended by Princess Anne",
-    "summary": "The museum threw a gala dinner with its long-term corporate sponsor Samsung to celebrate the “Korea” exhibition that opened on Thursday.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/british-museum-refunds-bayeux-tapestry-visitors-gala-dinner-1234800328/",
-    "image_url": null,
-    "published_at": "2026-10-02T19:00:55.000Z"
-  },
-  {
-    "headline": "Ingrid Wiener, Viennese Actionist Artist and Collaborator of Valie Export and Dieter Roth, Dies at 83",
-    "summary": "Wiener shaped the Austrian art scene with her combined textile, photography, painting, and collage works, as well as through notable collaborations with the likes of Valie Export and Dieter Roth.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/ingrid-wiener-viennese-actionism-artist-obituary-1234800325/",
-    "image_url": null,
-    "published_at": "2026-10-02T18:53:23.000Z"
-  },
-  {
-    "headline": "Lucas Museum Will Erect Permanent Fences Around its Plaza, Undercutting its Rhetoric of Accessibility",
-    "summary": "The museum devoted to the “people’s art” has decided that only so many may enter its plaza at any one time.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/lucas-museum-narrative-art-permanent-fences-plaza-1234800338/",
-    "image_url": null,
-    "published_at": "2026-10-02T18:33:12.000Z"
-  },
-  {
-    "headline": "Insufficient Public Funding Identified as Biggest Threat to Global Heritage Sites, New World Monuments Fund Study Finds",
-    "summary": "It continues to surpass climate hazards and expertise gaps.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/insufficient-public-funding-is-biggest-threat-to-global-heritage-sites-world-monuments-fund-study-1234800318/",
-    "image_url": null,
-    "published_at": "2026-10-02T18:29:19.000Z"
-  },
-  {
-    "headline": "Mala Iqbal Paints the Space We Share With Strangers",
-    "summary": "Her new paintings remind us that the world is a room we share with strangers, most of whom are looking elsewhere.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/mala-iqbal-paints-the-space-we-share-with-strangers/",
-    "image_url": null,
-    "published_at": "2026-10-02T18:25:11.000Z"
-  },
-  {
-    "headline": "British Museum to Provide Bayeux Tapestry Audio Tour After Lawsuit",
-    "summary": "Yusuf Ali Osman, a man with no sight, filed a suit against the museum under the UK's anti-discrimination Equality Act.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/british-museum-to-provide-bayeux-tapestry-audio-tour-after-lawsuit/",
-    "image_url": null,
-    "published_at": "2026-10-02T18:02:59.000Z"
-  },
-  {
-    "headline": "As New York City Doubles Grants for Individual Artists to $10,000, Cultural Affairs Commissioner Diya Vij Discusses Vision for City Agency",
-    "summary": "In an interview, Vij discusses her vision for the Department of Cultural Affairs and funding initiatives for nonprofits and individual artists.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/new-york-city-artist-grants-increase-diya-vij-interview-1234800342/",
-    "image_url": null,
-    "published_at": "2026-10-02T18:00:00.000Z"
-  },
-  {
-    "headline": "Francis Lee Rogers, Painter and Avid Birdwatcher, Found Dead in Central Park",
-    "summary": "The 63-year-old artist, who was unhoused, was known as the “Grandma Moses of Central Park” for her various depictions of its fauna and flora.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/francis-lee-rogers-painter-and-avid-birdwatcher-found-dead-in-central-park/",
-    "image_url": null,
-    "published_at": "2026-10-02T17:18:59.000Z"
   }
 ]

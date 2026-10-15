@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+    "summary": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
+    "image_url": null,
+    "published_at": "2026-10-15T16:45:02.000Z"
+  },
+  {
     "headline": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
     "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable…",
     "publisher": "ScienceDaily",
@@ -422,6 +430,14 @@
     "url": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
     "image_url": null,
     "published_at": "2026-10-11T15:08:28.000Z"
+  },
+  {
+    "headline": "A 24-hour livestream lets you watch adorable newborn cheetah cubs at the National Zoo",
+    "summary": "If you're looking for an (adorable!) break from the news, we have a furry suggestion: The Smithsonian's cheetah cam, showing five cheetah cubs bonding with their mother.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/11/nx-s1-5997459/a-24-hour-livestream-lets-you-watch-adorable-newborn-cheetah-cubs-at-the-national-zoo",
+    "image_url": null,
+    "published_at": "2026-10-11T12:15:52.000Z"
   },
   {
     "headline": "The eye has a hidden cleanup system scientists never knew existed",
@@ -1582,21 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260927225022.htm",
     "image_url": null,
     "published_at": "2026-09-29T12:36:52.000Z"
-  },
-  {
-    "headline": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
-    "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communication, and computing.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
-    "image_url": null,
-    "published_at": "2026-09-29T12:02:30.000Z"
-  },
-  {
-    "headline": "This 245-million-year-old fossil still has its stomach and intestines",
-    "summary": "A 245-million-year-old marine reptile fossil preserves an astonishing amount of detail, including its stomach, liver, and intestines. The discovery reveals that Austronaga minuta was highly adapted for swimming even though its digestive system remained surprisingly simple.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
-    "image_url": null,
-    "published_at": "2026-09-29T11:39:27.000Z"
   }
 ]
