@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+    "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+    "image_url": null,
+    "published_at": "2026-10-15T10:05:58.000Z"
+  },
+  {
+    "headline": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+    "summary": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+    "image_url": null,
+    "published_at": "2026-10-15T10:00:00.000Z"
+  },
+  {
+    "headline": "Ukraine says its Starshield access is back",
+    "summary": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+    "image_url": null,
+    "published_at": "2026-10-15T08:46:09.000Z"
+  },
+  {
+    "headline": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
+    "summary": "NPR's Michel Martin speaks with Democratic Rep. Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country's war efforts.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted",
+    "image_url": null,
+    "published_at": "2026-10-15T08:46:05.000Z"
+  },
+  {
+    "headline": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+    "summary": "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+    "image_url": null,
+    "published_at": "2026-10-15T08:22:07.000Z"
+  },
+  {
     "headline": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
     "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
     "image_url": null,
     "published_at": "2026-09-18T16:07:51.000Z"
-  },
-  {
-    "headline": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
-    "summary": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
-    "image_url": null,
-    "published_at": "2026-09-18T11:09:24.000Z"
-  },
-  {
-    "headline": "Ms. Rachel has entered her album era, and she is so happy about it",
-    "summary": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
-    "image_url": null,
-    "published_at": "2026-09-18T11:00:00.000Z"
-  },
-  {
-    "headline": "South Africa 'feels like a prison' for women amid spate of femicides",
-    "summary": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
-    "image_url": null,
-    "published_at": "2026-09-18T10:39:14.000Z"
-  },
-  {
-    "headline": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
-    "summary": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\"",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
-    "image_url": null,
-    "published_at": "2026-09-18T08:44:08.000Z"
-  },
-  {
-    "headline": "What to know after a week of Houthi attacks that threaten Saudi oil",
-    "summary": "The Houthis' biggest land grab in years reignited Yemen's 12-year civil war and pushed up global fuel prices, extending their reach to a key maritime chokepoint and threatening Saudi Arabia's oil exports.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
-    "image_url": null,
-    "published_at": "2026-09-18T08:02:41.000Z"
   }
 ]
