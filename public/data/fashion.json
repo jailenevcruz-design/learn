@@ -1,11 +1,19 @@
 [
   {
+    "headline": "Danielle Frankel Spring 2027 Ready-to-Wear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/danielle-frankel",
+    "image_url": null,
+    "published_at": "2026-10-15T00:55:28.000Z"
+  },
+  {
     "headline": "Jacques Wei Shanghai Spring 2027",
     "summary": "",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/jacques-wei",
     "image_url": null,
-    "published_at": "2026-10-14T19:40:15.000Z"
+    "published_at": "2026-10-15T00:55:28.000Z"
   },
   {
     "headline": "Samuel Guì Yang Shanghai Spring 2027",
@@ -13,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/samuel-gui-yang",
     "image_url": null,
-    "published_at": "2026-10-14T19:40:15.000Z"
+    "published_at": "2026-10-15T00:55:28.000Z"
   },
   {
     "headline": "Xu Zhi Shanghai Spring 2027",
@@ -21,7 +29,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/xu-zhi",
     "image_url": null,
-    "published_at": "2026-10-14T19:40:15.000Z"
+    "published_at": "2026-10-15T00:55:28.000Z"
   },
   {
     "headline": "Shao Shanghai Spring 2027",
@@ -29,7 +37,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/shao",
     "image_url": null,
-    "published_at": "2026-10-14T19:40:15.000Z"
+    "published_at": "2026-10-15T00:55:28.000Z"
   },
   {
     "headline": "Ao Yes Shanghai Spring 2027",
@@ -37,11 +45,107 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/ao-yes",
     "image_url": null,
-    "published_at": "2026-10-14T19:40:15.000Z"
+    "published_at": "2026-10-15T00:55:28.000Z"
+  },
+  {
+    "headline": "Céline Dion’s Chanel Look Nods to Her 1997 Oscars Dress—and Took 1,380 Hours to Make",
+    "summary": "The star wore a custom Chanel gown that nodded back to her glitzy red-carpet look at the 1997 Oscars.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/celine-dion-chanel-tour-look-1997-oscars-10-14-2026",
+    "image_url": null,
+    "published_at": "2026-10-15T00:05:00.000Z"
+  },
+  {
+    "headline": "How “Skillcations” Became One of the Year’s Biggest Travel Trends",
+    "summary": "Here’s why there’s a boom in travelers taking vacations specifically to learn a new skill or hobby—and some of the best places to do it.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/skillcations-travel-trend",
+    "image_url": null,
+    "published_at": "2026-10-14T23:08:48.000Z"
+  },
+  {
+    "headline": "We’re Buying These 7 Retro-Inspired Running Shoes With Modern Performance Features for Fall",
+    "summary": "Style is just as important as comfort when it comes to running shoes. With these throwback sneakers — from '70s classics to Y2K favorites — you can finally have both.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/shop/shop-shoes/best-retro-inspired-running-shoes-sneakers-buy-online-1239336535/",
+    "image_url": null,
+    "published_at": "2026-10-14T22:42:06.000Z"
+  },
+  {
+    "headline": "Bloomingdale’s CEO Olivier Bron on What Makes the Retailer Tick",
+    "summary": "The upscale department store transcends the retail sector with robust sales gains and a growing assortment of premium contemporary and luxury brands.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/bloomingdales-ceo-olivier-bron-strategy-1239347417/",
+    "image_url": null,
+    "published_at": "2026-10-14T21:38:30.000Z"
+  },
+  {
+    "headline": "Icon C.Z. Guest’s Style Lands at SCAD Fash in Atlanta",
+    "summary": "The exhibition includes more than 40 complete outfits, the lion's share of which were donated by her daughter Cornelia.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-features/c-z-guest-exhibition-scad-1239345926/",
+    "image_url": null,
+    "published_at": "2026-10-14T21:02:15.000Z"
+  },
+  {
+    "headline": "Global Diesel Shortages Could Last Into 2027. Bain Has a Playbook for Shippers",
+    "summary": "Bain's Jim Horrigan details four strategies, from controlling fuel surcharges to shifting freight to rail, as shippers confront record diesel prices.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/logistics/diesel-fuel-costs-prices-shortages-2027-surcharges-trucking-intermodal-bain-1239347871/",
+    "image_url": null,
+    "published_at": "2026-10-14T20:52:15.000Z"
+  },
+  {
+    "headline": "Barneys New York to Get New Life in Amazon Prime Video Series",
+    "summary": "The \"Bella From Barneys\" show will be based in a fictitious Beverly Hills store.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/barneys-new-york-amazon-prime-video-series-bella-from-barneys-1239347656/",
+    "image_url": null,
+    "published_at": "2026-10-14T20:51:14.000Z"
+  },
+  {
+    "headline": "H Mart’s First Cookbook Is a Love Letter to Korean American Food",
+    "summary": "“Food means a lot to Korean people,” says H Mart president Stacey Kwon. “So this is more than just a cookbook—it’s an expression of love.”",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/h-mart-cookbook-interview",
+    "image_url": null,
+    "published_at": "2026-10-14T20:40:32.000Z"
+  },
+  {
+    "headline": "Vans Is Now Selling Its Sneakers at Zara",
+    "summary": "Three versions of the Vans Authentic sneaker are featured on the retailer's e-commerce platforms.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/vans-zara-retail-partnership-details-authentic-sneakers-1239347869/",
+    "image_url": null,
+    "published_at": "2026-10-14T20:26:48.000Z"
+  },
+  {
+    "headline": "Vans Turnaround Has More Than a Few Green Shoots",
+    "summary": "Web and foot traffic data for Vans shows continued strong trends, particularly from male teens, while Timberland resonates with upper-income teens.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/vf-corp-vans-male-teens-timberland-upper-income-male-teens-1239346578/",
+    "image_url": null,
+    "published_at": "2026-10-14T19:58:42.000Z"
+  },
+  {
+    "headline": "Prices Continue to Inch Higher, Squeezing the Fashion Industry",
+    "summary": "Much higher gas prices stoked inflation, but apparel prices were also on the rise in September.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/fashion-industry-faces-inflation-pressure-2026-1239347782/",
+    "image_url": null,
+    "published_at": "2026-10-14T19:58:35.000Z"
+  },
+  {
+    "headline": "Timberland and Jacquemus Are Back Together on Two Croc Versions of the Lug Sole Boat Shoe",
+    "summary": "The silhouette is available in navy and brown colorways.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/timberland-jacquemus-croc-lug-sole-boat-shoes-release-date-1239347807/",
+    "image_url": null,
+    "published_at": "2026-10-14T19:54:19.000Z"
   },
   {
     "headline": "On Her Upcoming Third Album, Charlotte Cardin Is Ready to Take On the World",
-    "summary": "The Canadian musician has already conquered France and Canada—but with the ravishing ‘Midnight, Mon Amour,’ she’s ready for the rest of the world to take notice.",
+    "summary": "The Canadian musician has already conquered France and Canada—but with the ravishing ‘Midnight, Mon Amour,’ the rest of the world should be taking notice.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/charlotte-cardin-midnight-mon-amour-album-announcement-video",
     "image_url": null,
@@ -208,22 +312,6 @@
     "published_at": "2026-10-14T12:00:00.000Z"
   },
   {
-    "headline": "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
-    "summary": "With quaint balconies overlooking the sea and skyline, the best Airbnbs in Lisbon capture the magic of the city—book one before your next trip.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-airbnbs-in-lisbon",
-    "image_url": null,
-    "published_at": "2026-10-14T10:00:00.000Z"
-  },
-  {
-    "headline": "44 Wedding Shoes That Are Perfect for Your Walk Down the Aisle",
-    "summary": "Shop the best wedding shoes to say “I do” in, from high-heeled sandals to classic bridal pumps, slingbacks, elegant mules, and flats.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-wedding-shoes",
-    "image_url": null,
-    "published_at": "2026-10-14T10:00:00.000Z"
-  },
-  {
     "headline": "The Unexpected Joy of a Second Marathon",
     "summary": "On going the distance without carrying the weight.",
     "publisher": "Vogue",
@@ -232,10 +320,10 @@
     "published_at": "2026-10-14T10:00:00.000Z"
   },
   {
-    "headline": "It’s Not a Whitehead, It’s Milia—Here's How to Treat It",
-    "summary": "Milia isn’t harmful—but some people still want to get rid of it. Here’s what dermatologists suggest to prevent (and treat) the stubborn white bumps. No popping allowed!",
+    "headline": "The Best Airbnbs in Lisbon, From Stylish Designer Lofts to Charming Historical Apartments",
+    "summary": "With quaint balconies overlooking the sea and skyline, the best Airbnbs in Lisbon capture the magic of the city—book one before your next trip.",
     "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-to-treat-milia",
+    "url": "https://www.vogue.com/article/best-airbnbs-in-lisbon",
     "image_url": null,
     "published_at": "2026-10-14T10:00:00.000Z"
   },
@@ -252,6 +340,22 @@
     "summary": "At the spring 2027 shows, designers responded to the chaos of the current moment with mixed prints and wonky fits.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/the-top-trends-of-the-spring-2027-ready-to-wear-season",
+    "image_url": null,
+    "published_at": "2026-10-14T10:00:00.000Z"
+  },
+  {
+    "headline": "44 Wedding Shoes That Are Perfect for Your Walk Down the Aisle",
+    "summary": "Shop the best wedding shoes to say “I do” in, from high-heeled sandals to classic bridal pumps, slingbacks, elegant mules, and flats.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/best-wedding-shoes",
+    "image_url": null,
+    "published_at": "2026-10-14T10:00:00.000Z"
+  },
+  {
+    "headline": "It’s Not a Whitehead, It’s Milia—Here's How to Treat It",
+    "summary": "Milia isn’t harmful—but some people still want to get rid of it. Here’s what dermatologists suggest to prevent (and treat) the stubborn white bumps. No popping allowed!",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-to-treat-milia",
     "image_url": null,
     "published_at": "2026-10-14T10:00:00.000Z"
   },
@@ -1494,109 +1598,5 @@
     "url": "https://www.vogue.com/slideshow/argent-work-friends-dinner-ten-year-anniversary",
     "image_url": null,
     "published_at": "2026-10-09T17:39:45.000Z"
-  },
-  {
-    "headline": "6 Best Vitamin C Serums to Brighten and Firm Skin",
-    "summary": "The best vitamin C serums take advantage of the antioxidant to even out dark spots and boost collagen production in a single step. Shop our top picks.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/vitamin-c-serums",
-    "image_url": null,
-    "published_at": "2026-10-09T16:56:00.000Z"
-  },
-  {
-    "headline": "Derrick Spring 2027 Menswear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-menswear/derrick",
-    "image_url": null,
-    "published_at": "2026-10-09T16:38:26.000Z"
-  },
-  {
-    "headline": "WNBA MVP A’ja Wilson’s Biggest Fashion Moments of 2026, From the Pre-game Tunnel to the Met Gala",
-    "summary": "On Thursday, A'ja Wilson was awarded the WNBA's MVP award for the fifth time in her career.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/aja-wilson-wnba-mvp-style-shoes-1239335449/",
-    "image_url": null,
-    "published_at": "2026-10-09T16:36:10.000Z"
-  },
-  {
-    "headline": "Cheers to the Nominees! The CFDA Board of Directors Toasted to the 2026 Fashion Award Contenders",
-    "summary": "Michael Kors hosted the annual Board of Directors dinner on Thursday evening at Café Zaffri, joined by a whole host of industry figures and upcoming CFDA Fashion Award nominees.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/cfda-pre-fashion-awards-dinner-celebration",
-    "image_url": null,
-    "published_at": "2026-10-09T16:35:23.000Z"
-  },
-  {
-    "headline": "The Sneaker Resale Market Had a Sluggish September, But October Could Be More Promising",
-    "summary": "The October pipeline has 27 potential high-heat sneaker launches, which could bode well for the collectible resale market.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/october-pipeline-high-heat-sneaker-collectible-resale-1239335281/",
-    "image_url": null,
-    "published_at": "2026-10-09T16:34:20.000Z"
-  },
-  {
-    "headline": "Frasers Group Shuts Harvey Nichols in Dublin, Birmingham, Converts Others to Flannels Stores",
-    "summary": "Frasers Group is reorganizing the Harvey Nichols portfolio following its purchase of the loss-making retailer in August.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/frasers-shuts-harvey-nichols-dublin-birmingham-flannels-new-1239335593/",
-    "image_url": null,
-    "published_at": "2026-10-09T16:31:40.000Z"
-  },
-  {
-    "headline": "GreyOrange Acquires Site Bionics, the Digital Twin Platform",
-    "summary": "The acquisition gives merchants a single AI-driven view of what is happening in their stores.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/greyorange-acquires-site-bionics-1239333572/",
-    "image_url": null,
-    "published_at": "2026-10-09T16:30:00.000Z"
-  },
-  {
-    "headline": "Shanghai Scene: What’s New?",
-    "summary": "From Chanel’s blockbuster Le19M exhibition to a vintage retail revival, here are the must-visit hot spots during Shanghai Fashion Week.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/eye/lifestyle/shanghai-fashion-week-spring-2027-scene-shopping-restaurants-art-1239334937/",
-    "image_url": null,
-    "published_at": "2026-10-09T16:28:33.000Z"
-  },
-  {
-    "headline": "Shop Our Favorite Celebrity Looks of the Week",
-    "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-celebrity-outfits",
-    "image_url": null,
-    "published_at": "2026-10-09T16:27:23.000Z"
-  },
-  {
-    "headline": "GIA Opens a Campus in East London as Demand for  Gemology, Jewelry Education Surges",
-    "summary": "The Gemological Institute of America has opened a School of Gemology and Jewelry Arts in Canary Wharf, the financial and banking hub in east London.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/accessories-news/jewelry/gia-campus-east-london-demand-jewelry-education-surges-1239334993/",
-    "image_url": null,
-    "published_at": "2026-10-09T16:18:13.000Z"
-  },
-  {
-    "headline": "The Brocante-Style Market The Ticking Tent Is Hitting the Road",
-    "summary": "Driven by the success of its Bedford, N.Y., and Litchfield, Conn., markets, The Ticking Tent organizers are gearing up for its first on-tour edition, which will take place during home furnishings trade show High Point Fall Market Oct. 16 to 18.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/home-design/home-decor/the-ticking-tent-holiday-home-collaboration-expands-1239332960/",
-    "image_url": null,
-    "published_at": "2026-10-09T16:13:03.000Z"
-  },
-  {
-    "headline": "Heritage and Handbags: Storytelling Takes Center Stage for Contemporary Brands at Paris Fashion Week",
-    "summary": "Brands continue to expand their cultural positioning as the focus on accessories grows.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-features/paris-fashion-week-heritage-handbags-contemporary-brands-1239335074/",
-    "image_url": null,
-    "published_at": "2026-10-09T16:01:04.000Z"
-  },
-  {
-    "headline": "Where 60 Years of Master Craftsmanship Meets Modern Luxury Tech",
-    "summary": "How Adrian Jules is digitizing traditional bespoke tailoring to build a global, end-to-end infrastructure for private-label retailers and modern custom apparel.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/where-60-years-of-master-craftsmanship-meets-modern-luxury-1239333081/",
-    "image_url": null,
-    "published_at": "2026-10-09T16:00:00.000Z"
   }
 ]
