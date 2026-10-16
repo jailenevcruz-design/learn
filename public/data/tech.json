@@ -1,5 +1,165 @@
 [
   {
+    "headline": "India becomes the latest country to report rogue AI agent activity",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "image_url": null,
+    "published_at": "2026-10-16T17:52:24.000Z"
+  },
+  {
+    "headline": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, p…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "image_url": null,
+    "published_at": "2026-10-16T16:30:00.000Z"
+  },
+  {
+    "headline": "Waymo’s robotaxis are headed to Canada",
+    "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+    "image_url": null,
+    "published_at": "2026-10-16T16:06:38.000Z"
+  },
+  {
+    "headline": "The new Apple TV 4K just got its first (very small) discount",
+    "summary": "The new Apple TV 4K will be available in November. | Image: The Verge Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discou…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-16T16:02:22.000Z"
+  },
+  {
+    "headline": "Elorian’s first AI model wants to reason with images, not just about them",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "image_url": null,
+    "published_at": "2026-10-16T16:01:37.000Z"
+  },
+  {
+    "headline": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+    "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+    "image_url": null,
+    "published_at": "2026-10-16T16:00:00.000Z"
+  },
+  {
+    "headline": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+    "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+    "image_url": null,
+    "published_at": "2026-10-16T16:00:00.000Z"
+  },
+  {
+    "headline": "Apple&#8217;s HomeView has an app problem",
+    "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And yet the HomeView is relyin…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+    "image_url": null,
+    "published_at": "2026-10-16T15:38:17.000Z"
+  },
+  {
+    "headline": "Jev is Vercel’s fastest-adopted AI model ever",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "image_url": null,
+    "published_at": "2026-10-16T15:33:49.000Z"
+  },
+  {
+    "headline": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+    "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+    "image_url": null,
+    "published_at": "2026-10-16T15:08:38.000Z"
+  },
+  {
+    "headline": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+    "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its Play Store…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+    "image_url": null,
+    "published_at": "2026-10-16T15:02:23.000Z"
+  },
+  {
+    "headline": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this n…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "image_url": null,
+    "published_at": "2026-10-16T15:00:00.000Z"
+  },
+  {
+    "headline": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "image_url": null,
+    "published_at": "2026-10-16T14:26:51.000Z"
+  },
+  {
+    "headline": "The incredible flying Tesla Roadster is just for show",
+    "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+    "image_url": null,
+    "published_at": "2026-10-16T14:15:29.000Z"
+  },
+  {
+    "headline": "Meta’s new terms may allow it to train AI on news sites for free",
+    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, resear…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "image_url": null,
+    "published_at": "2026-10-16T14:02:40.000Z"
+  },
+  {
+    "headline": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "image_url": null,
+    "published_at": "2026-10-16T14:00:00.000Z"
+  },
+  {
+    "headline": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+    "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pairing a small stack of credit cards to your phone, but its storage capa…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+    "image_url": null,
+    "published_at": "2026-10-16T13:33:21.000Z"
+  },
+  {
+    "headline": "iPhone Duo orders are already delayed into 2027",
+    "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch in stores on October 23rd, and Apple ty…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+    "image_url": null,
+    "published_at": "2026-10-16T13:10:11.000Z"
+  },
+  {
+    "headline": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "image_url": null,
+    "published_at": "2026-10-16T12:55:09.000Z"
+  },
+  {
+    "headline": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+    "summary": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK support site, the Xperia 10 VI won't be…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+    "image_url": null,
+    "published_at": "2026-10-16T12:36:11.000Z"
+  },
+  {
     "headline": "Time is a-changin’: say goodbye to the leap second",
     "summary": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so tracked time standards…",
     "publisher": "The Verge",
@@ -1438,165 +1598,5 @@
     "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
     "image_url": null,
     "published_at": "2026-10-11T13:00:00.000Z"
-  },
-  {
-    "headline": "What to expect from Apple’s ‘Welcome Home’ event",
-    "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner devices from LG. What…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-    "image_url": null,
-    "published_at": "2026-10-11T13:00:00.000Z"
-  },
-  {
-    "headline": "Horror is big business",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Resident Evil has been around for 30 ye…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-    "image_url": null,
-    "published_at": "2026-10-11T12:00:00.000Z"
-  },
-  {
-    "headline": "Why the LeapPad couldn&#8217;t survive the iPad",
-    "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - and some unexpected parenting questions. On th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-    "image_url": null,
-    "published_at": "2026-10-11T12:00:00.000Z"
-  },
-  {
-    "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-    "image_url": null,
-    "published_at": "2026-10-11T11:00:00.000Z"
-  },
-  {
-    "headline": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He calls for building a mor…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "image_url": null,
-    "published_at": "2026-10-10T22:10:17.000Z"
-  },
-  {
-    "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "image_url": null,
-    "published_at": "2026-10-10T21:47:51.000Z"
-  },
-  {
-    "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "image_url": null,
-    "published_at": "2026-10-10T19:50:00.000Z"
-  },
-  {
-    "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\"…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "image_url": null,
-    "published_at": "2026-10-10T18:52:07.000Z"
-  },
-  {
-    "headline": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-    "image_url": null,
-    "published_at": "2026-10-10T17:00:00.000Z"
-  },
-  {
-    "headline": "Ledger wallet tampering suspected after reports of crypto thefts",
-    "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted u…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-    "image_url": null,
-    "published_at": "2026-10-10T16:36:44.000Z"
-  },
-  {
-    "headline": "Cloudflare acquires Deno to improve its Workers programming model",
-    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-    "image_url": null,
-    "published_at": "2026-10-10T16:25:42.000Z"
-  },
-  {
-    "headline": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "image_url": null,
-    "published_at": "2026-10-10T15:00:00.000Z"
-  },
-  {
-    "headline": "K-pop star Sunmi loves Notion and ear cleaning videos",
-    "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October 2009. In 2010 Sunmi left the group…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-    "image_url": null,
-    "published_at": "2026-10-10T15:00:00.000Z"
-  },
-  {
-    "headline": "Anthropic is cutting off its internal evaluations from the internet",
-    "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Alth…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "image_url": null,
-    "published_at": "2026-10-10T14:41:16.000Z"
-  },
-  {
-    "headline": "Here are the top AI agents that can live in your text messages",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "image_url": null,
-    "published_at": "2026-10-10T14:00:00.000Z"
-  },
-  {
-    "headline": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-    "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Br…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-    "image_url": null,
-    "published_at": "2026-10-10T14:00:00.000Z"
-  },
-  {
-    "headline": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-    "summary": "The LG’s picture is bright and punchy, but its panel is very reflective. When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - i…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-    "image_url": null,
-    "published_at": "2026-10-10T13:00:00.000Z"
-  },
-  {
-    "headline": "AI agent makers are promising privacy — will they deliver?",
-    "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. Yet Muse itse…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-    "image_url": null,
-    "published_at": "2026-10-10T13:00:00.000Z"
-  },
-  {
-    "headline": "The techlash has gone Hollywood",
-    "summary": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage.) I'm back from parental leave! Part time, anyway. Thanks to everyone who sent well wishes and tips fo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
-    "image_url": null,
-    "published_at": "2026-10-10T12:00:00.000Z"
-  },
-  {
-    "headline": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
-    "summary": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably different from everything else on the market right now. It has a nea…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-    "image_url": null,
-    "published_at": "2026-10-10T11:00:00.000Z"
   }
 ]
