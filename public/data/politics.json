@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Why some Gen Z voters who backed Trump now regret their decision",
+    "summary": "A focus group of eight Gen Z Trump voters reported feeling unhappy or disappointed with the state of politics, with some going as far as to say they regret supporting him in 2024.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
+    "image_url": null,
+    "published_at": "2026-10-16T09:00:00.000Z"
+  },
+  {
+    "headline": "Do Americans own the president's papers? Appeals court to weigh in",
+    "summary": "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
+    "image_url": null,
+    "published_at": "2026-10-16T09:00:00.000Z"
+  },
+  {
     "headline": "Suspicious mailings to election officials, congressional offices under investigation",
     "summary": "The FBI and U.S. Postal Inspection Service are looking into the mailings, some of which included an unidentified powdery white substance.",
     "publisher": "NPR",
@@ -32,18 +48,18 @@
     "published_at": "2026-10-15T11:06:21.000Z"
   },
   {
-    "headline": "These swing voters regret voting for Trump and it's influencing their midterm choices",
-    "summary": "Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
-    "image_url": null,
-    "published_at": "2026-10-15T09:00:00.000Z"
-  },
-  {
     "headline": "Trump cancels public execution, but a line may already have been crossed",
     "summary": "Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
+    "image_url": null,
+    "published_at": "2026-10-15T09:00:00.000Z"
+  },
+  {
+    "headline": "These swing voters regret voting for Trump and it's influencing their midterm choices",
+    "summary": "Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
     "image_url": null,
     "published_at": "2026-10-15T09:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/09/15/nx-s1-5968653/sen-bernie-sanders-says-congress-has-gotten-a-wake-up-call-on-ai-risks",
     "image_url": null,
     "published_at": "2026-09-15T10:42:15.000Z"
-  },
-  {
-    "headline": "Bernie Sanders and Steve Bannon call for curbs on AI",
-    "summary": "The rare pairing of a progressive leader and a MAGA voice is a sign of how worries over rapidly advancing AI are upending political alliances. But their policy proposals are far apart.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-    "image_url": null,
-    "published_at": "2026-09-15T09:00:00.000Z"
-  },
-  {
-    "headline": "A Trump-backed crypto bill just suffered a bruising defeat in the Senate. Here's why",
-    "summary": "The legislation was intended to establish rules of the road for the crypto sector for the first time. But it suffered a stinging defeat in the Senate on Tuesday.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
-    "image_url": null,
-    "published_at": "2026-09-15T09:00:00.000Z"
   }
 ]

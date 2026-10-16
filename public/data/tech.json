@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Time is a-changin’: say goodbye to the leap second",
+    "summary": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so tracked time standards…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+    "image_url": null,
+    "published_at": "2026-10-16T10:00:25.000Z"
+  },
+  {
+    "headline": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+    "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+    "image_url": null,
+    "published_at": "2026-10-16T05:16:46.000Z"
+  },
+  {
+    "headline": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+    "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+    "image_url": null,
+    "published_at": "2026-10-16T01:28:27.000Z"
+  },
+  {
+    "headline": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+    "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+    "image_url": null,
+    "published_at": "2026-10-16T01:17:43.000Z"
+  },
+  {
     "headline": "When it came to Cal AI’s viral success, a small army of influencers paid off",
     "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
     "publisher": "TechCrunch",
@@ -1566,37 +1598,5 @@
     "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
     "image_url": null,
     "published_at": "2026-10-10T11:00:00.000Z"
-  },
-  {
-    "headline": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
-    "summary": "Renata Reinsve (top center) and Sebastian Stan (top right) play religious Romanians living in Norway. | FLC Press Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
-    "image_url": null,
-    "published_at": "2026-10-10T11:00:00.000Z"
-  },
-  {
-    "headline": "My brief romance with an AI bird feeder",
-    "summary": "I miss my sweet tits. It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I chuckled, still w…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-    "image_url": null,
-    "published_at": "2026-10-10T07:00:00.000Z"
-  },
-  {
-    "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-    "image_url": null,
-    "published_at": "2026-10-10T03:10:06.000Z"
-  },
-  {
-    "headline": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "image_url": null,
-    "published_at": "2026-10-10T00:18:32.000Z"
   }
 ]
