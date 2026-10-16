@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Replit is no longer working with Anthropic, CEO says",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "image_url": null,
+    "published_at": "2026-10-16T21:22:28.000Z"
+  },
+  {
+    "headline": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+    "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+    "image_url": null,
+    "published_at": "2026-10-16T19:40:00.000Z"
+  },
+  {
+    "headline": "Why Apple is finally making its own smart home devices",
+    "summary": "Apple’s Home Collection, codeveloped with partners, is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Hom…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+    "image_url": null,
+    "published_at": "2026-10-16T18:30:27.000Z"
+  },
+  {
     "headline": "India becomes the latest country to report rogue AI agent activity",
     "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
     "publisher": "TechCrunch",
@@ -105,7 +129,7 @@
   },
   {
     "headline": "The incredible flying Tesla Roadster is just for show",
-    "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word…",
+    "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word i…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
     "image_url": null,
@@ -1574,29 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
     "image_url": null,
     "published_at": "2026-10-11T15:00:00.000Z"
-  },
-  {
-    "headline": "What to know about the landmark Warner Bros. Discovery sale",
-    "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-    "image_url": null,
-    "published_at": "2026-10-11T14:15:00.000Z"
-  },
-  {
-    "headline": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "image_url": null,
-    "published_at": "2026-10-11T14:00:00.000Z"
-  },
-  {
-    "headline": "Vurt wants you to look at vertical videos as a genre of their own",
-    "summary": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention, it has often felt li…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
-    "image_url": null,
-    "published_at": "2026-10-11T13:00:00.000Z"
   }
 ]

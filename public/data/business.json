@@ -1,19 +1,75 @@
 [
   {
+    "headline": "Katie Zacharia out as Trump's White House press secretary",
+    "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+    "image_url": null,
+    "published_at": "2026-10-16T21:26:15.000Z"
+  },
+  {
+    "headline": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+    "summary": "CoreWeave’s bond yields and credit default swaps have surged as its stock sells off. Here’s what those credit signals mean for stock investors.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+    "image_url": null,
+    "published_at": "2026-10-16T20:33:55.000Z"
+  },
+  {
+    "headline": "Trump says White House didn't order Starlink restrictions in Ukraine",
+    "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+    "image_url": null,
+    "published_at": "2026-10-16T20:28:10.000Z"
+  },
+  {
+    "headline": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+    "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+    "image_url": null,
+    "published_at": "2026-10-16T20:02:21.000Z"
+  },
+  {
+    "headline": "Debt is eating up a bigger chunk of your raise, research shows",
+    "summary": "New research finds debt payments rose far faster than estimated real household income, absorbing about half of a one-earner household's gains.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
+    "image_url": null,
+    "published_at": "2026-10-16T19:47:46.000Z"
+  },
+  {
     "headline": "Here's who Netflix just brought in to run content — and what it means for the streamer",
     "summary": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
     "image_url": null,
-    "published_at": "2026-10-16T19:00:24.000Z"
+    "published_at": "2026-10-16T19:40:00.000Z"
   },
   {
-    "headline": "Katie Zacharia out as Trump's White House press secretary",
-    "summary": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam.",
+    "headline": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+    "summary": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid faced critical questions from the New York City Council on Friday.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+    "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
     "image_url": null,
-    "published_at": "2026-10-16T18:55:24.000Z"
+    "published_at": "2026-10-16T19:30:51.000Z"
+  },
+  {
+    "headline": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+    "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+    "image_url": null,
+    "published_at": "2026-10-16T19:28:10.000Z"
+  },
+  {
+    "headline": "The affordability crisis isn't hitting all voters equally. Here's why",
+    "summary": "Younger Americans face higher inflation and housing costs than baby boomers, widening the affordability divide ahead of the 2026 midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
+    "image_url": null,
+    "published_at": "2026-10-16T19:22:21.000Z"
   },
   {
     "headline": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
@@ -32,28 +88,12 @@
     "published_at": "2026-10-16T18:46:19.000Z"
   },
   {
-    "headline": "Trump says White House didn't order Starlink restrictions in Ukraine",
-    "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-    "image_url": null,
-    "published_at": "2026-10-16T18:27:02.000Z"
-  },
-  {
     "headline": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
     "summary": "After a 27.5% drop from last Friday's close to this Thursday morning's 52-week lows, followed by a 17% rebound, equity traders holding CoreWeave are dazed.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/16/playing-the-coreweave-disconnect.html",
     "image_url": null,
     "published_at": "2026-10-16T18:24:35.000Z"
-  },
-  {
-    "headline": "Debt is eating up a bigger chunk of your raise, research shows",
-    "summary": "New research finds debt payments rose far faster than estimated real household income, absorbing about half of a one-earner household's gains.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
-    "image_url": null,
-    "published_at": "2026-10-16T18:08:00.000Z"
   },
   {
     "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -120,14 +160,6 @@
     "published_at": "2026-10-16T16:21:14.000Z"
   },
   {
-    "headline": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
-    "summary": "Younger Americans face higher inflation and housing costs than baby boomers, widening the affordability divide ahead of the 2026 midterm elections.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
-    "image_url": null,
-    "published_at": "2026-10-16T16:12:41.000Z"
-  },
-  {
     "headline": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
     "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
     "publisher": "CNBC",
@@ -142,14 +174,6 @@
     "url": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
     "image_url": null,
     "published_at": "2026-10-16T15:50:15.000Z"
-  },
-  {
-    "headline": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
-    "summary": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid faced critical questions from the New York City Council on Friday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-    "image_url": null,
-    "published_at": "2026-10-16T15:44:51.000Z"
   },
   {
     "headline": "E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation in cosmetics",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
     "image_url": null,
     "published_at": "2026-10-12T19:35:48.000Z"
-  },
-  {
-    "headline": "Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/12/microsoft-micron-and-meta-make-news-what-it-all-means-for-our-stakes.html",
-    "image_url": null,
-    "published_at": "2026-10-12T18:47:58.000Z"
-  },
-  {
-    "headline": "A massive trade just happened in surging shares of Snap",
-    "summary": "Options traders bet on 30% rally in Snap",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
-    "image_url": null,
-    "published_at": "2026-10-12T18:43:44.000Z"
-  },
-  {
-    "headline": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
-    "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
-    "image_url": null,
-    "published_at": "2026-10-12T18:32:03.000Z"
   }
 ]
