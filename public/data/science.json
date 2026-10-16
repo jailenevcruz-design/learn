@@ -1,5 +1,13 @@
 [
   {
+    "headline": "This week in science: sea monsters, long COVID patients' microbiome, elephant carcasses",
+    "summary": "NPR's science podcast Short Wave brings us stories about the hunting habits of ancient sea monsters, the microbiome of long COVID patients, and how elephant carcasses replenish the savannah.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-5995400/this-week-in-science-sea-monsters-long-covid-patients-microbiome-elephant-carcasses",
+    "image_url": null,
+    "published_at": "2026-10-15T21:33:56.000Z"
+  },
+  {
     "headline": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
     "summary": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260927034004.htm",
     "image_url": null,
     "published_at": "2026-09-29T12:53:00.000Z"
-  },
-  {
-    "headline": "Children at risk for depression get “stuck” on sad faces",
-    "summary": "Depression may change which emotional faces children notice most, but the pattern appears to depend on family history. Children at higher familial risk became increasingly focused on sad faces, while lower-risk children with rising symptoms paid less attention to happy ones.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260927225022.htm",
-    "image_url": null,
-    "published_at": "2026-09-29T12:36:52.000Z"
   }
 ]

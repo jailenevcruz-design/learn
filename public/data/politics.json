@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Suspicious mailings to election officials, congressional offices under investigation",
+    "summary": "The FBI and U.S. Postal Inspection Service are looking into the mailings, some of which included an unidentified powdery white substance.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
+    "image_url": null,
+    "published_at": "2026-10-15T19:54:15.000Z"
+  },
+  {
     "headline": "U.S. historic preservation law faces the most serious threat in its 60-year history",
     "summary": "Congress and a federal agency are threatening to weaken the country's historic preservation law, fueling a backlash that critics say is as fiery as the one that led to the law's creation 60 years ago.",
     "publisher": "NPR",
@@ -56,18 +64,18 @@
     "published_at": "2026-10-14T09:08:04.000Z"
   },
   {
-    "headline": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
-    "summary": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
-    "image_url": null,
-    "published_at": "2026-10-14T09:00:00.000Z"
-  },
-  {
     "headline": "Civil rights advocates plan to send thousands of observers to midterm polling places",
     "summary": "For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping up efforts this year.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
+    "image_url": null,
+    "published_at": "2026-10-14T09:00:00.000Z"
+  },
+  {
+    "headline": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
+    "summary": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
     "image_url": null,
     "published_at": "2026-10-14T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
     "image_url": null,
     "published_at": "2026-09-15T09:00:00.000Z"
-  },
-  {
-    "headline": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
-    "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
-    "image_url": null,
-    "published_at": "2026-09-14T23:38:40.000Z"
   }
 ]
