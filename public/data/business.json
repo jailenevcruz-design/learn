@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+    "summary": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+    "image_url": null,
+    "published_at": "2026-10-17T16:31:29.000Z"
+  },
+  {
+    "headline": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+    "summary": "Timberland managers buying for pension funds and other institutional investors can wait decades for returns, but the market can also be a profit trap.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+    "image_url": null,
+    "published_at": "2026-10-17T16:31:06.000Z"
+  },
+  {
+    "headline": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+    "summary": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+    "image_url": null,
+    "published_at": "2026-10-17T15:42:34.000Z"
+  },
+  {
+    "headline": "Software’s new consolidator gets big vote of confidence from Berkshire",
+    "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+    "image_url": null,
+    "published_at": "2026-10-17T15:11:30.000Z"
+  },
+  {
+    "headline": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+    "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+    "image_url": null,
+    "published_at": "2026-10-17T15:00:01.000Z"
+  },
+  {
+    "headline": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+    "summary": "After nearly three decades as a bankruptcy judge, Sarah Sharer Curley writes about the legal process in her new book, \"The Price of Forgiveness.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+    "image_url": null,
+    "published_at": "2026-10-17T13:30:01.000Z"
+  },
+  {
+    "headline": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+    "summary": "Kelly Schultz bought a pumpkin farm in 1996. He transformed it into a seasonal attraction that draws in 100,000 visitors each fall.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+    "image_url": null,
+    "published_at": "2026-10-17T13:00:01.000Z"
+  },
+  {
+    "headline": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+    "summary": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+    "image_url": null,
+    "published_at": "2026-10-17T12:46:21.000Z"
+  },
+  {
+    "headline": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+    "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+    "image_url": null,
+    "published_at": "2026-10-17T10:20:44.000Z"
+  },
+  {
+    "headline": "Weddings are expensive. How about a grocery store cake?",
+    "summary": "About a third of couples are willing to save money on cake and dessert, according to the wedding-planning site Zola.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
+    "image_url": null,
+    "published_at": "2026-10-17T09:00:00.000Z"
+  },
+  {
+    "headline": "Some companies give AI to everyone. This CEO is doing the opposite",
+    "summary": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+    "image_url": null,
+    "published_at": "2026-10-17T05:00:01.000Z"
+  },
+  {
+    "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+    "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+    "image_url": null,
+    "published_at": "2026-10-16T22:34:29.000Z"
+  },
+  {
     "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
     "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
     "publisher": "CNBC",
@@ -14,6 +110,14 @@
     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
     "image_url": null,
     "published_at": "2026-10-16T22:31:26.000Z"
+  },
+  {
+    "headline": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
+    "summary": "Democrats outraise Republicans in key Congress races as Elon Musk funds Ken Paxton in Texas and GOP groups aligned with Trump.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
+    "image_url": null,
+    "published_at": "2026-10-16T21:49:13.000Z"
   },
   {
     "headline": "Katie Zacharia out as Trump's White House press secretary",
@@ -102,14 +206,6 @@
     "url": "https://www.cnbc.com/2026/10/16/playing-the-coreweave-disconnect.html",
     "image_url": null,
     "published_at": "2026-10-16T18:24:35.000Z"
-  },
-  {
-    "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-    "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-    "image_url": null,
-    "published_at": "2026-10-16T18:00:15.000Z"
   },
   {
     "headline": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
@@ -1502,101 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
     "image_url": null,
     "published_at": "2026-10-13T04:10:49.000Z"
-  },
-  {
-    "headline": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-    "image_url": null,
-    "published_at": "2026-10-13T02:58:11.000Z"
-  },
-  {
-    "headline": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
-    "summary": "Red Bull Racing is increasingly using AI to help make real-time Formula 1 race decisions, but the team says human judgment remains essential.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
-    "image_url": null,
-    "published_at": "2026-10-13T02:37:08.000Z"
-  },
-  {
-    "headline": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-    "image_url": null,
-    "published_at": "2026-10-13T01:26:41.000Z"
-  },
-  {
-    "headline": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
-    "summary": "Singapore Prime Minister Lawrence Wong pushed back against the idea of weakening the city-state's currency to boost competitiveness.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
-    "image_url": null,
-    "published_at": "2026-10-13T00:39:36.000Z"
-  },
-  {
-    "headline": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
-    "summary": "General Motors CEO Mary Barra said that the automaker is still on track to introduce \"eyes-off, hands-off\" driving technology by 2028.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
-    "image_url": null,
-    "published_at": "2026-10-13T00:24:23.000Z"
-  },
-  {
-    "headline": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-    "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-    "image_url": null,
-    "published_at": "2026-10-12T23:00:01.000Z"
-  },
-  {
-    "headline": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
-    "summary": "The former Fox News personality Guilfoyle was previously engaged to the president's son, Donald Trump Jr.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
-    "image_url": null,
-    "published_at": "2026-10-12T22:26:59.000Z"
-  },
-  {
-    "headline": "Farmers say they'll take the relief of Trump's EO — but they're still hurting",
-    "summary": "President Trump says his Monday executive order temporarily suspending federal taxes on diesel will be a big relief for farmers. Some farmers call it a campaign ploy with marginal impact.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/12/nx-s1-5993837/farmers-say-theyll-take-the-relief-of-trumps-eo-but-theyre-still-hurting",
-    "image_url": null,
-    "published_at": "2026-10-12T21:33:18.000Z"
-  },
-  {
-    "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-    "summary": "Musk’s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-    "image_url": null,
-    "published_at": "2026-10-12T21:17:58.000Z"
-  },
-  {
-    "headline": "Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
-    "summary": "Small, consistent gains over time, compounded through regular contributions, can supercharge your wealth",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/12/heres-a-calculator-to-explain-why-cramer-always-stays-invested.html",
-    "image_url": null,
-    "published_at": "2026-10-12T21:02:09.000Z"
-  },
-  {
-    "headline": "Earnings beats are now the norm. What the stock market needs to keep rallying",
-    "summary": "Blockbuster profits are coming for the S&P 500. It may not be enough to keep fueling the rally.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
-    "image_url": null,
-    "published_at": "2026-10-12T20:35:51.000Z"
-  },
-  {
-    "headline": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
-    "summary": "Quantum computing platform is buying cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
-    "image_url": null,
-    "published_at": "2026-10-12T19:35:48.000Z"
   }
 ]
