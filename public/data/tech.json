@@ -1,11 +1,43 @@
 [
   {
+    "headline": "All the news about the iPhone Duo",
+    "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and a wide…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+    "image_url": null,
+    "published_at": "2026-10-16T23:36:26.000Z"
+  },
+  {
+    "headline": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+    "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+    "image_url": null,
+    "published_at": "2026-10-16T22:51:22.000Z"
+  },
+  {
     "headline": "Replit is no longer working with Anthropic, CEO says",
     "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "image_url": null,
     "published_at": "2026-10-16T21:22:28.000Z"
+  },
+  {
+    "headline": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+    "summary": "Wu-Tang Clan member Method Man, who got to hear the album for the first time thanks to Pablo Torre Finds Out. | Getty Images Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds O…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+    "image_url": null,
+    "published_at": "2026-10-16T20:50:27.000Z"
+  },
+  {
+    "headline": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+    "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+    "image_url": null,
+    "published_at": "2026-10-16T20:49:04.000Z"
   },
   {
     "headline": "Porsche’s electric Macan Turbo is an automotive existential crisis",
@@ -1566,37 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
     "image_url": null,
     "published_at": "2026-10-11T16:02:00.000Z"
-  },
-  {
-    "headline": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
-    "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
-    "image_url": null,
-    "published_at": "2026-10-11T16:00:00.000Z"
-  },
-  {
-    "headline": "NASA dumped over 800GB of Artemis II data online",
-    "summary": "A crew annotated image showing where the Artemis II team observed impact flashes on the dark side of the Moon. | Image: NASA If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
-    "image_url": null,
-    "published_at": "2026-10-11T15:34:40.000Z"
-  },
-  {
-    "headline": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
-    "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the Witch, or, as it was…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
-    "image_url": null,
-    "published_at": "2026-10-11T15:15:00.000Z"
-  },
-  {
-    "headline": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-    "summary": "This Battlefield 200 startup has developed blood-purification tech to save children.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-    "image_url": null,
-    "published_at": "2026-10-11T15:00:00.000Z"
   }
 ]
