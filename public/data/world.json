@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Major fire breaks out in Alberta after deadly incident at military base",
+    "summary": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+    "image_url": null,
+    "published_at": "2026-10-18T07:56:08.000Z"
+  },
+  {
     "headline": "Student protests widen into greater social unrest in France",
     "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
     "publisher": "NPR",
@@ -16,8 +24,8 @@
     "published_at": "2026-10-17T21:18:50.000Z"
   },
   {
-    "headline": "Scuffles and fires break out as protesters rally across France, joining students",
-    "summary": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.",
+    "headline": "French police arrest 1,800 after violent clashes and looting mar protests",
+    "summary": "Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of people.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
     "image_url": null,
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
     "image_url": null,
     "published_at": "2026-09-20T21:15:56.000Z"
-  },
-  {
-    "headline": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-    "summary": "German Chancellor Friedrich Merz has faced a major electoral setback in two state elections, with his center-right party losing ground. The far-right Alternative for Germany party made significant gains.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
-    "image_url": null,
-    "published_at": "2026-09-20T17:29:29.000Z"
   }
 ]
