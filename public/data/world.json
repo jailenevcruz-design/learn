@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Political rivals implicated under Pakistan's anti-terror law",
+    "summary": "Pakistan's political showdown continues as more opposition figures are implicated under Pakistan's anti-terror law.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
+    "image_url": null,
+    "published_at": "2026-10-18T21:00:11.000Z"
+  },
+  {
+    "headline": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+    "summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+    "image_url": null,
+    "published_at": "2026-10-18T21:00:08.000Z"
+  },
+  {
+    "headline": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+    "summary": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+    "image_url": null,
+    "published_at": "2026-10-18T18:38:49.000Z"
+  },
+  {
     "headline": "Pope Leo says he will gradually resume duties after cancer surgery",
     "summary": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
     "publisher": "NPR",
@@ -8,8 +32,8 @@
     "published_at": "2026-10-18T12:55:01.000Z"
   },
   {
-    "headline": "Major fire breaks out in Alberta after deadly incident at military base",
-    "summary": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire.",
+    "headline": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+    "summary": "Canadian Prime Minister Mark Carney described the incident as one of the worst peacetime tragedies for Canada's military on domestic soil.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
     "image_url": null,
@@ -32,7 +56,7 @@
     "published_at": "2026-10-17T21:18:50.000Z"
   },
   {
-    "headline": "French police arrest 1,800 after violent clashes and looting mar protests",
+    "headline": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
     "summary": "Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of people.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
     "image_url": null,
     "published_at": "2026-09-21T08:41:50.000Z"
-  },
-  {
-    "headline": "How a national farm leader is dealing with record diesel prices",
-    "summary": "John Boyd Jr., president of the National Black Farmers Association, says soaring diesel costs are deepening a farm crisis as farmers face sharply higher fuel costs in the middle of harvest season.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/21/nx-s1-5973073/diesel-prices-american-farmers-fuel-costs",
-    "image_url": null,
-    "published_at": "2026-09-21T08:40:54.000Z"
-  },
-  {
-    "headline": "How Russia's parliamentary election might affect the war in Ukraine",
-    "summary": "NPR's Steve Inskeep asks Russian foreign policy expert Hanna Notte about the results of Russia's parliamentary election and what it means for Moscow's war in Ukraine.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine",
-    "image_url": null,
-    "published_at": "2026-09-21T08:39:56.000Z"
-  },
-  {
-    "headline": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-    "summary": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-    "image_url": null,
-    "published_at": "2026-09-20T21:39:24.000Z"
   }
 ]

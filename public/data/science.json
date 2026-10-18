@@ -1,5 +1,13 @@
 [
   {
+    "headline": "What time is it on the moon?",
+    "summary": "James Olthoff, a delegate to the International Bureau of Weights and Measures, talks to NPR's Joel Rose about why it's important to accurately measure time on the moon.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/18/nx-s1-6003578/what-time-is-it-on-the-moon",
+    "image_url": null,
+    "published_at": "2026-10-18T21:00:09.000Z"
+  },
+  {
     "headline": "Scientists discover a natural compound that could protect the brain from too much salt",
     "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, b…",
     "publisher": "ScienceDaily",
@@ -1590,13 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
     "image_url": null,
     "published_at": "2026-10-02T11:54:34.000Z"
-  },
-  {
-    "headline": "The early universe wasn’t nearly as pristine as scientists thought",
-    "summary": "JWST has revealed that galaxies were spreading carbon, oxygen, and other heavy elements through space just 500 million years after the Big Bang. The surprising discovery suggests the young universe became chemically enriched much earlier than expected, potentially erasing traces of its very first stars.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
-    "image_url": null,
-    "published_at": "2026-10-02T11:24:07.000Z"
   }
 ]

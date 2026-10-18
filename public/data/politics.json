@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Congress reacts to executive order exempting Russia from economic sanctions",
+    "summary": "NPR's Eric McDaniel reports on how Congress has reacted to President Trump's executive order exempting Russia from economic sanctions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/18/nx-s1-6007363/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
+    "image_url": null,
+    "published_at": "2026-10-18T21:00:11.000Z"
+  },
+  {
     "headline": "Greensboro, NC students protest the absence of early voting sites on campus",
     "summary": "NPR's Ayesha Rascoe talks to North Carolina A&T student Shia Rozier about disappointment with early voting sites in Greensboro.",
     "publisher": "NPR",
@@ -24,8 +32,8 @@
     "published_at": "2026-10-18T12:01:01.000Z"
   },
   {
-    "headline": "Trump suspends federal diesel taxes to help farmers, but states issue warnings",
-    "summary": "President Trump's executive order suspending federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.",
+    "headline": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+    "summary": "President Trump's executive order deferring federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
     "image_url": null,
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
     "image_url": null,
     "published_at": "2026-09-16T22:30:46.000Z"
-  },
-  {
-    "headline": "House holds billionaire Leon Black in contempt of Congress over Epstein investigation",
-    "summary": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it's up to the Department of Justice whether to pursue criminal charges.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
-    "image_url": null,
-    "published_at": "2026-09-16T21:12:27.000Z"
   }
 ]

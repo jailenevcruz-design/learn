@@ -1,7 +1,55 @@
 [
   {
+    "headline": "A Savannah police officer gave her Flock login to her ICE agent husband",
+    "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+    "image_url": null,
+    "published_at": "2026-10-18T22:20:53.000Z"
+  },
+  {
+    "headline": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+    "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+    "image_url": null,
+    "published_at": "2026-10-18T21:00:00.000Z"
+  },
+  {
+    "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "image_url": null,
+    "published_at": "2026-10-18T20:37:40.000Z"
+  },
+  {
+    "headline": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+    "summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+    "image_url": null,
+    "published_at": "2026-10-18T19:30:00.000Z"
+  },
+  {
+    "headline": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+    "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+    "image_url": null,
+    "published_at": "2026-10-18T19:03:38.000Z"
+  },
+  {
+    "headline": "A woman was arrested in Philly for blocking a delivery robot",
+    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front of…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "image_url": null,
+    "published_at": "2026-10-18T18:28:10.000Z"
+  },
+  {
     "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its…",
+    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "image_url": null,
@@ -1550,53 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
     "image_url": null,
     "published_at": "2026-10-13T13:15:46.000Z"
-  },
-  {
-    "headline": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "image_url": null,
-    "published_at": "2026-10-13T13:00:00.000Z"
-  },
-  {
-    "headline": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-    "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-    "image_url": null,
-    "published_at": "2026-10-13T12:40:00.000Z"
-  },
-  {
-    "headline": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "summary": "The startup will sell some of its assets to Disney for $20 million.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "image_url": null,
-    "published_at": "2026-10-13T12:23:42.000Z"
-  },
-  {
-    "headline": "The Social Reckoning is flopping at the box office",
-    "summary": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That w…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
-    "image_url": null,
-    "published_at": "2026-10-12T21:20:57.000Z"
-  },
-  {
-    "headline": "Meta releases its first frontier model, Muse Wonder",
-    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "image_url": null,
-    "published_at": "2026-10-12T17:56:56.000Z"
-  },
-  {
-    "headline": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "image_url": null,
-    "published_at": "2026-10-12T17:19:14.000Z"
   }
 ]
