@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Why hedge funds could be making a bond market shock more likely",
+    "summary": "The Bank of England's deputy governor has warned that hedge funds' activities could raise the risk of a global bond market shock.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+    "image_url": null,
+    "published_at": "2026-10-18T06:13:05.000Z"
+  },
+  {
     "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
     "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
     "publisher": "CNBC",
@@ -78,6 +86,14 @@
     "url": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
     "image_url": null,
     "published_at": "2026-10-17T09:00:00.000Z"
+  },
+  {
+    "headline": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+    "summary": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+    "image_url": null,
+    "published_at": "2026-10-17T05:46:20.000Z"
   },
   {
     "headline": "Some companies give AI to everyone. This CEO is doing the opposite",
@@ -1582,21 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
     "image_url": null,
     "published_at": "2026-10-13T05:24:17.000Z"
-  },
-  {
-    "headline": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-    "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-    "image_url": null,
-    "published_at": "2026-10-13T04:54:07.000Z"
-  },
-  {
-    "headline": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
-    "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
-    "image_url": null,
-    "published_at": "2026-10-13T04:10:49.000Z"
   }
 ]
