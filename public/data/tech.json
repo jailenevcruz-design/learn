@@ -1,5 +1,45 @@
 [
   {
+    "headline": "J Mascis has nothing better to do",
+    "summary": "J Mascis on stage during Dinosaur Jr.’s Baby’s Alright show in NYC. | Photo: Terrence O’Brien Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis h…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+    "image_url": null,
+    "published_at": "2026-10-18T14:00:00.000Z"
+  },
+  {
+    "headline": "Trump says Google kisses his ass",
+    "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+    "image_url": null,
+    "published_at": "2026-10-18T13:25:01.000Z"
+  },
+  {
+    "headline": "The best gadget I bought this year is a milk frother",
+    "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their cream top, an iced Americano wit…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+    "image_url": null,
+    "published_at": "2026-10-18T13:00:00.000Z"
+  },
+  {
+    "headline": "How overhead projectors took over your classroom",
+    "summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students ever…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+    "image_url": null,
+    "published_at": "2026-10-18T12:55:01.000Z"
+  },
+  {
+    "headline": "Cities want to put the boot on robotaxis",
+    "summary": "AUSTIN, TEXAS - APRIL 8: Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+    "image_url": null,
+    "published_at": "2026-10-18T12:00:00.000Z"
+  },
+  {
     "headline": "Meta removes language that raised scraping and AI training concerns",
     "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
     "publisher": "TechCrunch",
@@ -1558,45 +1598,5 @@
     "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
     "image_url": null,
     "published_at": "2026-10-12T15:43:07.000Z"
-  },
-  {
-    "headline": "Microsoft president says UK is best placed to drive AI regulation",
-    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "image_url": null,
-    "published_at": "2026-10-12T15:31:19.000Z"
-  },
-  {
-    "headline": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "image_url": null,
-    "published_at": "2026-10-12T15:27:59.000Z"
-  },
-  {
-    "headline": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-    "summary": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-    "image_url": null,
-    "published_at": "2026-10-12T15:11:19.000Z"
-  },
-  {
-    "headline": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
-    "summary": "The Basecase seen here with 3D-printed grips and a rear plate that offers (unofficial) compatibility with Lego blocks and minifigs. Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a s…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
-    "image_url": null,
-    "published_at": "2026-10-12T15:00:00.000Z"
-  },
-  {
-    "headline": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-    "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-    "image_url": null,
-    "published_at": "2026-10-12T14:09:34.000Z"
   }
 ]

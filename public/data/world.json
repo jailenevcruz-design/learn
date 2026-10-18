@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Pope Leo says he will gradually resume duties after cancer surgery",
+    "summary": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+    "image_url": null,
+    "published_at": "2026-10-18T12:55:01.000Z"
+  },
+  {
     "headline": "Major fire breaks out in Alberta after deadly incident at military base",
     "summary": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
     "image_url": null,
     "published_at": "2026-09-20T21:39:24.000Z"
-  },
-  {
-    "headline": "Defining global leadership in AI at Trump-Xi summit",
-    "summary": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on artificial intelligence at President Trump and Chinese leader Xi Jinping's summit this week.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
-    "image_url": null,
-    "published_at": "2026-09-20T21:15:56.000Z"
   }
 ]

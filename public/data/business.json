@@ -1,5 +1,77 @@
 [
   {
+    "headline": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+    "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+    "image_url": null,
+    "published_at": "2026-10-18T14:48:33.000Z"
+  },
+  {
+    "headline": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
+    "summary": "A new report finds nearly half of workers are often logging in on Sundays. It is a boon for worker flexibility, or a sign of job-hugging insecurity?",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
+    "image_url": null,
+    "published_at": "2026-10-18T14:00:01.000Z"
+  },
+  {
+    "headline": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+    "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+    "image_url": null,
+    "published_at": "2026-10-18T13:52:24.000Z"
+  },
+  {
+    "headline": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
+    "summary": "Parenting coach Reem Raouda shares lessons to help kids feel worthy regardless of achievements and handle disappointment, disagreement and difficult feelings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
+    "image_url": null,
+    "published_at": "2026-10-18T13:37:01.000Z"
+  },
+  {
+    "headline": "Roth conversions: When the ‘juice isn't really worth the squeeze,’ according to a top-ranked advisor",
+    "summary": "If you're considering a year-end Roth conversion for 2026, there are some key things to know, experts say.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
+    "image_url": null,
+    "published_at": "2026-10-18T13:30:01.000Z"
+  },
+  {
+    "headline": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+    "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+    "image_url": null,
+    "published_at": "2026-10-18T13:10:33.000Z"
+  },
+  {
+    "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+    "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+    "image_url": null,
+    "published_at": "2026-10-18T12:50:33.000Z"
+  },
+  {
+    "headline": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+    "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+    "image_url": null,
+    "published_at": "2026-10-18T12:34:51.000Z"
+  },
+  {
+    "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+    "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+    "image_url": null,
+    "published_at": "2026-10-18T12:00:01.000Z"
+  },
+  {
     "headline": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
     "summary": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
     "publisher": "CNBC",
@@ -22,14 +94,6 @@
     "url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
     "image_url": null,
     "published_at": "2026-10-18T06:13:05.000Z"
-  },
-  {
-    "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-    "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-    "image_url": null,
-    "published_at": "2026-10-17T19:35:18.000Z"
   },
   {
     "headline": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
@@ -1534,69 +1598,5 @@
     "url": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
     "image_url": null,
     "published_at": "2026-10-13T10:30:00.000Z"
-  },
-  {
-    "headline": "Trump census plan to cut noncitizens from 2030 count spurs critics toward legal fight",
-    "summary": "The Trump administration's proposal to exclude some noncitizens from the 2030 census prompts alarm for voting rights groups.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/trump-census-rule-noncitizens.html",
-    "image_url": null,
-    "published_at": "2026-10-13T10:00:01.000Z"
-  },
-  {
-    "headline": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
-    "summary": "SpaceX has agreed to testify before the New York City Council as part of an investigation into AI safety risks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
-    "image_url": null,
-    "published_at": "2026-10-13T09:00:01.000Z"
-  },
-  {
-    "headline": "Voters here will decide whether to force cities to build cheaper, smaller homes",
-    "summary": "Voters in Massachusetts will decide whether to require cities and towns to allow smaller homes on smaller lots. A growing number of states are doing the same to help ease a housing shortage.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
-    "image_url": null,
-    "published_at": "2026-10-13T09:00:00.000Z"
-  },
-  {
-    "headline": "U.S. Treasury yields fall as energy prices pull back",
-    "summary": "Bond yields fell on Tuesday as investors await more economic data releases this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
-    "image_url": null,
-    "published_at": "2026-10-13T08:31:37.000Z"
-  },
-  {
-    "headline": "Anthropic warns AI models could soon copy themselves across home devices",
-    "summary": "Anthropic's latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-    "image_url": null,
-    "published_at": "2026-10-13T08:27:20.000Z"
-  },
-  {
-    "headline": "CNBC Daily Open: 'Boring' trumps disorder and volatility",
-    "summary": "Some warning lights are flashing on the global economy dashboard.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/daily-open-imf-disorderly-markets-tech-stocks.html",
-    "image_url": null,
-    "published_at": "2026-10-13T07:24:31.000Z"
-  },
-  {
-    "headline": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-    "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-    "image_url": null,
-    "published_at": "2026-10-13T06:20:55.000Z"
-  },
-  {
-    "headline": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-    "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-    "image_url": null,
-    "published_at": "2026-10-13T05:24:17.000Z"
   }
 ]

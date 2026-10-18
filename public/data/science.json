@@ -1,5 +1,125 @@
 [
   {
+    "headline": "Scientists discover a natural compound that could protect the brain from too much salt",
+    "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, b…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T13:46:34.000Z"
+  },
+  {
+    "headline": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+    "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic quasiparticles that sci…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T13:37:21.000Z"
+  },
+  {
+    "headline": "Eating blueberries every day may have a surprising effect on your mood",
+    "summary": "Eating blueberries every day could have surprising effects on mood, according to a small study that found greater reductions in depressive symptoms among older adults who consumed the fruit for three months. Researchers also detected changes in gut microbial enzymes, suggesting a possible gut-brain connection, although…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T13:22:24.000Z"
+  },
+  {
+    "headline": "Scientists link a strange sugar in red meat to a 63% higher diabetes risk",
+    "summary": "A study of nearly 90,000 adults found that people consuming the most of a little-known sugar found in red meat had a 63% higher risk of developing type 2 diabetes. Scientists suspect the sugar may trigger chronic inflammation, potentially revealing a hidden connection between red meat and diabetes that goes beyond weig…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261017230031.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T13:09:01.000Z"
+  },
+  {
+    "headline": "Magic mushroom ingredient takes the fight out of aggressive fish",
+    "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The findings suggest psilocybin…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T12:52:13.000Z"
+  },
+  {
+    "headline": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
+    "summary": "A catastrophic volcanic eruption 7,300 years ago devastated Japan, but new research reveals that its impact on prehistoric populations was far more complex than previously believed. While some communities disappeared or declined, others unexpectedly flourished as survivors migrated, adapted, and found new ways to thriv…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T12:36:21.000Z"
+  },
+  {
+    "headline": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
+    "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a crucial brain connection…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T12:19:08.000Z"
+  },
+  {
+    "headline": "Two monster black holes could collide in just 100 years",
+    "summary": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the likely presence of a second black hole, with observations suggesting the pair completes an orbit every 12…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T12:03:18.000Z"
+  },
+  {
+    "headline": "Scientists discover that male and female skin play by different rules",
+    "summary": "Scientists have uncovered a surprising difference in how male and female skin repairs and renews itself. By tracking individual skin stem cells in living mice for five months, researchers discovered that female cells work together in a highly coordinated way, while male cells operate more independently. This synchroniz…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261017230020.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T10:52:51.000Z"
+  },
+  {
+    "headline": "Scientists who discovered a third form of magnetism win major physics prize",
+    "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T09:41:44.000Z"
+  },
+  {
+    "headline": "Scientists tested 39 sweeteners and uncovered surprising gut effects",
+    "summary": "Scientists have discovered that many common sweeteners can interfere with gut bacteria, with some combinations involving medications producing surprisingly strong effects. One sweetener mixed with a widely prescribed antidepressant reduced beneficial bacteria and microbial diversity in laboratory experiments, raising n…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261016081103.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T03:55:59.000Z"
+  },
+  {
+    "headline": "Scientists find a youth protein that helps aging brain cells act young again",
+    "summary": "Scientists have discovered that a protein linked to youth helps protect the brain’s immune cells from age-related decline. Restoring the protein in older mice improved the cells’ ability to clear debris and reduced signs of inflammation, raising hopes for future treatments targeting brain aging and Alzheimer’s disease.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261016070646.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T03:27:40.000Z"
+  },
+  {
+    "headline": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
+    "summary": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific experiments to the International Space Station, including research that could advance treatments for blin…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T03:02:35.000Z"
+  },
+  {
+    "headline": "Archaeologists discover 1,200-year-old mummified hairless dog in Peru",
+    "summary": "Archaeologists have discovered 1,200-year-old remains of Peru’s famous hairless dogs at an ancient Wari Empire burial site, including remarkably preserved mummies and puppies buried alongside humans. Their unusual teeth, diets, and burial arrangements reveal surprising clues about how ancient Peruvians cared for, bred,…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261016070644.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T02:32:58.000Z"
+  },
+  {
+    "headline": "NASA discovers hidden fires burning beneath the Amazon rainforest",
+    "summary": "El Niño is fueling a dangerous cascade of wildfires across the tropics, with the Amazon rainforest now experiencing widespread burning and scientists warning that the worst may still be ahead. NASA researchers are uncovering dozens of previously undetected fires, suggesting the destruction could be even more extensive…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261016070633.htm",
+    "image_url": null,
+    "published_at": "2026-10-18T01:14:24.000Z"
+  },
+  {
     "headline": "New drug reverses severe fatty liver disease by repairing the gut",
     "summary": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakthrough could pave the way for new treatments for liver disease and potentially other serious conditions, including cardi…",
     "publisher": "ScienceDaily",
@@ -1478,125 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
     "image_url": null,
     "published_at": "2026-10-02T11:24:07.000Z"
-  },
-  {
-    "headline": "Scientists just pushed superconductors beyond their usual current limit",
-    "summary": "Ultrashort electrical pulses allowed scientists to push superconductors closer than ever to the point where their electron pairs actually break apart. The method revealed hidden differences between superconducting materials and could open new ways to probe and control their quantum behavior.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm",
-    "image_url": null,
-    "published_at": "2026-10-02T11:08:12.000Z"
-  },
-  {
-    "headline": "Cancer stem cells have an “energy addiction” scientists may be able to exploit",
-    "summary": "High-risk MDS stem cells appear to have an unexpected “energy addiction,” relying far more heavily than healthy blood-forming cells on a molecule called NAD. Disrupting this energy pathway selectively weakened the cancer-driving cells, revealing a potential new target for treatment.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930020319.htm",
-    "image_url": null,
-    "published_at": "2026-10-02T10:37:59.000Z"
-  },
-  {
-    "headline": "Even one strength training session a week could make a difference",
-    "summary": "Strength training may be one of the most powerful tools for staying independent as you age. Age related muscle loss, known as sarcopenia, can make everyday tasks harder while increasing the risk of falls, fractures, and loss of mobility. Research shows that resistance exercises such as squats, weights, resistance bands…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930020317.htm",
-    "image_url": null,
-    "published_at": "2026-10-02T09:36:45.000Z"
-  },
-  {
-    "headline": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
-    "summary": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the Cajon Pass junction may be increasingly primed for a rupture that could cross both systems, although th…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
-    "image_url": null,
-    "published_at": "2026-10-02T04:58:10.000Z"
-  },
-  {
-    "headline": "Weak sunlight can still damage your DNA, scientists warn",
-    "summary": "Weak sunlight can still damage skin DNA if you spend enough time outdoors, according to a landmark Australian study. Even UV doses too low to cause visible redness triggered cellular damage that could accumulate over time and contribute to skin cancer risk.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930020324.htm",
-    "image_url": null,
-    "published_at": "2026-10-02T03:41:19.000Z"
-  },
-  {
-    "headline": "Electrons slow to a crawl in a strange new quantum state",
-    "summary": "Scientists at the University of Chicago have uncovered a surprising quantum state in the layered magnetic material Fe5GeTe2, where huge numbers of electrons move together unusually slowly while remaining quantum coherent. The behavior contradicts existing theoretical predictions about how the material’s magnetism shoul…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm",
-    "image_url": null,
-    "published_at": "2026-10-02T03:10:08.000Z"
-  },
-  {
-    "headline": "Scientists may have found a “unifying theory” of chronic fatigue",
-    "summary": "Scientists found that five seemingly unrelated conditions, including long Covid, ME/CFS, and PTSD, may disrupt many of the same biological networks involved in immunity, metabolism, and cellular energy. The findings could help explain their shared symptoms and may open the door to new blood tests and treatments.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260929053543.htm",
-    "image_url": null,
-    "published_at": "2026-10-02T01:59:44.000Z"
-  },
-  {
-    "headline": "One tiny chemical difference between RNA and DNA may help explain how life began",
-    "summary": "Scientists may have found a clue to one of the biggest mysteries surrounding the origin of life: how fragile RNA molecules could gather and survive before cells existed. New research shows that RNA is unusually good at assembling into tiny liquid-like droplets that concentrate molecules and can harden into protective,…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260929053546.htm",
-    "image_url": null,
-    "published_at": "2026-10-02T01:21:43.000Z"
-  },
-  {
-    "headline": "This week in science: Loud birds, eating with company, and asteroid samples",
-    "summary": "NPR's Short Wave podcast talks about really loud birds, the benefits of eating with company and what asteroid samples could tell us about the early Earth.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5978049/this-week-in-science-loud-birds-eating-with-company-and-asteroid-samples",
-    "image_url": null,
-    "published_at": "2026-10-01T21:12:36.000Z"
-  },
-  {
-    "headline": "'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy",
-    "summary": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
-    "image_url": null,
-    "published_at": "2026-10-01T19:49:45.000Z"
-  },
-  {
-    "headline": "Google launches Project Suncatcher, a step towards AI data centers in space",
-    "summary": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
-    "image_url": null,
-    "published_at": "2026-10-01T18:41:07.000Z"
-  },
-  {
-    "headline": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
-    "summary": "The crew of four — two NASA astronauts, one from Canada, and a Russian cosmonaut — heads to the International Space Station after liftoff from the Cape Canaveral Space Force Station in Florida.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
-    "image_url": null,
-    "published_at": "2026-10-01T15:21:33.000Z"
-  },
-  {
-    "headline": "This giant stick insect fooled scientists for decades",
-    "summary": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a familiar stick insect had been misidentified for decades, showing how much biodiversity may still be hiding in plain si…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
-    "image_url": null,
-    "published_at": "2026-10-01T13:59:22.000Z"
-  },
-  {
-    "headline": "New “plant armor” more than triples strawberry yields",
-    "summary": "A new protective fabric boosted strawberry yields by as much as 3.56 times while blocking insects and still allowing sunlight, rain, and airflow to reach the plants. Originally inspired by research on military clothing, Plant Armor could also help farms reduce pesticide and water use.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
-    "image_url": null,
-    "published_at": "2026-10-01T13:43:15.000Z"
-  },
-  {
-    "headline": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-    "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today’s superconducting qubits or serve as a new ki…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-    "image_url": null,
-    "published_at": "2026-10-01T13:17:13.000Z"
   }
 ]
