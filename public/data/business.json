@@ -1,11 +1,115 @@
 [
   {
-    "headline": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
+    "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+    "summary": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+    "image_url": null,
+    "published_at": "2026-10-19T14:20:08.000Z"
+  },
+  {
+    "headline": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows",
+    "summary": "The New York Stock Exchange becomes second major exchange to announce extended-hours options trading for heavily traded ETFs and single stocks, following CBOE.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/nyse-extends-options-trading-hours.html",
+    "image_url": null,
+    "published_at": "2026-10-19T13:46:50.000Z"
+  },
+  {
+    "headline": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+    "summary": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+    "image_url": null,
+    "published_at": "2026-10-19T13:36:41.000Z"
+  },
+  {
+    "headline": "OpenAI bugging suspect communicated with Saudi royal on WhatsApp days before arrest, feds say",
     "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
     "image_url": null,
-    "published_at": "2026-10-19T06:06:58.000Z"
+    "published_at": "2026-10-19T13:21:27.000Z"
+  },
+  {
+    "headline": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+    "summary": "\"It looks like either the bond markets riot, or the people riot, or both,\" one analyst told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+    "image_url": null,
+    "published_at": "2026-10-19T12:59:13.000Z"
+  },
+  {
+    "headline": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+    "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+    "image_url": null,
+    "published_at": "2026-10-19T12:58:03.000Z"
+  },
+  {
+    "headline": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+    "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+    "image_url": null,
+    "published_at": "2026-10-19T12:34:01.000Z"
+  },
+  {
+    "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+    "summary": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+    "image_url": null,
+    "published_at": "2026-10-19T12:33:07.000Z"
+  },
+  {
+    "headline": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+    "summary": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+    "image_url": null,
+    "published_at": "2026-10-19T12:07:51.000Z"
+  },
+  {
+    "headline": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
+    "summary": "Investors are pushing up the cost of insurance against an Oracle default.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html",
+    "image_url": null,
+    "published_at": "2026-10-19T11:57:07.000Z"
+  },
+  {
+    "headline": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+    "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+    "image_url": null,
+    "published_at": "2026-10-19T10:36:47.000Z"
+  },
+  {
+    "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
+    "summary": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+    "image_url": null,
+    "published_at": "2026-10-19T08:23:33.000Z"
+  },
+  {
+    "headline": "In pictures: More than 500,000 took to the streets as France protests erupted into violence",
+    "summary": "Over 500,000 people took part in protests in France over the weekend, which became marred by violence, amid demonstrations against rising living costs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html",
+    "image_url": null,
+    "published_at": "2026-10-19T08:10:26.000Z"
+  },
+  {
+    "headline": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+    "summary": "CXMT shares fell nearly 8% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+    "image_url": null,
+    "published_at": "2026-10-19T07:48:53.000Z"
   },
   {
     "headline": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
@@ -16,28 +120,12 @@
     "published_at": "2026-10-19T05:29:51.000Z"
   },
   {
-    "headline": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
-    "summary": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-    "image_url": null,
-    "published_at": "2026-10-19T04:46:26.000Z"
-  },
-  {
     "headline": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
     "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
     "image_url": null,
     "published_at": "2026-10-19T04:36:39.000Z"
-  },
-  {
-    "headline": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
-    "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-    "image_url": null,
-    "published_at": "2026-10-19T03:56:03.000Z"
   },
   {
     "headline": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
@@ -54,22 +142,6 @@
     "url": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
     "image_url": null,
     "published_at": "2026-10-19T03:00:33.000Z"
-  },
-  {
-    "headline": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
-    "summary": "CXMT shares fell over 6% on Monday after the company released its earnings forecast for the first nine months of 2026.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-    "image_url": null,
-    "published_at": "2026-10-19T01:56:34.000Z"
-  },
-  {
-    "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-    "summary": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
-    "image_url": null,
-    "published_at": "2026-10-18T23:36:11.000Z"
   },
   {
     "headline": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
@@ -142,14 +214,6 @@
     "url": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
     "image_url": null,
     "published_at": "2026-10-18T13:30:01.000Z"
-  },
-  {
-    "headline": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
-    "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
-    "image_url": null,
-    "published_at": "2026-10-18T13:10:33.000Z"
   },
   {
     "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
     "image_url": null,
     "published_at": "2026-10-13T19:21:27.000Z"
-  },
-  {
-    "headline": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
-    "summary": "Dell CEO Michael Dell says AI models need safeguards and controls, with companies and government both playing a role in safety.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
-    "image_url": null,
-    "published_at": "2026-10-13T19:08:28.000Z"
-  },
-  {
-    "headline": "Social Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough",
-    "summary": "The Social Security Administration is expected to announce the cost-of-living adjustment for 2027. Projections point to a higher-than-average increase.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/social-security-cola-2027.html",
-    "image_url": null,
-    "published_at": "2026-10-13T18:51:08.000Z"
-  },
-  {
-    "headline": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-    "summary": "Deadly attacks at Riyadh’s main airport are disrupting airlines, closing airspace and raising new security questions for commercial aviation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
-    "image_url": null,
-    "published_at": "2026-10-13T18:33:42.000Z"
-  },
-  {
-    "headline": "More Republicans come out against Trump's diesel deal with Putin",
-    "summary": "Senators told Trump, the deal with Russian President Vladimir Putin \"will not achieve just ends, nor will it benefit Americans.\"",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
-    "image_url": null,
-    "published_at": "2026-10-13T18:19:42.000Z"
-  },
-  {
-    "headline": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
-    "summary": "Guilfoyle's announcement came after new White House press secretary Katie Zacharia said in her debut briefing that the ambassador had been asked to resign.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-    "image_url": null,
-    "published_at": "2026-10-13T18:07:07.000Z"
-  },
-  {
-    "headline": "The latest inflation data is expected to show price increases are accelerating",
-    "summary": "Economists expect the consumer price index for September to rise 0.6% on the month and 3.6% year over year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
-    "image_url": null,
-    "published_at": "2026-10-13T18:05:57.000Z"
-  },
-  {
-    "headline": "The AI trade is cracking. Here's how to profit",
-    "summary": "Despite the Magnificent Seven making record highs, the The AI trade is showing signs of cracks. But there may be an opportunity for traders.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/the-ai-trade-is-cracking-heres-how-to-profit.html",
-    "image_url": null,
-    "published_at": "2026-10-13T16:44:21.000Z"
-  },
-  {
-    "headline": "Jim Cramer bucks all the stock market negativity with 3 buy recommendations",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramer-bucks-all-the-stock-market-negativity-with-3-buy-recommendations.html",
-    "image_url": null,
-    "published_at": "2026-10-13T16:07:20.000Z"
   }
 ]

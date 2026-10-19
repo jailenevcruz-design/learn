@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Elon Musk promises to give one SpaceX share to every child in the US",
+    "summary": "Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Musk, who runs SpaceX and Tesla, writes on X that this giveaway…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+    "image_url": null,
+    "published_at": "2026-10-19T14:20:11.000Z"
+  },
+  {
+    "headline": "It’s hard to imagine wireless headphones ever getting lighter than these",
+    "summary": "If you're on the hunt for lightweight wireless headphones but wearing earbuds or clip-ons never feels comfortable or secure, a relatively obscure Japanese headphone maker could have the solution. Final's new Porta headphones feature an on-ear design supported by a headband but with a structure made from a single piece…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+    "image_url": null,
+    "published_at": "2026-10-19T14:03:28.000Z"
+  },
+  {
+    "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "image_url": null,
+    "published_at": "2026-10-19T13:58:41.000Z"
+  },
+  {
+    "headline": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
+    "summary": "The scale features a conductive indium tin oxide (ITO) coated glass surface so it can take BIA measurements no matter where your feet are positioned. | Image: Wyze Wyze announced a new version of its Ultra BodyScan smart scale that debuted nearly a year ago with additional electrodes on a retractable handle, allowing i…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display",
+    "image_url": null,
+    "published_at": "2026-10-19T13:00:00.000Z"
+  },
+  {
+    "headline": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+    "summary": "Apple said that it will ban AI apps that don't moderate offensive content.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+    "image_url": null,
+    "published_at": "2026-10-19T12:56:14.000Z"
+  },
+  {
+    "headline": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+    "summary": "That's more than $10 billion in shares, or around 1% of Musk's current net worth.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+    "image_url": null,
+    "published_at": "2026-10-19T12:42:55.000Z"
+  },
+  {
+    "headline": "Vibe coding is turning the music gear world upside down",
+    "summary": "They’re far more powerful and fun than their bargain price suggests. | Photo: Terrence O’Brien / The Verge If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+    "image_url": null,
+    "published_at": "2026-10-19T12:30:00.000Z"
+  },
+  {
+    "headline": "Democrats think cracking down on AI could give them an edge",
+    "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "image_url": null,
+    "published_at": "2026-10-19T12:00:00.000Z"
+  },
+  {
+    "headline": "The Maeving RM2 is high-style electric riding with a few compromises",
+    "summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly diffe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+    "image_url": null,
+    "published_at": "2026-10-19T11:00:00.000Z"
+  },
+  {
+    "headline": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+    "image_url": null,
+    "published_at": "2026-10-19T07:30:00.000Z"
+  },
+  {
     "headline": "A Savannah police officer gave her Flock login to her ICE agent husband",
     "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security…",
     "publisher": "The Verge",
@@ -1518,85 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
     "image_url": null,
     "published_at": "2026-10-13T14:00:00.000Z"
-  },
-  {
-    "headline": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-    "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace fr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-    "image_url": null,
-    "published_at": "2026-10-13T13:55:45.000Z"
-  },
-  {
-    "headline": "Discovery Plus is getting more expensive",
-    "summary": "Discovery Plus is raising prices across its ad-free and ad-supported plans. Starting Tuesday, the ad-supported plan will go from $5.99 to $6.99 / month, while the ad-free tier will jump from $9.99 to $11.99 / month. The price hike comes just one week after Paramount closed its acquisition of Warner Bros. Discovery, whi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/1009994/discovery-plus-price-increase",
-    "image_url": null,
-    "published_at": "2026-10-13T13:52:18.000Z"
-  },
-  {
-    "headline": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "image_url": null,
-    "published_at": "2026-10-13T13:50:19.000Z"
-  },
-  {
-    "headline": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-    "summary": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-    "image_url": null,
-    "published_at": "2026-10-13T13:38:03.000Z"
-  },
-  {
-    "headline": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
-    "summary": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-    "image_url": null,
-    "published_at": "2026-10-13T13:37:19.000Z"
-  },
-  {
-    "headline": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "image_url": null,
-    "published_at": "2026-10-13T13:28:06.000Z"
-  },
-  {
-    "headline": "Where to preorder the new Apple TV 4K",
-    "summary": "Apple debuted its latest Apple TV 4K - its first in four years - and it'll be available starting Friday, November 13th. It's powerful, with the A19 chip (the now-discontinued 2022 model has the A15 Bionic), plus a dedicated AV1 decoder, and it features better wireless connectivity than its predecessor, too. Siri AI is…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy",
-    "image_url": null,
-    "published_at": "2026-10-13T13:26:40.000Z"
-  },
-  {
-    "headline": "India delays digital payments fee rollout amid retailer pushback",
-    "summary": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-    "image_url": null,
-    "published_at": "2026-10-13T13:25:05.000Z"
-  },
-  {
-    "headline": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-    "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-    "image_url": null,
-    "published_at": "2026-10-13T13:16:11.000Z"
-  },
-  {
-    "headline": "Apple makes another push into the smart home market with HomeView",
-    "summary": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
-    "image_url": null,
-    "published_at": "2026-10-13T13:15:46.000Z"
   }
 ]
