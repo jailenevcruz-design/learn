@@ -1,11 +1,267 @@
 [
   {
+    "headline": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+    "summary": "Neocloud stocks are falling again following the sector's troubles last week",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+    "image_url": null,
+    "published_at": "2026-10-20T13:50:24.000Z"
+  },
+  {
+    "headline": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+    "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+    "image_url": null,
+    "published_at": "2026-10-20T13:46:36.000Z"
+  },
+  {
+    "headline": "Apple shares aren't cheap. Here's how to get long for less",
+    "summary": "The primary headwind for Apple is valuation.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/apple-shares-arent-cheap-heres-how-to-get-long-for-less.html",
+    "image_url": null,
+    "published_at": "2026-10-20T13:43:53.000Z"
+  },
+  {
+    "headline": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+    "summary": "The company's latest acquisition is expected to close in fiscal 2028, and will see Braze shareholders receive $47.50 in cash per share.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+    "image_url": null,
+    "published_at": "2026-10-20T13:41:30.000Z"
+  },
+  {
+    "headline": "SpaceX reports after the bell. Here's what options traders expect",
+    "summary": "It's been a busy three months for SpaceX. Traders think that means more gains for the stock after it reports earnings after the bell today.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+    "image_url": null,
+    "published_at": "2026-10-20T13:40:28.000Z"
+  },
+  {
+    "headline": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
+    "summary": "Oil extended its rally on Tuesday as investors continued to monitor developments in the Middle East.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+    "image_url": null,
+    "published_at": "2026-10-20T13:11:31.000Z"
+  },
+  {
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "summary": "Nasdaq futures are under pressure this morning, and General Motors is selling off on earnings.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "image_url": null,
+    "published_at": "2026-10-20T13:05:15.000Z"
+  },
+  {
+    "headline": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+    "summary": "Former OpenAI executive Bob McGrew is launching Arda at a $1.5 billion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+    "image_url": null,
+    "published_at": "2026-10-20T13:03:31.000Z"
+  },
+  {
+    "headline": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+    "summary": "The U.K.'s Royal Air Force will deploy jets to assist with defensive operations, but will not engage in offensive strikes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+    "image_url": null,
+    "published_at": "2026-10-20T12:58:24.000Z"
+  },
+  {
+    "headline": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+    "summary": "Novo released new evidence that its experimental CagriSema injection can improve upon the weight loss with its blockbuster GLP-1 obesity injection, Wegovy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+    "image_url": null,
+    "published_at": "2026-10-20T12:50:24.000Z"
+  },
+  {
+    "headline": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+    "summary": "Best Buy is launching a new gaming experience for customers as it leans into the business ahead of this fall's big launches.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
+    "image_url": null,
+    "published_at": "2026-10-20T12:45:30.000Z"
+  },
+  {
+    "headline": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
+    "summary": "Apple is adding a U.S. titanium supplier for its new iPhone Duo and expanding domestic production of camera components for the iPhone 18 Pro.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
+    "image_url": null,
+    "published_at": "2026-10-20T12:29:26.000Z"
+  },
+  {
+    "headline": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
+    "summary": "NBA star Draymond Green said he would love to retire as a member of the Warriors but plans to keep playing next season even if that means joining another team.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
+    "image_url": null,
+    "published_at": "2026-10-20T12:00:02.000Z"
+  },
+  {
+    "headline": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+    "summary": "Data center campuses house the servers that power AI and cloud computing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+    "image_url": null,
+    "published_at": "2026-10-20T10:39:17.000Z"
+  },
+  {
+    "headline": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
+    "summary": "Ukraine's President Volodymyr Zelenskyy is set to meet with U.S. special envoys on Tuesday after President Donald Trump aimed fresh criticism at the wartime leader.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
+    "image_url": null,
+    "published_at": "2026-10-20T10:30:49.000Z"
+  },
+  {
+    "headline": "What if an AI bubble bursts — and that accelerates AI job losses?",
+    "summary": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+    "image_url": null,
+    "published_at": "2026-10-20T10:30:00.000Z"
+  },
+  {
+    "headline": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+    "summary": "Prime Minister Sébastien Lecornu said Tuesday some areas would remain under curfew after a weekend of violent rioting.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+    "image_url": null,
+    "published_at": "2026-10-20T10:02:57.000Z"
+  },
+  {
+    "headline": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
+    "summary": "Walmart is now offering a joint membership with Sam's Club for $120 per year as the retailer further leans into convenience.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
+    "image_url": null,
+    "published_at": "2026-10-20T10:00:01.000Z"
+  },
+  {
+    "headline": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+    "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+    "image_url": null,
+    "published_at": "2026-10-20T09:00:00.000Z"
+  },
+  {
+    "headline": "Why are some food prices up and others down? Here are the stories of 5 items",
+    "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+    "image_url": null,
+    "published_at": "2026-10-20T09:00:00.000Z"
+  },
+  {
+    "headline": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+    "summary": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+    "image_url": null,
+    "published_at": "2026-10-20T08:17:14.000Z"
+  },
+  {
+    "headline": "What’s making Europe so angry? The frustration behind the protests",
+    "summary": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
+    "image_url": null,
+    "published_at": "2026-10-20T07:19:16.000Z"
+  },
+  {
+    "headline": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
+    "summary": "Copper is up 15.8% in 2026 as investors point to AI, grid and national security demand, tight supply and tariff-driven U.S. stockpiles.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+    "image_url": null,
+    "published_at": "2026-10-20T05:57:34.000Z"
+  },
+  {
+    "headline": "The world’s finance chiefs see new risks — and less China angst",
+    "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+    "image_url": null,
+    "published_at": "2026-10-20T05:27:53.000Z"
+  },
+  {
+    "headline": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+    "summary": "Jio Platforms plans to raise up to $3.2 billion through an IPO, which is India's largest ever in rupee terms, but the second largest in dollar terms.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+    "image_url": null,
+    "published_at": "2026-10-20T02:44:35.000Z"
+  },
+  {
+    "headline": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+    "summary": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+    "image_url": null,
+    "published_at": "2026-10-20T02:16:25.000Z"
+  },
+  {
+    "headline": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+    "summary": "Vice President JD Vance declined to follow Trump in endorsing Netanyahu, saying he’s “not getting involved in Israeli elections” a week before Israelis vote.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
+    "image_url": null,
+    "published_at": "2026-10-20T01:53:34.000Z"
+  },
+  {
     "headline": "Difficult times in agriculture are making it tough for the next generation of farmers",
     "summary": "Many farmers across the U.S. are reaching retirement age. But lately, increasing volatility and sky-high prices in agriculture are making it tough for the next generation to take over.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/19/nx-s1-5966889/difficult-times-in-agriculture-are-making-it-tough-for-the-next-generation-of-farmers",
     "image_url": null,
     "published_at": "2026-10-19T21:57:57.000Z"
+  },
+  {
+    "headline": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+    "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+    "image_url": null,
+    "published_at": "2026-10-19T20:54:40.000Z"
+  },
+  {
+    "headline": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+    "summary": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+    "image_url": null,
+    "published_at": "2026-10-19T19:46:07.000Z"
+  },
+  {
+    "headline": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+    "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+    "image_url": null,
+    "published_at": "2026-10-19T19:37:51.000Z"
+  },
+  {
+    "headline": "Anthropic is AI trade's last big hope for a major IPO this year",
+    "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+    "image_url": null,
+    "published_at": "2026-10-19T16:42:14.000Z"
+  },
+  {
+    "headline": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
+    "summary": "Some prospective Cornell University students are rethinking applications amid the Jane Doe sexual assault lawsuit, college admissions consultants say.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
+    "image_url": null,
+    "published_at": "2026-10-19T16:17:37.000Z"
   },
   {
     "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
@@ -30,14 +286,6 @@
     "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
     "image_url": null,
     "published_at": "2026-10-19T13:36:41.000Z"
-  },
-  {
-    "headline": "OpenAI bugging suspect communicated with Saudi royal on WhatsApp days before arrest, feds say",
-    "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "image_url": null,
-    "published_at": "2026-10-19T13:21:27.000Z"
   },
   {
     "headline": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
@@ -1350,253 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
     "image_url": null,
     "published_at": "2026-10-14T16:45:26.000Z"
-  },
-  {
-    "headline": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
-    "summary": "A ballistic missile has struck energy infrastructure supposedly covered by the \"energy ceasefire\" announced by Trump on Sunday, Zelenskyy said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
-    "image_url": null,
-    "published_at": "2026-10-14T16:34:24.000Z"
-  },
-  {
-    "headline": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
-    "summary": "Local opposition to data center construction has been a feature of the midterm elections set for Tuesday, Nov. 3.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
-    "image_url": null,
-    "published_at": "2026-10-14T16:27:12.000Z"
-  },
-  {
-    "headline": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
-    "summary": "The religious school in Texas is among college endowment funds rivaling market performance of Ivy investing giants like Yale and just hit the $1 billion mark.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
-    "image_url": null,
-    "published_at": "2026-10-14T16:14:08.000Z"
-  },
-  {
-    "headline": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
-    "summary": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
-    "image_url": null,
-    "published_at": "2026-10-14T15:03:59.000Z"
-  },
-  {
-    "headline": "Here's the inflation breakdown for September 2026 — in one chart",
-    "summary": "The consumer price index rose by 3.7% in September, on the back of higher gasoline and energy prices largely due to the Iran war.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
-    "image_url": null,
-    "published_at": "2026-10-14T14:56:25.000Z"
-  },
-  {
-    "headline": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
-    "summary": "Hispanic and Latino voters swung hard for President Donald Trump in 2024. But in the 2026 midterm election, Democrats are pushing to get them back.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
-    "image_url": null,
-    "published_at": "2026-10-14T14:25:40.000Z"
-  },
-  {
-    "headline": "Inflation sizzled in September — and Social Security benefits will get a boost",
-    "summary": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
-    "image_url": null,
-    "published_at": "2026-10-14T13:33:44.000Z"
-  },
-  {
-    "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-    "summary": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-    "image_url": null,
-    "published_at": "2026-10-14T13:25:24.000Z"
-  },
-  {
-    "headline": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
-    "summary": "Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
-    "image_url": null,
-    "published_at": "2026-10-14T12:10:03.000Z"
-  },
-  {
-    "headline": "Tech giants race to get AI gadgets on shelves for holiday rush",
-    "summary": "With the holidays just a couple months away, tech companies are betting this is finally the year that AI gadgets make the shopping list.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
-    "image_url": null,
-    "published_at": "2026-10-14T11:00:01.000Z"
-  },
-  {
-    "headline": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
-    "summary": "Republicans are largely leaving Trump out of general election ads, with some battleground candidates breaking from him on tariffs and Iran.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
-    "image_url": null,
-    "published_at": "2026-10-14T10:30:01.000Z"
-  },
-  {
-    "headline": "VIDEO: The skincare sample is free. What happens next can cost thousands",
-    "summary": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
-    "image_url": null,
-    "published_at": "2026-10-14T09:00:00.000Z"
-  },
-  {
-    "headline": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
-    "summary": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
-    "image_url": null,
-    "published_at": "2026-10-14T09:00:00.000Z"
-  },
-  {
-    "headline": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-    "summary": "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
-    "image_url": null,
-    "published_at": "2026-10-14T08:45:13.000Z"
-  },
-  {
-    "headline": "CNN, MS NOW and Politico prevail against White House — for now",
-    "summary": "A federal judge ruled late Tuesday that President Trump cannot ban news organizations from covering him at the White House because he does not like the nature of their coverage - at least, not until the matter goes to a formal trial.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
-    "image_url": null,
-    "published_at": "2026-10-14T07:16:02.000Z"
-  },
-  {
-    "headline": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
-    "summary": "The GDP print beat expectations of a 5% growth from economists polled by Reuters.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
-    "image_url": null,
-    "published_at": "2026-10-14T00:28:34.000Z"
-  },
-  {
-    "headline": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-    "image_url": null,
-    "published_at": "2026-10-13T23:05:12.000Z"
-  },
-  {
-    "headline": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
-    "summary": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-    "image_url": null,
-    "published_at": "2026-10-13T22:54:21.000Z"
-  },
-  {
-    "headline": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
-    "summary": "CNBC’s Jim Cramer said investors should hold off on buying newly public AI infrastructure company Accelevation Holdings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
-    "image_url": null,
-    "published_at": "2026-10-13T22:47:07.000Z"
-  },
-  {
-    "headline": "Six Flags shares decline following deadly roller coaster incident",
-    "summary": "One person died and several others were injured in an incident involving the Goliath roller coaster at Six Flags Over Georgia, according to reports.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
-    "image_url": null,
-    "published_at": "2026-10-13T21:18:03.000Z"
-  },
-  {
-    "headline": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
-    "summary": "Ex-FEMA CFO Mary Comans' name was cleared by a federal judge after Elon Musk and other government officials falsely accused her of criminal actions in 2025.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
-    "image_url": null,
-    "published_at": "2026-10-13T21:15:32.000Z"
-  },
-  {
-    "headline": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-    "summary": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-    "image_url": null,
-    "published_at": "2026-10-13T21:02:52.000Z"
-  },
-  {
-    "headline": "Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds",
-    "summary": "TIPS are looking attractive but they aren't the only way to get inflation protection.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
-    "image_url": null,
-    "published_at": "2026-10-13T20:52:22.000Z"
-  },
-  {
-    "headline": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-    "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-    "image_url": null,
-    "published_at": "2026-10-13T20:48:37.000Z"
-  },
-  {
-    "headline": "Bank of America fined $1.2 billion over money-laundering violations",
-    "summary": "The action by the Treasury Department was announced less than a day before Bank of America reports quarterly earnings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
-    "image_url": null,
-    "published_at": "2026-10-13T20:45:01.000Z"
-  },
-  {
-    "headline": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
-    "summary": "Walmart will offer Novo's Ozempic and Lilly's Mounjaro without charge for people with Type 2 diabetes after a new prior authorization.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
-    "image_url": null,
-    "published_at": "2026-10-13T20:29:06.000Z"
-  },
-  {
-    "headline": "Micron sinks, other memory-linked names dip for a second day",
-    "summary": "The sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-    "image_url": null,
-    "published_at": "2026-10-13T20:12:36.000Z"
-  },
-  {
-    "headline": "Why this little known Chinese chipmaker has caused a global stock rout",
-    "summary": "China's leading memory chipmaker CXMT has reportedly made progress on new designs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-    "image_url": null,
-    "published_at": "2026-10-13T20:05:58.000Z"
-  },
-  {
-    "headline": "We're upgrading our rating on Wells Fargo as the stock's pullback offers a nice entry point",
-    "summary": "Wells Fargo's third-quarter results were not perfect, but CEO Charlie Scharf's turnaround should bear more fruit ahead.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/13/were-upgrading-our-rating-on-wells-fargo-as-the-stocks-pullback-offers-a-nice-entry-point.html",
-    "image_url": null,
-    "published_at": "2026-10-13T19:51:06.000Z"
-  },
-  {
-    "headline": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-    "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-    "image_url": null,
-    "published_at": "2026-10-13T19:46:12.000Z"
-  },
-  {
-    "headline": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-    "summary": "The iPhone maker also announced the new Apple TV 4K and HomePod Mini.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-    "image_url": null,
-    "published_at": "2026-10-13T19:23:39.000Z"
   }
 ]

@@ -1,11 +1,35 @@
 [
   {
+    "headline": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+    "summary": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+    "image_url": null,
+    "published_at": "2026-10-20T11:04:49.000Z"
+  },
+  {
+    "headline": "DOJ charges 28 in California with voting crimes as election tensions escalate",
+    "summary": "The DOJ also filed an emergency request in federal court to stop California from processing ballots returned by people on the voter rolls the federal government says are \"likely noncitizens.\"",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes",
+    "image_url": null,
+    "published_at": "2026-10-19T22:10:06.000Z"
+  },
+  {
     "headline": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
     "summary": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
     "image_url": null,
     "published_at": "2026-10-19T21:56:37.000Z"
+  },
+  {
+    "headline": "Between the coasts, populist Democrats see room to reclaim lost ground in red states",
+    "summary": "In parts of the Great Plains and Midwest, Democrats are betting that harnessing anger at corporate power and both parties might succeed when voters believe the economy and government are not working.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/19/nx-s1-5985862/democrats-prairie-populism-montana-sam-forstag",
+    "image_url": null,
+    "published_at": "2026-10-19T21:14:26.000Z"
   },
   {
     "headline": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
@@ -38,6 +62,14 @@
     "url": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
     "image_url": null,
     "published_at": "2026-10-19T08:46:18.000Z"
+  },
+  {
+    "headline": "Democrats — and Elon Musk — continue to dominate midterm campaign fundraising",
+    "summary": "Democratic candidates are on offense with fundraising, and Republican super PACs continue to play defense heading into the final weeks of the midterm.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/19/nx-s1-6004922/democrats-republicans-elon-musk-super-pacs-campaign-fundraising",
+    "image_url": null,
+    "published_at": "2026-10-19T08:45:40.000Z"
   },
   {
     "headline": "What does a White House press secretary do?",
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/09/18/nx-s1-5895113/some-gop-candidates-are-still-making-election-fraud-claims-voters-want-to-move-on",
     "image_url": null,
     "published_at": "2026-09-18T08:45:52.000Z"
-  },
-  {
-    "headline": "Republican candidate in Florida runs ads criticizing Trump's immigration enforcement",
-    "summary": "In a rare move, a House Republican running in a competitive race in South Florida is publicly breaking with President Trump. Maria Elvira Salazar represents a majority Hispanic district.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5973221/republican-candidate-in-florida-runs-ads-criticizing-trumps-immigration-enforcement",
-    "image_url": null,
-    "published_at": "2026-09-18T08:45:44.000Z"
-  },
-  {
-    "headline": "Texas Republican candidate under fire for comment about university students of color",
-    "summary": "A Texas Republican's complaint that too many people of color were in a video of the crowd at a University of Texas football game set off condemnations.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5971523/texas-republican-candidate-under-fire-for-comment-about-university-students-of-color",
-    "image_url": null,
-    "published_at": "2026-09-18T08:45:14.000Z"
-  },
-  {
-    "headline": "Trump's week of setbacks: The president's priorities get rare pushback",
-    "summary": "President Trump's agenda has run into rare institutional pushback on a variety of issues from mail-in voting to the Federal Reserve.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5973062/trumps-week-of-setbacks-the-presidents-priorities-get-rare-pushback",
-    "image_url": null,
-    "published_at": "2026-09-18T08:44:58.000Z"
-  },
-  {
-    "headline": "What do Trump's supporters think of the political pushback he's faced",
-    "summary": "NPR's Michel Martin speaks with Will Sommer of The Bulwark about the pushback President Trump has faced at home and abroad on some of his policies and initiatives.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5973069/what-do-trumps-supporters-think-of-the-political-pushback-hes-faced",
-    "image_url": null,
-    "published_at": "2026-09-18T08:44:52.000Z"
   }
 ]
