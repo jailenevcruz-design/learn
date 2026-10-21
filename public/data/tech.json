@@ -1,5 +1,69 @@
 [
   {
+    "headline": "YouTube might be testing hiding the dislike button",
+    "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, for m…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+    "image_url": null,
+    "published_at": "2026-10-21T00:00:56.000Z"
+  },
+  {
+    "headline": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent m…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "image_url": null,
+    "published_at": "2026-10-20T23:04:19.000Z"
+  },
+  {
+    "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "image_url": null,
+    "published_at": "2026-10-20T23:01:23.000Z"
+  },
+  {
+    "headline": "SpaceX and Tesla boards form special committees to review merger",
+    "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+    "image_url": null,
+    "published_at": "2026-10-20T22:57:57.000Z"
+  },
+  {
+    "headline": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "image_url": null,
+    "published_at": "2026-10-20T22:24:02.000Z"
+  },
+  {
+    "headline": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+    "summary": "Influencer Nick Shirley listens as US President Donald Trump makes an announcement on fraud in the Oval Office of the White House in Washington, DC, on October 20, 2026. (Photo by Jim WATSON / AFP via Getty Images) | AFP via Getty Images Donald Trump and Vice President JD Vance said on Tuesday that the Trump administra…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+    "image_url": null,
+    "published_at": "2026-10-20T22:20:11.000Z"
+  },
+  {
+    "headline": "Google’s more personalized Gemini AI is heading to your car",
+    "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "image_url": null,
+    "published_at": "2026-10-20T22:11:34.000Z"
+  },
+  {
+    "headline": "Tesla and SpaceX are discussing a possible merger, Musk says",
+    "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+    "image_url": null,
+    "published_at": "2026-10-20T21:30:24.000Z"
+  },
+  {
     "headline": "Anthropic’s cloud partnerships are getting messy",
     "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
     "publisher": "TechCrunch",
@@ -25,7 +89,7 @@
   },
   {
     "headline": "SpaceX’s AI business is beating expectations",
-    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "image_url": null,
@@ -72,14 +136,6 @@
     "published_at": "2026-10-20T20:16:04.000Z"
   },
   {
-    "headline": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-    "summary": "The Superstrike looks similar to Logitech’s previous high-end gaming mice, but it has haptics-based sensors instead of switches. | Image: Cameron Faulkner / The Verge Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-20T20:00:00.000Z"
-  },
-  {
     "headline": "Google is bringing a more personal version of its Gemini AI assistant to your car",
     "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
     "publisher": "TechCrunch",
@@ -88,7 +144,15 @@
     "published_at": "2026-10-20T20:00:00.000Z"
   },
   {
-    "headline": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+    "headline": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
+    "summary": "The Superstrike looks similar to Logitech’s previous high-end gaming mice, but it has haptics-based sensors instead of switches. | Image: Cameron Faulkner / The Verge Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-20T20:00:00.000Z"
+  },
+  {
+    "headline": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
     "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
@@ -137,22 +201,22 @@
   },
   {
     "headline": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "summary": "Eric Schmidt’s fortune is about to get even bigger.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
     "image_url": null,
     "published_at": "2026-10-20T17:55:12.000Z"
   },
   {
-    "headline": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "headline": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+    "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
     "image_url": null,
     "published_at": "2026-10-20T17:12:48.000Z"
   },
   {
-    "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+    "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
     "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
@@ -209,7 +273,7 @@
   },
   {
     "headline": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
     "image_url": null,
@@ -225,7 +289,7 @@
   },
   {
     "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
     "image_url": null,
@@ -1534,69 +1598,5 @@
     "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
     "image_url": null,
     "published_at": "2026-10-14T22:00:02.000Z"
-  },
-  {
-    "headline": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-    "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-    "image_url": null,
-    "published_at": "2026-10-14T22:00:00.000Z"
-  },
-  {
-    "headline": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-    "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-    "image_url": null,
-    "published_at": "2026-10-14T21:48:20.000Z"
-  },
-  {
-    "headline": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-    "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "image_url": null,
-    "published_at": "2026-10-14T21:30:33.000Z"
-  },
-  {
-    "headline": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-    "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unl…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-    "image_url": null,
-    "published_at": "2026-10-14T21:11:28.000Z"
-  },
-  {
-    "headline": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-    "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-    "image_url": null,
-    "published_at": "2026-10-14T21:00:00.000Z"
-  },
-  {
-    "headline": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-    "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-    "image_url": null,
-    "published_at": "2026-10-14T20:26:25.000Z"
-  },
-  {
-    "headline": "Electric vehicle sales in the US are showing signs of life",
-    "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
-    "image_url": null,
-    "published_at": "2026-10-14T20:12:07.000Z"
-  },
-  {
-    "headline": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-    "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police Agency,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-    "image_url": null,
-    "published_at": "2026-10-14T20:03:43.000Z"
   }
 ]

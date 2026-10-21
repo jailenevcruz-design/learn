@@ -1,5 +1,29 @@
 [
   {
+    "headline": "The Art World Has an AI Problem",
+    "summary": "A diatribe against AI-generated art writing, MIT professors bedazzle security cameras, and Art Basel Paris goes into lockdown.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/the-art-world-has-an-ai-problem/",
+    "image_url": null,
+    "published_at": "2026-10-21T10:00:00.000Z"
+  },
+  {
+    "headline": "Can AI Help Identify the Sitters in Historical Portraits?",
+    "summary": "Identifying a sitter in a centuries-old portrait is a tricky art-historical task. Can new technologies be another item in the researcher’s tool kit?",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/can-ai-help-identify-sitters-in-centuries-old-portraits-1234803090/",
+    "image_url": null,
+    "published_at": "2026-10-21T09:30:00.000Z"
+  },
+  {
+    "headline": "Rosana Paulino’s Pantheon of Black Plant Goddesses Arrives in Paris",
+    "summary": "The artist opens an exhibition of her ongoing “Senhora das Plantas” (Lady of the Plants) series at Mendes Wood DM’s gallery in the French capital.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/artists/rosana-paulino-mendes-wood-dm-paris-exhibition-1234803173/",
+    "image_url": null,
+    "published_at": "2026-10-21T07:00:00.000Z"
+  },
+  {
     "headline": "Live From the Lavender Lake",
     "summary": "Dispatches from open studios events across town and the Tompkins Square Dog Halloween Parade.",
     "publisher": "Hyperallergic",
@@ -1574,29 +1598,5 @@
     "url": "https://www.artnews.com/art-news/news/former-bard-president-resigns-college-affiliations-amid-inquiry-into-jeffrey-epstein-ties-1234801710/",
     "image_url": null,
     "published_at": "2026-10-08T16:00:36.000Z"
-  },
-  {
-    "headline": "Frank Gillette’s Anthropic Blues",
-    "summary": "Elegiac, urgent, and infinitesimal, the videos and Polaroids in \"Spectra Obscura\" express distinct sorts of disappearance, decay, and fleeting natural phenomena.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/frank-gillettes-anthropic-blues/",
-    "image_url": null,
-    "published_at": "2026-10-08T15:35:32.000Z"
-  },
-  {
-    "headline": "Medical Imaging and Art Meet in the Exhibition “Overexposed”",
-    "summary": "The concurrent emergence of cinema and X-ray technology radically transformed how we see and understand the human body.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/medical-imaging-and-art-meet-in-the-exhibition-overexposed/",
-    "image_url": null,
-    "published_at": "2026-10-08T15:18:45.000Z"
-  },
-  {
-    "headline": "I Wanted a Different Betty Parsons Exhibition",
-    "summary": "It might have made a more fascinating exhibition to explore her balancing act as a gallerist, but this show focuses on her less interesting art.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/i-wanted-a-different-betty-parsons-exhibition/",
-    "image_url": null,
-    "published_at": "2026-10-08T14:54:47.000Z"
   }
 ]
