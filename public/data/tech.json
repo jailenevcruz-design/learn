@@ -1,5 +1,141 @@
 [
   {
+    "headline": "Meta turns Muse sharing back on",
+    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earli…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "image_url": null,
+    "published_at": "2026-10-22T20:24:04.000Z"
+  },
+  {
+    "headline": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+    "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+    "image_url": null,
+    "published_at": "2026-10-22T20:23:48.000Z"
+  },
+  {
+    "headline": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+    "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+    "image_url": null,
+    "published_at": "2026-10-22T20:01:51.000Z"
+  },
+  {
+    "headline": "The secret to fast startup growth isn’t early sales, top names in tech say",
+    "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+    "image_url": null,
+    "published_at": "2026-10-22T20:00:00.000Z"
+  },
+  {
+    "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+    "summary": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this mer…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+    "image_url": null,
+    "published_at": "2026-10-22T19:45:00.000Z"
+  },
+  {
+    "headline": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+    "summary": "It looks exactly like what you’d expect a Teenage Engineering guitar amp to look like. | Image: Teenage Engineering Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in p…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+    "image_url": null,
+    "published_at": "2026-10-22T19:44:51.000Z"
+  },
+  {
+    "headline": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+    "summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. But this week, Bhatt d…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
+    "image_url": null,
+    "published_at": "2026-10-22T19:15:00.000Z"
+  },
+  {
+    "headline": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+    "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently sw…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+    "image_url": null,
+    "published_at": "2026-10-22T19:13:42.000Z"
+  },
+  {
+    "headline": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "image_url": null,
+    "published_at": "2026-10-22T19:07:09.000Z"
+  },
+  {
+    "headline": "Canva releases its first image generation model",
+    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "image_url": null,
+    "published_at": "2026-10-22T19:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "image_url": null,
+    "published_at": "2026-10-22T19:00:00.000Z"
+  },
+  {
+    "headline": "Discord now formats Markdown previews right",
+    "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharin…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+    "image_url": null,
+    "published_at": "2026-10-22T18:58:19.000Z"
+  },
+  {
+    "headline": "The new Fire TV Stick 4K is already half off",
+    "summary": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power connection, meaning it can dr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-22T18:43:57.000Z"
+  },
+  {
+    "headline": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "image_url": null,
+    "published_at": "2026-10-22T18:43:53.000Z"
+  },
+  {
+    "headline": "Refurbished PS5 consoles include second controller for an extra $18",
+    "summary": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because company has a new limit…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
+    "image_url": null,
+    "published_at": "2026-10-22T18:38:50.000Z"
+  },
+  {
+    "headline": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+    "image_url": null,
+    "published_at": "2026-10-22T18:38:47.000Z"
+  },
+  {
+    "headline": "Delta can turn the iPhone Duo into your favorite folding handheld",
+    "summary": "The Duo has a Nintendo DS-like shape anyway, so Delta 2.0 is running with it. | Image: Riley Testut The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
+    "image_url": null,
+    "published_at": "2026-10-22T18:30:00.000Z"
+  },
+  {
     "headline": "Elon Musk made a $1 billion investment in Skydance, report says",
     "summary": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
     "publisher": "TechCrunch",
@@ -56,14 +192,6 @@
     "published_at": "2026-10-22T16:00:29.000Z"
   },
   {
-    "headline": "Microsoft shuts down its beloved maker space",
-    "summary": "Microsoft CEO Satya Nadella at a hackathon event in 2016. | Image: Microsoft Microsoft is closing down The Garage, a set of popular maker spaces where employees worked on experimental projects and collaborated on surprising new apps and hardware during the company's annual hackathon events. \"We're winding down The Gara…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1016389/microsoft-garage-closure-hackathon-notepad",
-    "image_url": null,
-    "published_at": "2026-10-22T16:00:00.000Z"
-  },
-  {
     "headline": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
     "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
     "publisher": "TechCrunch",
@@ -76,6 +204,14 @@
     "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "image_url": null,
+    "published_at": "2026-10-22T16:00:00.000Z"
+  },
+  {
+    "headline": "Microsoft shuts down its beloved maker space",
+    "summary": "Microsoft CEO Satya Nadella at a hackathon event in 2016. | Image: Microsoft Microsoft is closing down The Garage, a set of popular maker spaces where employees worked on experimental projects and collaborated on surprising new apps and hardware during the company's annual hackathon events. \"We're winding down The Gara…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1016389/microsoft-garage-closure-hackathon-notepad",
     "image_url": null,
     "published_at": "2026-10-22T16:00:00.000Z"
   },
@@ -1462,141 +1598,5 @@
     "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
     "image_url": null,
     "published_at": "2026-10-16T16:30:00.000Z"
-  },
-  {
-    "headline": "Waymo’s robotaxis are headed to Canada",
-    "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-    "image_url": null,
-    "published_at": "2026-10-16T16:06:38.000Z"
-  },
-  {
-    "headline": "The new Apple TV 4K just got its first (very small) discount",
-    "summary": "The new Apple TV 4K will be available in November. | Image: The Verge Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-16T16:02:22.000Z"
-  },
-  {
-    "headline": "Elorian’s first AI model wants to reason with images, not just about them",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "image_url": null,
-    "published_at": "2026-10-16T16:01:37.000Z"
-  },
-  {
-    "headline": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-    "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-    "image_url": null,
-    "published_at": "2026-10-16T16:00:00.000Z"
-  },
-  {
-    "headline": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-    "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-    "image_url": null,
-    "published_at": "2026-10-16T16:00:00.000Z"
-  },
-  {
-    "headline": "Apple&#8217;s HomeView has an app problem",
-    "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And yet the HomeView is relyin…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-    "image_url": null,
-    "published_at": "2026-10-16T15:38:17.000Z"
-  },
-  {
-    "headline": "Jev is Vercel’s fastest-adopted AI model ever",
-    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "image_url": null,
-    "published_at": "2026-10-16T15:33:49.000Z"
-  },
-  {
-    "headline": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
-    "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
-    "image_url": null,
-    "published_at": "2026-10-16T15:08:38.000Z"
-  },
-  {
-    "headline": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-    "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its Play Store…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
-    "image_url": null,
-    "published_at": "2026-10-16T15:02:23.000Z"
-  },
-  {
-    "headline": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-    "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this n…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-    "image_url": null,
-    "published_at": "2026-10-16T15:00:00.000Z"
-  },
-  {
-    "headline": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "image_url": null,
-    "published_at": "2026-10-16T14:26:51.000Z"
-  },
-  {
-    "headline": "The incredible flying Tesla Roadster is just for show",
-    "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word i…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-    "image_url": null,
-    "published_at": "2026-10-16T14:15:29.000Z"
-  },
-  {
-    "headline": "Meta’s new terms may allow it to train AI on news sites for free",
-    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, resear…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "image_url": null,
-    "published_at": "2026-10-16T14:02:40.000Z"
-  },
-  {
-    "headline": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "image_url": null,
-    "published_at": "2026-10-16T14:00:00.000Z"
-  },
-  {
-    "headline": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-    "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pairing a small stack of credit cards to your phone, but its storage capa…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-    "image_url": null,
-    "published_at": "2026-10-16T13:33:21.000Z"
-  },
-  {
-    "headline": "iPhone Duo orders are already delayed into 2027",
-    "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch in stores on October 23rd, and Apple ty…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-    "image_url": null,
-    "published_at": "2026-10-16T13:10:11.000Z"
-  },
-  {
-    "headline": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "image_url": null,
-    "published_at": "2026-10-16T12:55:09.000Z"
   }
 ]
