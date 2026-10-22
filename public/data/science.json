@@ -1,11 +1,99 @@
 [
   {
-    "headline": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+    "headline": "New human data hints at psychedelics' potential to combat inflammation",
+    "summary": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first data in humans that signals this holds potential for patients with neurodegenerative diseases like Parkinson's disease.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
+    "image_url": null,
+    "published_at": "2026-10-21T15:33:18.000Z"
+  },
+  {
+    "headline": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
+    "summary": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processed whole grains and dairy products were associated with lower…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T13:22:17.000Z"
+  },
+  {
+    "headline": "Too much RNA can starve cells of energy, scientists discover",
+    "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system. The discovery co…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T13:02:34.000Z"
+  },
+  {
+    "headline": "A train was delayed by a solar storm. But something didn't add up.",
+    "summary": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication syst…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T12:35:57.000Z"
+  },
+  {
+    "headline": "Astronauts’ hearts just passed a surprising test for Mars",
+    "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without major problems, offer…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T11:59:14.000Z"
+  },
+  {
+    "headline": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
+    "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better understand age-relate…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T11:03:52.000Z"
+  },
+  {
+    "headline": "Just 4 minutes a day can dramatically improve strength after 65",
+    "summary": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningful gains in balance, leg strength, and their ability to stand up from a chair, all important factors for maintaining ind…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085025.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T09:52:28.000Z"
+  },
+  {
+    "headline": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
+    "summary": "NASA’s Perseverance rover has shattered a historic space exploration record, traveling farther across another world than any vehicle before it. Its advanced self-driving system helped it surpass Opportunity’s 28.06-mile record in just five and a half years, a feat that previously took nearly 15. Now, Perseverance is ex…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T09:22:36.000Z"
+  },
+  {
+    "headline": "How much does pregnancy cost? Be prepared with these tips",
     "summary": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giving birth.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
     "image_url": null,
     "published_at": "2026-10-21T09:00:00.000Z"
+  },
+  {
+    "headline": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+    "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain of rock and water 1.…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T04:08:28.000Z"
+  },
+  {
+    "headline": "Scientists discover ghostly, eyeless creature hidden in Chinese cave",
+    "summary": "Deep inside a high-altitude Chinese cave, scientists discovered a ghostly, eyeless freshwater snail that has evolved to live entirely in darkness, marking the first recorded discovery of its kind in China. Named after a faceless mythical creature, the rare species may already be in danger, with researchers finding only…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T03:08:17.000Z"
+  },
+  {
+    "headline": "Scientists find 10 different diets linked to slower aging",
+    "summary": "A study by DZNE finds that healthy eating is associated with slower biological aging—and that there is more than one way to eat healthily. The researchers examined ten dietary patterns considered healthy, including the Mediterranean, Nordic, and a plant-based diet, as well as the DASH diet, which is designed to help lo…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261019093439.htm",
+    "image_url": null,
+    "published_at": "2026-10-21T01:58:07.000Z"
   },
   {
     "headline": "Scientists finally uncover why statins can cause muscle pain",
@@ -1510,93 +1598,5 @@
     "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
     "image_url": null,
     "published_at": "2026-10-06T10:16:28.000Z"
-  },
-  {
-    "headline": "Wildfire smoke affects animals in unique ways. Scientists are trying to understand it",
-    "summary": "The new field of \"smoke ecology\" examines how wildfire smoke perturbs wild places and animals — and what might be done to prevent its worst mayhem.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/nx-s1-5991854/wildfire-smoke-ecology-birds-wildlife-health",
-    "image_url": null,
-    "published_at": "2026-10-06T09:00:00.000Z"
-  },
-  {
-    "headline": "Scientists finally see how nature moves energy so efficiently",
-    "summary": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are closely linked to the rearrangement of surrounding water molecules. Because similar reactions drive photosynthesis and other…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
-    "image_url": null,
-    "published_at": "2026-10-06T07:49:51.000Z"
-  },
-  {
-    "headline": "A few drops of this Japanese tree oil may help you sleep more soundly",
-    "summary": "In a small study, sleeping near the scent of Hinoki root essential oil was linked to fewer nighttime awakenings, better morning alertness, and brain-wave changes associated with smoother sleep onset. The findings suggest an overlooked forestry byproduct could someday become a natural ingredient in sleep and relaxation…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261002080030.htm",
-    "image_url": null,
-    "published_at": "2026-10-06T04:33:58.000Z"
-  },
-  {
-    "headline": "Tropical trees built homes for ants. Wasps are taking them over",
-    "summary": "Predatory wasps are hijacking shelters built by tropical trees for their ant defenders, potentially disrupting an ancient partnership that protects the plants from hungry insects. The takeover is far more common in disturbed landscapes such as oil palm plantations and could have lasting consequences for forest recovery…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261004001832.htm",
-    "image_url": null,
-    "published_at": "2026-10-06T03:12:36.000Z"
-  },
-  {
-    "headline": "MIT scientists find a hidden cancer risk of the keto diet",
-    "summary": "A ketogenic diet increased small-intestinal tumors in cancer-prone mice while reducing tumors in the colon, revealing a strikingly different response within neighboring parts of the gut. Researchers traced the increased risk not to ketones, but to the way intestinal stem cells processed the diet’s high levels of fat. T…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261002080037.htm",
-    "image_url": null,
-    "published_at": "2026-10-06T01:18:45.000Z"
-  },
-  {
-    "headline": "Scientists reveal what seven days of fasting does to the human body",
-    "summary": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that go beyond weight loss and could eventually inspire treatments that mimic its effec…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
-    "image_url": null,
-    "published_at": "2026-10-05T12:26:03.000Z"
-  },
-  {
-    "headline": "Vagus Nerve Stimulation Could Help New Skills Stick",
-    "summary": "Stimulating the vagus nerve after practice helped mice develop stronger long-term motor learning, revealing a potentially important window when the brain is still locking in a new skill. The effect was linked to rhythmic changes in brain blood vessels, hinting that body-to-brain signals may help prepare the brain for l…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
-    "image_url": null,
-    "published_at": "2026-10-05T12:13:07.000Z"
-  },
-  {
-    "headline": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
-    "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the best viewing should come before dawn after the Moon sets.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
-    "image_url": null,
-    "published_at": "2026-10-05T11:59:17.000Z"
-  },
-  {
-    "headline": "A new kind of magnetism could unlock faster, more efficient computers",
-    "summary": "Scientists have discovered evidence of altermagnetism in a thin, highly tunable material that could help electronics use electron spin instead of relying only on electrical charge. The unusual magnetic state may enable faster, more energy-efficient devices without the unwanted magnetic interference caused by convention…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261002080015.htm",
-    "image_url": null,
-    "published_at": "2026-10-05T11:35:24.000Z"
-  },
-  {
-    "headline": "Scientists just found a way to fight lung cancer and muscle wasting at the same time",
-    "summary": "A new nanoparticle therapy reduced lung tumors in mice while also targeting cachexia, the severe muscle wasting that can accompany cancer. By delivering follistatin mRNA directly to tumors, the approach could eventually offer a way to fight both the disease and one of its most dangerous complications.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261001214129.htm",
-    "image_url": null,
-    "published_at": "2026-10-05T11:11:21.000Z"
-  },
-  {
-    "headline": "Nobel medicine prize goes to 3 scientists for research into brain activity",
-    "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
-    "image_url": null,
-    "published_at": "2026-10-05T10:11:33.000Z"
   }
 ]
