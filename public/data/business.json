@@ -1,11 +1,155 @@
 [
   {
-    "headline": "California's Proposition 40: What voters need to know about the billionaire wealth tax",
+    "headline": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+    "summary": "The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrows.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+    "image_url": null,
+    "published_at": "2026-10-22T17:39:03.000Z"
+  },
+  {
+    "headline": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+    "summary": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+    "image_url": null,
+    "published_at": "2026-10-22T17:37:47.000Z"
+  },
+  {
+    "headline": "We're dipping back into the AI trade with our first data center buy in weeks",
+    "summary": "The stock is also getting an upgrade, with the expectation of a bounce ahead.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/22/were-dipping-back-into-the-data-center-trade-with-small-buy.html",
+    "image_url": null,
+    "published_at": "2026-10-22T17:28:19.000Z"
+  },
+  {
+    "headline": "Elon Musk reportedly invests about $1 billion in Skydance",
+    "summary": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+    "image_url": null,
+    "published_at": "2026-10-22T17:04:32.000Z"
+  },
+  {
+    "headline": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+    "summary": "\"We're going to have an amazing 2027,\" he said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+    "image_url": null,
+    "published_at": "2026-10-22T17:04:12.000Z"
+  },
+  {
+    "headline": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+    "summary": "FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
+    "image_url": null,
+    "published_at": "2026-10-22T17:01:08.000Z"
+  },
+  {
+    "headline": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+    "summary": "Trump's lawyers had requested that his deposition be conducted between Jan. 11 and Jan. 22.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
+    "image_url": null,
+    "published_at": "2026-10-22T16:59:00.000Z"
+  },
+  {
+    "headline": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+    "summary": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+    "image_url": null,
+    "published_at": "2026-10-22T16:54:26.000Z"
+  },
+  {
+    "headline": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    "summary": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+    "image_url": null,
+    "published_at": "2026-10-22T16:49:56.000Z"
+  },
+  {
+    "headline": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+    "summary": "CNBC got a tour of the Regent Suite, a top-of-the-line offering on Regent's Seven Seas Splendor that goes for $15,000 a night.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
+    "image_url": null,
+    "published_at": "2026-10-22T16:46:29.000Z"
+  },
+  {
+    "headline": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    "summary": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+    "image_url": null,
+    "published_at": "2026-10-22T16:40:09.000Z"
+  },
+  {
+    "headline": "Why governments pulled websites offline over the decades-old PHP programming language",
+    "summary": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+    "image_url": null,
+    "published_at": "2026-10-22T16:19:34.000Z"
+  },
+  {
+    "headline": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
     "summary": "California's billionaire wealth tax, Proposition 40, looks like a close call based on recent polls. Here is what to know before Election Day on Nov. 3.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
     "image_url": null,
-    "published_at": "2026-10-22T12:26:20.000Z"
+    "published_at": "2026-10-22T16:04:09.000Z"
+  },
+  {
+    "headline": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+    "summary": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+    "image_url": null,
+    "published_at": "2026-10-22T15:52:00.000Z"
+  },
+  {
+    "headline": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+    "summary": "Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+    "image_url": null,
+    "published_at": "2026-10-22T15:45:57.000Z"
+  },
+  {
+    "headline": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
+    "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+    "image_url": null,
+    "published_at": "2026-10-22T15:36:13.000Z"
+  },
+  {
+    "headline": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+    "summary": "CoreWeave shares are down 35% in October, and the spreads in its credit default swaps are widening.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+    "image_url": null,
+    "published_at": "2026-10-22T15:35:55.000Z"
+  },
+  {
+    "headline": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+    "summary": "Iran is going to grow more desperate as oil money dries up, which makes the country even more dangerous.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+    "image_url": null,
+    "published_at": "2026-10-22T15:16:05.000Z"
+  },
+  {
+    "headline": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
+    "summary": "It's the fourth major U.S. carrier to cut its 2026 forecast this month because of a spike in fuel costs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-10-22T14:52:09.000Z"
   },
   {
     "headline": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
@@ -13,7 +157,7 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
     "image_url": null,
-    "published_at": "2026-10-22T12:17:59.000Z"
+    "published_at": "2026-10-22T14:33:34.000Z"
   },
   {
     "headline": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
@@ -21,7 +165,23 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
     "image_url": null,
-    "published_at": "2026-10-22T12:11:29.000Z"
+    "published_at": "2026-10-22T14:21:56.000Z"
+  },
+  {
+    "headline": "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
+    "summary": "Blackstone COO Jon Gray says CoreWeave's underlying business is strong despite concerns over its mounting debt.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/blackstone-jon-gray-coreweave-financing.html",
+    "image_url": null,
+    "published_at": "2026-10-22T14:11:14.000Z"
+  },
+  {
+    "headline": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
+    "summary": "The Maine Senate race between Republican incumbent Susan Collins and Democrat Troy Jackson presents a laboratory for public sentiment on Trump's Canada tariffs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
+    "image_url": null,
+    "published_at": "2026-10-22T13:53:23.000Z"
   },
   {
     "headline": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
@@ -29,7 +189,23 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
     "image_url": null,
-    "published_at": "2026-10-22T12:03:40.000Z"
+    "published_at": "2026-10-22T13:18:36.000Z"
+  },
+  {
+    "headline": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
+    "summary": "Nvidia's Jensen Huang told CNBC that a surplus of memory supply is unlikely by 2029, as memory stocks have taken a beating in the past week.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html",
+    "image_url": null,
+    "published_at": "2026-10-22T13:12:38.000Z"
+  },
+  {
+    "headline": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+    "summary": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+    "image_url": null,
+    "published_at": "2026-10-22T12:42:01.000Z"
   },
   {
     "headline": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
@@ -46,22 +222,6 @@
     "url": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
     "image_url": null,
     "published_at": "2026-10-22T12:00:02.000Z"
-  },
-  {
-    "headline": "Why governments pulled websites offline over a decades-old programming language",
-    "summary": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
-    "image_url": null,
-    "published_at": "2026-10-22T12:00:02.000Z"
-  },
-  {
-    "headline": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
-    "summary": "It's the fourth major U.S. carrier to cut its 2026 forecast this month because of a spike in fuel costs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-10-22T11:56:43.000Z"
   },
   {
     "headline": "Barclays to slash 5,000 jobs in AI efficiency push",
@@ -96,28 +256,12 @@
     "published_at": "2026-10-22T10:43:38.000Z"
   },
   {
-    "headline": "Brent crude tops $111 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-    "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-    "image_url": null,
-    "published_at": "2026-10-22T10:42:21.000Z"
-  },
-  {
     "headline": "New bipartisan bill aims to speed up clinical trials for rare disease treatments",
     "summary": "A new bipartisan bill aims to speed rare disease drug development by making clinical trials faster, cheaper and more accessible to patients.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/22/bipartisan-bill-aims-to-speed-up-trials-for-rare-disease-treatments.html",
     "image_url": null,
     "published_at": "2026-10-22T10:30:01.000Z"
-  },
-  {
-    "headline": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
-    "summary": "The Maine Senate race between Republican incumbent Susan Collins and Democrat Troy Jackson presents a laboratory for public sentiment on Trump's Canada tariffs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
-    "image_url": null,
-    "published_at": "2026-10-22T10:00:01.000Z"
   },
   {
     "headline": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
@@ -232,14 +376,6 @@
     "published_at": "2026-10-21T23:32:04.000Z"
   },
   {
-    "headline": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-    "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-    "image_url": null,
-    "published_at": "2026-10-21T22:50:35.000Z"
-  },
-  {
     "headline": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
     "summary": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
     "publisher": "CNBC",
@@ -278,14 +414,6 @@
     "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
     "image_url": null,
     "published_at": "2026-10-21T21:41:23.000Z"
-  },
-  {
-    "headline": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-    "summary": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-10-21T21:07:11.000Z"
   },
   {
     "headline": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
@@ -1470,133 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
     "image_url": null,
     "published_at": "2026-10-16T12:36:00.000Z"
-  },
-  {
-    "headline": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
-    "summary": "Elon Musk gave a record $158 million to the GOP’s Senate Leadership Fund, boosting its war chest as Republicans pour money into Texas to defend Ken Paxton.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
-    "image_url": null,
-    "published_at": "2026-10-16T12:17:29.000Z"
-  },
-  {
-    "headline": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
-    "summary": "Nvidia has a near monopoly over the most powerful AI chips and Huang courts tech execs and world leaders with ease.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
-    "image_url": null,
-    "published_at": "2026-10-16T11:33:44.000Z"
-  },
-  {
-    "headline": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-    "summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-    "image_url": null,
-    "published_at": "2026-10-16T11:02:24.000Z"
-  },
-  {
-    "headline": "Nike's India campus is a long-term growth bet amid turnaround",
-    "summary": "Nike announced earlier this month that it's expanding into India. The retailer has been broadly struggling, especially in the China market.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html",
-    "image_url": null,
-    "published_at": "2026-10-16T11:00:01.000Z"
-  },
-  {
-    "headline": "What this bankruptcy says about AI startups",
-    "summary": "Character.AI collected millions of users, making it a very appealing acquisition. Google took a unique route to \"acquiring\" it, hiring away its founders and licensing its technology. Now Character.AI is filing for bankruptcy. Here's what to know.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/sections/planet-money/2026/10/16/nx-s1-6001828/what-this-bankruptcy-says-about-ai-startups",
-    "image_url": null,
-    "published_at": "2026-10-16T11:00:00.000Z"
-  },
-  {
-    "headline": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
-    "summary": "Existing ethical rules mean the fund is not permitted to invest in companies like Lockheed Martin and Boeing.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html",
-    "image_url": null,
-    "published_at": "2026-10-16T10:56:47.000Z"
-  },
-  {
-    "headline": "Trump says he won't use nuclear weapons or send ground troops to Iran",
-    "summary": "Trump said he would not use nuclear weapons against Iran or send ground troops as the U.S. reportedly weighs new strike options.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-10-16T09:46:54.000Z"
-  },
-  {
-    "headline": "Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Trump overshadows EU summit",
-    "summary": "Zelenskyy's strained relationship with Trump is clouding the EU summit focused on securing further support for Ukraine.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
-    "image_url": null,
-    "published_at": "2026-10-16T08:52:54.000Z"
-  },
-  {
-    "headline": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
-    "summary": "Not only is Ambani's Reliance investing in a U.S. refinery and buying Venezuelan oil, but its strong ability to supply diesel has put Jamnagar on the map during Rubio's visit.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
-    "image_url": null,
-    "published_at": "2026-10-16T06:45:02.000Z"
-  },
-  {
-    "headline": "What to know about Starshield, SpaceX's military-focused Starlink service",
-    "summary": "Elon Musk distinguished Starshield from Starlink, which he said could not be used for offensive military operations.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
-    "image_url": null,
-    "published_at": "2026-10-16T06:25:31.000Z"
-  },
-  {
-    "headline": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-    "summary": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-    "image_url": null,
-    "published_at": "2026-10-16T06:11:35.000Z"
-  },
-  {
-    "headline": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
-    "summary": "Private equity firms are increasingly using debt-funded dividend recaps to return cash to investors as exits remain subdued.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
-    "image_url": null,
-    "published_at": "2026-10-16T05:00:01.000Z"
-  },
-  {
-    "headline": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
-    "summary": "BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
-    "image_url": null,
-    "published_at": "2026-10-16T03:53:48.000Z"
-  },
-  {
-    "headline": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
-    "summary": "The RBI's latest moves have helped the rupee recover from 96.79 rupees per dollar to the 95-level over recent days.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
-    "image_url": null,
-    "published_at": "2026-10-16T00:54:25.000Z"
-  },
-  {
-    "headline": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
-    "summary": "Singapore continues to grapple with severe haze that is disrupting daily life and businesses, as authorities roll out protective measures — and issue warnings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
-    "image_url": null,
-    "published_at": "2026-10-16T00:06:48.000Z"
-  },
-  {
-    "headline": "A lot changed in stock market in just a few months. The single biggest risk did not",
-    "summary": "In 2025 and into 2026 investors were told to avoid S&P 500 tech stock risk by moving to equal-weight. That failed. Now the AI trade is reeling. So what's next?",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
-    "image_url": null,
-    "published_at": "2026-10-15T23:12:24.000Z"
   }
 ]

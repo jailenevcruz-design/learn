@@ -1,5 +1,189 @@
 [
   {
+    "headline": "Elon Musk made a $1 billion investment in Skydance, report says",
+    "summary": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+    "image_url": null,
+    "published_at": "2026-10-22T17:36:38.000Z"
+  },
+  {
+    "headline": "Someone hacked the Switch 2 by using an old game and AI",
+    "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. i jailbroke the nintendo switch 2 so i modded cinnamoroll, peter…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+    "image_url": null,
+    "published_at": "2026-10-22T17:21:31.000Z"
+  },
+  {
+    "headline": "Arc browser is shutting down",
+    "summary": "Arc’s website today. | Screenshot: The Verge The Browser Company plans to \"sunset\" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for g…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
+    "image_url": null,
+    "published_at": "2026-10-22T17:03:37.000Z"
+  },
+  {
+    "headline": "The disastrous PHP vulnerabilities were exploited days before the patch",
+    "summary": "Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17th through a monitor…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
+    "image_url": null,
+    "published_at": "2026-10-22T16:49:48.000Z"
+  },
+  {
+    "headline": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "image_url": null,
+    "published_at": "2026-10-22T16:47:17.000Z"
+  },
+  {
+    "headline": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+    "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a tea…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+    "image_url": null,
+    "published_at": "2026-10-22T16:16:15.000Z"
+  },
+  {
+    "headline": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
+    "summary": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would \"probably pass\" on renaming the Atlantic after h…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
+    "image_url": null,
+    "published_at": "2026-10-22T16:00:29.000Z"
+  },
+  {
+    "headline": "Microsoft shuts down its beloved maker space",
+    "summary": "Microsoft CEO Satya Nadella at a hackathon event in 2016. | Image: Microsoft Microsoft is closing down The Garage, a set of popular maker spaces where employees worked on experimental projects and collaborated on surprising new apps and hardware during the company's annual hackathon events. \"We're winding down The Gara…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1016389/microsoft-garage-closure-hackathon-notepad",
+    "image_url": null,
+    "published_at": "2026-10-22T16:00:00.000Z"
+  },
+  {
+    "headline": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+    "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+    "image_url": null,
+    "published_at": "2026-10-22T16:00:00.000Z"
+  },
+  {
+    "headline": "Uber puts all 30,000 employees on ChatGPT Work",
+    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "image_url": null,
+    "published_at": "2026-10-22T16:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+    "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech compa…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+    "image_url": null,
+    "published_at": "2026-10-22T15:50:30.000Z"
+  },
+  {
+    "headline": "Tesla is prepping a Cybercab onslaught",
+    "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+    "image_url": null,
+    "published_at": "2026-10-22T15:44:39.000Z"
+  },
+  {
+    "headline": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+    "summary": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+    "image_url": null,
+    "published_at": "2026-10-22T15:24:32.000Z"
+  },
+  {
+    "headline": "Investors break down how founders can raise a Series A today",
+    "summary": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+    "image_url": null,
+    "published_at": "2026-10-22T15:15:00.000Z"
+  },
+  {
+    "headline": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
+    "summary": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a 90-day warranty via Woot, and aren’t eligible for AppleCare. That said, Woot says they’re in “pristine co…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-22T15:14:20.000Z"
+  },
+  {
+    "headline": "PHP: The three little letters wreaking havoc across the web",
+    "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporaril…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+    "image_url": null,
+    "published_at": "2026-10-22T15:12:27.000Z"
+  },
+  {
+    "headline": "Spotify’s current AI bet is about being the music service that agents choose",
+    "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+    "image_url": null,
+    "published_at": "2026-10-22T15:03:58.000Z"
+  },
+  {
+    "headline": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+    "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+    "image_url": null,
+    "published_at": "2026-10-22T14:59:28.000Z"
+  },
+  {
+    "headline": "You could just get a refurbished Samsung phone on Amazon",
+    "summary": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with a new battery and a one-year warranty. They currently start at $489 for the Galaxy S24 FE with 128GB of st…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
+    "image_url": null,
+    "published_at": "2026-10-22T14:55:29.000Z"
+  },
+  {
+    "headline": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+    "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+    "image_url": null,
+    "published_at": "2026-10-22T14:03:00.000Z"
+  },
+  {
+    "headline": "Claude Duet app is Anthropic’s bet on agents",
+    "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "image_url": null,
+    "published_at": "2026-10-22T13:53:26.000Z"
+  },
+  {
+    "headline": "Nirva raises $33M for a pendant that only listens to you",
+    "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+    "image_url": null,
+    "published_at": "2026-10-22T13:26:52.000Z"
+  },
+  {
+    "headline": "DeepSeek reportedly raises $15B days after US restrictions",
+    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "image_url": null,
+    "published_at": "2026-10-22T13:11:13.000Z"
+  },
+  {
     "headline": "AI agents are ready to shop. Some retailers are wary.",
     "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the…",
     "publisher": "The Verge",
@@ -33,7 +217,7 @@
   },
   {
     "headline": "Tesla says it will start selling Cybercabs by end of year",
-    "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings…",
+    "summary": "There is at least one obstacle that could throw off Tesla's Cybercab fleet plans. The NHTSA announced last month that it had opened an investigation into the Cybercab, just hours after the vehicles began operating on public streets in Austin.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
     "image_url": null,
@@ -1414,189 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
     "image_url": null,
     "published_at": "2026-10-16T12:55:09.000Z"
-  },
-  {
-    "headline": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
-    "summary": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK support site, the Xperia 10 VI won't be…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
-    "image_url": null,
-    "published_at": "2026-10-16T12:36:11.000Z"
-  },
-  {
-    "headline": "Time is a-changin’: say goodbye to the leap second",
-    "summary": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so tracked time standards…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
-    "image_url": null,
-    "published_at": "2026-10-16T10:00:25.000Z"
-  },
-  {
-    "headline": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-    "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-    "image_url": null,
-    "published_at": "2026-10-16T05:16:46.000Z"
-  },
-  {
-    "headline": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-    "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-    "image_url": null,
-    "published_at": "2026-10-16T01:28:27.000Z"
-  },
-  {
-    "headline": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-    "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-    "image_url": null,
-    "published_at": "2026-10-16T01:17:43.000Z"
-  },
-  {
-    "headline": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "image_url": null,
-    "published_at": "2026-10-15T23:44:56.000Z"
-  },
-  {
-    "headline": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-    "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-    "image_url": null,
-    "published_at": "2026-10-15T23:33:45.000Z"
-  },
-  {
-    "headline": "Steam can now show game achievements in separate ‘sets’",
-    "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse what you have unlocked…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-    "image_url": null,
-    "published_at": "2026-10-15T23:18:28.000Z"
-  },
-  {
-    "headline": "ChatGPT can peek at your Chrome tabs now",
-    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo vid…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "image_url": null,
-    "published_at": "2026-10-15T22:43:23.000Z"
-  },
-  {
-    "headline": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of it…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "image_url": null,
-    "published_at": "2026-10-15T22:35:55.000Z"
-  },
-  {
-    "headline": "The tech backlash is now in theaters",
-    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Natha…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "image_url": null,
-    "published_at": "2026-10-15T21:39:52.000Z"
-  },
-  {
-    "headline": "Trump posts AI-edited photo to brag about White House restoration work",
-    "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or edited wi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-    "image_url": null,
-    "published_at": "2026-10-15T21:09:33.000Z"
-  },
-  {
-    "headline": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-    "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-    "image_url": null,
-    "published_at": "2026-10-15T20:38:13.000Z"
-  },
-  {
-    "headline": "Meta launches an open-weight AI model that runs on Macs",
-    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "image_url": null,
-    "published_at": "2026-10-15T20:04:53.000Z"
-  },
-  {
-    "headline": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-    "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to thi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "image_url": null,
-    "published_at": "2026-10-15T19:57:16.000Z"
-  },
-  {
-    "headline": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "image_url": null,
-    "published_at": "2026-10-15T19:55:25.000Z"
-  },
-  {
-    "headline": "Withings now charges $100 per year to sync your data to other apps",
-    "summary": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. According to a discussion on Withings' support forums spotted by MacRumors, new Withings accounts created f…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
-    "image_url": null,
-    "published_at": "2026-10-15T19:52:13.000Z"
-  },
-  {
-    "headline": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-    "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-    "image_url": null,
-    "published_at": "2026-10-15T19:29:05.000Z"
-  },
-  {
-    "headline": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "image_url": null,
-    "published_at": "2026-10-15T19:14:26.000Z"
-  },
-  {
-    "headline": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "image_url": null,
-    "published_at": "2026-10-15T18:56:46.000Z"
-  },
-  {
-    "headline": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on yo…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "image_url": null,
-    "published_at": "2026-10-15T18:15:36.000Z"
-  },
-  {
-    "headline": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-    "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-    "image_url": null,
-    "published_at": "2026-10-15T18:00:00.000Z"
-  },
-  {
-    "headline": "Sony made a $5,900 gold-plated Walkman MP3 player",
-    "summary": "This render with a transparent background is the closest we’ll ever come to touching one of these things. | Image: Sony Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
-    "image_url": null,
-    "published_at": "2026-10-15T17:48:57.000Z"
   }
 ]
