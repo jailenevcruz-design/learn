@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Trump's attacks on the press have become a war",
+    "summary": "The New York Times reported that the Trump Administration is considering physically moving the White House press corps out of the White House.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6012340/trumps-attacks-on-the-press-have-become-a-war",
+    "image_url": null,
+    "published_at": "2026-10-22T22:06:17.000Z"
+  },
+  {
     "headline": "Clergy in swing states are training to help maintain order on Election Day",
     "summary": "In swing states, clergy of all faiths are training as Election Day \"poll chaplains,\" to be stationed 100 feet from some voting sites to help voters and maintain order.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/23/nx-s1-5977934/political-commentator-on-what-the-gop-should-do-to-boost-the-partys-poor-polling",
     "image_url": null,
     "published_at": "2026-09-23T08:42:53.000Z"
-  },
-  {
-    "headline": "White House launches 'Trump TV' after ban on major news outlets",
-    "summary": "Days after President Trump barred reporters from three major news outlets from the White House, the administration has launched a 24/7 YouTube channel promising to put its \"biggest moments all in one place.\"",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house",
-    "image_url": null,
-    "published_at": "2026-09-22T21:31:01.000Z"
   }
 ]

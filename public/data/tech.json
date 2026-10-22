@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+    "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+    "image_url": null,
+    "published_at": "2026-10-22T23:15:00.000Z"
+  },
+  {
+    "headline": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+    "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the \"crackdow…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+    "image_url": null,
+    "published_at": "2026-10-22T23:02:43.000Z"
+  },
+  {
+    "headline": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+    "summary": "An Xbox Elite controller. | Photo by Antonio G. Di Benedetto / The Verge Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+    "image_url": null,
+    "published_at": "2026-10-22T23:00:00.000Z"
+  },
+  {
+    "headline": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+    "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+    "image_url": null,
+    "published_at": "2026-10-22T22:34:54.000Z"
+  },
+  {
+    "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "image_url": null,
+    "published_at": "2026-10-22T22:08:24.000Z"
+  },
+  {
+    "headline": "Canva’s first AI image model plans designs before generating them",
+    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "image_url": null,
+    "published_at": "2026-10-22T21:51:25.000Z"
+  },
+  {
+    "headline": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+    "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+    "image_url": null,
+    "published_at": "2026-10-22T21:30:39.000Z"
+  },
+  {
+    "headline": "Fall 2026 earnings watch",
+    "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next. Sure, let’s…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+    "image_url": null,
+    "published_at": "2026-10-22T21:15:16.000Z"
+  },
+  {
+    "headline": "Rivian buys world model startup to accelerate self-driving ambitions",
+    "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+    "image_url": null,
+    "published_at": "2026-10-22T21:05:05.000Z"
+  },
+  {
+    "headline": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "image_url": null,
+    "published_at": "2026-10-22T20:32:05.000Z"
+  },
+  {
     "headline": "Meta turns Muse sharing back on",
     "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earli…",
     "publisher": "The Verge",
@@ -136,8 +216,8 @@
     "published_at": "2026-10-22T18:30:00.000Z"
   },
   {
-    "headline": "Elon Musk made a $1 billion investment in Skydance, report says",
-    "summary": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
+    "headline": "Elon Musk made a $1B investment in Skydance, report says",
+    "summary": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
     "image_url": null,
@@ -1518,85 +1598,5 @@
     "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
     "image_url": null,
     "published_at": "2026-10-17T12:00:00.000Z"
-  },
-  {
-    "headline": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-    "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-    "image_url": null,
-    "published_at": "2026-10-17T02:36:18.000Z"
-  },
-  {
-    "headline": "All the news about the iPhone Duo",
-    "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and a wide…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-    "image_url": null,
-    "published_at": "2026-10-16T23:36:26.000Z"
-  },
-  {
-    "headline": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-    "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-    "image_url": null,
-    "published_at": "2026-10-16T22:51:22.000Z"
-  },
-  {
-    "headline": "Replit is no longer working with Anthropic, CEO says",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "image_url": null,
-    "published_at": "2026-10-16T21:22:28.000Z"
-  },
-  {
-    "headline": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
-    "summary": "Wu-Tang Clan member Method Man, who got to hear the album for the first time thanks to Pablo Torre Finds Out. | Getty Images Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds O…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-    "image_url": null,
-    "published_at": "2026-10-16T20:50:27.000Z"
-  },
-  {
-    "headline": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-    "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-    "image_url": null,
-    "published_at": "2026-10-16T20:49:04.000Z"
-  },
-  {
-    "headline": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-    "image_url": null,
-    "published_at": "2026-10-16T19:40:00.000Z"
-  },
-  {
-    "headline": "Why Apple is finally making its own smart home devices",
-    "summary": "Apple’s Home Collection, codeveloped with partners, is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Hom…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-    "image_url": null,
-    "published_at": "2026-10-16T18:30:27.000Z"
-  },
-  {
-    "headline": "India becomes the latest country to report rogue AI agent activity",
-    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "image_url": null,
-    "published_at": "2026-10-16T17:52:24.000Z"
-  },
-  {
-    "headline": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, p…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "image_url": null,
-    "published_at": "2026-10-16T16:30:00.000Z"
   }
 ]

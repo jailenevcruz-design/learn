@@ -1,11 +1,51 @@
 [
   {
+    "headline": "Japan core inflation in September surges to its highest this year at 2.1%",
+    "summary": "Core inflation, which strips out prices of fresh food, was in line with than the 2.1% forecast by economists polled by Reuters.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+    "image_url": null,
+    "published_at": "2026-10-22T23:37:13.000Z"
+  },
+  {
     "headline": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
     "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
     "image_url": null,
-    "published_at": "2026-10-22T20:47:59.000Z"
+    "published_at": "2026-10-22T22:21:08.000Z"
+  },
+  {
+    "headline": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    "summary": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+    "image_url": null,
+    "published_at": "2026-10-22T22:02:34.000Z"
+  },
+  {
+    "headline": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+    "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+    "image_url": null,
+    "published_at": "2026-10-22T21:58:42.000Z"
+  },
+  {
+    "headline": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
+    "summary": "Moderna released full data on its closely watched cancer vaccine developed with Merck.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+    "image_url": null,
+    "published_at": "2026-10-22T21:52:02.000Z"
+  },
+  {
+    "headline": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+    "summary": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
+    "image_url": null,
+    "published_at": "2026-10-22T21:02:07.000Z"
   },
   {
     "headline": "Disney’s multiplatform Super Bowl plan frustrates ABC affiliates",
@@ -30,14 +70,6 @@
     "url": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
     "image_url": null,
     "published_at": "2026-10-22T20:26:48.000Z"
-  },
-  {
-    "headline": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-    "summary": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-    "image_url": null,
-    "published_at": "2026-10-22T20:15:42.000Z"
   },
   {
     "headline": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
@@ -72,36 +104,12 @@
     "published_at": "2026-10-22T19:34:46.000Z"
   },
   {
-    "headline": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
-    "summary": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-    "image_url": null,
-    "published_at": "2026-10-22T19:26:33.000Z"
-  },
-  {
     "headline": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
     "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
     "image_url": null,
     "published_at": "2026-10-22T19:19:41.000Z"
-  },
-  {
-    "headline": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-    "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-    "image_url": null,
-    "published_at": "2026-10-22T19:09:11.000Z"
-  },
-  {
-    "headline": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-    "summary": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-    "image_url": null,
-    "published_at": "2026-10-22T19:05:32.000Z"
   },
   {
     "headline": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
@@ -360,18 +368,18 @@
     "published_at": "2026-10-22T09:01:00.000Z"
   },
   {
-    "headline": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
-    "summary": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
-    "image_url": null,
-    "published_at": "2026-10-22T09:00:00.000Z"
-  },
-  {
     "headline": "See how Big Tech is transforming Spain's landscape",
     "summary": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
+    "image_url": null,
+    "published_at": "2026-10-22T09:00:00.000Z"
+  },
+  {
+    "headline": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
+    "summary": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
     "image_url": null,
     "published_at": "2026-10-22T09:00:00.000Z"
   },
@@ -1590,13 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
     "image_url": null,
     "published_at": "2026-10-16T17:55:05.000Z"
-  },
-  {
-    "headline": "NBA tightens betting rules, develops AI to flag suspicious wagers",
-    "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
-    "image_url": null,
-    "published_at": "2026-10-16T17:50:50.000Z"
   }
 ]
