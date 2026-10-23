@@ -1,5 +1,85 @@
 [
   {
+    "headline": "Portrait of a Paris Art Week on Fire",
+    "summary": "On protest, business as usual, and the surreal experience of attending an art fair while smelling burning plastic.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/portrait-of-a-paris-art-week-on-fire/",
+    "image_url": null,
+    "published_at": "2026-10-23T19:56:12.000Z"
+  },
+  {
+    "headline": "Prized Monet Paintings at the Center of Milwaukee Art Museum and MFA St. Petersburg’s World Series Wager",
+    "summary": "Each museum's Monet was painted in the early 20th century and depicts scenes along the River Thames in London.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/monet-milwaukee-art-museum-mfa-st-petersburgs-world-series-wager-1234803724/",
+    "image_url": null,
+    "published_at": "2026-10-23T19:55:53.000Z"
+  },
+  {
+    "headline": "Monument to Iwo Jima Flag-Raising Near Quantico Vandalized",
+    "summary": "A Virginia man allegedly beheaded one of six statues at the Iwo Jima monument near the Quantico Marine base.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/monument-to-iwo-jima-flag-raising-near-quantico-vandalized-1234803717/",
+    "image_url": null,
+    "published_at": "2026-10-23T19:53:20.000Z"
+  },
+  {
+    "headline": "How Art Can Deliver Justice for Refugees",
+    "summary": "In the legal system, art created by refugees and incarcerated people can serve both as a form of therapy and as evidence of mass atrocities.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/how-art-can-deliver-justice-for-refugees/",
+    "image_url": null,
+    "published_at": "2026-10-23T19:50:12.000Z"
+  },
+  {
+    "headline": "The War on Art Is Repeating Itself",
+    "summary": "As an artist who lived through the Reagan-era Culture Wars, I recommend Isaac Butler’s “The Perfect Moment” for the stories that parallel our current fight to defend creative expression.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
+    "image_url": null,
+    "published_at": "2026-10-23T19:24:34.000Z"
+  },
+  {
+    "headline": "Kid Cudi to Write, Direct, and Star as Basquiat in New Biopic",
+    "summary": "The rapper called his forthcoming film, \"JEAN,\" a “love letter” to the late artist and ’80s New York in his announcement on October 21.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/kid-cudi-to-write-direct-and-star-as-basquiat-in-new-biopic/",
+    "image_url": null,
+    "published_at": "2026-10-23T19:14:00.000Z"
+  },
+  {
+    "headline": "The Center Cannot Hold at the Toronto Biennial",
+    "summary": "It’s a provocative and discursive exploration of how artists respond to our late-capitalist epoch, but its focus on “rupture” raises questions.",
+    "publisher": "Hyperallergic",
+    "url": "https://hyperallergic.com/the-center-cannot-hold-at-the-toronto-biennial/",
+    "image_url": null,
+    "published_at": "2026-10-23T19:01:25.000Z"
+  },
+  {
+    "headline": "Artist Duo Brognon Rollin Awarded 2026 Prix Marcel Duchamp, France’s Top Art Prize",
+    "summary": "The artist duo is known for their multidisciplinary practice that spans installation, sculpture, video, performance, and photography.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/artists/2026-prix-marcel-duchamp-france-brognon-rollin-1234803685/",
+    "image_url": null,
+    "published_at": "2026-10-23T18:32:09.000Z"
+  },
+  {
+    "headline": "Korean Culture Ministry to Audit Former Director of the National Museum",
+    "summary": "Director You Hong-june faced scrutiny after loaning the institution a misattributed work from his private collection",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/national-museum-of-korea-director-private-collection-1234802510/",
+    "image_url": null,
+    "published_at": "2026-10-23T18:14:23.000Z"
+  },
+  {
+    "headline": "Paul Stankard, Renowned Glass Paperweight Artist, Dead at 83",
+    "summary": "His work is in the collections of institutions including the Metropolitan Museum of Art and the Victoria and Albert Museum.",
+    "publisher": "ARTnews",
+    "url": "https://www.artnews.com/art-news/news/paul-stankard-dead-glass-paperweight-artist-1234803701/",
+    "image_url": null,
+    "published_at": "2026-10-23T18:13:17.000Z"
+  },
+  {
     "headline": "Louvre, Picasso Museum, Musée d’Orsay Will Close Saturday In Anticipation of Hard-Left Groups Targeting Public Buildings, Says Interior Minister",
     "summary": "Around 70,000 law enforcement officers will be deployed across the country on Saturday.",
     "publisher": "ARTnews",
@@ -398,14 +478,6 @@
     "url": "https://www.artnews.com/art-news/news/artists-john-akomfrah-ben-rivers-defend-sally-rooney-open-letter-1234803220/",
     "image_url": null,
     "published_at": "2026-10-21T16:32:45.000Z"
-  },
-  {
-    "headline": "National Museum of Korea Director Offers to Resign",
-    "summary": "Director You Hong-june faces scrutiny after loaning the institution a misattributed work from his private collection",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/national-museum-of-korea-director-private-collection-1234802510/",
-    "image_url": null,
-    "published_at": "2026-10-21T16:23:22.000Z"
   },
   {
     "headline": "Chanel Becomes Lead Sponsor of Hong Kong’s M+ Museum in Expanded Three-Year Deal",
@@ -1526,77 +1598,5 @@
     "url": "https://www.artnews.com/art-news/news/keith-haring-mural-tribeca-apartment-25-million-1234802239/",
     "image_url": null,
     "published_at": "2026-10-13T20:01:44.000Z"
-  },
-  {
-    "headline": "Peter Nagy, Adventurous Artist Turned Sharp-Sighted Dealer, Dies at 67",
-    "summary": "His Nature Morte gallery has helped stake a claim for India in a globalized art world.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/peter-nagy-dead-artist-nature-morte-gallery-1234802252/",
-    "image_url": null,
-    "published_at": "2026-10-13T20:00:43.000Z"
-  },
-  {
-    "headline": "Getty Images Files for Chapter 11 Bankruptcy Following Failed Merger with Shutterstock",
-    "summary": "In the coming months, Getty Images plans to transition from a publicly traded company to a private one.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/getty-images-fbankruptcy-failed-merger-shutterstock-1234802261/",
-    "image_url": null,
-    "published_at": "2026-10-13T19:44:51.000Z"
-  },
-  {
-    "headline": "Roy Lichtenstein Has Lost His Luster",
-    "summary": "He went from being a satirist of America’s ideals to a parody of himself, an artist content with other artists’ masterpieces.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/roy-lichtenstein-has-lost-his-luster/",
-    "image_url": null,
-    "published_at": "2026-10-13T19:39:02.000Z"
-  },
-  {
-    "headline": "Utah Groups Sue Trump Administration Over Nine Mile Canyon Construction Project",
-    "summary": "The environmental organizations filed a suit against the Bureau of Land Management for approving the project that endangers centuries-old Indigenous petroglyphs.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/utah-groups-sue-trump-administration-over-nine-mile-canyon-construction-project/",
-    "image_url": null,
-    "published_at": "2026-10-13T19:01:21.000Z"
-  },
-  {
-    "headline": "Chanel Culture Fund and Cindy Sherman Collaborate on Arts & Culture Magazine Ahead of Hauser & Wirth Exhibition",
-    "summary": "The artist has draped and wrapped herself in unsewn and archival Chanel fabrics.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/chanel-culture-fund-cindy-sherman-magazine-collaboration-1234802228/",
-    "image_url": null,
-    "published_at": "2026-10-13T18:24:35.000Z"
-  },
-  {
-    "headline": "Karachi Biennale Cancels Fifth Edition Over “War Conditions”",
-    "summary": "The cancellation of the January 2027 event reportedly came without the input of the biennale’s curator, Noor Ahmed.",
-    "publisher": "Hyperallergic",
-    "url": "https://hyperallergic.com/karachi-biennale-cancels-fifth-edition-over-war-conditions/",
-    "image_url": null,
-    "published_at": "2026-10-13T18:09:02.000Z"
-  },
-  {
-    "headline": "Wynwood Walls Mural Museum Launches Free Admission for Miami Residents with Funding from Rockstar Games",
-    "summary": "The initiative celebrates the launch of Grand Theft Auto VI.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/wynwood-walls-rockstar-games-free-admission-1234802139/",
-    "image_url": null,
-    "published_at": "2026-10-13T17:57:30.000Z"
-  },
-  {
-    "headline": "7 Exhibitions to See in London During Frieze Week, From Shocking ’90s Artworks to Renoir Masterpieces",
-    "summary": "London’s cultural scene, despite the country facing an upswing in right-wing politics, is still very much alive and kicking.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/list/art-news/news/frieze-london-2026-exhibitions-to-see-1234802096/",
-    "image_url": null,
-    "published_at": "2026-10-13T16:55:26.000Z"
-  },
-  {
-    "headline": "French Police Foil Suspected Plot to Rob Fondation Maeght After Recovering Stolen Renoirs",
-    "summary": "Police investigating the stolen Renoirs observed one of the suspects visiting the Fondation Maeght, a modern art museum near the Musée Renoir in southeastern France.",
-    "publisher": "ARTnews",
-    "url": "https://www.artnews.com/art-news/news/renoir-theft-fondation-maeght-robbery-plot-france-1234802140/",
-    "image_url": null,
-    "published_at": "2026-10-13T16:12:37.000Z"
   }
 ]

@@ -1,5 +1,117 @@
 [
   {
+    "headline": "Startups don’t need to go viral to win customers",
+    "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+    "image_url": null,
+    "published_at": "2026-10-23T23:07:45.000Z"
+  },
+  {
+    "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "image_url": null,
+    "published_at": "2026-10-23T23:05:49.000Z"
+  },
+  {
+    "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "image_url": null,
+    "published_at": "2026-10-23T21:59:19.000Z"
+  },
+  {
+    "headline": "Xbox’s first chief operating officer is out after just a few months",
+    "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief opera…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+    "image_url": null,
+    "published_at": "2026-10-23T21:39:26.000Z"
+  },
+  {
+    "headline": "OpenAI now trains its frontier AI models with no internet access",
+    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI pa…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "image_url": null,
+    "published_at": "2026-10-23T21:11:07.000Z"
+  },
+  {
+    "headline": "VCs, Superhuman Mail founder share red flags about product-market fit",
+    "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+    "image_url": null,
+    "published_at": "2026-10-23T20:57:13.000Z"
+  },
+  {
+    "headline": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+    "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+    "image_url": null,
+    "published_at": "2026-10-23T20:03:14.000Z"
+  },
+  {
+    "headline": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+    "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a bot…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+    "image_url": null,
+    "published_at": "2026-10-23T19:35:15.000Z"
+  },
+  {
+    "headline": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The c…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "image_url": null,
+    "published_at": "2026-10-23T19:32:39.000Z"
+  },
+  {
+    "headline": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+    "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+    "image_url": null,
+    "published_at": "2026-10-23T19:25:13.000Z"
+  },
+  {
+    "headline": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "image_url": null,
+    "published_at": "2026-10-23T19:06:23.000Z"
+  },
+  {
+    "headline": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+    "summary": "The Space 2 comes in multiple colors, including an attractive seafoam green. | Photo: Amelia Holowaty Krales / The Verge My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-23T18:43:30.000Z"
+  },
+  {
+    "headline": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+    "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down t…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-23T17:55:03.000Z"
+  },
+  {
+    "headline": "Elon Musk’s dangerous grip on outer space",
+    "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+    "image_url": null,
+    "published_at": "2026-10-23T17:35:15.000Z"
+  },
+  {
     "headline": "The iPhone Duo should have been an iPad",
     "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay debate whether the Duo deserved…",
     "publisher": "The Verge",
@@ -40,7 +152,7 @@
     "published_at": "2026-10-23T16:20:28.000Z"
   },
   {
-    "headline": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "headline": "What some of Anthropic’s backers are worth before its IPO",
     "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
@@ -1486,117 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
     "image_url": null,
     "published_at": "2026-10-19T12:42:55.000Z"
-  },
-  {
-    "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "image_url": null,
-    "published_at": "2026-10-19T12:30:00.000Z"
-  },
-  {
-    "headline": "Vibe coding is turning the music gear world upside down",
-    "summary": "They’re far more powerful and fun than their bargain price suggests. | Photo: Terrence O’Brien / The Verge If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
-    "image_url": null,
-    "published_at": "2026-10-19T12:30:00.000Z"
-  },
-  {
-    "headline": "Democrats think cracking down on AI could give them an edge",
-    "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-    "image_url": null,
-    "published_at": "2026-10-19T12:00:00.000Z"
-  },
-  {
-    "headline": "The Maeving RM2 is high-style electric riding with a few compromises",
-    "summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly diffe…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
-    "image_url": null,
-    "published_at": "2026-10-19T11:00:00.000Z"
-  },
-  {
-    "headline": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-    "image_url": null,
-    "published_at": "2026-10-19T07:30:00.000Z"
-  },
-  {
-    "headline": "A Savannah police officer gave her Flock login to her ICE agent husband",
-    "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
-    "image_url": null,
-    "published_at": "2026-10-18T22:20:53.000Z"
-  },
-  {
-    "headline": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-    "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-    "image_url": null,
-    "published_at": "2026-10-18T21:00:00.000Z"
-  },
-  {
-    "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "image_url": null,
-    "published_at": "2026-10-18T20:37:40.000Z"
-  },
-  {
-    "headline": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
-    "summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
-    "image_url": null,
-    "published_at": "2026-10-18T19:30:00.000Z"
-  },
-  {
-    "headline": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-    "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-    "image_url": null,
-    "published_at": "2026-10-18T19:03:38.000Z"
-  },
-  {
-    "headline": "A woman was arrested in Philly for blocking a delivery robot",
-    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front of…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-    "image_url": null,
-    "published_at": "2026-10-18T18:28:10.000Z"
-  },
-  {
-    "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "image_url": null,
-    "published_at": "2026-10-18T16:30:00.000Z"
-  },
-  {
-    "headline": "Video game ownership bill introduced in Congress",
-    "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-    "image_url": null,
-    "published_at": "2026-10-18T16:27:51.000Z"
-  },
-  {
-    "headline": "TechCrunch Mobility: Rivian’s next act",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-    "image_url": null,
-    "published_at": "2026-10-18T16:05:00.000Z"
   }
 ]
