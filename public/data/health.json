@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Authorities investigating whether first Kenyan and Nigerian Ebola cases crossed paths",
+    "summary": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+    "image_url": null,
+    "published_at": "2026-10-23T12:41:39.000Z"
+  },
+  {
+    "headline": "What if you gave yourself a day to cancel all the plans you dread?",
+    "summary": "It's a day to think about all the upcoming appointments and commitments you're dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
+    "image_url": null,
+    "published_at": "2026-10-23T09:00:00.000Z"
+  },
+  {
     "headline": "Achy from sitting at a desk all day? Try doing this",
     "summary": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
     "publisher": "NPR",
@@ -16,18 +32,18 @@
     "published_at": "2026-10-22T09:00:00.000Z"
   },
   {
-    "headline": "Can a dream help you solve a problem? Here's how to try tonight",
-    "summary": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream research and how dreams are a tool for self-discovery.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
-    "image_url": null,
-    "published_at": "2026-10-22T09:00:00.000Z"
-  },
-  {
     "headline": "High health costs squeeze workers, even if you have good insurance through a job",
     "summary": "About 157 million Americans get their health insurance through work. A survey of employers shows a moderate price uptick this year, but workers still say health costs are a top concern.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
+    "image_url": null,
+    "published_at": "2026-10-22T09:00:00.000Z"
+  },
+  {
+    "headline": "Can a dream help you solve a problem? Here's how to try tonight",
+    "summary": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream research and how dreams are a tool for self-discovery.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
     "image_url": null,
     "published_at": "2026-10-22T09:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
     "image_url": null,
     "published_at": "2026-08-13T11:18:53.000Z"
-  },
-  {
-    "headline": "Boston-area trial draws attention to post-partum psychosis",
-    "summary": "A mom is on trial for killing her children. Her defense says she had post-partum psychosis. Psychiatrists hope the case brings attention to the need for better diagnosis and treatment for the illness.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/12/nx-s1-5927479/boston-area-trial-draws-attention-to-post-partum-psychosis",
-    "image_url": null,
-    "published_at": "2026-08-12T20:59:56.000Z"
-  },
-  {
-    "headline": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
-    "summary": "Dr. Raj Panjabi founded Last Mile Health to bring healthcare to people living in remote areas. The group is the 2026 recipient of the Conrad N. Hilton Humanitarian Prize.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
-    "image_url": null,
-    "published_at": "2026-08-12T13:00:19.000Z"
   }
 ]

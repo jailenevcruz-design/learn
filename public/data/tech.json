@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Retro gaming is being overrun with AI",
+    "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyis…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "image_url": null,
+    "published_at": "2026-10-23T12:00:00.000Z"
+  },
+  {
+    "headline": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
+    "summary": "The Warhound website calls this “a new breed of dominance.” | Image: Warhound A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+    "image_url": null,
+    "published_at": "2026-10-23T10:58:03.000Z"
+  },
+  {
+    "headline": "No, the iPhone Duo isn’t a small phone",
+    "summary": "Don’t be fooled; only one of these is a truly small phone (it’s the iPhone 13 Mini on the left). When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+    "image_url": null,
+    "published_at": "2026-10-23T10:00:00.000Z"
+  },
+  {
+    "headline": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+    "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+    "image_url": null,
+    "published_at": "2026-10-23T04:22:57.000Z"
+  },
+  {
+    "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "image_url": null,
+    "published_at": "2026-10-23T04:00:00.000Z"
+  },
+  {
     "headline": "Left alone with nothing to do, AI agents started playing",
     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
     "publisher": "TechCrunch",
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
     "image_url": null,
     "published_at": "2026-10-17T15:30:00.000Z"
-  },
-  {
-    "headline": "Meta removes language that may have allowed it to scrape news sites",
-    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "image_url": null,
-    "published_at": "2026-10-17T15:04:36.000Z"
-  },
-  {
-    "headline": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-    "summary": "Pikmin preparing to do battle with a Bulborb | Image: Nintendo If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-17T15:00:00.000Z"
-  },
-  {
-    "headline": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-    "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, though, he created Radiol…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-    "image_url": null,
-    "published_at": "2026-10-17T14:30:00.000Z"
-  },
-  {
-    "headline": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-    "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-    "image_url": null,
-    "published_at": "2026-10-17T14:00:00.000Z"
-  },
-  {
-    "headline": "Websites are closing their doors to AI agents",
-    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recen…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "image_url": null,
-    "published_at": "2026-10-17T13:00:00.000Z"
   }
 ]

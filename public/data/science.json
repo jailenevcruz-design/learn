@@ -1,11 +1,115 @@
 [
   {
+    "headline": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+    "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient catastrophe. The di…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T11:23:19.000Z"
+  },
+  {
+    "headline": "Dental implants can hijack your immune system, scientists discover",
+    "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jawbone loss.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T11:12:28.000Z"
+  },
+  {
+    "headline": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+    "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for othe…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T11:02:25.000Z"
+  },
+  {
+    "headline": "MIT scientists build a tiny robot that swims using living muscle cells",
+    "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary machines cannot safely n…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T10:33:56.000Z"
+  },
+  {
+    "headline": "A tiny defect in a crystal reveals a big quantum surprise",
+    "summary": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly important energy-loss mechanism in silicon carbide that scientists had previously underestimated. The fin…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T10:22:55.000Z"
+  },
+  {
+    "headline": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+    "summary": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may offer important benefits a…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T10:10:11.000Z"
+  },
+  {
+    "headline": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
+    "summary": "Switzerland’s glaciers are disappearing at an alarming rate, losing more than 5% of their ice volume in 2026 alone. Some of the country’s most famous glaciers experienced their worst melting on record, while several smaller glaciers vanished completely. Nearly 20% of Switzerland’s glacier ice has disappeared in just fi…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T09:42:58.000Z"
+  },
+  {
+    "headline": "Scientists discover a hidden messaging system deep inside the brain",
+    "summary": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, according to new res…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T08:28:22.000Z"
+  },
+  {
+    "headline": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
+    "summary": "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy. Using powerful X-rays, scientists discovered that some of these particles have remained surprisingly stable, trapping radioactive substances inside instead of releasing them into the environment.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T03:35:13.000Z"
+  },
+  {
+    "headline": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+    "summary": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T02:54:41.000Z"
+  },
+  {
+    "headline": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+    "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T01:21:47.000Z"
+  },
+  {
+    "headline": "Scientists discover a hidden immune weapon against deadly lung cancer",
+    "summary": "Researchers have uncovered a hidden immune defense capable of attacking small cell lung cancer, an extremely aggressive disease that often escapes conventional treatments. The specialized immune cells can recognize and destroy cancer cells even when tumors have disguised themselves from the immune system.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261021231232.htm",
+    "image_url": null,
+    "published_at": "2026-10-23T00:32:37.000Z"
+  },
+  {
     "headline": "Should 'bird brain' be a compliment? Here's how crows think fast",
     "summary": "New research in the journal Science finds that crows turn visual information into decisions twice as fast as humans and primates. They also process information is quite similarly to humans.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/22/nx-s1-6010587/should-bird-brain-be-a-compliment-heres-how-crows-think-fast",
     "image_url": null,
     "published_at": "2026-10-22T20:47:25.000Z"
+  },
+  {
+    "headline": "Millions take fish oil for brain health. A two-year study found no benefit",
+    "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+    "image_url": null,
+    "published_at": "2026-10-22T12:46:24.000Z"
   },
   {
     "headline": "Birds are more afraid of women than men. Scientists have no idea why",
@@ -1494,109 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/10/261005071537.htm",
     "image_url": null,
     "published_at": "2026-10-08T02:05:55.000Z"
-  },
-  {
-    "headline": "Stanford scientists turn a cancer driver into a kill switch",
-    "summary": "A Stanford-designed molecule turns a major lymphoma-promoting protein against cancer cells, activating their own self-destruct machinery instead of simply blocking tumor growth. In mice, the treatment completely eliminated aggressive human lymphoma tumors within 11 days, although much more testing is needed before it c…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
-    "image_url": null,
-    "published_at": "2026-10-08T00:52:42.000Z"
-  },
-  {
-    "headline": "This surprising mammal fossil is giving scientists something to chew on",
-    "summary": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs still reigned.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
-    "image_url": null,
-    "published_at": "2026-10-07T19:59:16.000Z"
-  },
-  {
-    "headline": "Gut microbes followed migrating humans across continents, new study suggests",
-    "summary": "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
-    "image_url": null,
-    "published_at": "2026-10-07T15:00:47.000Z"
-  },
-  {
-    "headline": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-    "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the sca…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
-    "image_url": null,
-    "published_at": "2026-10-07T13:09:15.000Z"
-  },
-  {
-    "headline": "Taking antibiotics? Sugar may be making the damage worse",
-    "summary": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after antibiotic treatment could be a simple way to reduce this damage, though clinical trials are still n…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
-    "image_url": null,
-    "published_at": "2026-10-07T13:06:21.000Z"
-  },
-  {
-    "headline": "Scientists changed how zoo lions eat. Their wild side came out",
-    "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fasting period, closely r…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
-    "image_url": null,
-    "published_at": "2026-10-07T12:46:44.000Z"
-  },
-  {
-    "headline": "Physicists just found the ‘ghost’ of superconductivity",
-    "summary": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly, these patterns appear to survive after ordinary superconductivity disappears, suggesting that the electr…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
-    "image_url": null,
-    "published_at": "2026-10-07T12:34:39.000Z"
-  },
-  {
-    "headline": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
-    "summary": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repurpose existing drugs for conditions including traumatic brain injury, Alzheimer’s, Parkinson’s, depr…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
-    "image_url": null,
-    "published_at": "2026-10-07T12:13:35.000Z"
-  },
-  {
-    "headline": "Webb finds a surprising atmosphere on a scorching lava world",
-    "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth may once have looke…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
-    "image_url": null,
-    "published_at": "2026-10-07T11:58:25.000Z"
-  },
-  {
-    "headline": "Earth’s center is moving, and NASA just measured it",
-    "summary": "Earth’s center of mass is constantly on the move, shifting by a few millimeters as enormous amounts of water, ice, and even air migrate around the planet with the seasons. NASA scientists have developed a more precise way to track these tiny swings using laser-ranging satellites, GPS data, and measurements of how water…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
-    "image_url": null,
-    "published_at": "2026-10-07T11:30:51.000Z"
-  },
-  {
-    "headline": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs",
-    "summary": "Scientists Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry for untangling mysterious mirror images in molecules, a discovery that has been used to develop countless drugs.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
-    "image_url": null,
-    "published_at": "2026-10-07T10:05:54.000Z"
-  },
-  {
-    "headline": "Scientists reprogram immune cells inside the body to fight cancer",
-    "summary": "Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineering, and reinfusing a patient’s immune cells. Using a two-particle delivery system, the researchers sent CRISPR gene-edit…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm",
-    "image_url": null,
-    "published_at": "2026-10-07T09:50:16.000Z"
-  },
-  {
-    "headline": "A new way to fight gum disease without wiping out good bacteria",
-    "summary": "Scientists discovered that disrupting the chemical messages bacteria use to communicate can push dental plaque toward a healthier microbial balance. The approach could lead to new treatments for gum disease that control harmful bacteria without destroying beneficial species.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
-    "image_url": null,
-    "published_at": "2026-10-07T03:55:00.000Z"
   }
 ]
