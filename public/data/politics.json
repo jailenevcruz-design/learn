@@ -1,5 +1,21 @@
 [
   {
+    "headline": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
+    "summary": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
+    "image_url": null,
+    "published_at": "2026-10-23T17:35:14.000Z"
+  },
+  {
+    "headline": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+    "summary": "Republicans have long accused the FBI of mishandling the laptop and the investigations into the younger Biden.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+    "image_url": null,
+    "published_at": "2026-10-23T15:51:04.000Z"
+  },
+  {
     "headline": "Military reinforcements move to Mideast. And, millions of Americans vote early",
     "summary": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
     "publisher": "NPR",
@@ -22,6 +38,14 @@
     "url": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
     "image_url": null,
     "published_at": "2026-10-23T09:00:00.000Z"
+  },
+  {
+    "headline": "What's behind the early voting surge? It's more than voter enthusiasm, expert says",
+    "summary": "Nearly 21 million Americans have voted early in the midterms. MIT political scientist Charles Stewart explains what's driving the surge and why it may not mean higher overall turnout.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/23/nx-s1-6012308/midterm-elections-early-voting-data",
+    "image_url": null,
+    "published_at": "2026-10-23T08:42:03.000Z"
   },
   {
     "headline": "Trump must sit for a deposition in his BBC defamation lawsuit, judge rules",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
     "image_url": null,
     "published_at": "2026-09-23T09:01:00.000Z"
-  },
-  {
-    "headline": "There's growing concern that Trump may deploy the National Guard ahead of elections",
-    "summary": "Fears are growing that President Trump may deploy the U.S. military to polling places in the upcoming elections, despite strict state and federal laws against such a move.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
-    "image_url": null,
-    "published_at": "2026-09-23T09:00:00.000Z"
-  },
-  {
-    "headline": "Poll: Trust in the U.S. Postal Service delivering mail-in ballots on time has fallen",
-    "summary": "Registered voters are less confident that USPS will deliver election mail on time compared with 2024, an NPR/PBS News/Marist poll finds, after USPS was part of Trump's bid to limit mail voting.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978081/usps-election-mail-in-ballot",
-    "image_url": null,
-    "published_at": "2026-09-23T09:00:00.000Z"
-  },
-  {
-    "headline": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
-    "summary": "While Senate offices have access to chatbots like ChatGPT, they are not authorized to use any of the more advanced tools that are at the center of regulatory talks and public debate about AI safety.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
-    "image_url": null,
-    "published_at": "2026-09-23T09:00:00.000Z"
   }
 ]

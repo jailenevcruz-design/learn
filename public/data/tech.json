@@ -1,5 +1,117 @@
 [
   {
+    "headline": "The iPhone Duo should have been an iPad",
+    "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay debate whether the Duo deserved…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "image_url": null,
+    "published_at": "2026-10-23T17:00:18.000Z"
+  },
+  {
+    "headline": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "image_url": null,
+    "published_at": "2026-10-23T16:52:55.000Z"
+  },
+  {
+    "headline": "The first broken iPhone Duos are here",
+    "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange bright line (or lines) acr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+    "image_url": null,
+    "published_at": "2026-10-23T16:37:03.000Z"
+  },
+  {
+    "headline": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+    "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+    "image_url": null,
+    "published_at": "2026-10-23T16:26:29.000Z"
+  },
+  {
+    "headline": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+    "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+    "image_url": null,
+    "published_at": "2026-10-23T16:20:28.000Z"
+  },
+  {
+    "headline": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+    "image_url": null,
+    "published_at": "2026-10-23T16:02:43.000Z"
+  },
+  {
+    "headline": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+    "summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 1…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+    "image_url": null,
+    "published_at": "2026-10-23T15:24:45.000Z"
+  },
+  {
+    "headline": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+    "summary": "SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX access t…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+    "image_url": null,
+    "published_at": "2026-10-23T15:16:24.000Z"
+  },
+  {
+    "headline": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+    "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+    "image_url": null,
+    "published_at": "2026-10-23T15:00:09.000Z"
+  },
+  {
+    "headline": "Meta delays new business terms after publisher pushback on AI scraping",
+    "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "image_url": null,
+    "published_at": "2026-10-23T14:47:41.000Z"
+  },
+  {
+    "headline": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+    "summary": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer battery life. But this time around, Sigma is on…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
+    "image_url": null,
+    "published_at": "2026-10-23T14:42:46.000Z"
+  },
+  {
+    "headline": "Our best tips for using the iPhone Duo",
+    "summary": "It’s been a long time since we had to rethink how to use an iPhone. | Photo: Amelia Holowaty Krales / The Verge The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+    "image_url": null,
+    "published_at": "2026-10-23T14:00:00.000Z"
+  },
+  {
+    "headline": "Apple revives the original iPod as an Apple Music easter egg",
+    "summary": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's \"Viva La V…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+    "image_url": null,
+    "published_at": "2026-10-23T13:58:43.000Z"
+  },
+  {
+    "headline": "People are vibe coding their way to better TVs",
+    "summary": "Just imagine… a nice, clean homescreen with no ads, thanks to Claude. | Image: cleanyourtv Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of thei…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+    "image_url": null,
+    "published_at": "2026-10-23T13:00:00.000Z"
+  },
+  {
     "headline": "Retro gaming is being overrun with AI",
     "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyis…",
     "publisher": "The Verge",
@@ -24,7 +136,7 @@
     "published_at": "2026-10-23T10:00:00.000Z"
   },
   {
-    "headline": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+    "headline": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
     "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
@@ -32,8 +144,8 @@
     "published_at": "2026-10-23T04:22:57.000Z"
   },
   {
-    "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "image_url": null,
@@ -1486,117 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
     "image_url": null,
     "published_at": "2026-10-18T16:05:00.000Z"
-  },
-  {
-    "headline": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-    "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage (32GB and 1TB, respecti…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-18T15:00:00.000Z"
-  },
-  {
-    "headline": "J Mascis has nothing better to do",
-    "summary": "J Mascis on stage during Dinosaur Jr.’s Baby’s Alright show in NYC. | Photo: Terrence O’Brien Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis h…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
-    "image_url": null,
-    "published_at": "2026-10-18T14:00:00.000Z"
-  },
-  {
-    "headline": "Trump says Google kisses his ass",
-    "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
-    "image_url": null,
-    "published_at": "2026-10-18T13:25:01.000Z"
-  },
-  {
-    "headline": "The best gadget I bought this year is a milk frother",
-    "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their cream top, an iced Americano wit…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
-    "image_url": null,
-    "published_at": "2026-10-18T13:00:00.000Z"
-  },
-  {
-    "headline": "How overhead projectors took over your classroom",
-    "summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students ever…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
-    "image_url": null,
-    "published_at": "2026-10-18T12:55:01.000Z"
-  },
-  {
-    "headline": "Cities want to put the boot on robotaxis",
-    "summary": "AUSTIN, TEXAS - APRIL 8: Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Getty Images This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
-    "image_url": null,
-    "published_at": "2026-10-18T12:00:00.000Z"
-  },
-  {
-    "headline": "Meta removes language that raised scraping and AI training concerns",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "image_url": null,
-    "published_at": "2026-10-17T21:31:32.000Z"
-  },
-  {
-    "headline": "TikTok says it’s restored ‘Musk’ documentary advertising account",
-    "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-    "image_url": null,
-    "published_at": "2026-10-17T20:55:52.000Z"
-  },
-  {
-    "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "image_url": null,
-    "published_at": "2026-10-17T20:21:19.000Z"
-  },
-  {
-    "headline": "TikTok bans Musk documentary account",
-    "summary": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images) | AFP via Getty Images Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok h…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-    "image_url": null,
-    "published_at": "2026-10-17T19:32:23.000Z"
-  },
-  {
-    "headline": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "image_url": null,
-    "published_at": "2026-10-17T18:48:08.000Z"
-  },
-  {
-    "headline": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-    "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler.…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-    "image_url": null,
-    "published_at": "2026-10-17T17:00:00.000Z"
-  },
-  {
-    "headline": "Elon Musk settles lawsuits over $1 million voter giveaway",
-    "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-    "image_url": null,
-    "published_at": "2026-10-17T16:39:44.000Z"
-  },
-  {
-    "headline": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-    "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-    "image_url": null,
-    "published_at": "2026-10-17T15:30:00.000Z"
   }
 ]

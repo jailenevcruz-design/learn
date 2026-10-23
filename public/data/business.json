@@ -1,11 +1,155 @@
 [
   {
-    "headline": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+    "headline": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+    "summary": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+    "image_url": null,
+    "published_at": "2026-10-23T17:42:30.000Z"
+  },
+  {
+    "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+    "summary": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+    "image_url": null,
+    "published_at": "2026-10-23T17:41:25.000Z"
+  },
+  {
+    "headline": "Investors are starting to find opportunities in the battered bond market",
+    "summary": "Some market participants see reason for hope in a market bludgeoned this year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
+    "image_url": null,
+    "published_at": "2026-10-23T17:40:31.000Z"
+  },
+  {
+    "headline": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+    "summary": "The 10-year Treasury yield was just below 5% Friday after AI-driven tech selling sent investors into government bonds.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+    "image_url": null,
+    "published_at": "2026-10-23T17:26:23.000Z"
+  },
+  {
+    "headline": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+    "summary": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
+    "image_url": null,
+    "published_at": "2026-10-23T17:26:12.000Z"
+  },
+  {
+    "headline": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+    "summary": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquified natural gas exporters.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+    "image_url": null,
+    "published_at": "2026-10-23T17:25:29.000Z"
+  },
+  {
+    "headline": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+    "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+    "image_url": null,
+    "published_at": "2026-10-23T17:21:10.000Z"
+  },
+  {
+    "headline": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
+    "summary": "Six melanoma specialists said the Moderna and Merck vaccine results represent a clinically meaningful result for melanoma patients who underwent surgery.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
+    "image_url": null,
+    "published_at": "2026-10-23T17:15:08.000Z"
+  },
+  {
+    "headline": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+    "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+    "image_url": null,
+    "published_at": "2026-10-23T16:55:37.000Z"
+  },
+  {
+    "headline": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+    "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+    "image_url": null,
+    "published_at": "2026-10-23T16:51:21.000Z"
+  },
+  {
+    "headline": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
+    "summary": "College students are spending less time socializing, which has implications for later in life and the workplace.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
+    "image_url": null,
+    "published_at": "2026-10-23T16:44:35.000Z"
+  },
+  {
+    "headline": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+    "summary": "Attorneys for one of the ex-FBI officials slammed the Trump administration for filing the \"nonsense charges\" just before the midterm election.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html",
+    "image_url": null,
+    "published_at": "2026-10-23T16:32:44.000Z"
+  },
+  {
+    "headline": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+    "summary": "European governments race to turn defense spending pledges into military capability, boosting companies' order books.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+    "image_url": null,
+    "published_at": "2026-10-23T16:26:17.000Z"
+  },
+  {
+    "headline": "What we want to see when this data center stock reports earnings next week",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/23/what-we-want-to-see-when-this-data-center-stock-reports-earnings-next-week.html",
+    "image_url": null,
+    "published_at": "2026-10-23T16:15:59.000Z"
+  },
+  {
+    "headline": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
+    "summary": "The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
+    "image_url": null,
+    "published_at": "2026-10-23T15:35:36.000Z"
+  },
+  {
+    "headline": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
+    "summary": "Moderna released full data on its closely watched cancer vaccine developed with Merck.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+    "image_url": null,
+    "published_at": "2026-10-23T14:36:34.000Z"
+  },
+  {
+    "headline": "Restaurant earnings will test whether owning more brands pays off",
+    "summary": "Shares of companies with multiple restaurant brands like Brinker and Darden are outperforming single-chain stocks like McDonald's and Chipotle.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
+    "image_url": null,
+    "published_at": "2026-10-23T13:55:46.000Z"
+  },
+  {
+    "headline": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
     "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
     "image_url": null,
-    "published_at": "2026-10-23T12:46:11.000Z"
+    "published_at": "2026-10-23T13:50:46.000Z"
+  },
+  {
+    "headline": "Family offices likely to add risk, debt and alternatives under the next generation",
+    "summary": "The next generation of family office leaders is likely to use more debt, invest in more alternatives and focus on different philanthropies, say new studies.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/next-generation-family-offices-likely-to-add-risk-debt-alternatives.html",
+    "image_url": null,
+    "published_at": "2026-10-23T13:16:26.000Z"
   },
   {
     "headline": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
@@ -30,22 +174,6 @@
     "url": "https://www.cnbc.com/2026/10/23/high-interest-rates-raise-the-bar-for-real-estate-deals.html",
     "image_url": null,
     "published_at": "2026-10-23T12:15:03.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-    "summary": "U.S. Treasury yields edged higher on Friday following a sharp reversal on Thursday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-    "image_url": null,
-    "published_at": "2026-10-23T12:12:18.000Z"
-  },
-  {
-    "headline": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-    "image_url": null,
-    "published_at": "2026-10-23T12:11:48.000Z"
   },
   {
     "headline": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
@@ -128,14 +256,6 @@
     "published_at": "2026-10-23T09:00:00.000Z"
   },
   {
-    "headline": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
-    "summary": "European governments race to turn defense spending pledges into military capability, boosting companies' order books.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
-    "image_url": null,
-    "published_at": "2026-10-23T08:10:27.000Z"
-  },
-  {
     "headline": "Japan core inflation in September surges to its highest this year at 2.1%",
     "summary": "Core inflation, which strips out prices of fresh food, was in line with the 2.1% forecast by economists polled by Reuters.",
     "publisher": "CNBC",
@@ -198,14 +318,6 @@
     "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
     "image_url": null,
     "published_at": "2026-10-22T21:58:42.000Z"
-  },
-  {
-    "headline": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-    "summary": "Moderna released full data on its closely watched cancer vaccine developed with Merck.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-    "image_url": null,
-    "published_at": "2026-10-22T21:52:02.000Z"
   },
   {
     "headline": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
@@ -1486,117 +1598,5 @@
     "url": "https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
     "image_url": null,
     "published_at": "2026-10-18T15:24:37.000Z"
-  },
-  {
-    "headline": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
-    "summary": "A new report finds nearly half of workers are often logging in on Sundays. It is a boon for worker flexibility, or a sign of job-hugging insecurity?",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
-    "image_url": null,
-    "published_at": "2026-10-18T14:00:01.000Z"
-  },
-  {
-    "headline": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-    "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
-    "image_url": null,
-    "published_at": "2026-10-18T13:52:24.000Z"
-  },
-  {
-    "headline": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
-    "summary": "Parenting coach Reem Raouda shares lessons to help kids feel worthy regardless of achievements and handle disappointment, disagreement and difficult feelings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
-    "image_url": null,
-    "published_at": "2026-10-18T13:37:01.000Z"
-  },
-  {
-    "headline": "Roth conversions: When the ‘juice isn't really worth the squeeze,’ according to a top-ranked advisor",
-    "summary": "If you're considering a year-end Roth conversion for 2026, there are some key things to know, experts say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
-    "image_url": null,
-    "published_at": "2026-10-18T13:30:01.000Z"
-  },
-  {
-    "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-    "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-    "image_url": null,
-    "published_at": "2026-10-18T12:50:33.000Z"
-  },
-  {
-    "headline": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-    "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-    "image_url": null,
-    "published_at": "2026-10-18T12:34:51.000Z"
-  },
-  {
-    "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-    "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-    "image_url": null,
-    "published_at": "2026-10-18T12:00:01.000Z"
-  },
-  {
-    "headline": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
-    "summary": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-    "image_url": null,
-    "published_at": "2026-10-18T11:10:44.000Z"
-  },
-  {
-    "headline": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-    "summary": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-    "image_url": null,
-    "published_at": "2026-10-18T07:22:07.000Z"
-  },
-  {
-    "headline": "Why hedge funds could be making a bond market shock more likely",
-    "summary": "The Bank of England's deputy governor has warned that hedge funds' activities could raise the risk of a global bond market shock.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-    "image_url": null,
-    "published_at": "2026-10-18T06:13:05.000Z"
-  },
-  {
-    "headline": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
-    "summary": "Timberland managers buying for pension funds and other institutional investors can wait decades for returns, but the market can also be a profit trap.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-    "image_url": null,
-    "published_at": "2026-10-17T16:31:06.000Z"
-  },
-  {
-    "headline": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-    "summary": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-    "image_url": null,
-    "published_at": "2026-10-17T15:42:34.000Z"
-  },
-  {
-    "headline": "Software’s new consolidator gets big vote of confidence from Berkshire",
-    "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-    "image_url": null,
-    "published_at": "2026-10-17T15:11:30.000Z"
-  },
-  {
-    "headline": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-    "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-    "image_url": null,
-    "published_at": "2026-10-17T15:00:01.000Z"
   }
 ]
