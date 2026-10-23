@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/pre-fall-2027-menswear/rag-bone",
     "image_url": null,
-    "published_at": "2026-10-22T23:36:23.000Z"
+    "published_at": "2026-10-23T02:03:26.000Z"
   },
   {
     "headline": "Tao Tokyo Spring 2027",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/tao",
     "image_url": null,
-    "published_at": "2026-10-22T23:36:23.000Z"
+    "published_at": "2026-10-23T02:03:26.000Z"
   },
   {
     "headline": "J. Mendel Spring 2027 Ready-to-Wear",
@@ -21,7 +21,23 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/j-mendel",
     "image_url": null,
-    "published_at": "2026-10-22T23:36:23.000Z"
+    "published_at": "2026-10-23T02:03:26.000Z"
+  },
+  {
+    "headline": "The Daily Grind: An Exploration of Teeth Grinding and Relief",
+    "summary": "Is a clenched jaw just a part of life in 2026? Vogue explores.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/teeth-grinding-and-relief",
+    "image_url": null,
+    "published_at": "2026-10-23T00:18:41.000Z"
+  },
+  {
+    "headline": "13 of the Biggest Contenders for the 2027 Oscars",
+    "summary": "These are the swaggering blockbusters, charming comedies, and low-budget dark horses to add to your watchlist this awards season.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/biggest-oscar-contenders-2027",
+    "image_url": null,
+    "published_at": "2026-10-23T00:00:00.000Z"
   },
   {
     "headline": "Diane von Furstenberg Honored With 2026 Couture Council Award From the Museum at FIT",
@@ -248,18 +264,18 @@
     "published_at": "2026-10-22T16:01:18.000Z"
   },
   {
-    "headline": "On the Podcast: The 2026 Fashion Fund Winners Share Their Next Big Moves",
-    "summary": "On this Thursday’s episode of “The Run-Through,” Nicole Phelps chats with Zane Li, Aisling Camps, and Emily Dawn Long, the winners of this year’s CFDA/Vogue Fashion Fund.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/on-the-podcast-the-2026-fashion-fund-winners-share-their-next-big-moves",
-    "image_url": null,
-    "published_at": "2026-10-22T16:00:00.000Z"
-  },
-  {
     "headline": "‘Klara and the Sun’ Stars Jenna Ortega and Amy Adams Face Off in the Latest ‘Off the Cuff’",
     "summary": "For the latest installment of Vogue’s “Off the Cuff” video series, the two stars sit down to interview each other, bonding over being from big families—Ortega is one of six kids, Adams is one of seven—and discussing the finer points of some of their most famous roles.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/off-the-cuff-jenna-ortega-amy-adams",
+    "image_url": null,
+    "published_at": "2026-10-22T16:00:00.000Z"
+  },
+  {
+    "headline": "On the Podcast: The 2026 Fashion Fund Winners Share Their Next Big Moves",
+    "summary": "On this Thursday’s episode of “The Run-Through,” Nicole Phelps chats with Zane Li, Aisling Camps, and Emily Dawn Long, the winners of this year’s CFDA/Vogue Fashion Fund.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/on-the-podcast-the-2026-fashion-fund-winners-share-their-next-big-moves",
     "image_url": null,
     "published_at": "2026-10-22T16:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://wwd.com/fashion-news/designer-luxury/eva-victor-loewe-brand-ambassador-1239351702/",
     "image_url": null,
     "published_at": "2026-10-19T13:00:00.000Z"
-  },
-  {
-    "headline": "Visiting With Alex Katz, the 99-Year-Old Artist Who Doesn’t Stop",
-    "summary": "Alex Katz doesn’t live the way so many other famous artists do. Dodie Kazanjian pays a visit.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/alex-katz-tenth-decade",
-    "image_url": null,
-    "published_at": "2026-10-19T12:00:00.000Z"
-  },
-  {
-    "headline": "Google Releases Shopping Guide",
-    "summary": "And after a preview earlier this year, the company has officially launched its \"Univeral Cart.\"",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/google-launches-consumer-shopping-guide-1239352025/",
-    "image_url": null,
-    "published_at": "2026-10-19T12:00:00.000Z"
   }
 ]

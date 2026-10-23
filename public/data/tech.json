@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Left alone with nothing to do, AI agents started playing",
+    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "image_url": null,
+    "published_at": "2026-10-23T00:45:37.000Z"
+  },
+  {
+    "headline": "Etsy is cracking down on AI slop listings",
+    "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use AI…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+    "image_url": null,
+    "published_at": "2026-10-23T00:09:58.000Z"
+  },
+  {
+    "headline": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+    "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+    "image_url": null,
+    "published_at": "2026-10-22T23:50:41.000Z"
+  },
+  {
     "headline": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
     "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
     "publisher": "TechCrunch",
@@ -1574,29 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
     "image_url": null,
     "published_at": "2026-10-17T13:00:00.000Z"
-  },
-  {
-    "headline": "Bose’s new wired earbuds are simple in the best way",
-    "summary": "Bose has me thinking I’m in my 20s again with its wired earbuds. After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of declin…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-    "image_url": null,
-    "published_at": "2026-10-17T13:00:00.000Z"
-  },
-  {
-    "headline": "Apple’s HomeView is just the latest threat to online recipe writers",
-    "summary": "The HomeView can simplify online recipe formatting into easy-to-follow steps. | Image: Apple When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
-    "image_url": null,
-    "published_at": "2026-10-17T12:00:00.000Z"
-  },
-  {
-    "headline": "It’s a dream week for tech docs",
-    "summary": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Marc Andreessen and the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-    "image_url": null,
-    "published_at": "2026-10-17T12:00:00.000Z"
   }
 ]
