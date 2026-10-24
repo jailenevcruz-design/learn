@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Is your Medicare Advantage plan ending next year? Here's what to know",
+    "summary": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+    "image_url": null,
+    "published_at": "2026-10-24T10:00:00.000Z"
+  },
+  {
     "headline": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
     "summary": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
     "publisher": "NPR",
@@ -40,18 +48,18 @@
     "published_at": "2026-10-22T09:00:00.000Z"
   },
   {
-    "headline": "Can a dream help you solve a problem? Here's how to try tonight",
-    "summary": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream research and how dreams are a tool for self-discovery.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
-    "image_url": null,
-    "published_at": "2026-10-22T09:00:00.000Z"
-  },
-  {
     "headline": "High health costs squeeze workers, even if you have good insurance through a job",
     "summary": "About 157 million Americans get their health insurance through work. A survey of employers shows a moderate price uptick this year, but workers still say health costs are a top concern.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
+    "image_url": null,
+    "published_at": "2026-10-22T09:00:00.000Z"
+  },
+  {
+    "headline": "Can a dream help you solve a problem? Here's how to try tonight",
+    "summary": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream research and how dreams are a tool for self-discovery.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
     "image_url": null,
     "published_at": "2026-10-22T09:00:00.000Z"
   },
@@ -1588,14 +1596,6 @@
     "summary": "Federal Medicaid dollars can no longer pay for gender-affirming care for youth. Doctors who treat trans kids say it will harm vulnerable people.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/08/14/nx-s1-5929518/doctors-say-medicaid-change-to-gender-affirming-care-will-harm-vulnerable-youth",
-    "image_url": null,
-    "published_at": "2026-08-14T08:43:38.000Z"
-  },
-  {
-    "headline": "Doctors says Medicaid change to gender-affirming care will harm vulnerable youth",
-    "summary": "Federal Medicaid dollars can no longer pay for gender-affirming care for youth. Doctors who treat trans kids say it will harm vulnerable people.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5929518/doctors-says-medicaid-change-to-gender-affirming-care-will-harm-vulnerable-youth",
     "image_url": null,
     "published_at": "2026-08-14T08:43:38.000Z"
   }
