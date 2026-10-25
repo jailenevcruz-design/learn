@@ -1,5 +1,45 @@
 [
   {
+    "headline": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+    "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the site has given t…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+    "image_url": null,
+    "published_at": "2026-10-25T21:40:27.000Z"
+  },
+  {
+    "headline": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "image_url": null,
+    "published_at": "2026-10-25T21:31:16.000Z"
+  },
+  {
+    "headline": "Scott Walker’s The Drift will get under your skin",
+    "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+    "image_url": null,
+    "published_at": "2026-10-25T21:08:09.000Z"
+  },
+  {
+    "headline": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+    "summary": "\"That's a 12-year-old view of the world.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+    "image_url": null,
+    "published_at": "2026-10-25T20:20:08.000Z"
+  },
+  {
+    "headline": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+    "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+    "image_url": null,
+    "published_at": "2026-10-25T20:16:19.000Z"
+  },
+  {
     "headline": "Zen Browser is the Arc replacement I was looking for",
     "summary": "Launcher-like pinned tabs, pop-over glance view, and more make Zen my go to browser. | Image: Zen Browser I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shif…",
     "publisher": "The Verge",
@@ -128,22 +168,6 @@
     "published_at": "2026-10-24T15:30:00.000Z"
   },
   {
-    "headline": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-    "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on the genre was restless…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-    "image_url": null,
-    "published_at": "2026-10-24T15:00:00.000Z"
-  },
-  {
-    "headline": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-    "summary": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars thr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-24T15:00:00.000Z"
-  },
-  {
     "headline": "These clever apps show off the iPhone Duo’s potential",
     "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
     "publisher": "TechCrunch",
@@ -160,18 +184,34 @@
     "published_at": "2026-10-24T15:00:00.000Z"
   },
   {
-    "headline": "What to expect from Apple’s ‘Pro and tell’ event",
-    "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. While obvio…",
+    "headline": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+    "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on the genre was restless…",
     "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+    "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
     "image_url": null,
-    "published_at": "2026-10-24T14:15:00.000Z"
+    "published_at": "2026-10-24T15:00:00.000Z"
+  },
+  {
+    "headline": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+    "summary": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars thr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-24T15:00:00.000Z"
   },
   {
     "headline": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
     "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+    "image_url": null,
+    "published_at": "2026-10-24T14:15:00.000Z"
+  },
+  {
+    "headline": "What to expect from Apple’s ‘Pro and tell’ event",
+    "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. While obvio…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
     "image_url": null,
     "published_at": "2026-10-24T14:15:00.000Z"
   },
@@ -1558,45 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
     "image_url": null,
     "published_at": "2026-10-20T07:01:00.000Z"
-  },
-  {
-    "headline": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-    "summary": "The bright spotlight’s focused beam improves the quality of video captured at night while scaring off unwanted visitors. | Image: Baseus Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
-    "image_url": null,
-    "published_at": "2026-10-20T04:00:00.000Z"
-  },
-  {
-    "headline": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-    "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
-    "image_url": null,
-    "published_at": "2026-10-20T02:00:00.000Z"
-  },
-  {
-    "headline": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "image_url": null,
-    "published_at": "2026-10-20T01:27:03.000Z"
-  },
-  {
-    "headline": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "image_url": null,
-    "published_at": "2026-10-19T23:39:38.000Z"
-  },
-  {
-    "headline": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "image_url": null,
-    "published_at": "2026-10-19T22:49:27.000Z"
   }
 ]

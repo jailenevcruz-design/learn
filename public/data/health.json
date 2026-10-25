@@ -1,5 +1,13 @@
 [
   {
+    "headline": "U.S. measles cases more than double what they were last year as outbreak spreads",
+    "summary": "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+    "image_url": null,
+    "published_at": "2026-10-25T20:35:35.000Z"
+  },
+  {
     "headline": "What people aged 50 and older need to know about flu shots",
     "summary": "NPR's Ayesha Rascoe asks Dr. Ann Falsey of the University of Rochester Medical School about flu shots for people aged 50 and older.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
     "image_url": null,
     "published_at": "2026-08-15T09:04:00.000Z"
-  },
-  {
-    "headline": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-    "summary": "Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-    "image_url": null,
-    "published_at": "2026-08-14T16:37:54.000Z"
   }
 ]
