@@ -1,5 +1,93 @@
 [
   {
+    "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+    "summary": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+    "image_url": null,
+    "published_at": "2026-10-25T18:18:49.000Z"
+  },
+  {
+    "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+    "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+    "image_url": null,
+    "published_at": "2026-10-25T16:42:42.000Z"
+  },
+  {
+    "headline": "Here are 4 big things we're watching in the stock market this week",
+    "summary": "Peak earnings season, plus a Fed meeting and fresh inflation data.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+    "image_url": null,
+    "published_at": "2026-10-25T14:58:26.000Z"
+  },
+  {
+    "headline": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+    "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+    "image_url": null,
+    "published_at": "2026-10-25T14:14:23.000Z"
+  },
+  {
+    "headline": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life",
+    "summary": "I racked up over $11,000 in credit card debt traveling, shopping and dining out. Here's how I paid it all off in under two years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html",
+    "image_url": null,
+    "published_at": "2026-10-25T14:00:01.000Z"
+  },
+  {
+    "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+    "summary": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+    "image_url": null,
+    "published_at": "2026-10-25T13:41:37.000Z"
+  },
+  {
+    "headline": "Should you travel together? Ask these questions before booking: 'It'll save you time, money and disappointment'",
+    "summary": "Consider budget, accommodations, personal habits, alone time and more, say Anna Goldfarb and Nell McShane Wulfhart, experts in friendship, travel and decision-making.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/10/25/travel-compatibility-questions.html",
+    "image_url": null,
+    "published_at": "2026-10-25T13:38:01.000Z"
+  },
+  {
+    "headline": "Netflix lays off 6% of workforce amidst slowing growth",
+    "summary": "Netflix is regrouping after the release of its latest quarterly earnings this week. Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth",
+    "image_url": null,
+    "published_at": "2026-10-25T12:25:29.000Z"
+  },
+  {
+    "headline": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+    "summary": "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+    "image_url": null,
+    "published_at": "2026-10-25T12:00:01.000Z"
+  },
+  {
+    "headline": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+    "summary": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+    "image_url": null,
+    "published_at": "2026-10-25T12:00:01.000Z"
+  },
+  {
+    "headline": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+    "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+    "image_url": null,
+    "published_at": "2026-10-25T08:06:11.000Z"
+  },
+  {
     "headline": "Trade tariffs cause whiplash at Port Milwaukee",
     "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
     "publisher": "NPR",
@@ -30,6 +118,14 @@
     "url": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
     "image_url": null,
     "published_at": "2026-10-24T19:57:24.000Z"
+  },
+  {
+    "headline": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+    "summary": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
+    "image_url": null,
+    "published_at": "2026-10-24T18:56:29.000Z"
   },
   {
     "headline": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
@@ -134,14 +230,6 @@
     "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
     "image_url": null,
     "published_at": "2026-10-24T06:41:14.000Z"
-  },
-  {
-    "headline": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-    "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
-    "image_url": null,
-    "published_at": "2026-10-24T06:23:02.000Z"
   },
   {
     "headline": "What a day in customer service looks like — as AI changes everything",
@@ -1510,93 +1598,5 @@
     "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
     "image_url": null,
     "published_at": "2026-10-20T10:30:00.000Z"
-  },
-  {
-    "headline": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-    "summary": "Walmart is now offering a joint membership with Sam's Club for $120 per year as the retailer further leans into convenience.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
-    "image_url": null,
-    "published_at": "2026-10-20T10:00:01.000Z"
-  },
-  {
-    "headline": "Why these 5 everyday items fluctuate in price at the grocery store",
-    "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
-    "image_url": null,
-    "published_at": "2026-10-20T09:00:00.000Z"
-  },
-  {
-    "headline": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-    "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-    "image_url": null,
-    "published_at": "2026-10-20T09:00:00.000Z"
-  },
-  {
-    "headline": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-    "summary": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
-    "image_url": null,
-    "published_at": "2026-10-20T08:17:14.000Z"
-  },
-  {
-    "headline": "What’s making Europe so angry? The frustration behind the protests",
-    "summary": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
-    "image_url": null,
-    "published_at": "2026-10-20T07:19:16.000Z"
-  },
-  {
-    "headline": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
-    "summary": "Copper is up 15.8% in 2026 as investors point to AI, grid and national security demand, tight supply and tariff-driven U.S. stockpiles.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
-    "image_url": null,
-    "published_at": "2026-10-20T05:57:34.000Z"
-  },
-  {
-    "headline": "The world’s finance chiefs see new risks — and less China angst",
-    "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-    "image_url": null,
-    "published_at": "2026-10-20T05:27:53.000Z"
-  },
-  {
-    "headline": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
-    "summary": "Jio Platforms plans to raise up to $3.2 billion through an IPO, which is India's largest ever in rupee terms, but the second largest in dollar terms.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
-    "image_url": null,
-    "published_at": "2026-10-20T02:44:35.000Z"
-  },
-  {
-    "headline": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
-    "summary": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
-    "image_url": null,
-    "published_at": "2026-10-20T02:16:25.000Z"
-  },
-  {
-    "headline": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
-    "summary": "Vice President JD Vance declined to follow Trump in endorsing Netanyahu, saying he’s “not getting involved in Israeli elections” a week before Israelis vote.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
-    "image_url": null,
-    "published_at": "2026-10-20T01:53:34.000Z"
-  },
-  {
-    "headline": "Difficult times in agriculture are making it tough for the next generation of farmers",
-    "summary": "Many farmers across the U.S. are reaching retirement age. But lately, increasing volatility and sky-high prices in agriculture are making it tough for the next generation to take over.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/19/nx-s1-5966889/difficult-times-in-agriculture-are-making-it-tough-for-the-next-generation-of-farmers",
-    "image_url": null,
-    "published_at": "2026-10-19T21:57:57.000Z"
   }
 ]
