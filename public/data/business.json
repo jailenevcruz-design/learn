@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Brazil's Lula wins presidential election in runoff vote",
+    "summary": "Brazil's Lula wins record fourth term in presidential runoff with markets falling and real set to weaken.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+    "image_url": null,
+    "published_at": "2026-10-26T00:44:02.000Z"
+  },
+  {
+    "headline": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+    "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+    "image_url": null,
+    "published_at": "2026-10-26T00:37:51.000Z"
+  },
+  {
+    "headline": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+    "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+    "image_url": null,
+    "published_at": "2026-10-26T00:03:20.000Z"
+  },
+  {
+    "headline": "In pictures: Protests over inequality, rising living costs turn violent across France",
+    "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+    "image_url": null,
+    "published_at": "2026-10-25T23:55:22.000Z"
+  },
+  {
     "headline": "More pain may be coming for the AI trade. Why I’m not giving up on it",
     "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explains why the AI trade has cracked and what he's doing about it.",
     "publisher": "CNBC",
@@ -38,14 +70,6 @@
     "url": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
     "image_url": null,
     "published_at": "2026-10-25T14:58:26.000Z"
-  },
-  {
-    "headline": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-    "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-    "image_url": null,
-    "published_at": "2026-10-25T14:14:23.000Z"
   },
   {
     "headline": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
     "image_url": null,
     "published_at": "2026-10-20T12:45:30.000Z"
-  },
-  {
-    "headline": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
-    "summary": "Apple is adding a U.S. titanium supplier for its new iPhone Duo and expanding domestic production of camera components for the iPhone 18 Pro.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
-    "image_url": null,
-    "published_at": "2026-10-20T12:29:26.000Z"
-  },
-  {
-    "headline": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
-    "summary": "NBA star Draymond Green said he would love to retire as a member of the Warriors but plans to keep playing next season even if that means joining another team.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
-    "image_url": null,
-    "published_at": "2026-10-20T12:00:02.000Z"
-  },
-  {
-    "headline": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-    "summary": "Data center campuses house the servers that power AI and cloud computing.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-    "image_url": null,
-    "published_at": "2026-10-20T10:39:17.000Z"
   }
 ]
