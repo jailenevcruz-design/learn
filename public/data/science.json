@@ -1,5 +1,93 @@
 [
   {
+    "headline": "Exercise doesn't just strengthen your heart. It rewires it",
+    "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T11:35:53.000Z"
+  },
+  {
+    "headline": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+    "summary": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 709 BCE and obtain mo…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T11:06:08.000Z"
+  },
+  {
+    "headline": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+    "summary": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after the dinosaurs went extinct, raising intriguing questions about how that ancient ca…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T10:50:11.000Z"
+  },
+  {
+    "headline": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+    "summary": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it around an object, making the object appear invisible to thermal imaging from virtually any direction. Suc…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T10:24:20.000Z"
+  },
+  {
+    "headline": "Tiny magnetic vortices could help computers work more like your brain",
+    "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technolog…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T10:06:16.000Z"
+  },
+  {
+    "headline": "Archaeologists may have just found the world's oldest shipwreck",
+    "summary": "A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its surviving pottery cargo reveals clues about an ancient trading network that may have connected distant Mediterranean civ…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T09:51:15.000Z"
+  },
+  {
+    "headline": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+    "summary": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before diagnosis and was nearly twice as sensitive as experienced radiologists. By spotting cancer-related cha…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T09:25:21.000Z"
+  },
+  {
+    "headline": "How AI is transforming hurricane forecasts",
+    "summary": "Hurricane forecasters are increasingly using artificial intelligence to make predictions.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
+    "image_url": null,
+    "published_at": "2026-10-26T09:00:00.000Z"
+  },
+  {
+    "headline": "Scientists discover Arctic sea ice loss could be far worse than predicted",
+    "summary": "Arctic winter sea ice could disappear much faster than scientists previously expected, according to new research using climate clues from 6,000 years ago. By comparing ancient ocean sediments with modern climate models, researchers found that future winter ice coverage may be roughly one million square kilometers small…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261022081259.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T08:50:24.000Z"
+  },
+  {
+    "headline": "A simple liquid can stop cavities without drilling, major study confirms",
+    "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T02:41:13.000Z"
+  },
+  {
+    "headline": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+    "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more po…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+    "image_url": null,
+    "published_at": "2026-10-26T01:42:48.000Z"
+  },
+  {
     "headline": "Scientists reveal the hidden danger of missing blood pressure medication",
     "summary": "Missing blood pressure medication could mean losing much of its protection against heart attacks and strokes, according to an analysis of more than 91,000 people. Patients who consistently took their medication experienced an 11% reduction in major cardiovascular events, while those who missed too many doses saw little…",
     "publisher": "ScienceDaily",
@@ -1510,93 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
     "image_url": null,
     "published_at": "2026-10-10T18:57:27.000Z"
-  },
-  {
-    "headline": "Loneliness may steal nearly 6 years of good health",
-    "summary": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
-    "image_url": null,
-    "published_at": "2026-10-10T18:57:02.000Z"
-  },
-  {
-    "headline": "MIT astronomers catch a star in a feast that could last billions of years",
-    "summary": "Astronomers have discovered a bizarre star system about 300 light-years from Earth where a small star is slowly devouring a nearby brown dwarf, an object too massive to be a planet but too small to be a true star. Unlike stars that rapidly swallow their companions, this one is gradually stealing material in a process t…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261008005240.htm",
-    "image_url": null,
-    "published_at": "2026-10-10T18:56:25.000Z"
-  },
-  {
-    "headline": "Bowel cancer “melted away” after immunotherapy, then stayed away",
-    "summary": "A short course of immunotherapy before surgery may offer remarkably durable protection for some patients with stage two or three bowel cancer. In the NEOPRISM-CRC trial, 32 patients with a specific genetic form of bowel cancer received pembrolizumab for up to nine weeks before surgery instead of the usual post-surgery…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
-    "image_url": null,
-    "published_at": "2026-10-10T18:42:35.000Z"
-  },
-  {
-    "headline": "The origin of the chew: When did we learn to eat like this?",
-    "summary": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs still reigned.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/10/nx-s1-5991361-e1/the-origin-of-the-chew-when-did-we-learn-to-eat-like-this",
-    "image_url": null,
-    "published_at": "2026-10-10T11:40:49.000Z"
-  },
-  {
-    "headline": "Scientists may have found why diabetic wounds refuse to heal",
-    "summary": "Chronic diabetic wounds may fail to heal because immune cells remain locked in damaging inflammatory states instead of transitioning toward tissue repair. Researchers are exploring treatments that reprogram these immune responses, raising hopes for more targeted and effective therapies for diabetic ulcers.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261006234534.htm",
-    "image_url": null,
-    "published_at": "2026-10-10T03:00:35.000Z"
-  },
-  {
-    "headline": "A famous quantum effect can finally be predicted in real materials",
-    "summary": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that appears when magnetic atoms are embedded in metals. Instead of relying on simplified models, the method uses the real atomic and electronic structures of materials, allowing researchers to predict their behavio…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
-    "image_url": null,
-    "published_at": "2026-10-10T01:59:39.000Z"
-  },
-  {
-    "headline": "Scientists discover 5 hidden brain patterns behind depression",
-    "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different patterns of communication between brain regions and associations with symptoms such as a…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
-    "image_url": null,
-    "published_at": "2026-10-09T18:34:02.000Z"
-  },
-  {
-    "headline": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
-    "summary": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless communications by allowing antennas to change their size and direction on demand, with promising applicatio…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
-    "image_url": null,
-    "published_at": "2026-10-09T17:55:59.000Z"
-  },
-  {
-    "headline": "Hubble Space Telescope may have found a planet born after its star died",
-    "summary": "A strange chemical signature in old Hubble observations may point to a planet that formed after its star had already died. Astronomers found unusually high levels of niobium around the white dwarf HS 0209+0832, suggesting some of the star’s expelled material may have assembled into a new gas giant. TESS data also hints…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261007042106.htm",
-    "image_url": null,
-    "published_at": "2026-10-09T17:31:02.000Z"
-  },
-  {
-    "headline": "Only one workout helped older adults lose fat and keep muscle",
-    "summary": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it while also improving body composition around the waist.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-    "image_url": null,
-    "published_at": "2026-10-09T10:57:40.000Z"
-  },
-  {
-    "headline": "Scientists find hidden materials that could improve batteries and solar fuels",
-    "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to help produce clean hyd…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
-    "image_url": null,
-    "published_at": "2026-10-09T10:20:23.000Z"
   }
 ]

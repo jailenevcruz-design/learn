@@ -1,5 +1,189 @@
 [
   {
+    "headline": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "image_url": null,
+    "published_at": "2026-10-26T23:34:58.000Z"
+  },
+  {
+    "headline": "Databricks co-founder shares his secrets for winning big enterprise customers",
+    "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+    "image_url": null,
+    "published_at": "2026-10-26T22:00:00.000Z"
+  },
+  {
+    "headline": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+    "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the larger option usually sel…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-26T21:56:36.000Z"
+  },
+  {
+    "headline": "Anthropic is burning gas to feed the AI boom",
+    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowl…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "image_url": null,
+    "published_at": "2026-10-26T21:45:31.000Z"
+  },
+  {
+    "headline": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+    "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+    "image_url": null,
+    "published_at": "2026-10-26T21:05:11.000Z"
+  },
+  {
+    "headline": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+    "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+    "image_url": null,
+    "published_at": "2026-10-26T19:22:40.000Z"
+  },
+  {
+    "headline": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+    "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+    "image_url": null,
+    "published_at": "2026-10-26T18:59:52.000Z"
+  },
+  {
+    "headline": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+    "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"later this year.\" The c…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+    "image_url": null,
+    "published_at": "2026-10-26T18:51:06.000Z"
+  },
+  {
+    "headline": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+    "summary": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi and Polymarket, as…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+    "image_url": null,
+    "published_at": "2026-10-26T18:22:06.000Z"
+  },
+  {
+    "headline": "This startup’s self-driving excavators help dig up $600M in new funding",
+    "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+    "image_url": null,
+    "published_at": "2026-10-26T17:45:00.000Z"
+  },
+  {
+    "headline": "The RealReal won’t let AI agents hog designer clothing",
+    "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retaile…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+    "image_url": null,
+    "published_at": "2026-10-26T17:30:55.000Z"
+  },
+  {
+    "headline": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
+    "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo is affe…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+    "image_url": null,
+    "published_at": "2026-10-26T17:28:07.000Z"
+  },
+  {
+    "headline": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+    "summary": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better va…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-26T17:25:34.000Z"
+  },
+  {
+    "headline": "Five weird details from Anthropic’s IPO filing",
+    "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to unpack, and som…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+    "image_url": null,
+    "published_at": "2026-10-26T17:10:23.000Z"
+  },
+  {
+    "headline": "Everything old is new again with the Fitbit Edge",
+    "summary": "The bezels aren’t that noticeable with other watchfaces, but some things don’t change. Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've do…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
+    "image_url": null,
+    "published_at": "2026-10-26T17:00:00.000Z"
+  },
+  {
+    "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "image_url": null,
+    "published_at": "2026-10-26T16:49:42.000Z"
+  },
+  {
+    "headline": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "image_url": null,
+    "published_at": "2026-10-26T16:46:36.000Z"
+  },
+  {
+    "headline": "Microsoft offers buyouts to around 60,000 employees",
+    "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+    "image_url": null,
+    "published_at": "2026-10-26T15:58:25.000Z"
+  },
+  {
+    "headline": "Anthropic officially files for its public debut",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "image_url": null,
+    "published_at": "2026-10-26T14:35:22.000Z"
+  },
+  {
+    "headline": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+    "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+    "image_url": null,
+    "published_at": "2026-10-26T14:25:43.000Z"
+  },
+  {
+    "headline": "Matiks raises $10M to expand its math and puzzle gaming platform",
+    "summary": "Matiks has introduced a new platform for users to create games using AI.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+    "image_url": null,
+    "published_at": "2026-10-26T14:08:04.000Z"
+  },
+  {
+    "headline": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+    "summary": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+    "image_url": null,
+    "published_at": "2026-10-26T12:58:40.000Z"
+  },
+  {
+    "headline": "The best apps for tracking your reading and discovering new books",
+    "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+    "image_url": null,
+    "published_at": "2026-10-26T01:10:00.000Z"
+  },
+  {
     "headline": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
     "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the site has given t…",
     "publisher": "The Verge",
@@ -1414,189 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
     "image_url": null,
     "published_at": "2026-10-20T18:36:53.000Z"
-  },
-  {
-    "headline": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "summary": "Eric Schmidt’s fortune is about to get even bigger.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-    "image_url": null,
-    "published_at": "2026-10-20T17:55:12.000Z"
-  },
-  {
-    "headline": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-    "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-    "image_url": null,
-    "published_at": "2026-10-20T17:12:48.000Z"
-  },
-  {
-    "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-    "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-    "image_url": null,
-    "published_at": "2026-10-20T16:20:06.000Z"
-  },
-  {
-    "headline": "Streaming guide JustWatch becomes a streamer itself",
-    "summary": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-    "image_url": null,
-    "published_at": "2026-10-20T16:01:24.000Z"
-  },
-  {
-    "headline": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-    "image_url": null,
-    "published_at": "2026-10-20T16:00:00.000Z"
-  },
-  {
-    "headline": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-    "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-    "image_url": null,
-    "published_at": "2026-10-20T15:03:41.000Z"
-  },
-  {
-    "headline": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-    "image_url": null,
-    "published_at": "2026-10-20T14:13:32.000Z"
-  },
-  {
-    "headline": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-    "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-    "image_url": null,
-    "published_at": "2026-10-20T13:17:36.000Z"
-  },
-  {
-    "headline": "TikTok employees said they knew about child safety issues, but execs failed to act",
-    "summary": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives failing to appropriately act on concerns they raised, including minors bypassing age-restricted conte…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
-    "image_url": null,
-    "published_at": "2026-10-20T13:11:23.000Z"
-  },
-  {
-    "headline": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-    "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-    "image_url": null,
-    "published_at": "2026-10-20T13:07:24.000Z"
-  },
-  {
-    "headline": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Ope…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-    "image_url": null,
-    "published_at": "2026-10-20T13:06:44.000Z"
-  },
-  {
-    "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-    "image_url": null,
-    "published_at": "2026-10-20T13:00:00.000Z"
-  },
-  {
-    "headline": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-    "summary": "The raise comes as venture dollars pile up on the West Coast.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-    "image_url": null,
-    "published_at": "2026-10-20T13:00:00.000Z"
-  },
-  {
-    "headline": "Wii Sports is back on the Switch 2, and it rules",
-    "summary": "Wii Sports holds an important place in Nintendo's history. It's the best-selling piece of software the company has ever made, one that permeated culture in surprising ways, and its success helped rejuvenate Nintendo after a period of steady decline. It also kicked off one of the company's most important and unassuming…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2",
-    "image_url": null,
-    "published_at": "2026-10-20T13:00:00.000Z"
-  },
-  {
-    "headline": "Final Fantasy dips back into the SNES golden era with Resonance",
-    "summary": "Final Fantasy is a lot different than it used to be. While many of the early Final Fantasy titles look and play similarly to each other, the series has since grown to encompass blockbuster games like Final Fantasy XVI and the gargantuan Final Fantasy VII Remake trilogy, which don't play much like the classics. But ther…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1013958/final-fantasy-resonance-review",
-    "image_url": null,
-    "published_at": "2026-10-20T13:00:00.000Z"
-  },
-  {
-    "headline": "Antigravity just halved the price of its drone — by swapping its headset for wristwatch control",
-    "summary": "The Antigravity A1, with the new Follow Me Kit. | Photo by Sean Hollister / The Verge Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer to think about flying rather than fi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control",
-    "image_url": null,
-    "published_at": "2026-10-20T13:00:00.000Z"
-  },
-  {
-    "headline": "Spotify launches paid podcast memberships with perks beyond bonus content",
-    "summary": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
-    "image_url": null,
-    "published_at": "2026-10-20T12:00:00.000Z"
-  },
-  {
-    "headline": "Oura adds new fitness metrics to show how workouts impact your body",
-    "summary": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart ring market gets more c…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
-    "image_url": null,
-    "published_at": "2026-10-20T12:00:00.000Z"
-  },
-  {
-    "headline": "Spotify’s new podcast memberships let you pay for extra perks",
-    "summary": "Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional conten…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
-    "image_url": null,
-    "published_at": "2026-10-20T12:00:00.000Z"
-  },
-  {
-    "headline": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-    "image_url": null,
-    "published_at": "2026-10-20T11:00:00.000Z"
-  },
-  {
-    "headline": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "image_url": null,
-    "published_at": "2026-10-20T11:00:00.000Z"
-  },
-  {
-    "headline": "Some Google Home Speakers caught downloading hundreds of gigs of data",
-    "summary": "Google says a fix is rolling out that should solve the issue. | Photo: Jennifer Patison Tuohy / The Verge Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and se…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
-    "image_url": null,
-    "published_at": "2026-10-20T10:16:47.000Z"
-  },
-  {
-    "headline": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-    "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-    "image_url": null,
-    "published_at": "2026-10-20T07:01:00.000Z"
   }
 ]
