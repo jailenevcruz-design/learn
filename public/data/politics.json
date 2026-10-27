@@ -1,5 +1,13 @@
 [
   {
+    "headline": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
+    "summary": "President Trump campaigned Monday in Mississippi, as he continued a closing midterm rally blitz that has highlighted Republicans' challenges ahead of an election that could drastically shift power in Washington.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi",
+    "image_url": null,
+    "published_at": "2026-10-27T05:22:24.000Z"
+  },
+  {
     "headline": "Trump administration attempting to prosecute former FBI Director James Comey again",
     "summary": "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey's lawyers immediately dismissed the effort as invalid and outside the time limit.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
     "image_url": null,
     "published_at": "2026-09-25T19:11:47.000Z"
-  },
-  {
-    "headline": "The Supreme Court revives a controversial data system for citizenship checks",
-    "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
-    "image_url": null,
-    "published_at": "2026-09-25T15:40:57.000Z"
   }
 ]

@@ -1,11 +1,75 @@
 [
   {
+    "headline": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+    "summary": "HSBC announced its third-quarter earnings on Tuesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+    "image_url": null,
+    "published_at": "2026-10-27T05:30:10.000Z"
+  },
+  {
+    "headline": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+    "summary": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "image_url": null,
+    "published_at": "2026-10-27T05:09:59.000Z"
+  },
+  {
+    "headline": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+    "summary": "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+    "image_url": null,
+    "published_at": "2026-10-27T04:40:30.000Z"
+  },
+  {
+    "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+    "summary": "The judge ordered that Maurene Comey, the daughter of ex-FBI director James Comey, be retroactively reinstated to her job as an assistant U.S. attorney.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+    "image_url": null,
+    "published_at": "2026-10-27T04:12:50.000Z"
+  },
+  {
+    "headline": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+    "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+    "image_url": null,
+    "published_at": "2026-10-27T03:34:08.000Z"
+  },
+  {
+    "headline": "DOJ charges ex-FBI Director James Comey in new case",
+    "summary": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+    "image_url": null,
+    "published_at": "2026-10-27T03:30:04.000Z"
+  },
+  {
+    "headline": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+    "summary": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+    "image_url": null,
+    "published_at": "2026-10-27T02:37:31.000Z"
+  },
+  {
     "headline": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
     "summary": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
     "image_url": null,
-    "published_at": "2026-10-27T00:41:29.000Z"
+    "published_at": "2026-10-27T01:24:28.000Z"
+  },
+  {
+    "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+    "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+    "image_url": null,
+    "published_at": "2026-10-27T01:05:06.000Z"
   },
   {
     "headline": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
@@ -40,14 +104,6 @@
     "published_at": "2026-10-26T22:46:35.000Z"
   },
   {
-    "headline": "DOJ charges ex-FBI Director James Comey in new case",
-    "summary": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-    "image_url": null,
-    "published_at": "2026-10-26T22:24:36.000Z"
-  },
-  {
     "headline": "Jim Cramer warns this overlooked danger could threaten the market rally",
     "summary": "CNBC’s Jim Cramer warned that a flood of massive IPOs could threaten the bull market's rally.",
     "publisher": "CNBC",
@@ -56,28 +112,12 @@
     "published_at": "2026-10-26T22:09:35.000Z"
   },
   {
-    "headline": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-    "summary": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
-    "image_url": null,
-    "published_at": "2026-10-26T21:38:17.000Z"
-  },
-  {
     "headline": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
     "summary": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
     "image_url": null,
     "published_at": "2026-10-26T21:18:07.000Z"
-  },
-  {
-    "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-    "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-    "image_url": null,
-    "published_at": "2026-10-26T20:44:50.000Z"
   },
   {
     "headline": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
@@ -94,14 +134,6 @@
     "url": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
     "image_url": null,
     "published_at": "2026-10-26T20:08:57.000Z"
-  },
-  {
-    "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-    "summary": "The judge ordered that Maurene Comey, the daughter of ex-FBI director James Comey, be retroactively reinstated to her job as an assistant U.S. attorney.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-    "image_url": null,
-    "published_at": "2026-10-26T20:03:58.000Z"
   },
   {
     "headline": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
@@ -158,14 +190,6 @@
     "url": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
     "image_url": null,
     "published_at": "2026-10-26T16:00:59.000Z"
-  },
-  {
-    "headline": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
-    "summary": "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-    "image_url": null,
-    "published_at": "2026-10-26T15:55:37.000Z"
   },
   {
     "headline": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
@@ -1574,29 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
     "image_url": null,
     "published_at": "2026-10-21T07:49:48.000Z"
-  },
-  {
-    "headline": "AI's spending boom faces a 'gut check': Who can actually make money?",
-    "summary": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-    "image_url": null,
-    "published_at": "2026-10-21T07:20:37.000Z"
-  },
-  {
-    "headline": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
-    "summary": "Nearly a decade after Boeing unveiled its largest 737 Max jet, the company has cleared a major hurdle in its effort to bring the plane to airlines.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
-    "image_url": null,
-    "published_at": "2026-10-21T06:05:18.000Z"
-  },
-  {
-    "headline": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
-    "summary": "Rubio said the \"extraordinary\" refining capacity of Reliance could help India diversify its energy supplies, hinting at greater offtake of Venezuelan crude.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
-    "image_url": null,
-    "published_at": "2026-10-21T04:47:43.000Z"
   }
 ]
