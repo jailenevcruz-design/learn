@@ -1,5 +1,213 @@
 [
   {
+    "headline": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antic…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "image_url": null,
+    "published_at": "2026-10-27T20:48:58.000Z"
+  },
+  {
+    "headline": "Re:Build, which spun out Slate Auto, raises $2.1B",
+    "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+    "image_url": null,
+    "published_at": "2026-10-27T20:31:17.000Z"
+  },
+  {
+    "headline": "Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service",
+    "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\" however Ukrainian officials…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+    "image_url": null,
+    "published_at": "2026-10-27T19:24:06.000Z"
+  },
+  {
+    "headline": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "image_url": null,
+    "published_at": "2026-10-27T18:55:35.000Z"
+  },
+  {
+    "headline": "Trump is making it easier for fossil fuel companies to leak methane",
+    "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a 20-year horizon. It's the primary component…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+    "image_url": null,
+    "published_at": "2026-10-27T18:25:13.000Z"
+  },
+  {
+    "headline": "VisionQuest is what happens when AI really goes rogue",
+    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the con…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "image_url": null,
+    "published_at": "2026-10-27T17:30:00.000Z"
+  },
+  {
+    "headline": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "image_url": null,
+    "published_at": "2026-10-27T17:08:08.000Z"
+  },
+  {
+    "headline": "The Super Mouse puts a touchscreen macro pad under your hand",
+    "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripheral…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+    "image_url": null,
+    "published_at": "2026-10-27T17:00:00.000Z"
+  },
+  {
+    "headline": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "summary": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "image_url": null,
+    "published_at": "2026-10-27T16:51:22.000Z"
+  },
+  {
+    "headline": "Meta’s $25 billion legal loss just put blood in the water",
+    "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018 Cambridge Anal…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+    "image_url": null,
+    "published_at": "2026-10-27T16:44:40.000Z"
+  },
+  {
+    "headline": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "image_url": null,
+    "published_at": "2026-10-27T16:30:57.000Z"
+  },
+  {
+    "headline": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+    "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. Y…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "image_url": null,
+    "published_at": "2026-10-27T16:14:18.000Z"
+  },
+  {
+    "headline": "Major League Baseball is looking for a new kind of fan",
+    "summary": "Fans cheer during game two of the 2026 World Series between the Milwaukee Brewers and the Tampa Bay Rays | Getty Images On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+    "image_url": null,
+    "published_at": "2026-10-27T16:02:43.000Z"
+  },
+  {
+    "headline": "Google’s next Genie AI model generates more realistic experiences",
+    "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+    "image_url": null,
+    "published_at": "2026-10-27T16:00:00.000Z"
+  },
+  {
+    "headline": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "image_url": null,
+    "published_at": "2026-10-27T14:59:09.000Z"
+  },
+  {
+    "headline": "Ford Fathom will be the cheapest American EV capable of powering a house",
+    "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+    "image_url": null,
+    "published_at": "2026-10-27T14:51:33.000Z"
+  },
+  {
+    "headline": "US government says hackers are now exploiting critical PHP web bugs",
+    "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+    "image_url": null,
+    "published_at": "2026-10-27T14:40:39.000Z"
+  },
+  {
+    "headline": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+    "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+    "image_url": null,
+    "published_at": "2026-10-27T14:25:11.000Z"
+  },
+  {
+    "headline": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+    "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+    "image_url": null,
+    "published_at": "2026-10-27T13:54:51.000Z"
+  },
+  {
+    "headline": "Japan internet giant GMO says hackers posted stolen customer data",
+    "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "image_url": null,
+    "published_at": "2026-10-27T13:32:57.000Z"
+  },
+  {
+    "headline": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+    "summary": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+    "image_url": null,
+    "published_at": "2026-10-27T13:01:00.000Z"
+  },
+  {
+    "headline": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+    "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+    "image_url": null,
+    "published_at": "2026-10-27T13:00:00.000Z"
+  },
+  {
+    "headline": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "image_url": null,
+    "published_at": "2026-10-27T13:00:00.000Z"
+  },
+  {
+    "headline": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "image_url": null,
+    "published_at": "2026-10-27T13:00:00.000Z"
+  },
+  {
+    "headline": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "image_url": null,
+    "published_at": "2026-10-27T11:00:00.000Z"
+  },
+  {
+    "headline": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+    "summary": "Whose hand is behind this travesty?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+    "image_url": null,
+    "published_at": "2026-10-27T06:34:44.000Z"
+  },
+  {
     "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
     "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
     "publisher": "TechCrunch",
@@ -1390,213 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
     "image_url": null,
     "published_at": "2026-10-21T17:59:12.000Z"
-  },
-  {
-    "headline": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-    "image_url": null,
-    "published_at": "2026-10-21T17:18:27.000Z"
-  },
-  {
-    "headline": "Waymo starts offering rides at the Las Vegas airport",
-    "summary": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
-    "image_url": null,
-    "published_at": "2026-10-21T16:59:44.000Z"
-  },
-  {
-    "headline": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
-    "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-    "image_url": null,
-    "published_at": "2026-10-21T14:03:11.000Z"
-  },
-  {
-    "headline": "YouTube might be testing hiding the dislike button",
-    "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, for m…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-    "image_url": null,
-    "published_at": "2026-10-21T00:00:56.000Z"
-  },
-  {
-    "headline": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-    "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent m…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-    "image_url": null,
-    "published_at": "2026-10-20T23:04:19.000Z"
-  },
-  {
-    "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "image_url": null,
-    "published_at": "2026-10-20T23:01:23.000Z"
-  },
-  {
-    "headline": "SpaceX and Tesla boards form special committees to review merger",
-    "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-    "image_url": null,
-    "published_at": "2026-10-20T22:57:57.000Z"
-  },
-  {
-    "headline": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "image_url": null,
-    "published_at": "2026-10-20T22:24:02.000Z"
-  },
-  {
-    "headline": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-    "summary": "Influencer Nick Shirley listens as US President Donald Trump makes an announcement on fraud in the Oval Office of the White House in Washington, DC, on October 20, 2026. (Photo by Jim WATSON / AFP via Getty Images) | AFP via Getty Images Donald Trump and Vice President JD Vance said on Tuesday that the Trump administra…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
-    "image_url": null,
-    "published_at": "2026-10-20T22:20:11.000Z"
-  },
-  {
-    "headline": "Google’s more personalized Gemini AI is heading to your car",
-    "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-    "image_url": null,
-    "published_at": "2026-10-20T22:11:34.000Z"
-  },
-  {
-    "headline": "Tesla and SpaceX are discussing a possible merger, Musk says",
-    "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-    "image_url": null,
-    "published_at": "2026-10-20T21:30:24.000Z"
-  },
-  {
-    "headline": "Anthropic’s cloud partnerships are getting messy",
-    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "image_url": null,
-    "published_at": "2026-10-20T21:25:22.000Z"
-  },
-  {
-    "headline": "SpaceX will try catching Starship and its booster for first time, Musk says",
-    "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \"This is a pro…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-    "image_url": null,
-    "published_at": "2026-10-20T21:02:53.000Z"
-  },
-  {
-    "headline": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
-    "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming gian…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
-    "image_url": null,
-    "published_at": "2026-10-20T20:52:07.000Z"
-  },
-  {
-    "headline": "SpaceX’s AI business is beating expectations",
-    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "image_url": null,
-    "published_at": "2026-10-20T20:40:41.000Z"
-  },
-  {
-    "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "image_url": null,
-    "published_at": "2026-10-20T20:35:10.000Z"
-  },
-  {
-    "headline": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-    "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt, practi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-    "image_url": null,
-    "published_at": "2026-10-20T20:32:09.000Z"
-  },
-  {
-    "headline": "SpaceX says big AI growth fueled revenue jump",
-    "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group p…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-    "image_url": null,
-    "published_at": "2026-10-20T20:26:58.000Z"
-  },
-  {
-    "headline": "Oura adds two new cardiovascular health tracking features to its smart rings",
-    "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-    "image_url": null,
-    "published_at": "2026-10-20T20:26:04.000Z"
-  },
-  {
-    "headline": "TikTok has started censoring searches for popular peptides",
-    "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino acids that include substances like insulin a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-    "image_url": null,
-    "published_at": "2026-10-20T20:16:04.000Z"
-  },
-  {
-    "headline": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-    "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-    "image_url": null,
-    "published_at": "2026-10-20T20:00:00.000Z"
-  },
-  {
-    "headline": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-    "summary": "The Superstrike looks similar to Logitech’s previous high-end gaming mice, but it has haptics-based sensors instead of switches. | Image: Cameron Faulkner / The Verge Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-20T20:00:00.000Z"
-  },
-  {
-    "headline": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
-    "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
-    "image_url": null,
-    "published_at": "2026-10-20T19:32:43.000Z"
-  },
-  {
-    "headline": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
-    "summary": "DJI’s Osmo Pocket 3 is a big upgrade from your phone’s video quality. | Image: The Verge If you’re the kind of person who likes to document everything, either for professional and/or personal reasons, and your phone’s camera isn’t cutting it, you might be considering a dedicated vlogging camera. The DJI Osmo Pocket 3 i…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-20T19:09:35.000Z"
-  },
-  {
-    "headline": "Xbox CEO is reportedly planning three more rounds of layoffs",
-    "summary": "Xbox CEO Asha Sharma is planning new rounds of layoffs for sometime this month, November, and January, according to Fortune. In July, as part of an organizational \"reset,\" Sharma announced planned layoffs affecting 3,200 staffers over the course of Microsoft's 2027 fiscal year, including 1,600 cuts at that time, and in…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs",
-    "image_url": null,
-    "published_at": "2026-10-20T19:06:40.000Z"
-  },
-  {
-    "headline": "Amazon is phasing out Fire HD tablets, but not without some big discounts first",
-    "summary": "The Fire HD 10 offers a sharper, larger screen than its smaller siblings. | Image: Amazon Amazon recently announced it’s phasing out its Fire HD tablets in favor of much pricier Alexa Tablets. While the days of getting an affordable, but good tablet from Amazon seem to be coming to an end, you can still get a fantastic…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-20T19:00:00.000Z"
   }
 ]
