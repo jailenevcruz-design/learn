@@ -1,5 +1,69 @@
 [
   {
+    "headline": "Scientists discover a hidden reason why muscles weaken with age",
+    "summary": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented premature death, raising hopes for new treatments for age-related muscle decline.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
+    "image_url": null,
+    "published_at": "2026-10-28T13:04:55.000Z"
+  },
+  {
+    "headline": "A single sauna session sends immune cells surging through your body",
+    "summary": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response resembles the immune boost seen during exercise and may help explain some of the health b…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
+    "image_url": null,
+    "published_at": "2026-10-28T12:37:31.000Z"
+  },
+  {
+    "headline": "Smaller EV batteries, longer range? Scientists may have found a way",
+    "summary": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision manufacturing techniques from computer chip production, they found a way to prevent damaging lithium buildup…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
+    "image_url": null,
+    "published_at": "2026-10-28T12:25:43.000Z"
+  },
+  {
+    "headline": "Scientists discover a secret glow in toxic fire salamanders",
+    "summary": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in their skin and their toxic secretions, which can continue glowing for more than 24 hours after being r…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+    "image_url": null,
+    "published_at": "2026-10-28T12:11:52.000Z"
+  },
+  {
+    "headline": "Scientists discover a hidden 100-million-year-old volcanic system",
+    "summary": "Scientists have uncovered a long-lost volcanic system in Iran that dates back roughly 100 million years, revealing a hidden chapter in Earth's tectonic history. The discovery sheds new light on the disappearance of an ancient ocean and the powerful geological forces that reshaped the Middle East.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+    "image_url": null,
+    "published_at": "2026-10-28T12:00:17.000Z"
+  },
+  {
+    "headline": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
+    "summary": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the Northern Hemisphere, they cooled Atlantic Ocean waters that eventually traveled south toward Antarctica.…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
+    "image_url": null,
+    "published_at": "2026-10-28T11:08:25.000Z"
+  },
+  {
+    "headline": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+    "summary": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for future lunar exploration…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+    "image_url": null,
+    "published_at": "2026-10-28T10:29:36.000Z"
+  },
+  {
+    "headline": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
+    "summary": "Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its foundations and accelerating its retreat. A new model predicts that the glacier could add up to 30 m…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
+    "image_url": null,
+    "published_at": "2026-10-28T09:22:09.000Z"
+  },
+  {
     "headline": "A simple daily fiber supplement reduced arthritis pain and improved strength",
     "summary": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be linked to changes in gut bacteria and the hormone GLP-1, revealing a promising new ap…",
     "publisher": "ScienceDaily",
@@ -1534,69 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/10/261007042111.htm",
     "image_url": null,
     "published_at": "2026-10-13T00:43:43.000Z"
-  },
-  {
-    "headline": "Europe's new Sentinel-3C satellite just sent back spectacular images of Earth",
-    "summary": "Europe's Sentinel-3C satellite has returned breathtaking images of Earth just two weeks after launch, revealing the snowy Alps, frozen Arctic islands, and brilliant turquoise Caribbean waters. Its first measurements also show promising results for tracking rising seas, melting ice sheets, and other changes reshaping ou…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261011211559.htm",
-    "image_url": null,
-    "published_at": "2026-10-12T23:48:22.000Z"
-  },
-  {
-    "headline": "Scientists find a hidden problem with endless smartphone scrolling",
-    "summary": "Excessive smartphone use may be taking a hidden toll on the brain and body, with heavy scrolling linked to poorer memory, reduced attention, disrupted sleep, and potential balance problems. Researchers found that weak self-control and fear of missing out, rather than personality alone, are key factors behind problemati…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261011211611.htm",
-    "image_url": null,
-    "published_at": "2026-10-12T22:25:50.000Z"
-  },
-  {
-    "headline": "Your gut bacteria could be changing how many calories you absorb",
-    "summary": "Scientists have developed a model showing that gut bacteria play a surprisingly important role in how many calories we absorb, meaning food labels may not tell the full story. In a controlled study, people eating a high-fiber diet absorbed about 116 fewer calories per day than those eating a typical Western diet, witho…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
-    "image_url": null,
-    "published_at": "2026-10-12T21:44:16.000Z"
-  },
-  {
-    "headline": "Scientists uncover the 2.3-billion-year-old secret that helped keep Earth habitable",
-    "summary": "Scientists may have solved a 2.3-billion-year-old mystery about how Earth maintained enough oxygen to support life. Ancient rocks reveal that phosphorus recycling in the oceans created a self-sustaining cycle that helped keep oxygen levels high, even as the planet underwent dramatic environmental changes. The discovery…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261011211602.htm",
-    "image_url": null,
-    "published_at": "2026-10-12T21:27:10.000Z"
-  },
-  {
-    "headline": "Scientists find a surprising genetic twist behind octopus intelligence",
-    "summary": "The remarkable intelligence of octopuses, squid, and cuttlefish may trace back to an ancient reshuffling of their DNA that created new connections between genes. Scientists discovered that these changes in the genome's 3D structure may have helped drive the evolution of their unusually complex nervous systems.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261011211552.htm",
-    "image_url": null,
-    "published_at": "2026-10-12T20:44:50.000Z"
-  },
-  {
-    "headline": "Popular weight loss drugs linked to a surprising fingernail problem",
-    "summary": "Popular GLP-1 weight loss drugs, such as Ozempic and Wegovy, have been linked to unexpectedly high rates of nail detachment, hair loss, and scalp inflammation, with some problems occurring several times more frequently among users. Researchers found that weight loss alone could not fully explain the differences, sugges…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
-    "image_url": null,
-    "published_at": "2026-10-12T09:34:48.000Z"
-  },
-  {
-    "headline": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
-    "summary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with a simple amino acid called D-serine improved memory and learning, offering a potential new approach…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
-    "image_url": null,
-    "published_at": "2026-10-12T09:23:55.000Z"
-  },
-  {
-    "headline": "NASA captures a stunning transformation in Australia's red outback",
-    "summary": "Australia's normally dry, rust-colored outback has erupted into a spectacular carpet of wildflowers after unusually heavy rains, potentially producing its most impressive bloom in nearly 20 years. NASA satellite images capture the stunning transformation, which has even brought rare flowers to the grounds of a remote d…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261008102710.htm",
-    "image_url": null,
-    "published_at": "2026-10-12T08:19:03.000Z"
   }
 ]

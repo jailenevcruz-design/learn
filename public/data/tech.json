@@ -1,5 +1,245 @@
 [
   {
+    "headline": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "image_url": null,
+    "published_at": "2026-10-28T23:15:00.000Z"
+  },
+  {
+    "headline": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen an…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "image_url": null,
+    "published_at": "2026-10-28T23:05:39.000Z"
+  },
+  {
+    "headline": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+    "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+    "image_url": null,
+    "published_at": "2026-10-28T22:47:50.000Z"
+  },
+  {
+    "headline": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "image_url": null,
+    "published_at": "2026-10-28T21:58:32.000Z"
+  },
+  {
+    "headline": "A hacker stole more than 40,000 DHS employee records",
+    "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+    "image_url": null,
+    "published_at": "2026-10-28T21:57:45.000Z"
+  },
+  {
+    "headline": "Google expands AI Search ads globally as core ad growth slows",
+    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "image_url": null,
+    "published_at": "2026-10-28T21:48:37.000Z"
+  },
+  {
+    "headline": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "image_url": null,
+    "published_at": "2026-10-28T21:34:30.000Z"
+  },
+  {
+    "headline": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "summary": "The MPC Sample Key looks like the MPC Sample just with keys instead of pads. | Image: Akai The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware develope…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "image_url": null,
+    "published_at": "2026-10-28T21:34:04.000Z"
+  },
+  {
+    "headline": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "image_url": null,
+    "published_at": "2026-10-28T21:25:30.000Z"
+  },
+  {
+    "headline": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+    "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've saved for later. And…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+    "image_url": null,
+    "published_at": "2026-10-28T21:16:18.000Z"
+  },
+  {
+    "headline": "Google says its investments in AI are driving more searches",
+    "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our year-over-year quer…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+    "image_url": null,
+    "published_at": "2026-10-28T20:22:26.000Z"
+  },
+  {
+    "headline": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+    "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up how it…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+    "image_url": null,
+    "published_at": "2026-10-28T20:20:00.000Z"
+  },
+  {
+    "headline": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+    "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple off…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+    "image_url": null,
+    "published_at": "2026-10-28T20:12:44.000Z"
+  },
+  {
+    "headline": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing beh…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "image_url": null,
+    "published_at": "2026-10-28T20:03:00.000Z"
+  },
+  {
+    "headline": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+    "image_url": null,
+    "published_at": "2026-10-28T20:01:00.000Z"
+  },
+  {
+    "headline": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+    "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US gove…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+    "image_url": null,
+    "published_at": "2026-10-28T19:37:31.000Z"
+  },
+  {
+    "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "image_url": null,
+    "published_at": "2026-10-28T19:19:58.000Z"
+  },
+  {
+    "headline": "Hands-on with the new OLED iPad Mini",
+    "summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The \"Pro and tell\" event venue has soft lighting that's…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
+    "image_url": null,
+    "published_at": "2026-10-28T19:18:58.000Z"
+  },
+  {
+    "headline": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers w…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "image_url": null,
+    "published_at": "2026-10-28T19:05:46.000Z"
+  },
+  {
+    "headline": "Apple launches its new touchscreen MacBook Pro",
+    "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+    "image_url": null,
+    "published_at": "2026-10-28T17:26:10.000Z"
+  },
+  {
+    "headline": "Xreal Aura is a new wired headset powered by Android XR",
+    "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+    "image_url": null,
+    "published_at": "2026-10-28T17:00:00.000Z"
+  },
+  {
+    "headline": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "image_url": null,
+    "published_at": "2026-10-28T17:00:00.000Z"
+  },
+  {
+    "headline": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "image_url": null,
+    "published_at": "2026-10-28T17:00:00.000Z"
+  },
+  {
+    "headline": "Reddit is the latest platform to embrace the ‘For You’ feed",
+    "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+    "image_url": null,
+    "published_at": "2026-10-28T16:00:00.000Z"
+  },
+  {
+    "headline": "AI execs may be too out of touch to build for the general public",
+    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "image_url": null,
+    "published_at": "2026-10-28T15:53:52.000Z"
+  },
+  {
+    "headline": "Trump DOE loans $5B to nuclear plants that will power data centers",
+    "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+    "image_url": null,
+    "published_at": "2026-10-28T15:53:21.000Z"
+  },
+  {
+    "headline": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+    "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "image_url": null,
+    "published_at": "2026-10-28T15:41:18.000Z"
+  },
+  {
+    "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "image_url": null,
+    "published_at": "2026-10-28T15:00:00.000Z"
+  },
+  {
+    "headline": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+    "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "image_url": null,
+    "published_at": "2026-10-28T14:34:25.000Z"
+  },
+  {
+    "headline": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+    "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+    "image_url": null,
+    "published_at": "2026-10-28T14:26:36.000Z"
+  },
+  {
     "headline": "Jio shares surge 21% in market debut after blockbuster India IPO",
     "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
     "publisher": "TechCrunch",
@@ -1358,245 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
     "image_url": null,
     "published_at": "2026-10-22T15:24:32.000Z"
-  },
-  {
-    "headline": "Investors break down how founders can raise a Series A today",
-    "summary": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
-    "image_url": null,
-    "published_at": "2026-10-22T15:15:00.000Z"
-  },
-  {
-    "headline": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
-    "summary": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a 90-day warranty via Woot, and aren’t eligible for AppleCare. That said, Woot says they’re in “pristine co…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-22T15:14:20.000Z"
-  },
-  {
-    "headline": "PHP: The three little letters wreaking havoc across the web",
-    "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporaril…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-    "image_url": null,
-    "published_at": "2026-10-22T15:12:27.000Z"
-  },
-  {
-    "headline": "Spotify’s current AI bet is about being the music service that agents choose",
-    "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-    "image_url": null,
-    "published_at": "2026-10-22T15:03:58.000Z"
-  },
-  {
-    "headline": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-    "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-    "image_url": null,
-    "published_at": "2026-10-22T14:59:28.000Z"
-  },
-  {
-    "headline": "You could just get a refurbished Samsung phone on Amazon",
-    "summary": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with a new battery and a one-year warranty. They currently start at $489 for the Galaxy S24 FE with 128GB of st…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
-    "image_url": null,
-    "published_at": "2026-10-22T14:55:29.000Z"
-  },
-  {
-    "headline": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
-    "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
-    "image_url": null,
-    "published_at": "2026-10-22T14:03:00.000Z"
-  },
-  {
-    "headline": "Claude Duet app is Anthropic’s bet on agents",
-    "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-    "image_url": null,
-    "published_at": "2026-10-22T13:53:26.000Z"
-  },
-  {
-    "headline": "Nirva raises $33M for a pendant that only listens to you",
-    "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-    "image_url": null,
-    "published_at": "2026-10-22T13:26:52.000Z"
-  },
-  {
-    "headline": "DeepSeek reportedly raises $15B days after US restrictions",
-    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "image_url": null,
-    "published_at": "2026-10-22T13:11:13.000Z"
-  },
-  {
-    "headline": "AI agents are ready to shop. Some retailers are wary.",
-    "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-    "image_url": null,
-    "published_at": "2026-10-22T12:30:00.000Z"
-  },
-  {
-    "headline": "Claude did not invent scorpion antivenom",
-    "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Ci…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-    "image_url": null,
-    "published_at": "2026-10-22T12:21:07.000Z"
-  },
-  {
-    "headline": "The world’s first triple 200-megapixel camera phone is great",
-    "summary": "The Find X10 Pro Max’s design is still camera-centric, but less extreme than most Ultra phones. Oppo's Find X10 Pro Max is the first phone with a triple 200-megapixel camera, which you're likely to see as either a masterful feat of engineering or a load of hyped-up marketing nonsense. The truth is somewhere in the midd…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1014332/oppo-find-x10-pro-max-camera-200-megapixels",
-    "image_url": null,
-    "published_at": "2026-10-22T12:00:00.000Z"
-  },
-  {
-    "headline": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-    "summary": "The Eiliko robot toy. | Photo by Sean Hollister / The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, an…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-    "image_url": null,
-    "published_at": "2026-10-22T11:00:00.000Z"
-  },
-  {
-    "headline": "Tesla says it will start selling Cybercabs by end of year",
-    "summary": "There is at least one obstacle that could throw off Tesla's Cybercab fleet plans. The NHTSA announced last month that it had opened an investigation into the Cybercab, just hours after the vehicles began operating on public streets in Austin.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-    "image_url": null,
-    "published_at": "2026-10-22T00:17:54.000Z"
-  },
-  {
-    "headline": "YouTube says it isn’t testing hiding the dislike button",
-    "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-    "image_url": null,
-    "published_at": "2026-10-21T23:46:45.000Z"
-  },
-  {
-    "headline": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-    "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok El…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-    "image_url": null,
-    "published_at": "2026-10-21T23:36:31.000Z"
-  },
-  {
-    "headline": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-    "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-    "image_url": null,
-    "published_at": "2026-10-21T22:51:22.000Z"
-  },
-  {
-    "headline": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-    "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-    "image_url": null,
-    "published_at": "2026-10-21T22:45:34.000Z"
-  },
-  {
-    "headline": "Data centers could erase decades of air quality gains",
-    "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-    "image_url": null,
-    "published_at": "2026-10-21T22:33:44.000Z"
-  },
-  {
-    "headline": "Airbnb limits chores for guests, sparking backlash from hosts",
-    "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-    "image_url": null,
-    "published_at": "2026-10-21T22:16:05.000Z"
-  },
-  {
-    "headline": "Meta to create a new class of shares to fund AI push",
-    "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to co…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-    "image_url": null,
-    "published_at": "2026-10-21T21:30:02.000Z"
-  },
-  {
-    "headline": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "image_url": null,
-    "published_at": "2026-10-21T21:16:20.000Z"
-  },
-  {
-    "headline": "Meta says Muse has over 10M users, with shopping a top activity",
-    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-    "image_url": null,
-    "published_at": "2026-10-21T21:14:19.000Z"
-  },
-  {
-    "headline": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-    "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-    "image_url": null,
-    "published_at": "2026-10-21T20:57:40.000Z"
-  },
-  {
-    "headline": "New York’s first microdrama film festival searches for its audience",
-    "summary": "Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during the ALZA Festival. | Getty Images for Lifetime. It remains to be seen if people really want to watch vertical content on horizontal TV screens…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
-    "image_url": null,
-    "published_at": "2026-10-21T20:49:07.000Z"
-  },
-  {
-    "headline": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
-    "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement. In August, Me…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
-    "image_url": null,
-    "published_at": "2026-10-21T20:46:56.000Z"
-  },
-  {
-    "headline": "PHP: The three letters that shut down sites all over the internet today",
-    "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-    "image_url": null,
-    "published_at": "2026-10-21T20:36:56.000Z"
-  },
-  {
-    "headline": "Tesla starts Optimus robot production in California as profit falls 43%",
-    "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-    "image_url": null,
-    "published_at": "2026-10-21T20:33:09.000Z"
-  },
-  {
-    "headline": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-    "image_url": null,
-    "published_at": "2026-10-21T20:27:41.000Z"
   }
 ]
