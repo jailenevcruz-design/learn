@@ -1,5 +1,45 @@
 [
   {
+    "headline": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+    "summary": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+    "image_url": null,
+    "published_at": "2026-10-29T09:00:00.000Z"
+  },
+  {
+    "headline": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+    "summary": "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
+    "image_url": null,
+    "published_at": "2026-10-29T09:00:00.000Z"
+  },
+  {
+    "headline": "Support for Trump among white evangelicals has plummeted, polls reveal",
+    "summary": "Three new polls suggest that President Trump is losing ground among white evangelicals. What explains this drop — and will it affect the midterm elections?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/nx-s1-6012410/support-for-trump-among-white-evangelicals-has-plummeted-polls-reveal",
+    "image_url": null,
+    "published_at": "2026-10-29T08:44:52.000Z"
+  },
+  {
+    "headline": "Hackers expose the identities of more than 40,000 DHS employees",
+    "summary": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+    "image_url": null,
+    "published_at": "2026-10-29T03:28:50.000Z"
+  },
+  {
+    "headline": "Judge denies the Justice Department's bid to stop processing California ballots",
+    "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will appeal.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+    "image_url": null,
+    "published_at": "2026-10-29T00:52:50.000Z"
+  },
+  {
     "headline": "A breakthrough for the group on the trail of Chinese hackers",
     "summary": "Chinese government hackers are secretly burrowing into critical networks using creative new methods.",
     "publisher": "NPR",
@@ -16,10 +56,10 @@
     "published_at": "2026-10-28T11:28:55.000Z"
   },
   {
-    "headline": "Senate candidates built up massive campaign war chests with out-of-state donations",
-    "summary": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.",
+    "headline": "How a lifelong Republican came to lead the data center battle in Ohio",
+    "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
+    "url": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
     "image_url": null,
     "published_at": "2026-10-28T09:00:00.000Z"
   },
@@ -40,10 +80,10 @@
     "published_at": "2026-10-28T09:00:00.000Z"
   },
   {
-    "headline": "How a lifelong Republican came to lead the data center battle in Ohio",
-    "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
+    "headline": "Senate candidates built up massive campaign war chests with out-of-state donations",
+    "summary": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+    "url": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
     "image_url": null,
     "published_at": "2026-10-28T09:00:00.000Z"
   },
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/09/29/nx-s1-5983673/trump-administration-says-its-scaling-back-fuel-efficiency-standards-for-new-cars",
     "image_url": null,
     "published_at": "2026-09-29T08:46:49.000Z"
-  },
-  {
-    "headline": "News organizations ask court to bar White House enforcement of access ban",
-    "summary": "Three news outlets that President Trump banished from White House grounds asked a federal court to block the ban until the case is resolved.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
-    "image_url": null,
-    "published_at": "2026-09-29T08:13:11.000Z"
-  },
-  {
-    "headline": "The Senate passes the Protect College Sports Act, but the bill's future is unclear",
-    "summary": "The bill's supporters, which include the NCAA, say it will tame what they call a \"Wild West\" era of college sports as litigation chips away at long-held rules around eligibility, transfers and pay.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote",
-    "image_url": null,
-    "published_at": "2026-09-29T02:16:19.000Z"
-  },
-  {
-    "headline": "Could a far left candidate win a midterm race in a red state like Florida?",
-    "summary": "Angie Nixon, the Democratic U.S. Senate Candidate in Florida, is running from the far left — raising questions about whether such a campaign can work in a red state like Florida.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5961354/could-a-far-left-candidate-win-a-midterm-race-in-a-red-state-like-florida",
-    "image_url": null,
-    "published_at": "2026-09-28T22:51:14.000Z"
-  },
-  {
-    "headline": "Trump aims to leave a physical legacy in D.C., bulldozing norms along the way",
-    "summary": "President Trump has brought his New York real estate background to the White House. But experts say D.C. is a very different historic and legal landscape — and worry about the precedent he could set.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5930441/trump-construction-projects-legacy",
-    "image_url": null,
-    "published_at": "2026-09-28T11:41:48.000Z"
-  },
-  {
-    "headline": "What to know about the $810 million in spending canceled by President Trump",
-    "summary": "President Trump announced plans to cancel $810 million in congressionally approved spending, a move that some in his own party are calling illegal.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5982739/what-to-know-about-the-810-million-in-spending-canceled-by-president-trump",
-    "image_url": null,
-    "published_at": "2026-09-28T09:00:00.000Z"
   }
 ]

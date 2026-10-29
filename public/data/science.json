@@ -1,5 +1,37 @@
 [
   {
+    "headline": "Your blood pressure could be dangerous even when your numbers look normal",
+    "summary": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+    "image_url": null,
+    "published_at": "2026-10-29T03:54:37.000Z"
+  },
+  {
+    "headline": "Scientists just broke a textbook rule of physics",
+    "summary": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+    "image_url": null,
+    "published_at": "2026-10-29T03:39:27.000Z"
+  },
+  {
+    "headline": "Meteors don't just burn up. What really happens is far more violent",
+    "summary": "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The discovery could help explain why meteorites scatter across the ground and how dangerous asteroids explode…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+    "image_url": null,
+    "published_at": "2026-10-29T03:06:41.000Z"
+  },
+  {
+    "headline": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+    "summary": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient volcanic eruptions may have helped transform Earth's atmosphere billions of years ago, with implicati…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+    "image_url": null,
+    "published_at": "2026-10-29T01:13:05.000Z"
+  },
+  {
     "headline": "Scientists discover a hidden reason why muscles weaken with age",
     "summary": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented premature death, raising hopes for new treatments for age-related muscle decline.",
     "publisher": "ScienceDaily",
@@ -1566,37 +1598,5 @@
     "url": "https://www.npr.org/2026/10/13/nx-s1-5986256/researchers-are-tracking-monarch-butterflies-to-learn-more-about-their-journey",
     "image_url": null,
     "published_at": "2026-10-13T08:45:54.000Z"
-  },
-  {
-    "headline": "Scientists uncover a hidden map of the brain with 539 distinct regions",
-    "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of measurements from mouse brains, researchers identified 539 distinct chemical zones, revealing patterns…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
-    "image_url": null,
-    "published_at": "2026-10-13T05:00:55.000Z"
-  },
-  {
-    "headline": "Physicists discover “astonishing” property of light that defies expectations",
-    "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left- and right-handed patterns, challenging…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
-    "image_url": null,
-    "published_at": "2026-10-13T04:19:32.000Z"
-  },
-  {
-    "headline": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
-    "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses. The technology could one day help transfer healthy mitochondria into damaged cells, although its effectiveness in…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
-    "image_url": null,
-    "published_at": "2026-10-13T01:33:58.000Z"
-  },
-  {
-    "headline": "After 30 years, scientists finally have a drug for a deadly brain disease",
-    "summary": "The FDA has approved the first drug that directly targets Alexander disease, a devastating neurological disorder affecting fewer than one in a million people. Developed through decades of research, Zanvastro showed promising results in clinical trials, stabilizing motor function and even improving movement in some pati…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261007042111.htm",
-    "image_url": null,
-    "published_at": "2026-10-13T00:43:43.000Z"
   }
 ]

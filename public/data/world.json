@@ -1,5 +1,21 @@
 [
   {
+    "headline": "How AI drones are influencing the course of the Ukraine war",
+    "summary": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+    "image_url": null,
+    "published_at": "2026-10-29T09:02:00.000Z"
+  },
+  {
+    "headline": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+    "summary": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+    "image_url": null,
+    "published_at": "2026-10-29T06:10:11.000Z"
+  },
+  {
     "headline": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
     "summary": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
     "publisher": "NPR",
@@ -46,6 +62,14 @@
     "url": "https://www.npr.org/2026/10/28/nx-s1-6019328/israel-election-arab-parties-government",
     "image_url": null,
     "published_at": "2026-10-28T08:46:16.000Z"
+  },
+  {
+    "headline": "A U.S. cruise ship suspends a global voyage due to fuel costs, stranding 200 passengers",
+    "summary": "A U.S. cruise ship on an around-the-world voyage that touted its cabins as floating homes suspended its three-year journey in Cambodia due to fuel costs, forcing hundreds of passengers to disembark.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-fuel-costs",
+    "image_url": null,
+    "published_at": "2026-10-28T07:57:51.000Z"
   },
   {
     "headline": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
     "image_url": null,
     "published_at": "2026-10-01T10:00:00.000Z"
-  },
-  {
-    "headline": "What life under U.S. sanctions looks like for one ICC judge",
-    "summary": "Kimberly Prost, a Canadian judge at the International Criminal Court, says U.S. sanctions disrupted her daily life. She is still hearing cases and challenging the sanctions in court.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
-    "image_url": null,
-    "published_at": "2026-10-01T08:42:13.000Z"
-  },
-  {
-    "headline": "Swiss glaciers suffer another year of record ice loss",
-    "summary": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
-    "image_url": null,
-    "published_at": "2026-09-30T23:00:00.000Z"
-  },
-  {
-    "headline": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-    "summary": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
-    "image_url": null,
-    "published_at": "2026-09-30T17:51:42.000Z"
   }
 ]
