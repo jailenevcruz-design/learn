@@ -1,5 +1,45 @@
 [
   {
+    "headline": "What killed 500-plus penguins? How scientists solved the mystery",
+    "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+    "image_url": null,
+    "published_at": "2026-10-29T20:03:26.000Z"
+  },
+  {
+    "headline": "US and Japan agree to establish a Japanese facility for joint missile production",
+    "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+    "image_url": null,
+    "published_at": "2026-10-29T15:58:27.000Z"
+  },
+  {
+    "headline": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+    "summary": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+    "image_url": null,
+    "published_at": "2026-10-29T15:53:46.000Z"
+  },
+  {
+    "headline": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
+    "summary": "The English writer visited Iraq multiple times in the first half of the 20th century and set some of her mystery novels there. The house in Baghdad where she once lived now sits abandoned and crumbling.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
+    "image_url": null,
+    "published_at": "2026-10-29T14:52:11.000Z"
+  },
+  {
+    "headline": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+    "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+    "image_url": null,
+    "published_at": "2026-10-29T11:34:30.000Z"
+  },
+  {
     "headline": "How AI drones are influencing the course of the Ukraine war",
     "summary": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
     "image_url": null,
     "published_at": "2026-10-02T11:22:38.000Z"
-  },
-  {
-    "headline": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
-    "summary": "Activists across Asia are being hunted down by authoritarian governments even across international borders. Human rights groups have been warning of a \"swap market\" of repression in Southeast Asia.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
-    "image_url": null,
-    "published_at": "2026-10-02T09:00:00.000Z"
-  },
-  {
-    "headline": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-    "summary": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King tradition.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-    "image_url": null,
-    "published_at": "2026-10-01T14:13:38.000Z"
-  },
-  {
-    "headline": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
-    "summary": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
-    "image_url": null,
-    "published_at": "2026-10-01T11:37:10.000Z"
-  },
-  {
-    "headline": "Israel's prime minister says a pilot tried to crash a plane traveling to Tel Aviv",
-    "summary": "One pilot stabbed another pilot on a FlyDubai flight headed to Tel Aviv on Wednesday and may have tried to crash the plane before passengers and crew members subdued him, Israel's prime minister says.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5986255/israels-pm-says-a-pilot-tried-to-crash-a-plane-traveling-to-tel-aviv",
-    "image_url": null,
-    "published_at": "2026-10-01T10:48:47.000Z"
-  },
-  {
-    "headline": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
-    "summary": "President Lula promised Brazilians four years ago they'd be able to afford picanha again. Now, as he seeks another term, the price of the country's favorite cut of beef is telling a different story.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
-    "image_url": null,
-    "published_at": "2026-10-01T10:00:00.000Z"
   }
 ]

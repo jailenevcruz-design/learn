@@ -1,5 +1,245 @@
 [
   {
+    "headline": "Amazon reported booming cloud revenue but otherwise missed expectations",
+    "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+    "image_url": null,
+    "published_at": "2026-10-29T21:20:47.000Z"
+  },
+  {
+    "headline": "GM reaches $220M settlement over selling drivers’ private data",
+    "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+    "image_url": null,
+    "published_at": "2026-10-29T21:01:04.000Z"
+  },
+  {
+    "headline": "Fan fiction site Archive of Our Own could be offline for up to 4 weeks",
+    "summary": "Archive of Our Own, the popular online home of fan fiction readers and writers, has bad news for its community.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+    "image_url": null,
+    "published_at": "2026-10-29T20:43:56.000Z"
+  },
+  {
+    "headline": "Patrick Stewart has died at age 86",
+    "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mirfield, Yorkshire, En…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
+    "image_url": null,
+    "published_at": "2026-10-29T20:10:02.000Z"
+  },
+  {
+    "headline": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "image_url": null,
+    "published_at": "2026-10-29T20:08:31.000Z"
+  },
+  {
+    "headline": "Reddit will force everyone to log in",
+    "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a lot of Google searche…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+    "image_url": null,
+    "published_at": "2026-10-29T20:07:00.000Z"
+  },
+  {
+    "headline": "Rivian expands joint venture with VW to include AI assistant",
+    "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "image_url": null,
+    "published_at": "2026-10-29T20:05:47.000Z"
+  },
+  {
+    "headline": "The R2 SUV is already Rivian’s best-selling vehicle",
+    "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+    "image_url": null,
+    "published_at": "2026-10-29T20:02:03.000Z"
+  },
+  {
+    "headline": "Rivian’s R2 is officially its best-selling vehicle",
+    "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in revenue, a 38 percent…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+    "image_url": null,
+    "published_at": "2026-10-29T20:02:00.000Z"
+  },
+  {
+    "headline": "OpenAI-backed Thrive Holdings acquires ADT",
+    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "image_url": null,
+    "published_at": "2026-10-29T19:56:19.000Z"
+  },
+  {
+    "headline": "GM to pay $220 million to resolve claims it sold driving habits data",
+    "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain \"expr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+    "image_url": null,
+    "published_at": "2026-10-29T19:19:28.000Z"
+  },
+  {
+    "headline": "Where was my invite to the — wait, what? Airbnb had a gala?",
+    "summary": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+    "image_url": null,
+    "published_at": "2026-10-29T19:17:49.000Z"
+  },
+  {
+    "headline": "Meta quietly launches an AI fashion app called Style Sketch",
+    "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "image_url": null,
+    "published_at": "2026-10-29T19:14:36.000Z"
+  },
+  {
+    "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file f…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "image_url": null,
+    "published_at": "2026-10-29T18:45:31.000Z"
+  },
+  {
+    "headline": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
+    "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt l…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-29T18:18:36.000Z"
+  },
+  {
+    "headline": "Granola crunches up a dictation feature to compete with Wispr",
+    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "image_url": null,
+    "published_at": "2026-10-29T17:54:38.000Z"
+  },
+  {
+    "headline": "Apple’s new laptop supports one of the coolest features for color pros",
+    "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it use…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+    "image_url": null,
+    "published_at": "2026-10-29T17:48:09.000Z"
+  },
+  {
+    "headline": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+    "summary": "Kalshi CEO Tarek Mansour. | Michael Nagle/Bloomberg via Getty Images Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press. The state has filed 14 charges against Kalshi, as well as…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+    "image_url": null,
+    "published_at": "2026-10-29T17:40:23.000Z"
+  },
+  {
+    "headline": "Data centers could send US climate pollution skyrocketing",
+    "summary": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club. That would essentially wipe out 15 years of greenhouse gas reduct…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+    "image_url": null,
+    "published_at": "2026-10-29T17:10:46.000Z"
+  },
+  {
+    "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "image_url": null,
+    "published_at": "2026-10-29T17:00:00.000Z"
+  },
+  {
+    "headline": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "image_url": null,
+    "published_at": "2026-10-29T16:42:32.000Z"
+  },
+  {
+    "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "image_url": null,
+    "published_at": "2026-10-29T16:21:00.000Z"
+  },
+  {
+    "headline": "SuperMe raises $20M for its network of AI expert profiles",
+    "summary": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+    "image_url": null,
+    "published_at": "2026-10-29T16:19:43.000Z"
+  },
+  {
+    "headline": "This open-source project lets you sync Withings data to other apps without a subscription",
+    "summary": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was already fed up with the Withings mobile app which they describe as a \"bloated mess,\" became motivated to \"fre…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
+    "image_url": null,
+    "published_at": "2026-10-29T16:14:06.000Z"
+  },
+  {
+    "headline": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+    "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+    "image_url": null,
+    "published_at": "2026-10-29T15:00:00.000Z"
+  },
+  {
+    "headline": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "image_url": null,
+    "published_at": "2026-10-29T14:35:26.000Z"
+  },
+  {
+    "headline": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+    "summary": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+    "image_url": null,
+    "published_at": "2026-10-29T13:43:53.000Z"
+  },
+  {
+    "headline": "DoorDash to acquire Instacart for $17B",
+    "summary": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+    "image_url": null,
+    "published_at": "2026-10-29T13:40:57.000Z"
+  },
+  {
+    "headline": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "image_url": null,
+    "published_at": "2026-10-29T13:00:00.000Z"
+  },
+  {
+    "headline": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+    "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+    "image_url": null,
+    "published_at": "2026-10-29T13:00:00.000Z"
+  },
+  {
     "headline": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
     "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop…",
     "publisher": "The Verge",
@@ -1358,245 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
     "image_url": null,
     "published_at": "2026-10-22T21:05:05.000Z"
-  },
-  {
-    "headline": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-    "image_url": null,
-    "published_at": "2026-10-22T20:32:05.000Z"
-  },
-  {
-    "headline": "Meta turns Muse sharing back on",
-    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earli…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-    "image_url": null,
-    "published_at": "2026-10-22T20:24:04.000Z"
-  },
-  {
-    "headline": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-    "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
-    "image_url": null,
-    "published_at": "2026-10-22T20:23:48.000Z"
-  },
-  {
-    "headline": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-    "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-    "image_url": null,
-    "published_at": "2026-10-22T20:01:51.000Z"
-  },
-  {
-    "headline": "The secret to fast startup growth isn’t early sales, top names in tech say",
-    "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-    "image_url": null,
-    "published_at": "2026-10-22T20:00:00.000Z"
-  },
-  {
-    "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-    "summary": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this mer…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-    "image_url": null,
-    "published_at": "2026-10-22T19:45:00.000Z"
-  },
-  {
-    "headline": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
-    "summary": "It looks exactly like what you’d expect a Teenage Engineering guitar amp to look like. | Image: Teenage Engineering Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in p…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
-    "image_url": null,
-    "published_at": "2026-10-22T19:44:51.000Z"
-  },
-  {
-    "headline": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
-    "summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. But this week, Bhatt d…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
-    "image_url": null,
-    "published_at": "2026-10-22T19:15:00.000Z"
-  },
-  {
-    "headline": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
-    "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently sw…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
-    "image_url": null,
-    "published_at": "2026-10-22T19:13:42.000Z"
-  },
-  {
-    "headline": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "image_url": null,
-    "published_at": "2026-10-22T19:07:09.000Z"
-  },
-  {
-    "headline": "Canva releases its first image generation model",
-    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "image_url": null,
-    "published_at": "2026-10-22T19:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "image_url": null,
-    "published_at": "2026-10-22T19:00:00.000Z"
-  },
-  {
-    "headline": "Discord now formats Markdown previews right",
-    "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharin…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-    "image_url": null,
-    "published_at": "2026-10-22T18:58:19.000Z"
-  },
-  {
-    "headline": "The new Fire TV Stick 4K is already half off",
-    "summary": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power connection, meaning it can dr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-22T18:43:57.000Z"
-  },
-  {
-    "headline": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "image_url": null,
-    "published_at": "2026-10-22T18:43:53.000Z"
-  },
-  {
-    "headline": "Refurbished PS5 consoles include second controller for an extra $18",
-    "summary": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because company has a new limit…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
-    "image_url": null,
-    "published_at": "2026-10-22T18:38:50.000Z"
-  },
-  {
-    "headline": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-    "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-    "image_url": null,
-    "published_at": "2026-10-22T18:38:47.000Z"
-  },
-  {
-    "headline": "Delta can turn the iPhone Duo into your favorite folding handheld",
-    "summary": "The Duo has a Nintendo DS-like shape anyway, so Delta 2.0 is running with it. | Image: Riley Testut The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
-    "image_url": null,
-    "published_at": "2026-10-22T18:30:00.000Z"
-  },
-  {
-    "headline": "Elon Musk made a $1B investment in Skydance, report says",
-    "summary": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-    "image_url": null,
-    "published_at": "2026-10-22T17:36:38.000Z"
-  },
-  {
-    "headline": "Someone hacked the Switch 2 by using an old game and AI",
-    "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. i jailbroke the nintendo switch 2 so i modded cinnamoroll, peter…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-    "image_url": null,
-    "published_at": "2026-10-22T17:21:31.000Z"
-  },
-  {
-    "headline": "Arc browser is shutting down",
-    "summary": "Arc’s website today. | Screenshot: The Verge The Browser Company plans to \"sunset\" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for g…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
-    "image_url": null,
-    "published_at": "2026-10-22T17:03:37.000Z"
-  },
-  {
-    "headline": "The disastrous PHP vulnerabilities were exploited days before the patch",
-    "summary": "Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17th through a monitor…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
-    "image_url": null,
-    "published_at": "2026-10-22T16:49:48.000Z"
-  },
-  {
-    "headline": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "image_url": null,
-    "published_at": "2026-10-22T16:47:17.000Z"
-  },
-  {
-    "headline": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-    "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a tea…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-    "image_url": null,
-    "published_at": "2026-10-22T16:16:15.000Z"
-  },
-  {
-    "headline": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
-    "summary": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would \"probably pass\" on renaming the Atlantic after h…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
-    "image_url": null,
-    "published_at": "2026-10-22T16:00:29.000Z"
-  },
-  {
-    "headline": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-    "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
-    "image_url": null,
-    "published_at": "2026-10-22T16:00:00.000Z"
-  },
-  {
-    "headline": "Uber puts all 30,000 employees on ChatGPT Work",
-    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "image_url": null,
-    "published_at": "2026-10-22T16:00:00.000Z"
-  },
-  {
-    "headline": "Microsoft shuts down its beloved maker space",
-    "summary": "Microsoft CEO Satya Nadella at a hackathon event in 2016. | Image: Microsoft Microsoft is closing down The Garage, a set of popular maker spaces where employees worked on experimental projects and collaborated on surprising new apps and hardware during the company's annual hackathon events. \"We're winding down The Gara…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1016389/microsoft-garage-closure-hackathon-notepad",
-    "image_url": null,
-    "published_at": "2026-10-22T16:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-    "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech compa…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-    "image_url": null,
-    "published_at": "2026-10-22T15:50:30.000Z"
-  },
-  {
-    "headline": "Tesla is prepping a Cybercab onslaught",
-    "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-    "image_url": null,
-    "published_at": "2026-10-22T15:44:39.000Z"
   }
 ]

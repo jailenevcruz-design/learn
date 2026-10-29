@@ -1,5 +1,21 @@
 [
   {
+    "headline": "What killed 500-plus penguins? How scientists solved the mystery",
+    "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+    "image_url": null,
+    "published_at": "2026-10-29T20:03:26.000Z"
+  },
+  {
+    "headline": "Lost your spark? The \"silent sister\" of depression, and a quiz to spot her",
+    "summary": "Always busy, but rarely joyful? Allison Aubrey and Juana Summers discuss a tool to spot \"high functioning depression.\"",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
+    "image_url": null,
+    "published_at": "2026-10-29T20:00:00.000Z"
+  },
+  {
     "headline": "Ahead of midterms, Missourians defend transgender healthcare",
     "summary": "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.",
     "publisher": "NPR",
@@ -14,6 +30,14 @@
     "url": "https://www.npr.org/2026/10/29/nx-s1-6019546/new-blood-test-can-detect-changes-associated-with-alzheimers-disease",
     "image_url": null,
     "published_at": "2026-10-29T08:45:32.000Z"
+  },
+  {
+    "headline": "Eleven states cut Medicaid coverage for refugees who are pregnant or children",
+    "summary": "When Congress cut Medicaid benefits for refugees who are in the U.S. legally, most states allowed them to continue for children and pregnant women. Arizona and 10 others did not.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/nx-s1-5995636/refugees-in-11-states-are-losing-medicaid-coverage",
+    "image_url": null,
+    "published_at": "2026-10-29T08:44:45.000Z"
   },
   {
     "headline": "Trump administration will allow pharmacies to make popular peptides",
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
     "image_url": null,
     "published_at": "2026-08-20T09:00:00.000Z"
-  },
-  {
-    "headline": "New mRNA vaccine could reduce the recurrence and spread of skin cancer",
-    "summary": "Merck and Moderna announced a successful late-stage trial for a melanoma vaccine. NPR's Leila Fadel talks to Dr. Robert Vonderheide of Penn Medicine and the American Association for Cancer Research.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/20/nx-s1-5937966/new-mrna-vaccine-could-reduce-the-recurrence-and-spread-of-skin-cancer",
-    "image_url": null,
-    "published_at": "2026-08-20T08:45:12.000Z"
-  },
-  {
-    "headline": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-    "summary": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-19 pandemic.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
-    "image_url": null,
-    "published_at": "2026-08-19T19:45:11.000Z"
-  },
-  {
-    "headline": "A real-world study of Oregon's nonmedical psilocybin program shows promise",
-    "summary": "Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the latest data from the state's real-life experiment.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
-    "image_url": null,
-    "published_at": "2026-08-19T15:22:35.000Z"
   }
 ]
