@@ -1,11 +1,59 @@
 [
   {
+    "headline": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+    "summary": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+    "image_url": null,
+    "published_at": "2026-10-31T21:05:53.000Z"
+  },
+  {
+    "headline": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+    "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+    "image_url": null,
+    "published_at": "2026-10-31T20:12:37.000Z"
+  },
+  {
+    "headline": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+    "summary": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+    "image_url": null,
+    "published_at": "2026-10-31T19:56:23.000Z"
+  },
+  {
+    "headline": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+    "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+    "image_url": null,
+    "published_at": "2026-10-31T19:16:25.000Z"
+  },
+  {
+    "headline": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+    "summary": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+    "image_url": null,
+    "published_at": "2026-10-31T18:11:02.000Z"
+  },
+  {
     "headline": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
     "summary": "The Binance hack of $6.3 billion, the largest crypto theft ever, is a wake-up call for investors to understand how coin is guarded and the risk of losing it.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
     "image_url": null,
-    "published_at": "2026-10-31T14:26:29.000Z"
+    "published_at": "2026-10-31T16:13:06.000Z"
+  },
+  {
+    "headline": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
+    "summary": "Big Tech earnings reignited AI spending fears, sending investors into defensive stocks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
+    "image_url": null,
+    "published_at": "2026-10-31T15:37:11.000Z"
   },
   {
     "headline": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
@@ -92,6 +140,14 @@
     "summary": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+    "image_url": null,
+    "published_at": "2026-10-31T12:00:01.000Z"
+  },
+  {
+    "headline": "Humans are still doing the work behind some AI agents",
+    "summary": "AI agents from startups including Dazzle, Duckbill and Wajo still rely on human workers for calls and other real-world tasks when software falls short.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
     "image_url": null,
     "published_at": "2026-10-31T12:00:01.000Z"
   },
@@ -1542,61 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/26/jim-cramer-ipos-capital-raises-bull-market.html",
     "image_url": null,
     "published_at": "2026-10-26T22:09:35.000Z"
-  },
-  {
-    "headline": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
-    "summary": "",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
-    "image_url": null,
-    "published_at": "2026-10-26T20:26:26.000Z"
-  },
-  {
-    "headline": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
-    "summary": "Anthropic on Monday filed its Form S-1 with the Securities and Exchange Commission.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
-    "image_url": null,
-    "published_at": "2026-10-26T20:08:57.000Z"
-  },
-  {
-    "headline": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-    "summary": "The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its October meeting this week.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
-    "image_url": null,
-    "published_at": "2026-10-26T18:51:23.000Z"
-  },
-  {
-    "headline": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-    "summary": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
-    "image_url": null,
-    "published_at": "2026-10-26T18:43:25.000Z"
-  },
-  {
-    "headline": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-    "summary": "The Federal Trade Commission and 20 states have filed a lawsuit against Dollar General, claiming the retailer has charged customers more than advertised prices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
-    "image_url": null,
-    "published_at": "2026-10-26T18:37:01.000Z"
-  },
-  {
-    "headline": "The arc of Trump: How the president lost the coalition that put him in the White House",
-    "summary": "President Trump forged an extraordinary coalition to win office in 2024. A new CNBC survey shows that coalition is now seriously weakened.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
-    "image_url": null,
-    "published_at": "2026-10-26T17:36:55.000Z"
-  },
-  {
-    "headline": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
-    "summary": "While prediction market odds pointed to a clear Bolsonaro victory, Lula emerged the winner in a tight race.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
-    "image_url": null,
-    "published_at": "2026-10-26T17:29:37.000Z"
   }
 ]
