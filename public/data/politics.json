@@ -1,5 +1,45 @@
 [
   {
+    "headline": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+    "summary": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+    "image_url": null,
+    "published_at": "2026-10-31T13:50:58.000Z"
+  },
+  {
+    "headline": "The Healthcare Election: Florida",
+    "summary": "When federal subsidies for Affordable Care Act health insurance expired last year, Florida was hit particularly hard. Now, as the election and open enrollment coincide, healthcare is a major issue.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/31/nx-s1-5995422/the-healthcare-election-florida",
+    "image_url": null,
+    "published_at": "2026-10-31T11:46:45.000Z"
+  },
+  {
+    "headline": "Politics, norms and the DOJ's unprecedented pre-election headlines",
+    "summary": "The Justice Department, contrary to past norms, has stayed in the headlines in the run-up to the midterm election.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/31/nx-s1-6020974/politics-norms-and-the-dojs-unprecedented-pre-election-headlines",
+    "image_url": null,
+    "published_at": "2026-10-31T11:42:56.000Z"
+  },
+  {
+    "headline": "Week in Politics: Trump's Midwest pivot; sharper Democratic messaging",
+    "summary": "The president heads to the midwest for two rallies he previously said were cancelled. Has his message changed this campaign season and how have Democrats sharpened their messaging?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/31/nx-s1-6019280/week-in-politics-trumps-midwest-pivot-sharper-democratic-messaging",
+    "image_url": null,
+    "published_at": "2026-10-31T11:42:51.000Z"
+  },
+  {
+    "headline": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+    "summary": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+    "image_url": null,
+    "published_at": "2026-10-31T09:00:00.000Z"
+  },
+  {
     "headline": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
     "summary": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
     "image_url": null,
     "published_at": "2026-10-01T16:47:53.000Z"
-  },
-  {
-    "headline": "California gubernatorial candidates face off in debate",
-    "summary": "California's candidates for governor square off in a debate while the blue-leaning state grapples with affordability and other issues.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5986313/california-gubernatorial-candidates-face-off-in-debate",
-    "image_url": null,
-    "published_at": "2026-10-01T10:48:03.000Z"
-  },
-  {
-    "headline": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
-    "summary": "Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino",
-    "image_url": null,
-    "published_at": "2026-10-01T09:00:00.000Z"
-  },
-  {
-    "headline": "Trade tensions mean fewer Canadians flocking to South Florida",
-    "summary": "This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5971507/trade-tensions-fewer-canadians-south-florida",
-    "image_url": null,
-    "published_at": "2026-10-01T09:00:00.000Z"
-  },
-  {
-    "headline": "Along U.S. Route 1, Maine voters worry about heating oil, gas and Canadian tariffs",
-    "summary": "Home to both Republican Sen. Susan Collins and Democratic candidate Troy Jackson, Maine's senate race has put rural Aroostook County in the spotlight.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5969830/maine-senate-collins-jackson-aroostook-county",
-    "image_url": null,
-    "published_at": "2026-10-01T09:00:00.000Z"
-  },
-  {
-    "headline": "COMIC: How the census gives your state power (and what Trump wants to change)",
-    "summary": "The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he's trying again ahead of 2030.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes",
-    "image_url": null,
-    "published_at": "2026-10-01T09:00:00.000Z"
   }
 ]
