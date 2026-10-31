@@ -1,5 +1,301 @@
 [
   {
+    "headline": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
+    "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+    "image_url": null,
+    "published_at": "2026-10-30T22:57:55.000Z"
+  },
+  {
+    "headline": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+    "summary": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+    "image_url": null,
+    "published_at": "2026-10-30T22:52:04.000Z"
+  },
+  {
+    "headline": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+    "summary": "Meta has been given a negative outlook by S&P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+    "image_url": null,
+    "published_at": "2026-10-30T22:42:26.000Z"
+  },
+  {
+    "headline": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+    "summary": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+    "image_url": null,
+    "published_at": "2026-10-30T22:17:13.000Z"
+  },
+  {
+    "headline": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+    "summary": "CNBC examines unusual price spikes in election prediction markets and how low-volume contracts can be moved by relatively small trades.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+    "image_url": null,
+    "published_at": "2026-10-30T22:00:53.000Z"
+  },
+  {
+    "headline": "Fed officials are already saying they’ll need to get back to hiking rates",
+    "summary": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+    "image_url": null,
+    "published_at": "2026-10-30T21:53:10.000Z"
+  },
+  {
+    "headline": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+    "summary": "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+    "image_url": null,
+    "published_at": "2026-10-30T21:45:52.000Z"
+  },
+  {
+    "headline": "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
+    "summary": "More than $6 billion worth of cryptocurrencies were stolen from Binance, the world's biggest crypto exchange. It's the biggest cyber heist ever — and many suspect North Korea may be behind it.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6023175/hackers-steal-over-6-billion-from-crypto-exchange-binance-in-staggering-heist",
+    "image_url": null,
+    "published_at": "2026-10-30T21:44:09.000Z"
+  },
+  {
+    "headline": "$6.3 billion Binance hack is largest crypto theft on record",
+    "summary": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    "image_url": null,
+    "published_at": "2026-10-30T21:21:17.000Z"
+  },
+  {
+    "headline": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+    "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    "image_url": null,
+    "published_at": "2026-10-30T20:30:57.000Z"
+  },
+  {
+    "headline": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+    "summary": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+    "image_url": null,
+    "published_at": "2026-10-30T20:02:45.000Z"
+  },
+  {
+    "headline": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+    "summary": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+    "image_url": null,
+    "published_at": "2026-10-30T19:27:03.000Z"
+  },
+  {
+    "headline": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+    "summary": "Investors are preparing for a blue wave in the midterm election on Tuesday that will determine who controls Congress for the remainder of President Trump's term.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+    "image_url": null,
+    "published_at": "2026-10-30T19:11:32.000Z"
+  },
+  {
+    "headline": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
+    "image_url": null,
+    "published_at": "2026-10-30T18:55:44.000Z"
+  },
+  {
+    "headline": "Cheaper cars are selling considerably faster than at the beginning of the year",
+    "summary": "Data indicates cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+    "image_url": null,
+    "published_at": "2026-10-30T18:45:35.000Z"
+  },
+  {
+    "headline": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+    "summary": "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+    "image_url": null,
+    "published_at": "2026-10-30T18:32:17.000Z"
+  },
+  {
+    "headline": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+    "summary": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+    "image_url": null,
+    "published_at": "2026-10-30T18:28:09.000Z"
+  },
+  {
+    "headline": "Why bitcoin held up better after the record Binance hack",
+    "summary": "Bitcoin was trading down about 4% on Friday afternoon, less than a day after the biggest crypto hack in history.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+    "image_url": null,
+    "published_at": "2026-10-30T18:07:00.000Z"
+  },
+  {
+    "headline": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
+    "summary": "The American Federation of Teachers sued the Trump administration, alleging it unlawfully blocked student loan forgiveness for tens of thousands of borrowers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
+    "image_url": null,
+    "published_at": "2026-10-30T17:40:00.000Z"
+  },
+  {
+    "headline": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+    "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+    "image_url": null,
+    "published_at": "2026-10-30T17:15:53.000Z"
+  },
+  {
+    "headline": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
+    "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+    "image_url": null,
+    "published_at": "2026-10-30T16:55:41.000Z"
+  },
+  {
+    "headline": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+    "summary": "Global diesel prices surged as Ukraine and Iran struck refineries in Russia and the Middle East.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+    "image_url": null,
+    "published_at": "2026-10-30T16:44:31.000Z"
+  },
+  {
+    "headline": "Binance's $6.3 billion hack: What we know and what comes next",
+    "summary": "Billions in crypto assets have been frozen following a potential Binance security breach, raising questions about whether the funds can be recovered.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+    "image_url": null,
+    "published_at": "2026-10-30T16:31:36.000Z"
+  },
+  {
+    "headline": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
+    "summary": "Trump and Vance had canceled planned appearances across three states, reducing in-person campaigning in the final days before the midterm election.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+    "image_url": null,
+    "published_at": "2026-10-30T15:52:35.000Z"
+  },
+  {
+    "headline": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+    "summary": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+    "image_url": null,
+    "published_at": "2026-10-30T15:14:27.000Z"
+  },
+  {
+    "headline": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
+    "summary": "Unlike other major central banks, the Swiss National Bank has a significant equity portfolio.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+    "image_url": null,
+    "published_at": "2026-10-30T15:07:48.000Z"
+  },
+  {
+    "headline": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+    "summary": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+    "image_url": null,
+    "published_at": "2026-10-30T13:01:22.000Z"
+  },
+  {
+    "headline": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
+    "summary": "Russian strikes caused major power outages in Dnipro as a reported Ukrainian drone attack sparked a fire at a Russian oil refinery.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
+    "image_url": null,
+    "published_at": "2026-10-30T11:29:59.000Z"
+  },
+  {
+    "headline": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
+    "summary": "It wasn't immediately clear the extent of the damage hackers might have been able to cause, and Binance had not explicitly confirmed that funds had been pilfered. The company said its teams are \"working around the clock\" to resolve the issue.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
+    "image_url": null,
+    "published_at": "2026-10-30T11:21:56.000Z"
+  },
+  {
+    "headline": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
+    "summary": "Hyperscalers continue spending big on artificial intelligence, putting pressure on their legacy businesses and impacting their free cash flow.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
+    "image_url": null,
+    "published_at": "2026-10-30T11:00:01.000Z"
+  },
+  {
+    "headline": "The two most interesting risks to Anthropic",
+    "summary": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+    "image_url": null,
+    "published_at": "2026-10-30T11:00:00.000Z"
+  },
+  {
+    "headline": "Gen Z is ditching bars for run clubs — and finding more than friends along the way",
+    "summary": "As young adults denote less wallet share to bars, run clubs, races and recreational leagues become increasingly popular places to build community.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/gen-z-diplo-run-club.html",
+    "image_url": null,
+    "published_at": "2026-10-30T10:32:46.000Z"
+  },
+  {
+    "headline": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
+    "summary": "Prices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one year and are up more than 18% in two years, according to the latest federal data.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
+    "image_url": null,
+    "published_at": "2026-10-30T09:00:00.000Z"
+  },
+  {
+    "headline": "'Affordability? For who?' Voters decide between helping homeowners or public services",
+    "summary": "Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
+    "image_url": null,
+    "published_at": "2026-10-30T09:00:00.000Z"
+  },
+  {
+    "headline": "How powerful is Elon Musk? How his political influence compares to past U.S. moguls",
+    "summary": "Critics say the tech entrepreneur's enormous wealth has given him too much political power. But when stacked up against other notable American moguls, historians say he's not unique.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6019325/elon-musk-power-moguls-politics",
+    "image_url": null,
+    "published_at": "2026-10-30T09:00:00.000Z"
+  },
+  {
+    "headline": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+    "summary": "Iran said four tankers struck mines in the Strait of Hormuz, while Tehran disputed a U.S. claim that key shipping lanes had been cleared.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+    "image_url": null,
+    "published_at": "2026-10-30T07:12:49.000Z"
+  },
+  {
+    "headline": "A pharma giant is moving past one patent cliff — but another is already looming",
+    "summary": "Disappointing data highlights Novartis' challenge to build its next generation of blockbuster medicines, following a series of clinical trial setbacks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
+    "image_url": null,
+    "published_at": "2026-10-30T06:00:01.000Z"
+  },
+  {
     "headline": "Starbucks sales fall short of expectations, but its U.S. turnaround continues to gain steam",
     "summary": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
     "publisher": "CNBC",
@@ -264,18 +560,18 @@
     "published_at": "2026-10-29T09:04:20.000Z"
   },
   {
-    "headline": "Tariffs, diesel and computer chips are driving up costs for automakers",
-    "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
-    "image_url": null,
-    "published_at": "2026-10-29T09:00:00.000Z"
-  },
-  {
     "headline": "Business as a liberal art? Some high schools say yes",
     "summary": "Learning about money is becoming a growing part of the high school curriculum.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school",
+    "image_url": null,
+    "published_at": "2026-10-29T09:00:00.000Z"
+  },
+  {
+    "headline": "Tariffs, diesel and computer chips are driving up costs for automakers",
+    "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
     "image_url": null,
     "published_at": "2026-10-29T09:00:00.000Z"
   },
@@ -1302,301 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
     "image_url": null,
     "published_at": "2026-10-25T18:18:49.000Z"
-  },
-  {
-    "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-    "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-    "image_url": null,
-    "published_at": "2026-10-25T16:42:42.000Z"
-  },
-  {
-    "headline": "Here are 4 big things we're watching in the stock market this week",
-    "summary": "Peak earnings season, plus a Fed meeting and fresh inflation data.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
-    "image_url": null,
-    "published_at": "2026-10-25T14:58:26.000Z"
-  },
-  {
-    "headline": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life",
-    "summary": "I racked up over $11,000 in credit card debt traveling, shopping and dining out. Here's how I paid it all off in under two years.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html",
-    "image_url": null,
-    "published_at": "2026-10-25T14:00:01.000Z"
-  },
-  {
-    "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-    "summary": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-    "image_url": null,
-    "published_at": "2026-10-25T13:41:37.000Z"
-  },
-  {
-    "headline": "Should you travel together? Ask these questions before booking: 'It'll save you time, money and disappointment'",
-    "summary": "Consider budget, accommodations, personal habits, alone time and more, say Anna Goldfarb and Nell McShane Wulfhart, experts in friendship, travel and decision-making.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/10/25/travel-compatibility-questions.html",
-    "image_url": null,
-    "published_at": "2026-10-25T13:38:01.000Z"
-  },
-  {
-    "headline": "Netflix lays off 6% of workforce amidst slowing growth",
-    "summary": "Netflix is regrouping after the release of its latest quarterly earnings this week. Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth",
-    "image_url": null,
-    "published_at": "2026-10-25T12:25:29.000Z"
-  },
-  {
-    "headline": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-    "summary": "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-    "image_url": null,
-    "published_at": "2026-10-25T12:00:01.000Z"
-  },
-  {
-    "headline": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-    "summary": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-    "image_url": null,
-    "published_at": "2026-10-25T12:00:01.000Z"
-  },
-  {
-    "headline": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-    "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
-    "image_url": null,
-    "published_at": "2026-10-25T08:06:11.000Z"
-  },
-  {
-    "headline": "Trade tariffs cause whiplash at Port Milwaukee",
-    "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
-    "image_url": null,
-    "published_at": "2026-10-24T21:20:55.000Z"
-  },
-  {
-    "headline": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-    "summary": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-    "image_url": null,
-    "published_at": "2026-10-24T21:07:01.000Z"
-  },
-  {
-    "headline": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-    "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-    "image_url": null,
-    "published_at": "2026-10-24T20:38:30.000Z"
-  },
-  {
-    "headline": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
-    "summary": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
-    "image_url": null,
-    "published_at": "2026-10-24T19:57:24.000Z"
-  },
-  {
-    "headline": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-    "summary": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
-    "image_url": null,
-    "published_at": "2026-10-24T18:56:29.000Z"
-  },
-  {
-    "headline": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-    "summary": "The rotation out of AI stocks benefited several defensive Club stocks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-    "image_url": null,
-    "published_at": "2026-10-24T16:14:00.000Z"
-  },
-  {
-    "headline": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-    "image_url": null,
-    "published_at": "2026-10-24T15:53:30.000Z"
-  },
-  {
-    "headline": "Why popular airplanes are getting scrapped years early",
-    "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-    "image_url": null,
-    "published_at": "2026-10-24T15:18:30.000Z"
-  },
-  {
-    "headline": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-    "summary": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-    "image_url": null,
-    "published_at": "2026-10-24T15:00:01.000Z"
-  },
-  {
-    "headline": "I quit my marketing job to walk dogs for 4 months: It's 'one of the most valuable professional experiences I've ever had'",
-    "summary": "\"People sometimes assume dog walking was a gap or detour in my career. I see it as one of the most valuable professional experiences I've had,\" says Sally Simmons.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/10/24/quit-marketing-job-walk-dogs.html",
-    "image_url": null,
-    "published_at": "2026-10-24T14:36:01.000Z"
-  },
-  {
-    "headline": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
-    "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
-    "image_url": null,
-    "published_at": "2026-10-24T14:30:01.000Z"
-  },
-  {
-    "headline": "An ex-bookkeeper spent $375 to launch a sewing business: 'I hadn't felt so sure about something like that in a long time'",
-    "summary": "Eric Lugo runs Stitch Lab ATX, a sewing studio that offers group classes and events to teach basic sewing skills.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/10/24/sewing-workshop-business-stitch-lab-atx.html",
-    "image_url": null,
-    "published_at": "2026-10-24T14:00:01.000Z"
-  },
-  {
-    "headline": "Berkshire shares shake the Buffett blues with new all-time highs",
-    "summary": "After almost 18 months, Berkshire Hathaway shares have entirely erased all the ground they lost in the wake of Warren Buffett's surprise announcement at the 2025 shareholders meeting that he would step down as CEO.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
-    "image_url": null,
-    "published_at": "2026-10-24T12:48:32.000Z"
-  },
-  {
-    "headline": "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
-    "summary": "A management consultant is going viral after he started sharing cringe-worthy anonymous DMs employees get from bosses. Like, ones they get on their wedding day and worse.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees",
-    "image_url": null,
-    "published_at": "2026-10-24T11:42:12.000Z"
-  },
-  {
-    "headline": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-    "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-    "image_url": null,
-    "published_at": "2026-10-24T11:00:01.000Z"
-  },
-  {
-    "headline": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-    "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-    "image_url": null,
-    "published_at": "2026-10-24T10:59:16.000Z"
-  },
-  {
-    "headline": "America by the numbers: How voters feel about the economy, inflation, AI and Trump",
-    "summary": "With the U.S. midterm elections looming, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html",
-    "image_url": null,
-    "published_at": "2026-10-24T10:58:30.000Z"
-  },
-  {
-    "headline": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-    "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-    "image_url": null,
-    "published_at": "2026-10-24T06:41:14.000Z"
-  },
-  {
-    "headline": "What a day in customer service looks like — as AI changes everything",
-    "summary": "Customer service can be a \"really, really difficult job.\" Will AI make it easier — or cause even more headaches?",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
-    "image_url": null,
-    "published_at": "2026-10-24T05:00:01.000Z"
-  },
-  {
-    "headline": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-    "summary": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-    "image_url": null,
-    "published_at": "2026-10-23T22:49:42.000Z"
-  },
-  {
-    "headline": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
-    "summary": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
-    "image_url": null,
-    "published_at": "2026-10-23T22:27:06.000Z"
-  },
-  {
-    "headline": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-    "summary": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-    "image_url": null,
-    "published_at": "2026-10-23T21:26:59.000Z"
-  },
-  {
-    "headline": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
-    "summary": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
-    "image_url": null,
-    "published_at": "2026-10-23T20:52:23.000Z"
-  },
-  {
-    "headline": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-    "summary": "The 10-year Treasury yield was just below 5% Friday after AI-driven tech selling sent investors into the safety of government bonds.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-    "image_url": null,
-    "published_at": "2026-10-23T20:20:58.000Z"
-  },
-  {
-    "headline": "Trump says he ordered DOJ suit to block Alaska Senate race certification if Republican loses",
-    "summary": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-    "image_url": null,
-    "published_at": "2026-10-23T20:20:41.000Z"
-  },
-  {
-    "headline": "Investors are starting to find opportunities in the battered bond market",
-    "summary": "Some market participants see reason for hope in a market bludgeoned this year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
-    "image_url": null,
-    "published_at": "2026-10-23T20:09:36.000Z"
-  },
-  {
-    "headline": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
-    "summary": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
-    "image_url": null,
-    "published_at": "2026-10-23T20:06:37.000Z"
-  },
-  {
-    "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-    "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-    "image_url": null,
-    "published_at": "2026-10-23T19:50:26.000Z"
   }
 ]

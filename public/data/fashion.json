@@ -1,5 +1,325 @@
 [
   {
+    "headline": "Hertunba Lagos Spring 2027",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/hertunba",
+    "image_url": null,
+    "published_at": "2026-10-31T02:46:27.000Z"
+  },
+  {
+    "headline": "Oshobor Lagos Spring 2027",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/oshobor",
+    "image_url": null,
+    "published_at": "2026-10-31T02:46:27.000Z"
+  },
+  {
+    "headline": "Nkwo Lagos Spring 2027",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/nkwo",
+    "image_url": null,
+    "published_at": "2026-10-31T02:46:27.000Z"
+  },
+  {
+    "headline": "Rachel Zegler Diversifies Suiting in a Mark Gong  Bra Top Ensemble & John Hardy Jewelry at ‘A Few Good Men’ Opening in New York",
+    "summary": "'A Few Good Men' opened on Broadway and will run for a limited 13 weeks.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/rachel-zegler-bra-top-mark-gong-john-hardy-a-few-good-men-1239394442/",
+    "image_url": null,
+    "published_at": "2026-10-31T01:48:08.000Z"
+  },
+  {
+    "headline": "Gabourey Sidibe Emulates Viral Drake 40th Birthday Meme on ‘The Jennifer Hudson Show’ Halloween Episode",
+    "summary": "Janelle Monae was also on the show and dressed as a \"fish boy\" while Hudson was dressed as a butterfly.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/gabourey-sidibe-meme-drake-40-birthday-jennifer-hudson-show-1239394417/",
+    "image_url": null,
+    "published_at": "2026-10-31T00:59:30.000Z"
+  },
+  {
+    "headline": "Zara’s New Arrivals Have Fall and Winter Dressing Covered",
+    "summary": "From Leather Jackets to Party Dresses, Zara’s New Arrivals Have It All",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/best-zara-finds",
+    "image_url": null,
+    "published_at": "2026-10-30T22:19:31.000Z"
+  },
+  {
+    "headline": "8 Fresh Ways to Wear Corduroy Pants—To Work, on the Weekend, and Beyond",
+    "summary": "As seen on the fall 2026 runways, corduroy pants are a must-have. Shop the best pairs and discover how to style them now.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-to-style-corduroy-pants",
+    "image_url": null,
+    "published_at": "2026-10-30T21:49:42.000Z"
+  },
+  {
+    "headline": "On the Line: Heat Stress Is Putting Workers—And Economies—At Risk",
+    "summary": "Also in this edition: 19 child laborers rescued from Indian factories and fires strike garment warehouses in Bangladesh and Cambodia.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/sustainability/on-the-line-heat-stress-india-child-labor-fires-cambodia-1239394257/",
+    "image_url": null,
+    "published_at": "2026-10-30T21:48:57.000Z"
+  },
+  {
+    "headline": "‘A Few Good Men’ Marked Its Broadway Opening With a Few Starry Friends",
+    "summary": "Before it was an Oscar-nominated drama, “A Few Good Men” premiered on Broadway in 1989, helping to launch the career of its 20-something playwright, Aaron Sorkin. Now, nearly four decades later, the work has returned to the Main Stem, directed by six-time Tony Award winner Michael Arden.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/a-few-good-men-broadway-opening",
+    "image_url": null,
+    "published_at": "2026-10-30T21:45:00.000Z"
+  },
+  {
+    "headline": "Jimmy Choo Momentum Grows as Shoes Reclaim the Fashion Spotlight",
+    "summary": "Capri continues to see Jimmy Choo as an $800 million business",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/capri-jimmy-choo-strategy-sales-1239393091/",
+    "image_url": null,
+    "published_at": "2026-10-30T21:33:49.000Z"
+  },
+  {
+    "headline": "On Is Collaborating With the World’s Most Fashionable Farm on a Shoe Fit for Work",
+    "summary": "Sky High Farms lends its hand to a new waterproof slip-on.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/sneaker-news/sky-high-farms-on-cloud-low-release-date-1239394172/",
+    "image_url": null,
+    "published_at": "2026-10-30T21:10:40.000Z"
+  },
+  {
+    "headline": "Cynthia Erivo, Katie Holmes, Debbie Allen & More Attend the American Ballet Theatre Fall Gala",
+    "summary": "Cynthia Erivo was honored at the company’s fall gala at Lincoln Center.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/eye/parties/abt-fall-gala-2026-cynthia-erivo-1239393952/",
+    "image_url": null,
+    "published_at": "2026-10-30T20:43:53.000Z"
+  },
+  {
+    "headline": "LA, Long Beach Port Watchmen Strike Pushed to Wednesday as Talks Continue",
+    "summary": "Union workers and their employees get three more days to settle a contract that expired in July 2025, before a walkout could halt gate work.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/logistics/la-los-angeles-long-beach-port-watchmen-strike-delayed-wednesday-nov-4-1239394178/",
+    "image_url": null,
+    "published_at": "2026-10-30T20:36:18.000Z"
+  },
+  {
+    "headline": "Shuffle Board: Carter’s Reshapes Leadership; Bergdorf Names President",
+    "summary": "Plus, The RealReal recruits from eBay, Leather Working Group names a CEO and Kohl’s adds a Hershey executive to its board.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/industry-news/shuffle-board-carters-bergdorf-goodman-realreal-kohls-1239393723/",
+    "image_url": null,
+    "published_at": "2026-10-30T20:27:37.000Z"
+  },
+  {
+    "headline": "Autumnal Glam Was All the Rage at the Time 100 Next Gala",
+    "summary": "Sarah Pidgeon and Raye led the cause when it came to warm-toned beauty.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/pop-culture/celebrity-news/autumnal-glam-time-100-next-gala-1239393199/",
+    "image_url": null,
+    "published_at": "2026-10-30T20:10:45.000Z"
+  },
+  {
+    "headline": "HSN Gets Some Helping Hands for Holiday",
+    "summary": "The multiplatform retailer has Christie Brinkley, Michelle Buteau, Dr. Paul Nassif and Curtis Stone engaging shoppers with new products and gift ideas.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/hsn-holiday-campaign-christie-brinkley-1239394033/",
+    "image_url": null,
+    "published_at": "2026-10-30T20:07:21.000Z"
+  },
+  {
+    "headline": "In a World of Mac Computers, I’ll Always Be a PC",
+    "summary": "Mac vs PC: I’m learning to use a Mac computer while yearning for my trusty old HP.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/i-ll-always-be-a-pc",
+    "image_url": null,
+    "published_at": "2026-10-30T19:53:02.000Z"
+  },
+  {
+    "headline": "Angels & Demons: Inside ABT’s Theatrical and Fashion-Filled Fall Gala, Honoring Cynthia Erivo",
+    "summary": "American Ballet Theatre kicked off Halloweekend a little early on Thursday evening with its Angels & Demons–themed Fall Gala at Lincoln Center, honoring the shapeshifting talents of Grammy, Emmy, and Tony Award–winning actress, musician, and producer Cynthia Erivo",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/abt-fall-gala-2026-honoring-cynthia-erivo",
+    "image_url": null,
+    "published_at": "2026-10-30T19:45:45.000Z"
+  },
+  {
+    "headline": "The Best Street Style Photos From the Spring 2027 Shows in Lagos",
+    "summary": "Stephen Tayo photographs the best dressed guests at the spring 2027 shows in Lagos.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/the-best-street-style-photos-from-the-spring-2027-shows-in-lagos",
+    "image_url": null,
+    "published_at": "2026-10-30T19:32:22.000Z"
+  },
+  {
+    "headline": "You Heard it Here First: It’s Going to Be an Ugg Boot Fall",
+    "summary": "Ugg boots are an off-duty favorite for a reason. Here’s how to wear yours for the season, with outfit inspiration from a few of our favorite stylish celebs.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/ugg-boots-outfits",
+    "image_url": null,
+    "published_at": "2026-10-30T18:30:32.000Z"
+  },
+  {
+    "headline": "Benito Skinner and Mary Beth Barone Share 12 Last-Minute Halloween Costume Ideas",
+    "summary": "One of them is the \"What was that?\" lady from The Wendy Williams Show.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/benito-skinner-mary-beth-barone-last-minute-halloween-ideas-10-30-2026",
+    "image_url": null,
+    "published_at": "2026-10-30T17:50:32.000Z"
+  },
+  {
+    "headline": "9 Tips for The Day Before a Marathon",
+    "summary": "Experts share tips on how to survive—and even thrive—a long run.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/tips-for-the-day-before-a-marathon",
+    "image_url": null,
+    "published_at": "2026-10-30T17:45:16.000Z"
+  },
+  {
+    "headline": "9 Best Skin Tightening Creams for Smooth & Lifted Skin",
+    "summary": "Experts sound off on the best skin-tightening creams packed with peptides, retinol, and more that boost collagen and elastin production for firmer, smoother skin.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/skin-tightening-creams",
+    "image_url": null,
+    "published_at": "2026-10-30T17:42:45.000Z"
+  },
+  {
+    "headline": "The Vogue Business People Moves Tracker",
+    "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+    "image_url": null,
+    "published_at": "2026-10-30T17:18:29.000Z"
+  },
+  {
+    "headline": "Shop Our Favorite Celebrity Looks of the Week",
+    "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/best-celebrity-outfits",
+    "image_url": null,
+    "published_at": "2026-10-30T17:04:33.000Z"
+  },
+  {
+    "headline": "An Ode to the Perfect Fashion Combination: A Baseball Cap With a Blazer",
+    "summary": "It's the perfect high-low combo!",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/an-argument-for-pairing-your-baseball-cap-with-a-blazer",
+    "image_url": null,
+    "published_at": "2026-10-30T17:00:52.000Z"
+  },
+  {
+    "headline": "What Makes the New La Roche-Posay UV Defense Sunscreen Special? BEMT",
+    "summary": "The new La Roche-Posay Anthelios UVDefense sunscreen offers advanced UVA protection with a PA++++ rating and broad-spectrum SPF 50 against harmful UVA and UVB rays. Here, Vogue puts it to the test.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/la-roche-posay-uv-defense",
+    "image_url": null,
+    "published_at": "2026-10-30T16:13:37.000Z"
+  },
+  {
+    "headline": "9 Best Sunscreens for Sensitive Skin, According to Dermatologists",
+    "summary": "The best sunscreen for sensitive skin delivers SPF protection without any of the irritation. Shop 9 dermatologist-approved mineral and chemical sunscreens for sensitive, reactive, or eczema-prone skin.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/sunscreen-for-sensitive-skin",
+    "image_url": null,
+    "published_at": "2026-10-30T15:33:33.000Z"
+  },
+  {
+    "headline": "Janelle Monáe on Transforming Into ‘Phish Boy’ for Halloween",
+    "summary": "“I love that space where something can be beautiful, strange, and a little unsettling all at once,” says Janelle Monáe of her 2026 Halloween costume.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/janelle-monae-halloween-phish-boy-costume-10-30-2026",
+    "image_url": null,
+    "published_at": "2026-10-30T15:33:13.000Z"
+  },
+  {
+    "headline": "Elle Fanning’s ‘Hunger Games’ Style Officially Takes Flight",
+    "summary": "While we’re mere days into what’s sure to be a lengthy press tour, Elle Fanning is already showing us what she’s made of.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/elle-fanning-valentino-butterfly-skirt-suit-hunger-games-2026-10-30",
+    "image_url": null,
+    "published_at": "2026-10-30T15:12:52.000Z"
+  },
+  {
+    "headline": "Kim Kardashian Is Back in Her Lob Era",
+    "summary": "On the “All’s Fair” press tour, Kim Kardashian is revisiting one of her chicest beauty signatures: the glossy, shoulder-grazing lob.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/kim-kardashian-is-back-in-her-lob-era",
+    "image_url": null,
+    "published_at": "2026-10-30T15:00:07.000Z"
+  },
+  {
+    "headline": "At This Ultra-Private New Hotel in Florence, You Can Live Like a Modern Medici",
+    "summary": "A family-owned pied-à-terre inside a 15th-century palazzo in buzzy Oltrarno, La Réserve Firenze offers Trattoria Cammillo room service and the keys to the city’s best-kept secrets.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/la-reserve-firenze-hotel-opening",
+    "image_url": null,
+    "published_at": "2026-10-30T15:00:00.000Z"
+  },
+  {
+    "headline": "Capri Raises Outlook Despite Revenue Drop",
+    "summary": "The Michael Kors and Jimmy Choo owner beat expectations for the second quarter.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/capri-raises-outlook-despite-revenue-drop",
+    "image_url": null,
+    "published_at": "2026-10-30T14:35:26.000Z"
+  },
+  {
+    "headline": "Designer Francesca Miranda Created 5 Custom Looks for Her Daughter-In-Law’s Wedding in Peru’s Sacred Valley",
+    "summary": "Fernanda Nebreda-Bello and Francisco Jassir Miranda’s Andean celebration included cocktails at Tambo del Inka, a surprise flash mob, and dancing until sunrise in Cusco.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/fernanda-nebreda-bello-and-francisco-jassir-miranda-wedding",
+    "image_url": null,
+    "published_at": "2026-10-30T14:00:00.000Z"
+  },
+  {
+    "headline": "A$AP Rocky Shows His Whimsical Side With a Kooky Novelty Bag",
+    "summary": "Not since Scrat, the saber-tooth squirrel from the 2002 seminal classic ‘Ice Age,’ has one shown so much dedication to acorn.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/asap-rocky-chanel-acorn-bag-2026-10-30",
+    "image_url": null,
+    "published_at": "2026-10-30T13:57:31.000Z"
+  },
+  {
+    "headline": "Meet the Women Changing the Face of Mariachi in San Antonio",
+    "summary": "Mariachi is getting a remix as all-female bands bring pop hits and women’s perspectives to the Mexican tradition. Just don’t call them a girl group.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/meet-the-women-changing-the-face-of-mariachi-in-san-antonio",
+    "image_url": null,
+    "published_at": "2026-10-30T13:00:00.000Z"
+  },
+  {
+    "headline": "Yoonchae’s Glass Skin Secret, Revealed",
+    "summary": "The pop star on life as a blonde, YouTube beauty tricks, and her new partnership with Dr.Jart.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/yoonchaes-glass-skin-secret-revealed",
+    "image_url": null,
+    "published_at": "2026-10-30T12:55:00.000Z"
+  },
+  {
+    "headline": "Sarah Pidgeon Is Staying True to 2026’s Biggest Lip Trend",
+    "summary": "“Love Story” star Sarah Pidgeon kept things soft around the edges for an evening at the Time100 Next Event last night.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/sarah-pidgeon-is-staying-true-to-2026s-biggest-lip-trend-10-30-2026",
+    "image_url": null,
+    "published_at": "2026-10-30T11:22:46.000Z"
+  },
+  {
+    "headline": "Pre-Halloween, Heidi Klum Embraces Pumpkin Orange for a Family Night Out",
+    "summary": "Queen of Halloween Heidi Klum is getting into the spirit a little early, with a spectacularly ruffled look and three of her children in tow.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/heidi-klum-embraces-pumpkin-orange-for-a-family-night-out-10-30-2026",
+    "image_url": null,
+    "published_at": "2026-10-30T11:01:49.000Z"
+  },
+  {
+    "headline": "Dries Van Noten Announces President Switch-Up",
+    "summary": "Axel Keller will step down after five years at the Puig-owned house, with Adrian Ward-Rees assuming the role.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/dries-van-noten-announces-president-switch-up",
+    "image_url": null,
+    "published_at": "2026-10-30T10:50:43.000Z"
+  },
+  {
     "headline": "Minena Mexico Spring 2027",
     "summary": "",
     "publisher": "Vogue",
@@ -182,14 +502,6 @@
     "url": "https://www.vogue.com/article/best-peptide-skincare",
     "image_url": null,
     "published_at": "2026-10-29T17:19:49.000Z"
-  },
-  {
-    "headline": "The Vogue Business People Moves Tracker",
-    "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-    "image_url": null,
-    "published_at": "2026-10-29T16:58:44.000Z"
   },
   {
     "headline": "35 Remarkable Photos of a ’90s and 2000s-Era Winona Ryder",
@@ -1286,317 +1598,5 @@
     "url": "https://wwd.com/sourcing-journal/trade/midterm-countdown-washington-canada-tariffs-election-trump-1239386941/",
     "image_url": null,
     "published_at": "2026-10-26T23:23:10.000Z"
-  },
-  {
-    "headline": "831 Stories’ RomCon Brought Reader Fantasies to Life",
-    "summary": "Together with Hinge, the romantic fiction publisher hosted a one-day convention for the romance fiction community.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/831-stories-romcon-2026",
-    "image_url": null,
-    "published_at": "2026-10-26T22:00:00.000Z"
-  },
-  {
-    "headline": "USTR Proposes Two-Month Extension of Port Fee Pause for Chinese Ships",
-    "summary": "The pause would run through Jan. 9, with comments due Friday, while Beijing has yet to extend its own suspension of fees on U.S.-linked vessels.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/logistics/ustr-proposes-two-month-extension-china-port-fee-suspension-1239386782/",
-    "image_url": null,
-    "published_at": "2026-10-26T21:26:59.000Z"
-  },
-  {
-    "headline": "9 Best Peptide Serums to Improve Wrinkles, Dark Spots, and More",
-    "summary": "The best peptide serum pairs peptides with other active ingredients, like vitamin C and hyaluronic acid, to yield long-term results. Shop our top picks.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/peptide-serums",
-    "image_url": null,
-    "published_at": "2026-10-26T21:18:34.000Z"
-  },
-  {
-    "headline": "Do Lymphatic Drainage Drops Work?",
-    "summary": "Lymphatic drainage drops are liquids made of different herbs that are known to improve your lymphatic flow. But do they actually work? Here, experts break down everything you need to know.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/do-lymphatic-drainage-drops-work",
-    "image_url": null,
-    "published_at": "2026-10-26T21:08:31.000Z"
-  },
-  {
-    "headline": "‘All’s Fair’ Premiere: Kim Kardashian, Naomi Watts and More Bring Bronze Glam to Rome",
-    "summary": "The cast of Ryan Murphy’s legal drama proves women over 40 do it best.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/alls-fair-season-2-rome-premiere-beauty-looks-1239386746/",
-    "image_url": null,
-    "published_at": "2026-10-26T21:04:48.000Z"
-  },
-  {
-    "headline": "3 Alums of the School of Susan Cianciolo Speak About What the Designer Means to Them",
-    "summary": "The 2026 recipient of the CFDA’s Isabel Toledo Board of Directors’ Tribute is feted by her former students.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/3-alums-of-the-school-of-susan-cianciolo-speak-about-what-the-designer-means-to-them",
-    "image_url": null,
-    "published_at": "2026-10-26T21:03:01.000Z"
-  },
-  {
-    "headline": "40 Best Bridesmaid Dresses for Every Type of Wedding",
-    "summary": "Whether you want your party in a melange of floral gowns or slick, all-black slip dresses, Vogue has selected 40 of the best bridesmaid dresses.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-bridesmaid-dresses",
-    "image_url": null,
-    "published_at": "2026-10-26T20:31:50.000Z"
-  },
-  {
-    "headline": "Vera Wang Presents Inaugural Solstiss-Academy Award to Nicole Alsonso",
-    "summary": "Alsonso, a student at Instituto Marangoni, won for her creativity and innovative use of Solstiss lace.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/vera-wang-inaugural-solstiss-academy-award-nicole-alsonso-1239386473/",
-    "image_url": null,
-    "published_at": "2026-10-26T20:27:11.000Z"
-  },
-  {
-    "headline": "What’s Weighing on Yue Yuen as Shoe Manufacturing Giant Issues Profit Warning",
-    "summary": "Taiwanese shoe manufacturer Yue Yuen said it expects a profit decline of between 50 percent to 55 percent for the nine months ended Sept. 30, 2026.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-maker-yue-yuen-profit-decline-nine-months-warning-1239386451/",
-    "image_url": null,
-    "published_at": "2026-10-26T20:26:18.000Z"
-  },
-  {
-    "headline": "Elie Tahari Opens Limited-Time Installation at 803 Madison Avenue",
-    "summary": "The unit is directly across the street from the brand's very first store, which opened in 1974.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/elie-tahari-limited-time-installation-803-madison-avenue-1239386736/",
-    "image_url": null,
-    "published_at": "2026-10-26T20:19:04.000Z"
-  },
-  {
-    "headline": "Reebok’s New Low-Profile Sneaker Looks Nothing Like a Reebok Sneaker — and It’s Selling Out Quickly",
-    "summary": "The brand's new Spike Racer sneaker is nearly devoid of any traditional branding.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/reebok-spike-racer-1239386650/",
-    "image_url": null,
-    "published_at": "2026-10-26T20:08:19.000Z"
-  },
-  {
-    "headline": "The Best Carolina Herrera Perfumes, According to Vogue",
-    "summary": "What are the best Carolina Herrera fragrances? Stilettos, butterflies, and more—the famed fashion house is known for its audacious perfumes.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-carolina-herrera-fragrances",
-    "image_url": null,
-    "published_at": "2026-10-26T20:01:11.000Z"
-  },
-  {
-    "headline": "Dua Lipa Shows Off Strappy Schiaparelli Satin Shoes at the 2026 London Literature Festival",
-    "summary": "She matched them with a Schiaparelli spring 2027 look.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/dua-lipa-schiaparelli-shoes-london-literature-festival-1239386698/",
-    "image_url": null,
-    "published_at": "2026-10-26T19:54:27.000Z"
-  },
-  {
-    "headline": "Drake Kicks Off His 40s in Cowboy Boots and Python Loafers for His Birthday Parties in NYC",
-    "summary": "The Grammy winner frequently works with stylist Juliet Charlotte.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/drake-40-birthday-cowboy-boots-gucci-loafers-parties-nyc-1239386341/",
-    "image_url": null,
-    "published_at": "2026-10-26T19:47:18.000Z"
-  },
-  {
-    "headline": "Official Images Have Finally Landed for the Return of One of Michael Jordan’s Most Heralded Game Sneakers",
-    "summary": "The Air Jordan 6 White/Infrared is set to release in early November.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-6-white-infrared-release-date-ct8529-105-2-1239386498/",
-    "image_url": null,
-    "published_at": "2026-10-26T19:44:06.000Z"
-  },
-  {
-    "headline": "Is Your ‘Organic’ Skin Care Actually Organic?",
-    "summary": "In 2026, organic skin care refers to how ingredients are sourced, grown, and processed, but does that make them automatically better? Here, Vogue unpacks what to look for in organic skin-care products and the best products to shop.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/organic-skincare-products",
-    "image_url": null,
-    "published_at": "2026-10-26T19:17:20.000Z"
-  },
-  {
-    "headline": "In Matching Shoes, Jennifer Lawrence and Cooke Maroney Are in Total Lockstep",
-    "summary": "Jennifer Lawrence and Cooke Maroney seamlessly incorporated their Vans into their city-slicker couple style, bringing just a touch of Southern California cool to their autumnal wardrobes.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/jennifer-lawrence-cooke-maroney-matching-vans-2026-10-26",
-    "image_url": null,
-    "published_at": "2026-10-26T18:54:01.000Z"
-  },
-  {
-    "headline": "Inside the First-Ever PoloFest in Tokyo, a Vintage Marketplace—and Much More—for 10,000 Ralph Lauren Fans",
-    "summary": "Ralph Lauren's PoloFest was held in Tokyo, and featured Polo-specializing dealers from around the world with 5,000 vintage Polo pieces for sale.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/inside-the-first-ever-polofest-in-tokyo-a-vintage-marketplace-and-much-more-for-10000-ralph-lauren-fans",
-    "image_url": null,
-    "published_at": "2026-10-26T18:16:28.000Z"
-  },
-  {
-    "headline": "As Peggy Flanagan Runs for Senate, a Look Back At Her Intentional Style",
-    "summary": "Peggy Flanagan could become the first Indigenous woman elected to the U.S. Senate. On the campaign trail, she has been using her platform to spotlight Native designers.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/peggy-flanagan-election-trail-fashion",
-    "image_url": null,
-    "published_at": "2026-10-26T17:18:28.000Z"
-  },
-  {
-    "headline": "Watch Vogue Cover Star Jenna Ortega Get Real With Her Inner Voice",
-    "summary": "We all have that pesky inner voice—the one that pipes up every so often, whether we want it to or not. In a new video, Vogue’s November cover star goes one-on-one with her own. And we mean that quite literally.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/jenna-ortega-vs-jenna-ortega-november-cover-video",
-    "image_url": null,
-    "published_at": "2026-10-26T16:00:00.000Z"
-  },
-  {
-    "headline": "The Best Halloween Travel Destinations for Spooky Sojourns",
-    "summary": "From ghost tours to cemetery strolls, the best Halloween travel destinations take travelers into the spookiest corners across cities like New Orleans, Savannah, and beyond.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/halloween-travel-destinations",
-    "image_url": null,
-    "published_at": "2026-10-26T15:42:56.000Z"
-  },
-  {
-    "headline": "Can Halloween Be Chic? 6 Tastemakers on How to Throw a Kitsch-Free Spooky Season Party",
-    "summary": "Zoë de Givenchy, Romilly Newman, Rebecca Gardner, and Kelly Wearstler share tips on how to host a chic Halloween event.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-to-celebrate-a-chic-halloween",
-    "image_url": null,
-    "published_at": "2026-10-26T15:39:14.000Z"
-  },
-  {
-    "headline": "How Many T-Shirts Can Be Made in a Minute?",
-    "summary": "Fashion is racing to automate sewing and shorten supply chain lead times. The sustainability pay-off hinges on how the industry uses the time it gains back.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-many-t-shirts-can-be-made-in-a-minute",
-    "image_url": null,
-    "published_at": "2026-10-26T13:15:08.000Z"
-  },
-  {
-    "headline": "How to Style Bootcut Jeans in 2026",
-    "summary": "Effortless and leg-elongating, bootcut jeans may be one of the most wearable denim shapes of 2026—consider this your guide on how to style bootcut jeans.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-to-style-bootcut-jeans",
-    "image_url": null,
-    "published_at": "2026-10-26T10:00:00.000Z"
-  },
-  {
-    "headline": "The 7 Best Airbnbs for Experiencing Buenos Aires in Peak Pleasant Weather",
-    "summary": "From a 1930s French-style building to a modern loft in Palermo, the best Airbnbs in Buenos Aires situate travelers in the city's best locations.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-airbnbs-in-buenos-aires",
-    "image_url": null,
-    "published_at": "2026-10-26T10:00:00.000Z"
-  },
-  {
-    "headline": "Grandexport Is the Berlin Fashion Export You Should Know",
-    "summary": "Grandexport’s Paulina Munzing and Gent Berbatovci specialize in upcycling, deadstock, and leather.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/grand-export-is-the-berlin-fashion-export-you-should-know",
-    "image_url": null,
-    "published_at": "2026-10-26T10:00:00.000Z"
-  },
-  {
-    "headline": "Minotaurs, Mutants, and Wicker Husbands: In Monster Romances, Women Lust After Everything But Human Men",
-    "summary": "From screen to page, the genre uses absurdism and shock value to critique what modern dating is missing.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/in-monster-romances-women-are-lusting-after-everything-but-men",
-    "image_url": null,
-    "published_at": "2026-10-26T10:00:00.000Z"
-  },
-  {
-    "headline": "The Grown-Up Guide to Wearing Loafers and a Skirt",
-    "summary": "Taking inspiration from fashion month’s best-dressed, here are five ways to style loafers and a skirt without looking like an extra in ‘St Trinian’s’.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-to-style-a-skirt-and-loafers",
-    "image_url": null,
-    "published_at": "2026-10-26T10:00:00.000Z"
-  },
-  {
-    "headline": "5 Midterm Races We’re Watching Next Week",
-    "summary": "Amy Acton versus Vivek Ramaswamy, James Talarico versus Ken Paxton, and Troy Jackson versus Susan Collins are just some of the midterm races we’re locked in on this fall.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/5-midterm-races-were-watching-next-week",
-    "image_url": null,
-    "published_at": "2026-10-26T10:00:00.000Z"
-  },
-  {
-    "headline": "The Editors’ Table: New York",
-    "summary": "Join Vogue Business editors on 17 November for an exclusive evening designed to connect and celebrate our community of founders and innovators.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/the-editors-table-new-york-sept-2026",
-    "image_url": null,
-    "published_at": "2026-10-26T06:00:00.000Z"
-  },
-  {
-    "headline": "Join The Waitlist | Vogue Business Global Summit: New York",
-    "summary": "Join us on 4 November for our annual Global Summit.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york",
-    "image_url": null,
-    "published_at": "2026-10-26T06:00:00.000Z"
-  },
-  {
-    "headline": "Fashion Is Betting on Spooky Season",
-    "summary": "With Halloween spending strong, fashion is tapping into a fresh appetite for spooky looks that last beyond October 31. What’s working?",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/fashion-is-betting-on-spooky-season",
-    "image_url": null,
-    "published_at": "2026-10-26T05:30:00.000Z"
-  },
-  {
-    "headline": "How Vestiaire Collective Is Keeping Stolen Goods From Being Resold",
-    "summary": "Following reports of recently looted goods appearing on resale platforms, the luxury marketplace is stepping up scrutiny of suspicious listings.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-vestiaire-collective-is-keeping-stolen-goods-from-being-resold",
-    "image_url": null,
-    "published_at": "2026-10-26T05:30:00.000Z"
-  },
-  {
-    "headline": "Mckenna Grace Coordinates in Gold, Pairing Simple Heels with Geometric-Patterned Archival Gucci Dress",
-    "summary": "The star’s sandals were a perfect match for her dress’s gold flecks during her ongoing “Hunger Games: Sunrise on the Reaping” press tour.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/mckenna-grace-hunger-games-archival-gucci-dress-1239385620/",
-    "image_url": null,
-    "published_at": "2026-10-25T23:01:24.000Z"
-  },
-  {
-    "headline": "Carrie Coon Adds Some Color with Vibrant Magenta Pumps Paired with Gray Ensemble at Chicago International Film Festival",
-    "summary": "While accepting an Artistic Achievement Award at Chicago’s Music Box Theater Saturday night, Coon sported a bright pair of what looked like Jude Kiss pumps in magenta satin.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/carrie-coon-magenta-pumps-chicago-international-film-festival-1239385609/",
-    "image_url": null,
-    "published_at": "2026-10-25T22:43:15.000Z"
-  },
-  {
-    "headline": "Kim Kardashian and Kris Jenner Sport Archival Looks for All’s Fair Rome Premiere, With Jenner Clad in Elizabeth Taylor’s Famous Scorpio Cape",
-    "summary": "The mother-daughter duo both went vintage on the red carpet on Saturday night, with Jenner wrapped up in a bit of Hollywood history.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/kim-kardashian-kris-jenner-elizabeth-taylor-scorpio-cape-1239385592/",
-    "image_url": null,
-    "published_at": "2026-10-25T20:52:26.000Z"
-  },
-  {
-    "headline": "Retailers in France and Italy Tally the Cost of Lost Business After Second Round of Protests",
-    "summary": "Stores boarded up their windows and shortened hours in anticipation of renewed looting, though most protests remained peaceful.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/retail-france-italy-protests-impact-security-holiday-season-1239385464/",
-    "image_url": null,
-    "published_at": "2026-10-25T19:57:24.000Z"
-  },
-  {
-    "headline": "Naomi Watts Sports Boldly Dramatic Roksanda Spring 2027 Gown at All’s Fair Premiere in Rome",
-    "summary": "At the Rome International Film Festival, the actress wore a strapless black gown marked by a striking black-and-white pattern of abstract brushstrokes.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/naomi-watts-roksanda-spring-2027-alls-fair-premiere-rome-1239385561/",
-    "image_url": null,
-    "published_at": "2026-10-25T19:26:11.000Z"
-  },
-  {
-    "headline": "Dame Helen Mirren is Pretty in Pink Martin Grant Gown & Bottega Veneta Mules at 29th SCAD Savannah Film Festival",
-    "summary": "The vibrant monochrome look was put together by Mirren's stylist Lee Harris.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/helen-mirren-martin-grant-bottega-veneta-savannah-film-fest-1239385460/",
-    "image_url": null,
-    "published_at": "2026-10-25T18:22:55.000Z"
   }
 ]

@@ -1,5 +1,245 @@
 [
   {
+    "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "image_url": null,
+    "published_at": "2026-10-31T01:20:05.000Z"
+  },
+  {
+    "headline": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+    "image_url": null,
+    "published_at": "2026-10-30T23:21:23.000Z"
+  },
+  {
+    "headline": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "image_url": null,
+    "published_at": "2026-10-30T22:56:13.000Z"
+  },
+  {
+    "headline": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "image_url": null,
+    "published_at": "2026-10-30T22:32:53.000Z"
+  },
+  {
+    "headline": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "image_url": null,
+    "published_at": "2026-10-30T21:54:34.000Z"
+  },
+  {
+    "headline": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "image_url": null,
+    "published_at": "2026-10-30T21:52:03.000Z"
+  },
+  {
+    "headline": "Applebee’s exposed customers’ personal data after leaving database password in app",
+    "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+    "image_url": null,
+    "published_at": "2026-10-30T21:48:53.000Z"
+  },
+  {
+    "headline": "Last-minute Halloween costumes for tech nerds",
+    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "image_url": null,
+    "published_at": "2026-10-30T21:26:59.000Z"
+  },
+  {
+    "headline": "Cracks are emerging in the AI spending boom",
+    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "image_url": null,
+    "published_at": "2026-10-30T21:17:40.000Z"
+  },
+  {
+    "headline": "Exclusive details about Akai’s MPC Sample Key",
+    "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of the upcoming instr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+    "image_url": null,
+    "published_at": "2026-10-30T21:01:32.000Z"
+  },
+  {
+    "headline": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want loc…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "image_url": null,
+    "published_at": "2026-10-30T20:48:43.000Z"
+  },
+  {
+    "headline": "The biggest names in AI are backing a new way to opt out of scraping",
+    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "image_url": null,
+    "published_at": "2026-10-30T20:26:10.000Z"
+  },
+  {
+    "headline": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+    "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+    "image_url": null,
+    "published_at": "2026-10-30T19:55:13.000Z"
+  },
+  {
+    "headline": "Google&#8217;s satellite AI server transmits its first response to Earth",
+    "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Dat…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "image_url": null,
+    "published_at": "2026-10-30T18:21:38.000Z"
+  },
+  {
+    "headline": "Satlyt takes another step toward turning satellites into space data centers",
+    "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+    "image_url": null,
+    "published_at": "2026-10-30T18:01:24.000Z"
+  },
+  {
+    "headline": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "image_url": null,
+    "published_at": "2026-10-30T17:47:12.000Z"
+  },
+  {
+    "headline": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make paymen…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+    "image_url": null,
+    "published_at": "2026-10-30T17:38:04.000Z"
+  },
+  {
+    "headline": "The delightfully messy state of Apple gadgets",
+    "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+    "image_url": null,
+    "published_at": "2026-10-30T17:25:20.000Z"
+  },
+  {
+    "headline": "Rivian’s autonomy gamble faces its first real test",
+    "summary": "Rivian founder and CEO RJ Scaringe (left) watches Rivian R2s being built after an event at the Rivian assembly plant on May 19th, 2026, in Normal, Illinois. | Photo: Scott Olson / Getty Images During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the al…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+    "image_url": null,
+    "published_at": "2026-10-30T17:16:09.000Z"
+  },
+  {
+    "headline": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+    "summary": "Walmart’s inexpensive Vizio produces a nice, bright image, though its black levels aren’t that deep. | Photo: John Higgins / The Verge Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Qu…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-30T17:01:07.000Z"
+  },
+  {
+    "headline": "Google’s first data center satellite is online and writing poetry",
+    "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "image_url": null,
+    "published_at": "2026-10-30T17:00:00.000Z"
+  },
+  {
+    "headline": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "image_url": null,
+    "published_at": "2026-10-30T16:03:45.000Z"
+  },
+  {
+    "headline": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+    "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-tim…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+    "image_url": null,
+    "published_at": "2026-10-30T15:29:02.000Z"
+  },
+  {
+    "headline": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+    "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+    "image_url": null,
+    "published_at": "2026-10-30T14:00:25.000Z"
+  },
+  {
+    "headline": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second fo…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "image_url": null,
+    "published_at": "2026-10-30T14:00:00.000Z"
+  },
+  {
+    "headline": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "summary": "DoorDash said that it is open to working with third-party agent makers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "image_url": null,
+    "published_at": "2026-10-30T13:54:25.000Z"
+  },
+  {
+    "headline": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "image_url": null,
+    "published_at": "2026-10-30T13:00:00.000Z"
+  },
+  {
+    "headline": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+    "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+    "image_url": null,
+    "published_at": "2026-10-30T13:00:00.000Z"
+  },
+  {
+    "headline": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+    "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+    "image_url": null,
+    "published_at": "2026-10-30T07:01:00.000Z"
+  },
+  {
+    "headline": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "image_url": null,
+    "published_at": "2026-10-30T01:20:48.000Z"
+  },
+  {
     "headline": "Amazon reported booming cloud revenue but otherwise missed expectations",
     "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
     "publisher": "TechCrunch",
@@ -1358,245 +1598,5 @@
     "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
     "image_url": null,
     "published_at": "2026-10-23T17:00:18.000Z"
-  },
-  {
-    "headline": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-    "image_url": null,
-    "published_at": "2026-10-23T16:52:55.000Z"
-  },
-  {
-    "headline": "The first broken iPhone Duos are here",
-    "summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange bright line (or lines) acr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-    "image_url": null,
-    "published_at": "2026-10-23T16:37:03.000Z"
-  },
-  {
-    "headline": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-    "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-    "image_url": null,
-    "published_at": "2026-10-23T16:26:29.000Z"
-  },
-  {
-    "headline": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-    "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-    "image_url": null,
-    "published_at": "2026-10-23T16:20:28.000Z"
-  },
-  {
-    "headline": "What some of Anthropic’s backers are worth before its IPO",
-    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-    "image_url": null,
-    "published_at": "2026-10-23T16:02:43.000Z"
-  },
-  {
-    "headline": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
-    "summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 1…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-    "image_url": null,
-    "published_at": "2026-10-23T15:24:45.000Z"
-  },
-  {
-    "headline": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-    "summary": "SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX access t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
-    "image_url": null,
-    "published_at": "2026-10-23T15:16:24.000Z"
-  },
-  {
-    "headline": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-    "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-    "image_url": null,
-    "published_at": "2026-10-23T15:00:09.000Z"
-  },
-  {
-    "headline": "Meta delays new business terms after publisher pushback on AI scraping",
-    "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-    "image_url": null,
-    "published_at": "2026-10-23T14:47:41.000Z"
-  },
-  {
-    "headline": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
-    "summary": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer battery life. But this time around, Sigma is on…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
-    "image_url": null,
-    "published_at": "2026-10-23T14:42:46.000Z"
-  },
-  {
-    "headline": "Our best tips for using the iPhone Duo",
-    "summary": "It’s been a long time since we had to rethink how to use an iPhone. | Photo: Amelia Holowaty Krales / The Verge The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-    "image_url": null,
-    "published_at": "2026-10-23T14:00:00.000Z"
-  },
-  {
-    "headline": "Apple revives the original iPod as an Apple Music easter egg",
-    "summary": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's \"Viva La V…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
-    "image_url": null,
-    "published_at": "2026-10-23T13:58:43.000Z"
-  },
-  {
-    "headline": "People are vibe coding their way to better TVs",
-    "summary": "Just imagine… a nice, clean homescreen with no ads, thanks to Claude. | Image: cleanyourtv Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of thei…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
-    "image_url": null,
-    "published_at": "2026-10-23T13:00:00.000Z"
-  },
-  {
-    "headline": "Retro gaming is being overrun with AI",
-    "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyis…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-    "image_url": null,
-    "published_at": "2026-10-23T12:00:00.000Z"
-  },
-  {
-    "headline": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
-    "summary": "The Warhound website calls this “a new breed of dominance.” | Image: Warhound A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
-    "image_url": null,
-    "published_at": "2026-10-23T10:58:03.000Z"
-  },
-  {
-    "headline": "No, the iPhone Duo isn’t a small phone",
-    "summary": "Don’t be fooled; only one of these is a truly small phone (it’s the iPhone 13 Mini on the left). When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-    "image_url": null,
-    "published_at": "2026-10-23T10:00:00.000Z"
-  },
-  {
-    "headline": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-    "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-    "image_url": null,
-    "published_at": "2026-10-23T04:22:57.000Z"
-  },
-  {
-    "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "image_url": null,
-    "published_at": "2026-10-23T04:00:00.000Z"
-  },
-  {
-    "headline": "Left alone with nothing to do, AI agents started playing",
-    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "image_url": null,
-    "published_at": "2026-10-23T00:45:37.000Z"
-  },
-  {
-    "headline": "Etsy is cracking down on AI slop listings",
-    "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use AI…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-    "image_url": null,
-    "published_at": "2026-10-23T00:09:58.000Z"
-  },
-  {
-    "headline": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-    "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-    "image_url": null,
-    "published_at": "2026-10-22T23:50:41.000Z"
-  },
-  {
-    "headline": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-    "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-    "image_url": null,
-    "published_at": "2026-10-22T23:15:00.000Z"
-  },
-  {
-    "headline": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-    "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the \"crackdow…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
-    "image_url": null,
-    "published_at": "2026-10-22T23:02:43.000Z"
-  },
-  {
-    "headline": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-    "summary": "An Xbox Elite controller. | Photo by Antonio G. Di Benedetto / The Verge Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
-    "image_url": null,
-    "published_at": "2026-10-22T23:00:00.000Z"
-  },
-  {
-    "headline": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-    "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-    "image_url": null,
-    "published_at": "2026-10-22T22:34:54.000Z"
-  },
-  {
-    "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "image_url": null,
-    "published_at": "2026-10-22T22:08:24.000Z"
-  },
-  {
-    "headline": "Canva’s first AI image model plans designs before generating them",
-    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-    "image_url": null,
-    "published_at": "2026-10-22T21:51:25.000Z"
-  },
-  {
-    "headline": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-    "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-    "image_url": null,
-    "published_at": "2026-10-22T21:30:39.000Z"
-  },
-  {
-    "headline": "Fall 2026 earnings watch",
-    "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next. Sure, let’s…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-    "image_url": null,
-    "published_at": "2026-10-22T21:15:16.000Z"
-  },
-  {
-    "headline": "Rivian buys world model startup to accelerate self-driving ambitions",
-    "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-    "image_url": null,
-    "published_at": "2026-10-22T21:05:05.000Z"
   }
 ]
