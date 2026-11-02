@@ -1,5 +1,125 @@
 [
   {
+    "headline": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "image_url": null,
+    "published_at": "2026-11-01T21:55:23.000Z"
+  },
+  {
+    "headline": "NASA hopes the commercial space industry can help save Hubble",
+    "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from the private sect…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+    "image_url": null,
+    "published_at": "2026-11-01T21:09:21.000Z"
+  },
+  {
+    "headline": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "image_url": null,
+    "published_at": "2026-11-01T20:57:58.000Z"
+  },
+  {
+    "headline": "Flock keeps ignoring requests to cancel its contracts",
+    "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+    "image_url": null,
+    "published_at": "2026-11-01T19:58:02.000Z"
+  },
+  {
+    "headline": "Apple’s HomeView could add security camera features",
+    "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that e…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+    "image_url": null,
+    "published_at": "2026-11-01T17:16:07.000Z"
+  },
+  {
+    "headline": "TechCrunch Mobility: A new, bigger AV boom is here",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+    "image_url": null,
+    "published_at": "2026-11-01T17:04:00.000Z"
+  },
+  {
+    "headline": "Binance resumes withdrawals following $6.3 billion breach",
+    "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+    "image_url": null,
+    "published_at": "2026-11-01T16:20:10.000Z"
+  },
+  {
+    "headline": "A fully playable version of Portal prequel F-Stop leaked",
+    "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nea…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+    "image_url": null,
+    "published_at": "2026-11-01T16:19:21.000Z"
+  },
+  {
+    "headline": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+    "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+    "image_url": null,
+    "published_at": "2026-11-01T15:00:00.000Z"
+  },
+  {
+    "headline": "North Korea linked to massive Binance crypto heist",
+    "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered f…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+    "image_url": null,
+    "published_at": "2026-11-01T14:33:11.000Z"
+  },
+  {
+    "headline": "HomePod Mini 2 first look: Three things I love and one disappointment",
+    "summary": "Apple’s second-generation HomePod Mini is a nice upgrade, but the biggest improvement hasn’t arrived yet. | Photo: Jennifer Pattison Tuohy / The Verge When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-lev…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+    "image_url": null,
+    "published_at": "2026-11-01T14:00:00.000Z"
+  },
+  {
+    "headline": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+    "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+    "image_url": null,
+    "published_at": "2026-11-01T14:00:00.000Z"
+  },
+  {
+    "headline": "New Zelda and GTA represent a games industry that no longer exists",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two biggest games of 2026 are…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+    "image_url": null,
+    "published_at": "2026-11-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Prop 45 in California could be hiding a loophole for data centers",
+    "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+    "image_url": null,
+    "published_at": "2026-11-01T13:00:00.000Z"
+  },
+  {
+    "headline": "Data centers are now a midterm issue, even in Brooklyn",
+    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "image_url": null,
+    "published_at": "2026-11-01T02:22:10.000Z"
+  },
+  {
     "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
     "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
     "publisher": "TechCrunch",
@@ -24,7 +144,7 @@
     "published_at": "2026-10-31T21:17:03.000Z"
   },
   {
-    "headline": "Get in the spirit with these horrors from YouTube",
+    "headline": "Get in the spooky spirit with these horrors from YouTube",
     "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic…",
     "publisher": "The Verge",
     "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
@@ -1478,125 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
     "image_url": null,
     "published_at": "2026-10-24T20:46:34.000Z"
-  },
-  {
-    "headline": "Will AI expose the rickety infrastructure of the internet?",
-    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "image_url": null,
-    "published_at": "2026-10-24T20:15:33.000Z"
-  },
-  {
-    "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "image_url": null,
-    "published_at": "2026-10-24T19:00:00.000Z"
-  },
-  {
-    "headline": "Pennsylvania will require labels on AI-generated ads",
-    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "image_url": null,
-    "published_at": "2026-10-24T18:32:21.000Z"
-  },
-  {
-    "headline": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "summary": "Instacart might sell itself to a larger competitor.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-    "image_url": null,
-    "published_at": "2026-10-24T16:30:00.000Z"
-  },
-  {
-    "headline": "Block’s new voice model sounds eerily human",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "image_url": null,
-    "published_at": "2026-10-24T16:00:00.000Z"
-  },
-  {
-    "headline": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-    "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-    "image_url": null,
-    "published_at": "2026-10-24T15:30:00.000Z"
-  },
-  {
-    "headline": "These clever apps show off the iPhone Duo’s potential",
-    "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-    "image_url": null,
-    "published_at": "2026-10-24T15:00:00.000Z"
-  },
-  {
-    "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "image_url": null,
-    "published_at": "2026-10-24T15:00:00.000Z"
-  },
-  {
-    "headline": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-    "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on the genre was restless…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-    "image_url": null,
-    "published_at": "2026-10-24T15:00:00.000Z"
-  },
-  {
-    "headline": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-    "summary": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars thr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-24T15:00:00.000Z"
-  },
-  {
-    "headline": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-    "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-    "image_url": null,
-    "published_at": "2026-10-24T14:15:00.000Z"
-  },
-  {
-    "headline": "What to expect from Apple’s ‘Pro and tell’ event",
-    "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. While obvio…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-    "image_url": null,
-    "published_at": "2026-10-24T14:15:00.000Z"
-  },
-  {
-    "headline": "Here are the top AI agents that can live in your text messages",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "image_url": null,
-    "published_at": "2026-10-24T14:00:00.000Z"
-  },
-  {
-    "headline": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-    "summary": "The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me th…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-    "image_url": null,
-    "published_at": "2026-10-24T14:00:00.000Z"
-  },
-  {
-    "headline": "Lee Chang Dong ponders the ethics of the camera",
-    "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor or religion or compre…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-    "image_url": null,
-    "published_at": "2026-10-24T12:30:00.000Z"
   }
 ]
