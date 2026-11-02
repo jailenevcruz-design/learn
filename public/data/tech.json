@@ -1,5 +1,221 @@
 [
   {
+    "headline": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+    "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using its built-in GPS navi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+    "image_url": null,
+    "published_at": "2026-11-02T20:03:52.000Z"
+  },
+  {
+    "headline": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+    "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+    "image_url": null,
+    "published_at": "2026-11-02T19:45:54.000Z"
+  },
+  {
+    "headline": "Web host Squarespace lays off 19% of its employees",
+    "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "image_url": null,
+    "published_at": "2026-11-02T19:25:59.000Z"
+  },
+  {
+    "headline": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+    "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low price. Apple Watch Ult…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+    "image_url": null,
+    "published_at": "2026-11-02T19:24:09.000Z"
+  },
+  {
+    "headline": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "image_url": null,
+    "published_at": "2026-11-02T19:19:17.000Z"
+  },
+  {
+    "headline": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+    "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+    "image_url": null,
+    "published_at": "2026-11-02T19:11:49.000Z"
+  },
+  {
+    "headline": "Ford promises not to sell your driving habits to data brokers",
+    "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will st…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+    "image_url": null,
+    "published_at": "2026-11-02T19:05:46.000Z"
+  },
+  {
+    "headline": "Anthropic clamps down on Claude’s AI video game clones",
+    "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make game…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "image_url": null,
+    "published_at": "2026-11-02T18:56:02.000Z"
+  },
+  {
+    "headline": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
+    "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha S…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+    "image_url": null,
+    "published_at": "2026-11-02T18:43:24.000Z"
+  },
+  {
+    "headline": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announceme…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "image_url": null,
+    "published_at": "2026-11-02T18:01:30.000Z"
+  },
+  {
+    "headline": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+    "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+    "image_url": null,
+    "published_at": "2026-11-02T17:54:11.000Z"
+  },
+  {
+    "headline": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "image_url": null,
+    "published_at": "2026-11-02T17:51:19.000Z"
+  },
+  {
+    "headline": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+    "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+    "image_url": null,
+    "published_at": "2026-11-02T17:49:41.000Z"
+  },
+  {
+    "headline": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
+    "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been finished for around two years,\" but that the software isn't ready. The device's software team has reportedly pushed to delay…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+    "image_url": null,
+    "published_at": "2026-11-02T17:06:10.000Z"
+  },
+  {
+    "headline": "Squarespace is laying off 19 percent of employees",
+    "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts will affect around 300 of Squarespace's 1,800 employees. \"The changes are intended to simplify how we operate…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+    "image_url": null,
+    "published_at": "2026-11-02T16:50:47.000Z"
+  },
+  {
+    "headline": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+    "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+    "image_url": null,
+    "published_at": "2026-11-02T16:44:48.000Z"
+  },
+  {
+    "headline": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "image_url": null,
+    "published_at": "2026-11-02T16:30:00.000Z"
+  },
+  {
+    "headline": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "image_url": null,
+    "published_at": "2026-11-02T16:23:21.000Z"
+  },
+  {
+    "headline": "Why Peacock is making a huge bet on YouTube",
+    "summary": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait. First, about a month after…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+    "image_url": null,
+    "published_at": "2026-11-02T16:00:00.000Z"
+  },
+  {
+    "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "image_url": null,
+    "published_at": "2026-11-02T15:00:00.000Z"
+  },
+  {
+    "headline": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+    "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+    "image_url": null,
+    "published_at": "2026-11-02T14:42:38.000Z"
+  },
+  {
+    "headline": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+    "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+    "image_url": null,
+    "published_at": "2026-11-02T14:22:35.000Z"
+  },
+  {
+    "headline": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+    "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+    "image_url": null,
+    "published_at": "2026-11-02T14:08:52.000Z"
+  },
+  {
+    "headline": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "image_url": null,
+    "published_at": "2026-11-02T14:00:00.000Z"
+  },
+  {
+    "headline": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "image_url": null,
+    "published_at": "2026-11-02T13:57:53.000Z"
+  },
+  {
+    "headline": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+    "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+    "image_url": null,
+    "published_at": "2026-11-02T11:00:00.000Z"
+  },
+  {
+    "headline": "Borrowed reading: stories from our extended colleagues",
+    "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+    "image_url": null,
+    "published_at": "2026-11-02T04:23:48.000Z"
+  },
+  {
     "headline": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
     "summary": "Data centers are deeply unpopular. But what if we called them something else?",
     "publisher": "TechCrunch",
@@ -1382,221 +1598,5 @@
     "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
     "image_url": null,
     "published_at": "2026-10-26T17:30:55.000Z"
-  },
-  {
-    "headline": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
-    "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo is affe…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-    "image_url": null,
-    "published_at": "2026-10-26T17:28:07.000Z"
-  },
-  {
-    "headline": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
-    "summary": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better va…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-26T17:25:34.000Z"
-  },
-  {
-    "headline": "Five weird details from Anthropic’s IPO filing",
-    "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to unpack, and som…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-    "image_url": null,
-    "published_at": "2026-10-26T17:10:23.000Z"
-  },
-  {
-    "headline": "Everything old is new again with the Fitbit Edge",
-    "summary": "The bezels aren’t that noticeable with other watchfaces, but some things don’t change. Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've do…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
-    "image_url": null,
-    "published_at": "2026-10-26T17:00:00.000Z"
-  },
-  {
-    "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "image_url": null,
-    "published_at": "2026-10-26T16:49:42.000Z"
-  },
-  {
-    "headline": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "image_url": null,
-    "published_at": "2026-10-26T16:46:36.000Z"
-  },
-  {
-    "headline": "Microsoft offers buyouts to around 60,000 employees",
-    "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-    "image_url": null,
-    "published_at": "2026-10-26T15:58:25.000Z"
-  },
-  {
-    "headline": "Anthropic officially files for its public debut",
-    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "image_url": null,
-    "published_at": "2026-10-26T14:35:22.000Z"
-  },
-  {
-    "headline": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-    "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-    "image_url": null,
-    "published_at": "2026-10-26T14:25:43.000Z"
-  },
-  {
-    "headline": "Matiks raises $10M to expand its math and puzzle gaming platform",
-    "summary": "Matiks has introduced a new platform for users to create games using AI.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-    "image_url": null,
-    "published_at": "2026-10-26T14:08:04.000Z"
-  },
-  {
-    "headline": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
-    "summary": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-    "image_url": null,
-    "published_at": "2026-10-26T12:58:40.000Z"
-  },
-  {
-    "headline": "The best apps for tracking your reading and discovering new books",
-    "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-    "image_url": null,
-    "published_at": "2026-10-26T01:10:00.000Z"
-  },
-  {
-    "headline": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
-    "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the site has given t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-    "image_url": null,
-    "published_at": "2026-10-25T21:40:27.000Z"
-  },
-  {
-    "headline": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "image_url": null,
-    "published_at": "2026-10-25T21:31:16.000Z"
-  },
-  {
-    "headline": "Scott Walker’s The Drift will get under your skin",
-    "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
-    "image_url": null,
-    "published_at": "2026-10-25T21:08:09.000Z"
-  },
-  {
-    "headline": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-    "summary": "\"That's a 12-year-old view of the world.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-    "image_url": null,
-    "published_at": "2026-10-25T20:20:08.000Z"
-  },
-  {
-    "headline": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
-    "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
-    "image_url": null,
-    "published_at": "2026-10-25T20:16:19.000Z"
-  },
-  {
-    "headline": "Zen Browser is the Arc replacement I was looking for",
-    "summary": "Launcher-like pinned tabs, pop-over glance view, and more make Zen my go to browser. | Image: Zen Browser I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shif…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-    "image_url": null,
-    "published_at": "2026-10-25T19:24:50.000Z"
-  },
-  {
-    "headline": "This Switch 2 sequel accessory was a few millimeters away from being good",
-    "summary": "The stick and face buttons are too close for comfort. | Photo: Cameron Faulkner / The Verge The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro De…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
-    "image_url": null,
-    "published_at": "2026-10-25T17:00:00.000Z"
-  },
-  {
-    "headline": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "image_url": null,
-    "published_at": "2026-10-25T16:57:32.000Z"
-  },
-  {
-    "headline": "Now you can watch Instagram Reels on your Apple TV",
-    "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features for t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-    "image_url": null,
-    "published_at": "2026-10-25T16:20:17.000Z"
-  },
-  {
-    "headline": "TechCrunch Mobility: Blue-green is the color of autonomy",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-    "image_url": null,
-    "published_at": "2026-10-25T16:05:00.000Z"
-  },
-  {
-    "headline": "The hottest AI wearables and gadgets you should know about",
-    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "image_url": null,
-    "published_at": "2026-10-25T14:10:00.000Z"
-  },
-  {
-    "headline": "r/opensource just banned AI, non-English speakers, and more",
-    "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source communi…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "image_url": null,
-    "published_at": "2026-10-25T13:25:32.000Z"
-  },
-  {
-    "headline": "Google’s AI search changes upended online publishing",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on Googl…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "image_url": null,
-    "published_at": "2026-10-25T12:00:00.000Z"
-  },
-  {
-    "headline": "Blue Planet III is keeping the rough edges in the age of AI",
-    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To cou…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "image_url": null,
-    "published_at": "2026-10-24T21:29:12.000Z"
-  },
-  {
-    "headline": "Starlink seems to be working normally again in Ukraine",
-    "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-    "image_url": null,
-    "published_at": "2026-10-24T20:46:34.000Z"
   }
 ]

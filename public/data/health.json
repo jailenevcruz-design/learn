@@ -1,5 +1,13 @@
 [
   {
+    "headline": "How does this fluoride-free toothpaste compare when it comes to oral health?",
+    "summary": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
+    "image_url": null,
+    "published_at": "2026-11-02T10:00:00.000Z"
+  },
+  {
     "headline": "Do you know signs of a stroke? BE FAST are the words to remember",
     "summary": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
     "publisher": "NPR",
@@ -32,12 +40,20 @@
     "published_at": "2026-11-01T09:00:00.000Z"
   },
   {
-    "headline": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+    "headline": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs, rugs!",
     "summary": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
     "image_url": null,
     "published_at": "2026-10-31T11:56:10.000Z"
+  },
+  {
+    "headline": "A lot of Floridians lost their healthcare this year. Now, they're heading to the polls",
+    "summary": "When federal subsidies for Affordable Care Act health insurance expired last year, Florida was hit particularly hard. Now, as the election and open enrollment coincide, healthcare is a major issue.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-5995422/2026-midterms-florida-healthcare-aca",
+    "image_url": null,
+    "published_at": "2026-10-31T11:46:45.000Z"
   },
   {
     "headline": "Do you have seasonal affective disorder? How to tell — and what to do about it",
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
     "image_url": null,
     "published_at": "2026-08-24T21:17:31.000Z"
-  },
-  {
-    "headline": "High-intensity sprints can trigger molecular changes in the bloodstream",
-    "summary": "A new study finds that an all-out sprint may have unique benefits when it comes to the proteins and tiny molecules in your bloodstream.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
-    "image_url": null,
-    "published_at": "2026-08-24T08:45:44.000Z"
-  },
-  {
-    "headline": "High-intensity sprints can trigger molecular changes in the bloodstream",
-    "summary": "Scientists are increasingly interested in how different exercise intensities can trigger different responses, all the way down to the proteins and tiny molecules in our bloodstream. A new study finds that an all out sprint may have unique benefits. Will Stone for Monday health segment and digital.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5939943/high-intensity-sprints-can-trigger-molecular-changes-in-the-bloodstream",
-    "image_url": null,
-    "published_at": "2026-08-24T08:45:44.000Z"
   }
 ]
