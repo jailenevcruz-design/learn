@@ -1,11 +1,67 @@
 [
   {
-    "headline": "Trump focuses on Reflecting Pool in final public speech before midterms",
-    "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
+    "headline": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
+    "summary": "Employees describing jobs as 'remote' are now often in-office, as companies fail to create the collaboration they claim is critical, NY Fed research shows.",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+    "url": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
     "image_url": null,
-    "published_at": "2026-11-02T20:29:00.000Z"
+    "published_at": "2026-11-03T02:31:00.000Z"
+  },
+  {
+    "headline": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+    "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+    "image_url": null,
+    "published_at": "2026-11-03T02:17:10.000Z"
+  },
+  {
+    "headline": "North Korea denies links to Binance hack as researchers trace stolen billions",
+    "summary": "North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+    "image_url": null,
+    "published_at": "2026-11-03T01:52:28.000Z"
+  },
+  {
+    "headline": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+    "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+    "image_url": null,
+    "published_at": "2026-11-03T01:32:13.000Z"
+  },
+  {
+    "headline": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
+    "summary": "While technology stocks have come under pressure in recent weeks, consumer stocks have been resilient.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
+    "image_url": null,
+    "published_at": "2026-11-02T23:54:27.000Z"
+  },
+  {
+    "headline": "Stock market after midterm elections: What S&P 500 history shows",
+    "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "image_url": null,
+    "published_at": "2026-11-02T23:13:34.000Z"
+  },
+  {
+    "headline": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
+    "summary": "The U.S. chipmaker's humanoid robot systems feature mechanical hands from China-linked startups.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
+    "image_url": null,
+    "published_at": "2026-11-02T23:00:01.000Z"
+  },
+  {
+    "headline": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+    "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+    "image_url": null,
+    "published_at": "2026-11-02T22:53:20.000Z"
   },
   {
     "headline": "Intel foundry push faces critical test after stock's 45% plunge in October",
@@ -13,7 +69,63 @@
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
     "image_url": null,
-    "published_at": "2026-11-02T20:20:34.000Z"
+    "published_at": "2026-11-02T21:59:48.000Z"
+  },
+  {
+    "headline": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
+    "summary": "Kimberly-Clark has a plan improve growth and earnings following its acquisition of Kenvue",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
+    "image_url": null,
+    "published_at": "2026-11-02T21:35:06.000Z"
+  },
+  {
+    "headline": "Trump focuses on Reflecting Pool in final public speech before midterms",
+    "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+    "image_url": null,
+    "published_at": "2026-11-02T21:15:13.000Z"
+  },
+  {
+    "headline": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+    "image_url": null,
+    "published_at": "2026-11-02T21:13:43.000Z"
+  },
+  {
+    "headline": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+    "summary": "Oracle filed plans on Monday to issue new shares and more debt to finance its artificial intelligence buildout.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "image_url": null,
+    "published_at": "2026-11-02T21:10:34.000Z"
+  },
+  {
+    "headline": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+    "summary": "The AI infrastructure deal is expected to close during the first half of 2028.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+    "image_url": null,
+    "published_at": "2026-11-02T21:00:59.000Z"
+  },
+  {
+    "headline": "I bonds now pay 5.51% — but there are trade-offs. What to know before buying",
+    "summary": "I bonds are now paying 5.51%. Here are some key things to know before investing, according to financial experts.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
+    "image_url": null,
+    "published_at": "2026-11-02T20:57:50.000Z"
+  },
+  {
+    "headline": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
+    "summary": "Just a day before the midterms, Kalshi traders give Democrats a 74% chance of controlling the Senate.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
+    "image_url": null,
+    "published_at": "2026-11-02T20:48:21.000Z"
   },
   {
     "headline": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
@@ -30,22 +142,6 @@
     "url": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
     "image_url": null,
     "published_at": "2026-11-02T19:46:47.000Z"
-  },
-  {
-    "headline": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
-    "summary": "The Department of Justice's request to the Supreme Court in the California case comes as it appeals dismissal of a lawsuit over Alaska's Senate election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-    "image_url": null,
-    "published_at": "2026-11-02T19:38:58.000Z"
-  },
-  {
-    "headline": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-    "summary": "The AI infrastructure deal is expected to close during the first half of 2028.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-    "image_url": null,
-    "published_at": "2026-11-02T19:32:15.000Z"
   },
   {
     "headline": "Fed will vote on rates less often. What that could mean for borrowers",
@@ -72,28 +168,12 @@
     "published_at": "2026-11-02T19:15:55.000Z"
   },
   {
-    "headline": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
-    "summary": "Just a day before the midterms, Kalshi traders give Democrats a 74% of controlling the Senate.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
-    "image_url": null,
-    "published_at": "2026-11-02T19:15:26.000Z"
-  },
-  {
     "headline": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
     "summary": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
     "image_url": null,
     "published_at": "2026-11-02T18:59:48.000Z"
-  },
-  {
-    "headline": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-    "image_url": null,
-    "published_at": "2026-11-02T18:54:04.000Z"
   },
   {
     "headline": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
@@ -118,22 +198,6 @@
     "url": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
     "image_url": null,
     "published_at": "2026-11-02T18:16:02.000Z"
-  },
-  {
-    "headline": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-    "summary": "Oracle filed plans on Monday to issue new shares and more debt to finance its artificial intelligence buildout.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "image_url": null,
-    "published_at": "2026-11-02T18:09:26.000Z"
-  },
-  {
-    "headline": "Stock market after midterm elections: What S&P 500 history shows",
-    "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "image_url": null,
-    "published_at": "2026-11-02T17:57:35.000Z"
   },
   {
     "headline": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
@@ -1534,69 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
     "image_url": null,
     "published_at": "2026-10-27T23:03:09.000Z"
-  },
-  {
-    "headline": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-    "summary": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-    "image_url": null,
-    "published_at": "2026-10-27T22:35:25.000Z"
-  },
-  {
-    "headline": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
-    "summary": "CNBC’s Jim Cramer warned that the latest rally in AI stocks doesn't mean the data center trade is out of the woods.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
-    "image_url": null,
-    "published_at": "2026-10-27T22:24:19.000Z"
-  },
-  {
-    "headline": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
-    "summary": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
-    "image_url": null,
-    "published_at": "2026-10-27T22:18:59.000Z"
-  },
-  {
-    "headline": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
-    "summary": "Credit markets will be closely watching updates from Oracle and other hyperscalers later this week. What to expect.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
-    "image_url": null,
-    "published_at": "2026-10-27T21:58:48.000Z"
-  },
-  {
-    "headline": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
-    "summary": "The federal agency had previously investigated whether Polymarket allowed U.S. users on to its offshore platform in 2024, but dropped the measures in July 2025.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
-    "image_url": null,
-    "published_at": "2026-10-27T21:24:06.000Z"
-  },
-  {
-    "headline": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
-    "summary": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
-    "image_url": null,
-    "published_at": "2026-10-27T21:15:35.000Z"
-  },
-  {
-    "headline": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-    "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-    "image_url": null,
-    "published_at": "2026-10-27T21:12:55.000Z"
-  },
-  {
-    "headline": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
-    "summary": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-10-27T21:07:51.000Z"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Coal no longer king in Navajo Nation presidential election",
+    "summary": "For the first time in decades, there's no pro-coal candidate for Navajo Nation president. Coal has been an important part of the economy, but voter sentiment is changing.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/02/nx-s1-6019547/coal-no-longer-king-in-navajo-nation-presidential-election",
+    "image_url": null,
+    "published_at": "2026-11-03T00:15:25.000Z"
+  },
+  {
+    "headline": "Trump offered a closing message to voters by touting his D.C. renovations",
+    "summary": "In Washington, President Trump delivered his last expected public address, pushing a weaving message to the public about why they should support Republicans.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/02/nx-s1-6026399/trump-offered-a-closing-message-to-voters-by-touting-his-d-c-renovations",
+    "image_url": null,
+    "published_at": "2026-11-02T23:35:51.000Z"
+  },
+  {
     "headline": "AI chatbots are becoming political advisers. Their answers can mislead voters",
     "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
     "publisher": "NPR",
@@ -24,8 +40,8 @@
     "published_at": "2026-11-02T18:54:01.000Z"
   },
   {
-    "headline": "DOJ asks for Supreme Court to intervene on California ballot demands",
-    "summary": "On the eve of the Nov. 3 election, the Trump administration is hoping the Supreme Court will reverse lower courts that rejected its request to order California to set aside the ballots of thousands of people it says are \"likely\" noncitizens.",
+    "headline": "The Supreme Court rejects a DOJ push to separate California ballots",
+    "summary": "The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state's voter rolls.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
     "image_url": null,
@@ -48,6 +64,14 @@
     "published_at": "2026-11-02T11:30:00.000Z"
   },
   {
+    "headline": "6 things to watch for on election night",
+    "summary": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+    "image_url": null,
+    "published_at": "2026-11-02T10:00:00.000Z"
+  },
+  {
     "headline": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
     "summary": "The districts that will decide control of the House and Senate next year are spread across the country. Voting officials in those places may face scrutiny and pressure they've never experienced.",
     "publisher": "NPR",
@@ -60,14 +84,6 @@
     "summary": "Vance's delivery is different from the president's but his speeches contain plenty of MAGA DNA.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-    "image_url": null,
-    "published_at": "2026-11-02T10:00:00.000Z"
-  },
-  {
-    "headline": "6 things to watch for on election night",
-    "summary": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
     "image_url": null,
     "published_at": "2026-11-02T10:00:00.000Z"
   },
@@ -1582,21 +1598,5 @@
     "url": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
     "image_url": null,
     "published_at": "2026-10-06T11:00:00.000Z"
-  },
-  {
-    "headline": "With 4 weeks to go, a look at where November's big races stand",
-    "summary": "Election Day is four weeks away and people are already voting in the 2026 midterms. Where do things stand in the big races across the country?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/nx-s1-5991678/with-4-weeks-to-go-a-look-at-where-novembers-big-races-stand",
-    "image_url": null,
-    "published_at": "2026-10-06T10:53:06.000Z"
-  },
-  {
-    "headline": "What challenges lie ahead for the Democratic Party as midterms approach",
-    "summary": "Democrats are feeling optimistic ahead of the midterms, but what challenges remain? NPR's A Martinez asks Devan Barber, who leads the Democratic Senatorial Campaign Committee.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/nx-s1-5991646/what-challenges-lie-ahead-for-the-democratic-party-as-midterms-approach",
-    "image_url": null,
-    "published_at": "2026-10-06T10:53:02.000Z"
   }
 ]
