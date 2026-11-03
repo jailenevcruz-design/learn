@@ -5,7 +5,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/sinead-odwyer",
     "image_url": null,
-    "published_at": "2026-11-03T02:39:13.000Z"
+    "published_at": "2026-11-03T10:05:05.000Z"
   },
   {
     "headline": "Lisa Folawiyo Lagos Spring 2027",
@@ -13,7 +13,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/lisa-folawiyo",
     "image_url": null,
-    "published_at": "2026-11-03T02:39:13.000Z"
+    "published_at": "2026-11-03T10:05:05.000Z"
   },
   {
     "headline": "Emmy Kasbit Lagos Spring 2027",
@@ -21,7 +21,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/emmy-kasbit",
     "image_url": null,
-    "published_at": "2026-11-03T02:39:13.000Z"
+    "published_at": "2026-11-03T10:05:05.000Z"
   },
   {
     "headline": "Fruché Lagos Spring 2027",
@@ -29,7 +29,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/fruche",
     "image_url": null,
-    "published_at": "2026-11-03T02:39:13.000Z"
+    "published_at": "2026-11-03T10:05:05.000Z"
   },
   {
     "headline": "Boyedoe Lagos Spring 2027",
@@ -37,7 +37,7 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/boyedoe",
     "image_url": null,
-    "published_at": "2026-11-03T02:39:13.000Z"
+    "published_at": "2026-11-03T10:05:05.000Z"
   },
   {
     "headline": "Kith Spring 2027 Ready-to-Wear",
@@ -45,15 +45,103 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/kith",
     "image_url": null,
-    "published_at": "2026-11-03T02:39:13.000Z"
+    "published_at": "2026-11-03T10:05:05.000Z"
   },
   {
-    "headline": "The Best Dressed Stars at the 2026 CFDA Awards",
-    "summary": "The red carpet was full of celebrities in the best of American fashion.",
+    "headline": "Hugo Boss Sales Drop 5% Amid Frasers Takeover",
+    "summary": "Hugo Boss sales continued to fall amid a protracted turnaround strategy and Fraser Group’s takeover of the company.",
     "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/the-best-dressed-stars-at-the-2026-cfda-awards",
+    "url": "https://www.vogue.com/article/hugo-boss-sales-drop-5-amid-frasers-takeover",
     "image_url": null,
-    "published_at": "2026-11-03T02:23:21.000Z"
+    "published_at": "2026-11-03T09:29:06.000Z"
+  },
+  {
+    "headline": "Zalando Revenue Rises 5.1% in Q3 as B2B Business Expands",
+    "summary": "The German company’s B2B division surged 28 percent while GMV rose 7.5 percent, with active customers and average spend also on the rise.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/zalando-q3-revenue-percent-b2b-business-expands-1239397820/",
+    "image_url": null,
+    "published_at": "2026-11-03T08:39:54.000Z"
+  },
+  {
+    "headline": "Hugo Boss Reports Ongoing Sales Drop in Q3, Lowers Guidance",
+    "summary": "The company now expects a high single-digit sales decline for the full year.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/https-wwd-com-business-news-financial-hugo-boss-q3-earnings-2026-sales-drop-guidance-down-1239395117/",
+    "image_url": null,
+    "published_at": "2026-11-03T08:35:00.000Z"
+  },
+  {
+    "headline": "Reju Wants to Build a Seawall Against Fashion’s Textile Waste Tsunami",
+    "summary": "With new recycling hubs and six mill partnerships, the French textile recycler is laying the groundwork for regenerated polyester at scale—but says brands must help pull the circular system into existence.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/sustainability/reju-textile-mill-partnership-1239397527/",
+    "image_url": null,
+    "published_at": "2026-11-03T06:00:00.000Z"
+  },
+  {
+    "headline": "Roxie Nafousi’s 5 Biggest Business Lessons From Closing Her Fragrance Brand",
+    "summary": "The manifestation expert thought her established following and personal development business would provide the foundations for a successful fragrance line. The reality of building a consumer business was far more complicated.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/roxie-nafousis-5-biggest-business-lessons-from-closing-her-fragrance-brand",
+    "image_url": null,
+    "published_at": "2026-11-03T05:30:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Nomasei Invites E.L.V. Denim as Guest in Second London Pop-up, Eyes Permanent Paris Store",
+    "summary": "The Notting Hill pop-up, running Nov. 12 to 22, is part of a broader move toward physical retail as the French brand continues its funding round.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-features/nomasei-london-pop-up-elv-denim-retail-expansion-1239395361/",
+    "image_url": null,
+    "published_at": "2026-11-03T05:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Whoop to Enter Ulta Beauty",
+    "summary": "The health tech company will launch its wearable fitness trackers online and in select stores in March 2027.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/wellness/whoop-ulta-launch-mg-5-0-wellness-tracker-1239396456/",
+    "image_url": null,
+    "published_at": "2026-11-03T05:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Burberry Taps Pierce Brosnan, Fiona Shaw and Wu Lei for Festive Campaign",
+    "summary": "Imagined as a gathering at Longleat House in Wiltshire, the cast also includes Dylan Brosnan, Cara Delevingne, Dwyane Wade, Gabrielle Union-Wade, Kim Min-ha, Nico Parker and Emma Thynn, Marchioness of Bath.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/burberry-festive-campaign-pierce-brosnan-fiona-shaw-wu-lei-1239395256/",
+    "image_url": null,
+    "published_at": "2026-11-03T05:01:00.000Z"
+  },
+  {
+    "headline": "Ralph Lauren Holiday Experience Expands to Seven Cities",
+    "summary": "The holiday installations will be centered around the Adirondacks and the beauty of the natural world.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/ralph-lauren-holiday-adirondacks-london-bloomingdales-selfridges-1239396295/",
+    "image_url": null,
+    "published_at": "2026-11-03T05:01:00.000Z"
+  },
+  {
+    "headline": "Phases Launches With Women-Focused Peptide Treatments",
+    "summary": "Phases, founded by husband-and-wife team Lana and Joseph Elie-Meyers, debuts with nine peptide-based treatments tailored to women’s health needs.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/wellness/phases-launches-women-focused-peptide-treatments-1239391316/",
+    "image_url": null,
+    "published_at": "2026-11-03T05:01:00.000Z"
+  },
+  {
+    "headline": "Belmond Enlists Tyler Mitchell, Chris Rhodes and Sarah Meister to Judge Photo Award",
+    "summary": "They will meet in New York this week to select the winner, who will be revealed during Paris Photo next week.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/belmond-tyler-mitchell-chris-rhodes-sarah-meister-photo-award-jury-1239396219/",
+    "image_url": null,
+    "published_at": "2026-11-03T05:01:00.000Z"
+  },
+  {
+    "headline": "Meet TikTok’s Top Creators in Makeup and Fragrance",
+    "summary": "Here, a look at the top 10 creators of all time by likes in each category, according to new data by Spate.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/tiktok-top-makeup-and-fragrance-creators-1239391151/",
+    "image_url": null,
+    "published_at": "2026-11-03T05:00:00.000Z"
   },
   {
     "headline": "And the Winner Is … See Who Walked Away With the Top Prizes at the 2026 CFDA Awards",
@@ -61,7 +149,15 @@
     "publisher": "Vogue",
     "url": "https://www.vogue.com/article/cfda-awards-2026-winners-honorees",
     "image_url": null,
-    "published_at": "2026-11-03T02:14:11.000Z"
+    "published_at": "2026-11-03T03:41:20.000Z"
+  },
+  {
+    "headline": "The Best Dressed Stars at the 2026 CFDA Awards",
+    "summary": "The red carpet was full of celebrities in the best of American fashion.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/the-best-dressed-stars-at-the-2026-cfda-awards",
+    "image_url": null,
+    "published_at": "2026-11-03T03:24:52.000Z"
   },
   {
     "headline": "Inside the 2026 CFDA Awards: Demi Moore, Hailey Bieber, Zoë Kravitz & More",
@@ -1502,101 +1598,5 @@
     "url": "https://www.vogue.com/article/hair-mask-for-frizz",
     "image_url": null,
     "published_at": "2026-10-28T18:28:00.000Z"
-  },
-  {
-    "headline": "Tai Garcia",
-    "summary": "Tai is Program Manager for CondéFuture",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/about-tai-garcia",
-    "image_url": null,
-    "published_at": "2026-10-28T18:23:36.000Z"
-  },
-  {
-    "headline": "J. Walter Doyle",
-    "summary": "Walt is Director, Education & Strategic Initiatives for Condé Nast",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/conde-future-j-walter-doyle",
-    "image_url": null,
-    "published_at": "2026-10-28T18:21:28.000Z"
-  },
-  {
-    "headline": "Anthony Vaccarello Before Saint Laurent: Vote on Your Favorite Look",
-    "summary": "Which of these 26 sizzling Vaccarellos will you choose?",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/anthony-vaccarello-before-saint-laurent-vote-on-your-favorite-look",
-    "image_url": null,
-    "published_at": "2026-10-28T18:11:24.000Z"
-  },
-  {
-    "headline": "Best Early Black Friday Deals Vogue Editors Are Shopping in 2026",
-    "summary": "From boots to cold-weather accessories, outerwear and denim, these are the early Black Friday deals Vogue editors have bookmarked.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-early-black-friday-deals-10-28-2026",
-    "image_url": null,
-    "published_at": "2026-10-28T17:49:15.000Z"
-  },
-  {
-    "headline": "38 Stunning Throwback Photos of a Young Julia Roberts",
-    "summary": "From her first Oscars with then-fiancé Kiefer Sutherland to goofing around with Cameron Diaz at the Golden Globes.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/31-throwback-photos-of-julia-roberts",
-    "image_url": null,
-    "published_at": "2026-10-28T17:00:00.000Z"
-  },
-  {
-    "headline": "12 Best Anti-Aging Serums For Smoother, Plumper Skin at Any Age",
-    "summary": "In choosing the best anti-aging serums, experts recommend incorporating not only SPF, but ingredients like retinol, peptides, and vitamin C. Shop our favorites here.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-anti-aging-serums",
-    "image_url": null,
-    "published_at": "2026-10-28T16:54:06.000Z"
-  },
-  {
-    "headline": "Heels Are So Back—But Do You Remember How to Wear Them?",
-    "summary": "With the power pumps of decades past now transformed by whimsical proportions, charming prints, and eccentric embellishments, training yourself to wear them properly has become the latest form of self-care.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/heels-are-so-back-but-do-you-remember-how-to-wear-them",
-    "image_url": null,
-    "published_at": "2026-10-28T16:53:42.000Z"
-  },
-  {
-    "headline": "Ready, Set, Dough! Vogue Editors on the Best Restaurants Near the NYC Marathon Route",
-    "summary": "Searching for the best restaurant or bakery for marathon day? Look no further.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/new-york-city-marathon-places-to-eat",
-    "image_url": null,
-    "published_at": "2026-10-28T16:50:04.000Z"
-  },
-  {
-    "headline": "CondéFuture in London",
-    "summary": "Find out more about our London program",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/condefuture-in-london",
-    "image_url": null,
-    "published_at": "2026-10-28T16:46:38.000Z"
-  },
-  {
-    "headline": "Boo! 84 Halloween Costume Ideas From the Vogue Runway Archive",
-    "summary": "Here some Halloween costume ideas, culled from the many collections that we have covered over the years.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/runway-to-halloween-costume-ideas",
-    "image_url": null,
-    "published_at": "2026-10-28T16:33:11.000Z"
-  },
-  {
-    "headline": "The 12 Best Handbags for Travel, From Roomy Totes to Structured Satchels",
-    "summary": "Heading on a trip? Pick up one of the best handbags for travel to accompany you, from roomy totes to elegant top-handles you can also use at your destination.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-handbags-travel",
-    "image_url": null,
-    "published_at": "2026-10-28T16:30:10.000Z"
-  },
-  {
-    "headline": "A Look Back at Julia Roberts’s Best Hair Moments of All Time",
-    "summary": "The Oscar-winning actor is celebrated for her million-dollar smile, but over the years, she’s proved that her shape-shifting mane will always make a statement.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/julia-roberts-hair-evolution-best-looks",
-    "image_url": null,
-    "published_at": "2026-10-28T16:12:47.000Z"
   }
 ]

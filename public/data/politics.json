@@ -1,5 +1,45 @@
 [
   {
+    "headline": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
+    "summary": "One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump",
+    "image_url": null,
+    "published_at": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "headline": "A new cold war: hackers target fridges across the globe",
+    "summary": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
+    "image_url": null,
+    "published_at": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "headline": "From 'model minority' to target, anti-Indian hate on the rise",
+    "summary": "A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise",
+    "image_url": null,
+    "published_at": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "headline": "How NPR makes race calls in the 2026 election",
+    "summary": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
+    "image_url": null,
+    "published_at": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "headline": "It's Election Day. Control of Congress is on the line, and what else you need to know",
+    "summary": "There are a lot of variables for how things will go today. Results will start to come in at 6 p.m. ET in Kentucky and Indiana, and then it will be off to the races.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
+    "image_url": null,
+    "published_at": "2026-11-03T10:00:00.000Z"
+  },
+  {
     "headline": "Coal no longer king in Navajo Nation presidential election",
     "summary": "For the first time in decades, there's no pro-coal candidate for Navajo Nation president. Coal has been an important part of the economy, but voter sentiment is changing.",
     "publisher": "NPR",
@@ -1558,45 +1598,5 @@
     "url": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
     "image_url": null,
     "published_at": "2026-10-07T16:15:26.000Z"
-  },
-  {
-    "headline": "'Medicare for All' message attracts midterm voters buckling under medical bills",
-    "summary": "Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability",
-    "image_url": null,
-    "published_at": "2026-10-07T09:00:00.000Z"
-  },
-  {
-    "headline": "Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive",
-    "summary": "Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno",
-    "image_url": null,
-    "published_at": "2026-10-07T09:00:00.000Z"
-  },
-  {
-    "headline": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-    "summary": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-    "image_url": null,
-    "published_at": "2026-10-06T11:19:25.000Z"
-  },
-  {
-    "headline": "What voters in 6 key states could tell us about the 2026 midterms",
-    "summary": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-    "image_url": null,
-    "published_at": "2026-10-06T11:00:00.000Z"
-  },
-  {
-    "headline": "A history of presidents naming things after themselves (It's short. They rarely do)",
-    "summary": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
-    "image_url": null,
-    "published_at": "2026-10-06T11:00:00.000Z"
   }
 ]
