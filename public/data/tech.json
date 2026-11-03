@@ -1,7 +1,151 @@
 [
   {
+    "headline": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+    "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+    "image_url": null,
+    "published_at": "2026-11-03T18:00:00.000Z"
+  },
+  {
+    "headline": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+    "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+    "image_url": null,
+    "published_at": "2026-11-03T17:56:52.000Z"
+  },
+  {
+    "headline": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
+    "summary": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Folio's origami-like scr…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
+    "image_url": null,
+    "published_at": "2026-11-03T17:27:52.000Z"
+  },
+  {
+    "headline": "The Xbox Nano has a hidden cloud secret",
+    "summary": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano leaked earlier this…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
+    "image_url": null,
+    "published_at": "2026-11-03T17:16:04.000Z"
+  },
+  {
+    "headline": "Anthropic is still grappling with the economics of compute",
+    "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "image_url": null,
+    "published_at": "2026-11-03T17:07:01.000Z"
+  },
+  {
+    "headline": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+    "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+    "image_url": null,
+    "published_at": "2026-11-03T17:00:04.000Z"
+  },
+  {
+    "headline": "Xbox’s smallest-ever controller is surprisingly comfortable",
+    "summary": "Even though I knew Microsoft's new Xbox Nano controller was tiny, I still gasped when I unboxed it a few days ago. The compact controller is small enough to slip into a pocket unnoticed, and it has been designed specifically for younger people, or for anyone with smaller hands. I'm not young, but I do have small hands,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on",
+    "image_url": null,
+    "published_at": "2026-11-03T17:00:00.000Z"
+  },
+  {
+    "headline": "Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM",
+    "summary": "Microsoft has been doing a lot of work to improve memory usage and increase performance on Windows 11 PCs over the past year. Last month the company revealed Windows 11 is now \"more responsive\" and runs better on PCs with 8GB of RAM, and now the company is releasing a new update today that includes further memory impro…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance",
+    "image_url": null,
+    "published_at": "2026-11-03T17:00:00.000Z"
+  },
+  {
+    "headline": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+    "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+    "image_url": null,
+    "published_at": "2026-11-03T16:49:09.000Z"
+  },
+  {
+    "headline": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "image_url": null,
+    "published_at": "2026-11-03T16:30:34.000Z"
+  },
+  {
+    "headline": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+    "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+    "image_url": null,
+    "published_at": "2026-11-03T16:04:55.000Z"
+  },
+  {
+    "headline": "Midterm elections 2026: all the news",
+    "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there are several topics impacting…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+    "image_url": null,
+    "published_at": "2026-11-03T15:58:39.000Z"
+  },
+  {
+    "headline": "Apple restricts dating apps and AI companions to users 18 and up",
+    "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "image_url": null,
+    "published_at": "2026-11-03T15:38:27.000Z"
+  },
+  {
+    "headline": "Apple is all in on AI — its own and everyone else&#8217;s",
+    "summary": "Apple CEO John Ternus. | Photo: Bloomberg via Getty Images Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+    "image_url": null,
+    "published_at": "2026-11-03T15:24:51.000Z"
+  },
+  {
+    "headline": "GTA VI&#8217;s download will need up to 212GB of hard drive space",
+    "summary": "You're going to need a lot of extra storage space on your console if you're planning to play Grand Theft Auto VI later this month. Rockstar Games confirmed on Tuesday that the preload file will require up to 212GB \"depending on your device.\" Rockstar says you can start preloading the game on the PlayStation 5 on Tuesda…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
+    "image_url": null,
+    "published_at": "2026-11-03T15:15:00.000Z"
+  },
+  {
+    "headline": "The Elder Scrolls VI officially has a name: Sentinel",
+    "summary": "Bethesda is officially confirming today that the next Elder Scrolls game will be called The Elder Scrolls VI Sentinel. The confirmation came in a less than 10-minute video celebrating 40 years of Bethesda game studios. It's been more than eight years since Bethesda officially announced the existence of the sixth game i…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
+    "image_url": null,
+    "published_at": "2026-11-03T15:07:39.000Z"
+  },
+  {
+    "headline": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "image_url": null,
+    "published_at": "2026-11-03T14:30:00.000Z"
+  },
+  {
+    "headline": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+    "image_url": null,
+    "published_at": "2026-11-03T14:00:00.000Z"
+  },
+  {
     "headline": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-    "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+    "summary": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
     "publisher": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
     "image_url": null,
@@ -1454,149 +1598,5 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
     "image_url": null,
     "published_at": "2026-10-27T17:30:00.000Z"
-  },
-  {
-    "headline": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "image_url": null,
-    "published_at": "2026-10-27T17:08:08.000Z"
-  },
-  {
-    "headline": "The Super Mouse puts a touchscreen macro pad under your hand",
-    "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripheral…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-    "image_url": null,
-    "published_at": "2026-10-27T17:00:00.000Z"
-  },
-  {
-    "headline": "Anthropic’s elaborate plan to keep Wall Street at bay",
-    "summary": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-    "image_url": null,
-    "published_at": "2026-10-27T16:51:22.000Z"
-  },
-  {
-    "headline": "Meta’s $25 billion legal loss just put blood in the water",
-    "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018 Cambridge Anal…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-    "image_url": null,
-    "published_at": "2026-10-27T16:44:40.000Z"
-  },
-  {
-    "headline": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-    "image_url": null,
-    "published_at": "2026-10-27T16:30:57.000Z"
-  },
-  {
-    "headline": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-    "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. Y…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-    "image_url": null,
-    "published_at": "2026-10-27T16:14:18.000Z"
-  },
-  {
-    "headline": "Major League Baseball is looking for a new kind of fan",
-    "summary": "Fans cheer during game two of the 2026 World Series between the Milwaukee Brewers and the Tampa Bay Rays | Getty Images On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
-    "image_url": null,
-    "published_at": "2026-10-27T16:02:43.000Z"
-  },
-  {
-    "headline": "Google’s next Genie AI model generates more realistic experiences",
-    "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-    "image_url": null,
-    "published_at": "2026-10-27T16:00:00.000Z"
-  },
-  {
-    "headline": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-    "image_url": null,
-    "published_at": "2026-10-27T14:59:09.000Z"
-  },
-  {
-    "headline": "Ford Fathom will be the cheapest American EV capable of powering a house",
-    "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-    "image_url": null,
-    "published_at": "2026-10-27T14:51:33.000Z"
-  },
-  {
-    "headline": "US government says hackers are now exploiting critical PHP web bugs",
-    "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-    "image_url": null,
-    "published_at": "2026-10-27T14:40:39.000Z"
-  },
-  {
-    "headline": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-    "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-    "image_url": null,
-    "published_at": "2026-10-27T14:25:11.000Z"
-  },
-  {
-    "headline": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-    "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-    "image_url": null,
-    "published_at": "2026-10-27T13:54:51.000Z"
-  },
-  {
-    "headline": "Japan internet giant GMO says hackers posted stolen customer data",
-    "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-    "image_url": null,
-    "published_at": "2026-10-27T13:32:57.000Z"
-  },
-  {
-    "headline": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-    "summary": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-    "image_url": null,
-    "published_at": "2026-10-27T13:01:00.000Z"
-  },
-  {
-    "headline": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-    "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-    "image_url": null,
-    "published_at": "2026-10-27T13:00:00.000Z"
-  },
-  {
-    "headline": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-    "image_url": null,
-    "published_at": "2026-10-27T13:00:00.000Z"
-  },
-  {
-    "headline": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "image_url": null,
-    "published_at": "2026-10-27T13:00:00.000Z"
   }
 ]
