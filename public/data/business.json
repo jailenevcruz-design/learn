@@ -1,5 +1,117 @@
 [
   {
+    "headline": "CVS to split off drugstore business in major breakup of healthcare giant",
+    "summary": "The move would reverse the company's $78 billion acquisition of Aetna, and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+    "image_url": null,
+    "published_at": "2026-11-04T11:35:53.000Z"
+  },
+  {
+    "headline": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
+    "summary": "AI fortunes were mixed as premarket trading opened on Wednesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+    "image_url": null,
+    "published_at": "2026-11-04T11:35:52.000Z"
+  },
+  {
+    "headline": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+    "summary": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+    "image_url": null,
+    "published_at": "2026-11-04T11:20:46.000Z"
+  },
+  {
+    "headline": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+    "summary": "It was driven by energy inflation, which surged above 20% in October.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+    "image_url": null,
+    "published_at": "2026-11-04T10:47:30.000Z"
+  },
+  {
+    "headline": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+    "summary": "Democrats scored sweeping victories in the U.S. midterm elections on Wednesday, flipping key Republican-held seats in Congress.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+    "image_url": null,
+    "published_at": "2026-11-04T10:47:19.000Z"
+  },
+  {
+    "headline": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
+    "summary": "Novo posted quarterly earnings ahead of expectations early Wednesday as sales of its Wegovy pill blew past estimates",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+    "image_url": null,
+    "published_at": "2026-11-04T10:40:51.000Z"
+  },
+  {
+    "headline": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+    "summary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+    "image_url": null,
+    "published_at": "2026-11-04T10:02:00.000Z"
+  },
+  {
+    "headline": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+    "summary": "Precious metals saw strong gains on Tuesday morning, as investors digested a Democratic sweep in the U.S. midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
+    "image_url": null,
+    "published_at": "2026-11-04T09:59:56.000Z"
+  },
+  {
+    "headline": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+    "summary": "Elon Musk's spending may have become a liability as voters in exit polls raised concerns about government corruption and the growing influence of billionaires.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+    "image_url": null,
+    "published_at": "2026-11-04T08:56:45.000Z"
+  },
+  {
+    "headline": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+    "summary": "Ghalibaf said that \"Conscience or the cost of living, Americans said NO TO WAR, and we endorse this message.\"",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
+    "image_url": null,
+    "published_at": "2026-11-04T06:45:36.000Z"
+  },
+  {
+    "headline": "McDonald's is about to report earnings. Here's what to expect",
+    "summary": "McDonald's stock has fallen about 11% over the last year.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+    "image_url": null,
+    "published_at": "2026-11-04T05:01:01.000Z"
+  },
+  {
+    "headline": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
+    "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+    "image_url": null,
+    "published_at": "2026-11-04T03:38:08.000Z"
+  },
+  {
+    "headline": "Google responds to political backlash over removing search from schools that ban AI",
+    "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+    "image_url": null,
+    "published_at": "2026-11-04T01:07:01.000Z"
+  },
+  {
+    "headline": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+    "summary": "\"Enabling agents to work safely is a massive market opportunity for CrowdStrike,\" CrowdStrike CEO George Kurtz told CNBC's Jim Cramer.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+    "image_url": null,
+    "published_at": "2026-11-03T23:37:07.000Z"
+  },
+  {
     "headline": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
     "summary": "Nancy Bass Wyden, whose grandfather founded the New York City bookstore, had signed off on the PPP, which was off-limits because she is a senator's wife.",
     "publisher": "CNBC",
@@ -32,7 +144,7 @@
     "published_at": "2026-11-03T22:35:24.000Z"
   },
   {
-    "headline": "Legendary Photographer on getting that perfect election night picture",
+    "headline": "Legendary photographer on getting that perfect election night picture",
     "summary": "On election night, photographers will be in position, ready to snap history-making moments. It's something Pulitzer-prize-winner photographer David Hume Kennerly, has done for decades.",
     "publisher": "NPR",
     "url": "https://www.npr.org/2026/11/03/nx-s1-6005523/legendary-photographer-on-getting-that-perfect-election-night-picture",
@@ -224,12 +336,12 @@
     "published_at": "2026-11-03T18:23:31.000Z"
   },
   {
-    "headline": "Midterm elections could jolt stocks if Democrats sweep Congress",
-    "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
+    "headline": "Stock market after midterm elections: What S&P 500 history shows",
+    "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
     "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+    "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
     "image_url": null,
-    "published_at": "2026-11-03T18:05:18.000Z"
+    "published_at": "2026-11-03T18:21:05.000Z"
   },
   {
     "headline": "Ghosted after a job interview? There's a website for that—and thousands of frustrated job seekers have weighed in",
@@ -422,14 +534,6 @@
     "url": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
     "image_url": null,
     "published_at": "2026-11-02T23:54:27.000Z"
-  },
-  {
-    "headline": "Stock market after midterm elections: What S&P 500 history shows",
-    "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "image_url": null,
-    "published_at": "2026-11-02T23:13:34.000Z"
   },
   {
     "headline": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
@@ -1494,109 +1598,5 @@
     "url": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
     "image_url": null,
     "published_at": "2026-10-29T14:15:43.000Z"
-  },
-  {
-    "headline": "With days to go before the midterms, data shows the U.S. economy is doing well",
-    "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
-    "image_url": null,
-    "published_at": "2026-10-29T13:05:03.000Z"
-  },
-  {
-    "headline": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-    "summary": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-    "image_url": null,
-    "published_at": "2026-10-29T12:06:03.000Z"
-  },
-  {
-    "headline": "It's a 'socialist' bank — and North Dakota Republicans love it",
-    "summary": "Democratic socialist candidates have held up North Dakota's state-owned bank as a model to emulate.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
-    "image_url": null,
-    "published_at": "2026-10-29T10:00:01.000Z"
-  },
-  {
-    "headline": "Putin praises Elon Musk as a ‘real genius’ as Russia develops Starlink alternative",
-    "summary": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-    "image_url": null,
-    "published_at": "2026-10-29T09:06:00.000Z"
-  },
-  {
-    "headline": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
-    "summary": "The oil major hiked its share buyback program as global volatility in energy markets saw profits soar.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
-    "image_url": null,
-    "published_at": "2026-10-29T09:04:20.000Z"
-  },
-  {
-    "headline": "Business as a liberal art? Some high schools say yes",
-    "summary": "Learning about money is becoming a growing part of the high school curriculum.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school",
-    "image_url": null,
-    "published_at": "2026-10-29T09:00:00.000Z"
-  },
-  {
-    "headline": "Tariffs, diesel and computer chips are driving up costs for automakers",
-    "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
-    "image_url": null,
-    "published_at": "2026-10-29T09:00:00.000Z"
-  },
-  {
-    "headline": "Tencent, Visa deepen payments push in China after regulatory green light",
-    "summary": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
-    "image_url": null,
-    "published_at": "2026-10-29T07:01:50.000Z"
-  },
-  {
-    "headline": "Samsung Electronics shares slid despite record profit in the third-quarter",
-    "summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-    "image_url": null,
-    "published_at": "2026-10-29T06:53:19.000Z"
-  },
-  {
-    "headline": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-    "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-    "image_url": null,
-    "published_at": "2026-10-29T06:03:35.000Z"
-  },
-  {
-    "headline": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
-    "summary": "Ahead of Jio's listing, Mukesh Ambani teared up as his three children shared the journey of building Jio and vowed to create value for investors over the next 50 years.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
-    "image_url": null,
-    "published_at": "2026-10-29T04:55:17.000Z"
-  },
-  {
-    "headline": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
-    "summary": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
-    "image_url": null,
-    "published_at": "2026-10-29T04:29:32.000Z"
-  },
-  {
-    "headline": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
-    "summary": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
-    "image_url": null,
-    "published_at": "2026-10-29T04:00:51.000Z"
   }
 ]

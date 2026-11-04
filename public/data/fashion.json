@@ -1,11 +1,179 @@
 [
   {
+    "headline": "Forget Arrakis, Zendaya’s Latest Look Comes From a London Auto Shop",
+    "summary": "If Ronan McKenzie called her latest collection “Going Places,” it did just that when Law Roach enlisted the designer to dress Zendaya.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/zendaya-selasi-look-11-04-2026",
+    "image_url": null,
+    "published_at": "2026-11-04T11:28:04.000Z"
+  },
+  {
+    "headline": "A '90s Prada Obsessive Picks Her Four Favorite Collections",
+    "summary": "Laia Garcia-Furtado, author of \"Prada in the Nineties\" shares her four favorite Prada collections.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/a-90s-prada-obsessive-picks-her-four-favorite-collections",
+    "image_url": null,
+    "published_at": "2026-11-04T11:00:00.000Z"
+  },
+  {
+    "headline": "What to Read, Watch, and Listen to According to the Spring 2027 Collections",
+    "summary": "Designers dished on their inspos, we listened and collated their cultural touchstones of the season to help you get inspired. Here are all the movies, books, and music,that influenced the spring 2027 collections.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/what-to-read-watch-and-listen-to-according-to-the-spring-2027-collections",
+    "image_url": null,
+    "published_at": "2026-11-04T11:00:00.000Z"
+  },
+  {
+    "headline": "Dolce & Gabbana Turns Holiday Glamour Into a Cinematic Hotel Fantasy",
+    "summary": "Gold dresses, sharp tuxedos and leopard print accents fill a crimson hotel where not everything is quite as it seems.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/dolce-gabbana-holiday-2026-campaign-1239398302/",
+    "image_url": null,
+    "published_at": "2026-11-04T10:00:00.000Z"
+  },
+  {
+    "headline": "John Frieda, Celebrity Stylist Behind Frizz Ease, Sheer Blonde, Dies at 75",
+    "summary": "John Frieda, who channeled his talent and charm into high-end salons and a multimillion-dollar professional hair care business, has died aged 75.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/john-frieda-celebrity-stylist-frizz-ease-sheer-blonde-obit-1239399746/",
+    "image_url": null,
+    "published_at": "2026-11-04T09:27:11.000Z"
+  },
+  {
+    "headline": "Palace Unveils Supersized London Flagship in Soho",
+    "summary": "The space will carry an in-store-only, 10-piece exclusive capsule collection with English heritage luxury brand Burberry.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/palace-supersized-london-flagship-burberry-capsule-launch-1239399328/",
+    "image_url": null,
+    "published_at": "2026-11-04T09:01:00.000Z"
+  },
+  {
+    "headline": "Blake Lively Makes a Big, Bold, Blue-Sequin Return to the New York Party Scene",
+    "summary": "Returning to the Upper East Side in vintage Chanel, Blake Lively brought her penchant for sparkle to a rare evening out in the city.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/blake-lively-blue-sequin-outfit-new-york-party-scene-11-04-2026",
+    "image_url": null,
+    "published_at": "2026-11-04T08:45:38.000Z"
+  },
+  {
+    "headline": "Pandora Sales Rises 6 Percent in Q3, Guidance Sharpened to Higher End",
+    "summary": "Sales at the Danish jewelry giant topped the $1 billion mark in the quarter, with like-for-like growth positive in every region.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/financial/pandora-q3-results-2026-guidance-update-high-end-1239399708/",
+    "image_url": null,
+    "published_at": "2026-11-04T08:10:34.000Z"
+  },
+  {
+    "headline": "The Specific Pain of Outgrowing an Adult Friendship",
+    "summary": "“It would be easy to say that these friendships had tumultuous endings with clean breaks, where the lines of right and wrong were clearly drawn,” writes Chanté Joseph. “But they weren’t, which makes it even more painful.”",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-specific-pain-of-outgrowing-an-adult-friendship",
+    "image_url": null,
+    "published_at": "2026-11-04T06:56:09.000Z"
+  },
+  {
+    "headline": "The Rise and Rise of Adéla",
+    "summary": "With a chart-topping debut album, Adéla is the unapologetic pop provocateur on the edge of superstardom. Liam Hess meets the girl everyone is talking about.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/the-rise-and-rise-of-adela",
+    "image_url": null,
+    "published_at": "2026-11-04T06:30:43.000Z"
+  },
+  {
+    "headline": "A Cold Wall Taps Joshua A. Bullen as Its First Designer in Residence",
+    "summary": "The former Kenzo, Stone Island and Givenchy designer's first collection for the brand will debut in Paris for the fall 2027 season.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/human-resources/a-cold-wall-joshua-a-bullen-first-designer-in-residence-1239397885/",
+    "image_url": null,
+    "published_at": "2026-11-04T06:01:00.000Z"
+  },
+  {
+    "headline": "A Cold Wall Names Givenchy and Kenzo alum Joshua Bullen Designer in Residence",
+    "summary": "The British label plans a Paris presentation in January as owner Four Marketing prepares to expand US distribution and open a London store.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/a-cold-wall-names-givenchy-and-kenzo-alum-joshua-bullen-designer-in-residence",
+    "image_url": null,
+    "published_at": "2026-11-04T06:00:00.000Z"
+  },
+  {
+    "headline": "Gilles Rosier Opens First Éternel Parisien Boutique in Historic Paris Bookshop",
+    "summary": "The fashion veteran, whose career includes senior roles at Jean Paul Gaultier and Kenzo, is building a luxury leather goods and lifestyle brand around personal service.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/gilles-rosier-eternel-parisien-boutique-passage-jouffroy-1239398299/",
+    "image_url": null,
+    "published_at": "2026-11-04T06:00:00.000Z"
+  },
+  {
+    "headline": "3 Key Takeaways From Lagos Fashion Week",
+    "summary": "Lagos Fashion Week returned for its 16th edition, attracting a bigger international crowd than ever before.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/three-key-takeaways-from-lagos-fashion-week",
+    "image_url": null,
+    "published_at": "2026-11-04T05:30:00.000Z"
+  },
+  {
+    "headline": "From the Archive: Fashion, Politics and Satire",
+    "summary": "Satirical cartoons made pointed commentary on the issues of the day while also finding a role in fashion coverage.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-scoops/fashion-politics-satire-archive-1239398615/",
+    "image_url": null,
+    "published_at": "2026-11-04T05:01:00.000Z"
+  },
+  {
+    "headline": "AI-powered Fragrance Discovery Platform Parfumerie Launches With 2M Pounds Pre-seed",
+    "summary": "The nascent platform aims to connect personalized scent discovery to purchases through multibrand retailers, beginning in the U.K. with Selfridges, Sephora, Space NK and more.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/fragrance/stephanie-phair-ai-powered-fragrance-discovery-parfumerie-1239397903/",
+    "image_url": null,
+    "published_at": "2026-11-04T05:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Jane Birkin Wrote a Message on a Hermès Birkin 30 Bag — Now It’s Going Under the Hammer at Bonhams",
+    "summary": "On Nov. 25, the Bonhams Paris Fashion & Handbags sale will feature a one-of-a-kind Hermès Birkin 30 in black Togo leather featuring Jane Birkin's personal note to a pal, written in her signature white pen.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/fashion-news/fashion-features/jane-birkin-message-hermes-birkin-30-bonhams-1239398097/",
+    "image_url": null,
+    "published_at": "2026-11-04T05:01:00.000Z"
+  },
+  {
+    "headline": "EXCLUSIVE: Coty Extends Marc Jacobs Beauty License for 40 Years",
+    "summary": "Coty Inc. secures a four-decade extension of its Marc Jacobs Beauty license with WHP Global and G-III Apparel Group.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/coty-extends-marc-jacobs-beauty-license-40-years-1239398593/",
+    "image_url": null,
+    "published_at": "2026-11-04T05:01:00.000Z"
+  },
+  {
+    "headline": "9 Under Eye Wrinkle Treatments That Actually Work",
+    "summary": "The best under eye wrinkle treatments rely a combination of moisturizers and retinol to smooth crow’s feet & fine lines. Shop editor- & derm-approved picks.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/under-eye-wrinkle-treatments",
+    "image_url": null,
+    "published_at": "2026-11-04T01:54:53.000Z"
+  },
+  {
+    "headline": "10 Best Conditioner For Damaged Hair That Repair From the Inside Out",
+    "summary": "The best conditioner for damaged hair has the ability to quickly transform dry, brittle, weak, and over-processed hair. By K18, Olaplex, Moroccanoil, and more, these formulas repair broken bonds and replenish moisture with ease.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/conditioner-for-damaged-hair",
+    "image_url": null,
+    "published_at": "2026-11-04T01:35:09.000Z"
+  },
+  {
     "headline": "Dia Art Foundation and Chanel Reunited for the Fall Gala Honoring Steve McQueen and Roni Horn",
     "summary": "After taking in an exhibit of work by Argentine artist David Lamelas at the industrial space, some 400 guests made their way over to a cocktail reception and elegant candlelit dinner in support of Dia Art Foundation.",
     "publisher": "Vogue",
     "url": "https://www.vogue.com/slideshow/dia-art-foundation-chanel-fall-gala-steve-mcqueen-roni-horn",
     "image_url": null,
     "published_at": "2026-11-03T23:01:04.000Z"
+  },
+  {
+    "headline": "Haley Stevens, Elizabeth Holmes, and the Limits We Place on Female Agency",
+    "summary": "Is our perception of womanhood still so narrow that when we see a woman transgress, we have to redirect the blame to a man pulling the strings?",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/haley-stevens-elizabeth-holmes-and-the-limits-we-place-on-female-agency",
+    "image_url": null,
+    "published_at": "2026-11-03T23:00:00.000Z"
   },
   {
     "headline": "Revolve’s Q3 Profits Slip Despite 20% Sales Increase",
@@ -150,14 +318,6 @@
     "url": "https://www.vogue.com/article/zoe-kravitz-goes-coco-suede-for-fall",
     "image_url": null,
     "published_at": "2026-11-03T18:31:26.000Z"
-  },
-  {
-    "headline": "3 Key Takeaways From Lagos Fashion Week",
-    "summary": "Lagos Fashion Week returned for its 16th edition, attracting a bigger international crowd than ever before.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/three-key-takeaways-from-lagos-fashion-week",
-    "image_url": null,
-    "published_at": "2026-11-03T18:18:03.000Z"
   },
   {
     "headline": "C&A, Zalando Commit to Agricultural Waste Fiber",
@@ -1438,165 +1598,5 @@
     "url": "https://www.vogue.com/fashion-shows/mexico-spring-2027/zurce",
     "image_url": null,
     "published_at": "2026-10-29T21:25:30.000Z"
-  },
-  {
-    "headline": "Orange Culture Lagos Spring 2027",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/lagos-spring-2027/orange-culture",
-    "image_url": null,
-    "published_at": "2026-10-29T21:25:30.000Z"
-  },
-  {
-    "headline": "John Elliott Spring 2027 Menswear",
-    "summary": "",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/fashion-shows/spring-2027-menswear/john-elliot-co",
-    "image_url": null,
-    "published_at": "2026-10-29T21:25:30.000Z"
-  },
-  {
-    "headline": "Rosalía Prances Through New York Balancing a ‘Ludicrously Capacious’ Bag on Clear Ballerina Slipper Heels",
-    "summary": "The shoes are from the Junko Shimada spring 2009 collection.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/rosalia-junko-shimada-clear-ballerina-heels-new-york-1239392205/",
-    "image_url": null,
-    "published_at": "2026-10-29T21:08:53.000Z"
-  },
-  {
-    "headline": "How Aritzia Expects to Continue to Flourish",
-    "summary": "The Vancouver-based upscale fashion retailer sees product diversification, redesigning the website, technology investments, entries overseas and sustained U.S. growth as key initiatives.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/business-news/retail/aritzia-growth-plans-category-additions-overseas-moves-1239391664/",
-    "image_url": null,
-    "published_at": "2026-10-29T21:04:57.000Z"
-  },
-  {
-    "headline": "Liberty Justice Center’s ‘Operation Refund Rescue’ Aims to Help Small Businesses Recover From Tariffs",
-    "summary": "The nonprofit legal group's new platform was designed to help small businesses that haven’t been able to access IEEPA tariff refunds.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/liberty-justice-center-operation-refund-rescue-small-businesses-tariffs-1239392340/",
-    "image_url": null,
-    "published_at": "2026-10-29T20:52:55.000Z"
-  },
-  {
-    "headline": "Jen Rubio Celebrates Sarah Harrelson’s New Book at Her West Village Home",
-    "summary": "The editor of Cultured magazine's first book, \"The Cultured Collector,\" examines art collectors amd what motivates them.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/eye/parties/jen-rubio-sarah-harrelson-the-cultured-collector-1239391789/",
-    "image_url": null,
-    "published_at": "2026-10-29T20:44:37.000Z"
-  },
-  {
-    "headline": "Material World: Microplastics, Merino and More",
-    "summary": "New research examines polyester shedding as Caravel Bio secures fresh funding and performance brands expand their use of merino wool.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sustainability/material-world-microplastics-merino-caravel-bio-1239392075/",
-    "image_url": null,
-    "published_at": "2026-10-29T20:40:10.000Z"
-  },
-  {
-    "headline": "Scary Good: How Hollywood’s Best Costume Designers Bring Horror Films to Life",
-    "summary": "It takes a special kind of costumer to craft macabre fashions that will spook you for years to come.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/horror-movies-best-costume-design",
-    "image_url": null,
-    "published_at": "2026-10-29T20:14:37.000Z"
-  },
-  {
-    "headline": "Michael Jordan’s Newest ‘Black Pack’ Air Jordans Will Be Released Soon — Here’s an Official Detailed Look",
-    "summary": "The Air Jordan 17 Retro Low SP Black Pack is set to arrive at retail next month.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-17-retro-low-sp-black-pack-release-date-iz2638-001-1239392247/",
-    "image_url": null,
-    "published_at": "2026-10-29T19:55:51.000Z"
-  },
-  {
-    "headline": "How to Brighten Skin, According to Skin Experts",
-    "summary": "Brightening dull skin is easy once you identify the cause of it. Here, board-certified dermatologist Shauna Higgins and esthetician Raquel Medina-Cleghorn break down all you need to know to boost your natural radiance.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/how-to-brighten-skin",
-    "image_url": null,
-    "published_at": "2026-10-29T19:51:16.000Z"
-  },
-  {
-    "headline": "Long Live the Chaotic Step-And-Repeat!",
-    "summary": "There is something so delightful about seeing celebrities, glammed up and dressed in their finest fashions, thrust in front of a graphic design monstrosity.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/long-live-the-chaotic-step-and-repeat",
-    "image_url": null,
-    "published_at": "2026-10-29T19:44:10.000Z"
-  },
-  {
-    "headline": "Crocs Shares Keep Spiking on Bullish Q3 Report",
-    "summary": "Crocs investors sent shares up after the shoe firm's third straight raise on guidance and on Hey Dude's return to sales growth.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/crocs-q3-investors-shares-guidance-hey-dude-sales-growth-1239391746/",
-    "image_url": null,
-    "published_at": "2026-10-29T19:41:38.000Z"
-  },
-  {
-    "headline": "Tricia Butler Named Board Chair of The Fragrance Foundation",
-    "summary": "In her new role, Butler, who is also president of North America for Givenchy & Kenzo Parfums, aims to drive innovation, community, and consumer connection in the evolving fragrance industry.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/beauty-industry-news/fragrance/tricia-butler-named-board-chair-fragrance-foundation-1239392028/",
-    "image_url": null,
-    "published_at": "2026-10-29T19:35:32.000Z"
-  },
-  {
-    "headline": "Serena Williams Channels Her Wild Side With Shimmering Leopard Print at the Airbnb.org Gala",
-    "summary": "The athlete wore a dress by Clio Peppiatt.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/serena-williams-clio-peppiatt-dress-airbnb-gala-1239391795/",
-    "image_url": null,
-    "published_at": "2026-10-29T19:29:53.000Z"
-  },
-  {
-    "headline": "Hugo Boss Renews Pakistan Accord",
-    "summary": "The move reverses an earlier decision by the German retailer not to continue its participation in the binding safety agreement.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/sustainability/hugo-boss-renews-pakistan-accord-worker-safety-1239392128/",
-    "image_url": null,
-    "published_at": "2026-10-29T19:29:47.000Z"
-  },
-  {
-    "headline": "On the Road With Liz Phair and Sleater-Kinney",
-    "summary": "To cap off the Flannel and the Fury Tour, Phair shared some exclusive snaps with Vogue.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/on-the-road-with-liz-phair-and-sleater-kinney",
-    "image_url": null,
-    "published_at": "2026-10-29T18:30:00.000Z"
-  },
-  {
-    "headline": "Home Is Where the Heart Is: Hollywood Turned Up for the First-Ever Airbnb.org Gala",
-    "summary": "Airbnb.org—Airbnb's nonprofit—hosted its first-ever gala at Milk Studios to highlight its new funding model. Airbnb is pledging $500 million towards temporary housing for those in crisis over the next five years. Among those who attended the inaugural fundraiser were Charlize Theron, Matthew McConaughey and Camila Alve…",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/inaugural-airbnb-gala-2026",
-    "image_url": null,
-    "published_at": "2026-10-29T18:00:08.000Z"
-  },
-  {
-    "headline": "Street Style’s Most Wanted Shoes of the Spring 2027 Season",
-    "summary": "From lace-up kitten heels to loafers, wedges to derbies, these are the most wanted shoes of the spring 2027 season.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/street-styles-most-wanted-shoes-of-the-spring-2027-season",
-    "image_url": null,
-    "published_at": "2026-10-29T17:39:21.000Z"
-  },
-  {
-    "headline": "How the Best Peptide Skin Care Can Deliver Botox-Like Results",
-    "summary": "Peptide skin care—a.k.a. the “silent powerhouse”—can do everything from stimulate collagen and elastin production to slow down cellular processes.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-peptide-skincare",
-    "image_url": null,
-    "published_at": "2026-10-29T17:19:49.000Z"
-  },
-  {
-    "headline": "35 Remarkable Photos of a ’90s and 2000s-Era Winona Ryder",
-    "summary": "Browse these glorious throwback shots from the first two decades of Winona Ryder’s career.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/winona-ryder-young",
-    "image_url": null,
-    "published_at": "2026-10-29T16:30:00.000Z"
   }
 ]
