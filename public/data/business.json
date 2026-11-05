@@ -1,5 +1,61 @@
 [
   {
+    "headline": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+    "summary": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+    "image_url": null,
+    "published_at": "2026-11-05T03:53:18.000Z"
+  },
+  {
+    "headline": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+    "summary": "LIV Golf faces liquidation after BC Partners dropped a proposed $300 million rescue plan amid insufficient player commitments.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+    "image_url": null,
+    "published_at": "2026-11-05T03:11:58.000Z"
+  },
+  {
+    "headline": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
+    "summary": "Prediction markets projected election results well before media outlets in an effort to position themselves as fast, reliable news sources.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
+    "image_url": null,
+    "published_at": "2026-11-05T02:07:35.000Z"
+  },
+  {
+    "headline": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
+    "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+    "image_url": null,
+    "published_at": "2026-11-05T01:11:26.000Z"
+  },
+  {
+    "headline": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+    "summary": "NextDC shares surged more than 40% Thursday morning after Goodman Group and Digital Realty sought to acquire up to a 9.9% stake.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
+    "image_url": null,
+    "published_at": "2026-11-05T00:24:57.000Z"
+  },
+  {
+    "headline": "Snap shares fall over 10% on third-quarter revenue miss",
+    "summary": "Snap misses on revenue and daily active users in third-quarter earnings reported Wednesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
+    "image_url": null,
+    "published_at": "2026-11-05T00:14:47.000Z"
+  },
+  {
+    "headline": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
+    "summary": "Foreign investors are losing their appetite for Indian equities, with their holdings touching an all-time low of 14%.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
+    "image_url": null,
+    "published_at": "2026-11-05T00:04:36.000Z"
+  },
+  {
     "headline": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
     "summary": "Democrats have flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers in a historic 2026 midterm rout.",
     "publisher": "CNBC",
@@ -22,6 +78,14 @@
     "url": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
     "image_url": null,
     "published_at": "2026-11-04T23:23:03.000Z"
+  },
+  {
+    "headline": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
+    "summary": "Cramer warned that Wall Street may be getting ahead of itself following the midterm elections.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/04/cramer-midterms-ai-stocks.html",
+    "image_url": null,
+    "published_at": "2026-11-04T23:18:56.000Z"
   },
   {
     "headline": "What Wall Street billionaires are saying about Democrats' midterm sweep",
@@ -56,14 +120,6 @@
     "published_at": "2026-11-04T22:55:22.000Z"
   },
   {
-    "headline": "Snap shares fall over 10% on third-quarter revenue miss",
-    "summary": "Snap misses on revenue and daily active users in third-quarter earnings reported Wednesday.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
-    "image_url": null,
-    "published_at": "2026-11-04T22:47:32.000Z"
-  },
-  {
     "headline": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
     "summary": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
     "publisher": "CNBC",
@@ -94,14 +150,6 @@
     "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-what-must-happen-for-home-depot-to-keep-its-25percent-monthlong-rally-going.html",
     "image_url": null,
     "published_at": "2026-11-04T22:13:45.000Z"
-  },
-  {
-    "headline": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
-    "summary": "Prediction markets projected election results well before media outlets in an effort to position themselves as fast, reliable news sources.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
-    "image_url": null,
-    "published_at": "2026-11-04T21:57:39.000Z"
   },
   {
     "headline": "What Republicans' huge loss means for Trump",
@@ -1550,53 +1598,5 @@
     "url": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
     "image_url": null,
     "published_at": "2026-10-30T09:00:00.000Z"
-  },
-  {
-    "headline": "'Affordability? For who?' Voters decide between helping homeowners or public services",
-    "summary": "Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
-    "image_url": null,
-    "published_at": "2026-10-30T09:00:00.000Z"
-  },
-  {
-    "headline": "How powerful is Elon Musk? How his political influence compares to past U.S. moguls",
-    "summary": "Critics say the tech entrepreneur's enormous wealth has given him too much political power. But when stacked up against other notable American moguls, historians say he's not unique.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/30/nx-s1-6019325/elon-musk-power-moguls-politics",
-    "image_url": null,
-    "published_at": "2026-10-30T09:00:00.000Z"
-  },
-  {
-    "headline": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
-    "summary": "Iran said four tankers struck mines in the Strait of Hormuz, while Tehran disputed a U.S. claim that key shipping lanes had been cleared.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-    "image_url": null,
-    "published_at": "2026-10-30T07:12:49.000Z"
-  },
-  {
-    "headline": "A pharma giant is moving past one patent cliff — but another is already looming",
-    "summary": "Disappointing data highlights Novartis' challenge to build its next generation of blockbuster medicines, following a series of clinical trial setbacks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
-    "image_url": null,
-    "published_at": "2026-10-30T06:00:01.000Z"
-  },
-  {
-    "headline": "Starbucks sales fall short of expectations, but its U.S. turnaround continues to gain steam",
-    "summary": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-10-29T21:26:23.000Z"
-  },
-  {
-    "headline": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-    "summary": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-    "image_url": null,
-    "published_at": "2026-10-29T21:22:50.000Z"
   }
 ]
