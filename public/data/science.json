@@ -1,5 +1,205 @@
 [
   {
+    "headline": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+    "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic risk, but decaffeinated coffee did not show the same association.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+    "image_url": null,
+    "published_at": "2026-11-07T10:16:19.000Z"
+  },
+  {
+    "headline": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
+    "summary": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, however, the CO2 we exhale is part of the natural carbon cycle, and scientists say measuring it more ac…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
+    "image_url": null,
+    "published_at": "2026-11-07T10:00:03.000Z"
+  },
+  {
+    "headline": "Scientists discover Europe's ancient forests were nothing like we imagined",
+    "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery challenges modern reforestation strategies, suggesting that planting thick forests…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+    "image_url": null,
+    "published_at": "2026-11-07T09:44:48.000Z"
+  },
+  {
+    "headline": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+    "summary": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky. The discoveries include an extremely faint galaxy 355,000 light-years away and a star cluster hidden behind cosmic dust. Scientists suspect hundreds of…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+    "image_url": null,
+    "published_at": "2026-11-07T09:12:43.000Z"
+  },
+  {
+    "headline": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+    "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain circuits damaged by…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+    "image_url": null,
+    "published_at": "2026-11-07T00:33:47.000Z"
+  },
+  {
+    "headline": "A compound hidden in broccoli could help fight a devastating genetic disease",
+    "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists hope the discovery could lead to an affordable treatment, although clinical trials are still needed t…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T23:30:16.000Z"
+  },
+  {
+    "headline": "How octopuses squeeze through teeny tiny holes",
+    "summary": "Robots used during search and rescue operations need to be able to wriggle through narrow cracks and crevices. Researchers have turned to a natural contortionist for inspiration — the octopus.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes",
+    "image_url": null,
+    "published_at": "2026-11-06T22:24:10.000Z"
+  },
+  {
+    "headline": "A dead star's mysterious rings reveal what could happen when our Sun dies",
+    "summary": "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future. The two rings are separated by a mysterious gap that researchers believe is maintained by surviving planetary bodies, including one potentially as large as Pluto…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T22:12:56.000Z"
+  },
+  {
+    "headline": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
+    "summary": "After more than 60 years of unsuccessful attempts, scientists have finally isolated stable examples of elusive boron-oxygen molecules once considered too unstable to capture. The surprising breakthrough, achieved using relatively simple chemical reactions, could pave the way for an entirely new class of exotic compound…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T21:28:04.000Z"
+  },
+  {
+    "headline": "Scientists just found dinosaur blood that survived 115 million years",
+    "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search for ancient life el…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T11:28:01.000Z"
+  },
+  {
+    "headline": "Major trial challenges how doctors decide who really needs statins",
+    "summary": "A study of nearly 5,800 adults found that heart scans measuring calcium buildup in the arteries led to the same observed rate of major cardiovascular events as traditional risk assessments, despite recommending statins to far fewer patients. Surprisingly, patients advised to take statins based on their scans were nearl…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261105224604.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T10:59:18.000Z"
+  },
+  {
+    "headline": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+    "summary": "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots. Although farmers have reported damage for more than a decade, the insects responsible remained unidentified u…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T09:33:36.000Z"
+  },
+  {
+    "headline": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+    "summary": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach a distance of one light-day from Earth.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T08:21:08.000Z"
+  },
+  {
+    "headline": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+    "summary": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterious cosmic outbursts.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T07:12:55.000Z"
+  },
+  {
+    "headline": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
+    "summary": "Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12 weeks. Researchers also observed improvements in blood pressure and nutrient intake, raising questions about longstandi…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T05:51:36.000Z"
+  },
+  {
+    "headline": "Dead stars could break one of physics' most famous limits",
+    "summary": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exceeding a famous limit that has stood for decades. The finding…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T03:11:09.000Z"
+  },
+  {
+    "headline": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+    "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the stronge…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+    "image_url": null,
+    "published_at": "2026-11-06T01:11:19.000Z"
+  },
+  {
+    "headline": "Scientists discover that a clogged filter could revolutionize oil refining",
+    "summary": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentially transforming one…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+    "image_url": null,
+    "published_at": "2026-11-05T14:04:07.000Z"
+  },
+  {
+    "headline": "A clever molecular trick unlocks previously impossible properties in glass",
+    "summary": "Scientists have discovered how to reprogram the internal structure of glass using a special molecule that rearranges chemical bonds while lowering the melting temperature. The breakthrough could unlock entirely new glass materials with precisely controlled magnetic and optical properties, opening possibilities for adva…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261103003202.htm",
+    "image_url": null,
+    "published_at": "2026-11-05T13:36:51.000Z"
+  },
+  {
+    "headline": "400,000-year-old teeth reveal a stunning twist in human evolution",
+    "summary": "A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientists uncovered evidence…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
+    "image_url": null,
+    "published_at": "2026-11-05T13:05:12.000Z"
+  },
+  {
+    "headline": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
+    "summary": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’s symptoms appear.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+    "image_url": null,
+    "published_at": "2026-11-05T12:50:34.000Z"
+  },
+  {
+    "headline": "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
+    "summary": "Scientists have developed a revolutionary gel that could regrow lost tooth enamel by harnessing minerals naturally found in saliva, potentially overcoming one of dentistry’s biggest limitations. The regenerated enamel behaves much like healthy enamel, raising hopes for a simple treatment that could repair damaged teeth…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm",
+    "image_url": null,
+    "published_at": "2026-11-05T11:37:26.000Z"
+  },
+  {
+    "headline": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+    "summary": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions involving excessive infl…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+    "image_url": null,
+    "published_at": "2026-11-05T11:05:46.000Z"
+  },
+  {
+    "headline": "A tiny supercurrent could unlock quantum information without destroying it",
+    "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+    "image_url": null,
+    "published_at": "2026-11-05T03:47:09.000Z"
+  },
+  {
+    "headline": "Scientists turn viruses into weapons against deadly superbugs",
+    "summary": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this experimental treatmen…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
+    "image_url": null,
+    "published_at": "2026-11-05T02:40:33.000Z"
+  },
+  {
     "headline": "A surprising discovery could help aging muscles repair themselves",
     "summary": "Scientists have discovered a compound that transforms a natural muscle-repair protein into a more powerful version dubbed \"Super HGF,\" more than doubling its ability to bind to a key receptor while protecting it from age-related chemical damage. The breakthrough, supported by early mouse experiments, could eventually h…",
     "publisher": "ScienceDaily",
@@ -1398,205 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
     "image_url": null,
     "published_at": "2026-10-21T03:08:17.000Z"
-  },
-  {
-    "headline": "Scientists find 10 different diets linked to slower aging",
-    "summary": "A study by DZNE finds that healthy eating is associated with slower biological aging—and that there is more than one way to eat healthily. The researchers examined ten dietary patterns considered healthy, including the Mediterranean, Nordic, and a plant-based diet, as well as the DASH diet, which is designed to help lo…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261019093439.htm",
-    "image_url": null,
-    "published_at": "2026-10-21T01:58:07.000Z"
-  },
-  {
-    "headline": "Scientists finally uncover why statins can cause muscle pain",
-    "summary": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle damage. Using advanced imaging technology, researchers discovered that statins can attach to a crucia…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T13:00:56.000Z"
-  },
-  {
-    "headline": "Hurricane warning maps are improving, but a dangerous problem remains",
-    "summary": "A new study reveals that improved hurricane forecast graphics may help people identify threatened areas without making them more likely to recognize the danger or take protective action. Researchers also found that a widespread misunderstanding of the hurricane cone persists, highlighting a potentially dangerous gap be…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T12:49:51.000Z"
-  },
-  {
-    "headline": "Astronomers uncover new secrets of the Universe’s first five minutes",
-    "summary": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision. Using one of the world’s most powerful telescopes, an international team studied 15 remarkably pristine galaxie…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T12:34:15.000Z"
-  },
-  {
-    "headline": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
-    "summary": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like animals and a surprising…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T12:20:44.000Z"
-  },
-  {
-    "headline": "Scientists discover a way to kill dangerous gut bacteria without killing the good",
-    "summary": "Scientists have discovered a natural compound that targets dangerous C. difficile bacteria without wiping out the gut's beneficial microbes. Successful early tests suggest it could lead to a gentler, more effective treatment for stubborn intestinal infections that frequently return.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261019093353.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T12:07:49.000Z"
-  },
-  {
-    "headline": "Your aging brain may be trading memory for something more valuable",
-    "summary": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture. Scientists suggest this change could be an evolutionary adaptation that helps older adults develop wisdom and share decades of knowledge…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T11:31:22.000Z"
-  },
-  {
-    "headline": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
-    "summary": "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers and improved memory, even without removing harmful tau protein buildup.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T09:52:35.000Z"
-  },
-  {
-    "headline": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
-    "summary": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes. These extraordinary images expose the hidden forces shaping galaxies across the universe and offer clu…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T06:17:55.000Z"
-  },
-  {
-    "headline": "Scientists discover a surprising link between vitamin C and cancer survival",
-    "summary": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin could help protect…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T04:21:35.000Z"
-  },
-  {
-    "headline": "Scientists reach the ultimate quantum limit on a surface",
-    "summary": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technologies.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T03:02:41.000Z"
-  },
-  {
-    "headline": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
-    "summary": "NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders. Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled researchers for years.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T02:23:00.000Z"
-  },
-  {
-    "headline": "Why painful arthritis can return stronger after cancer treatment",
-    "summary": "Researchers discovered that recurring arthritis triggered by cancer immunotherapy may be driven by immune cells that remember previous attacks and return in a more aggressive state. The findings could pave the way for treatments that prevent painful flare-ups while preserving the immune system's ability to fight cancer…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205055.htm",
-    "image_url": null,
-    "published_at": "2026-10-20T00:49:11.000Z"
-  },
-  {
-    "headline": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
-    "summary": "A massive landslide in Alaska triggered the second-highest tsunami ever recorded, sending water and debris 1,580 feet up a mountainside just hours after tourists visited the area. Scientists discovered that the disaster was preceded by several warning signs, including rapid glacier retreat, heavy rainfall, and thousand…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T13:09:18.000Z"
-  },
-  {
-    "headline": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
-    "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for treatments that mimic…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T12:57:02.000Z"
-  },
-  {
-    "headline": "Something strange is happening beneath a volcano near 2 million people",
-    "summary": "Scientists have discovered evidence of two hidden magma sources beneath Nicaragua’s Masaya volcano, where satellite observations revealed mysterious ground movements suggesting magma is shifting deep underground. The findings could improve eruption forecasting for the active volcano, which sits near 2 million people an…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T12:35:09.000Z"
-  },
-  {
-    "headline": "Scientists discover why some people still can’t taste food after COVID-19",
-    "summary": "Scientists have uncovered a possible explanation for why some people struggle to taste food more than a year after recovering from COVID-19. By examining taste buds from patients with lingering symptoms, researchers discovered molecular abnormalities that weaken the signals responsible for detecting sweet, bitter, and…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205033.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T12:03:02.000Z"
-  },
-  {
-    "headline": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
-    "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half the cognitive and functional decline, even in people already showing early signs of the disease. Th…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T11:23:26.000Z"
-  },
-  {
-    "headline": "A simple touch can bring dying corals back to life in just 7 weeks",
-    "summary": "Scientists have discovered that severely bleached corals can make a remarkable comeback simply by touching healthy, genetically identical corals. In laboratory experiments, dying corals regained their color and fully recovered within seven weeks, with as little as five days of contact sometimes enough to start the heal…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261017230025.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T11:05:52.000Z"
-  },
-  {
-    "headline": "Astronomers discover a ghostly green star unlike any known before",
-    "summary": "Astronomers have uncovered a surprising rainbow of dead stars, including the first known star that would appear genuinely green to human eyes. Researchers found that white dwarfs can glow in unexpected shades of pink, purple, yellow, and cyan because of unusual chemical interactions in their extremely dense atmospheres…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T10:26:03.000Z"
-  },
-  {
-    "headline": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
-    "summary": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light. The revolutionary technique has already helped researchers activate memories and is opening new possibilities for restoring vision and treating brain disorders.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T10:02:32.000Z"
-  },
-  {
-    "headline": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques",
-    "summary": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T09:19:45.000Z"
-  },
-  {
-    "headline": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-    "summary": "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it's driven by El Niño and it's going to happen again.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
-    "image_url": null,
-    "published_at": "2026-10-19T09:00:00.000Z"
-  },
-  {
-    "headline": "Fatty liver disease is actually five different conditions, scientists discover",
-    "summary": "A common liver disease affecting nearly 30% of adults worldwide may be far more complicated than scientists previously realized. Mayo Clinic researchers have discovered that fatty liver disease actually consists of five distinct biological subtypes, each carrying different risks for liver failure, cancer, heart disease…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261016070642.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T02:35:09.000Z"
-  },
-  {
-    "headline": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
-    "summary": "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality. The findings could help explain why harmful thought patterns are so difficult to break and offer new insights into treati…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
-    "image_url": null,
-    "published_at": "2026-10-19T00:32:07.000Z"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "headline": "A promising new medicine against heart disease fails unexpectedly",
+    "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+    "image_url": null,
+    "published_at": "2026-11-07T14:50:00.000Z"
+  },
+  {
+    "headline": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+    "summary": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+    "image_url": null,
+    "published_at": "2026-11-07T11:50:21.000Z"
+  },
+  {
+    "headline": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+    "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+    "image_url": null,
+    "published_at": "2026-11-06T20:09:58.000Z"
+  },
+  {
+    "headline": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+    "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+    "image_url": null,
+    "published_at": "2026-11-06T19:00:21.000Z"
+  },
+  {
+    "headline": "His 1-year-old faced heart failure. His new book tells how to cope in a health crisis",
+    "summary": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and \"turn fear into action.\"",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+    "image_url": null,
+    "published_at": "2026-11-06T11:57:32.000Z"
+  },
+  {
+    "headline": "Teens worldwide aren't getting enough exercise -- especially girls",
+    "summary": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
+    "image_url": null,
+    "published_at": "2026-11-05T12:24:14.000Z"
+  },
+  {
     "headline": "It was a big night for doctors to win seats in Congress, riding the blue wave",
     "summary": "Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.",
     "publisher": "NPR",
@@ -1550,53 +1598,5 @@
     "url": "https://www.npr.org/2026/08/27/g-s1-140410/fda-approves-landmark-pancreatic-cancer-drug",
     "image_url": null,
     "published_at": "2026-08-27T06:54:35.000Z"
-  },
-  {
-    "headline": "Drugstores say Medicare's $50 obesity drug program is catching on",
-    "summary": "The Bridge program, which began July 1, makes some Medicare beneficiaries eligible for obesity drugs for $50 a month. CVS and Walgreens say they've each already filled 100,000 such prescriptions.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
-    "image_url": null,
-    "published_at": "2026-08-26T21:11:42.000Z"
-  },
-  {
-    "headline": "Recalls paint only part of the food safety picture",
-    "summary": "Recalls of lettuce, jalapeno peppers and eggs because of foodborne illness outbreaks have put a spotlight on the safety of the U.S. food supply. How much do the recalls tell us?",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5943195/recalls-paint-only-part-of-the-food-safety-picture",
-    "image_url": null,
-    "published_at": "2026-08-26T19:38:22.000Z"
-  },
-  {
-    "headline": "States try new tactics to bring down high hospital prices",
-    "summary": "Indiana is the latest state to experiment with limiting what hospitals can charge, to try to get a handle on high health costs.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
-    "image_url": null,
-    "published_at": "2026-08-26T17:29:13.000Z"
-  },
-  {
-    "headline": "COMIC: Trying for a baby? These lifestyle habits may boost your fertility odds",
-    "summary": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
-    "image_url": null,
-    "published_at": "2026-08-26T09:02:00.000Z"
-  },
-  {
-    "headline": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-    "summary": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
-    "image_url": null,
-    "published_at": "2026-08-25T09:00:00.000Z"
-  },
-  {
-    "headline": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
-    "summary": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-    "image_url": null,
-    "published_at": "2026-08-25T09:00:00.000Z"
   }
 ]

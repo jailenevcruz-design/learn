@@ -1,5 +1,245 @@
 [
   {
+    "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "image_url": null,
+    "published_at": "2026-11-07T22:07:22.000Z"
+  },
+  {
+    "headline": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "image_url": null,
+    "published_at": "2026-11-07T21:17:08.000Z"
+  },
+  {
+    "headline": "Parents want safer phones for kids. These companies are answering the call.",
+    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+    "image_url": null,
+    "published_at": "2026-11-07T19:00:00.000Z"
+  },
+  {
+    "headline": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+    "image_url": null,
+    "published_at": "2026-11-07T17:24:07.000Z"
+  },
+  {
+    "headline": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+    "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+    "image_url": null,
+    "published_at": "2026-11-07T17:18:00.000Z"
+  },
+  {
+    "headline": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+    "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, nauseous, and gen…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+    "image_url": null,
+    "published_at": "2026-11-07T17:00:00.000Z"
+  },
+  {
+    "headline": "Costco members can get $5 off the reimagined Ocarina of Time",
+    "summary": "The Legend of Zelda: Ocarina of Time remake showcases plenty of modern effects. | Image: Nintendo While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online,…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+    "image_url": null,
+    "published_at": "2026-11-07T16:00:00.000Z"
+  },
+  {
+    "headline": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+    "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+    "image_url": null,
+    "published_at": "2026-11-07T16:00:00.000Z"
+  },
+  {
+    "headline": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "summary": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "image_url": null,
+    "published_at": "2026-11-07T15:50:00.000Z"
+  },
+  {
+    "headline": "The US let Nvidia sell chips to an empty office in China",
+    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell with…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "image_url": null,
+    "published_at": "2026-11-07T15:43:45.000Z"
+  },
+  {
+    "headline": "AI broke the cybersecurity world. What’s next?",
+    "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "image_url": null,
+    "published_at": "2026-11-07T15:00:00.000Z"
+  },
+  {
+    "headline": "Good riddance, Cybertruck!",
+    "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed as the pi…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+    "image_url": null,
+    "published_at": "2026-11-07T14:40:06.000Z"
+  },
+  {
+    "headline": "Zelda is back and better than ever",
+    "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Andrew Garfield and G…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+    "image_url": null,
+    "published_at": "2026-11-07T13:49:01.000Z"
+  },
+  {
+    "headline": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "summary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "image_url": null,
+    "published_at": "2026-11-07T12:30:00.000Z"
+  },
+  {
+    "headline": "Sequoia shutting down its Scouts program marks the end of an era",
+    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+    "image_url": null,
+    "published_at": "2026-11-07T05:01:54.000Z"
+  },
+  {
+    "headline": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+    "image_url": null,
+    "published_at": "2026-11-07T04:16:43.000Z"
+  },
+  {
+    "headline": "Crusoe sells troubled Wyoming data center project to Google",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "image_url": null,
+    "published_at": "2026-11-07T01:40:28.000Z"
+  },
+  {
+    "headline": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal repo…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "image_url": null,
+    "published_at": "2026-11-06T23:46:18.000Z"
+  },
+  {
+    "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "image_url": null,
+    "published_at": "2026-11-06T22:53:46.000Z"
+  },
+  {
+    "headline": "The Duo apps are coming, says Apple",
+    "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+    "image_url": null,
+    "published_at": "2026-11-06T21:38:05.000Z"
+  },
+  {
+    "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "image_url": null,
+    "published_at": "2026-11-06T18:44:38.000Z"
+  },
+  {
+    "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "image_url": null,
+    "published_at": "2026-11-06T18:44:20.000Z"
+  },
+  {
+    "headline": "After the midterms, is the AI industry in for a rough two years?",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "image_url": null,
+    "published_at": "2026-11-06T17:23:52.000Z"
+  },
+  {
+    "headline": "Pentagon offers battery startup 6K $250M loan to build US factory",
+    "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+    "image_url": null,
+    "published_at": "2026-11-06T16:50:01.000Z"
+  },
+  {
+    "headline": "Fox completes its $22B acquisition of Roku",
+    "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+    "image_url": null,
+    "published_at": "2026-11-06T16:05:36.000Z"
+  },
+  {
+    "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "image_url": null,
+    "published_at": "2026-11-06T15:54:47.000Z"
+  },
+  {
+    "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "image_url": null,
+    "published_at": "2026-11-06T14:10:00.000Z"
+  },
+  {
+    "headline": "Underdog shows off a 32MB speech model in new demo",
+    "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "image_url": null,
+    "published_at": "2026-11-06T13:02:16.000Z"
+  },
+  {
+    "headline": "Physicl raises $10M to make the digital world real enough for robots",
+    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "image_url": null,
+    "published_at": "2026-11-06T13:00:00.000Z"
+  },
+  {
+    "headline": "Tesla will stop making the Cybertruck in 2027",
+    "summary": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+    "image_url": null,
+    "published_at": "2026-11-06T11:50:10.000Z"
+  },
+  {
     "headline": "Apple is reportedly cutting budgets for its internal AI usage",
     "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
     "publisher": "TechCrunch",
@@ -1358,245 +1598,5 @@
     "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
     "image_url": null,
     "published_at": "2026-10-30T17:00:00.000Z"
-  },
-  {
-    "headline": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-    "image_url": null,
-    "published_at": "2026-10-30T16:03:45.000Z"
-  },
-  {
-    "headline": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-    "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-tim…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-30T15:29:02.000Z"
-  },
-  {
-    "headline": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-    "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-    "image_url": null,
-    "published_at": "2026-10-30T14:00:25.000Z"
-  },
-  {
-    "headline": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second fo…",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-    "image_url": null,
-    "published_at": "2026-10-30T14:00:00.000Z"
-  },
-  {
-    "headline": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "summary": "DoorDash said that it is open to working with third-party agent makers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-    "image_url": null,
-    "published_at": "2026-10-30T13:54:25.000Z"
-  },
-  {
-    "headline": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-    "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-    "image_url": null,
-    "published_at": "2026-10-30T13:00:00.000Z"
-  },
-  {
-    "headline": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-    "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-    "image_url": null,
-    "published_at": "2026-10-30T13:00:00.000Z"
-  },
-  {
-    "headline": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-    "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-    "image_url": null,
-    "published_at": "2026-10-30T07:01:00.000Z"
-  },
-  {
-    "headline": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-    "image_url": null,
-    "published_at": "2026-10-30T01:20:48.000Z"
-  },
-  {
-    "headline": "Amazon reported booming cloud revenue but otherwise missed expectations",
-    "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-    "image_url": null,
-    "published_at": "2026-10-29T21:20:47.000Z"
-  },
-  {
-    "headline": "GM reaches $220M settlement over selling drivers’ private data",
-    "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-    "image_url": null,
-    "published_at": "2026-10-29T21:01:04.000Z"
-  },
-  {
-    "headline": "Fan fiction site Archive of Our Own could be offline for up to 4 weeks",
-    "summary": "Archive of Our Own, the popular online home of fan fiction readers and writers, has bad news for its community.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-    "image_url": null,
-    "published_at": "2026-10-29T20:43:56.000Z"
-  },
-  {
-    "headline": "Patrick Stewart has died at age 86",
-    "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mirfield, Yorkshire, En…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-    "image_url": null,
-    "published_at": "2026-10-29T20:10:02.000Z"
-  },
-  {
-    "headline": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-    "image_url": null,
-    "published_at": "2026-10-29T20:08:31.000Z"
-  },
-  {
-    "headline": "Reddit will force everyone to log in",
-    "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a lot of Google searche…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-    "image_url": null,
-    "published_at": "2026-10-29T20:07:00.000Z"
-  },
-  {
-    "headline": "Rivian expands joint venture with VW to include AI assistant",
-    "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-    "image_url": null,
-    "published_at": "2026-10-29T20:05:47.000Z"
-  },
-  {
-    "headline": "The R2 SUV is already Rivian’s best-selling vehicle",
-    "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-    "image_url": null,
-    "published_at": "2026-10-29T20:02:03.000Z"
-  },
-  {
-    "headline": "Rivian’s R2 is officially its best-selling vehicle",
-    "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in revenue, a 38 percent…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
-    "image_url": null,
-    "published_at": "2026-10-29T20:02:00.000Z"
-  },
-  {
-    "headline": "OpenAI-backed Thrive Holdings acquires ADT",
-    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-    "image_url": null,
-    "published_at": "2026-10-29T19:56:19.000Z"
-  },
-  {
-    "headline": "GM to pay $220 million to resolve claims it sold driving habits data",
-    "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain \"expr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-    "image_url": null,
-    "published_at": "2026-10-29T19:19:28.000Z"
-  },
-  {
-    "headline": "Where was my invite to the — wait, what? Airbnb had a gala?",
-    "summary": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-    "image_url": null,
-    "published_at": "2026-10-29T19:17:49.000Z"
-  },
-  {
-    "headline": "Meta quietly launches an AI fashion app called Style Sketch",
-    "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-    "image_url": null,
-    "published_at": "2026-10-29T19:14:36.000Z"
-  },
-  {
-    "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
-    "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file f…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-    "image_url": null,
-    "published_at": "2026-10-29T18:45:31.000Z"
-  },
-  {
-    "headline": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-    "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt l…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-29T18:18:36.000Z"
-  },
-  {
-    "headline": "Granola crunches up a dictation feature to compete with Wispr",
-    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-    "image_url": null,
-    "published_at": "2026-10-29T17:54:38.000Z"
-  },
-  {
-    "headline": "Apple’s new laptop supports one of the coolest features for color pros",
-    "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it use…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
-    "image_url": null,
-    "published_at": "2026-10-29T17:48:09.000Z"
-  },
-  {
-    "headline": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
-    "summary": "Kalshi CEO Tarek Mansour. | Michael Nagle/Bloomberg via Getty Images Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press. The state has filed 14 charges against Kalshi, as well as…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
-    "image_url": null,
-    "published_at": "2026-10-29T17:40:23.000Z"
-  },
-  {
-    "headline": "Data centers could send US climate pollution skyrocketing",
-    "summary": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club. That would essentially wipe out 15 years of greenhouse gas reduct…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-    "image_url": null,
-    "published_at": "2026-10-29T17:10:46.000Z"
-  },
-  {
-    "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "image_url": null,
-    "published_at": "2026-10-29T17:00:00.000Z"
-  },
-  {
-    "headline": "US investigated Chinese spy plot aimed at Nvidia CEO",
-    "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-    "image_url": null,
-    "published_at": "2026-10-29T16:42:32.000Z"
   }
 ]
