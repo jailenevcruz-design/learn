@@ -1,5 +1,13 @@
 [
   {
+    "headline": "In Maine, a new approach to practicing medicine in the sky",
+    "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+    "image_url": null,
+    "published_at": "2026-11-08T11:00:00.000Z"
+  },
+  {
     "headline": "A promising new medicine against heart disease fails unexpectedly",
     "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/08/27/nx-s1-5943196/record-cyclosporiasis-outbreak-and-new-food-recalls-raise-concerns-about-food-safety",
     "image_url": null,
     "published_at": "2026-08-27T10:45:27.000Z"
-  },
-  {
-    "headline": "FDA approves landmark pancreatic cancer drug that's shown to improve survival",
-    "summary": "U.S. health officials have approved a groundbreaking pancreatic cancer drug that offers a new approach to treating the deadly form of cancer, by blocking a protein that fuels tumor growth in the vast majority of cases.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/08/27/g-s1-140410/fda-approves-landmark-pancreatic-cancer-drug",
-    "image_url": null,
-    "published_at": "2026-08-27T06:54:35.000Z"
   }
 ]
