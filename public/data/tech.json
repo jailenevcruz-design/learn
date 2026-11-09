@@ -1,5 +1,229 @@
 [
   {
+    "headline": "James Gunn is out as DC movie leader",
+    "summary": "James Gunn. | AFP via Getty Images Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
+    "image_url": null,
+    "published_at": "2026-11-09T17:39:57.000Z"
+  },
+  {
+    "headline": "The future of AI hinges on… Jensen Huang’s sex life?",
+    "summary": "Step 1. Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behav…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+    "image_url": null,
+    "published_at": "2026-11-09T17:36:08.000Z"
+  },
+  {
+    "headline": "Uber wants to park your car now, too",
+    "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the co…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+    "image_url": null,
+    "published_at": "2026-11-09T17:00:00.000Z"
+  },
+  {
+    "headline": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+    "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+    "image_url": null,
+    "published_at": "2026-11-09T17:00:00.000Z"
+  },
+  {
+    "headline": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "image_url": null,
+    "published_at": "2026-11-09T16:56:54.000Z"
+  },
+  {
+    "headline": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
+    "summary": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal storage for future-looking features. It's the additional internal storage that's the surprise change to th…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
+    "image_url": null,
+    "published_at": "2026-11-09T16:23:31.000Z"
+  },
+  {
+    "headline": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "image_url": null,
+    "published_at": "2026-11-09T16:12:28.000Z"
+  },
+  {
+    "headline": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+    "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody was reported to us to b…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+    "image_url": null,
+    "published_at": "2026-11-09T15:50:38.000Z"
+  },
+  {
+    "headline": "Disney and Adobe are building generative AI tools together",
+    "summary": "Who wants a hand-designed and creatively curated monorail anyway. | Image: Disney / Adobe The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it wil…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+    "image_url": null,
+    "published_at": "2026-11-09T15:38:56.000Z"
+  },
+  {
+    "headline": "Meta expands Instagram’s AI age-guessing tech globally",
+    "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+    "image_url": null,
+    "published_at": "2026-11-09T15:32:27.000Z"
+  },
+  {
+    "headline": "Hold up — I had a great time talking to the RIAA guy",
+    "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set the rest of m…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+    "image_url": null,
+    "published_at": "2026-11-09T15:30:00.000Z"
+  },
+  {
+    "headline": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+    "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+    "image_url": null,
+    "published_at": "2026-11-09T15:24:59.000Z"
+  },
+  {
+    "headline": "Medium is launching a new note-taking app called TK",
+    "summary": "Think of TK as Google Docs meets group chats, meets blogging. | Image: David Pierce / The Verge For the first time ever, Medium is becoming more than just a blogging platform. The company is launching a new app, called TK, that combines note taking and journaling with something resembling a private social network. The…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
+    "image_url": null,
+    "published_at": "2026-11-09T15:04:45.000Z"
+  },
+  {
+    "headline": "How to shop like a pro during Black Friday and Cyber Monday",
+    "summary": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year. And, in recent years, the sale periods have started earlier, giving you more time to take advantage of the deals. We’re already hard at work…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
+    "image_url": null,
+    "published_at": "2026-11-09T15:00:00.000Z"
+  },
+  {
+    "headline": "Here are the price-matching policies for Best Buy, Walmart, and others",
+    "summary": "Nothing is more frustrating than buying a new pair of headphones or an OLED TV, only to find out you could have gotten it cheaper somewhere else a few days or weeks later. That’s why, to keep customers happy and prevent them from shopping elsewhere, some retailers offer price-matching policies that promise to match a l…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+    "image_url": null,
+    "published_at": "2026-11-09T15:00:00.000Z"
+  },
+  {
+    "headline": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+    "summary": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+    "image_url": null,
+    "published_at": "2026-11-09T14:00:00.000Z"
+  },
+  {
+    "headline": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "image_url": null,
+    "published_at": "2026-11-09T14:00:00.000Z"
+  },
+  {
+    "headline": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+    "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+    "image_url": null,
+    "published_at": "2026-11-09T13:43:28.000Z"
+  },
+  {
+    "headline": "Tesla expands robotaxi service to San Antonio",
+    "summary": "This will be the next Texas city in which Tesla will launch robotaxis.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+    "image_url": null,
+    "published_at": "2026-11-09T11:30:24.000Z"
+  },
+  {
+    "headline": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
+    "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "image_url": null,
+    "published_at": "2026-11-09T05:26:29.000Z"
+  },
+  {
+    "headline": "Apps to distract you from the endless cycle of doomscrolling",
+    "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+    "image_url": null,
+    "published_at": "2026-11-08T22:00:00.000Z"
+  },
+  {
+    "headline": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "summary": "In a memo to the company, Huang admitted that he had an affair.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "image_url": null,
+    "published_at": "2026-11-08T21:00:11.000Z"
+  },
+  {
+    "headline": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+    "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+    "image_url": null,
+    "published_at": "2026-11-08T21:00:00.000Z"
+  },
+  {
+    "headline": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+    "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+    "image_url": null,
+    "published_at": "2026-11-08T20:30:00.000Z"
+  },
+  {
+    "headline": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+    "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+    "image_url": null,
+    "published_at": "2026-11-08T19:51:30.000Z"
+  },
+  {
+    "headline": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+    "summary": "SNL seems to have its knives out for tech executives.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+    "image_url": null,
+    "published_at": "2026-11-08T18:00:04.000Z"
+  },
+  {
+    "headline": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+    "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+    "image_url": null,
+    "published_at": "2026-11-08T17:30:00.000Z"
+  },
+  {
+    "headline": "TechCrunch Mobility: The Cybertruck experiment is over",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+    "image_url": null,
+    "published_at": "2026-11-08T17:02:00.000Z"
+  },
+  {
     "headline": "Chatbots might be coming to Apple’s HomeView",
     "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to HomeVie…",
     "publisher": "The Verge",
@@ -1374,229 +1598,5 @@
     "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
     "image_url": null,
     "published_at": "2026-10-31T17:50:12.000Z"
-  },
-  {
-    "headline": "OpenAI reportedly lowers funding target for new round",
-    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "image_url": null,
-    "published_at": "2026-10-31T16:12:55.000Z"
-  },
-  {
-    "headline": "I built an AI Tamagotchi before Meta could",
-    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It cost just $50, and I've decided the learn…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "image_url": null,
-    "published_at": "2026-10-31T16:05:00.000Z"
-  },
-  {
-    "headline": "From restaurant guides to payments, here’s how TikTok is building a super app",
-    "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-    "image_url": null,
-    "published_at": "2026-10-31T15:41:57.000Z"
-  },
-  {
-    "headline": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-    "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter results for files,…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-    "image_url": null,
-    "published_at": "2026-10-31T15:12:19.000Z"
-  },
-  {
-    "headline": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-    "summary": "We got a chance to touch Apple’s latest MacBook at the “Pro and Tell” event. | Photo: Antonio G. Di Benedetto / The Verge While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift car…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-    "image_url": null,
-    "published_at": "2026-10-31T15:00:00.000Z"
-  },
-  {
-    "headline": "Vic Mensa can’t live without the Voice Memos app",
-    "summary": "No lies detected. | Photo: Onda Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single \"Down…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-    "image_url": null,
-    "published_at": "2026-10-31T15:00:00.000Z"
-  },
-  {
-    "headline": "I took two iPhones on vacation. The Duo won me over.",
-    "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-    "image_url": null,
-    "published_at": "2026-10-31T14:00:00.000Z"
-  },
-  {
-    "headline": "Touchscreens everywhere!",
-    "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a family vacation. It was delightful (and the…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-    "image_url": null,
-    "published_at": "2026-10-31T12:00:00.000Z"
-  },
-  {
-    "headline": "Here’s why you can&#8217;t shake those unhinged political texts",
-    "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick video about the election t…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
-    "image_url": null,
-    "published_at": "2026-10-31T12:00:00.000Z"
-  },
-  {
-    "headline": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-    "summary": "The money behind the money is thrilled, mostly.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-    "image_url": null,
-    "published_at": "2026-10-31T04:16:50.000Z"
-  },
-  {
-    "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "image_url": null,
-    "published_at": "2026-10-31T01:20:05.000Z"
-  },
-  {
-    "headline": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-    "image_url": null,
-    "published_at": "2026-10-30T23:21:23.000Z"
-  },
-  {
-    "headline": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "image_url": null,
-    "published_at": "2026-10-30T22:56:13.000Z"
-  },
-  {
-    "headline": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "image_url": null,
-    "published_at": "2026-10-30T22:32:53.000Z"
-  },
-  {
-    "headline": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "image_url": null,
-    "published_at": "2026-10-30T21:54:34.000Z"
-  },
-  {
-    "headline": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "image_url": null,
-    "published_at": "2026-10-30T21:52:03.000Z"
-  },
-  {
-    "headline": "Applebee’s exposed customers’ personal data after leaving database password in app",
-    "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-    "image_url": null,
-    "published_at": "2026-10-30T21:48:53.000Z"
-  },
-  {
-    "headline": "Last-minute Halloween costumes for tech nerds",
-    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "image_url": null,
-    "published_at": "2026-10-30T21:26:59.000Z"
-  },
-  {
-    "headline": "Cracks are emerging in the AI spending boom",
-    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "image_url": null,
-    "published_at": "2026-10-30T21:17:40.000Z"
-  },
-  {
-    "headline": "Exclusive details about Akai’s MPC Sample Key",
-    "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of the upcoming instr…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-    "image_url": null,
-    "published_at": "2026-10-30T21:01:32.000Z"
-  },
-  {
-    "headline": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want loc…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-    "image_url": null,
-    "published_at": "2026-10-30T20:48:43.000Z"
-  },
-  {
-    "headline": "The biggest names in AI are backing a new way to opt out of scraping",
-    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "image_url": null,
-    "published_at": "2026-10-30T20:26:10.000Z"
-  },
-  {
-    "headline": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-    "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-    "image_url": null,
-    "published_at": "2026-10-30T19:55:13.000Z"
-  },
-  {
-    "headline": "Google&#8217;s satellite AI server transmits its first response to Earth",
-    "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Dat…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-    "image_url": null,
-    "published_at": "2026-10-30T18:21:38.000Z"
-  },
-  {
-    "headline": "Satlyt takes another step toward turning satellites into space data centers",
-    "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-    "image_url": null,
-    "published_at": "2026-10-30T18:01:24.000Z"
-  },
-  {
-    "headline": "Zest’s new AI agent finds restaurants and books reservations over text",
-    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "image_url": null,
-    "published_at": "2026-10-30T17:47:12.000Z"
-  },
-  {
-    "headline": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-    "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make paymen…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-    "image_url": null,
-    "published_at": "2026-10-30T17:38:04.000Z"
-  },
-  {
-    "headline": "The delightfully messy state of Apple gadgets",
-    "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-    "image_url": null,
-    "published_at": "2026-10-30T17:25:20.000Z"
   }
 ]
