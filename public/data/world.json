@@ -1,5 +1,13 @@
 [
   {
+    "headline": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+    "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+    "image_url": null,
+    "published_at": "2026-11-09T22:30:49.000Z"
+  },
+  {
     "headline": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
     "summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
     "publisher": "NPR",
@@ -1590,13 +1598,5 @@
     "url": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
     "image_url": null,
     "published_at": "2026-10-07T15:00:47.000Z"
-  },
-  {
-    "headline": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
-    "summary": "The Lahore High Court is a near-perfect specimen of British South Asian colonial architecture and its main square is a pleasant spot shaded by banyan trees.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
-    "image_url": null,
-    "published_at": "2026-10-07T13:53:54.000Z"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "headline": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+    "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+    "image_url": null,
+    "published_at": "2026-11-09T22:30:49.000Z"
+  },
+  {
+    "headline": "Stephen Miller is now chief of staff. What does that mean for Trump?",
+    "summary": "NPR's Sacha Pfeiffer speaks with Chris Whipple, an expert on White House chiefs of staff who has written extensively about Susie Wiles, about Trump's appointment of Stephen Miller.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6034461/stephen-miller-is-now-chief-of-staff-what-does-that-mean-for-trump",
+    "image_url": null,
+    "published_at": "2026-11-09T21:08:40.000Z"
+  },
+  {
+    "headline": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+    "summary": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+    "image_url": null,
+    "published_at": "2026-11-09T20:52:24.000Z"
+  },
+  {
     "headline": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
     "summary": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
     "publisher": "NPR",
@@ -24,18 +48,10 @@
     "published_at": "2026-11-09T11:45:25.000Z"
   },
   {
-    "headline": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-    "summary": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image.",
+    "headline": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
+    "summary": "The Supreme Court considers the case of a prisoner who suffered brutal injuries, only to be denied medical care behind bars. He wants to sue the prison nurse in a case that could change the law on holding federal officers accountable.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
-    "image_url": null,
-    "published_at": "2026-11-09T10:00:00.000Z"
-  },
-  {
-    "headline": "Congress is coming back to Washington. Here's what to expect",
-    "summary": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights",
     "image_url": null,
     "published_at": "2026-11-09T10:00:00.000Z"
   },
@@ -48,10 +64,18 @@
     "published_at": "2026-11-09T10:00:00.000Z"
   },
   {
-    "headline": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
-    "summary": "The Supreme Court considers the case of a prisoner who suffered brutal injuries, only to be denied medical care behind bars. He wants to sue the prison nurse in a case that could change the law on holding federal officers accountable.",
+    "headline": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+    "summary": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image.",
     "publisher": "NPR",
-    "url": "https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
+    "image_url": null,
+    "published_at": "2026-11-09T10:00:00.000Z"
+  },
+  {
+    "headline": "Congress is coming back to Washington. Here's what to expect",
+    "summary": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
     "image_url": null,
     "published_at": "2026-11-09T10:00:00.000Z"
   },
@@ -1574,29 +1598,5 @@
     "url": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers",
     "image_url": null,
     "published_at": "2026-10-16T11:03:57.000Z"
-  },
-  {
-    "headline": "Do Americans own the president's papers? Appeals court to weigh in",
-    "summary": "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
-    "image_url": null,
-    "published_at": "2026-10-16T09:00:00.000Z"
-  },
-  {
-    "headline": "'Everything got worse': Gen Z express frustration, regret after Trump vote",
-    "summary": "A focus group of eight Gen Z Trump voters reported feeling unhappy or disappointed with the state of politics, with some going as far as to say they regret supporting him in 2024.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
-    "image_url": null,
-    "published_at": "2026-10-16T09:00:00.000Z"
-  },
-  {
-    "headline": "Suspicious mailings to election officials, congressional offices under investigation",
-    "summary": "The FBI and U.S. Postal Inspection Service are looking into the mailings, some of which included an unidentified powdery white substance.",
-    "publisher": "NPR",
-    "url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
-    "image_url": null,
-    "published_at": "2026-10-15T19:54:15.000Z"
   }
 ]

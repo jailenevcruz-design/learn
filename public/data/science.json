@@ -1,5 +1,21 @@
 [
   {
+    "headline": "Scientists think they've found ancient remnants of dinosaur blood",
+    "summary": "Scientists have studied plenty of dinosaur bones, eggs and footprints. Now, some think they've found their strongest evidence yet of dinosaur blood.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6026704/scientists-think-theyve-found-ancient-remnants-of-dinosaur-blood",
+    "image_url": null,
+    "published_at": "2026-11-09T22:00:49.000Z"
+  },
+  {
+    "headline": "Mice can learn to fight by watching tiny rodent cage matches, study finds",
+    "summary": "Brain scientists set up \"gladiator style\" cage matches for mice — and found that simply observing fighting matches can rewire a mouse's brain to resemble those who actually fought.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6027938/mice-can-learn-to-fight-by-watching-tiny-rodent-cage-matches-study-finds",
+    "image_url": null,
+    "published_at": "2026-11-09T21:39:35.000Z"
+  },
+  {
     "headline": "Common supplement could help fight psoriasis, scientists discover",
     "summary": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol and autoimmune infl…",
     "publisher": "ScienceDaily",
@@ -1582,21 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
     "image_url": null,
     "published_at": "2026-10-23T10:10:11.000Z"
-  },
-  {
-    "headline": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
-    "summary": "Switzerland’s glaciers are disappearing at an alarming rate, losing more than 5% of their ice volume in 2026 alone. Some of the country’s most famous glaciers experienced their worst melting on record, while several smaller glaciers vanished completely. Nearly 20% of Switzerland’s glacier ice has disappeared in just fi…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
-    "image_url": null,
-    "published_at": "2026-10-23T09:42:58.000Z"
-  },
-  {
-    "headline": "Scientists discover a hidden messaging system deep inside the brain",
-    "summary": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, according to new res…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
-    "image_url": null,
-    "published_at": "2026-10-23T08:28:22.000Z"
   }
 ]
