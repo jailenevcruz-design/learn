@@ -1,5 +1,213 @@
 [
   {
+    "headline": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+    "summary": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+    "image_url": null,
+    "published_at": "2026-11-10T15:42:00.000Z"
+  },
+  {
+    "headline": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
+    "summary": "Rivian CEO RJ Scaringe says 2027 will be an “inflection year” as the EV maker scales R2 and invests in autonomy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
+    "image_url": null,
+    "published_at": "2026-11-10T15:11:48.000Z"
+  },
+  {
+    "headline": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+    "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+    "image_url": null,
+    "published_at": "2026-11-10T15:04:23.000Z"
+  },
+  {
+    "headline": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
+    "summary": "CoreWeave’s earnings after the bell could calm fears about its debt-fueled AI buildout — or stoke more fear.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
+    "image_url": null,
+    "published_at": "2026-11-10T15:01:21.000Z"
+  },
+  {
+    "headline": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+    "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "image_url": null,
+    "published_at": "2026-11-10T14:50:03.000Z"
+  },
+  {
+    "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
+    "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue-wave midterm election.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+    "image_url": null,
+    "published_at": "2026-11-10T14:48:34.000Z"
+  },
+  {
+    "headline": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+    "summary": "The agency has found evidence of a potential increased risk of a rare eye condition linked to the use of GLP-1 drugs used for weight management and diabetes.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+    "image_url": null,
+    "published_at": "2026-11-10T14:43:30.000Z"
+  },
+  {
+    "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "summary": "Futures are down after a higher-than-expected consumer price index this morning stoked inflation concerns.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "image_url": null,
+    "published_at": "2026-11-10T14:43:06.000Z"
+  },
+  {
+    "headline": "Gas prices dip below $4 but inflation remains stubbornly high",
+    "summary": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
+    "image_url": null,
+    "published_at": "2026-11-10T14:35:50.000Z"
+  },
+  {
+    "headline": "Does anyone feel safe from layoffs right now?",
+    "summary": "AI fears and a lackluster job market are fueling a looming worry that layoffs are around the corner, even if you do your job well.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/10/layoff-announcements-are-slowing-this-year-workers-are-still-worried.html",
+    "image_url": null,
+    "published_at": "2026-11-10T14:30:56.000Z"
+  },
+  {
+    "headline": "How much you can make in 2027 and still pay 0% capital gains tax",
+    "summary": "The IRS has announced higher long-term capital gains tax brackets for 2027. Here's what investors need to know.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/2027-zero-percent-capital-gains-tax.html",
+    "image_url": null,
+    "published_at": "2026-11-10T14:12:02.000Z"
+  },
+  {
+    "headline": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+    "summary": "France said the cyber unit of Iran's Islamic Revolutionary Guard Corps carried out an \"unprecedented campaign\" that caused millions of euros in damage.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+    "image_url": null,
+    "published_at": "2026-11-10T13:43:38.000Z"
+  },
+  {
+    "headline": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
+    "summary": "Rep. John Moolenaar, R-Mich., is the chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+    "image_url": null,
+    "published_at": "2026-11-10T13:41:57.000Z"
+  },
+  {
+    "headline": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+    "summary": "Amazon's $250 Ring Drone Cam flies from room to room to investigate suspicious activity, and can capture footage at night.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+    "image_url": null,
+    "published_at": "2026-11-10T13:30:01.000Z"
+  },
+  {
+    "headline": "Bridgepoint sees opportunity in 're-rated' real estate",
+    "summary": "While higher interest rates are chasing many investors away from real estate, Bridgepoint Group sees opportunity in overlooked corners of the property market.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html",
+    "image_url": null,
+    "published_at": "2026-11-10T13:30:01.000Z"
+  },
+  {
+    "headline": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+    "summary": "Vehicle transaction prices are up to a new record high, according to the Kelley Blue Book — and some buyers are extending their car loans to finance them.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+    "image_url": null,
+    "published_at": "2026-11-10T13:30:00.000Z"
+  },
+  {
+    "headline": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal",
+    "summary": "The cliche is one of those smart-sounding rules of thumb that proves true just often enough to remain a Wall Street cliché in good standing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/chip-stocks-rally-nvidia-scandal.html",
+    "image_url": null,
+    "published_at": "2026-11-10T13:19:13.000Z"
+  },
+  {
+    "headline": "How GM is trying to talk used car shoppers into buying new vehicles",
+    "summary": "Automakers say that substantial shares of the customers walking into a dealership looking for certified used cars end up buying new. Here's how it works.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html",
+    "image_url": null,
+    "published_at": "2026-11-10T13:00:01.000Z"
+  },
+  {
+    "headline": "Polymarket says annualized revenue has topped $1.8 billion",
+    "summary": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+    "image_url": null,
+    "published_at": "2026-11-10T13:00:01.000Z"
+  },
+  {
+    "headline": "Bilt bets on local businesses, hospitality and major sports franchises, expanding beyond residential rewards",
+    "summary": "Bilt is announcing the launch of two new platforms designed to help local businesses and event venues attract customers and build loyalty.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/bilt-expands-beyond-residential-rewards.html",
+    "image_url": null,
+    "published_at": "2026-11-10T12:32:17.000Z"
+  },
+  {
+    "headline": "Trump sees opening for Ukraine peace deal, but key questions remain ahead of Abu Dhabi talks",
+    "summary": "President Trump signaled optimism for the end of Russia's war in Ukraine ahead of trilateral negotiation talks on Tuesday in Abu Dhabi.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
+    "image_url": null,
+    "published_at": "2026-11-10T11:52:54.000Z"
+  },
+  {
+    "headline": "Why did California's billionaire tax fail to surf the blue wave?",
+    "summary": "Two economists debate what California's vote on Prop 40 means for the wealth tax movement.",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave",
+    "image_url": null,
+    "published_at": "2026-11-10T11:30:00.000Z"
+  },
+  {
+    "headline": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+    "summary": "JD Vance, Marco Rubio and Ron DeSantis offer competing explanations for the GOP's midterm defeat as Trump keeps his potential successors guessing.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+    "image_url": null,
+    "published_at": "2026-11-10T11:00:01.000Z"
+  },
+  {
+    "headline": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+    "summary": "“Iran militarily is effectively over,” Trump said, citing the destruction of its navy and surging inflation that he said has hollowed out Tehran's economy.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
+    "image_url": null,
+    "published_at": "2026-11-10T07:00:02.000Z"
+  },
+  {
+    "headline": "Trump’s C-SPAN call marks latest surprise post-midterm appearance",
+    "summary": "Trump called C-SPAN's new primetime show unannounced after a surprise White House briefing-room and ballroom appearances.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html",
+    "image_url": null,
+    "published_at": "2026-11-10T06:19:09.000Z"
+  },
+  {
+    "headline": "TSMC's October sales jump as global chip boom rolls on",
+    "summary": "TSMC reports its monthly sales figures for October on Tuesday.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+    "image_url": null,
+    "published_at": "2026-11-10T05:42:42.000Z"
+  },
+  {
     "headline": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
     "summary": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy.",
     "publisher": "CNBC",
@@ -16,12 +224,28 @@
     "published_at": "2026-11-09T23:54:21.000Z"
   },
   {
+    "headline": "Senate advances Trump-backed bipartisan bill to speed critical infrastructure projects",
+    "summary": "The bill would force artificial intelligence companies and data center developers to pay their own way for power and grid enhancements.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/09/senate-infrastructure-bill-data-centers.html",
+    "image_url": null,
+    "published_at": "2026-11-09T23:54:06.000Z"
+  },
+  {
     "headline": "PepsiCo to cut about 1,000 jobs as North American business struggles",
     "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
     "publisher": "CNBC",
     "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
     "image_url": null,
     "published_at": "2026-11-09T23:31:17.000Z"
+  },
+  {
+    "headline": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
+    "summary": "Anthropic's initial public offering could be a crucial test of investor confidence in the AI trade, CNBC's Jim Cramer said.",
+    "publisher": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
+    "image_url": null,
+    "published_at": "2026-11-09T23:30:15.000Z"
   },
   {
     "headline": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
@@ -1374,229 +1598,5 @@
     "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
     "image_url": null,
     "published_at": "2026-11-03T17:05:29.000Z"
-  },
-  {
-    "headline": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
-    "summary": "Shopify stock fell after the e-commerce platform's Q3 revenue and gross merchandise volume missed estimates, despite an adjusted earnings beat.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
-    "image_url": null,
-    "published_at": "2026-11-03T16:53:01.000Z"
-  },
-  {
-    "headline": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
-    "summary": "\"We're back to the casino-type markets when there was 95% leverage,\" said the founder of Pershing Square Capital Management.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
-    "image_url": null,
-    "published_at": "2026-11-03T16:23:26.000Z"
-  },
-  {
-    "headline": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-    "summary": "Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-11-03T15:19:14.000Z"
-  },
-  {
-    "headline": "We're trimming some more off a stock that's enjoying nice post-earnings gains",
-    "summary": "Like we said Monday, we're still unsure what the next catalyst is.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/03/were-trimming-some-more-off-a-stock-thats-enjoying-nice-post-earnings-gains.html",
-    "image_url": null,
-    "published_at": "2026-11-03T15:09:51.000Z"
-  },
-  {
-    "headline": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB Fernando Mendoza",
-    "summary": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup quarterback Fernando Mendoza onto the field.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/las-vegas-raiders-owner-mark-davis-wont-rush-fernando-mendoza-.html",
-    "image_url": null,
-    "published_at": "2026-11-03T15:02:30.000Z"
-  },
-  {
-    "headline": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
-    "summary": "European supermarkets have become the center of another cyberattack, with hackers remotely heating fridges and spoiling food.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-    "image_url": null,
-    "published_at": "2026-11-03T14:31:25.000Z"
-  },
-  {
-    "headline": "Versant earnings beat expectations as digital platforms drive growth",
-    "summary": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
-    "image_url": null,
-    "published_at": "2026-11-03T14:17:42.000Z"
-  },
-  {
-    "headline": "Baked by Melissa enters Target with first at-home cupcake mix",
-    "summary": "Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
-    "image_url": null,
-    "published_at": "2026-11-03T13:40:04.000Z"
-  },
-  {
-    "headline": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
-    "summary": "The road to bull-market glory does not run through Walmart and Berkshire Hathaway and Eli Lilly.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/santoli-ai-bull-market-needs-tech-stocks.html",
-    "image_url": null,
-    "published_at": "2026-11-03T13:01:23.000Z"
-  },
-  {
-    "headline": "New national home listing database is taking on Compass in the battle for control of real estate information",
-    "summary": "Heavy hitters in residential real estate joined the fight over who can see residential property listings. Their goal, they say, is to counter private listings.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/national-home-listing-database-battles-compass-in-real-estate-info-war.html",
-    "image_url": null,
-    "published_at": "2026-11-03T13:00:01.000Z"
-  },
-  {
-    "headline": "A little-known biotech’s high-stakes cancer bet just paid off and its shares doubled",
-    "summary": "Genmab’s shares have doubled in three months after a string of cancer drug trial wins, strengthening its push to own more of the medicines it develops.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/genmab-cancer-drugs-petosemtamab.html",
-    "image_url": null,
-    "published_at": "2026-11-03T09:35:47.000Z"
-  },
-  {
-    "headline": "Brookfield plans for a $27 billion AI data center at UK power station",
-    "summary": "Europe is scrambling to develop infrastructure to support the rollout of AI amid high energy and land costs.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
-    "image_url": null,
-    "published_at": "2026-11-03T09:30:35.000Z"
-  },
-  {
-    "headline": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-    "summary": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
-    "image_url": null,
-    "published_at": "2026-11-03T06:46:36.000Z"
-  },
-  {
-    "headline": "North Korea denies links to Binance hack as researchers trace stolen billions",
-    "summary": "North Korea rejected allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
-    "image_url": null,
-    "published_at": "2026-11-03T06:32:10.000Z"
-  },
-  {
-    "headline": "Australia hikes rates to 18-year high to fight inflation",
-    "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
-    "image_url": null,
-    "published_at": "2026-11-03T03:46:20.000Z"
-  },
-  {
-    "headline": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
-    "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
-    "image_url": null,
-    "published_at": "2026-11-03T02:47:57.000Z"
-  },
-  {
-    "headline": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
-    "summary": "Employees describing jobs as 'remote' are now often in-office, as companies fail to create the collaboration they claim is critical, NY Fed research shows.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
-    "image_url": null,
-    "published_at": "2026-11-03T02:31:00.000Z"
-  },
-  {
-    "headline": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
-    "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-    "image_url": null,
-    "published_at": "2026-11-03T01:32:13.000Z"
-  },
-  {
-    "headline": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
-    "summary": "While technology stocks have come under pressure in recent weeks, consumer stocks have been resilient.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
-    "image_url": null,
-    "published_at": "2026-11-02T23:54:27.000Z"
-  },
-  {
-    "headline": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
-    "summary": "The U.S. chipmaker's humanoid robot systems feature mechanical hands from China-linked startups.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
-    "image_url": null,
-    "published_at": "2026-11-02T23:00:01.000Z"
-  },
-  {
-    "headline": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-    "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-    "image_url": null,
-    "published_at": "2026-11-02T22:53:20.000Z"
-  },
-  {
-    "headline": "Intel foundry push faces critical test after stock's 45% plunge in October",
-    "summary": "Intel’s turnaround now hinges on proving its foundry strategy can deliver, as customers look for signs the company will add fab capacity and catch TSMC",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
-    "image_url": null,
-    "published_at": "2026-11-02T21:59:48.000Z"
-  },
-  {
-    "headline": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
-    "summary": "Kimberly-Clark has a plan improve growth and earnings following its acquisition of Kenvue",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
-    "image_url": null,
-    "published_at": "2026-11-02T21:35:06.000Z"
-  },
-  {
-    "headline": "Trump focuses on Reflecting Pool in final public speech before midterms",
-    "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
-    "image_url": null,
-    "published_at": "2026-11-02T21:15:13.000Z"
-  },
-  {
-    "headline": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-    "image_url": null,
-    "published_at": "2026-11-02T21:13:43.000Z"
-  },
-  {
-    "headline": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-    "summary": "Oracle filed plans on Monday to issue new shares and more debt to finance its artificial intelligence buildout.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "image_url": null,
-    "published_at": "2026-11-02T21:10:34.000Z"
-  },
-  {
-    "headline": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-    "summary": "The AI infrastructure deal is expected to close during the first half of 2028.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-    "image_url": null,
-    "published_at": "2026-11-02T21:00:59.000Z"
-  },
-  {
-    "headline": "I bonds now pay 5.51% — but there are trade-offs. What to know before buying",
-    "summary": "I bonds are now paying 5.51%. Here are some key things to know before investing, according to financial experts.",
-    "publisher": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
-    "image_url": null,
-    "published_at": "2026-11-02T20:57:50.000Z"
   }
 ]

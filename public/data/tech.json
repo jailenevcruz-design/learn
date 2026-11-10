@@ -1,5 +1,205 @@
 [
   {
+    "headline": "Ember’s latest self-heating 14-ounce mug is $50 off",
+    "summary": "You can toggle through temperature settings directly from the mug, or from within the app. | Image: The Verge If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current discount happening at Amazon, Ember, and Best Buy for several colors of the (top rack) dishwasher-saf…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
+    "image_url": null,
+    "published_at": "2026-11-10T15:47:18.000Z"
+  },
+  {
+    "headline": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+    "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:45:27.000Z"
+  },
+  {
+    "headline": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:29:30.000Z"
+  },
+  {
+    "headline": "Reddit wants to guide your next purchase",
+    "summary": "Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publish product reviews and roundups. The company is launching Reddit Reviews, a built-in product review…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+    "image_url": null,
+    "published_at": "2026-11-10T15:00:00.000Z"
+  },
+  {
+    "headline": "Reddit is turning user conversations into AI-powered product reviews",
+    "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:00:00.000Z"
+  },
+  {
+    "headline": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+    "summary": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:00:00.000Z"
+  },
+  {
+    "headline": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+    "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on PCs, the web, Xbox consoles, and even TVs, it appears to be restricted to just Xbox Series X / S and Xbox One consoles.…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+    "image_url": null,
+    "published_at": "2026-11-10T14:37:09.000Z"
+  },
+  {
+    "headline": "Anthropic targets $1.4 trillion IPO",
+    "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times. The Wall Street Journal reports t…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+    "image_url": null,
+    "published_at": "2026-11-10T14:06:54.000Z"
+  },
+  {
+    "headline": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "image_url": null,
+    "published_at": "2026-11-10T14:05:10.000Z"
+  },
+  {
+    "headline": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "image_url": null,
+    "published_at": "2026-11-10T14:01:39.000Z"
+  },
+  {
+    "headline": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
+    "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated from the original 13-inch model with a black frame and matching…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
+    "summary": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowdfunded launch, the Pro could be had for as little as $425. Today, you're looking at $599.95 for the…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "Adobe is going all in on agentic AI",
+    "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI ag…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+    "summary": "Photoshop’s Quick Compare feature lets you quickly review a before-and-after comparison of edits. | Image: Adobe Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max e…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+    "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "Amazon turned its Alexa robot into a Ring security patrol bot",
+    "summary": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. It borrows a lot of the design and functionality from the Astro home robot that Amazon first debuted…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
+    "image_url": null,
+    "published_at": "2026-11-10T13:30:00.000Z"
+  },
+  {
+    "headline": "Hands-on with Ring’s new AI drone camera for your home",
+    "summary": "Ring’s new Drone Cam is a flying indoor security camera. Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive a…",
+    "publisher": "The Verge",
+    "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+    "image_url": null,
+    "published_at": "2026-11-10T13:30:00.000Z"
+  },
+  {
+    "headline": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+    "image_url": null,
+    "published_at": "2026-11-10T13:30:00.000Z"
+  },
+  {
+    "headline": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "image_url": null,
+    "published_at": "2026-11-10T13:00:00.000Z"
+  },
+  {
+    "headline": "Otter AI can now follow conversations across 30+ languages",
+    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "image_url": null,
+    "published_at": "2026-11-10T07:00:00.000Z"
+  },
+  {
+    "headline": "California’s proposed ‘billionaire tax’ fails to pass",
+    "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed thei…",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+    "image_url": null,
+    "published_at": "2026-11-10T05:18:43.000Z"
+  },
+  {
+    "headline": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+    "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+    "image_url": null,
+    "published_at": "2026-11-10T04:34:15.000Z"
+  },
+  {
+    "headline": "Anthropic reportedly plans to move forward with IPO plans",
+    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "publisher": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "image_url": null,
+    "published_at": "2026-11-10T01:27:12.000Z"
+  },
+  {
     "headline": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
     "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to be th…",
     "publisher": "The Verge",
@@ -1398,205 +1598,5 @@
     "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
     "image_url": null,
     "published_at": "2026-11-02T19:45:54.000Z"
-  },
-  {
-    "headline": "Web host Squarespace lays off 19% of its employees",
-    "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-    "image_url": null,
-    "published_at": "2026-11-02T19:25:59.000Z"
-  },
-  {
-    "headline": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-    "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low price. Apple Watch Ult…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-    "image_url": null,
-    "published_at": "2026-11-02T19:24:09.000Z"
-  },
-  {
-    "headline": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "image_url": null,
-    "published_at": "2026-11-02T19:19:17.000Z"
-  },
-  {
-    "headline": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-    "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-    "image_url": null,
-    "published_at": "2026-11-02T19:11:49.000Z"
-  },
-  {
-    "headline": "Ford promises not to sell your driving habits to data brokers",
-    "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will st…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-    "image_url": null,
-    "published_at": "2026-11-02T19:05:46.000Z"
-  },
-  {
-    "headline": "Anthropic clamps down on Claude’s AI video game clones",
-    "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make gam…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-    "image_url": null,
-    "published_at": "2026-11-02T18:56:02.000Z"
-  },
-  {
-    "headline": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
-    "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha S…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-    "image_url": null,
-    "published_at": "2026-11-02T18:43:24.000Z"
-  },
-  {
-    "headline": "OpenAI pitches data center power plants as a way to protect nearby areas",
-    "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announceme…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-    "image_url": null,
-    "published_at": "2026-11-02T18:01:30.000Z"
-  },
-  {
-    "headline": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-    "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-    "image_url": null,
-    "published_at": "2026-11-02T17:54:11.000Z"
-  },
-  {
-    "headline": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-    "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, a…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-    "image_url": null,
-    "published_at": "2026-11-02T17:51:19.000Z"
-  },
-  {
-    "headline": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-    "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-    "image_url": null,
-    "published_at": "2026-11-02T17:49:41.000Z"
-  },
-  {
-    "headline": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-    "summary": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware \"has been finished for around two years,\" but that the software isn't ready. The device's software team has reportedly pushed to delay…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-    "image_url": null,
-    "published_at": "2026-11-02T17:06:10.000Z"
-  },
-  {
-    "headline": "Squarespace is laying off 19 percent of employees",
-    "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts will affect around 300 of Squarespace's 1,800 employees. \"The changes are intended to simplify how we operate…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
-    "image_url": null,
-    "published_at": "2026-11-02T16:50:47.000Z"
-  },
-  {
-    "headline": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-    "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-    "image_url": null,
-    "published_at": "2026-11-02T16:44:48.000Z"
-  },
-  {
-    "headline": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "image_url": null,
-    "published_at": "2026-11-02T16:30:00.000Z"
-  },
-  {
-    "headline": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-    "image_url": null,
-    "published_at": "2026-11-02T16:23:21.000Z"
-  },
-  {
-    "headline": "Why Peacock is making a huge bet on YouTube",
-    "summary": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait. First, about a month after…",
-    "publisher": "The Verge",
-    "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
-    "image_url": null,
-    "published_at": "2026-11-02T16:00:00.000Z"
-  },
-  {
-    "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "image_url": null,
-    "published_at": "2026-11-02T15:00:00.000Z"
-  },
-  {
-    "headline": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
-    "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
-    "image_url": null,
-    "published_at": "2026-11-02T14:42:38.000Z"
-  },
-  {
-    "headline": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-    "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-    "image_url": null,
-    "published_at": "2026-11-02T14:22:35.000Z"
-  },
-  {
-    "headline": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
-    "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
-    "image_url": null,
-    "published_at": "2026-11-02T14:08:52.000Z"
-  },
-  {
-    "headline": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-    "image_url": null,
-    "published_at": "2026-11-02T14:00:00.000Z"
-  },
-  {
-    "headline": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "image_url": null,
-    "published_at": "2026-11-02T13:57:53.000Z"
-  },
-  {
-    "headline": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
-    "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
-    "image_url": null,
-    "published_at": "2026-11-02T11:00:00.000Z"
-  },
-  {
-    "headline": "Borrowed reading: stories from our extended colleagues",
-    "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
-    "publisher": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-    "image_url": null,
-    "published_at": "2026-11-02T04:23:48.000Z"
   }
 ]

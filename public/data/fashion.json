@@ -1,5 +1,189 @@
 [
   {
+    "headline": "Balmain Resort 2027",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/resort-2027/balmain",
+    "image_url": null,
+    "published_at": "2026-11-10T15:50:43.000Z"
+  },
+  {
+    "headline": "Balmain Resort 2027 Menswear",
+    "summary": "",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/resort-2027-menswear/balmain",
+    "image_url": null,
+    "published_at": "2026-11-10T15:50:43.000Z"
+  },
+  {
+    "headline": "The Outside View: How New AI Oversight Could Ripple Into Retail",
+    "summary": "Kenya N. Wiley on what might come next for fashion and AI as the Democrats take charge on Capitol Hill.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/technology/ai-oversight-impact-fashion-retail-1239407689/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:41:09.000Z"
+  },
+  {
+    "headline": "This Christmas, Harrods Is Doing Things Differently",
+    "summary": "From a celestial façade and choreographed light shows to Dior experiences and bespoke gifting, Harrods is turning its Knightsbridge store into a festive destination.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/this-christmas-harrods-is-doing-things-differently",
+    "image_url": null,
+    "published_at": "2026-11-10T15:30:00.000Z"
+  },
+  {
+    "headline": "Harrods Dives Into Holiday Season With ‘Where the Stars Align’",
+    "summary": "For Christmas, the Knightsbridge retailer brings together 17,000 lights, handcrafted windows, luxury brand activations, and experiences for families.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/retail/harrods-holiday-season-where-the-stars-align-campaign-1239406674/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:30:00.000Z"
+  },
+  {
+    "headline": "Italian Design Firm Henge Expands Into Tableware, Fragrances",
+    "summary": "The design-forward brand founded in 2011 has unveiled its first home collection of tableware.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/home-design/home-decor/henge-tableware-glassware-home-fragrances-launch-1239408486/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:28:42.000Z"
+  },
+  {
+    "headline": "London-Based Interior Designer Tala Fustok Introduces First Furniture Collection",
+    "summary": "The interior designer, who divides her time between London and Apulia, Italy, launched Pieces.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/home-design/furniture/tala-fustok-pieces-furniture-collection-launch-1239407292/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:24:59.000Z"
+  },
+  {
+    "headline": "Tiffany & Co. and CFDA Name Five Finalists for Second Jewelry Designer Award",
+    "summary": "The emerging designers will compete for a $50,000 grant and a yearlong fellowship with the American jewelry house.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/accessories-news/jewelry/tiffany-co-and-cfda-name-finalists-jewelry-designer-award-1239406818/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:21:01.000Z"
+  },
+  {
+    "headline": "Nahmias and Cash App Launch Pay by Bandana",
+    "summary": "The limited-edition tap-to-pay bandana is available to order on Nov. 17.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/technology/nahmias-cash-app-contactless-payment-bandana-1239408071/",
+    "image_url": null,
+    "published_at": "2026-11-10T15:03:48.000Z"
+  },
+  {
+    "headline": "Antoine Arnault Named President of Paris FC",
+    "summary": "The Arnault family’s holding group Agache took a majority stake in the up-and-coming soccer club two years ago.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/business-news/human-resources/antoine-arnault-paris-fc-president-football-team-1239408356/",
+    "image_url": null,
+    "published_at": "2026-11-10T14:52:22.000Z"
+  },
+  {
+    "headline": "In Her First-Ever Stand-Up Special, Janelle James Sees Through the Dark",
+    "summary": "“This special is an introduction for a lot of people to me as a stand-up,” James says of “How Romantic,” now streaming on Netflix. “I’m not really loud. I’m not really doing act-outs. I don’t really have props. This is me performing as myself.”",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/janelle-james-how-romantic-interview",
+    "image_url": null,
+    "published_at": "2026-11-10T14:42:36.000Z"
+  },
+  {
+    "headline": "Louise Kennedy on Her Sweeping Second Novel, ‘Stations’",
+    "summary": "Kennedy spoke to Vogue over Zoom from her home in Sligo about being a late bloomer, Irish-granny maximalism, and why the Troubles have been taking off.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/louise-kennedy-stations-interview",
+    "image_url": null,
+    "published_at": "2026-11-10T14:33:12.000Z"
+  },
+  {
+    "headline": "Canada Extends Tariff Relief on Certain US Goods, Introduces Exemption Process",
+    "summary": "The Canadian government announced plans to extend a suspension of duties on certain American industrial imports.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/sourcing-journal/trade/canada-tariffs-horizontal-remission-trade-war-exemptions-1239408284/",
+    "image_url": null,
+    "published_at": "2026-11-10T14:22:03.000Z"
+  },
+  {
+    "headline": "This Couple Rented Out a 17th-Century Stone Village for Their Misty Cliffside Wedding in the Azores",
+    "summary": "Kathryn Mawhinney and Grayson Judge exchanged vows in an 18th-century church on the remote Portuguese island of Flores—an homage to his Azorean heritage.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/slideshow/kathryn-mawhinney-and-grayson-judge-wedding",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "Chanel’s Luxury Lip Glosses Might Be the Chicest Way to Get the Viral Fuller-Lip Look Without Filler",
+    "summary": "A swipe of gloss, a touch of color and a little French beauty know-how might be all you need to master the fuller-lip look.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/shop/shop-beauty/chanel-lip-glosses-lipsticks-where-to-buy-holiday-1239408231/",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "Ugg Enlists Method Man and Redman to Help Tease Debut Aimé Leon Dore Collab",
+    "summary": "The new moccasin-inspired slipper will be released on Nov. 12.",
+    "publisher": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/ugg-aime-leon-dore-slipper-release-date-method-man-redman-1239408182/",
+    "image_url": null,
+    "published_at": "2026-11-10T14:00:00.000Z"
+  },
+  {
+    "headline": "Andrew Scott On the Real-Life Story Behind His Heartbreaking Performance in Elsinore",
+    "summary": "Is this Oscar preordainment?",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/andrew-scott-ian-charleson-elsinore-interview",
+    "image_url": null,
+    "published_at": "2026-11-10T13:00:00.000Z"
+  },
+  {
+    "headline": "The Vogue Business AI Tracker",
+    "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+    "image_url": null,
+    "published_at": "2026-11-10T11:00:00.000Z"
+  },
+  {
+    "headline": "Lara Saget’s Sculptures Mine the Ancient, Alchemical, and Divine",
+    "summary": "The practice of seeing the sublime in nature is at the heart of Saget’s practice—and something she mines in her first New York City solo exhibition, “and the world came apart,” which opened at Trotter&Sholer on November 7.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/lara-saget-and-the-world-came-apart",
+    "image_url": null,
+    "published_at": "2026-11-10T11:00:00.000Z"
+  },
+  {
+    "headline": "22 Best Airbnbs in Upstate New York for a Weekend Away from the City 2026",
+    "summary": "Looking for the best Airbnb in upstate New York? Here, 22 Vogue favorites, from Catskills cabins to a Woodstock artist’s studio.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/best-airbnbs-upstate-new-york",
+    "image_url": null,
+    "published_at": "2026-11-10T11:00:00.000Z"
+  },
+  {
+    "headline": "How To Crack Resale’s AI Algorithms",
+    "summary": "AI-powered search, feeds and shopping agents are reshaping resale discovery, putting pre-owned luxury in competition with new collections. Here’s how shoppers and sellers can make the new algorithms work for them — and what’s at stake for brands.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-to-crack-resales-ai-algorithms",
+    "image_url": null,
+    "published_at": "2026-11-10T10:30:00.000Z"
+  },
+  {
+    "headline": "How Lafayette 148 Became New York’s Newest Heritage Brand",
+    "summary": "Lafayette 148’s commitment to quality materials and vertically integrated supply chain have made it a success story in a notoriously difficult market. Now, the challenge is maintaining that while expanding across the US.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-lafayette-148-became-new-yorks-newest-heritage-brand",
+    "image_url": null,
+    "published_at": "2026-11-10T05:30:00.000Z"
+  },
+  {
+    "headline": "How Creative Director Hype Is Lifting Resale",
+    "summary": "Ebay’s latest Watchlist reveals ever-increasing interest in used luxury goods, especially driven by new creative director appointments. Prices are going up in step.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/how-creative-director-hype-is-lifting-resale",
+    "image_url": null,
+    "published_at": "2026-11-10T05:30:00.000Z"
+  },
+  {
     "headline": "Siena Agudong Is Feeling Through What It Means to Be Truly Kind",
     "summary": "The \"Sidelined\" actress on her new role as Sue Snell in the Amazon series adaptation of Stephen King’s \"Carrie.\"",
     "publisher": "WWD",
@@ -190,6 +374,14 @@
     "url": "https://www.vogue.com/article/few-bags-have-had-the-staying-power-of-balenciagas-le-city-now-its-turning-25",
     "image_url": null,
     "published_at": "2026-11-09T17:03:50.000Z"
+  },
+  {
+    "headline": "After a Devastating Fire, This South Australia Lodge Has Returned as One of the World’s Wildest, Most Wonderful Stays",
+    "summary": "Four years after the Black Summer bushfires reduced Kangaroo Island’s Southern Ocean Lodge to ash, the clifftop resort is back—with a clever architectural redesign, hyper-local dining, and front-row access to Australia’s most extraordinary wildlife.",
+    "publisher": "Vogue",
+    "url": "https://www.vogue.com/article/southern-ocean-lodge-kangaroo-island-hotel-australia",
+    "image_url": null,
+    "published_at": "2026-11-09T17:01:00.000Z"
   },
   {
     "headline": "Here’s Your First Look at the Broadway Cast of ‘Paddington: The Musical’",
@@ -1406,197 +1598,5 @@
     "url": "https://www.vogue.com/slideshow/new-york-public-library-lions-gala-2026",
     "image_url": null,
     "published_at": "2026-11-03T19:48:01.000Z"
-  },
-  {
-    "headline": "New Balance’s Newest Everyday Lifestyle Shoe Was Just Quietly Released in a Classic Color",
-    "summary": "The brand's new 983 sneaker gets a familiar gray suede makeover.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/new-balance-983-bayberry-concrete-gray-u9834l5-1239399076/",
-    "image_url": null,
-    "published_at": "2026-11-03T19:45:01.000Z"
-  },
-  {
-    "headline": "Van Cleef & Arpels Brings Its Perlée Universe to Las Vegas With First Americas Pop-up",
-    "summary": "The French jewelry house takes over Bar Centro at The Shops at Crystals with an immersive installation that connects nearly a century of design heritage with a contemporary approach to wearing fine jewelry.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/accessories-news/jewelry/van-cleef-arpels-perlee-las-vegas-first-americas-pop-up-1239399122/",
-    "image_url": null,
-    "published_at": "2026-11-03T19:42:18.000Z"
-  },
-  {
-    "headline": "Lupita Nyong’o Brought 3 Dresses—and a Bag of Swedish Candy—to the 2026 CFDA Awards",
-    "summary": "“My off-duty style is relaxed, effortless, and comfortable, but always with a sense of personality. I love pieces that feel easy to wear but still allow me to express myself,” Nyong’o tells 'Vogue.'",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/lupita-nyongo-2026-cfda-awards-diary",
-    "image_url": null,
-    "published_at": "2026-11-03T19:04:13.000Z"
-  },
-  {
-    "headline": "The Best Winter Boots for Women, Tried and Tested by Vogue Editors",
-    "summary": "Vogue editors weigh in on the best winter boots for women, sharing their go-tos from Khaite, Loeffler Randall, and Le Monde Béryl—plus how to style them.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/best-winter-boots",
-    "image_url": null,
-    "published_at": "2026-11-03T18:42:32.000Z"
-  },
-  {
-    "headline": "Zoë Kravitz Goes “Coco Suede” for Fall",
-    "summary": "The new shade was inspired by an upcoming role, according to Kravitz’s colorist Rita Hazan.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/zoe-kravitz-goes-coco-suede-for-fall",
-    "image_url": null,
-    "published_at": "2026-11-03T18:31:26.000Z"
-  },
-  {
-    "headline": "C&A, Zalando Commit to Agricultural Waste Fiber",
-    "summary": "The retailers will develop styles with AltMat’s Altag fiber through a Fashion for Good initiative that pools brand demand.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/sourcing-journal/industry-news/ca-zalando-altmat-altag-fiber-club-agricultural-waste-1239398298/",
-    "image_url": null,
-    "published_at": "2026-11-03T17:51:25.000Z"
-  },
-  {
-    "headline": "Danish Footwear Maker Ecco Shuts Portugal, Vietnam Factories in Restructuring Move",
-    "summary": "Danish shoemaker Ecco is shutting down its factory operations in Portugal and Vietnam in a global restructuring initiative to cut costs that will impact 2,400 jobs.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/ecco-shutting-down-factory-portugal-vietnam-restructuring-1239398070/",
-    "image_url": null,
-    "published_at": "2026-11-03T17:29:49.000Z"
-  },
-  {
-    "headline": "Mariah Carey Gets Serenaded in Style at Gucci’s Holiday Campaign Celebration",
-    "summary": "The brand hosted close friends and clients at its Fifth Avenue flagship on Monday night just hours after releasing its new 2026 holiday campaign starring the Grammy-winning artist.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/mariah-carey-gucci-holiday-party-1239398036/",
-    "image_url": null,
-    "published_at": "2026-11-03T17:24:56.000Z"
-  },
-  {
-    "headline": "PinkPantheress Channeled a High-Fashion Present at the 2026 CFDA Awards",
-    "summary": "In gold lamé and a big black bow, the singer wore custom Coach that felt perfectly in line with the holiday season.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/pinkpantheress-2026-cfda-awards-coach",
-    "image_url": null,
-    "published_at": "2026-11-03T17:14:07.000Z"
-  },
-  {
-    "headline": "Emma Chamberlain Shares Her “Objects of Affection”",
-    "summary": "From her most-worn bags to her favorite art pieces, a new Vogue video explores Chamberlain’s most prized possessions.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/emma-chamberlain-objects-of-affection-11-02-2026",
-    "image_url": null,
-    "published_at": "2026-11-03T17:00:00.000Z"
-  },
-  {
-    "headline": "Pamela Anderson Channels Old Hollywood Glam at the 2026 CFDA Awards",
-    "summary": "The \"Last Showgirl\" star stayed true to her minimal makeup, pairing the look with a bombshell updo.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/pamela-anderson-old-hollywood-glam-2026-cfda-awards-1239398185/",
-    "image_url": null,
-    "published_at": "2026-11-03T16:47:16.000Z"
-  },
-  {
-    "headline": "Abercrombie Creates Capsule With Cowboys’ CeeDee Lamb",
-    "summary": "The retailer, which is the official fashion partner of the NFL, worked with the athlete to create a 19-piece collection for holiday.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/abercrombie-fitch-capsule-dallas-cowboys-ceedee-lamb-1239398291/",
-    "image_url": null,
-    "published_at": "2026-11-03T16:34:56.000Z"
-  },
-  {
-    "headline": "Nike’s Classic Air Max Sneaker Is Getting a New Premium Remastering and It Comes Out Soon",
-    "summary": "The Air Max 90 SP will be released this month in Medium Olive/Sequoia.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-90-sp-medium-olive-sequoia-release-date-iv4504-201-1239398599/",
-    "image_url": null,
-    "published_at": "2026-11-03T16:33:58.000Z"
-  },
-  {
-    "headline": "Teyana Taylor, Naomi Watts and More Brought Luxe Looks to the ‘All’s Fair’ Season Two New York City Premiere",
-    "summary": "Kim Kardashian, among other cast members, attended Monday night's event.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/teyana-taylor-alls-fair-season-two-nyc-premiere-celeb-style-1239398044/",
-    "image_url": null,
-    "published_at": "2026-11-03T16:08:48.000Z"
-  },
-  {
-    "headline": "Zoë Kravitz, Hailey Bieber and More Model Saint Laurent’s Newest Runway Heels at 2026 CFDA Awards",
-    "summary": "Saint Laurent ambassadors were on hand to support Anthony Vaccarello, who won an award at the event.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-trends/zoe-kravitz-hailey-bieber-saint-laurent-heels-cfda-awards-1239397925/",
-    "image_url": null,
-    "published_at": "2026-11-03T16:07:25.000Z"
-  },
-  {
-    "headline": "This Eccentric Village Pub Hotel on Loch Lomond Is Scotland’s Most Charming New Stay",
-    "summary": "With interiors by Russell Sage and tales of wallabies, witches, and speedboat-racing countesses woven through every room, the Loch Lomond Arms puts a new spin on the traditional Scottish coaching inn.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/loch-lomond-arms-hotel-scotland",
-    "image_url": null,
-    "published_at": "2026-11-03T16:04:23.000Z"
-  },
-  {
-    "headline": "Mariah Carey Answers Vogue’s Holiday Questions",
-    "summary": "The queen of Christmas offers her festive styling tips, hosting no-nos, and more.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/mariah-carey-holiday-questions-gucci-11-03-2026",
-    "image_url": null,
-    "published_at": "2026-11-03T15:56:55.000Z"
-  },
-  {
-    "headline": "Parker Posey Channels Fall’s Bold Color Energy in Chloé’s Folk-Inspired Style for the ‘Wild Horse Nine’ Screening",
-    "summary": "The actress' look was curated by stylist Leith Clark.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/pop-culture/celebrity-news/parker-posey-chloe-dress-wild-horse-nine-los-angeles-1239398292/",
-    "image_url": null,
-    "published_at": "2026-11-03T15:55:34.000Z"
-  },
-  {
-    "headline": "Chanel Sponsors Dia Art Foundation Annual Fall Gala",
-    "summary": "The nonprofit's charitable event honoring Roni Horn and Steve McQueen was the first to be supported by the French house after their partnership became official in May.",
-    "publisher": "WWD",
-    "url": "https://wwd.com/fashion-news/fashion-scoops/chanel-dia-2026-fall-gala-1239397926/",
-    "image_url": null,
-    "published_at": "2026-11-03T15:52:56.000Z"
-  },
-  {
-    "headline": "The ‘All’s Fair’ Season 2 Premiere Was a Mount Rushmore of Maximalism",
-    "summary": "While the ‘All’s Fair’ cast ran the gamut from sexy to avant-garde at the season 2 premiere last night, they all brought the drama—onscreen and off.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/alls-fair-season-2-new-york-premiere-kim-kardashian-2026-11-03",
-    "image_url": null,
-    "published_at": "2026-11-03T15:48:09.000Z"
-  },
-  {
-    "headline": "CFDA Awards 2026: See All the Fashion From the Red Carpet",
-    "summary": "A starry crowd gathered at New York’s American Museum of Natural History on Monday to toast the crème of American fashion at the 2026 CFDA Awards.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/slideshow/cfda-awards-2026-see-all-the-fashion-from-the-red-carpet",
-    "image_url": null,
-    "published_at": "2026-11-03T15:32:40.000Z"
-  },
-  {
-    "headline": "I Went on a Cowboy Road Trip Through the American West—and Finally Learned to Disconnect",
-    "summary": "Between dude ranches, a blown tire in Yellowstone, and an off-grid canyon camp, Olivia Singer recounts how a weeks-long Western escape—against all odds—helped reset her nervous system.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/cowboy-road-trip-montana-wyoming",
-    "image_url": null,
-    "published_at": "2026-11-03T15:00:00.000Z"
-  },
-  {
-    "headline": "Discover the Best Dresses for Every November Occasion",
-    "summary": "Explore the best dresses of the month, from slip dresses to practical everyday knit styles. Shop a wide selection of handpicked Vogue dresses.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/dresses",
-    "image_url": null,
-    "published_at": "2026-11-03T14:36:55.000Z"
-  },
-  {
-    "headline": "Inside Francesca Allen’s New Publication, Hair",
-    "summary": "From Lithuania to Las Vegas, Francesca Allen continues her photographic exploration of the cultural and personal significance of long hair.",
-    "publisher": "Vogue",
-    "url": "https://www.vogue.com/article/inside-francesca-allens-new-publication-hair",
-    "image_url": null,
-    "published_at": "2026-11-03T14:35:00.000Z"
   }
 ]

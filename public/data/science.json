@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Alzheimer’s may have early warning signs outside the brain",
+    "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+    "image_url": null,
+    "published_at": "2026-11-10T01:47:34.000Z"
+  },
+  {
+    "headline": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+    "summary": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+    "image_url": null,
+    "published_at": "2026-11-10T00:42:52.000Z"
+  },
+  {
+    "headline": "Scientists finally discover why we learn to love bitter coffee",
+    "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food prefere…",
+    "publisher": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+    "image_url": null,
+    "published_at": "2026-11-09T23:19:35.000Z"
+  },
+  {
     "headline": "Scientists think they've found ancient remnants of dinosaur blood",
     "summary": "Scientists have studied plenty of dinosaur bones, eggs and footprints. Now, some think they've found their strongest evidence yet of dinosaur blood.",
     "publisher": "NPR",
@@ -1574,29 +1598,5 @@
     "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
     "image_url": null,
     "published_at": "2026-10-23T11:02:25.000Z"
-  },
-  {
-    "headline": "MIT scientists build a tiny robot that swims using living muscle cells",
-    "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary machines cannot safely n…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
-    "image_url": null,
-    "published_at": "2026-10-23T10:33:56.000Z"
-  },
-  {
-    "headline": "A tiny defect in a crystal reveals a big quantum surprise",
-    "summary": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly important energy-loss mechanism in silicon carbide that scientists had previously underestimated. The fin…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
-    "image_url": null,
-    "published_at": "2026-10-23T10:22:55.000Z"
-  },
-  {
-    "headline": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
-    "summary": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may offer important benefits a…",
-    "publisher": "ScienceDaily",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
-    "image_url": null,
-    "published_at": "2026-10-23T10:10:11.000Z"
   }
 ]
